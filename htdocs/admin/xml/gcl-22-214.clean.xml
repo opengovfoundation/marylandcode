@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<law>
+  <structure>
+    <unit label="title" identifier="gcl" order_by="" level="1"/>
+    <unit label="chapter" identifier="22-214" order_by="" level="2"/>
+  </structure>
+  <section_number>gcl-22-214</section_number>
+  <catch_line/>
+  <text>
+    <section prefix="(a)">In this section, "electronic error" means an error in an electronic message created by a consumer using an information processing system if a reasonable method to detect and correct or avoid the error was not provided.</section>
+    <section prefix="(b)">In an automated transaction, a consumer is not bound by an electronic message that the consumer did not intend and which was caused by an electronic error, if the consumer:<section prefix="(1)">Promptly on learning of the error:<section prefix="(A)">Notifies the other party of the error; and</section><section prefix="(B)">Causes delivery to the other party or, pursuant to reasonable instructions received from the other party, delivers to another person or destroys all copies of the information; and</section></section><section prefix="(2)">Has not used, or received any benefit or value from, the information or caused the information or benefit to be made available to a third party.</section></section>
+    <section prefix="(c)">If subsection (b) of this section does not apply, the effect of an electronic error is determined by other law.</section>
+  </text>
+</law>

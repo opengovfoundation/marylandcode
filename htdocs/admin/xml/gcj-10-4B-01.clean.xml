@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<law>
+  <structure>
+    <unit label="title" identifier="gcj" order_by="" level="1"/>
+    <unit label="chapter" identifier="10-4B-01" order_by="" level="2"/>
+  </structure>
+  <section_number>gcj-10-4B-01</section_number>
+  <catch_line/>
+  <text>
+    <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
+    <section prefix="(b)">"Court of competent jurisdiction" means any circuit court having jurisdiction over the crime being investigated regardless of the location of the instrument or process from which a wire or electronic communication is transmitted or received.</section>
+    <section prefix="(c)">
+      <section prefix="(1)">"Pen register" means a device or process that records and decodes dialing, routing, addressing, or signaling information transmitted by an instrument or facility from which a wire or electronic communication is transmitted.</section>
+      <section prefix="(2)">"Pen register" does not include any device or process used:<section prefix="(i)">By a provider or customer of a wire or electronic communication service for billing, or recording as an incident to billing, for communications services provided by the provider or any device used by a provider or customer of a wire communication service for cost accounting or other similar purposes in the ordinary course of its business; or</section><section prefix="(ii)">To obtain the content of a communication.</section></section>
+    </section>
+    <section prefix="(d)">
+      <section prefix="(1)">"Trap and trace device" means a device or process that captures the incoming electronic or other impulses that identify the originating number or other dialing, routing, addressing, and signaling information reasonably likely to identify the source of a wire or electronic communication.</section>
+      <section prefix="(2)">"Trap and trace device" does not include a device or process used to obtain the content of a communication.</section>
+    </section>
+    <section prefix="(e)">"Wire communication", "electronic communication", and "electronic communication service" have the meanings stated in &#xA7; 10-401 of this title.</section>
+  </text>
+</law>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<law>
+  <structure>
+    <unit label="title" identifier="ged" order_by="" level="1"/>
+    <unit label="chapter" identifier="24-701" order_by="" level="2"/>
+  </structure>
+  <section_number>ged-24-701</section_number>
+  <catch_line/>
+  <text>
+    <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
+    <section prefix="(b)">"Center" means the Maryland Longitudinal Data System Center.</section>
+    <section prefix="(c)">"De-identified data" means a data set in which parent and student identity information, including the State Assigned Student Identifier and student Social Security number, has been removed.</section>
+    <section prefix="(d)">"Governing Board" means the Governing Board of the Maryland Longitudinal Data System Center.</section>
+    <section prefix="(e)">"State Assigned Student Identifier" or "SASID" means the identifier assigned to each student by:<section prefix="(1)">A local education agency based on the identifier system developed by the State Department of Education; or</section><section prefix="(2)">An institution of higher education, if the student has not been assigned an identifier by a local education agency.</section></section>
+    <section prefix="(f)">
+      <section prefix="(1)">"Student data" means data relating to student performance.</section>
+      <section prefix="(2)">"Student data" includes:<section prefix="(i)">State and national assessments;</section><section prefix="(ii)">Course-taking and completion;</section><section prefix="(iii)">Grade point average;</section><section prefix="(iv)">Remediation;</section><section prefix="(v)">Retention;</section><section prefix="(vi)">Degree, diploma, or credential attainment;</section><section prefix="(vii)">Enrollment; and</section><section prefix="(viii)">Demographic data.</section></section>
+      <section prefix="(3)">"Student data" does not include:<section prefix="(i)">Juvenile delinquency records;</section><section prefix="(ii)">Criminal and CINA records;</section><section prefix="(iii)">Medical and health records; and</section><section prefix="(iv)">Discipline records.</section></section>
+    </section>
+    <section prefix="(g)">"Workforce data" means data relating to:<section prefix="(1)">Employment status;</section><section prefix="(2)">Wage information;</section><section prefix="(3)">Geographic location of employment; and</section><section prefix="(4)">Employer information.</section></section>
+  </text>
+</law>

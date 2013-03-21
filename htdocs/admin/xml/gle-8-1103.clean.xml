@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<law>
+  <structure>
+    <unit label="title" identifier="gle" order_by="" level="1"/>
+    <unit label="chapter" identifier="8-1103" order_by="" level="2"/>
+  </structure>
+  <section_number>gle-8-1103</section_number>
+  <catch_line/>
+  <text>
+    <section prefix="(a)">An extended benefit period is a period that:<section prefix="(1)">begins with the 3rd week after the 1st week for which there is a State "on" indicator but not earlier than the 14th week after the end of another extended benefit period; and</section><section prefix="(2)">ends with the later of:<section prefix="(i)">the 3rd week after the 1st week for which there is a State "off" indicator; or</section><section prefix="(ii)">the 13th consecutive week of the period.</section></section></section>
+    <section prefix="(b)">
+      <section prefix="(1)">A State "on" indicator for a week exists whenever, for that week and the 12 immediately preceding weeks, the rate of insured unemployment, not seasonally adjusted, is at least:<section prefix="(i)">5%; and</section><section prefix="(ii)">120% of the average of the rates for the corresponding 13-week period ending in each of the 2 preceding calendar years.</section></section>
+      <section prefix="(2)">After a State "on" indicator occurs under this subsection, a State "off" indicator for a week exists whenever, for that week and the 12 immediately preceding weeks, the rate of insured unemployment, not seasonally adjusted, is less than:<section prefix="(i)">5%; or</section><section prefix="(ii)">120% of the average of the rates for the corresponding 13-week period ending in each of the 2 preceding calendar years.</section></section>
+    </section>
+    <section prefix="(c)">
+      <section prefix="(1)">A State "on" indicator exists for a week whenever, for that week and the 12 immediately preceding weeks, the rate of insured unemployment, not seasonally adjusted, is at least 6%.</section>
+      <section prefix="(2)">After a State "on" indicator occurs under this subsection, a State "off" indicator exists for a week whenever, for that week and the 12 immediately preceding weeks, the rate of insured unemployment, not seasonally adjusted, was less than 6%.</section>
+    </section>
+    <section prefix="(d)">A State "on" indicator under subsection (b) or (c) of this section takes precedence over a State "off" indicator under subsection (c) or (b) of this section, respectively.</section>
+    <section prefix="(e)">
+      <section prefix="(1)">To compute the rate of insured unemployment under subsections (b) and (c) of this section, the Secretary shall:<section prefix="(i)">determine the average weekly number of individuals submitting claims for regular benefits in the State for weeks of unemployment during the most recent 13 consecutive weeks based on reports of the Secretary to the United States Secretary of Labor; and</section><section prefix="(ii)">divide that number by the average monthly number of employees engaged in covered employment for the 1st 4 of the 6 completed calendar quarters ending immediately before the 13 weeks.</section></section>
+      <section prefix="(2)">The Secretary shall make each computation under this subsection in accordance with regulations of the United States Secretary of Labor.</section>
+    </section>
+    <section prefix="(f)">The Secretary shall make an appropriate public announcement whenever an "on" indicator exists that begins or an "off" indicator exists that ends an extended benefit period.</section>
+  </text>
+</law>

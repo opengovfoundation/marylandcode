@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<law>
+  <structure>
+    <unit label="title" identifier="gin" order_by="" level="1"/>
+    <unit label="chapter" identifier="16-507" order_by="" level="2"/>
+  </structure>
+  <section_number>gin-16-507</section_number>
+  <catch_line/>
+  <text>
+    <section prefix="(a)">This section applies only to annuity contracts that do not provide cash surrender benefits.</section>
+    <section prefix="(b)">The present value of a paid-up annuity benefit available as a nonforfeiture option before maturity may not be less than the sum of:<section prefix="(1)">the present value of that part of the maturity value of the paid-up annuity benefit under the annuity contract from considerations paid before the contract is surrendered for or changed to a deferred paid-up annuity; and</section><section prefix="(2)">any existing additional amount credited by the insurer to the contract.</section></section>
+    <section prefix="(c)">
+      <section prefix="(1)">The present value under subsection (b)(1) of this section shall be calculated for the period before the maturity date using an interest rate specified in the annuity for accumulating the net considerations to determine the maturity value.</section>
+      <section prefix="(2)">If the contract does not provide a death benefit before the start of annuity payments, the present value shall be calculated using the interest rate and mortality table specified in the contract for determining the maturity value of the paid-up annuity benefit.</section>
+    </section>
+    <section prefix="(d)">The present value of a paid-up annuity benefit may not be less than the minimum nonforfeiture amount at the time of surrender.</section>
+  </text>
+</law>

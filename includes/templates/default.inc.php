@@ -8,7 +8,7 @@
 <head>
 	<meta charset="utf-8"/>
 	<title>{{browser_title}}</title>
-	<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 	{{meta_tags}}
 	<link rel="stylesheet" href="/css/reset.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="/css/master.css" type="text/css" media="screen">
@@ -31,7 +31,7 @@
 	<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
 	<![endif]-->
 
-	<script src="https://www.google.com/jsapi?key=YOURKEY"></script>
+	<script src="https://www.google.com/jsapi"></script>
 	<script>
 		google.load("jquery", "1.4.3");
 		google.load("jqueryui", "1.8.11");

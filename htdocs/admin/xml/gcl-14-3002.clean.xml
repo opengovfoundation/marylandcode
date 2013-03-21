@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<law>
+  <structure>
+    <unit label="title" identifier="gcl" order_by="" level="1"/>
+    <unit label="chapter" identifier="14-3002" order_by="" level="2"/>
+  </structure>
+  <section_number>gcl-14-3002</section_number>
+  <catch_line/>
+  <text>
+    <section prefix="(a)">This section does not apply to an interactive computer service provider or a telecommunication utility to the extent that the interactive computer service provider or the telecommunication utility merely handles, retransmits, or carries a transmission of commercial electronic mail.</section>
+    <section prefix="(b)">A person may not initiate the transmission, conspire with another person to initiate the transmission, or assist in the transmission of commercial electronic mail that:<section prefix="(1)">Is from a computer in the State or is sent to an electronic mail address that the sender knows or should have known is held by a resident of the State; and</section><section prefix="(2)"><section prefix="(i)">Uses a third party's Internet domain name or electronic mail address without the permission of the third party;</section><section prefix="(ii)">Contains false or misleading information about the origin or the transmission path of the commercial electronic mail; or</section><section prefix="(iii)">Contains false or misleading information in the subject line that has the capacity, tendency, or effect of deceiving the recipient.</section></section></section>
+    <section prefix="(c)">A person is presumed to know that the intended recipient of commercial electronic mail is a resident of the State if the information is available on request from the registrant of the Internet domain name contained in the recipient's electronic mail address.</section>
+    <section prefix="(d)">An interactive computer service provider:<section prefix="(1)">May block the receipt or transmission through its interactive computer service of commercial electronic mail that it reasonably believes is or will be sent in apparent violation of this section; and</section><section prefix="(2)">May not be held liable for an action under item (1) of this subsection that is voluntarily taken in good faith.</section></section>
+  </text>
+</law>

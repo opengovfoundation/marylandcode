@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<law>
+  <structure>
+    <unit label="title" identifier="gcj" order_by="" level="1"/>
+    <unit label="chapter" identifier="10-4A-05" order_by="" level="2"/>
+  </structure>
+  <section_number>gcj-10-4A-05</section_number>
+  <catch_line/>
+  <text>
+    <section prefix="(a)">
+      <section prefix="(1)">A subpoena or court order issued under &#xA7; 10-4A-04 of this subtitle may include a requirement that the service provider to whom the request is directed create a backup copy of the contents of the electronic communications sought in order to preserve those communications. Without notifying the subscriber or customer of the subpoena or court order, the service provider shall create a backup copy as soon as practicable consistent with the provider's regular business practices and shall confirm to the governmental entity that the backup copy has been made. The service provider shall create a backup copy under this subsection within 24 hours after the day on which the service provider receives the subpoena or court order.</section>
+      <section prefix="(2)">Except as provided in &#xA7; 10-4A-06 of this subtitle, the investigative or law enforcement officer shall give notice to the subscriber or customer within 3 days after the day on which the governmental entity receives confirmation that a backup copy has been made under paragraph (1) of this subsection.</section>
+      <section prefix="(3)">The service provider may not destroy the backup copy until the later of:<section prefix="(i)">The delivery of the information; or</section><section prefix="(ii)">The resolution of any proceedings, including appeals of any proceedings, concerning a subpoena or court order issued under &#xA7; 10-4A-04 of this subtitle.</section></section>
+      <section prefix="(4)">The service provider shall release the backup copy to the requesting investigative or law enforcement officer no sooner than 14 days after the day on which the officer gives notice to the subscriber or customer, if the service provider:<section prefix="(i)">Has not received notice from the subscriber or customer that the subscriber or customer has challenged the officer's request; and</section><section prefix="(ii)">Has not initiated proceedings to challenge the officer's request.</section></section>
+      <section prefix="(5)">
+        <section prefix="(i)">An investigative or law enforcement officer may seek to require the creation of a backup copy under subsection (a)(1) of this section if, in the officer's sole discretion, the officer determines that there is reason to believe that notification to the subscriber or customer under &#xA7; 10-4A-04 of this subtitle of the existence of the subpoena or court order may result in destruction of or tampering with evidence.</section>
+        <section prefix="(ii)">A determination under subparagraph (i) of this paragraph is not subject to challenge by the subscriber or customer or service provider.</section>
+      </section>
+    </section>
+    <section prefix="(b)">
+      <section prefix="(1)">Within 14 days after a subscriber or customer receives notice from an investigative or law enforcement officer under subsection (a)(2) of this section, the subscriber or customer may file a motion to quash the subpoena or vacate the court order. The subscriber or customer shall serve a copy of the motion on the investigative or law enforcement officer and give written notice of the challenge to the service provider. A motion to vacate a court order shall be filed in the court that issued the order. A motion to quash a subpoena shall be filed in the appropriate court. A motion or application under this subsection shall contain an affidavit or sworn statement stating:<section prefix="(i)">That the applicant is a customer or subscriber to the service from which the contents of electronic communications maintained for the applicant have been sought; and</section><section prefix="(ii)">The applicant's reasons for believing that the records sought are not relevant to a legitimate law enforcement inquiry or that there has not been substantial compliance with the provisions of this chapter in some other respect.</section></section>
+      <section prefix="(2)">The applicant shall serve a copy of the motion or application on the investigative or law enforcement officer in accordance with the Maryland Rules.</section>
+      <section prefix="(3)">
+        <section prefix="(i)">If the court finds that the applicant has complied with paragraphs (1) and (2) of this subsection, the court shall order the investigative or law enforcement officer to file a sworn response, which may be filed in camera if the investigative or law enforcement officer includes in the response the reasons which make an in camera review appropriate.</section>
+        <section prefix="(ii)">If the court is unable to determine the motion or application on the basis of the parties' initial allegations and response, the court may conduct additional proceedings as it deems appropriate.</section>
+        <section prefix="(iii)">All such proceedings shall be completed and the motion or application decided as soon as practicable after the filing of the investigative or law enforcement officer's response.</section>
+      </section>
+      <section prefix="(4)">
+        <section prefix="(i)">If the court finds that the applicant is not the subscriber or customer for whom the communications sought by the investigative or law enforcement officer are maintained, or that there is a reason to believe that the law enforcement inquiry is legitimate and that the communications sought are relevant to that inquiry, the court shall deny the motion or application and order the subpoena or court order to be enforced.</section>
+        <section prefix="(ii)">If the court finds that the applicant is the subscriber or customer for whom the communications sought by the investigative or law enforcement officer are maintained, and that there is no reason to believe that the communications sought are relevant to a legitimate law enforcement inquiry, or that there has not been substantial compliance with the provisions of this subtitle, the court shall order the subpoena to be quashed or the court order to be vacated.</section>
+      </section>
+      <section prefix="(5)">A court order denying a motion or application under this subsection is not a final order and no interlocutory appeal may be taken by the customer.</section>
+    </section>
+  </text>
+</law>
