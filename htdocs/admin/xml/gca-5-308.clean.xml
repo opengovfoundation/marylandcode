@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-308" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">A religious corporation may amend its plan or charter as provided in this section.</section>
     <section prefix="(b)">A majority of the trustees of a religious corporation proposing to amend its plan or charter shall:<section prefix="(1)">Adopt a resolution which declares that the amendment is advisable; and</section><section prefix="(2)">Call a meeting of the adult members of the religious corporation to vote on the amendment.</section></section>

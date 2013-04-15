@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-108" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In calculating charges for water supply, wastewater purification, solid waste disposal, and energy projects, products, or services or in determining the costs to be levied against a municipality, person, or property in a service district established pursuant to this subtitle, the Service shall require that the charges reflect the full costs of providing the projects, products, or services.</section>

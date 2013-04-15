@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-915" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-915</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>915</order_by>
   <text>
     <section prefix="(a)">In any appeal of an order of the Division Director under this title or Title 8 of this article, the Division Director shall be considered a party and has the right to appeal any decision to the Court of Special Appeals or petition the Court of Appeals for a writ of certiorari.</section>
     <section prefix="(b)">Whether or not a hearing has been held on an order issued by the Division Director, the scope of judicial review of an appeal of an order of the Division Director shall be the same as provided in &#xA7; 10-215 of the State Government Article.</section>

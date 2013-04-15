@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-511" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(1)">Unless otherwise agreed tender of payment is a condition to the seller's duty to tender and complete any delivery.</section>
     <section prefix="(2)">Tender of payment is sufficient when made by any means or in any manner current in the ordinary course of business unless the seller demands payment in legal tender and gives any extension of time reasonably necessary to procure it.</section>

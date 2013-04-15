@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-117" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">If the vehicle information is changed from that set forth in its certificate of title, the owner of the vehicle immediately shall notify the Administration of the change on the form that the Administration requires.</section>
     <section prefix="(b)">If the vehicle information is changed from that set forth in the certificate of title for the vehicle, the owner of the vehicle immediately shall apply for a corrected certificate of title on the form that the Administration requires and pay any required fee.</section>

@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-403" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-25-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (h) of this section, an individual who is receiving a service retirement allowance or vested allowance may accept employment with a participating employer on a permanent, temporary, or contractual basis, if the individual immediately notifies the Board of Trustees:<section prefix="(1)">of the individual's intention to accept the employment; and</section><section prefix="(2)">of the compensation that the individual will receive.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">The Board of Trustees shall reduce the allowance of an individual who accepts employment as provided under subsection (a) of this section if:<section prefix="(i)">the individual's current employer is a participating employer other than the State and is the same participating employer that employed the individual at the time of the individual's last separation from employment with a participating employer before the individual commenced receiving a service retirement allowance or vested allowance; or</section><section prefix="(ii)">the individual's current employer is any unit of State government and the individual's employer at the time of the individual's last separation from employment with the State before the individual commenced receiving a service retirement allowance or vested allowance was also a unit of State government.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, the reduction under paragraph (1) of this subsection shall equal the amount by which the sum of the individual's initial annual basic allowance and the individual's annual compensation exceeds the average final compensation used to compute the basic allowance.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Any reduction taken to a retiree's allowance under this subsection may not exceed an amount that would reduce the retiree's allowance to less than what is required to be deducted for:</section>
+          <section prefix="2.">If a reduction for a calendar year taken under subsubparagraph 1 of this subparagraph is less than the reduction required under subparagraph (i) of this paragraph, the Board of Trustees shall recover from the retiree an amount equal to the reduction required under subparagraph (i) of this paragraph less the reduction taken under subsubparagraph 1 of this subparagraph.</section>
+        </section>
       </section>
       <section prefix="(3)">The reduction under this subsection does not apply to:<section prefix="(i)">an individual who has been retired for 5 years, beginning on January 1, after the date the individual retires;</section><section prefix="(ii)">an individual whose average final compensation was less than $25,000 and who is reemployed on a permanent, temporary, or contractual basis;</section><section prefix="(iii)">an individual who is serving in an elected position as an official of a participating governmental unit or as a constitutional officer for a county that is a participating governmental unit; or</section><section prefix="(iv)">a retiree of the Correctional Officers' Retirement System who is reemployed on a contractual basis for not more than 4 years by the Division of Corrections, the Division of Pretrial Detention and Services, or the Patuxent Institution in the Department of Public Safety and Correctional Services as a correctional officer in a correctional facility defined in &#xA7; 1-101 of the Correctional Services Article.</section></section>
     </section>

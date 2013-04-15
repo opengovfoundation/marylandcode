@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-601" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Advance directive" means:<section prefix="(1)">A witnessed written or electronic document, voluntarily executed by the declarant in accordance with the requirements of this subtitle; or</section><section prefix="(2)">A witnessed oral statement, made by the declarant in accordance with the provisions of this subtitle.</section></section>

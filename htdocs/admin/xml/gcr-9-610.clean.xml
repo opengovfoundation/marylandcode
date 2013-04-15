@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-610" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-610</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>610</order_by>
   <text>
     <section prefix="(a)">In this section, "defective alarm system" means an alarm system that activates:<section prefix="(1)">more than three false alarms within a 30-day period; or</section><section prefix="(2)">eight or more false alarms within a 12-month period.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">A law enforcement unit or fire department that responds to false alarms from a defective alarm system shall provide written notice of the defective condition to the alarm user.</section>
-      <section prefix="(2)">The alarm user, within 30 days after receiving the notice, shall:<section prefix="(i)"/><section prefix="(ii)">within 15 days after the inspection, file with the law enforcement unit or fire department that issued the notice a written report that contains the:</section></section>
+      <section prefix="(2)">The alarm user, within 30 days after receiving the notice, shall:<section prefix="(i)"><section prefix="1.">if qualified, inspect the alarm system; or</section><section prefix="2.">have the alarm system inspected by an alarm system contractor; and</section></section><section prefix="(ii)">within 15 days after the inspection, file with the law enforcement unit or fire department that issued the notice a written report that contains the:<section prefix="1.">result of the inspection;</section><section prefix="2.">probable cause of the false alarms; and</section><section prefix="3.">recommendations or action taken to eliminate the false alarms.</section></section></section>
     </section>
     <section prefix="(c)">An alarm user may not use a defective alarm system after receiving a written notice under subsection (b) of this section.</section>
     <section prefix="(d)">A person who violates subsection (c) of this section is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 90 days or a fine not exceeding $500 or both.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-916" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-916</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>916</order_by>
   <text>
     <section prefix="(a)">When registered with the Administration, every single unit truck with two or more axles is a Class E (truck) vehicle.</section>
     <section prefix="(b)">For each Class E (truck) vehicle, the annual registration fee is based on the maximum gross weight of the vehicle or combination of vehicles, as follows:</section>

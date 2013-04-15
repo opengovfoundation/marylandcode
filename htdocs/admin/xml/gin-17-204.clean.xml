@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-204" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the requirements of this section, a policy may be issued to an association or to a trust or to the trustees of a fund established, created, or maintained for the benefit of members of one or more associations.</section>
-      <section prefix="(2)">The association or associations:<section prefix="(i)">shall have at the outset a minimum of 100 persons;</section><section prefix="(ii)">shall have been organized and maintained in good faith for purposes other than that of obtaining insurance;</section><section prefix="(iii)">shall have been in active existence for at least 2 years; and</section><section prefix="(iv)">shall have a constitution and bylaws that provide that:</section></section>
+      <section prefix="(2)">The association or associations:<section prefix="(i)">shall have at the outset a minimum of 100 persons;</section><section prefix="(ii)">shall have been organized and maintained in good faith for purposes other than that of obtaining insurance;</section><section prefix="(iii)">shall have been in active existence for at least 2 years; and</section><section prefix="(iv)">shall have a constitution and bylaws that provide that:<section prefix="1.">the association or associations hold regular meetings not less than annually to further purposes of the members;</section><section prefix="2.">except for credit unions, the association or associations collect dues or solicit contributions from members; and</section><section prefix="3.">the members have voting privileges and representation on the governing board and committees.</section></section></section>
     </section>
     <section prefix="(b)">The policy may insure members of the association or associations, employees of the association or associations, or employees of members, or one or more of the preceding or all of any class or classes of members or employees for the benefit of persons other than the employee's employer.</section>
     <section prefix="(c)">

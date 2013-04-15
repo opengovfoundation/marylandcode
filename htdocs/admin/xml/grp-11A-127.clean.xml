@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11A-127" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11A-127</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>127</order_by>
   <text>
     <section prefix="(a)">This title applies to all time-share projects in the State except to the extent of any inconsistent right or obligation under a preexisting project instrument, document transferring an interest in real estate, or contract.</section>
     <section prefix="(b)">The project instrument of any time-share project in existence before January 1, 1985, may be amended in accordance with this title. If an amendment grants to any person any rights, powers, or privileges permitted by this title, all correlative obligations, liabilities, and restrictions shall also apply to that person.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-309" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">This section applies to any inmate who is sentenced to a term of incarceration for which all sentences being served, including any life sentence, are with the possibility of parole.</section>
     <section prefix="(b)">An inmate who is so debilitated or incapacitated by a medical or mental health condition, disease, or syndrome as to be physically incapable of presenting a danger to society may be released on medical parole at any time during the term of that inmate's sentence, without regard to the eligibility standards specified in &#xA7; 7-301 of this subtitle.</section>

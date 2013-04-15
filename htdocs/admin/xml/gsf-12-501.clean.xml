@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-501" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-12-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Direct involvement in the deportation of victims" means ownership or operation of the trains on which individuals were transported to extermination camps, death camps, or any facility used to transition individuals to extermination camps or death camps, during the period beginning on September 1, 1939, and ending on September 2, 1945.</section>

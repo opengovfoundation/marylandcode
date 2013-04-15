@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">If an item is presented to and received by a payor bank, the bank is accountable for the amount of:<section prefix="(1)">A demand item, other than a documentary draft, whether properly payable or not, if the bank, in any case in which it is not also the depositary bank, retains the item beyond midnight of the banking day of receipt without settling for it or, whether or not it is also the depositary bank, does not pay or return the item or send notice of dishonor until after its midnight deadline; or</section><section prefix="(2)">Any other properly payable item unless, within the time allowed for acceptance or payment of that item, the bank either accepts or pays the item or returns it and accompanying documents.</section></section>
     <section prefix="(b)">The liability of a payor bank to pay an item pursuant to subsection (a) is subject to defenses based on breach of presentment warranty (&#xA7; 4-208) or proof that the person seeking enforcement of the liability presented or transferred the item for the purpose of defrauding the payor bank.</section>

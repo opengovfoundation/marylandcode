@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-307</section_number>
-  <catch_line/>
+  <catch_line>A sentence imposed under this subtitle may be separate from and consecutive to or concurrent with a ...</catch_line>
+  <order_by>307</order_by>
   <text>A sentence imposed under this subtitle may be separate from and consecutive to or concurrent with a sentence for any crime based on the act establishing the violation of this subtitle.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-1807" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-1807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1807</order_by>
   <text>
     <section prefix="(a)">In Baltimore County, the clerk may not issue a trader's license for the first time without the approval of the zoning commissioner.</section>
     <section prefix="(b)">In an area of Cecil County where the Cecil County Office of Planning and Zoning has jurisdiction, the clerk may not issue a trader's license for the first time until the applicant has obtained zoning approval from that office.</section>

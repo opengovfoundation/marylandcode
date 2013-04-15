@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-351" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-351</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>351</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) and (d) of this section, this subtitle does not affect the right of a hospital or related institution to employ or appoint staff.</section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
       <section prefix="(1)">A hospital or related institution that provides services of the type that licensed psychologists are permitted to perform under Title 18 of the Health Occupations Article shall include in its bylaws, rules, or regulations, provisions for use of facilities by and staff privileges for qualified psychologists.</section>
       <section prefix="(2)">The hospital or related institution may restrict use of facilities and staff privileges by psychologists to those psychologists who meet the qualifications that the hospital or related institution sets for granting those privileges.</section>
       <section prefix="(3)">
-        <section prefix="(i)">Nothing in this subsection shall be construed to require a hospital to:</section>
+        <section prefix="(i)">Nothing in this subsection shall be construed to require a hospital to:<section prefix="1.">Grant admitting privileges to a psychologist; or</section><section prefix="2.">Permit the exercise of those privileges granted by the hospital board of trustees to psychologists without appropriate collaboration with the physician who has privileges to admit and attend patients in the unit of the facility where the patient is being treated and who has ongoing responsibility for the patient.</section></section>
         <section prefix="(ii)">In the event of a disagreement between the psychologist and the physician concerning the patient's treatment, the decision of the physician who has ongoing responsibility for the patient shall govern.</section>
       </section>
     </section>

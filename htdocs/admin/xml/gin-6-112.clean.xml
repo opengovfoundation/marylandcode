@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-112" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-6-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">Except for a property tax, a county or municipal corporation of the State may not impose a tax on a person subject to taxation under this subtitle.</section>
     <section prefix="(b)">This section does not exempt shares of stock of a domestic corporation from the property tax and assessment merely because the shares are owned by a person subject to taxation under this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-745" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-745</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>745</order_by>
   <text>
     <section prefix="(a)">The proceedings in an appeal shall:<section prefix="(1)">be informal and summary; and</section><section prefix="(2)">provide each party a full opportunity to be heard.</section></section>
     <section prefix="(b)">In each court proceeding under this title:<section prefix="(1)">the decision of the Commission is presumed to be prima facie correct; and</section><section prefix="(2)">the party challenging the decision has the burden of proof.</section></section>

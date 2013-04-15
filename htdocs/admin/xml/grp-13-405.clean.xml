@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-405" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, the Commissioner shall hold a hearing under &#xA7; 13-406 of this subtitle to determine whether to issue a patent to the applicant.</section>
     <section prefix="(b)">

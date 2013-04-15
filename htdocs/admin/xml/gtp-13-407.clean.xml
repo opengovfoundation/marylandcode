@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-407" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-13-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless a greater rate of tax was imposed before July 1, 1979, a county may not impose county transfer tax on a transfer subject to the agricultural land transfer tax under Subtitle 3 of this title at a rate greater than the county rate applicable to the transfer of improved residential property in that county.</section>

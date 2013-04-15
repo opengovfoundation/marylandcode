@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-509" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-6-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds and declares that:<section prefix="(1)">an increasing number of adults in the State are unable, because of disability, to reside in the community without a supportive housing arrangement;</section><section prefix="(2)">many of these adults are therefore homeless, unnecessarily institutionalized, or residing in substandard housing; and</section><section prefix="(3)">current State-operated programs do not adequately address this problem.</section></section>
     <section prefix="(b)">It is the policy of the State to encourage the development of affordable housing for adults who are unable to avail themselves of existing housing because of disability.</section>

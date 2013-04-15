@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-1-201</section_number>
-  <catch_line/>
+  <catch_line>A person that engages in or transacts insurance business in the State, or performs an act relative t...</catch_line>
+  <order_by>201</order_by>
   <text>A person that engages in or transacts insurance business in the State, or performs an act relative to a subject of insurance resident, located, or to be performed in the State, shall comply with each applicable provision of this article.</text>
 </law>

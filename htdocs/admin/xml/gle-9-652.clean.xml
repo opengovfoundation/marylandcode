@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-652" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-652</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>652</order_by>
   <text>
     <section prefix="(a)">In a proceeding for compensation on the claim of a covered employee, an employer who is liable for the full extent of the occupational deafness of the covered employee may implead any other employer in whose employment the covered employee was exposed to harmful noise.</section>
     <section prefix="(b)">To implead another employer, the employer shall give to the impleaded employer and to the Commission notice on the form that the Commission requires.</section>

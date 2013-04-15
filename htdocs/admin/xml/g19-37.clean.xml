@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g19" order_by="" level="1"/>
-    <unit label="chapter" identifier="37" order_by="" level="2"/>
+    <unit label="article" identifier="g19" order_by="" level="1">Comptroller</unit>
   </structure>
   <section_number>g19-37</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>37</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, each county, municipal corporation, and taxing district in the State shall by the first day of November after the close of the fiscal year file with the Department of Legislative Services its financial report covering the full period of that fiscal year.</section>

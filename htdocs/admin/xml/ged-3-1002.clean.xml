@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1002" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-1002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1002</order_by>
   <text>
     <section prefix="(a)">In this subtitle, "elected member" means a member of the Prince George's County Board elected from one of the nine school board districts described in &#xA7; 3-1001 of this subtitle.</section>
     <section prefix="(b)">The Prince George's County Board consists of 10 members as follows:<section prefix="(1)">Nine elected members, each of whom resides in a different school board district; and</section><section prefix="(2)">One student member selected under subsection (f)(2) of this section.</section></section>
@@ -38,11 +38,29 @@
       <section prefix="(2)">The terms of the elected members are staggered as follows:<section prefix="(i)">The five elected members who received the lowest percentage of votes, as determined by the final vote count of the 2010 General Election as certified by the Board of Elections, shall serve for a term of 2 years; and</section><section prefix="(ii)">The other four members elected in the 2010 General Election shall serve for a term of 4 years.</section></section>
       <section prefix="(3)">The student member serves for a term of 1 year beginning at the end of a school year.</section>
       <section prefix="(4)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
-        <section prefix="(iv)"/>
-        <section prefix="(v)"/>
+        <section prefix="(i)">
+          <section prefix="1.">A seat on the county board held by an elected member that becomes vacant more than 180 days before the end of that member's term of office shall be filled for the remainder of the term at a special election.</section>
+          <section prefix="2.">A seat on the county board held by an elected member that becomes vacant 180 days or less before the end of that member's term of office shall remain vacant until a successor is elected and qualifies.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1."/>
+          <section prefix="2.">Subject to subparagraph (iii) of this paragraph, the County Council resolution shall specify:</section>
+          <section prefix="3.">No later than 7 days after the adoption of the County Council resolution, the Board of Elections shall publish the information contained in the resolution once in at least one newspaper of general circulation.</section>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">A candidate shall file a certificate of candidacy with the Board of Elections no later than 28 days before a special primary election in order to appear on the ballot.</section>
+          <section prefix="2.">The following provisions are subject to subsubparagraph 3 of this subparagraph:</section>
+          <section prefix="3.">A special election may not be held less than 30 days before a regularly scheduled election.</section>
+          <section prefix="4.">On the day of a special election, polling places shall be open from 7 a.m. to 8 p.m.</section>
+        </section>
+        <section prefix="(iv)">
+          <section prefix="1.">No later than 10 days before a special primary election and special general election, the Board of Elections shall mail a specimen ballot to the household of each registered voter in the school board district where the vacancy occurs.</section>
+          <section prefix="2.">The specimen ballot shall include the names of the candidates in the order and form in which they are to appear on the ballot, together with a statement, not to exceed 500 words, provided by each candidate.</section>
+        </section>
+        <section prefix="(v)">
+          <section prefix="1.">Prince George's County shall fund a special election held under this paragraph.</section>
+          <section prefix="2.">The Board of Elections shall submit a request for a supplemental budget appropriation to the Director of the Office of Management and Budget to cover the cost of a special election no later than 60 days after the election.</section>
+        </section>
         <section prefix="(vi)">A special election under this paragraph shall be governed by Title 8, Subtitle 8 of the Election Law Article and all other relevant provisions of law relating to the conduct of elections except as otherwise provided in this subtitle or where such construction would be unreasonable.</section>
       </section>
     </section>

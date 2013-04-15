@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-909" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-909</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>909</order_by>
   <text>
     <section prefix="(a)">In this section, "Fund" means the Natural Resources Property Maintenance Fund.</section>
     <section prefix="(b)">The Natural Resources Property Maintenance Fund is created within the Department to be used for the maintenance, repair, and management of property owned by the Department.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-203" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-203</section_number>
-  <catch_line/>
+  <catch_line>Whenever property not included in the original inventory comes to the knowledge of a personal repres...</catch_line>
+  <order_by>203</order_by>
   <text>Whenever property not included in the original inventory comes to the knowledge of a personal representative, or whenever the personal representative learns that the value indicated in the original inventory for an item is erroneous or misleading, he shall make a supplemental inventory or appraisal of the item showing the market value as of the date of the death of the decedent, or the revised market value, and the appraisals or other data relied upon and shall file it with the court.</text>
 </law>

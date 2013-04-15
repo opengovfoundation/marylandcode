@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-316" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-316</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>316</order_by>
   <text>
     <section prefix="(a)">With respect to a plan, an administrator, directly or indirectly:<section prefix="(1)">may not deal with the assets of the plan in the administrator's own interest or for the administrator's own account;</section><section prefix="(2)">in a transaction involving the plan, may not act in any capacity on behalf of or represent in any capacity a party whose interests are adverse to the interests of the plan or its participants or beneficiaries;</section><section prefix="(3)">other than commissions or service fees received from an insurer, may not receive consideration for the administrator's own personal account from a party dealing with the plan in connection with a transaction involving the assets of the plan; or</section><section prefix="(4)">may not knowingly participate in or attempt to conceal an act or omission of another administrator involved in the administration of that plan, knowing that the act or omission of the other administrator would be a violation of this subtitle.</section></section>
     <section prefix="(b)">An administrator may not procure the bond required by this subtitle from a surety insurer or other company or through an insurance producer in whose business operations the administrator has direct or indirect control or significant financial interest.</section>

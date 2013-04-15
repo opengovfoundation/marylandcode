@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-206" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-26-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">If a person fails to comply with a notice to appear in U.S. District Court contained in a traffic citation issued to him under federal traffic laws or regulations for a violation occurring in Maryland, the U.S. District Court may notify the Administration of the noncompliance.</section>
     <section prefix="(b)">On receipt of a notice of noncompliance from the U.S. District Court, and after giving the person 10 days' written notice, the Administration may suspend the driving privileges of the person.</section>

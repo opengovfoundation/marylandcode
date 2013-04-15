@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-208" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-17-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">The Secretary shall issue a license to any applicant who meets the standards and requirements of this subtitle and in regulations adopted pursuant to this subtitle.</section>
     <section prefix="(b)">A medical laboratory license shall include the name of the:<section prefix="(1)">Medical laboratory;</section><section prefix="(2)">Laboratory director; and</section><section prefix="(3)">Owner of the laboratory.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-304" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-11-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The Secretary shall execute and file proposed articles of incorporation of an authority with the State Department of Assessments and Taxation.</section>
     <section prefix="(b)">The proposed articles of incorporation shall state:<section prefix="(1)">the name of the authority;</section><section prefix="(2)">that the authority is formed under this subtitle;</section><section prefix="(3)">the names, addresses, and terms of office of the first members of the Board of the authority;</section><section prefix="(4)">the location of the principal office of the authority;</section><section prefix="(5)">the purposes for which the authority is formed; and</section><section prefix="(6)">the powers of the authority, subject to the restrictions or limitations on the powers of the authority under this subtitle.</section></section>

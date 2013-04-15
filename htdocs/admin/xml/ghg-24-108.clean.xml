@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-108" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">The Secretary of Health and Mental Hygiene or a representative of the Secretary of Health and Mental Hygiene may inspect the facilities of any permit holder.</section>
     <section prefix="(b)">On request, any permit holder or the Secretary of Health and Mental Hygiene shall make available to the State Secretary of Agriculture any record, specimen, or other material necessary to diagnose or trace any infectious disease that:<section prefix="(1)">Occurs in an exotic bird; and</section><section prefix="(2)">Is contagious to domestic animals or poultry.</section></section>

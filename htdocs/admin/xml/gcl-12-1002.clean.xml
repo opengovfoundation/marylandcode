@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1002" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1002</order_by>
   <text>
     <section prefix="(a)">Any credit grantor may, subject to the other provisions of this subtitle, offer and extend closed end credit to a borrower.</section>
     <section prefix="(b)">In connection with closed end credit offered and extended under this subtitle, a credit grantor may charge and collect the interest and other charges permitted by this subtitle and may take any security as collateral as may be acceptable to the credit grantor.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-507" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">A military force or an organization, unit, or detachment of a military force of another state that is in fresh pursuit of insurrectionists, saboteurs, or enemies may:<section prefix="(1)">continue pursuit into this State until the military or law enforcement force of this State or the forces of the United States have had a reasonable opportunity to pursue or apprehend the insurrectionists, saboteurs, or enemies; and</section><section prefix="(2)">arrest an insurrectionist, saboteur, or enemy apprehended in this State while in fresh pursuit.</section></section>
     <section prefix="(b)">A military force of another state that arrests an individual in this State shall surrender without unnecessary delay the individual to the military or law enforcement force of this State or the United States to be dealt with according to law.</section>

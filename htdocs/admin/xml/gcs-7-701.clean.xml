@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-701" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">If the Commission grants parole to an individual whom a court has ordered to make restitution as part of a sentence or as a condition of probation, the Commission shall require the individual to make restitution payments while on parole as a condition of parole.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a pardon, partial pardon, conditional pardon, commutation of sentence, or parole does not affect any judgment entered under Title 11, Subtitle 6 of the Criminal Procedure Article.</section>

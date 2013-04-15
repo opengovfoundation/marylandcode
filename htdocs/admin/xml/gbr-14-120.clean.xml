@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-120" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-120</section_number>
-  <catch_line/>
+  <catch_line>In connection with an offer to sell or sale of a business opportunity, a person may not make any unt...</catch_line>
+  <order_by>120</order_by>
   <text>In connection with an offer to sell or sale of a business opportunity, a person may not make any untrue statement of a material fact or omit to state a material fact necessary in order to make the statement made, in light of the circumstances under which it is made, not misleading.</text>
 </law>

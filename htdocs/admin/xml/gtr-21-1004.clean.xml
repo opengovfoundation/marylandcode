@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1004" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1004</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1004</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, a vehicle that is stopped or parked on a two-way roadway shall be stopped or parked parallel to the right hand curb or edge of the roadway, with its right hand wheels within 12 inches of that curb or edge of the roadway.</section>
     <section prefix="(b)">Except as otherwise provided by local ordinance, a vehicle that is stopped or parked on a one-way roadway shall be stopped or parked parallel to the curb or edge of the roadway, in the direction of authorized traffic movement, with:<section prefix="(1)">Its right hand wheels within 12 inches of the right hand curb or edge of the roadway; or</section><section prefix="(2)">Its left hand wheels within 12 inches of the left hand curb or edge of the roadway.</section></section>

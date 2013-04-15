@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">Activities conducted under this title are allowed notwithstanding the provisions of Title 12, Subtitles 1 and 2 of this article.</section>
     <section prefix="(b)">A county may not issue a commercial bingo license under this title or under any public local law to an entity that was not licensed to conduct commercial bingo on or before June 30, 2008.</section>

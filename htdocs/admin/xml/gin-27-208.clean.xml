@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-208" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person may not make or allow unfair discrimination between individuals of the same class and equal expectation of life in:<section prefix="(i)">the rates charged for a contract of life insurance or an annuity contract;</section><section prefix="(ii)">the dividends or other benefits payable on a contract of life insurance or an annuity contract; or</section><section prefix="(iii)">any of the other terms or conditions of a contract of life insurance or an annuity contract.</section></section>

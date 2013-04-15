@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-513" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-513</section_number>
-  <catch_line/>
+  <catch_line>In addition to any other penalty provided by the provisions of this title, any person convicted of v...</catch_line>
+  <order_by>513</order_by>
   <text>In addition to any other penalty provided by the provisions of this title, any person convicted of violating any provision of this subtitle shall be fined $5 for each wild bird or wild quadruped or any part of them mounted or possessed for mounting.</text>
 </law>

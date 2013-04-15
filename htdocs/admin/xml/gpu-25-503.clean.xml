@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-503" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (c), (d), and (e) of this section, the Commission shall impose a sewer usage charge, based on the water consumption of each property, against all properties connected to the Commission's sewer system to provide funds for:<section prefix="(1)">payment of principal and interest for bonds authorized under &#xA7; 22-102(a) and (b) of this article;</section><section prefix="(2)">maintenance of the sewer system and disposal facilities, including the overhead expense and depreciation allowance; and</section><section prefix="(3)">payments to the District of Columbia for disposal of sanitary district sewage.</section></section>
     <section prefix="(b)">
@@ -25,7 +25,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">A commercial, industrial, or multiresidential property may use a separate metered connection as provided in subsection (d) of this section, even though a portion of the separately metered water enters the sewer system of the Commission, provided that the owner, tenant, or occupant of the property requests to be billed according to a formula determined by the Commission.</section>
-      <section prefix="(2)">The formula determined by the Commission under paragraph (1) of this subsection shall:<section prefix="(i)">credit the owner, tenant, or occupant for separately metered water not entering the sewer system of the Commission; and</section><section prefix="(ii)">be consistent with:</section></section>
+      <section prefix="(2)">The formula determined by the Commission under paragraph (1) of this subsection shall:<section prefix="(i)">credit the owner, tenant, or occupant for separately metered water not entering the sewer system of the Commission; and</section><section prefix="(ii)">be consistent with:<section prefix="1.">manufacturers' engineering standards for the class of equipment using the separately metered water supplied by the Commission; or</section><section prefix="2.">industry standards for the class of operations using the separately metered water supplied by the Commission.</section></section></section>
       <section prefix="(3)">The sewer usage charge for properties under paragraph (1) of this subsection shall be based on the sum of:<section prefix="(i)">the total amount of water used as determined under &#xA7; 25-502(a) and (b) of this subtitle, less the amount of separately metered water; and</section><section prefix="(ii)">the amount of separately metered water as adjusted by the formula described in paragraph (2) of this subsection.</section></section>
     </section>
     <section prefix="(f)">This section may not be construed to invalidate an existing contract between the Commission and a municipality located in the sanitary district without the consent of the municipality.</section>

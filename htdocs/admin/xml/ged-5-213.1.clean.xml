@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-213.1" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-213.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213.1</order_by>
   <text>
     <section prefix="(a)">If the Superintendent finds that a county is not complying with the local share of the foundation floor required under &#xA7; 5-202(d)(1)(i) of this subtitle, the Superintendent shall notify the county of such noncompliance.</section>
     <section prefix="(b)">If a county disputes the finding within 15 days of the issuance of a notice under subsection (a) of this section, the dispute shall be referred promptly to the State Board, which shall make a final determination.</section>

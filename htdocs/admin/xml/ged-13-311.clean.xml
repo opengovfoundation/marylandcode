@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-311" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-13-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">The Medical System Corporation and its corporate existence shall continue until terminated in accordance with law; provided, however, that no such law or termination shall take effect so long as the Medical System Corporation shall have bonds, notes, or other obligations outstanding, unless adequate provision has been made for the payment thereof.</section>
     <section prefix="(b)">Upon termination of the existence of the Medical System Corporation, all its rights and properties shall pass to and be vested in the State, but subject in all cases to any mortgages, liens, or other encumbrances or any other rights or interests of creditors of the Medical System Corporation or other third parties.</section>

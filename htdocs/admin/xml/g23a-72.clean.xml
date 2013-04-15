@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g23a" order_by="" level="1"/>
-    <unit label="chapter" identifier="72" order_by="" level="2"/>
+    <unit label="article" identifier="g23a" order_by="" level="1">Corporations - Municipal</unit>
   </structure>
   <section_number>g23a-72</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>72</order_by>
   <text>
     <section prefix="(a)">The corporate trustee under a trust agreement may be a trust company or bank that has the powers of a trust company in or outside the State.</section>
     <section prefix="(b)">An expense incurred in carrying out the trust agreement or a resolution may be treated as part of the cost of the operation of a project.</section>

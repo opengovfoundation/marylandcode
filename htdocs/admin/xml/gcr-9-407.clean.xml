@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-407" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-407</section_number>
-  <catch_line/>
+  <catch_line>A sentence imposed for a violation of &#xA7; 9-404 or &#xA7; 9-405 of this subtitle:...</catch_line>
+  <order_by>407</order_by>
   <text>A sentence imposed for a violation of &#xA7; 9-404 or &#xA7; 9-405 of this subtitle:<section prefix=""><section prefix="(1)">shall be consecutive to any term of confinement being served or to be served at the time of the escape;</section><section prefix="(2)">may not be suspended; and</section><section prefix="(3)">may include the entry of a judgment for all reasonable expenses incurred in returning the person to the place of confinement if the person has received timely notice of and an opportunity to contest the accuracy of the expenses allegedly owed.</section></section></text>
 </law>

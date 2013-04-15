@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-203" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-2-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Commission consists of the following 17 members:<section prefix="(1)">As ex officio members, the seven regional members of the State Roads Commission; and</section><section prefix="(2)">Ten members appointed by the Governor with the advice of the Secretary.</section></section>
     <section prefix="(b)">An appointed member may not be an officer or employee of the Department. Each appointed member shall be a resident of this State and have interest and, preferably, experience in at least one of the fields under the jurisdiction of the Department.</section>

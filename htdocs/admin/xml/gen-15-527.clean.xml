@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-527" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-527</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>527</order_by>
   <text>
     <section prefix="(a)">An employee of the State of Maryland who performs any function or duty under this subtitle may not have a direct or indirect financial interest in any open-pit or deep mining operation. For purposes of this section, prohibited financial interests shall be determined in accordance with federal regulations adopted under the federal Surface Mining Control and Reclamation Act of 1977 (Public Law 95-87).</section>
     <section prefix="(b)">This section is intended to be read in conjunction with and to supplement the provisions of the Maryland Public Ethics Law, but in the event of any conflict, the requirements of this section shall prevail.</section>

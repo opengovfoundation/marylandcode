@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-12-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Apprentice natural gas fitter" means, unless the context requires otherwise, an individual who is licensed by the Board to assist a master natural gas fitter in providing natural gas services while:<section prefix="(1)">under the direction and control of the master natural gas fitter; and</section><section prefix="(2)">in training to become a journeyman natural gas fitter.</section></section>
@@ -34,7 +34,7 @@
       <section prefix="(2)">"Provide natural gas services" does not include the installation, maintenance, extension, alteration, or removal of any of the following with respect to the plumbing water supply and drainage system:<section prefix="(i)">fixtures that require additional energy sources, including clothes washers, dishwashers, food grinders, humidifiers, ice pumps, sterilizers, water coolers, and water heaters; and</section><section prefix="(ii)">operational devices, including aerators, backflow preventers, expansion tanks, filters, flow controls, heat exchangers, interceptors, meters, separators, and relief valves.</section></section>
     </section>
     <section prefix="(n)">
-      <section prefix="(1)">"Provide plumbing services" means to install, maintain, extend, alter, or remove piping, a plumbing fixture, a plumbing appliance, a plumbing appurtenance, or other plumbing apparatus:<section prefix="(i)">within or adjacent to a building, structure, or property; and</section><section prefix="(ii)">in connection with:</section></section>
+      <section prefix="(1)">"Provide plumbing services" means to install, maintain, extend, alter, or remove piping, a plumbing fixture, a plumbing appliance, a plumbing appurtenance, or other plumbing apparatus:<section prefix="(i)">within or adjacent to a building, structure, or property; and</section><section prefix="(ii)">in connection with:<section prefix="1.">a public or private disposal system, sanitary drainage facility, or storm drainage facility;</section><section prefix="2.">a venting system; or</section><section prefix="3.">a public or private water supply system.</section></section></section>
       <section prefix="(2)">"Provide plumbing services" includes installing, repairing, servicing, and replacing gas piping, gas utilization equipment, and associated accessories.</section>
       <section prefix="(3)">Except for the first connection to a potable water supply that is downstream of a backflow preventer and the final connection that discharges indirectly into a public or private disposal system, sanitary drainage facility, or storm drainage facility, "providing plumbing services" does not include using piping, equipment, or material only for:<section prefix="(i)">environmental control;</section><section prefix="(ii)">the incorporation of a liquid or gas into a product or into a process, including product development, in the manufacture or storage of a product;</section><section prefix="(iii)">the installation, alteration, repair, or removal of an automatic sprinkler system, related apparatus, or standpipe that is used only for fire protection; or</section><section prefix="(iv)">an overhead or underground fire line beginning from where water is used only for fire protection.</section></section>
     </section>

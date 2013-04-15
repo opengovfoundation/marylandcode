@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-118" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-118</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>118</order_by>
   <text>
     <section prefix="(a)">Only a qualified person may be appointed a proxy to vote stock of a professional corporation.</section>
     <section prefix="(b)">A voting trust with respect to stock of a professional corporation is not valid unless all of the trustees of the trust are stockholders of the professional corporation.</section>

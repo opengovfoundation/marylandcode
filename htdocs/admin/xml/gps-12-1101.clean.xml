@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1101" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-1101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Carbon monoxide alarm" means a device that:<section prefix="(1)">senses carbon monoxide;</section><section prefix="(2)">when sensing carbon monoxide, is capable of emitting a distinct and audible sound;</section><section prefix="(3)">is listed and carries the listing of a nationally recognized testing laboratory approved by  the Office of the State Fire Marshal; and</section><section prefix="(4)">is wired into an alternating current (AC) powerline with secondary battery backup.</section></section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-803" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-13-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Council consists of the members described in this subsection.</section>
-      <section prefix="(2)">The voting members of the Council are:<section prefix="(i)">from Somerset County, the five commissioners;</section><section prefix="(ii)">from Wicomico County:</section><section prefix="(iii)">from Worcester County, five commissioners, appointed by the Board of County Commissioners;</section><section prefix="(iv)">three municipal elected officials, one from each county, appointed by:</section><section prefix="(v)">if the majority of the member's legislative district is in the region, each member of the General Assembly representing the region.</section></section>
+      <section prefix="(2)">The voting members of the Council are:<section prefix="(i)">from Somerset County, the five commissioners;</section><section prefix="(ii)">from Wicomico County:<section prefix="1.">the county executive; and</section><section prefix="2.">four members of the county council, appointed by the county council;</section></section><section prefix="(iii)">from Worcester County, five commissioners, appointed by the Board of County Commissioners;</section><section prefix="(iv)">three municipal elected officials, one from each county, appointed by:<section prefix="1.">their respective municipal corporations; or</section><section prefix="2.">the Eastern Shore Municipal Association if the municipal corporations are unable to appoint a member within a reasonable time; and</section></section><section prefix="(v)">if the majority of the member's legislative district is in the region, each member of the General Assembly representing the region.</section></section>
       <section prefix="(3)">The nonvoting members of the Council are:<section prefix="(i)">each commissioner in the region who is not appointed under paragraph (2) of this subsection; and</section><section prefix="(ii)">each other member of the General Assembly representing the region if the majority of the member's legislative district is not in the region.</section></section>
       <section prefix="(4)">The bylaws of the Council may provide for additional members who are private individuals.</section>
     </section>

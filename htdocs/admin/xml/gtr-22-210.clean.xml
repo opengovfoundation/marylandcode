@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-210" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Reflectors required by &#xA7; 22-208 of this subtitle shall be mounted at a height of not more than 60 inches nor less than 15 inches above the ground on which the vehicle stands. However, if the highest part of the permanent structure of the vehicle is less than 15 inches, the reflector at that point shall be mounted as high as that part of the permanent structure will permit.</section>
     <section prefix="(b)">The rear reflectors on a pole trailer may be mounted on each side of the bolster or load.</section>

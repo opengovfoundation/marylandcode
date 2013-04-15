@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-701" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Adult dependent" means an individual who is:<section prefix="(1)">at least 18 years old;</section><section prefix="(2)">an individual with long-term care needs; and</section><section prefix="(3)">the spouse, parent, stepparent, grandparent, child, stepchild, sibling, aunt, uncle, son-in-law, daughter-in-law, mother-in-law, or father-in-law of a family caregiver.</section></section>

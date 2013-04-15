@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-1203" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-1203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1203</order_by>
   <text>
     <section prefix="(a)">The Office may not require any competitive examination in determining student eligibility.</section>
     <section prefix="(b)">Each applicant for a private career school student grant shall:<section prefix="(1)">Be accepted for admission at an approved private career school;</section><section prefix="(2)">Be enrolled in a full-time program as determined by the Maryland Higher Education Commission;</section><section prefix="(3)">Be a resident of this State; and</section><section prefix="(4)">Demonstrate to the Office financial need.</section></section>

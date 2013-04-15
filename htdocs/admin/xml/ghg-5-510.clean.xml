@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-510" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-510</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>510</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the majority of individuals under &#xA7; 5-509(c) of this subtitle cannot agree on the arrangements, any individual specified in &#xA7; 5-509(c) of this subtitle or the practitioner who has custody of the body, or both, may file a petition in the circuit court for the county in which the decedent was domiciled at the time of death or the county in which the body is located requesting the court to decide the final disposition of the body.</section>

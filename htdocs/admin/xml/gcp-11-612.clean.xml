@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-612" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-612</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>612</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a District Court decides to terminate a probation before a judgment of restitution has been recorded and indexed as a money judgment, the court shall direct the Clerk of the Court:<section prefix="(i)">to record and index the judgment of restitution as a money judgment and forward a notice of lien to the circuit court of the county of entry of judgment before terminating the probation; and</section><section prefix="(ii)">to forward a written notice to the person or governmental unit to whom the restitution obligor was ordered to pay restitution.</section></section>

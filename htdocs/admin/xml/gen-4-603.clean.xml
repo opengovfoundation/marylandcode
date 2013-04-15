@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-603" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-603</section_number>
-  <catch_line/>
+  <catch_line>The Board of Public Works, upon the recommendation of the Secretary, may award a loan to an owner of...</catch_line>
+  <order_by>603</order_by>
   <text>The Board of Public Works, upon the recommendation of the Secretary, may award a loan to an owner of an underground storage tank to cover the following costs:<section prefix=""><section prefix="(1)">Tank upgrade or replacement costs necessary to meet the technical requirements of regulations adopted by the Environmental Protection Agency for underground storage tanks;</section><section prefix="(2)">Costs of site assessment after the upgrade or replacement is completed to determine eligibility for insurance, not to exceed $3,000; and</section><section prefix="(3)">Costs of any additional apparatus necessary to bring the underground storage tank system into compliance with other State and federal requirements.</section></section></text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-901" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-901</section_number>
-  <catch_line/>
+  <catch_line>The fees specified in this subtitle for the registration of a classified vehicle or for any intercha...</catch_line>
+  <order_by>901</order_by>
   <text>The fees specified in this subtitle for the registration of a classified vehicle or for any interchangeable registration shall be paid to the Administration:<section prefix=""><section prefix="(1)">Before issuance of the registration and any registration plates and registration cards; and</section><section prefix="(2)">Except as otherwise expressly provided, during each registration year before the issuance or renewal of the registration.</section></section></text>
 </law>

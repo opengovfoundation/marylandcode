@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-117" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-18-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">Whenever a long-term care benefit that is funded through a life insurance vehicle by the acceleration of the death benefit is in benefit payment status, the carrier shall provide a monthly report to the policyholder.</section>
     <section prefix="(b)">A report under this section shall include:<section prefix="(1)">any long-term care benefits paid out during the month;</section><section prefix="(2)">an explanation of any changes in the policy, including changes to death benefits or cash values, that result from the payment of long-term care benefits; and</section><section prefix="(3)">the amount of long-term care benefits that remain.</section></section>

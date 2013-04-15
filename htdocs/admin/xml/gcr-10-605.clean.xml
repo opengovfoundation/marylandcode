@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-605" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly attend a deliberately conducted dogfight as a spectator.</section>
     <section prefix="(b)">A person may not knowingly attend as a spectator a deliberately conducted event that uses a fowl, cock, or other bird to fight with another fowl, cock, or other bird.</section>

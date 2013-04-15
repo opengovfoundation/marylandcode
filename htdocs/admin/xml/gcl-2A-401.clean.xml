@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(1)">A lease contract imposes an obligation on each party that the other's expectation of receiving due performance will not be impaired.</section>
     <section prefix="(2)">If reasonable grounds for insecurity arise with respect to the performance of either party, the insecure party may demand in writing adequate assurance of due performance. Until the insecure party receives that assurance, if commercially reasonable, the insecure party may suspend any performance for which he (or she) has not already received the agreed return.</section>

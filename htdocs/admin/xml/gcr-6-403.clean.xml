@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">A person may not enter or cross over private property or board the boat or other marine vessel of another, after having been notified by the owner or the owner's agent not to do so, unless entering or crossing under a good faith claim of right or ownership.</section>
     <section prefix="(b)">A person may not remain on private property including the boat or other marine vessel of another, after having been notified by the owner or the owner's agent not to do so.</section>

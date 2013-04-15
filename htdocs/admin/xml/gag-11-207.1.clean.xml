@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-207.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-207.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207.1</order_by>
   <text>
     <section prefix="(a)">Unless it is approved by the Secretary, a person may not offer to sell or sell any commercial weight and measure in this State.</section>
     <section prefix="(b)">

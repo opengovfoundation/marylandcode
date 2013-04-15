@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-313" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">With respect to any loan, a lender may not:<section prefix="(1)">Directly or indirectly contract for, charge, or receive any interest, discount, fee, fine, commission, charge, brokerage, or other consideration in excess of that permitted by this subtitle;</section><section prefix="(2)">Divide into separate parts any contract made for the purpose or with the effect of obtaining charges in excess of those permitted by this subtitle; or</section><section prefix="(3)">Enforce a contract of surety or guarantee unless the loan contract with the borrower is executed also by the surety or guarantor.</section></section>
     <section prefix="(b)">If any amount in excess of the charges permitted by this subtitle is directly or indirectly contracted for, charged, or received by a licensee or a person who is exempt from licensing, and (1) if the excess charge was made willfully for the benefit of the lender, then the lender may not receive or retain any interest or compensation with respect to the loan; or (2) if the excess charge was not made willfully for the benefit of the lender, and if the lender does not correct the error before the borrower makes the next payment on the loan, then the lender is liable to the borrower for an amount equal to three times the excess amount, but the lender may continue to receive principal, interest, or compensation with respect to the loan.</section>

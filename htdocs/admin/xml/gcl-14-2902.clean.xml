@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2902" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2902</order_by>
   <text>
     <section prefix="(a)">For the purpose of purchasing, selling, or disposing of property or a service, a person may not advertise a statement containing a representation of fact that the person knows, or by the exercise of reasonable care should know, to be untrue, deceptive, or misleading.</section>
     <section prefix="(b)">A person may not offer for sale repossessed, reconditioned, rebuilt, or secondhand property, knowing the property to be repossessed, reconditioned, rebuilt, or secondhand, unless:<section prefix="(1)">The property is identified clearly as repossessed, reconditioned, rebuilt, or secondhand; or</section><section prefix="(2)">The circumstances of the sale make it clear to a reasonable purchaser that the property is repossessed, reconditioned, rebuilt, or secondhand.</section></section>

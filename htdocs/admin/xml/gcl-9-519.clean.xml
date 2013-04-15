@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-519" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-519</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>519</order_by>
   <text>
     <section prefix="(a)">For each record filed in a filing office, the filing office shall:<section prefix="(1)">Assign a unique number to the filed record;</section><section prefix="(2)">Create a record that bears the number assigned to the filed record and the date and time of filing;</section><section prefix="(3)">Maintain the filed record for public inspection; and</section><section prefix="(4)">Index the filed record in accordance with subsections (b), (c), and (d).</section></section>
     <section prefix="(b)">Except as otherwise provided in subsections (c) and (d), the filing office shall:<section prefix="(1)">Index an initial financing statement according to the name of the debtor and index all filed records relating to the initial financing statement in a manner that associates with one another an initial financing statement and all filed records relating to the initial financing statement; and</section><section prefix="(2)">Index a record that provides a name of a debtor which was not previously provided in the financing statement to which the record relates also according to the name that was not previously provided.</section></section>

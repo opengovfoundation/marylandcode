@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-905" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">A member of a partnership objecting to a merger of the partnership has the same rights with respect to the partner's interest in the partnership as a stockholder of a Maryland corporation who objects has with respect to the stockholder's stock under Title 3, Subtitle 2 of this article.</section>
     <section prefix="(b)">The procedures under Title 3, Subtitle 2 of this article shall be applicable to the extent practicable.</section>

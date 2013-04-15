@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-209" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (d) of this section, a receiving bank other than the beneficiary's bank accepts a payment order when it executes the order.</section>
     <section prefix="(b)">Subject to subsections (c) and (d) of this section, a beneficiary's bank accepts a payment order at the earliest of the following times:<section prefix="(1)">When the bank:<section prefix="(i)">Pays the beneficiary as stated in &#xA7; 4A-405(a) or (b) of this title; or</section><section prefix="(ii)">Notifies the beneficiary of receipt of the order or that the account of the beneficiary has been credited with respect to the order unless the notice indicates that the bank is rejecting the order or that funds with respect to the order may not be withdrawn or used until receipt of payment from the sender of the order;</section></section><section prefix="(2)">When the bank receives payment of the entire amount of the sender's order pursuant to &#xA7; 4A-403(a)(1) or (2); or</section><section prefix="(3)">The opening of the next funds-transfer business day of the bank following the payment date of the order if, at that time, the amount of the sender's order is fully covered by a withdrawable credit balance in an authorized account of the sender or the bank has otherwise received full payment from the sender, unless the order was rejected before that time or is rejected within:<section prefix="(i)">1 hour after that time; or</section><section prefix="(ii)">1 hour after the opening of the next business day of the sender following the payment date if that time is later. If notice of rejection is received by the sender after the payment date and the authorized account of the sender does not bear interest, the bank is obliged to pay interest to the sender on the amount of the order for the number of days elapsing after the payment date to the day the sender receives notice or learns that the order was not accepted, counting that day as an elapsed day. If the withdrawable credit balance during that period falls below the amount of the order, the amount of interest payable is reduced accordingly.</section></section></section>

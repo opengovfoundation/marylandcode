@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-302" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-302</section_number>
-  <catch_line/>
+  <catch_line>The taxes imposed under this subtitle shall be imposed on property assessed for the purpose of count...</catch_line>
+  <order_by>302</order_by>
   <text>The taxes imposed under this subtitle shall be imposed on property assessed for the purpose of county taxation.</text>
 </law>

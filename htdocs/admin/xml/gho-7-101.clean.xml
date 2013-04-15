@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-101" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-7-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Apprentice" means an individual licensed by the Board who assists a licensed mortician or funeral director in the practice of mortuary science or funeral direction, under direct supervision of a licensed mortician or funeral director.</section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">"Board" means the Maryland State Board of Morticians and Funeral Directors.</section>
     <section prefix="(e)">
       <section prefix="(1)">"Business of operating a crematory" means controlling or managing a crematory.</section>
-      <section prefix="(2)">"Business of operating a crematory" does not include:<section prefix="(i)">The practice of funeral direction or the practice of mortuary science; or</section><section prefix="(ii)"/></section>
+      <section prefix="(2)">"Business of operating a crematory" does not include:<section prefix="(i)">The practice of funeral direction or the practice of mortuary science; or</section><section prefix="(ii)"><section prefix="1.">Assistance in making decisions and filling out forms that are not directly related to cremation;</section><section prefix="2.">Obtaining vital statistics, signatures, and other information necessary to complete a death certificate;</section><section prefix="3.">Transportation of a body to the place of disposition; or</section><section prefix="4.">Any other services regarding the disposition of a body that are not directly related to cremation.</section></section></section>
     </section>
     <section prefix="(f)">
       <section prefix="(1)">"Corporation" means a mortuary science business whose articles of incorporation are in good standing with the Maryland State Department of Assessments and Taxation, or its successor, the initial business for which the license is issued must have been incorporated on or before June 1, 1945 and have "Incorporated", "Inc.", or "Corporation" in its name.</section>

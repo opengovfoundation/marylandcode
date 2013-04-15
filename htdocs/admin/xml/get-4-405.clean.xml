@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-405" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-4-405</section_number>
-  <catch_line/>
+  <catch_line>Unless a contrary intent is expressly indicated in the will, if securities are the subject of a spec...</catch_line>
+  <order_by>405</order_by>
   <text>Unless a contrary intent is expressly indicated in the will, if securities are the subject of a specific legacy and after the execution of the will other securities of the same or another entity are distributed to the testator because of his ownership of the original securities, whether as a result of a partial liquidation, stock dividend, stock split, merger, consolidation, reorganization, recapitalization, redemption, exchange, or other transaction, and if these securities are part of the estate of the testator at his death, the specific legacy includes the additional or substituted securities.</text>
 </law>

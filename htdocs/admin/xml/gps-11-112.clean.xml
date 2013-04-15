@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-112" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-11-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each manufacturer and each dealer shall keep, for all explosives shipped, purchased, or sold, a record that includes:<section prefix="(i)">the name and address of each consignee, buyer, or seller of the explosives;</section><section prefix="(ii)">the date of each shipment, purchase, or sale; and</section><section prefix="(iii)">the amount and description of the explosives.</section></section>

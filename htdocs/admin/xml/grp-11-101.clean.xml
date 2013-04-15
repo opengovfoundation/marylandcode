@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-101" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated unless otherwise apparent from context.</section>
     <section prefix="(b)">

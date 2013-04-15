@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Access" means to instruct, communicate with, store data in, retrieve or intercept data from, or otherwise use the resources of a computer program, computer system, or computer network.</section>
       <section prefix="(3)">
         <section prefix="(i)">"Aggregate amount" means a direct loss of property or services incurred by a victim.</section>
-        <section prefix="(ii)">"Aggregate amount" includes:</section>
+        <section prefix="(ii)">"Aggregate amount" includes:<section prefix="1.">the value of any money, property, or service lost, stolen, or rendered unrecoverable by the crime; or</section><section prefix="2.">any actual reasonable expenditure incurred by the victim to verify whether a computer program, computer, computer system, or computer network was altered, acquired, damaged, deleted, disrupted, or destroyed by access in violation of this section.</section></section>
       </section>
       <section prefix="(4)">
         <section prefix="(i)">"Computer" means an electronic, magnetic, optical, organic, or other data processing device or system that performs logical, arithmetic, memory, or storage functions.</section>
@@ -20,7 +20,7 @@
         <section prefix="(iii)">"Computer" does not include an automated typewriter, a typesetter, or a portable calculator.</section>
       </section>
       <section prefix="(5)">"Computer control language" means ordered statements that direct a computer to perform specific functions.</section>
-      <section prefix="(6)">"Computer database" means a representation of information, knowledge, facts, concepts, or instructions that:<section prefix="(i)">is intended for use in a computer, computer system, or computer network; and</section><section prefix="(ii)"/></section>
+      <section prefix="(6)">"Computer database" means a representation of information, knowledge, facts, concepts, or instructions that:<section prefix="(i)">is intended for use in a computer, computer system, or computer network; and</section><section prefix="(ii)"><section prefix="1.">is being prepared or has been prepared in a formalized manner; or</section><section prefix="2.">is being produced or has been produced by a computer, computer system, or computer network.</section></section></section>
       <section prefix="(7)">"Computer network" means the interconnection of one or more computers through:<section prefix="(i)">the use of a satellite, microwave, line, or other communication medium; and</section><section prefix="(ii)">terminals or a complex consisting of two or more interconnected computers regardless of whether the interconnection is continuously maintained.</section></section>
       <section prefix="(8)">"Computer program" means an ordered set of instructions or statements that may interact with related data and, when executed in a computer system, causes a computer to perform specified functions.</section>
       <section prefix="(9)">"Computer services" includes computer time, data processing, and storage functions.</section>

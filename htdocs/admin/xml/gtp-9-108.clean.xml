@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-108" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">The governing body of a county or municipal corporation shall grant a property tax credit under this section against the applicable county or municipal property tax imposed on vehicles valued as stock in business in an amount equal to:<section prefix="(1)">for the taxable year beginning July 1, 1990, 25% of the tax imposed on those vehicles; and</section><section prefix="(2)">for the taxable year beginning July 1, 1991 and each taxable year thereafter, 50% of the tax imposed on those vehicles.</section></section>
     <section prefix="(b)">In addition to any credit required under subsection (a) of this section, the governing body of a county or municipal corporation shall grant a property tax credit under this section against the applicable county or municipal property tax imposed on vehicles valued as stock in business in an amount equal to any increase in property tax resulting from an increase in the percent of assessment over the percent of assessment which was in effect for fiscal year 1989.</section>

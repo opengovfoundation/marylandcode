@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(1)">Except as otherwise provided in &#xA7; 2A-306, a creditor of a lessee takes subject to the lease contract.</section>
     <section prefix="(2)">Except as otherwise provided in subsection (3) of this section and in &#xA7;&#xA7; 2A-306 and 2A-308, a creditor of a lessor takes subject to the lease contract unless the creditor holds a lien that attached to the goods before the lease contract became enforceable.</section>

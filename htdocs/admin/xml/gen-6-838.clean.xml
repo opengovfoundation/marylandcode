@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-838" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-838</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>838</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In an action seeking damages for alleged injury or loss caused by the ingestion of lead by a person at risk in an affected property, evidence that the owner of the affected property was in compliance with the provisions of Part IV of this subtitle during the period of residency of the person at risk is admissible as evidence that the owner exercised reasonable care with respect to lead hazards during that period.</section>

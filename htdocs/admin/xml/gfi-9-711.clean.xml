@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-711" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-711</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>711</order_by>
   <text>
     <section prefix="(a)">The circuit court administering a conservatorship or receivership under this title has full power to approve and allow or to reject and disallow claims against the conservatorship or receivership estate.</section>
     <section prefix="(b)">In a receivership, the court administering the receivership may estimate for purposes of allowance:<section prefix="(1)">Any contingent, unliquidated, unmatured, or disputed claim, the fixing, liquidation, maturation, or settlement of the dispute of which would delay the administration of the receivership; or</section><section prefix="(2)">Any right to payment arising from a right to an equitable remedy for breach of performance.</section></section>

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g95" order_by="" level="1"/>
-    <unit label="chapter" identifier="22G" order_by="" level="2"/>
+    <unit label="article" identifier="g95" order_by="" level="1">Treasurer</unit>
   </structure>
   <section_number>g95-22G</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>22G</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">In this section the following words have the meanings indicated.</section>
-        <section prefix="(ii)">"Authorized participant" means:</section>
+        <section prefix="(ii)">"Authorized participant" means:<section prefix="1.">The governing body of each county or municipality;</section><section prefix="2.">A county board of education;</section><section prefix="3.">The governing body of each road, drainage, improvement, construction, or soil conservation district or commission in the State;</section><section prefix="4.">The Upper Potomac River Commission;</section><section prefix="5.">Any other political subdivision or body politic of the State;</section><section prefix="6.">A local government insurance pool formed under Title 19, Subtitle 6 of the Insurance Article; or</section><section prefix="7.">On approval of the Treasurer, a unit of State government or an entity created by the State if the funds of the unit or entity are not State money over which the Treasurer has investment authority.</section></section>
         <section prefix="(iii)">"Pool" means the Local Government Investment Pool.</section>
       </section>
       <section prefix="(2)">There is a Local Government Investment Pool.</section>

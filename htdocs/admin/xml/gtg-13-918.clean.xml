@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-918" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-918</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>918</order_by>
   <text>
     <section prefix="(a)">The Comptroller shall honor income tax refund interception requests in the following order:<section prefix="(1)">a refund interception request to collect an unpaid State, county, or municipal tax;</section><section prefix="(2)">a refund interception request under Title 10, Subtitle 1, Part II of the Family Law Article;</section><section prefix="(3)">a refund interception request for converted funds under &#xA7; 15-122.2 of the Health - General Article;</section><section prefix="(4)">a refund interception request under &#xA7; 3-304 of the State Finance and Procurement Article;</section><section prefix="(5)">any other refund interception request by the State, county, or other political subdivision of the State;</section><section prefix="(6)">a request for intercept made by a taxing official under Part IV of this subtitle; and</section><section prefix="(7)">a request for intercept made by a federal official under Part VI of this subtitle.</section></section>
     <section prefix="(b)">The Comptroller shall honor vendor payment interception requests in the same order of priority provided in subsection (a) of this section for honoring income tax refund interception requests.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-209" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">A person may not receive money, goods, services, or anything of value if the person knows or believes that the money, goods, services, or other thing of value was obtained in violation of &#xA7; 8-206 of this subtitle.</section>
     <section prefix="(b)">

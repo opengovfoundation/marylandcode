@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-504" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of the laws or regulations of this State, if the Commissioner approves, banking institutions may engage in any additional activity, service, or other practice in which, under federal law, national banking associations may engage.</section>
     <section prefix="(b)">The Commissioner may grant an approval under this section only if:<section prefix="(1)">The Commissioner determines that approval is:<section prefix="(i)">Reasonably required to protect the welfare of the general economy of this State and of banking institutions; or</section><section prefix="(ii)">Not detrimental to the public interest or to banking institutions; and</section></section><section prefix="(2)">The approval imposes the same conditions that federal law requires or permits as to national banking associations.</section></section>

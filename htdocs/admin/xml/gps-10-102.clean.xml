@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-102" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-10-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">This title does not apply to:<section prefix="(1)">the sale, possession, or use of fireworks to or by the federal government or a state or a political subdivision of a state;</section><section prefix="(2)">the sale, possession, or use of a combustible or explosive preparation to or by an industrial or commercial business for use as a signal or otherwise in the normal course of business;</section><section prefix="(3)">the possession or use of a fusee, railroad torpedo, rocket, Very signal cartridge, or other signal device that is essential to and is kept and used to promote safety in the operation of a motor vehicle, boat, railroad, or aircraft;</section><section prefix="(4)">the use of a flare, signal pistol, or other equipment if used as a signal in an athletic contest or for a similar purpose; or</section><section prefix="(5)">subject to the terms and conditions of a permit issued by the State Fire Marshal under subsection (b) of this section, the sale, possession, or use of an explosive device or preparation with a slow-burning fuse rope to or by a farmer for controlling destructive animals.</section></section>
     <section prefix="(b)">The State Fire Marshal or a State game warden as a representative of the State Fire Marshal may grant a nontransferable permit to a farmer to use an explosive device or preparation described under subsection (a)(5) of this section for controlling destructive animals.</section>

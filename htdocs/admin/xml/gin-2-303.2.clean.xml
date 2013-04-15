@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-303.2" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-303.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303.2</order_by>
   <text>
     <section prefix="(a)">The Administration shall prepare annually a comparison guide of medical professional liability insurance premiums.</section>
     <section prefix="(b)">The comparison guide shall:<section prefix="(1)">list each insurer authorized to provide medical professional liability insurance in the State;</section><section prefix="(2)">include, for each specialty and territory, the base premium charged by an insurer for physicians with policy limits of $1,000,000 and $3,000,000; and</section><section prefix="(3)">include the base premium charged by an insurer for a:<section prefix="(i)">hospital;</section><section prefix="(ii)">medical day care center;</section><section prefix="(iii)">hospice care program;</section><section prefix="(iv)">assisted living program; and</section><section prefix="(v)">freestanding ambulatory care facility as defined in &#xA7; 19-3B-01 of the Health - General Article.</section></section></section>

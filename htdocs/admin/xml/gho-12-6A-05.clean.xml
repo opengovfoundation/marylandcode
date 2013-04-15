@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-6A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-6A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">Subject to the regulations adopted under this subtitle, a licensed pharmacist may enter into a therapy management contract initiated by a licensed physician.</section>
     <section prefix="(b)">A licensed pharmacist may not employ or provide economic incentives to a licensed physician for the purpose of entering into a physician-pharmacist agreement or a therapy management contract.</section>

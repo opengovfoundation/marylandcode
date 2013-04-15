@@ -5,6 +5,8 @@
 	ini_set("log_errors", 1);
 	ini_set("error_log", "error.log");
 
+	/* Functions */
+
 	function charReplace($string){
 		$map = array(
 					'&numsp;' =>	' ',
@@ -31,7 +33,7 @@
 	}
 
 	function parseSec($legisSec, $level, &$parent){
-		$structure = array('section', 'subsection', 'paragraph', 'subparagraph');
+		$structure = array('section', 'subsection', 'paragraph', 'subparagraph', 'sub-subparagraph', 'sub-sub-paragraph');
 		
 		foreach($legisSec->$structure[$level] as $child){
 			if($child->text != null){
@@ -39,13 +41,41 @@
 			}else{
 				$newSec = $parent->addChild('section');
 			}
-			$newSec->addAttribute('prefix', $child->enum);
+			$newSec->addAttribute('prefix', htmlspecialchars($child->enum));
 			
 			if(isset($structure[$level + 1]) && $child->$structure[$level+1] != null){
 				parseSec($child, $level + 1, $newSec);
 			}
 			
 		}
+	}
+	
+	function parseTitles($filepath){
+		if(($handle = fopen($filepath, 'r')) !== FALSE){
+			$titles = array();
+
+			while(($row = fgetcsv($handle)) !== FALSE){
+				$titles[$row[0]] = $row[1];
+			}
+
+			fclose($handle);
+
+			return $titles;
+		}else{
+			throw new Exception("Couldn't open file name csv for reading.");
+		}
+	}
+	
+	/* End Functions */
+	
+	/* Start Execution */
+	$titles = array();
+	
+	try{
+		$titles = parseTitles('article-titles.csv');
+	}catch(Exception $e){
+		echo $e->getMessage();
+		exit;
 	}
 	
 
@@ -86,29 +116,43 @@
 			//Create structure element
 			$structure = $law->addChild('structure');
 			
-			//Title Unit Structure
-			$unit = $structure->addChild('unit');
-			$unit->addAttribute('label', 'title');
+			//Article Unit Structure
+			if(isset($titles[$infoArray[0]])){
+				$unit = $structure->addChild('unit', htmlspecialchars($titles[$infoArray[0]]));
+			}else{
+				throw new Exception("\n --Unable to get title for unit $infoArray[0] --\n");
+			}
+			
+			$unit->addAttribute('label', 'article');
 			$unit->addAttribute('identifier', $infoArray[0]);
 			$unit->addAttribute('order_by', '');
 			$unit->addAttribute('level', '1');
 			
-			//Chapter Unit Structure
-			$unit2 = $structure->addChild('unit');
-			$unit2->addAttribute('label', 'chapter');
-			$unit2->addAttribute('identifier', $infoArray[1]);
-			$unit2->addAttribute('order_by', '');
-			$unit2->addAttribute('level', '2');
+			
+			
 			
 			$section_number = $law->addChild('section_number', $infoArray[0] . '-' . $infoArray[1]);
 			$catch_line = $law->addChild('catch_line', '');
 			
+			$section_order = explode('-', $infoArray[1]);
+			$section_order = array_pop($section_order);
+			$order_by = $law->addChild('order_by', $section_order);
+			
 			if($section->text != null){
+				if($law->catch_line == ''){
+					$law->catch_line = substr($section->text, 0, 100) . "...";
+				}
 				$text = $law->addChild('text', $section->text);
 			}else{
 				$text = $law->addChild('text');
 			}
 			
+			// //Section Unit Structure
+			// 			$unit2 = $structure->addChild('unit', $law->catch_line);
+			// 			$unit2->addAttribute('label', 'section');
+			// 			$unit2->addAttribute('identifier', $infoArray[0] . '-' . $infoArray[1]);
+			// 			$unit2->addAttribute('order_by', '');
+			// 			$unit2->addAttribute('level', '2');
 			
 			parseSec($section, 1, $text);
 			

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-904" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">This section does not apply if only one Governor and Lieutenant Governor unit files a certificate of candidacy for the nomination of a political party for those offices in a primary election.</section>
     <section prefix="(b)">

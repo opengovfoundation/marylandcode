@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-203" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">A reciprocal insurer may be authorized to engage in the insurance business if the reciprocal insurer meets the requirements of this section and is otherwise in compliance with the applicable provisions of this article.</section>
     <section prefix="(b)">To write assessable policies, a reciprocal insurer must have surplus funds of not less than:<section prefix="(1)">$375,000 for one kind of insurance business; and</section><section prefix="(2)">$750,000 for two or more kinds of insurance business.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-212" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-212</section_number>
-  <catch_line/>
+  <catch_line>An unauthorized insurer or person that violates this subtitle is subject to a civil penalty of not l...</catch_line>
+  <order_by>212</order_by>
   <text>An unauthorized insurer or person that violates this subtitle is subject to a civil penalty of not less than $100 but not exceeding $50,000 for each violation.</text>
 </law>

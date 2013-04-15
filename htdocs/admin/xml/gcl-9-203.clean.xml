@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">A security interest attaches to collateral when it becomes enforceable against the debtor with respect to the collateral, unless an agreement expressly postpones the time of attachment.</section>
     <section prefix="(b)">Except as otherwise provided in subsections (c) through (i), a security interest is enforceable against the debtor and third parties with respect to the collateral only if:<section prefix="(1)">Value has been given;</section><section prefix="(2)">The debtor has rights in the collateral or the power to transfer rights in the collateral to a secured party; and</section><section prefix="(3)">One of the following conditions is met:<section prefix="(A)">The debtor has authenticated a security agreement that provides a description of the collateral and, if the security interest covers timber to be cut, a description of the land concerned;</section><section prefix="(B)">The collateral is not a certificated security and is in the possession of the secured party under &#xA7; 9-313 pursuant to the debtor's security agreement;</section><section prefix="(C)">The collateral is a certificated security in registered form and the security certificate has been delivered to the secured party under &#xA7; 8-301 of this article pursuant to the debtor's security agreement; or</section><section prefix="(D)">The collateral is deposit accounts, electronic chattel paper, investment property, letter-of-credit rights, or electronic documents, and the secured party has control under &#xA7; 7-106, &#xA7; 9-104, &#xA7; 9-105, &#xA7; 9-106, or &#xA7; 9-107 pursuant to the debtor's security agreement.</section></section></section>

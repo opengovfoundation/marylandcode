@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-504" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of this title, the driver of a vehicle shall exercise due care to avoid colliding with any pedestrian.</section>
     <section prefix="(b)">Notwithstanding any other provision of this title, the driver of a vehicle shall, if necessary, warn any pedestrian by sounding the horn of the vehicle.</section>

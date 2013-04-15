@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-202" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-4-202</section_number>
-  <catch_line/>
+  <catch_line>The Secretary shall:...</catch_line>
+  <order_by>202</order_by>
   <text>The Secretary shall:<section prefix=""><section prefix="(1)">classify skilled service positions, professional service positions, management service positions, and executive service positions;</section><section prefix="(2)">establish standards and general procedures to be used to classify positions in the skilled service, professional service, management service, and executive service; and</section><section prefix="(3)">provide advice and guidance on the use of those standards and procedures.</section></section></text>
 </law>

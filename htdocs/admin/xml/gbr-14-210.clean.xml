@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-210" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Whenever the Commissioner finds that a person has violated or is about to violate this subtitle or a regulation adopted or order passed under it, the Commissioner may order the person to cease and desist from the further offer to sell or sale of the franchise until the offer or sale complies with this subtitle.</section>

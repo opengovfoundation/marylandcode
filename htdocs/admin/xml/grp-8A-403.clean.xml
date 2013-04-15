@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8A-403" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8A-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">A park owner may charge the resident a reasonable service fee, based on an amount that the park owner directly incurs, for installing, placing on, or removing a mobile home from the site.</section>
     <section prefix="(b)">In each case where a fee has been charged by a park owner, a written description detailing the fee shall be provided by the park owner to the resident.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1004" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-1004</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1004</order_by>
   <text>
     <section prefix="(a)">Prior to service of process of the prisoner's civil action, the court shall review the prisoner's initial complaint and identify any cognizable claims.</section>
     <section prefix="(b)">After reviewing the prisoner's complaint, the court may dismiss the civil action, or any portion thereof, with or without prejudice, if it finds that the civil action:<section prefix="(1)">Is frivolous, malicious, or fails to state a claim for which relief can be granted;</section><section prefix="(2)">Seeks monetary damages from a defendant who is immune from such relief; or</section><section prefix="(3)">Is barred under &#xA7; 5-1003(a) of this subtitle.</section></section>

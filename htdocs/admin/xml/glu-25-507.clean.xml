@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-507" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-25-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in the agreement or extended by amendment under &#xA7; 25-509 of this subtitle, an agreement is void 15 years after execution by the parties.</section>
     <section prefix="(b)">Any extension to an agreement is subject to approval by the district council.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-105.1" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-3-105.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -18,7 +18,7 @@
       <section prefix="(5)">"Mortgage or deed of trust" means a mortgage, deed of trust, security agreement, or other lien secured by a borrower's principal dwelling.</section>
       <section prefix="(6)">
         <section prefix="(i)">"Responsible person" means a person other than the holder or the holder's designee who has undertaken responsibility for filing a release of a mortgage or deed of trust with the governmental agency charged with recording the release.</section>
-        <section prefix="(ii)">"Responsible person" includes:</section>
+        <section prefix="(ii)">"Responsible person" includes:<section prefix="1.">The person responsible for the disbursement of funds in connection with the grant of title to the property; and</section><section prefix="2.">An attorney or other person responsible for preparing the HUD-1 settlement statement required under the federal Real Estate Settlement Procedures Act.</section></section>
       </section>
     </section>
     <section prefix="(b)">

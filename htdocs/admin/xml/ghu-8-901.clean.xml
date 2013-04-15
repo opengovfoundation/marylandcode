@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-901" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-8-901</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "nonprofit organization" means:...</catch_line>
+  <order_by>901</order_by>
   <text>In this subtitle, "nonprofit organization" means:<section prefix=""><section prefix="(1)">a bona fide religious organization, no part of the earnings of which inures to the benefit of any individual or is used for any purpose other than the maintenance and operation of a residential child care program, the purchase of equipment to be used in a residential child care program, or the expansion of a residential child care program; or</section><section prefix="(2)">an organization:<section prefix="(i)">that is chartered as a nonprofit corporation and classified by the Internal Revenue Service as nonprofit; and</section><section prefix="(ii)">no part of the earnings of which inures to the benefit of any individual or is used for any purpose other than the maintenance and operation of a residential child care program, the purchase of equipment to be used in a residential child care program, or the expansion of a residential child care program.</section></section></section></text>
 </law>

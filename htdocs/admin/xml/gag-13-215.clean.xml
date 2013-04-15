@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-215" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-13-215</section_number>
-  <catch_line/>
+  <catch_line>The Attorney General may seek an injunction to prohibit a person who has engaged or is engaging in a...</catch_line>
+  <order_by>215</order_by>
   <text>The Attorney General may seek an injunction to prohibit a person who has engaged or is engaging in a violation of this subtitle from continuing or engaging in the violation.</text>
 </law>

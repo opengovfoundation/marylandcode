@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-906" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-906</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>906</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Whenever the position of Chief Boiler Inspector or deputy boiler inspector becomes vacant, the Secretary of Budget and Management as soon as practicable shall conduct a competitive examination in accordance with Title 7 of the State Personnel and Pensions Article.</section>

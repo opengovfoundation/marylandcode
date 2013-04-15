@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-504" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-7-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">A defendant who is unable to pay a fine ordered by a court may apply to the court for a reduction of the fine.</section>
     <section prefix="(b)">If a defendant fails or is unable to pay a fine as ordered by a court, the court may investigate the reasons for the failure or inability to pay the fine, including the defendant's financial and family situation and whether nonpayment of the fine is contumacious or is due to indigence.</section>

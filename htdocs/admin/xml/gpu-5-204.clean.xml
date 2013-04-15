@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-204" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-5-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">This section does not apply to:<section prefix="(1)">a municipal corporation, sanitary district, or other unit of government;</section><section prefix="(2)">an individual, for the construction of a water system or sewage disposal system for the individual's personal or private use; or</section><section prefix="(3)">a group of individuals for their joint personal or private use, unless the Commission finds that the joint use is for the purpose of generally serving a proposed new housing development.</section></section>
     <section prefix="(b)">Without the prior authorization of the Commission, a person may not construct a water system or sewage disposal system for public use.</section>

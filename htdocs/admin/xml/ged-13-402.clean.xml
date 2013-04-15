@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-402" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-13-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">The Department of Health and Mental Hygiene shall negotiate with the Medical System Corporation the transfer to the Medical System Corporation of the Montebello assets as a grant without consideration.</section>
     <section prefix="(b)">If the Board of Directors of the Medical System Corporation and the Board of Public Works, in their discretion, approve the transfer, on the transfer date the Board of Public Works, Department of Health and Mental Hygiene, and any other required State department, agency, or body shall take all legal action necessary to transfer, as a grant without consideration, the Montebello assets to the Medical System Corporation.</section>

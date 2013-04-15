@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-101" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-12-101</section_number>
-  <catch_line/>
+  <catch_line>All proceedings for the acquisition of private property for public use by condemnation are governed ...</catch_line>
+  <order_by>101</order_by>
   <text>All proceedings for the acquisition of private property for public use by condemnation are governed by the provisions of this title and of Title 12, Chapter 200 of the Maryland Rules. Nothing in this title prevents this State or any of its instrumentalities or political subdivisions, acting under statute or ordinance passed pursuant to Article III of the Maryland Constitution, from taking private property for public use immediately on making the required payment and giving any required security. In addition, this title does not prevent the State Roads Commission from using the procedures set forth in Title 8, Subtitle 3 of the Transportation Article, or prevent Baltimore City from using the procedure set forth in the Charter of Baltimore City and &#xA7;&#xA7; 21-12 through 21-22, inclusive, of the Public Local Laws of Baltimore City.</text>
 </law>

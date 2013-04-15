@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-203" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Bureau shall supervise the execution and enforcement of any law enacted for the health and safety of persons and protection and conservation of property within, about, or related to bituminous coal mines in the State. To this end, it shall adopt and enforce necessary rules and regulations after giving due notice.</section>
     <section prefix="(b)">The Bureau shall compile, publish, and distribute to interested persons, the mining laws and rules and regulations. The publication shall be made at reasonable times to keep the laws and rules and regulations current. The Bureau shall keep a record of any inspection or investigation and a copy of any official communication or record of work to be done. It shall preserve any report, statistics, and information received relating to the development of coal or other mining, or the enforcement of the provisions of this title.</section>

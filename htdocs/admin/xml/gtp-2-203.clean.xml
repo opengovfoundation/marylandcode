@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-203" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-2-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall continually review all real property assessments to provide a review of each assessment at least once in each 3-year cycle.</section>

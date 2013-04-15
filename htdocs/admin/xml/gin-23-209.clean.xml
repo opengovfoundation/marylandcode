@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-209" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">A registrant may surrender a registration by delivering to the Commissioner written notice of the surrender.</section>
     <section prefix="(b)">Surrender of a registration does not affect the registrant's civil or criminal liability for acts committed before the surrender.</section>

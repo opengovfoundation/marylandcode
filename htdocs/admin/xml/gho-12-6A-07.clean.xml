@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-6A-07" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-6A-07</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>07</order_by>
   <text>
     <section prefix="(a)">A therapy management contract shall apply only to conditions for which protocols have been agreed to by a licensed physician and a licensed pharmacist in accordance with the regulations adopted under this subtitle.</section>
     <section prefix="(b)">A therapy management contract shall terminate 1 year from the date of its signing, unless renewed by the licensed physician, licensed pharmacist, and patient.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-107" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-17-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">A sheriff, constable, or collector of taxes may not, while in office, purchase any debt or claim held by or due from any individual who resides in the county where the sheriff, constable, or collector of taxes holds office.</section>
     <section prefix="(b)">An individual who violates subsection (a) of this section is subject to a fine of $50 for each offense.</section>

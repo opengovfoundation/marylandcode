@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-103" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-17-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Before a public body awards a construction contract exceeding $100,000, the contractor shall provide payment security and performance security that meet the requirements of &#xA7; 17-104 of this subtitle.</section>

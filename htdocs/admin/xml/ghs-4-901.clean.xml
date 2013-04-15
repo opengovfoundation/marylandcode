@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-901" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Cooperative housing corporation" has the meaning stated in &#xA7; 5-6B-01 of the Corporations and Associations Article.</section>
@@ -17,7 +17,7 @@
     <section prefix="(e)">"Local rehabilitation program" means a rehabilitation program that uses Program loans and is administered by a political subdivision.</section>
     <section prefix="(f)">"Member" has the meaning stated in &#xA7; 5-6B-01 of the Corporations and Associations Article.</section>
     <section prefix="(g)">"Minimum livability code" means a regulation, statute, or ordinance that establishes minimum property maintenance standards that the State or a political subdivision adopts under &#xA7; 12-203 of the Public Safety Article.</section>
-    <section prefix="(h)">"Nonprofit sponsor" means:<section prefix="(1)">a nonprofit organization;</section><section prefix="(2)">a political subdivision; or</section><section prefix="(3)">a limited partnership formed to undertake a rehabilitation project that is eligible wholly or partly for federal programs or incentives, including low-income housing tax credits, if:<section prefix="(i)">each general partner is a nonprofit organization or a political subdivision; or</section><section prefix="(ii)"/></section></section>
+    <section prefix="(h)">"Nonprofit sponsor" means:<section prefix="(1)">a nonprofit organization;</section><section prefix="(2)">a political subdivision; or</section><section prefix="(3)">a limited partnership formed to undertake a rehabilitation project that is eligible wholly or partly for federal programs or incentives, including low-income housing tax credits, if:<section prefix="(i)">each general partner is a nonprofit organization or a political subdivision; or</section><section prefix="(ii)"><section prefix="1.">each general partner is a wholly owned subsidiary of a nonprofit organization or political subdivision; and</section><section prefix="2.">a nonprofit organization or political subdivision manages the rehabilitation project or will receive net cash flow or the residual sale proceeds on the sale of the rehabilitation project.</section></section></section></section>
     <section prefix="(i)">"Program" means the Maryland Housing Rehabilitation Program.</section>
     <section prefix="(j)">"Program loan" means a loan under the Maryland Housing Rehabilitation Program or a special loan program.</section>
     <section prefix="(k)">

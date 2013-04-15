@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-116" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-5-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">The liability of an issuer, nominated person, or adviser for action or omission is governed by the law of the jurisdiction chosen by an agreement in the form of a record signed or otherwise authenticated by the affected parties in the manner provided in &#xA7; 5-104 of this title or by a provision in the person's letter of credit, confirmation, or other undertaking. The jurisdiction whose law is chosen need not bear any relation to the transaction.</section>
     <section prefix="(b)">Unless subsection (a) of this section applies, the liability of an issuer, nominated person, or adviser for action or omission is governed by the law of the jurisdiction in which the person is located. The person is considered to be located at the address indicated in the person's undertaking. If more than one address is indicated, the person is considered to be located at the address from which the person's undertaking was issued. For the purpose of jurisdiction, choice of law, and recognition of interbranch letters of credit, but not enforcement of a judgment, all branches of a bank are considered separate juridical entities and a bank is considered to be located at the place where its relevant branch is considered to be located under this subsection.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-136" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-136</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>136</order_by>
   <text>
     <section prefix="(a)">Support orders issued out of state shall be enforced in the same manner under this Part III of this subtitle as support orders issued in this State.</section>
     <section prefix="(b)">A recipient of an out-of-state support order may file a request for service of an earnings withholding order under &#xA7; 10-126 of this subtitle by submitting the information required under &#xA7; 10-126 of this subtitle, and a certified support order or a support order registered in this State.</section>

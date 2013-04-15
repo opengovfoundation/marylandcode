@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">An attachment under &#xA7; 3-303(b), (d), and (g) of this subtitle may issue in an action based on contract, whether the damages are liquidated or unliquidated, or in an action based on tort.</section>
     <section prefix="(b)">An attachment under &#xA7; 3-303(c), (e), and (f) of this subtitle may issue only in an action based on contract for liquidated damages.</section>

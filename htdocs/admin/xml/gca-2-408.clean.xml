@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-408" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">Unless this article or the charter or bylaws of the corporation require a greater proportion, the action of a majority of the directors present at a meeting at which a quorum is present is the action of the board of directors.</section>
     <section prefix="(b)">

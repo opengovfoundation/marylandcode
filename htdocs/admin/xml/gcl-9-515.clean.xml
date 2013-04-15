@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-515" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-515</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>515</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (b), (e), (f), and (g), a filed financing statement is effective for a period of five years after the date of filing.</section>
     <section prefix="(b)">Except as otherwise provided in subsections (e), (f), and (g), an initial financing statement filed in connection with a public-finance transaction or manufactured-home transaction is effective for a period of 30 years after the date of filing if it indicates that it is filed in connection with a public-finance transaction or manufactured-home transaction.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-510" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-11-510</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>510</order_by>
   <text>
     <section prefix="(a)">A registration statement relating to a security registered under &#xA7; 11-502, &#xA7; 11-503, or &#xA7; 11-504 of this subtitle may be amended after its effective date so as to increase the securities specified as proposed to be offered.</section>
     <section prefix="(b)">The amendment becomes effective when the Commissioner so orders.</section>

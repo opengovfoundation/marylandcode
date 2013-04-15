@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1301" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-1301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1301</order_by>
   <text>
     <section prefix="(a)">The Washington County Board consists of seven members.</section>
     <section prefix="(b)">All seven members of the Washington County Board shall be elected from Washington County at large at a general election every 4 years beginning in 1978.</section>
@@ -24,14 +24,14 @@
     <section prefix="(e)">
       <section prefix="(1)">In this section, "Washington County Delegation" means the Senators and Delegates in the General Assembly of Maryland who are elected to represent Washington County or any portion of Washington County.</section>
       <section prefix="(2)">There is a Washington County School Board Nominating Commission.</section>
-      <section prefix="(3)">The Commission shall consist of the following six voting members:<section prefix="(i)">One member appointed by the Senator members of the Washington County Delegation;</section><section prefix="(ii)">One member appointed by the Delegate members of the Washington County Delegation;</section><section prefix="(iii)">One member appointed by the county board; and</section><section prefix="(iv)">The following three members appointed by the County Commissioners:</section></section>
+      <section prefix="(3)">The Commission shall consist of the following six voting members:<section prefix="(i)">One member appointed by the Senator members of the Washington County Delegation;</section><section prefix="(ii)">One member appointed by the Delegate members of the Washington County Delegation;</section><section prefix="(iii)">One member appointed by the county board; and</section><section prefix="(iv)">The following three members appointed by the County Commissioners:<section prefix="1.">One member representing the Washington County business community;</section><section prefix="2.">One member representing the Washington County Citizens Advisory Council; and</section><section prefix="3.">One member representing the Washington County educational community.</section></section></section>
       <section prefix="(4)">
         <section prefix="(i)">The Chairman of the Commission shall be a member of the public appointed by the County Commissioners.</section>
         <section prefix="(ii)">The Chairman may not be a member of either the county board or the Washington County Delegation.</section>
         <section prefix="(iii)">The Chairman is a nonvoting member of the Commission who shall vote only when there is a tie vote among the voting members of the Commission.</section>
       </section>
       <section prefix="(5)">The County Commissioners shall provide the staff for the Commission.</section>
-      <section prefix="(6)">The Commission shall:<section prefix="(i)">Advertise the vacancy and provide the procedures for filling the vacancy in at least one medium accessible to the general public, which includes:</section><section prefix="(ii)">Before selecting any nominees, hold at least one public hearing.</section></section>
+      <section prefix="(6)">The Commission shall:<section prefix="(i)">Advertise the vacancy and provide the procedures for filling the vacancy in at least one medium accessible to the general public, which includes:<section prefix="1.">A newspaper of general circulation in the region; or</section><section prefix="2.">An electronic posting on the local school system website; and</section></section><section prefix="(ii)">Before selecting any nominees, hold at least one public hearing.</section></section>
       <section prefix="(7)">Within 30 days of the vacancy occurring, the Commission shall submit the names of no more than three nominees to the County Commissioners for their consideration.</section>
       <section prefix="(8)">Within 15 days after receiving the names of the nominees provided by the Commission under paragraph (7) of this subsection, the County Commissioners shall select an individual to fill the vacancy on the county board.</section>
     </section>

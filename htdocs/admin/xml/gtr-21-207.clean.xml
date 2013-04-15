@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-207" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of this title, a funeral procession facing a red signal may continue through or make a turn at an intersection if the first vehicle in the procession already entered the intersection before the signal changed from green to red.</section>
     <section prefix="(b)">While a funeral procession is proceeding through a red signal as permitted by this section, a vehicle that is not in the procession may not enter the intersection, even if it is facing a green signal, unless it can do so without crossing the path of the procession. When the red signal changes to green while the funeral procession is still within the intersection, a vehicle facing a green signal may proceed, but the funeral procession has the right-of-way.</section>

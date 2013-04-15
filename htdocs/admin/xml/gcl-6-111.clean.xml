@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-6-111</section_number>
-  <catch_line/>
+  <catch_line>No action under this title shall be brought nor levy made more than six months after the date on whi...</catch_line>
+  <order_by>111</order_by>
   <text>No action under this title shall be brought nor levy made more than six months after the date on which the transferee took possession of the goods unless the transfer has been concealed. If the transfer has been concealed actions may be brought or levies made within six months after its discovery.</text>
 </law>

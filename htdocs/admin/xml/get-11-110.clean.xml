@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-110" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-11-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A will or trust of a decedent who dies after December 31, 2009, and before January 1, 2011, that contains a formula referring to the "unified credit", "estate tax exemption", "applicable exemption amount", "applicable credit amount", "applicable exclusion amount", "generation-skipping transfer tax exemption", "GST exemption", "marital deduction", "maximum marital deduction", or "unlimited marital deduction", or similar words or phrases relating to the federal estate tax or generation-skipping transfer tax or that measures a share of an estate or a trust based on the amount that can pass free of federal estate taxes or the amount that can pass free of federal generation-skipping transfer taxes, or that is otherwise based on a similar provision of federal estate tax or generation-skipping transfer tax law, shall be deemed to refer to the federal estate tax or generation-skipping transfer tax laws as they applied with respect to estates of decedents dying or generation-skipping transfers made on December 31, 2009.</section>

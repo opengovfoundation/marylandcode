@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of subsection (d) of this section, the assignee of a bond or other obligation under seal which was assigned under the assignor's signature and seal, may maintain an action in his name against the obligor named in the bond or other obligation.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, if the assignee cannot recover the debt from the obligor because the obligor is unable to pay it or cannot be found, or for any other reason, the assignee may maintain an action against the obligee, unless the assignee is a surety in the bond or other obligation.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-106" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An insurer under a contract that provides an individual with home medical equipment pursuant to an individual, group, or blanket health insurance policy or certificate that is delivered or issued for delivery in the State and that provides benefits on an expense-incurred basis:<section prefix="(i)">shall pay the home medical equipment provider directly if the insured has executed an assignment of benefits; and</section><section prefix="(ii)">subject to the copayment and deductible provisions in the insurance contract, may not require the home medical equipment provider to accept less than the agreed monthly rental amount for each month in which benefits are payable under the insurance contract.</section></section>

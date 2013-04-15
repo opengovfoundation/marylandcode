@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-109" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-14-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The State Prosecutor may prosecute a criminal offense set forth in the State Prosecutor's report of the findings and recommendations if, within 45 days after receipt of the report, the State's Attorney fails to file charges and begin prosecution in accordance with the recommendations.</section>

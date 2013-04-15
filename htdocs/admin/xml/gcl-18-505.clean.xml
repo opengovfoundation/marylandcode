@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-505" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-18-505</section_number>
-  <catch_line/>
+  <catch_line>Unless the rental agreement specifically provides otherwise and until a lien sale under this subtitl...</catch_line>
+  <order_by>505</order_by>
   <text>Unless the rental agreement specifically provides otherwise and until a lien sale under this subtitle, the exclusive care, custody, and control of all personal property stored in the leased self-service storage space remains vested in the occupant.</text>
 </law>

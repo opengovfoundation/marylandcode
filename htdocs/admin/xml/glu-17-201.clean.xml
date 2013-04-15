@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-201" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-17-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">The State or the Commission, as appropriate, shall hold any land acquired under this division to which it takes title:<section prefix="(1)">for the general benefit of the residents of the State; and</section><section prefix="(2)">especially for the benefit of the residents in the metropolitan district.</section></section>
     <section prefix="(b)">Without the approval of the Commission by resolution:<section prefix="(1)">title to the land may not be conveyed by the State; or</section><section prefix="(2)">public use may not be terminated.</section></section>

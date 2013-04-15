@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-14-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, if the State Prosecutor finds that an alleged violation of the criminal law set forth in &#xA7; 14-107 of this title has occurred, the State Prosecutor shall make a confidential report of the findings and any recommendations for prosecution to the Attorney General and the State's Attorney for the county in which jurisdiction exists to prosecute the matter.</section>

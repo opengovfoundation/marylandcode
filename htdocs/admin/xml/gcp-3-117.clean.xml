@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-117" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">Within 30 days after the court receives the report of recommendations from the Office:<section prefix="(1)">the court on its own initiative may hold a hearing; or</section><section prefix="(2)">if timely exceptions are filed, or if the court requires more information, the court shall hold a hearing unless the committed person and the State's Attorney waive the hearing.</section></section>
     <section prefix="(b)">

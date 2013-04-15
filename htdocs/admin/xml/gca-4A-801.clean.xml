@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-801" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">A person described in &#xA7; 4A-802 of this title may bring a derivative action to enforce a right of a limited liability company to recover a judgment in its favor to the same extent that a stockholder may bring an action for a derivative suit under the corporation law of Maryland.</section>
     <section prefix="(b)">An action under this subtitle may be brought if members with authority to bring the action have refused to bring the action or if an effort to cause those members to bring the action is not likely to succeed.</section>

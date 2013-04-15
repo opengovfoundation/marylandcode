@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-509" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-509</section_number>
-  <catch_line/>
+  <catch_line>Whether a document of title is adequate to fulfill the obligations of a contract for sale, a contrac...</catch_line>
+  <order_by>509</order_by>
   <text>Whether a document of title is adequate to fulfill the obligations of a contract for sale, a contract for lease, or the conditions of a letter of credit is determined by Title 2, Title 2A, or Title 5.</text>
 </law>

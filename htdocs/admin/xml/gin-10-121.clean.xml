@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-121" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-121</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>121</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subsection, "trust money" means a deposit, payment, or other money that a person entrusts to a licensed title insurance producer in connection with the provision of escrow, closing, or real estate settlement services.</section>
@@ -17,7 +17,7 @@
       <section prefix="(1)">If an applicant for a license is a partnership, each partner must hold a license to act as a title insurance producer and, if applicable, an appointment with a title insurer.</section>
       <section prefix="(2)">
         <section prefix="(i)">If an applicant for a license is a corporation, each controlling owner and each officer must hold a license to act as a title insurance producer and, if applicable, an appointment with a title insurer.</section>
-        <section prefix="(ii)">For purposes of subparagraph (i) of this paragraph, a person is not considered a controlling owner of a corporation if the person:</section>
+        <section prefix="(ii)">For purposes of subparagraph (i) of this paragraph, a person is not considered a controlling owner of a corporation if the person:<section prefix="1.">is a stockholder of the corporation;</section><section prefix="2.">does not manage or have day-to-day control over the operation of the corporation; and</section><section prefix="3.">is not an officer, director, or employee of the corporation who in any other way renders services for the corporation for which the person is compensated by the corporation.</section></section>
       </section>
       <section prefix="(3)">If an applicant for a license is a limited liability company, each individual who has direct control over its fiscal management and each manager and officer must hold a license to act as a title insurance producer and, if applicable, an appointment with a title insurer.</section>
     </section>
@@ -27,7 +27,7 @@
       <section prefix="(3)">When the application of a limited liability company for a license is submitted, the Commissioner shall investigate the character of each individual who has direct control over its fiscal management and each member, manager, officer, and director of the limited liability company applicant.</section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">In addition to meeting any of the applicable requirements for a license to act as an insurance producer under this subtitle, a sole proprietor, a limited liability company, a partnership, or a corporate applicant for a license as a title insurance producer shall file with the Commissioner:<section prefix="(i)">a blanket fidelity bond covering appropriate employees and title insurance producer independent contractors; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">In addition to meeting any of the applicable requirements for a license to act as an insurance producer under this subtitle, a sole proprietor, a limited liability company, a partnership, or a corporate applicant for a license as a title insurance producer shall file with the Commissioner:<section prefix="(i)">a blanket fidelity bond covering appropriate employees and title insurance producer independent contractors; and</section><section prefix="(ii)"><section prefix="1.">a blanket surety bond; or</section><section prefix="2.">a letter of credit.</section></section></section>
       <section prefix="(2)">Unless the Commissioner approves a lesser amount, each bond or letter of credit shall be for $150,000.</section>
       <section prefix="(3)">The Commissioner may adopt regulations that specify when it is appropriate for a bond or letter of credit to be less than $150,000.</section>
       <section prefix="(4)">Notwithstanding paragraph (2) of this subsection, the Commissioner may waive the requirement for a bond or letter of credit if the Commissioner finds that bonds are not generally available or reasonably affordable.</section>

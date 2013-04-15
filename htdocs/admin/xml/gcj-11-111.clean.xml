@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-11-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">If a court orders that a deed of any kind shall be executed, it may appoint a trustee to execute the deed.</section>
     <section prefix="(b)">Until the trustee executes a deed, the decree:<section prefix="(1)">If passed in the county where the land lies, has the same effect as an executed deed; and</section><section prefix="(2)">If passed in another county, has the same effect as an executed deed if recorded in the county where the land lies within 6 months after the date of the decree.</section></section>

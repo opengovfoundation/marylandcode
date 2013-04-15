@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-702" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">Any bank may, as provided in this subtitle:<section prefix="(1)">Consolidate with one or more other banks to form a new consolidated bank;</section><section prefix="(2)">Merge into another bank or have one or more other banks merged into it; or</section><section prefix="(3)">Transfer its assets to another bank.</section></section>
     <section prefix="(b)">If the successor will be a commercial bank:<section prefix="(1)">The consolidation, merger, or transfer of assets shall be made in accordance with the provisions of this subtitle; and</section><section prefix="(2)">If one of the constituent banks is a national banking association or a federally chartered savings bank or savings and loan association, federal law governs its actions and the rights of its stockholders.</section></section>

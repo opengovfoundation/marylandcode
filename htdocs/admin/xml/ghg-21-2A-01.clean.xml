@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-2A-01" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-2A-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Board" means the Advisory Board on Prescription Drug Monitoring.</section>
@@ -16,7 +16,7 @@
     <section prefix="(d)">
       <section prefix="(1)">"Dispenser" means a person authorized by law to dispense a monitored prescription drug to a patient or the patient's agent in the State.</section>
       <section prefix="(2)">"Dispenser" includes a nonresident pharmacy.</section>
-      <section prefix="(3)">"Dispenser" does not include:<section prefix="(i)">A licensed hospital pharmacy that only dispenses a monitored prescription drug for direct administration to an inpatient of the hospital;</section><section prefix="(ii)">An opioid maintenance program;</section><section prefix="(iii)">A veterinarian licensed under Title 2, Subtitle 3 of the Agriculture Article when prescribing controlled substances for animals in the usual course of providing professional services;</section><section prefix="(iv)">A pharmacy issued a waiver permit under COMAR 10.34.17.03 that provides pharmaceutical specialty services exclusively to persons living in assisted living facilities, comprehensive care facilities, and developmental disabilities facilities; and</section><section prefix="(v)">A pharmacy that:</section></section>
+      <section prefix="(3)">"Dispenser" does not include:<section prefix="(i)">A licensed hospital pharmacy that only dispenses a monitored prescription drug for direct administration to an inpatient of the hospital;</section><section prefix="(ii)">An opioid maintenance program;</section><section prefix="(iii)">A veterinarian licensed under Title 2, Subtitle 3 of the Agriculture Article when prescribing controlled substances for animals in the usual course of providing professional services;</section><section prefix="(iv)">A pharmacy issued a waiver permit under COMAR 10.34.17.03 that provides pharmaceutical specialty services exclusively to persons living in assisted living facilities, comprehensive care facilities, and developmental disabilities facilities; and</section><section prefix="(v)">A pharmacy that:<section prefix="1.">Dispenses medications to an inpatient hospice; and</section><section prefix="2.">Has been granted a waiver under &#xA7; 21-2A-03(f) of this subtitle.</section></section></section>
     </section>
     <section prefix="(e)">"Licensing entity" means an entity authorized under the Health Occupations Article to license, regulate, or discipline a prescriber or dispenser.</section>
     <section prefix="(f)">"Monitored prescription drug" means a prescription drug that contains a Schedule II, Schedule III, Schedule IV, or Schedule V controlled dangerous substance designated under Title 5, Subtitle 4 of the Criminal Law Article.</section>

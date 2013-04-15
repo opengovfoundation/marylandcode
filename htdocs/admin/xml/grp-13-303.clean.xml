@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-303" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">At any stage of a proceeding under this title, if an applicant dies or assigns his rights in the application, warrant, certificate of survey, or land described in the application, the assignee, personal representative, heir, or legatee of the applicant may request that he be substituted for the applicant.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-428" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-428</section_number>
-  <catch_line/>
+  <catch_line>The General Assembly finds and declares that:...</catch_line>
+  <order_by>428</order_by>
   <text>The General Assembly finds and declares that:<section prefix=""><section prefix="(1)">Forests and trees play an important role in the restoration and enhancement of the Chesapeake Bay and its tributaries; and</section><section prefix="(2)">The establishment and supplementation of forests and trees along the Chesapeake Bay and its tributaries is in the best interests of the residents of the State.</section></section></text>
 </law>

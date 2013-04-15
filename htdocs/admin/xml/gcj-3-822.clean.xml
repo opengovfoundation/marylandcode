@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-822" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-822</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>822</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">At each CINA hearing, the court shall inquire into, and make findings of fact on the record as to, the identity and current address of each parent of each child before the court.</section>

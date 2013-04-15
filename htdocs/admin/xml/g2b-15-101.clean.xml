@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-101" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-15-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For the jurisdictions in which this section is effective, the Governor, biennially, by and with the advice and consent of the Senate, if in session, and if not in session, then the Governor alone, shall appoint three persons who shall constitute and be styled "The Board of License Commissioners for Baltimore City or ............... County", as the case may be.</section>

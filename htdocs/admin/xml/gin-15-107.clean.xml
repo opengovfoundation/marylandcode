@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-107" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">This section applies to insurers and nonprofit health service plans that issue or deliver individual, group, or blanket health insurance policies in the State.</section>
     <section prefix="(b)">At least 30 days before the change is effective, an entity subject to this section that provides pharmaceutical benefits shall notify in writing all pharmacies under contract with the entity of any of the following changes in the pharmaceutical benefit program rules or requirements:<section prefix="(1)">exclusion of coverage for classes of drugs as specified by the contract;</section><section prefix="(2)">changes in prior or preauthorization procedures; or</section><section prefix="(3)">selection of new prescription claims processors.</section></section>

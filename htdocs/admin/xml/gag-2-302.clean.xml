@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-302" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">There is a State Board of Veterinary Medical Examiners in the Department.</section>
     <section prefix="(b)">The Board has seven members, five of whom:<section prefix="(1)">Are licensed and registered veterinarians of the State;</section><section prefix="(2)">Are residents of the State;</section><section prefix="(3)">Have engaged in active practice for five years at some time;</section><section prefix="(4)">Are in good standing; and</section><section prefix="(5)">Are appointed and qualified.</section></section>

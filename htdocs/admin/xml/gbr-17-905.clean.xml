@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-905" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">Part II of this subtitle does not apply in Anne Arundel, Baltimore, Calvert, Cecil, Howard, Montgomery, and Prince George's counties.</section>
     <section prefix="(b)">In Allegany County, Part II of this subtitle does not apply to a trader who holds a trader's license and has kept a regular place of business in Allegany County for at least 5 years.</section>

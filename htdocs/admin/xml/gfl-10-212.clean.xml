@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-212" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-212</section_number>
-  <catch_line/>
+  <catch_line>This Part II of this subtitle applies only to Baltimore City....</catch_line>
+  <order_by>212</order_by>
   <text>This Part II of this subtitle applies only to Baltimore City.</text>
 </law>

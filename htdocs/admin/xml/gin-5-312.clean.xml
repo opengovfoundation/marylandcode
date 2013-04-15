@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-312" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">This section applies to:<section prefix="(1)">a plan of life insurance that provides for future premiums to be determined by the insurer based on estimates of future experience; and</section><section prefix="(2)">a plan of life insurance or annuity that is of a nature that precludes determining the minimum reserves by the methods described in &#xA7;&#xA7; 5-307, 5-308, and 5-311 of this subtitle.</section></section>
     <section prefix="(b)">In accordance with regulations adopted by the Commissioner, the reserves that are held under a plan described in subsection (a) of this section shall:<section prefix="(1)">be appropriate in relation to the benefits and pattern of premiums for that plan; and</section><section prefix="(2)">be computed by a method that is consistent with the principles of this subtitle.</section></section>

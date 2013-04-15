@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-4-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">In this section, "law enforcement officer" means:<section prefix="(1)">a law enforcement officer who, in an official capacity, is authorized by law to make arrests;</section><section prefix="(2)">a sheriff, deputy sheriff, or assistant sheriff; or</section><section prefix="(3)">an employee of the Division of Correction, the Patuxent Institution, the Division of Pretrial Detention and Services, the Division of Parole and Probation, a local correctional facility, or any booking facility.</section></section>
     <section prefix="(b)">A person may not knowingly remove or attempt to remove a firearm from the possession of a law enforcement officer if:<section prefix="(1)">the law enforcement officer is lawfully acting within the course and scope of employment; and</section><section prefix="(2)">the person has knowledge or reason to know that the law enforcement officer is employed as a law enforcement officer.</section></section>

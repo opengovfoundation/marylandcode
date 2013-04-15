@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-205" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">If a Natural Resources police officer apprehends a person for violating any law punishable as a misdemeanor, the officer may prepare a written or electronic citation containing:<section prefix="(1)">A notice to appear in court;</section><section prefix="(2)">The name and address of the person charged;</section><section prefix="(3)">Relevant license numbers, if any;</section><section prefix="(4)">The offense charged;</section><section prefix="(5)">The time and place the person shall appear in court;</section><section prefix="(6)">An acknowledgment of receipt of the citation by the person charged made in a manner determined by the Department; and</section><section prefix="(7)">Other pertinent information required by the Secretary.</section></section>
     <section prefix="(b)">

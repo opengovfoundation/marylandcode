@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-124" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>124</order_by>
   <text>
     <section prefix="(a)">Neither the rule of law known as the Rule Against Perpetuities nor the rule of law known as the Rule Restricting Unreasonable Restraints on Alienation may be applied to defeat or invalidate any provision of this title or of any declaration, bylaws, or other instrument made pursuant to the provisions of this title.</section>
     <section prefix="(b)">The provisions of any declaration, bylaws, and condominium plat filed pursuant to this title shall be liberally construed to facilitate the creation and operation of the condominium. So long as the declaration, bylaws, and condominium plat substantially conform with the requirements of this title, a variance from the requirements does not affect the condominium status of the property in question nor the title of any unit owner to his unit, his votes, and his percentage interests in the common elements and in common expenses and common profits.</section>

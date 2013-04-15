@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-313" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">When a certificate of survey embracing any vacant land is filed, the Commissioner shall forward one of the duplicate certificates returned by the surveyor to the supervisor of assessments for each county in which the land is located.</section>
     <section prefix="(b)">Except as provided in subsection (d) of this section, within 30 days of receipt of the duplicate certificate, the supervisor shall have two assessors:<section prefix="(1)">Independently of each other, inspect and assess the actual fair market value of the vacant land and any improvements on it;</section><section prefix="(2)">Endorse the duplicate certificate with their joint determination of the assessed value of the vacant land and improvements;</section><section prefix="(3)">Prepare a statement of the reasons for the valuation;</section><section prefix="(4)">Sign and verify the endorsed duplicate certificate and the statement; and</section><section prefix="(5)">Return the endorsed duplicate certificate and the statement to the Commissioner.</section></section>

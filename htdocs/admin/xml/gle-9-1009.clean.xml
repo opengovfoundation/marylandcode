@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1009" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-1009</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1009</order_by>
   <text>
     <section prefix="(a)">When the Commission imposes an assessment on an employer under this subtitle, the Commission shall mail the employer notice of the assessment.</section>
     <section prefix="(b)">An employer shall pay an assessment under this subtitle into the Fund within 10 days after the date that notice of the assessment is mailed to the employer.</section>

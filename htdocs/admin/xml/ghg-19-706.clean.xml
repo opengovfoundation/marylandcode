@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-706" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">Each health maintenance organization that is issued a certificate of authority by the Commissioner shall be regulated under this subtitle.</section>
     <section prefix="(b)">
@@ -25,7 +25,7 @@
     <section prefix="(j)">The provisions of Title 15, Subtitle 12 of the Insurance Article shall apply to health maintenance organizations.</section>
     <section prefix="(k)">The provisions of &#xA7; 27-909 of the Insurance Article shall apply to health maintenance organizations.</section>
     <section prefix="(l)">
-      <section prefix="(1)">A health maintenance organization shall:<section prefix="(i)">Classify an obstetrician/gynecologist as a primary care physician; or</section><section prefix="(ii)">If the obstetrician/gynecologist chooses not to be a primary care physician, permit a woman to receive gynecological care from an in-network obstetrician/gynecologist without requiring the woman to first visit a primary care provider, provided that:</section></section>
+      <section prefix="(1)">A health maintenance organization shall:<section prefix="(i)">Classify an obstetrician/gynecologist as a primary care physician; or</section><section prefix="(ii)">If the obstetrician/gynecologist chooses not to be a primary care physician, permit a woman to receive gynecological care from an in-network obstetrician/gynecologist without requiring the woman to first visit a primary care provider, provided that:<section prefix="1.">The care is medically necessary, including, but not limited to, care that is routine;</section><section prefix="2.">Following each visit for gynecological care, the obstetrician/gynecologist communicates with the woman's primary care physician concerning any diagnosis or treatment rendered; and</section><section prefix="3.">The obstetrician/gynecologist confers with the primary care physician before performing any diagnostic procedure that is not routine gynecological care rendered during an annual visit.</section></section></section>
       <section prefix="(2)">If a health maintenance organization classifies an obstetrician/gynecologist as a primary care physician as provided under paragraph (1) of this subsection, and a woman does not choose an obstetrician/gynecologist as her primary care provider, the health maintenance organization shall permit the woman to receive an annual visit to an in-network obstetrician/gynecologist for routine gynecological care without requiring the woman to first visit her primary care provider, whether or not the primary care provider is qualified to and regularly provides routine gynecological care.</section>
       <section prefix="(3)">
         <section prefix="(i)">A health maintenance organization shall allow a woman to receive medically necessary, routine obstetric and gynecological care from an in-network, certified nurse midwife or any other in-network provider authorized under the Health Occupations Article to provide obstetric and gynecological services without first requiring the woman to visit a primary care provider.</section>

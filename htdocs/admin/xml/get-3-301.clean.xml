@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-301" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-3-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">A will may not be revoked by the subsequent birth, adoption, or legitimation of a child by the testator except under the circumstances referred to in &#xA7; 4-105(3) of this article.</section>
     <section prefix="(b)">A child described in subsection (a) of this section or issue, if any, of such child who does not survive the testator, is entitled to a share in the estate to be determined and paid in accordance with &#xA7;&#xA7; 3-302 and 3-303 of this subtitle, if:<section prefix="(1)">The will contains a legacy for a child of the testator but makes no provision for a person who becomes a child of the testator subsequent to the execution of the will;</section><section prefix="(2)">The child was born, adopted, or legitimated after the execution of the will;</section><section prefix="(3)">The child, or his issue, survive the testator; and</section><section prefix="(4)">The will does not expressly state that the child, or issue, should be omitted.</section></section>

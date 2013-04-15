@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-203" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-5-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">Subject to &#xA7; 6-101 of this article, without prior authorization of the Commission, a public service company may not purchase, acquire, take, or hold any part of the capital stock of another public service company that operates in Maryland.</section>
     <section prefix="(b)">

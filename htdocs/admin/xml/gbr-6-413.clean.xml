@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-413" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-413</section_number>
-  <catch_line/>
+  <catch_line>The Secretary of State may exempt from the requirement of a registration statement or annual report ...</catch_line>
+  <order_by>413</order_by>
   <text>The Secretary of State may exempt from the requirement of a registration statement or annual report a charitable organization that:<section prefix=""><section prefix="(1)">is organized under the laws of another state that has a statute substantially similar to this title;</section><section prefix="(2)">has been exempted from the submission of a registration statement by that other state;</section><section prefix="(3)">has its principal place of business outside this State; and</section><section prefix="(4)">gets its money principally from sources outside this State.</section></section></text>
 </law>

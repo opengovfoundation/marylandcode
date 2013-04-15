@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-313" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">All rentals, rates, fees, tolls, and other charges and revenues derived from any transportation facilities project shall be set aside in a fund known as the "Transportation Authority Fund", except to the extent that they are pledged under an applicable trust agreement to secure either:<section prefix="(i)">Revenue bonds issued under this subtitle if the trust agreement or bond authorizing resolution expressly provides that this section does not apply to those bonds; or</section><section prefix="(ii)">Revenue bonds of prior issues.</section></section>

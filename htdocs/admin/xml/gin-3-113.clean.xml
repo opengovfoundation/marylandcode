@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-113" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">If a domestic mutual insurer has surplus funds at least equal to the paid-in capital stock and surplus required of a domestic stock insurer that transacts like kinds of insurance business, the domestic mutual insurer, on receipt of an order of the Commissioner authorizing it to do so, may extinguish the contingent liability of its members as to all its policies in force and may issue nonassessable policies.</section>
     <section prefix="(b)">Subject to the requirements of this article for issuing nonassessable policies, a foreign or alien mutual insurer may issue nonassessable policies to its members in the State under its articles of incorporation and the laws of its domicile.</section>

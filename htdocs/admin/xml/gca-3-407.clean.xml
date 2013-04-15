@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-407" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">The corporation shall file articles of dissolution for record with the Department:<section prefix="(1)">If there are any known creditors of the corporation, after the 19th day following the mailing of notice to them; or</section><section prefix="(2)">If there are no known creditors, at any time.</section></section>
     <section prefix="(b)">On written request of the corporation, the Department shall furnish without charge a list of all collectors of taxes of counties and municipalities to which the Department has certified an assessment of personal property taxable to the corporation within the preceding four years.</section>

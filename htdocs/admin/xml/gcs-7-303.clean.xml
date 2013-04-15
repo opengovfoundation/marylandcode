@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Before any hearing on parole release, the Commission shall give the inmate adequate and timely written notice of:<section prefix="(1)">the date, time, and place of the hearing; and</section><section prefix="(2)">the factors that the Commission or hearing examiner will consider in determining whether the inmate is suitable for parole.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, the notice also shall indicate that, before the hearing, the inmate or the inmate's representative may, on request, examine any document that the Commission or hearing examiner will use in determining whether the inmate is suitable for parole.</section>
-        <section prefix="(ii)">A document, or a portion of it, is not available for examination, if the Commission determines that:</section>
-        <section prefix="(iii)">If the Commission determines that a document or a portion of it is not available for examination, the Commission shall notify the inmate that:</section>
+        <section prefix="(ii)">A document, or a portion of it, is not available for examination, if the Commission determines that:<section prefix="1.">the document or portion contains a diagnostic opinion;</section><section prefix="2.">the inmate's knowledge of the document or portion would disrupt seriously a program of rehabilitation;</section><section prefix="3.">the document or portion contains sources of information obtained on a promise of confidentiality; or</section><section prefix="4.">the document or portion is otherwise privileged.</section></section>
+        <section prefix="(iii)">If the Commission determines that a document or a portion of it is not available for examination, the Commission shall notify the inmate that:<section prefix="1.">the document or portion is not available for examination; and</section><section prefix="2.">on request and if appropriate, the Commission will provide the inmate or the inmate's representative with the substance of any information contained in the document or portion.</section></section>
       </section>
       <section prefix="(2)">The Commission shall delete the address and phone number of the victim or the victim's designated representative from a document before the inmate or the inmate's representative examines the document.</section>
     </section>

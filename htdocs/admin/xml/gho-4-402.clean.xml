@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-402" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, a person other than a licensed dentist may not do dental laboratory work unless the person:<section prefix="(1)">Works under a work authorization that meets the requirements of &#xA7; 4-403 of this subtitle; and</section><section prefix="(2)">Uses casts or models made from impressions taken by a licensed dentist.</section></section>
     <section prefix="(b)">The requirements of this subtitle that relate to work authorizations do not apply to:<section prefix="(1)">A dental laboratory on the premises of a dental office that is used only by the licensed dentists practicing in the office; or</section><section prefix="(2)">A dental student, dental technician, or student dental technician while doing dental laboratory work at the educational institution, hospital, or clinic with which the individual is associated.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-205" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-6-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Each member state shall create a State Council for Interstate Adult Offender Supervision which shall be responsible for the appointment of the commissioner who shall serve on the Interstate Commission from that state.</section>
     <section prefix="(b)">Each State Council shall appoint as its commissioner the Compact Administrator from that state to serve on the Interstate Commission in such capacity under or pursuant to applicable law of the member state.</section>

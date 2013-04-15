@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-805" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">Subject to the limitations in this section, a petition for the release of an individual who is held under this title from the facility or a Veterans' Administration hospital may be filed, at any time by:<section prefix="(1)">The individual; or</section><section prefix="(2)">Any person who has a legitimate interest in the welfare of the individual.</section></section>
     <section prefix="(b)">The petition shall be filed in an equity court in the county where the individual resides or resided at the time of the admission or where the facility is located.</section>

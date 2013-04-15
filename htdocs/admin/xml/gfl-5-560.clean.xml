@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-560" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-560</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>560</order_by>
   <text>
     <section prefix="(a)">In this Part VI of this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Conviction" means a plea or verdict of guilty or a plea of nolo contendere.</section>

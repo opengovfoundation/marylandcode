@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-239" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-239</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>239</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"Attorney General" means the Attorney General of the United States.</section>
@@ -14,7 +14,7 @@
     <section prefix="(e)">"Criminal history records":<section prefix="(1)">means information collected by criminal justice agencies on individuals consisting of identifiable descriptions and notations of arrests, detentions, indictments, or other formal criminal charges, and any disposition arising therefrom, including acquittal, sentencing, correctional supervision, or release; and</section><section prefix="(2)">does not include identification information such as fingerprint records if such information does not indicate involvement of the individual with the criminal justice system.</section></section>
     <section prefix="(f)">"Criminal history records repository" means the state agency designated by the governor or other appropriate executive official or the legislature of a state to perform centralized record keeping functions for criminal history records and services in the state.</section>
     <section prefix="(g)">"Criminal justice" includes activities relating to the detection, apprehension, detention, pretrial release, posttrial release, prosecution, adjudication, correctional supervision, or rehabilitation of accused persons or criminal offenders. The administration of criminal justice includes criminal identification activities and the collection, storage, and dissemination of criminal history records.</section>
-    <section prefix="(h)">"Criminal justice agency":<section prefix="(1)">means:<section prefix="(i)">courts; and</section><section prefix="(ii)">a governmental agency or any subunit thereof that:</section></section><section prefix="(2)">includes federal and state inspectors general offices.</section></section>
+    <section prefix="(h)">"Criminal justice agency":<section prefix="(1)">means:<section prefix="(i)">courts; and</section><section prefix="(ii)">a governmental agency or any subunit thereof that:<section prefix="1.">performs the administration of criminal justice pursuant to a statute or executive order; and</section><section prefix="2.">allocates a substantial part of its annual budget to the administration of criminal justice; and</section></section></section><section prefix="(2)">includes federal and state inspectors general offices.</section></section>
     <section prefix="(i)">"Criminal justice services" means services provided by the FBI to criminal justice agencies in response to a request for information about a particular individual or as an update to information previously provided for criminal justice purposes.</section>
     <section prefix="(j)">"Criterion offense" means any felony or misdemeanor offense not included on the list of nonserious offenses published periodically by the FBI.</section>
     <section prefix="(k)">"Direct access" means access to the National Identification Index by computer terminal or other automated means not requiring the assistance of or intervention by any other party or agency.</section>

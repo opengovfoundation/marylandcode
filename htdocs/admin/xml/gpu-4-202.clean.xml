@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-202" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-4-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">A public service company shall file with the Commission a tariff schedule of its rates and charges for its regulated services and for standard offer service as provided in &#xA7; 7-505(b)(8) of this article.</section>
     <section prefix="(b)">As ordered by the Commission, a public service company shall:<section prefix="(1)">plainly print the tariff schedule of its rates and charges for its regulated services;</section><section prefix="(2)">make available the tariff schedules for public inspection; and</section><section prefix="(3)">post the tariff schedules to make the tariff schedules readily accessible to and convenient for inspection by the public.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-103" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-15-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">In this section, "alternative health care system" has the meaning stated in &#xA7; 1-401 of this article.</section>
     <section prefix="(b)">An employer of a physician assistant shall report to the Board, on the form prescribed by the Board, any termination of employment of the physician assistant if the cause of termination is related to a quality of care issue.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-401" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Authority" means the Maryland Industrial Development Financing Authority.</section>
@@ -38,7 +38,7 @@
     <section prefix="(q)">"Improve" means to construct, reconstruct, equip, expand, extend, improve, install, rehabilitate, or remodel.</section>
     <section prefix="(r)">"Improvement" means construction, addition, alteration, equipping, expansion, extension, improvement, installation, reconstruction, rehabilitation, remodeling, or repair.</section>
     <section prefix="(s)">
-      <section prefix="(1)">"Industrial building" means a building that:<section prefix="(i)">is used primarily to carry on a for-profit or not-for-profit business;</section><section prefix="(ii)">is used primarily for an industrial process; and</section><section prefix="(iii)">controls energy usage within its exterior envelope but does not have a peak design rate of energy usage of less than:</section></section>
+      <section prefix="(1)">"Industrial building" means a building that:<section prefix="(i)">is used primarily to carry on a for-profit or not-for-profit business;</section><section prefix="(ii)">is used primarily for an industrial process; and</section><section prefix="(iii)">controls energy usage within its exterior envelope but does not have a peak design rate of energy usage of less than:<section prefix="1.">3.5 B.T.U. per hour per square foot; or</section><section prefix="2.">1 watt per square foot of floor area.</section></section></section>
       <section prefix="(2)">"Industrial building" does not include a commercial building or a residential building.</section>
     </section>
     <section prefix="(t)">"Industrial process" means:<section prefix="(1)">a process used to produce or manufacture goods or products; or</section><section prefix="(2)">the storage or shipment of materials, goods, or products.</section></section>

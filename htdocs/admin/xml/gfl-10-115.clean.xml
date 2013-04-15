@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-115" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">In this section, "legal proceeding" means:<section prefix="(1)">a civil action for child support;</section><section prefix="(2)">a paternity proceeding under Title 5, Subtitle 10 of this article; and</section><section prefix="(3)">a proceeding under Subtitle 3 of this title.</section></section>
     <section prefix="(b)">In any support action in which the Administration is providing child support services under federal law, the Administration may initiate a legal proceeding to establish, modify, or enforce a duty of support.</section>

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-541" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-541</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>541</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">The electric bill of an electric company that has obtained a qualified rate order and issued rate stabilization bonds must:<section prefix="(i)">explicitly reflect that a portion of the charges on the bill represents qualified rate stabilization charges approved in a qualified rate order issued to the electric company; and</section><section prefix="(ii)">if the rate stabilization property has been transferred to an assignee, include a statement to the effect that:</section></section>
+      <section prefix="(1)">The electric bill of an electric company that has obtained a qualified rate order and issued rate stabilization bonds must:<section prefix="(i)">explicitly reflect that a portion of the charges on the bill represents qualified rate stabilization charges approved in a qualified rate order issued to the electric company; and</section><section prefix="(ii)">if the rate stabilization property has been transferred to an assignee, include a statement to the effect that:<section prefix="1.">the assignee is the owner of the rights to qualified rate stabilization charges; and</section><section prefix="2.">the electric company or any other entity, if applicable, is acting as a collection agent or servicer for the assignee.</section></section></section>
       <section prefix="(2)">The tariff applicable to customers must indicate the qualified rate stabilization charge and the ownership of that charge.</section>
     </section>
     <section prefix="(b)">The failure of an electric company to comply with this section may not invalidate, impair, or affect any qualified rate order, rate stabilization property, qualified rate stabilization charge, or rate stabilization bonds.</section>

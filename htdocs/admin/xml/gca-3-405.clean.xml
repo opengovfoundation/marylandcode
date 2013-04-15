@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-405" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">At any time before articles of dissolution are accepted for record by the Department, the corporation may abandon or rescind the dissolution by following the same procedure required for its approval.</section>
     <section prefix="(b)">Within 30 days after the date of the abandonment or rescission, the corporation shall mail notice of it to every creditor to whom notice of approval of the dissolution was mailed.</section>

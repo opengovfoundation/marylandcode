@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-311" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">Except as provided in subsection (b) of this section, if in any contract year the gross premium charged by an insurer on a policy or contract is less than the valuation net premium for the policy or contract, the minimum reserve required for the policy or contract is the greater of:<section prefix="(i)">the reserve calculated according to the mortality table, interest rate, and method actually used for the policy or contract; or</section><section prefix="(ii)">the reserve calculated by using the method actually used for the policy or contract, but:</section></section>
+      <section prefix="(1)">Except as provided in subsection (b) of this section, if in any contract year the gross premium charged by an insurer on a policy or contract is less than the valuation net premium for the policy or contract, the minimum reserve required for the policy or contract is the greater of:<section prefix="(i)">the reserve calculated according to the mortality table, interest rate, and method actually used for the policy or contract; or</section><section prefix="(ii)">the reserve calculated by using the method actually used for the policy or contract, but:<section prefix="1.">using the minimum valuation standards of mortality and of interest in &#xA7;&#xA7; 5-304 and 5-306 of this subtitle; and</section><section prefix="2.">in each contract year for which the valuation net premium exceeds the actual gross premium, using the actual gross premium instead of the valuation net premium.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, for purposes of paragraph (1) of this subsection, the valuation net premium for a policy or contract shall be calculated by the method used in calculating the reserve on the policy or contract using the minimum valuation standards of mortality and interest rate under &#xA7;&#xA7; 5-304 and 5-306 of this subtitle.</section>
         <section prefix="(ii)">For future renewals under a renewable term insurance policy, the modern CSO mortality table published in The Transactions of The Society of Actuaries, Vol. XXVII (1975), shall be used instead of the minimum valuation standard of mortality under &#xA7; 5-304 of this subtitle.</section>

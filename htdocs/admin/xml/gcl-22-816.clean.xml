@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-816" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-816</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>816</order_by>
   <text>
     <section prefix="(a)">In this section, "electronic self-help" means the use of electronic means to exercise a licensor's rights under &#xA7; 22-815(b) of this subtitle.</section>
     <section prefix="(b)">Notwithstanding the provisions of this section, electronic self-help is prohibited in mass-market transactions.</section>

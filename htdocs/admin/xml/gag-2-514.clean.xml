@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-514" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-514</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>514</order_by>
   <text>
     <section prefix="(a)">It is the intent of the General Assembly that any easement whose purchase is approved by the Board of Public Works on or before September 30, 2004, be held by the Foundation for as long as profitable farming is feasible on the land under easement, and an easement may be terminated only in the manner and at the time specified in this section.</section>
     <section prefix="(b)">Except as provided in subsection (h) of this section, any time after 25 years from the date of purchase of an easement, the landowner may request that the easement be reviewed for possible termination of the easement.</section>
@@ -22,9 +22,17 @@
       <section prefix="(3)">The Department of General Services shall review the two appraisals and shall determine the fair market value of the subject land and shall issue a written statement as to the approved fair market value to the Foundation.</section>
       <section prefix="(4)">Upon receipt of the written statement from the Department of General Services, the Foundation shall issue a notification to the landowner of the approved fair market value.</section>
       <section prefix="(5)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">No more than 180 days following the notification required under paragraph (4) of this subsection, the landowner may repurchase the easement by paying to the Foundation the difference between the approved fair market value and the agricultural value of the subject land.</section>
+          <section prefix="2.">For purposes of this paragraph, the fair market value is the same as set forth under &#xA7; 2-511(b) of this subtitle.</section>
+        </section>
         <section prefix="(ii)">For purposes of this paragraph, the agricultural value of the land is determined by the appraisal method that was in effect at the time the easement was acquired by the Foundation, either by the agricultural appraisal formula under &#xA7; 2-511(d) of this subtitle or by an appraisal that determines the price as of the valuation date which a vendor, willing but not obligated to sell, would accept, and which a purchaser, willing but not obligated to buy, would pay for a farm unit with land comparable in quality and composition to the property being appraised.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">In the case of the termination of an easement that was originally purchased under a matching allotted purchase, the Foundation shall distribute to the contributing county a portion of the repurchase payment received under subparagraph (i) of this paragraph that is equal to the percentage of the original easement purchase price contributed by the county.</section>
+          <section prefix="2."/>
+          <section prefix="3.">The county shall deposit the balance of the funds distributed to it under this subparagraph in the county's general fund.</section>
+          <section prefix="4.">If an easement is terminated, the Foundation shall deposit its portion of the repurchase payment in the Maryland Agricultural Land Preservation Fund as provided under &#xA7; 2-505 of this subtitle.</section>
+        </section>
       </section>
     </section>
     <section prefix="(g)">If the request for termination is denied, or if the landowner fails to repurchase the easement within 180 days of the notification required under subsection (f)(4) of this section, the landowner may not again request termination of the easement until five years after his last request for termination.</section>

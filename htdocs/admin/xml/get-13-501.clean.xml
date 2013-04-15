@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-501" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">Any person, including but not limited to a personal representative or trustee, who is under a duty to pay or deliver money or tangible personal property to a minor may perform the duty by paying or delivering the money or chattel to the guardian of the minor. If there is no guardian, or if he is unknown, payment or delivery in amounts or values not exceeding $5,000 per annum may be made to the parent or grandparent of the minor with whom he resides. If there is no guardian, parent, or grandparent with whom the minor resides, payment or delivery in amounts or values not exceeding $5,000 per annum may be made to a parent or other person standing in loco parentis with the minor, or deposited in a financial institution described in &#xA7; 13-301(h) of this title. The payor is not under a duty to inquire whether the minor has a guardian.</section>
     <section prefix="(b)">A deposit in a financial institution shall be in the sole name of the minor. The minor may not withdraw any funds without an order of court or until he attains his majority.</section>

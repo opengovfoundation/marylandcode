@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1113" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1113</order_by>
   <text>
     <section prefix="(a)">A person may not place any structure, building, or vehicle on a highway to sell or display any produce or merchandise if it constitutes a traffic hazard.</section>
     <section prefix="(b)">In Prince George's County, a person may not sell or display any produce or merchandise on State highways in a manner that constitutes a traffic hazard.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-503" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">A banking institution may buy and hold real property only as provided in this section.</section>
     <section prefix="(b)">
@@ -17,7 +17,7 @@
     <section prefix="(c)">
       <section prefix="(1)">Subject to the limitations in paragraphs (2) and (3) of this subsection, a banking institution may hold any real property that the banking institution acquires:<section prefix="(i)">In satisfaction of a debt contracted in the course of its business; or</section><section prefix="(ii)">At sale on a judgment, decree, or mortgage foreclosure under a security that it holds.</section></section>
       <section prefix="(2)">At a sale, a banking institution may not bid more than the amount of money that is necessary to satisfy the secured debts and costs.</section>
-      <section prefix="(3)">A banking institution:<section prefix="(i)">May not hold property acquired under this subsection for more than:</section><section prefix="(ii)">Within 1 year after that period, shall:</section></section>
+      <section prefix="(3)">A banking institution:<section prefix="(i)">May not hold property acquired under this subsection for more than:<section prefix="1.">8 years; and</section><section prefix="2.">Under conditions that the Commissioner sets, 2 additional years; and</section></section><section prefix="(ii)">Within 1 year after that period, shall:<section prefix="1.">Sell the property; or</section><section prefix="2.">Reduce the value of the property on its books to a value that the Commissioner approves.</section></section></section>
     </section>
   </text>
 </law>

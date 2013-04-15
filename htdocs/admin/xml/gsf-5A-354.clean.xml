@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="5A-354" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-5A-354</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>354</order_by>
   <text>
     <section prefix="(a)">There is a Museum Assistance Review Panel in the Program.</section>
     <section prefix="(b)">

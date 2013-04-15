@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-402" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">The State shall pay its share of:<section prefix="(1)">the annual operating costs of furnishing water and sewer service to any State facility; and</section><section prefix="(2)">the lateral system construction costs associated with the installation of any water or sewer line that directly serves the State facility.</section></section>
     <section prefix="(b)">The State shall pay the cost of expanding a water or sewage treatment facility if the expansion is necessitated by the use of the facility by the State. However, the amount the State pays may not exceed the cost of the capacity required by the State.</section>

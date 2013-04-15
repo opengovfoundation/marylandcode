@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-605" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-16-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">The clerk of the circuit court shall provide a hospital lien docket. On the filing of a notice of lien under the provisions of this subtitle, the clerk shall enter in the hospital lien docket:<section prefix="(1)">The name of the injured patient;</section><section prefix="(2)">The name of the person alleged to be liable for the patient's injuries;</section><section prefix="(3)">The date of the accident; and</section><section prefix="(4)">The name of the hospital making the claim.</section></section>
     <section prefix="(b)">The clerk shall index the hospital lien under the name of the injured patient.</section>

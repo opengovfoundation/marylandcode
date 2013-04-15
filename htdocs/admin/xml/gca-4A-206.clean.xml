@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-206" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Articles and certificates required by this title to be filed with the Department shall be executed in the following manner:<section prefix="(1)">Articles of organization shall be executed by any individual authorized to do so by the persons forming the limited liability company; and</section><section prefix="(2)">Articles of amendment, articles of merger, certificates of correction, articles of dissolution, articles of continuation, articles of cancellation, and articles of reinstatement shall be executed by an authorized person.</section></section>
     <section prefix="(b)">

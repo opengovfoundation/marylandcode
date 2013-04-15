@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9.5-205" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9.5-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Maryland Service Corps is established for the purpose of encouraging and developing a program of full- and part-time public service that involves citizens of all ages throughout the State of Maryland in meeting the essential needs, as the Office shall identify, within the human service delivery systems in Maryland.</section>
     <section prefix="(b)">A project shall not be undertaken under the auspices of the Maryland Service Corps if such project shall replace regular workers or duplicate or replace an existing service in the same locality.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-504" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(1)">Damages payable by either party for default, or any other act or omission, including indemnity for loss or diminution of anticipated tax benefits or loss or damage to the lessor's residual interest, may be liquidated in the lease agreement but only at an amount or by a formula that is reasonable in light of the then anticipated harm caused by the default or other act or omission.</section>
     <section prefix="(2)">If the lease agreement provides for liquidation of damages, and such provision does not comply with subsection (1), or such provision is an exclusive or limited remedy that circumstances cause to fail of its essential purpose, remedy may be had as provided in this title.</section>

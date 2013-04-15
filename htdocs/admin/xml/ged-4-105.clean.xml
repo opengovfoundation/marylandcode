@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-105" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-4-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Each county board shall carry comprehensive liability insurance to protect the board and its agents and employees. The purchase of this insurance is a valid educational expense.</section>
     <section prefix="(b)">The State Board shall establish standards for these insurance policies, including a minimum liability coverage of not less than $100,000 for each occurrence. The policies purchased under this section shall meet these standards.</section>

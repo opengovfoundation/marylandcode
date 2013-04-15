@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-14-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In addition to the powers set forth elsewhere in this article and subject to the provisions of Title 10 of the State Government Article, on or before October 1, 1987, the Secretary shall adopt regulations for certifying youth camps and for issuing letters of compliance.</section>
       <section prefix="(2)">
         <section prefix="(i)">An applicant for a certificate shall submit an application to the Department on the form that the Secretary requires.</section>
-        <section prefix="(ii)">An application for a certificate or for a letter of compliance shall include:</section>
+        <section prefix="(ii)">An application for a certificate or for a letter of compliance shall include:<section prefix="1.">The name and permanent mailing address of the applicant;</section><section prefix="2.">The proposed location of the youth camp; and</section><section prefix="3.">Any other information and fee that the Department requires.</section></section>
         <section prefix="(iii)">For a unit or agency subject to the provisions of this subtitle, the Secretary shall require the unit or agency to complete only one application for certification for all youth camps directed or operated by that unit or agency.</section>
       </section>
       <section prefix="(3)">
@@ -20,7 +20,7 @@
         <section prefix="(iii)">A camp accredited or certified in accordance with the provisions of subsection (b)(9) of this section may not be charged a fee under the provisions of this article.</section>
       </section>
       <section prefix="(4)">
-        <section prefix="(i)">The operator of a youth camp directed or operated by a bona fide religious organization shall:</section>
+        <section prefix="(i)">The operator of a youth camp directed or operated by a bona fide religious organization shall:<section prefix="1.">Submit an application for certification;</section><section prefix="2.">Submit an application for a letter of compliance and have the youth camp inspected by the Department; or</section><section prefix="3.">Submit an application for a letter of compliance and proof of an alternative form of accreditation acceptable to the Secretary under subsection (b)(9) of this section.</section></section>
         <section prefix="(ii)">When a youth camp is operating under subparagraph (i) of this paragraph, and an inspection reveals health or safety violations of the regulations adopted under this subtitle, the Secretary may issue an order to abate the violation or to cease operation.</section>
       </section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-832" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-832</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>832</order_by>
   <text>
     <section prefix="(a)">Subject to the limitation in subsection (b) of this section, if a tax under this article is referred for collection to an independent agency with which the Comptroller has contracted for the collection of taxes, in addition to interest and penalties required to be assessed under this subtitle the Comptroller shall assess a collection fee sufficient to cover all collection costs charged by the agency to the Comptroller.</section>
     <section prefix="(b)">The collection fee assessed by the Comptroller under paragraph (a) of this section may not, as a percentage, exceed the percentage of the fee charged by the Central Collection Unit in accordance with &#xA7; 3-304(a)(2) of the State Finance and Procurement Article.</section>

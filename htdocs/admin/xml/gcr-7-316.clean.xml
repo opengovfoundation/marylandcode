@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-316" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-316</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>316</order_by>
   <text>
     <section prefix="(a)">A person who violates &#xA7; 7-315 of this part involving more than 100 unlawful telecommunication devices or access codes or unlawful access devices is guilty of a felony and on conviction is subject to imprisonment not exceeding 10 years or a fine not exceeding $10,000 or both.</section>
     <section prefix="(b)">A person who violates &#xA7; 7-315 of this part involving 100 or fewer unlawful telecommunication devices or access codes or unlawful access devices is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 3 years or a fine not exceeding $2,500 or both.</section>

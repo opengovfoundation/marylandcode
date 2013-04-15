@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-132" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-132</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>132</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -23,7 +23,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">The Handgun Roster Board annually shall:<section prefix="(i)">review the status of personalized handgun technology; and</section><section prefix="(ii)">on or before July 1, report its findings to the Governor and, in accordance with &#xA7; 2-1246 of the State Government Article, to the General Assembly.</section></section>
-      <section prefix="(2)">In reviewing the status of personalized handgun technology under paragraph (1) of this subsection, the Handgun Roster Board shall consider:<section prefix="(i)">the number and variety of models and calibers of personalized handguns that are available for sale;</section><section prefix="(ii)">each study, analysis, or other evaluation of personalized handguns conducted or commissioned by:</section><section prefix="(iii)">any other information that the Handgun Roster Board considers relevant.</section></section>
+      <section prefix="(2)">In reviewing the status of personalized handgun technology under paragraph (1) of this subsection, the Handgun Roster Board shall consider:<section prefix="(i)">the number and variety of models and calibers of personalized handguns that are available for sale;</section><section prefix="(ii)">each study, analysis, or other evaluation of personalized handguns conducted or commissioned by:<section prefix="1.">the National Institute of Justice;</section><section prefix="2.">a federal, State, or local law enforcement laboratory; or</section><section prefix="3.">any other entity with an expertise in handgun technology; and</section></section><section prefix="(iii)">any other information that the Handgun Roster Board considers relevant.</section></section>
     </section>
   </text>
 </law>

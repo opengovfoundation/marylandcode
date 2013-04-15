@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-656" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-656</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>656</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">To pay the principal and interest on bonds issued under this subtitle, a sanitary commission may set reasonable benefit assessments and reasonable connection charges.</section>
@@ -15,7 +15,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">Except for Worcester County, a connection charge made under this section shall be equal at least to the cost of making the connection between a water system or sewerage system and the property served by that system.</section>
-      <section prefix="(2)">In Worcester County, a connection charge shall be equal at least to:<section prefix="(i)">The actual cost of making the connection between a water system or sewerage system and the property served by the system; or</section><section prefix="(ii)">The average cost of making a connection based on:</section></section>
+      <section prefix="(2)">In Worcester County, a connection charge shall be equal at least to:<section prefix="(i)">The actual cost of making the connection between a water system or sewerage system and the property served by the system; or</section><section prefix="(ii)">The average cost of making a connection based on:<section prefix="1.">The diameter and the length of the connector; or</section><section prefix="2.">The diameter of the connector and the width of the way in which the water pipe or sewer pipe is laid.</section></section></section>
       <section prefix="(3)">In the case of connectors constructed under &#xA7; 9-661 of this subtitle during construction of the water line or sewer line, the Sanitary Commission of Worcester County shall determine a connection charge under paragraph (2)(ii) of this subsection that is the same on each side of the way in which the line is laid.</section>
     </section>
     <section prefix="(c)">The Sanitary Commission may set benefit assessments on all property, improved or unimproved, that abuts a way in which a water main or sewer has been built.</section>

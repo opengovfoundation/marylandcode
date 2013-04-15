@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-312" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Stadium Facilities Fund.</section>
     <section prefix="(b)">The Fund is:<section prefix="(1)">a special, nonlapsing fund that consists of moneys that may be appropriated, transferred, credited, or paid to it from any source; and</section><section prefix="(2)">not subject to &#xA7; 7-302 of this subtitle.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-305" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-4-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">After transfer of an inmate to the Institution for treatment as an eligible person but before expiration of the inmate's sentence, the Board of Review may grant a parole from the Institution for a period not exceeding 1 year if the Board of Review concludes that the parole:<section prefix="(1)">will not impose an unreasonable risk on society; and</section><section prefix="(2)">will assist in the remediation of the eligible person.</section></section>
     <section prefix="(b)">

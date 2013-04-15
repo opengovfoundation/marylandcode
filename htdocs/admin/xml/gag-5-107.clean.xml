@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-107" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">If the Secretary determines that any pesticide does not warrant any proposed claim for it or that the pesticide, its labeling, or other material required to be submitted do not comply with the provisions of this subtitle, he shall notify the applicant of the manner in which the pesticide, labeling, or other required material fails to comply with the subtitle, to afford the applicant an opportunity to make any necessary correction. If the applicant does not make the correction upon receiving notice, the Secretary may refuse to register the pesticide.</section>
     <section prefix="(b)">The Secretary may suspend or cancel the registration of any pesticide, if he determines the pesticide, its labeling, or other material required to be submitted does not comply with the provisions of this subtitle.</section>

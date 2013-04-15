@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-401" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-12-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">Except as provided in its governing instrument, the business and affairs of a statutory trust shall be managed under the direction of its trustees.</section>
     <section prefix="(b)">Except as provided in the governing instrument of a statutory trust, neither the power to give direction to a trustee or other person nor the exercise by any person, including a beneficial owner, of a direction shall cause that person to have duties, including fiduciary duties, or liabilities relating to the statutory trust or to a beneficial owner.</section>

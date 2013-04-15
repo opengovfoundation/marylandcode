@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="35" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-35</section_number>
-  <catch_line/>
+  <catch_line>The standard time throughout the State shall be that of the seventy-fifth meridian of longitude west...</catch_line>
+  <order_by>35</order_by>
   <text>The standard time throughout the State shall be that of the seventy-fifth meridian of longitude west from Greenwich, by which all courts, banking institutions and public offices and all legal or official proceedings shall be regulated.</text>
 </law>

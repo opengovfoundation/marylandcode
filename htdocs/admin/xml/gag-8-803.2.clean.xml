@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-803.2" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-803.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803.2</order_by>
   <text>
     <section prefix="(a)">A person who applies nutrients for hire to land used for agricultural purposes shall be a certified nutrient management consultant or work under a nutrient management consultant certified under &#xA7; 8-803 of this subtitle.</section>
     <section prefix="(b)">A person who applies nutrients for hire to land used for agricultural purposes, who is not a certified nutrient management consultant, shall make available documentation, in the form of a work order, bill of lading, or similar document, to the landowner or land manager that the person is working under a certified nutrient management consultant.</section>

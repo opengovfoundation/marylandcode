@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-103" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-17-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided, the Secretary may set a fee for any service of a public health and clinical laboratory in accordance with &#xA7; 2-104 of this article.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, the Secretary may not impose any fee for any service of a public health and clinical laboratory in connection with:<section prefix="(1)">An examination or analysis of a water supply;</section><section prefix="(2)">An examination or analysis of milk; or</section><section prefix="(3)">An inquiry that any health officer or physician makes about a communicable disease.</section></section>

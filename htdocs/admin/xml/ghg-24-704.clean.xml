@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-704" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">The allocation and use of State funds under this subtitle are subject to the following terms and conditions.</section>
     <section prefix="(b)">State funds may be used to acquire an existing building or part of a building for use as an adult day care center, or to plan, design, and construct an adult day care center, only if the local government and the Department certify to the Board of Public Works that no surplus school building or other public building appropriate for use as an adult day care center exists in the area where it is desired to locate a center.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">The purposes of this subtitle are:<section prefix="(1)">to promote the public welfare by regulating insurance rates so that they are not excessive, inadequate, or unfairly discriminatory; and</section><section prefix="(2)">to authorize and regulate cooperative action among insurers in rate making and in other matters within the scope of this subtitle.</section></section>
     <section prefix="(b)">This subtitle is not intended:<section prefix="(1)">to prohibit or discourage reasonable competition; or</section><section prefix="(2)">to prohibit or, except to the extent necessary to accomplish the purposes stated in subsection (a) of this section, to encourage uniformity in insurance rates, rating systems, rating plans, or rating practices.</section></section>

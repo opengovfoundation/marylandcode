@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1104" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">A State employee may not receive or solicit, directly or indirectly, any remuneration for providing services to an individual eligible for services under this title except for compensation provided for in the State budget, those charges provided for in Title 16 of this article, and funds received in accordance with subsection (b) of this section.</section>
     <section prefix="(b)">

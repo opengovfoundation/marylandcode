@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-110.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-110.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110.1</order_by>
   <text>
     <section prefix="(a)">For an unrestricted license, each applicant is required to have:<section prefix="(1)">Simultaneously:<section prefix="(i)">A minimum visual acuity of 20/40 in each eye; and</section><section prefix="(ii)">A continuous field of vision of at least 140 degrees; and</section></section><section prefix="(2)">Binocular vision.</section></section>
     <section prefix="(b)">If the applicant's vision can be corrected by glasses or contact lenses to meet the standards of this section, the Administration may issue the applicant a restricted license, endorsed "corrective lenses".</section>

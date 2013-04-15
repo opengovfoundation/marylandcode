@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-115" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "carrier" means:<section prefix="(i)">an insurer;</section><section prefix="(ii)">a nonprofit health service plan;</section><section prefix="(iii)">a health maintenance organization;</section><section prefix="(iv)">a dental plan organization; or</section><section prefix="(v)">any other person that provides health benefit plans subject to regulation by the State.</section></section>

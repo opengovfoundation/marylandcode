@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-302" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-302</section_number>
-  <catch_line/>
+  <catch_line>A county fire chief, fire administrator, or municipal fire chief may enforce this subtitle....</catch_line>
+  <order_by>302</order_by>
   <text>A county fire chief, fire administrator, or municipal fire chief may enforce this subtitle.</text>
 </law>

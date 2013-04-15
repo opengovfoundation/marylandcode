@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-907" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-907</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>907</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The remaining members of a limited liability company may cause articles of dissolution to be filed with the Department at any time after dissolution and before termination.</section>

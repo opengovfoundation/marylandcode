@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-102" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-10-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">This subtitle supplements other law relating to the operation and licensing of motor vehicles.</section>
     <section prefix="(b)">This title applies to any motor vehicle used in the transportation of persons in exchange for remuneration except:<section prefix="(1)">motor vehicles designed to transport more than 15 persons; and</section><section prefix="(2)">transportation solely provided by or on behalf of a unit of federal, State, or local government, or a not-for-profit organization as identified in &#xA7; 501(c)(3) and (4) of the Internal Revenue Code, that requires a criminal history records check and driving record check for its drivers, for clients of services including:<section prefix="(i)">aging support;</section><section prefix="(ii)">developmental and other disabilities;</section><section prefix="(iii)">kidney dialysis;</section><section prefix="(iv)">Medical Assistance Program;</section><section prefix="(v)">Head Start;</section><section prefix="(vi)">Welfare-to-Work;</section><section prefix="(vii)">mental health; and</section><section prefix="(viii)">job training.</section></section></section>
@@ -15,8 +15,8 @@
       <section prefix="(1)">A driver employed or offered employment by a governmental unit or not-for-profit organization under subsection (b)(2) of this section shall apply to the Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services for a State criminal history records check on or before the first day of the driver's actual employment.</section>
       <section prefix="(2)">As part of the application for a State criminal history records check, the driver employed or offered employment by the governmental unit or not-for-profit organization shall submit to the Central Repository:<section prefix="(i)">one complete set of the driver's legible fingerprints taken on a form approved by the Secretary of Public Safety and Correctional Services; and</section><section prefix="(ii)">the fee authorized under &#xA7; 10-221(b)(7) of the Criminal Procedure Article for access to State criminal history records.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">In accordance with Title 10, Subtitle 2 of the Criminal Procedure Article, the Central Repository shall provide a printed statement listing the driver's criminal convictions to:</section>
-        <section prefix="(ii)">If criminal history record information is reported to the Central Repository after the date of the initial criminal history records check, the Central Repository shall provide a revised printed statement listing the driver's criminal convictions to:</section>
+        <section prefix="(i)">In accordance with Title 10, Subtitle 2 of the Criminal Procedure Article, the Central Repository shall provide a printed statement listing the driver's criminal convictions to:<section prefix="1.">the governmental unit or not-for-profit organization; and</section><section prefix="2.">the driver.</section></section>
+        <section prefix="(ii)">If criminal history record information is reported to the Central Repository after the date of the initial criminal history records check, the Central Repository shall provide a revised printed statement listing the driver's criminal convictions to:<section prefix="1.">the governmental unit or not-for-profit organization; and</section><section prefix="2.">the driver.</section></section>
       </section>
       <section prefix="(4)">In accordance with regulations adopted by the Department of Public Safety and Correctional Services, the governmental unit or not-for-profit organization shall verify periodically a list of its drivers.</section>
       <section prefix="(5)">Information the governmental unit or not-for-profit organization obtains from the Central Repository under this subsection shall be:<section prefix="(i)">confidential and may not be redisseminated; and</section><section prefix="(ii)">used only for the employment purpose authorized by this section.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-403" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-11-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (b) of this section, and in accordance with regulations adopted by the State Board, the equipment and documentation of a voting system, including all paper and electronic documentation, shall remain secured following the verification required by &#xA7; 11-306 of this title until:<section prefix="(i)">the expiration of the period allowed for initiating a recount;</section><section prefix="(ii)">in the event of a recount, the recount is completed; and</section><section prefix="(iii)">the resolution of any election contest.</section></section>

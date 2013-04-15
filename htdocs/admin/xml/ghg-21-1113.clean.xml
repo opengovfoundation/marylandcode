@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1113" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-1113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1113</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following terms have the meanings indicated.</section>
@@ -21,7 +21,7 @@
       <section prefix="(8)">"Prescription drug" means a drug that under &#xA7; 21-220 of this title may be dispensed only on the prescription of a health practitioner who is authorized by law to prescribe the drug.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">The Department may issue an order of impoundment and immediately impound drugs or prescription records of a permit holder or an authorized prescriber if:<section prefix="(i)">A permit holder's permit or authorized prescriber's license has expired or has been revoked or suspended;</section><section prefix="(ii)">An application for a permit or license has been denied;</section><section prefix="(iii)">A board has:</section><section prefix="(iv)">The drugs pose an imminent threat to the public health, safety, or welfare; or</section><section prefix="(v)">The confidentiality of the prescription records is in imminent danger of being compromised.</section></section>
+      <section prefix="(1)">The Department may issue an order of impoundment and immediately impound drugs or prescription records of a permit holder or an authorized prescriber if:<section prefix="(i)">A permit holder's permit or authorized prescriber's license has expired or has been revoked or suspended;</section><section prefix="(ii)">An application for a permit or license has been denied;</section><section prefix="(iii)">A board has:<section prefix="1.">Determined that the permit holder or authorized prescriber failed to comply with a board order, letter of surrender, or law regarding the disposition of drugs or prescription records; and</section><section prefix="2.">Requested that the Department impound the drugs or prescription records;</section></section><section prefix="(iv)">The drugs pose an imminent threat to the public health, safety, or welfare; or</section><section prefix="(v)">The confidentiality of the prescription records is in imminent danger of being compromised.</section></section>
       <section prefix="(2)">The Department may not impound the drugs or prescription records of a permit holder or authorized prescriber who is in compliance with a board order or law specifically providing for the manner of the disposition of drugs or prescription records.</section>
     </section>
     <section prefix="(c)">

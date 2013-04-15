@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-304" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-24-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Before  October 1, 2013, the Company shall:<section prefix="(1)">file an application for a certificate of authority under this article and a statement of the risk-based capital levels of the Company as of the date of the application prepared in accordance with &#xA7; 4-303 of this article; and</section><section prefix="(2)">take all steps necessary to be an authorized domestic insurer under State law.</section></section>
     <section prefix="(b)">On approval of the application for a certificate of authority, the Commissioner shall issue to the Company a certificate of authority that authorizes the Company to issue policies under Title 9 of the Labor and Employment Article.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-402" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-9-402</section_number>
-  <catch_line/>
+  <catch_line>Each local board shall maintain a full record of provisional ballot voting in the county, including,...</catch_line>
+  <order_by>402</order_by>
   <text>Each local board shall maintain a full record of provisional ballot voting in the county, including, for each voter who votes using a provisional ballot:<section prefix=""><section prefix="(1)">the action taken with regard to the registration;</section><section prefix="(2)">the appropriate ballot style; and</section><section prefix="(3)">any other information specified by the State Board.</section></section></text>
 </law>

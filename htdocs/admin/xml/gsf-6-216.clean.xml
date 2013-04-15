@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-216" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-6-216</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>216</order_by>
   <text>
     <section prefix="(a)">The Comptroller shall keep accounts that fully and accurately state, by class, State revenues and State expenditures for each fiscal year.</section>
     <section prefix="(b)">The accounts shall be kept in the Office of the Comptroller.</section>

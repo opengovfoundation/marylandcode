@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-108" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-6-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">A tax not paid when a report or declaration is due to be filed is subject to a penalty of 5% and interest at the rate determined under &#xA7; 13-604(b) of the Tax - General Article from the date that the report or declaration was due.</section>
     <section prefix="(b)">If an additional amount is found to be due after a report or declaration has been filed, the additional amount is subject to interest at 6% per year from the due date of the report or declaration until payment is made to the Commissioner.</section>

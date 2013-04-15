@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">A warehouse receipt may be issued by any warehouse.</section>
     <section prefix="(b)">If goods, including distilled spirits and agricultural commodities, are stored under a statute requiring a bond against withdrawal or a license for the issuance of receipts in the nature of warehouse receipts, a receipt issued for the goods is deemed to be a warehouse receipt even if issued by a person that is the owner of the goods and is not a warehouse.</section>

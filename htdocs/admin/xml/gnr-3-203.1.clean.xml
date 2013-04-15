@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-203.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-203.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203.1</order_by>
   <text>
     <section prefix="(a)">When any person offers to donate a perpetual conservation easement to the Maryland Environmental Trust, notification shall be mailed by the Maryland Environmental Trust to the appropriate governing body in which the land is located, as specified in subsection (b) of this section.</section>
     <section prefix="(b)">The appropriate governing body for the purposes of this section means:<section prefix="(1)">The board of county commissioners in a commission county;</section><section prefix="(2)">The county executive and county council in a charter home rule county;</section><section prefix="(3)">The county commissioners in a Code home rule county; and</section><section prefix="(4)">The Mayor and City Council in Baltimore City.</section></section>

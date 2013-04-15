@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-211" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -34,7 +34,10 @@
       <section prefix="(5)">
         <section prefix="(i)">The plan shall include a description of the proposed energy efficiency and conservation programs and services and the proposed demand response program, anticipated costs, projected electricity savings, and any other information requested by the Commission.</section>
         <section prefix="(ii)">The plan shall address residential, commercial, and industrial sectors as appropriate, including low-income communities and low- to moderate-income communities.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">If, in connection with a program or service, the electric company proposes to provide heating, ventilation, air conditioning, or refrigeration services for its customers, the plan shall include procedures for the competitive selection of heating, ventilation, air conditioning, or refrigeration service providers.</section>
+          <section prefix="2.">On request by the electric company and for good cause shown, the Commission may waive the requirement that the electric company competitively select heating, ventilation, air conditioning, or refrigeration providers under subsubparagraph 1 of this subparagraph.</section>
+        </section>
       </section>
       <section prefix="(6)">The plan and any updates shall include a certification or recertification by the electric company that, if an affiliate of the electric company provides heating, ventilation, air conditioning, or refrigeration services through any existing contract or obligation in connection with a program or service, the customers of the electric company's regulated services will not subsidize the operations of the affiliate.</section>
       <section prefix="(7)">The Commission shall review each electric company's plan to determine if the plan is adequate and cost-effective in achieving the electricity savings and demand reduction targets specified in subsection (g) of this section.</section>

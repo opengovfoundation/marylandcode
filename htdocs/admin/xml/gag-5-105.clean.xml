@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-105" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (g) of this section, a distributor shall register with the Secretary each brand or product name of a pesticide before distributing it in the State. The registration for each pesticide expires December 31 each year.</section>
     <section prefix="(b)">Each applicant shall file with the Secretary a statement listing:<section prefix="(1)">The name and address of each applicant and the name and address of the person whose name will appear on the label, if other than the registrant;</section><section prefix="(2)">The name of the pesticide;</section><section prefix="(3)">A complete copy of the labeling accompanying the pesticide and a statement of every claim to be made for it, including directions for use; and</section><section prefix="(4)">A full description of every test conducted and the results upon which any claim is based, if requested by the Secretary.</section></section>

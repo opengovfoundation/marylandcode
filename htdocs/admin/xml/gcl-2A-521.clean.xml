@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-521" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-521</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>521</order_by>
   <text>
     <section prefix="(1)">Specific performance may be decreed if the goods are unique or in other proper circumstances.</section>
     <section prefix="(2)">A decree for specific performance may include any terms and conditions as to payment of the rent, damages, or other relief that the court deems just.</section>

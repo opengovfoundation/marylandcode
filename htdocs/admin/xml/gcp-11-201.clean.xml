@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-201</section_number>
-  <catch_line/>
+  <catch_line>A victim of an assault has the rights provided under &#xA7; 3-207 of the Criminal Law Article....</catch_line>
+  <order_by>201</order_by>
   <text>A victim of an assault has the rights provided under &#xA7; 3-207 of the Criminal Law Article.</text>
 </law>

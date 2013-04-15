@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-315" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">A boxer, kick boxer, or mixed martial arts contestant shall be allowed to enter the ring only if:<section prefix="(1)">a physician approved by the Commission declares the boxer, kick boxer, or mixed martial arts contestant to be physically fit; and</section><section prefix="(2)">the boxer, kick boxer, or mixed martial arts contestant has complied with &#xA7; 4-304.1 of this subtitle.</section></section>
     <section prefix="(b)">Each boxer, kick boxer, or mixed martial arts contestant in a contest shall submit to a chemical test of the urine of the boxer, kick boxer, or mixed martial arts contestant to detect the presence of a controlled dangerous substance defined in &#xA7; 5-101 of the Criminal Law Article or other substance that the Commission prohibits by regulation.</section>

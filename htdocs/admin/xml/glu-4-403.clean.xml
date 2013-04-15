@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-403" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-4-403</section_number>
-  <catch_line/>
+  <catch_line>The circuit court may not allow an award of costs against the board of appeals unless it appears to ...</catch_line>
+  <order_by>403</order_by>
   <text>The circuit court may not allow an award of costs against the board of appeals unless it appears to the court that the board, in making the decision that is the subject of the judicial review, acted:<section prefix=""><section prefix="(1)">with gross negligence;</section><section prefix="(2)">in bad faith; or</section><section prefix="(3)">with malice.</section></section></text>
 </law>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-601" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Abuse" means physical injury sustained by a minor as a result of cruel or inhumane treatment or as a result of a malicious act under circumstances that indicate that the minor's health or welfare is harmed or threatened by the treatment or act.</section>
       <section prefix="(3)">"Family member" means a relative of a minor by blood, adoption, or marriage.</section>
       <section prefix="(4)">"Household member" means a person who lives with or is a regular presence in a home of a minor at the time of the alleged abuse.</section>
-      <section prefix="(5)">"Severe physical injury" means:<section prefix="(i)">brain injury or bleeding within the skull;</section><section prefix="(ii)">starvation; or</section><section prefix="(iii)">physical injury that:</section></section>
+      <section prefix="(5)">"Severe physical injury" means:<section prefix="(i)">brain injury or bleeding within the skull;</section><section prefix="(ii)">starvation; or</section><section prefix="(iii)">physical injury that:<section prefix="1.">creates a substantial risk of death; or</section><section prefix="2.">causes permanent or protracted serious:</section></section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">A parent, family member, household member, or other person who has permanent or temporary care or custody or responsibility for the supervision of a minor may not cause abuse to the minor that:<section prefix="(i)">results in the death of the minor; or</section><section prefix="(ii)">causes severe physical injury to the minor.</section></section>

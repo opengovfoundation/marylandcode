@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1004" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-1004</section_number>
-  <catch_line/>
+  <catch_line>A banking institution may establish a branch in another state by any means permitted by the laws of ...</catch_line>
+  <order_by>1004</order_by>
   <text>A banking institution may establish a branch in another state by any means permitted by the laws of that state or by federal law.</text>
 </law>

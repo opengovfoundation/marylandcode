@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">This section applies except as provided in &#xA7; 11-105 of this subtitle.</section>
     <section prefix="(b)">

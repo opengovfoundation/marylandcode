@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-320" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-320</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>320</order_by>
   <text>
-    <section prefix="(a)">A juvenile court may grant guardianship of a child only if:<section prefix="(1)"><section prefix="(i)">the child does not object;</section><section prefix="(ii)">the local department:</section><section prefix="(iii)"/></section><section prefix="(2)">in accordance with &#xA7; 5-323 of this subtitle, the juvenile court finds termination of parental rights to be in the child's best interests without consent otherwise required under this section or over the child's objection.</section></section>
+    <section prefix="(a)">A juvenile court may grant guardianship of a child only if:<section prefix="(1)"><section prefix="(i)">the child does not object;</section><section prefix="(ii)">the local department:<section prefix="1.">filed the petition; or</section><section prefix="2.">did not object to another party filing the petition; and</section></section><section prefix="(iii)"><section prefix="1.">each of the child's living parents consents:</section><section prefix="2.">an administrative, executive, or judicial body of a state or other jurisdiction has granted a governmental unit or person other than a parent the power to consent to adoption, and the unit or person consents; or</section><section prefix="3.">parental rights have been terminated in compliance with the laws of a state or other jurisdiction, as described in &#xA7; 5-305 of this subtitle; or</section></section></section><section prefix="(2)">in accordance with &#xA7; 5-323 of this subtitle, the juvenile court finds termination of parental rights to be in the child's best interests without consent otherwise required under this section or over the child's objection.</section></section>
     <section prefix="(b)">A governmental unit or person:<section prefix="(1)">may condition consent or acquiescence on adoption into a specific family that a local department approves for the placement; but</section><section prefix="(2)">may not condition consent or acquiescence on any factor other than placement into a specific family.</section></section>
   </text>
 </law>

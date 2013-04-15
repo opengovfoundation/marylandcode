@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-101" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">The Commission shall develop surveys, plans, specifications, and estimates for water supply and sanitary sewer systems in the portions of the sanitary district that the Commission considers necessary.</section>
     <section prefix="(b)">The Commission shall divide the sanitary district into water or sanitary sewer districts that in the Commission's judgment:<section prefix="(1)">best serve the needs of the communities in the sanitary district; and</section><section prefix="(2)">promote the convenience and economy of the installation and operation of water supply and sanitary sewer systems.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-698" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-698</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>698</order_by>
   <text>
     <section prefix="(a)">Before a person may dig in or do any other construction on any way in a service area, the person shall obtain from the sanitary commission approval of the digging or construction.</section>
     <section prefix="(b)">To obtain approval, the person shall file with the sanitary commission a plan for the digging or construction that shows the depth and location of each:<section prefix="(1)">Conduit;</section><section prefix="(2)">Main;</section><section prefix="(3)">Pipe;</section><section prefix="(4)">Pole; and</section><section prefix="(5)">Other structure.</section></section>

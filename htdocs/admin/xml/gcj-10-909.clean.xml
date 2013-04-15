@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-909" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-909</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>909</order_by>
   <text>
     <section prefix="(a)">Patented land is not required to be stated by the patented name in a declaration in an action at law. It may be described by abuttals, course and distance, or a name by which it was acquired. The description shall be certain enough to identify the land.</section>
     <section prefix="(b)">When title of patented land is questioned, a party is not required to prove that the land was patented. A patent shall be presumed in favor of the party showing a title otherwise good.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Terms of an agreement involving successive performances apply to all performances, even if the terms are not displayed or otherwise brought to the attention of a party with respect to each successive performance, unless the terms are modified in accordance with this title or the contract.</section>
     <section prefix="(b)">If a contract provides that terms may be changed as to future performances by compliance with a described procedure, a change proposed in good faith pursuant to that procedure becomes part of the contract if the procedure:<section prefix="(1)">Reasonably notifies the other party of the change; and</section><section prefix="(2)">In a mass-market transaction, permits the other party to terminate the contract as to future performance if the change alters a material term and the party in good faith determines that the modification is unacceptable.</section></section>

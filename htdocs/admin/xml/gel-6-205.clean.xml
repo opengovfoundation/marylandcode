@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-205" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-6-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless otherwise required by the Maryland Constitution, a petition shall be filed, in person by or on behalf of the sponsor, in the office of the appropriate election authority.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-726" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-726</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>726</order_by>
   <text>
     <section prefix="(a)">The political subdivision shall:<section prefix="(1)">Select a reasonable basis for imposing the sewer service charge; and</section><section prefix="(2)">Collect the sewer service charge once, twice, or four times a year.</section></section>
     <section prefix="(b)">If any bill for sewer service remains unpaid after 60 days from the date the bill was sent:<section prefix="(1)">The bill shall be collectible from the owner of the property served in the same manner and subject to the same interest as taxes are collectible in the county in which the water or sewerage system lies; and</section><section prefix="(2)">The sewer service charges shall be a first lien on the property.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-105" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-105</section_number>
-  <catch_line/>
+  <catch_line>The Secretary may create or dissolve an advisory board for the Department of Natural Resources. The ...</catch_line>
+  <order_by>105</order_by>
   <text>The Secretary may create or dissolve an advisory board for the Department of Natural Resources. The advisory board shall be of the size as determined by the Secretary, and the members shall be representative of the different professional areas or fields of endeavor with which the Department is concerned.</text>
 </law>

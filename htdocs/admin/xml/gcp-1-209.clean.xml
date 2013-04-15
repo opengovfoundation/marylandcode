@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-209" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-1-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "department" means:<section prefix="(i)">the Department of Agriculture;</section><section prefix="(ii)">the Department of the Environment;</section><section prefix="(iii)">the Department of Health and Mental Hygiene;</section><section prefix="(iv)">the Department of Human Resources;</section><section prefix="(v)">the Department of Labor, Licensing, and Regulation; or</section><section prefix="(vi)">the Department of Public Safety and Correctional Services.</section></section>

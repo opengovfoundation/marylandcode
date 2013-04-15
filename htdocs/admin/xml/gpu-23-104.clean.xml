@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-104" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">If a privately owned water or sewer system is the subject of a condemnation proceeding under this division, a jury in the proceeding shall determine the fair market value as provided for in &#xA7; 12-105(b) of the Real Property Article.</section>
     <section prefix="(b)">

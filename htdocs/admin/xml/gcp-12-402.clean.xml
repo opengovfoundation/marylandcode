@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-12-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">After a full hearing, if the court determines that the property should not be forfeited, the court shall order that the property be released.</section>
     <section prefix="(b)">Subject to &#xA7; 12-403(b) of this subtitle, if the court determines that the property should be forfeited, the court shall order that the property be forfeited to the appropriate governing body.</section>

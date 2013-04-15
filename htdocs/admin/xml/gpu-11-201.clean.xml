@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-201" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-11-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
-      <section prefix="(1)">"Hazardous liquid" means any:<section prefix="(i)">petroleum or petroleum product;</section><section prefix="(ii)">anhydrous ammonia;</section><section prefix="(iii)">carbon dioxide; and</section><section prefix="(iv)">any substance or material that:</section></section>
+      <section prefix="(1)">"Hazardous liquid" means any:<section prefix="(i)">petroleum or petroleum product;</section><section prefix="(ii)">anhydrous ammonia;</section><section prefix="(iii)">carbon dioxide; and</section><section prefix="(iv)">any substance or material that:<section prefix="1.">is in a liquid state when transported by a pipeline facility; and</section><section prefix="2.">may pose an unreasonable risk to life or property when transported by a pipeline facility, as determined by the United States Secretary of Transportation.</section></section></section>
       <section prefix="(2)">"Hazardous liquid" does not include liquefied natural gas.</section>
     </section>
     <section prefix="(c)">"Interstate pipeline" means a pipeline, or part of a pipeline, regulated under 49 U.S.C. Chapter 601 that is used in the transportation of hazardous liquids or carbon dioxide in interstate or foreign commerce.</section>

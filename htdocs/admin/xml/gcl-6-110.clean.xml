@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-110" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-6-110</section_number>
-  <catch_line/>
+  <catch_line>When the title of a transferee to property is subject to a defect by reason of his noncompliance wit...</catch_line>
+  <order_by>110</order_by>
   <text>When the title of a transferee to property is subject to a defect by reason of his noncompliance with the requirements of this title, then:<section prefix=""><section prefix="(1)">A purchaser of any of such property from such transferee who pays no value or who takes with notice of such noncompliance takes subject to such defect, but</section><section prefix="(2)">A purchaser for value in good faith and without such notice takes free of such defect.</section></section></text>
 </law>

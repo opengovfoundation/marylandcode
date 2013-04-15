@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-10-108</section_number>
-  <catch_line/>
+  <catch_line>A security interest for the perfection of which filing or the taking of possession was required unde...</catch_line>
+  <order_by>108</order_by>
   <text>A security interest for the perfection of which filing or the taking of possession was required under the original Code and which attached prior to the effective date of this act but was not perfected shall be deemed perfected on the effective date of this act if this act permits perfection without such filing or possession or authorizes filing in the office or offices where a prior ineffective filing was made.</text>
 </law>

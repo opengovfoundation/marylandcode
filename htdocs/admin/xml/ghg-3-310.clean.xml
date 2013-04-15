@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-310" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-3-310</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise provided by State law or regulation, as each reference to a county health departmen...</catch_line>
+  <order_by>310</order_by>
   <text>Unless otherwise provided by State law or regulation, as each reference to a county health department or local health department in the Code applies to Montgomery County, the term means the Montgomery County government.</text>
 </law>

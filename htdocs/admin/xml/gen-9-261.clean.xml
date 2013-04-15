@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-261" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-261</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>261</order_by>
   <text>
     <section prefix="(a)">The following sanitary districts and persons shall keep any record that the Secretary requires:<section prefix="(1)">Any sanitary district or person who supplies water, ice, sewerage, or refuse disposal service to the public;</section><section prefix="(2)">Any person who owns an industrial establishment; and</section><section prefix="(3)">Any person who owns a private water supply system or private sewerage system.</section></section>
     <section prefix="(b)">Any sanitary district or person who keeps a record under subsection (a) of this section shall make the record available to the Secretary on request.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-240" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-240</section_number>
-  <catch_line/>
+  <catch_line>To keep a sewage sludge utilization permit, a person shall:...</catch_line>
+  <order_by>240</order_by>
   <text>To keep a sewage sludge utilization permit, a person shall:<section prefix=""><section prefix="(1)">Maintain a performance bond or other security in the amount that the Department considers sufficient to guarantee the fulfillment of any requirement related to the permit; and</section><section prefix="(2)">Comply with each other requirement that the Department sets.</section></section></text>
 </law>

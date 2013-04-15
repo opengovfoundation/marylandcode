@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-543" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-543</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>543</order_by>
   <text>
     <section prefix="(a)">A member of a local board or local panel may not receive compensation.</section>
     <section prefix="(b)">Each member of a local board or local panel is subject to the same standards of confidentiality as an employee of the Administration.</section>

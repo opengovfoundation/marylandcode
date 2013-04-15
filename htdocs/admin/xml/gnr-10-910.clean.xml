@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-910" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-910</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>910</order_by>
   <text>
     <section prefix="(a)">There is a Captive Wildlife Advisory Committee. It shall be composed of 7 members appointed by the Director of the Forest, Park and Wildlife Service.</section>
     <section prefix="(b)">Of the 7 Committee members:<section prefix="(1)">1 shall be a representative of the pet industry;</section><section prefix="(2)">1 shall be a falconer;</section><section prefix="(3)">1 shall be a representative of the shooting preserve industry;</section><section prefix="(4)">1 shall be a representative of the game breeding industry;</section><section prefix="(5)">1 shall be a representative of a humane society or like organization; and</section><section prefix="(6)">2 shall be members of the general public.</section></section>

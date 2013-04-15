@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-113.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-113.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113.1</order_by>
   <text>
     <section prefix="(a)">The Administration may certify to the State Lottery Agency the name of any obligor who is in arrears in the amount of $150 or more if:<section prefix="(1)">the Administration has accepted an assignment of support under &#xA7; 5-312(b)(2) of the Human Services Article; or</section><section prefix="(2)">the recipient of support payments has filed an application for support enforcement services with the Administration.</section></section>
     <section prefix="(b)">The certification shall contain:<section prefix="(1)">the full name of the obligor, and any other names known to be used by the obligor;</section><section prefix="(2)">the Social Security number of the obligor; and</section><section prefix="(3)">the amount of the arrearage.</section></section>

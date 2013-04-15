@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-111" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-111</section_number>
-  <catch_line/>
+  <catch_line>If a tenant named in a lease or an assignee of a lease applies to the tenant's landlord for a renewa...</catch_line>
+  <order_by>111</order_by>
   <text>If a tenant named in a lease or an assignee of a lease applies to the tenant's landlord for a renewal under a covenant in the lease giving the tenant the right to renewal, and if the tenant cannot produce vouchers or satisfactory evidence showing payment of rent accrued for three years next preceding the tenant's demand and application, the landlord, before executing the renewal of the lease or causing it to be executed, is entitled to demand and recover not more than three years' back rent, in addition to any renewal fine that may be provided for in the lease. The tenant may plead this section in bar of the recovery of any larger amount of rent.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1006.2" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-1006.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006.2</order_by>
   <text>
     <section prefix="(a)">The Department annually shall publish maps and  coordinates of oyster sanctuaries, closed oyster harvest reserve  areas, and areas closed to shellfish harvest by the Department of  the Environment.</section>
     <section prefix="(b)">

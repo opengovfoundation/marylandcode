@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-107" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-20-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">The driver of each vehicle involved in an accident that results in bodily injury to or death of any person shall, within 15 days after the accident, report the matter in writing to the Administration.</section>
     <section prefix="(b)">The driver of each vehicle involved in an accident that results in bodily injury or death of any person shall, within 15 days after the accident, file with the report evidence of liability insurance or other security that satisfies the requirements of Title 17 of this article.</section>

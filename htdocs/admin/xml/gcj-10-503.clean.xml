@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-503</section_number>
-  <catch_line/>
+  <catch_line>The determination of the laws shall be made by the court and not by the jury, and shall be reviewabl...</catch_line>
+  <order_by>503</order_by>
   <text>The determination of the laws shall be made by the court and not by the jury, and shall be reviewable. The court shall grant instructions to the jury, applying foreign law to the facts of the case as if the foreign law were domestic law. In nonjury proceedings the court shall apply foreign law to the facts of the case, as would be proper if foreign law were domestic law.</text>
 </law>

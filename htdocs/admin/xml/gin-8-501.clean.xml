@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-501" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"License" means a license issued by the Commissioner to act as a reinsurance intermediary.</section>
@@ -16,8 +16,8 @@
     </section>
     <section prefix="(e)">"Reinsurance intermediary" means a reinsurance broker or a reinsurance manager.</section>
     <section prefix="(f)">
-      <section prefix="(1)">"Reinsurance manager" means a person that:<section prefix="(i)">acts as an insurance producer for a reinsurer; and</section><section prefix="(ii)"/></section>
-      <section prefix="(2)">"Reinsurance manager" does not include:<section prefix="(i)">an employee of the reinsurer;</section><section prefix="(ii)">a United States manager of the United States branch of an alien reinsurer;</section><section prefix="(iii)">an underwriting manager that, by contract:</section><section prefix="(iv)">the manager of a group, association, pool, or organization of insurers that:</section></section>
+      <section prefix="(1)">"Reinsurance manager" means a person that:<section prefix="(i)">acts as an insurance producer for a reinsurer; and</section><section prefix="(ii)"><section prefix="1.">has authority to bind the reinsurer; or</section><section prefix="2.">manages all or part of the assumed reinsurance business of the reinsurer, including the management of a separate division, department, or underwriting office.</section></section></section>
+      <section prefix="(2)">"Reinsurance manager" does not include:<section prefix="(i)">an employee of the reinsurer;</section><section prefix="(ii)">a United States manager of the United States branch of an alien reinsurer;</section><section prefix="(iii)">an underwriting manager that, by contract:<section prefix="1.">manages all or part of the reinsurance operations of the reinsurer;</section><section prefix="2.">is under common control with the reinsurer; and</section><section prefix="3.">is not compensated based on the volume of premiums written; or</section></section><section prefix="(iv)">the manager of a group, association, pool, or organization of insurers that:<section prefix="1.">engages in joint underwriting or joint reinsurance; and</section><section prefix="2.">is subject to examination by the insurance regulatory authority of the state where the manager's principal business office is located.</section></section></section>
     </section>
     <section prefix="(g)">"Reinsurer" means a person that engages in the business of reinsurance as:<section prefix="(1)">an authorized insurer; or</section><section prefix="(2)">an accepted reinsurer approved by the Commissioner.</section></section>
   </text>

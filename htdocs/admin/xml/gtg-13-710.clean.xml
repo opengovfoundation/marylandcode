@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-710" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-710</section_number>
-  <catch_line/>
+  <catch_line>If the Comptroller or any police officer seizes distilled spirits or mash in connection with an arre...</catch_line>
+  <order_by>710</order_by>
   <text>If the Comptroller or any police officer seizes distilled spirits or mash in connection with an arrest of a person for the unlawful manufacture of distilled spirits in the State, on conviction of the person, the Comptroller shall assess a penalty of $5 for each 100 proof gallon on:<section prefix=""><section prefix="(1)">all distilled spirits seized; or</section><section prefix="(2)">the potential quantity of distilled spirits that may be manufactured from the quantity of mash seized.</section></section></text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-701" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-701</section_number>
-  <catch_line/>
+  <catch_line>Any provision in the charter of a charitable or benevolent Maryland corporation existing on June 1, ...</catch_line>
+  <order_by>701</order_by>
   <text>Any provision in the charter of a charitable or benevolent Maryland corporation existing on June 1, 1951, whether incorporated under any public general law or special act of the State, purporting to limit or restrict the tenure or enjoyment of property or income is ineffective to limit or restrict the right of the corporation to hold, enjoy, use, and deal with any property and income in any way.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-304" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">If any corporation is required to place its corporate seal to a document, it is sufficient to meet the requirements of any law of this State relating to a corporate seal to place the word "(seal)" adjacent to the signature of the person authorized to sign the document on behalf of the corporation.</section>
     <section prefix="(b)">If a Maryland corporation is required to place its corporate seal to a document, it is sufficient to meet the requirements of any law, rule, or regulation relating to a corporate seal to place the word "(seal)" adjacent to the signature of the person authorized to sign the document on behalf of the corporation.</section>

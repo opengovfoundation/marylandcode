@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-305" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-22-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The district council may adopt zoning laws that provide that the affirmative vote of:<section prefix="(i)">at least four members of the board of appeals are required to adopt a resolution that grants, revokes, suspends, or amends a special exception or extends the time in which to implement a special exception; and</section><section prefix="(ii)">a majority of the board of appeals is required to adopt a procedural motion regarding a special exception application.</section></section>

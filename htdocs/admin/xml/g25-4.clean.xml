@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="4" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-4</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>4</order_by>
   <text>
     <section prefix="(a)">Subsections (b) and (c) of this section apply only to commission counties.</section>
     <section prefix="(b)">A copy of all acts, ordinances, and resolutions adopted or passed by the county commissioners of any county under the authority of &#xA7; 3 of this article, certified by the president of the board of county commissioners and attested by the clerk to said board, shall be filed with the clerk of the court of said county, who shall record, date, and index the same without charge in a volume to be provided for the purpose by the county commissioners.</section>

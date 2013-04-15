@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-705" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 7-706 of this subtitle, before an insurer subject to registration under Subtitle 6 of this title pays a dividend or makes a distribution to its shareholders, the insurer shall notify the Commissioner of its intention to pay the dividend or make the distribution.</section>
     <section prefix="(b)">The insurer shall notify the Commissioner under subsection (a) of this section:<section prefix="(1)">within 5 business days after the declaration; and</section><section prefix="(2)">at least 10 days before the payment or distribution date.</section></section>

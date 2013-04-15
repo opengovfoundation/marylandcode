@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-903" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-903</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>903</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, if a covered employee or the dependents of a covered employee receive an amount in an action:<section prefix="(1)">the amount is in place of any award that otherwise could be made under this title; and</section><section prefix="(2)">the case is finally closed and settled.</section></section>
     <section prefix="(b)">If the amount of damages received by the covered employee or the dependents of the covered employee is less than the amount that the covered employee or dependents would otherwise be entitled to receive under this title, the covered employee or dependents may reopen the claim for compensation to recover the difference between:<section prefix="(1)">the amount of damages received by the covered employee or dependents; and</section><section prefix="(2)">the full amount of compensation that otherwise would be payable under this title.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">At the direction of the Attorney General, the Division may:<section prefix="(1)">In accordance with &#xA7; 13-205 of this article, adopt reasonable rules and regulations appropriate to effectuate any provision of this subtitle, which rules and regulations, however, may not extend, modify, or conflict with this subtitle or its reasonable implications; and</section><section prefix="(2)">Grant to a sales agency an exemption from any requirement of this subtitle if the sales agency uses a program which is approximately as or more comprehensive than the program of unit pricing required by this subtitle.</section></section>
     <section prefix="(b)">A person who willfully violates any rule or regulation of the Division, in addition to any other penalty provided, is subject to the same penalty applicable to violation of the provision of this subtitle to which the rule or regulation relates.</section>

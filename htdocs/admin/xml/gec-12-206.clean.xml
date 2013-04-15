@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-206" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-12-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Bonds shall be payable from the special fund established under &#xA7; 12-208 of this subtitle.</section>
     <section prefix="(b)">The governing body of the political subdivision or the issuer may:<section prefix="(1)">pledge its full faith and credit or other assets and revenues to pay the bonds; and</section><section prefix="(2)">establish a sinking fund or a debt service reserve fund for the bonds.</section></section>

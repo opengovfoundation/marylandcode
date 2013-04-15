@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-245" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-245</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>245</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">The Administration may:<section prefix="(i)">borrow money and issue bonds or notes; and</section><section prefix="(ii)">use the proceeds or the earnings from the investment of the proceeds to provide money to:</section></section>
+      <section prefix="(1)">The Administration may:<section prefix="(i)">borrow money and issue bonds or notes; and</section><section prefix="(ii)">use the proceeds or the earnings from the investment of the proceeds to provide money to:<section prefix="1.">make, purchase, or participate in making mortgage loans or other loans;</section><section prefix="2.">purchase securities backed by mortgage loans or other loans;</section><section prefix="3.">purchase local obligations;</section><section prefix="4.">meet any development cost; or</section><section prefix="5.">achieve any other purpose of the Administration.</section></section></section>
       <section prefix="(2)">Bonds or notes may be issued only if:<section prefix="(i)">the Director, or a person that the Secretary designates, determines that the issuance is necessary to achieve one or more purposes of the Administration; and</section><section prefix="(ii)">the Secretary approves the determination.</section></section>
       <section prefix="(3)">Without any other proceeding, action, or approval, the determination is effective when approved by the Secretary and is conclusive.</section>
     </section>

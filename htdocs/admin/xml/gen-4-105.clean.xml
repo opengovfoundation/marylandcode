@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-105" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">In this section, "construction" means land clearing, grubbing, topsoil stripping, soil movement, grading, cutting and filling, transporting, or otherwise disturbing land for any purpose.</section>
-        <section prefix="(ii)">"Construction" includes land disturbing activities for the purpose of:</section>
+        <section prefix="(ii)">"Construction" includes land disturbing activities for the purpose of:<section prefix="1.">Constructing buildings;</section><section prefix="2.">Mining minerals;</section><section prefix="3.">Developing golf courses; and</section><section prefix="4.">Constructing roads and installing utilities.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">Before any person begins any construction, the appropriate approval authority shall first receive, review, and approve the proposed earth change and the sediment control plan.</section>
-        <section prefix="(ii)">Except as provided in subsection (b) of this section, the approval authority is:</section>
-        <section prefix="(iii)">Criteria used by the Department for review and approvals under subparagraph (ii)4 of this paragraph:</section>
+        <section prefix="(ii)">Except as provided in subsection (b) of this section, the approval authority is:<section prefix="1.">The appropriate soil conservation district;</section><section prefix="2.">A municipal corporation in Montgomery County that is designated by a soil conservation district under paragraph (6) of this subsection;</section><section prefix="3.">Any municipality not within a soil conservation district;</section><section prefix="4.">If a State or federal unit undertakes any construction, the Department; or</section><section prefix="5.">For abandoned mine reclamation projects conducted by the Department pursuant to Title 15, Subtitles 5, 6, and 11 of this article, the Department.</section></section>
+        <section prefix="(iii)">Criteria used by the Department for review and approvals under subparagraph (ii)4 of this paragraph:<section prefix="1.">Shall meet or exceed current Maryland standards and specifications for soil erosion and sediment control; or</section><section prefix="2.">If alternative standards are applied, shall be reviewed and approved by the Department.</section></section>
       </section>
       <section prefix="(3)">A person may not begin or perform any construction unless the person:<section prefix="(i)">Obtains an approved sediment control plan;</section><section prefix="(ii)">Implements the measures contained in the approved sediment control plan;</section><section prefix="(iii)">Conducts the construction as specified in the sequence of construction contained in the approved sediment control plan;</section><section prefix="(iv)">Maintains the provisions of the approved sediment control plan; and</section><section prefix="(v)">Implements any sediment control measures reasonably necessary to control sediment runoff.</section></section>
       <section prefix="(4)">In consultation with the person responsible for performing the construction, the Department, jurisdictions delegated enforcement authority under &#xA7; 4-103(e)(2) of this subtitle, or the appropriate approval agency may require modifications to an approved sediment control plan if the approved plan is not adequate to control sediment or erosion.</section>

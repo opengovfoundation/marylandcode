@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-10-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraphs (2) and (3) of this subsection, a mixing building or storage building of a fireworks plant shall be located at least:<section prefix="(i)">1,000 feet from a school, church, hospital, place of public assembly, or gasoline or fuel oil storage building or service station; and</section><section prefix="(ii)">200 feet from any other inhabited building, a highway, or a railroad.</section></section>
       <section prefix="(2)">A building within a fireworks plant that contains hazardous mixes or items may not be located nearer to the fireworks plant property line than is authorized under regulations adopted by the State Fire Prevention Commission.</section>
       <section prefix="(3)">
-        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a finishing and assembling building shall be located at least:</section>
+        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a finishing and assembling building shall be located at least:<section prefix="1.">75 feet from any other finishing and assembling building; and</section><section prefix="2.">200 feet from any storage building used primarily to store finished fireworks other than sparklers.</section></section>
         <section prefix="(ii)">If a candle building or rocket press building of a fireworks plant is constructed of approved fire-resistant materials, is barricaded, and otherwise meets the requirements of the State Fire Prevention Commission, the building shall be located at least 50 feet from other finishing and assembling buildings.</section>
       </section>
       <section prefix="(4)">A licensee may package and repackage 1.4 G fireworks in finished form in a storage building if there is a minimum separation distance of 25 feet between the packaging area and any stored fireworks.</section>

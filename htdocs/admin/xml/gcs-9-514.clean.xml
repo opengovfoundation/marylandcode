@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-514" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-514</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>514</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">All expenses incurred and disbursements made by the Division of Correction under &#xA7; 9-511 of this subtitle for the guarding, transporting, lodging, feeding, clothing, and medical and other care of inmates working under &#xA7;&#xA7; 9-508 through 9-513 of this subtitle for the State Highway Administration shall be paid out of money in the Treasury that has not been otherwise appropriated and is available for those purposes or, subject to paragraph (2) of this subsection, out of money appropriated for those purposes.</section>

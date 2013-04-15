@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-611" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-611</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>611</order_by>
   <text>
     <section prefix="(a)">When articles of amendment become effective, the amendment becomes part of the charter of the corporation.</section>
     <section prefix="(b)">When the Department accepts articles of restatement for record:<section prefix="(1)">If they were not approved in the manner required for a charter amendment, they become evidence of the charter; and</section><section prefix="(2)">If the articles were approved in the manner required for a charter amendment, they become the charter of the corporation and supersede all prior charter documents.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-302.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-10-302.1</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not apply to:...</catch_line>
+  <order_by>302.1</order_by>
   <text>This subtitle does not apply to:<section prefix=""><section prefix="(1)">the release of a lot subject to an agricultural land preservation easement under &#xA7; 2-513 of the Agriculture Article; or</section><section prefix="(2)">the sale, transfer, exchange, lease, or other disposition of real property held by the Maryland Agricultural Land Preservation Foundation under the Critical Farms Program under &#xA7; 2-517 of the Agriculture Article.</section></section></text>
 </law>

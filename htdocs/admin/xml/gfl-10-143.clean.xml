@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-143" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-143</section_number>
-  <catch_line/>
+  <catch_line>Upon request of the Administration, a child support lien arising in another state may be recorded an...</catch_line>
+  <order_by>143</order_by>
   <text>Upon request of the Administration, a child support lien arising in another state may be recorded and enforced in the same manner and to the same extent as a lien arising under &#xA7; 10-140 of this subtitle.</text>
 </law>

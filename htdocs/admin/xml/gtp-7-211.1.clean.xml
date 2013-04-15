@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-211.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-211.1</section_number>
-  <catch_line/>
+  <catch_line>Property is not subject to property tax if the property:...</catch_line>
+  <order_by>211.1</order_by>
   <text>Property is not subject to property tax if the property:<section prefix=""><section prefix="(1)">is actually used exclusively for heating, cooling, or generation or distribution of electricity for property owned and occupied by the State; and</section><section prefix="(2)">was not subject to property taxation for the taxable year beginning July 1, 1996.</section></section></text>
 </law>

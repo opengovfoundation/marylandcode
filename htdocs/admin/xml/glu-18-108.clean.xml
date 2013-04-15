@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-108" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">After adoption of the budgets by the county councils, the budgets may be amended by resolution by the county councils on their initiative or at the request of the Commission.</section>
     <section prefix="(b)">Before adopting a budget amendment under this subsection, a county council shall:<section prefix="(1)">receive recommendations from the respective county executive; and</section><section prefix="(2)">hold a public hearing on reasonable notice to the public.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-12-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following terms have the meanings indicated.</section>
     <section prefix="(b)">"Appellate court" means any court which reviews a final judgment of another court, and includes any court authorized to enter judgment following a de novo trial on appeal of a case or proceeding previously tried in another court.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-209" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">In this section, "viable" means that stage when, in the best medical judgment of the attending physician based on the particular facts of the case before the physician, there is a reasonable likelihood of the fetus's sustained survival outside the womb.</section>
     <section prefix="(b)">Except as otherwise provided in this subtitle, the State may not interfere with the decision of a woman to terminate a pregnancy:<section prefix="(1)">Before the fetus is viable; or</section><section prefix="(2)">At any time during the woman's pregnancy, if:<section prefix="(i)">The termination procedure is necessary to protect the life or health of the woman; or</section><section prefix="(ii)">The fetus is affected by genetic defect or serious deformity or abnormality.</section></section></section>

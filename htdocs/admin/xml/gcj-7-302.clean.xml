@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-7-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) through (f) of this section, the clerks of the District Court shall:<section prefix="(1)">Collect costs, fines, forfeitures, or penalties imposed by the court; and</section><section prefix="(2)">Remit them to the State under a system agreed upon by the Chief Judge of the District Court and the Comptroller.</section></section>
     <section prefix="(b)">If a parking or impounding fine, penalty, or forfeiture, or a fine, penalty, or forfeiture relating to violation of housing, building, fire, health, or sanitation codes, or a Mass Transit Fare Payment Statute, or a fine or penalty relating to failure to pay the prescribed toll at an Authority highway, as defined in &#xA7; 21-1401 of the Transportation Article, is collected by the District Court pursuant to a local ordinance, law, or regulation of a political subdivision or municipality, or pursuant to a regulation of an agency of State government authorized to regulate parking of motor vehicles, or pursuant to a statute pertaining to the payment of mass transit fares, or pursuant to a statute pertaining to the failure to pay tolls, it shall be remitted to the respective local government, or to the State agency.</section>
@@ -16,8 +16,11 @@
       <section prefix="(2)">A citation issued as the result of a vehicle height monitoring system, a traffic control signal monitoring system, or a speed monitoring system, including a work zone speed control system, controlled by a political subdivision or a school bus monitoring camera shall provide that, in an uncontested case, the penalty shall be paid directly to that political subdivision. A citation issued as the result of a traffic control signal monitoring system or a work zone speed control system controlled by a State agency, or as a result of a vehicle height monitoring system, a traffic control signal monitoring system, a speed monitoring system, or a school bus monitoring camera in a case contested in District Court, shall provide that the penalty shall be paid directly to the District Court.</section>
       <section prefix="(3)">Civil penalties resulting from citations issued using a vehicle height monitoring system, traffic control signal monitoring system, speed monitoring system, work zone speed control system, or school bus monitoring camera that are collected by the District Court shall be collected in accordance with subsection (a) of this section and distributed in accordance with &#xA7; 12-118 of the Transportation Article.</section>
       <section prefix="(4)">
-        <section prefix="(i)">From the fines collected by a political subdivision as a result of violations enforced by speed monitoring systems or school bus monitoring cameras, a political subdivision:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">From the fines collected by a political subdivision as a result of violations enforced by speed monitoring systems or school bus monitoring cameras, a political subdivision:<section prefix="1.">May recover the costs of implementing and administering the speed monitoring systems or school bus monitoring cameras; and</section><section prefix="2.">Subject to subparagraph (ii) of this paragraph, may spend any remaining balance solely for public safety purposes, including pedestrian safety programs.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">For any fiscal year, if the balance remaining from the fines collected by a political subdivision as a result of violations enforced by speed monitoring systems, after the costs of implementing and administering the systems are recovered in accordance with subparagraph (i)1 of this paragraph, is greater than 10% of the total revenues of the political subdivision for the fiscal year, the political subdivision shall remit any funds that exceed 10% of the total revenues to the Comptroller.</section>
+          <section prefix="2.">The Comptroller shall deposit any money remitted under this subparagraph to the General Fund of the State.</section>
+        </section>
       </section>
       <section prefix="(5)">From the fines collected by Baltimore City as a result of violations enforced by vehicle height monitoring systems, Baltimore City may:<section prefix="(i)">Recover the costs of implementing and administering the vehicle height monitoring systems; and</section><section prefix="(ii)">Spend the remaining balance solely on roadway improvements.</section></section>
     </section>

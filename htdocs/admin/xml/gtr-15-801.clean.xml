@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-801" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Driving instructor" means any individual who:<section prefix="(1)">For compensation, under any form of agreement or arrangement with a drivers' school, gives or offers to give instruction in the driving of motor vehicles; or</section><section prefix="(2)">Otherwise gives or offers to give any other individual instruction in the driving of motor vehicles and receives or expects to receive compensation for that instruction.</section></section>

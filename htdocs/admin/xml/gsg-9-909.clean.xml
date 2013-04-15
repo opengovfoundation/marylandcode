@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-909" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9-909</section_number>
-  <catch_line/>
+  <catch_line>"Home" means the home or homes for veterans that the Department supervises....</catch_line>
+  <order_by>909</order_by>
   <text>"Home" means the home or homes for veterans that the Department supervises.</text>
 </law>

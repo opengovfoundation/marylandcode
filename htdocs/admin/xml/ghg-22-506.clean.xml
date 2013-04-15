@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-506" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">To enforce this subtitle, the Secretary or a representative of the Secretary at any reasonable time may:<section prefix="(1)">Enter and inspect any factory, warehouse, or establishment in which the Secretary believes hazardous material is manufactured, processed, packaged, or stored; and</section><section prefix="(2)">Enter and inspect any vehicle that is used to transport or hold hazardous materials in commerce.</section></section>
     <section prefix="(b)">As part of any inspection under subsection (a) of this section, the Secretary may inspect any pertinent equipment, labeling, or finished or unfinished substance or toy.</section>

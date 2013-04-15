@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-502" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">This subtitle does not apply in Washington County.</section>
     <section prefix="(b)">This subtitle does not impair the right of Baltimore City or a municipal corporation of the State to impose a tax on billiard tables.</section>

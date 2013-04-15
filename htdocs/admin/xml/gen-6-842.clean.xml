@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-842" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-842</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>842</order_by>
   <text>
     <section prefix="(a)">An offeror who fails to comply with the terms of a qualified offer, or who falsely certifies compliance under &#xA7; 6-839(c) of this subtitle, shall be deemed to be out of compliance with the provisions of Part IV of this subtitle with respect to the person who is the subject of the qualified offer for purposes of &#xA7; 6-836 of this subtitle.</section>
     <section prefix="(b)">The statute of limitations shall be tolled until the failure to comply under subsection (a) of this section is discovered.</section>

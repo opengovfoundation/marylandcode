@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-121" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-121</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>121</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the State's Attorney receives a report that alleges that a committed person has violated a condition of a conditional release, or if the State's Attorney is notified by the court or Health Department under subsection (b) of this section, the State's Attorney shall determine whether there is a factual basis for the complaint.</section>

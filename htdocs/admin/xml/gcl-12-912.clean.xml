@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-912" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-912</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>912</order_by>
   <text>
     <section prefix="(a)">A credit grantor may, if the agreement governing a revolving credit plan permits, at any time amend the terms of the agreement in accordance with the provisions of this section including:<section prefix="(1)">The terms governing the periodic percentage rate used to calculate interest or finance charges;</section><section prefix="(2)">The method of computing the outstanding unpaid indebtedness to which the rate is applied;</section><section prefix="(3)">The amounts of other charges; and</section><section prefix="(4)">The applicable repayment schedule.</section></section>
     <section prefix="(b)">
@@ -16,7 +16,7 @@
       <section prefix="(1)">Subject to the provisions of this paragraph, an amendment made under this section shall become effective as to a particular borrower on:<section prefix="(i)">The first day of the billing cycle during which the effective date of the amendment occurs; or</section><section prefix="(ii)">Any later date specified in the notice of amendment.</section></section>
       <section prefix="(2)">After receiving the notice of amendment under subsection (b) of this section, the borrower may send a signed, written notice of refusal to the creditor that the borrower refuses to accept the amendment.</section>
       <section prefix="(3)">The notice of refusal sent by the borrower may be accompanied by a payment on the borrower's account and shall be mailed within 25 days of the mailing of the notice of amendment.</section>
-      <section prefix="(4)">Any borrower who gives timely notice of refusal may use the account pursuant to its original, unamended terms for:<section prefix="(i)"/><section prefix="(ii)">If no fee is paid for use of the plan or if the remaining time period for which a fee was paid for use of the plan through the borrower's credit device is less than 3 months, a period of time of not less than 3 months from the date of mailing of the notice of refusal.</section></section>
+      <section prefix="(4)">Any borrower who gives timely notice of refusal may use the account pursuant to its original, unamended terms for:<section prefix="(i)"><section prefix="1.">The duration of the time for which a fee was paid for use of the plan through the borrower's credit device; or</section><section prefix="2.">Any longer period of time as determined by the credit grantor; or</section></section><section prefix="(ii)">If no fee is paid for use of the plan or if the remaining time period for which a fee was paid for use of the plan through the borrower's credit device is less than 3 months, a period of time of not less than 3 months from the date of mailing of the notice of refusal.</section></section>
       <section prefix="(5)">At the expiration of the periods provided under paragraph (4) of this subsection, the borrower who has given a timely notice of refusal may pay any outstanding unpaid indebtedness in the account under the terms of the unamended agreement governing the plan.</section>
       <section prefix="(6)">A credit grantor amending the agreement governing a revolving credit plan under this subsection shall include in the notice of amendment under subsection (b) of this section a statement in at least 10 point type that:<section prefix="(i)">If a written notice of refusal from the borrower in which the borrower refuses to accept the amendment is not received by the credit grantor within 25 days of the mailing of the notice of amendment, the amendment will become effective on the first day of the billing cycle during which the effective date of the amendment occurs or at any later date specified in the notice of amendment;</section><section prefix="(ii)">Enumerates the borrower's rights under paragraphs (4) and (5) of this subsection upon timely notice of refusal by the borrower; and</section><section prefix="(iii)">Includes the address to which the borrower may send notice of a refusal.</section></section>
       <section prefix="(7)">The notice of amendment under subsection (b) of this section, shall be enclosed in an envelope that contains on its face a statement in 10 point type that an important notice of an increase in rates or fees of the revolving credit plan is enclosed.</section>

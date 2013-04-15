@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1108" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-1108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1108</order_by>
   <text>
     <section prefix="(a)">The Commissioner may require any changes to the application or exhibits that the Department considers necessary.</section>
     <section prefix="(b)">If the application for conversion is denied, the Commissioner shall endorse and date a copy of the application "denied", return it to the mutual association, and certify this action to the State of Maryland Deposit Insurance Fund Corporation.</section>

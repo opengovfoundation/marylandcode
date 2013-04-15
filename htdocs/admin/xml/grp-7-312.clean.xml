@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-312" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-312</section_number>
-  <catch_line/>
+  <catch_line>A purchaser of a residence in default may not:...</catch_line>
+  <order_by>312</order_by>
   <text>A purchaser of a residence in default may not:<section prefix=""><section prefix="(1)">Represent, directly or indirectly, that:<section prefix="(i)">The purchaser is acting as an advisor or a consultant, or in any other manner represent that the purchaser is acting on behalf of the homeowner;</section><section prefix="(ii)">The purchaser has certification or licensure that the purchaser does not have;</section><section prefix="(iii)">The purchaser is assisting the homeowner to "save the house" or use a substantially similar phrase; or</section><section prefix="(iv)">The purchaser is assisting the homeowner in preventing a foreclosure if the result of the transaction is that the homeowner will no longer own the property;</section></section><section prefix="(2)">Make any other statements, directly or by implication, or engage in any other conduct that is false, deceptive, or misleading, or that has the likelihood to cause confusion or misunderstanding, including statements regarding the value of the residence in default, the amount of proceeds the homeowner will receive after a sale or transfer, any contract term, or the homeowner's rights or obligations incident to or arising out of the sale or transfer; or</section><section prefix="(3)">Until the homeowner's right to rescind the transaction has expired:<section prefix="(i)">Record any document, including an instrument of conveyance, signed by the homeowner; or</section><section prefix="(ii)">Transfer or encumber or purport to transfer or encumber any interest in the residence in default to any third party.</section></section></section></text>
 </law>

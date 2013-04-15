@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-518" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-518</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>518</order_by>
   <text>
     <section prefix="(a)">This section applies only in the City of Frederick.</section>
     <section prefix="(b)">A District Court judge who tries and commits a vagrant or other offender of a municipal law or ordinance, whenever practicable, shall assign the offender to work on the public roads of the county or City of Frederick.</section>

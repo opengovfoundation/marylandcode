@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-111" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">The Department shall establish a coordinated statewide system for screening all newborn infants in the State for certain hereditary and congenital disorders associated with severe problems of health or development, except when the parent or guardian of the newborn infant objects.</section>
     <section prefix="(b)">Except as provided in &#xA7; 13-112 of this subtitle, the Department's public health laboratory is the sole laboratory authorized to perform tests on specimens from newborn infants collected to screen for hereditary and congenital disorders as determined under subsection (d)(2) of this section.</section>

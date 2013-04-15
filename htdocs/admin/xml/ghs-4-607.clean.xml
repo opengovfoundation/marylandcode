@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-607" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-607</section_number>
-  <catch_line/>
-  <text>To qualify for a Program loan, a group home sponsor shall own and operate a group home and be:<section prefix=""><section prefix="(1)">a nonprofit organization;</section><section prefix="(2)">an individual; or</section><section prefix="(3)">a limited partnership if:<section prefix="(i)"/><section prefix="(ii)">the limited partnership is formed to undertake a group home project that is totally or partly eligible for a federal low income housing tax credit program or any other federal program or incentive; and</section><section prefix="(iii)">a nonprofit organization manages the project or receives the net cash flow from or the residual sale proceeds on sale of the group home.</section></section></section></text>
+  <catch_line>To qualify for a Program loan, a group home sponsor shall own and operate a group home and be:...</catch_line>
+  <order_by>607</order_by>
+  <text>To qualify for a Program loan, a group home sponsor shall own and operate a group home and be:<section prefix=""><section prefix="(1)">a nonprofit organization;</section><section prefix="(2)">an individual; or</section><section prefix="(3)">a limited partnership if:<section prefix="(i)"><section prefix="1.">each general partner qualifies as a nonprofit organization; or</section><section prefix="2.">each general partner is a wholly owned subsidiary of a nonprofit organization;</section></section><section prefix="(ii)">the limited partnership is formed to undertake a group home project that is totally or partly eligible for a federal low income housing tax credit program or any other federal program or incentive; and</section><section prefix="(iii)">a nonprofit organization manages the project or receives the net cash flow from or the residual sale proceeds on sale of the group home.</section></section></section></text>
 </law>

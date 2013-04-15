@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, when an individual is convicted in any court of the State and sentenced to imprisonment in the Division of Correction, the sheriff of the county in which the court is located shall:<section prefix="(1)">remove the individual from the court as soon as possible; and</section><section prefix="(2)">deliver the individual to the Division of Correction at the expense of the county.</section></section>
     <section prefix="(b)">The County Council of Anne Arundel County, by resolution or law, may provide that a certified law enforcement officer other than the Sheriff shall remove an individual from court after conviction.</section>

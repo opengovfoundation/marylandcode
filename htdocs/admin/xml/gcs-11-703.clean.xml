@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-703" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -26,14 +26,14 @@
         <section prefix="(ii)">In addition to participation at the recommendation of a judge under subparagraph (i) of this paragraph, the Administrator may place the inmate in the home detention program unless the court has ordered otherwise.</section>
       </section>
       <section prefix="(3)">Subject to paragraph (4) of this subsection, an inmate is eligible for the home detention program if the inmate:<section prefix="(i)">is recommended for the program by a judge or placed in the program by the Administrator under paragraph (2) of this subsection; and</section><section prefix="(ii)">has no other charges pending in any jurisdiction.</section></section>
-      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:</section></section>
+      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:<section prefix="1.">child abuse under &#xA7; 3-601 or &#xA7; 3-602 of the Criminal Law Article; or</section><section prefix="2.">escape under &#xA7; 9-404 of the Criminal Law Article.</section></section></section>
       <section prefix="(5)">While participating in the home detention program, an inmate is responsible for:<section prefix="(i)">the costs of the inmate's medical care and related expenses; and</section><section prefix="(ii)">the costs of the inmate's lodging, food, clothing, transportation, restitution, and taxes.</section></section>
       <section prefix="(6)">The Administrator may:<section prefix="(i)">collect a reasonable fee from each inmate participating in the home detention program; or</section><section prefix="(ii)">waive or reduce the fee.</section></section>
       <section prefix="(7)">The Administrator may determine the maximum number of participants in the home detention program.</section>
       <section prefix="(8)">An inmate who knowingly violates a term or condition of the home detention program is subject to:<section prefix="(i)">the penalties provided under &#xA7; 11-726 of this subtitle; and</section><section prefix="(ii)">any other disciplinary action authorized under law.</section></section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">The Administrator may:<section prefix="(i)">establish, for the rehabilitation and training of an inmate who is sentenced to imprisonment in a local correctional facility, a program that enables the inmate to:</section><section prefix="(ii)">establish eligibility criteria for participation in a program;</section><section prefix="(iii)">release an eligible inmate from actual confinement to participate in a program;</section><section prefix="(iv)">establish any other training or rehabilitation program;</section><section prefix="(v)">reduce a participant's sentence 1 day for each day that the participant:</section><section prefix="(vi)">after an administrative hearing, cancel any earned diminution of an inmate's term of confinement if the inmate violates a regulation adopted under this section.</section></section>
+      <section prefix="(1)">The Administrator may:<section prefix="(i)">establish, for the rehabilitation and training of an inmate who is sentenced to imprisonment in a local correctional facility, a program that enables the inmate to:<section prefix="1.">attend a vocational or educational institution;</section><section prefix="2.">work at gainful, private employment; or</section><section prefix="3.">participate in any other training or rehabilitation program;</section></section><section prefix="(ii)">establish eligibility criteria for participation in a program;</section><section prefix="(iii)">release an eligible inmate from actual confinement to participate in a program;</section><section prefix="(iv)">establish any other training or rehabilitation program;</section><section prefix="(v)">reduce a participant's sentence 1 day for each day that the participant:<section prefix="1.">performs with exceptional industry, application, and skill any industrial, agricultural, or administrative task assigned to the participant; or</section><section prefix="2.">performs with satisfactory industry, application, and progress in the program to which the participant is assigned; and</section></section><section prefix="(vi)">after an administrative hearing, cancel any earned diminution of an inmate's term of confinement if the inmate violates a regulation adopted under this section.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">The Administrator shall adopt regulations to conduct each program.</section>
         <section prefix="(ii)">In adopting the regulations, the Administrator shall consider the safety of the public and the security of a local correctional facility.</section>
@@ -42,9 +42,9 @@
       <section prefix="(3)">While not released from confinement under the terms of a program, each participant shall be confined in a local correctional facility.</section>
       <section prefix="(4)">
         <section prefix="(i)">The Administrator or Administrator's designee shall collect each participant's total earnings, less payroll deductions.</section>
-        <section prefix="(ii)">From the participant's earnings, the Administrator or designee shall pay:</section>
-        <section prefix="(iii)">The Administrator may:</section>
-        <section prefix="(iv)">The Administrator or designee shall:</section>
+        <section prefix="(ii)">From the participant's earnings, the Administrator or designee shall pay:<section prefix="1.">voluntary or court-ordered payments for support of a dependent; and</section><section prefix="2.">court-ordered payments for restitution.</section></section>
+        <section prefix="(iii)">The Administrator may:<section prefix="1.">deduct a reasonable fee from the earnings of each inmate participating in the program; or</section><section prefix="2.">waive or reduce the fee.</section></section>
+        <section prefix="(iv)">The Administrator or designee shall:<section prefix="1.">credit to the participant's account any remaining balance; and</section><section prefix="2.">dispose of the balance as requested by the participant and as approved by the Administrator.</section></section>
       </section>
       <section prefix="(5)">A participant who knowingly violates a regulation adopted under this section:<section prefix="(i)">is subject to removal from the program;</section><section prefix="(ii)">after an administrative hearing, is subject to cancellation of any earned diminution of the inmate's term of confinement; and</section><section prefix="(iii)">is subject to the provisions of &#xA7; 11-726 of this subtitle.</section></section>
     </section>

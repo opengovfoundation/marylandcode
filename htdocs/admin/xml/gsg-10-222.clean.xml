@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-222" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-222</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>222</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (b) of this section, a party who is aggrieved by the final decision in a contested case is entitled to judicial review of the decision as provided in this section.</section>
@@ -23,7 +23,7 @@
     </section>
     <section prefix="(f)">
       <section prefix="(1)">Judicial review of disputed issues of fact shall be confined to the record for judicial review supplemented by additional evidence taken pursuant to this section.</section>
-      <section prefix="(2)">The court may order the presiding officer to take additional evidence on terms that the court considers proper if:<section prefix="(i)">before the hearing date in court, a party applies for leave to offer additional evidence; and</section><section prefix="(ii)">the court is satisfied that:</section></section>
+      <section prefix="(2)">The court may order the presiding officer to take additional evidence on terms that the court considers proper if:<section prefix="(i)">before the hearing date in court, a party applies for leave to offer additional evidence; and</section><section prefix="(ii)">the court is satisfied that:<section prefix="1.">the evidence is material; and</section><section prefix="2.">there were good reasons for the failure to offer the evidence in the proceeding before the presiding officer.</section></section></section>
       <section prefix="(3)">On the basis of the additional evidence, the final decision maker may modify the findings and decision.</section>
       <section prefix="(4)">The final decision maker shall file with the reviewing court, as part of the record:<section prefix="(i)">the additional evidence; and</section><section prefix="(ii)">any modifications of the findings or decision.</section></section>
     </section>

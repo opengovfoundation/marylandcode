@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-204" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">The members present at a meeting are a quorum to do business.</section>
     <section prefix="(b)">The Advisory Council shall meet at least twice a year, at the times and places that it determines.</section>

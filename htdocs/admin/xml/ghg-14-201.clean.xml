@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-201" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-14-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Day care center for the elderly" means a place that:<section prefix="(1)">Is operated to provide, with or without charge, care for elderly individuals; and</section><section prefix="(2)">Either is:<section prefix="(i)">Designated for group care for at least 4 elderly individuals; or</section><section prefix="(ii)">A family home that provides care for 2 or 3 elderly individuals.</section></section></section>
-    <section prefix="(c)">"Elderly individual" means an individual who:<section prefix="(1)">Is 55 years old or older;</section><section prefix="(2)">Lives alone or with a spouse, family relative, or friend;</section><section prefix="(3)">Needs temporary supervision and care during a part of a day in a protective group setting; and</section><section prefix="(4)">Has a disability that is:<section prefix="(i)">A reasonably static physical impairment that prevents:</section><section prefix="(ii)">A permanent or recurrent mental impairment.</section></section></section>
+    <section prefix="(c)">"Elderly individual" means an individual who:<section prefix="(1)">Is 55 years old or older;</section><section prefix="(2)">Lives alone or with a spouse, family relative, or friend;</section><section prefix="(3)">Needs temporary supervision and care during a part of a day in a protective group setting; and</section><section prefix="(4)">Has a disability that is:<section prefix="(i)">A reasonably static physical impairment that prevents:<section prefix="1.">Gainful employment; or</section><section prefix="2.">The accomplishment of the routine of normal daily activities without assistance; or</section></section><section prefix="(ii)">A permanent or recurrent mental impairment.</section></section></section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-114" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-21-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">Unless otherwise agreed between the sender and the recipient, an electronic record is sent when it:<section prefix="(1)">Is addressed properly or otherwise directed properly to an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record;</section><section prefix="(2)">Is in a form capable of being processed by that system; and</section><section prefix="(3)">Enters an information processing system outside the control of the sender or of a person that sent the electronic record on behalf of the sender or enters a region of the information processing system designated or used by the recipient which is under the control of the recipient.</section></section>
     <section prefix="(b)">Unless otherwise agreed between the sender and the recipient, an electronic record is received when:<section prefix="(1)">It enters an information processing system that the recipient has designated or uses for the purpose of receiving electronic records or information of the type sent and from which the recipient is able to retrieve the electronic record; and</section><section prefix="(2)">It is in a form capable of being processed by that system.</section></section>

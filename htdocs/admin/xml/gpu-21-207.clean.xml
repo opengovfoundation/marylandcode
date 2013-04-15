@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-207" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-21-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Commission and the owner of the land or interest in land being taken are unable to agree as to the compensation and damages, if any, caused by the taking, the Commission shall institute condemnation proceedings in the manner required by the Real Property Article and the Maryland Rules.</section>

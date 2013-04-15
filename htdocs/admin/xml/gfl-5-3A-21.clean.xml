@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3A-21" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3A-21</section_number>
-  <catch_line/>
+  <catch_line>In an order entered under this subtitle, a court shall document:...</catch_line>
+  <order_by>21</order_by>
   <text>In an order entered under this subtitle, a court shall document:<section prefix=""><section prefix="(1)">the response by each party to the guardianship petition; and</section><section prefix="(2)">the waiver, if any, of a parent to notice of further proceedings.</section></section></text>
 </law>

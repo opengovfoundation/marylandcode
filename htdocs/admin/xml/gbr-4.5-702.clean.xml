@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-702" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-702</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not:...</catch_line>
+  <order_by>702</order_by>
   <text>This subtitle does not:<section prefix=""><section prefix="(1)">limit the authority of the Division to take disciplinary action against a registrant under this subtitle;</section><section prefix="(2)">limit the availability of other remedies to a claimant; or</section><section prefix="(3)">require a claimant to exhaust administrative remedies before the Division before bringing an action to court.</section></section></text>
 </law>

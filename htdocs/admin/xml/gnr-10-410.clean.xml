@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-410" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraphs (2), (3), (4), and (6) of this subsection, a person may not hunt any game bird or mammal on Sundays.</section>
-      <section prefix="(2)">The following persons may hunt the specified game birds and mammals on Sundays:<section prefix="(i)">A person using State certified raptors to hunt game birds or mammals during open season;</section><section prefix="(ii)">An unarmed person participating in an organized fox chase to chase foxes;</section><section prefix="(iii)">Provided that the provisions of &#xA7; 10-906(b)(3) of this title are met, a person:</section><section prefix="(iv)">Subject to the provisions of &#xA7; 10-411 of this subtitle, in Allegany, Calvert, Caroline, Carroll, Charles, Dorchester, Frederick, Garrett, Harford, St. Mary's, Somerset, Talbot, Washington, Wicomico, and Worcester counties, a person hunting deer on private property with a bow and arrow or crossbow during open season on the last three Sundays in October and the second Sunday in November;</section><section prefix="(v)">Except on Easter Sunday, in Allegany County and Garrett County, a person hunting turkey on the last Sunday in April and the first Sunday in May; and</section><section prefix="(vi)">In Calvert County, Caroline County, Charles County, Dorchester County, and St. Mary's County, a person hunting turkey on private property on any Sunday during the spring turkey hunting season.</section></section>
+      <section prefix="(2)">The following persons may hunt the specified game birds and mammals on Sundays:<section prefix="(i)">A person using State certified raptors to hunt game birds or mammals during open season;</section><section prefix="(ii)">An unarmed person participating in an organized fox chase to chase foxes;</section><section prefix="(iii)">Provided that the provisions of &#xA7; 10-906(b)(3) of this title are met, a person:<section prefix="1.">Using a regulated shooting ground under &#xA7; 10-906 of this title to hunt the following pen-reared game birds:</section><section prefix="2.">Having the written permission of the owner of the land or other person designated by the owner of the land, if the land is owned or leased by a person other than the person hunting on Sundays;</section></section><section prefix="(iv)">Subject to the provisions of &#xA7; 10-411 of this subtitle, in Allegany, Calvert, Caroline, Carroll, Charles, Dorchester, Frederick, Garrett, Harford, St. Mary's, Somerset, Talbot, Washington, Wicomico, and Worcester counties, a person hunting deer on private property with a bow and arrow or crossbow during open season on the last three Sundays in October and the second Sunday in November;</section><section prefix="(v)">Except on Easter Sunday, in Allegany County and Garrett County, a person hunting turkey on the last Sunday in April and the first Sunday in May; and</section><section prefix="(vi)">In Calvert County, Caroline County, Charles County, Dorchester County, and St. Mary's County, a person hunting turkey on private property on any Sunday during the spring turkey hunting season.</section></section>
       <section prefix="(3)">Subject to the provisions of &#xA7; 10-415 of this subtitle, in Calvert County, Caroline County, Charles County, Harford County, St. Mary's County, Somerset County, and Worcester County, a person may hunt deer on private property on:<section prefix="(i)">The first Sunday of the bow hunting season in November; and</section><section prefix="(ii)">Each Sunday in the deer firearms season.</section></section>
       <section prefix="(4)">Provided that the provisions of &#xA7; 10-415 of this subtitle are met and subject to paragraph (5) of this subsection, the Department may allow a person to hunt deer on private property on the first Sunday of:<section prefix="(i)">The bow hunting season in November; and</section><section prefix="(ii)">The deer firearms season.</section></section>
       <section prefix="(5)">The Sunday deer hunting provisions under paragraph (4) of this subsection do not apply:<section prefix="(i)">In Baltimore, Howard, and Prince George's counties; and</section><section prefix="(ii)">In Baltimore City.</section></section>
@@ -58,8 +58,8 @@
     </section>
     <section prefix="(p)">
       <section prefix="(1)">
-        <section prefix="(i)">"Snare trap" means a device made of wire, synthetic cord, or other material that:</section>
-        <section prefix="(ii)">"Snare trap" includes:</section>
+        <section prefix="(i)">"Snare trap" means a device made of wire, synthetic cord, or other material that:<section prefix="1.">Is in the form of a noose with a slipknot, stop, swivel, or eyelet holes; and</section><section prefix="2.">Is designed or set with the intent of capturing an animal by the neck.</section></section>
+        <section prefix="(ii)">"Snare trap" includes:<section prefix="1.">A pole snare;</section><section prefix="2.">A hanging snare; and</section><section prefix="3.">A neck snare.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, in Anne Arundel, Baltimore, Carroll, Cecil, Harford, Montgomery, and Prince George's counties, a person may not use, sell, possess, set, place, or maintain a snare trap.</section>

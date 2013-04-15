@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-238" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-238</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>238</order_by>
   <text>
     <section prefix="(a)">This Compact organizes an electronic information sharing system among the federal government and the states to exchange criminal history records for noncriminal justice purposes authorized by federal or state law, such as background checks for governmental licensing and employment.</section>
     <section prefix="(b)">Under this Compact, the FBI and the party states agree to maintain detailed databases of their respective criminal history records, including arrests and dispositions, and to make them available to the federal government and to party states for authorized purposes. The FBI shall also manage the federal data facilities that provide a significant part of the infrastructure for the system.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-615" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-615</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>615</order_by>
   <text>
     <section prefix="(a)">A person may not enter, use, or occupy another person's licensed stationary blind or blind site or anchor or tie to another person's licensed stake for the purpose of hunting wild waterfowl or for any other purpose without first obtaining the written permission of the licensee, which the person shall possess at the time entry or use is made.</section>
     <section prefix="(b)">A licensee may institute proceedings against or the Department may prosecute any person who violates the provisions of this section.</section>

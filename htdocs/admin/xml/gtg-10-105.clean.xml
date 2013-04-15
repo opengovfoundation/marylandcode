@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-105" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For an individual other than an individual described in paragraph (2) of this subsection, the State income tax rate is:<section prefix="(i)">2% of Maryland taxable income of $1 through $1,000;</section><section prefix="(ii)">3% of Maryland taxable income of $1,001 through $2,000;</section><section prefix="(iii)">4% of Maryland taxable income of $2,001 through $3,000;</section><section prefix="(iv)">4.75% of Maryland taxable income of $3,001 through $100,000;</section><section prefix="(v)">5% of Maryland taxable income of $100,001 through $125,000;</section><section prefix="(vi)">5.25% of Maryland taxable income of $125,001 through $150,000;</section><section prefix="(vii)">5.5% of Maryland taxable income of $150,001 through $250,000; and</section><section prefix="(viii)">5.75% of Maryland taxable income in excess of $250,000.</section></section>

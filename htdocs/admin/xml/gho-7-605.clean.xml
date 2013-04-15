@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-605" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-7-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless an individual or entity holds a current permit issued by the Board under this subtitle, the individual or entity may not represent to the public by name, description of services, methods, or procedures, or otherwise, that the individual or entity is a permit holder.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-101" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-12-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">A candidate for public or party office who has been defeated based on the certified results of any election conducted under this article may petition for a recount of the votes cast for the office sought.</section>
     <section prefix="(b)">The petition shall specify that the recount be conducted:<section prefix="(1)">in all of the precincts in which the office was on the ballot; or</section><section prefix="(2)">only in the precincts designated in the petition.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-401" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Guaranty" means a guaranty that the product, fabric, or related material covered by the guaranty has been tested for flammability under the rules and regulations adopted by the Department under this subtitle.</section>

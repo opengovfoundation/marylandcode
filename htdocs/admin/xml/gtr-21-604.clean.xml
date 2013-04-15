@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-604" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">A person may not turn a vehicle at an intersection, unless the vehicle is in the position required by &#xA7; 21-601 of this subtitle.</section>
     <section prefix="(b)">A person may not turn a vehicle to enter a private road or driveway or otherwise turn a vehicle from a direct course or move it right or left on a roadway or from a shoulder or bikeway onto a roadway, unless the movement can be made with reasonable safety.</section>

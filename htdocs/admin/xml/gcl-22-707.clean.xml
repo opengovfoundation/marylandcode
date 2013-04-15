@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-707" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">A party that accepts a nonconforming tender of a copy may revoke acceptance only if the nonconformity is a material breach of contract and the party accepted it:<section prefix="(1)">On the reasonable assumption that the nonconformity would be cured, and the nonconformity was not seasonably cured;</section><section prefix="(2)">During a continuing effort by the party in breach at adjustment and cure, and the breach was not seasonably cured; or</section><section prefix="(3)">Without discovery of the nonconformity, if acceptance was reasonably induced either by the other party's assurances or by the difficulty of discovery before acceptance.</section></section>
     <section prefix="(b)">Revocation of acceptance is not effective until the revoking party notifies the other party of the revocation.</section>

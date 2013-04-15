@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-514" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-514</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>514</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Director determines that an operator has failed to comply with any provision of this subtitle, or any rule, regulation, or permit issued under this subtitle, or that the operator has not produced coal or removed overburden on the permit site for a period of 6 months, the Director may issue an order requiring the operator to show cause why the permit should not be revoked and give the operator 30 days in which to request a contested case hearing.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-205" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-2-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">It is the intent of this section that each register shall receive a fair and adequate compensation for the effort and duties required of the register by the register's office.</section>

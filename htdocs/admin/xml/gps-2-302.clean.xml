@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-302" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The powers and duties of the Department with respect to law enforcement are supplemental to and concurrent with similar powers and duties conferred by law on other law enforcement agencies of the State in their respective jurisdictions.</section>
     <section prefix="(b)">

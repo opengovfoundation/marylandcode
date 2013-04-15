@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-303" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">This section applies if there is a conflict between a custody order of a court of this State and a custody order of a court of another state.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a custody order of a court of this State prevails over a custody order of a court of another state.</section>

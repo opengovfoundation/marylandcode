@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-201" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Distributor" means a distributor who is authorized by the manufacturer or the manufacturer's authorized importer to enter into franchise agreements with dealers of:<section prefix="(1)">New motor vehicles constructed or assembled outside of the United States; or</section><section prefix="(2)">New two-stage vehicles completed outside of the United States by a second-stage manufacturer.</section></section>

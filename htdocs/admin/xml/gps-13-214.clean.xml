@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-214" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">Except for the units of the organized militia and the troops of the United States, a body of persons may not associate as a military company or organization or parade in public as a military company or organization without the permission of the Governor.</section>
     <section prefix="(b)">Except for troops acting under the authority of the President, an armed military force from another state may not enter this State for military duty without the permission of the Governor.</section>

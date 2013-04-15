@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-512" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-2-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
-    <section prefix="(a)">In this section, "qualifying not-for-profit organization" means an organization that:<section prefix="(1)"><section prefix="(i)">receives State funds from the Department of Health and Mental Hygiene that cover more than one-third of the organization's operating expenses; and</section><section prefix="(ii)">is:</section></section><section prefix="(2)">is the Legal Aid Bureau, Inc.; or</section><section prefix="(3)">is the Maryland Crime Victims' Resource Center.</section></section>
+    <section prefix="(a)">In this section, "qualifying not-for-profit organization" means an organization that:<section prefix="(1)"><section prefix="(i)">receives State funds from the Department of Health and Mental Hygiene that cover more than one-third of the organization's operating expenses; and</section><section prefix="(ii)">is:<section prefix="1.">described in &#xA7; 501(c)(3) of the Internal Revenue Code; and</section><section prefix="2.">exempt from income tax under &#xA7; 501(a) of the Internal Revenue Code;</section></section></section><section prefix="(2)">is the Legal Aid Bureau, Inc.; or</section><section prefix="(3)">is the Maryland Crime Victims' Resource Center.</section></section>
     <section prefix="(b)">The Secretary shall adopt regulations for the enrollment and participation of employees of a qualifying not-for-profit organization to participate in the Program as a satellite organization.</section>
     <section prefix="(c)">A qualifying not-for-profit organization that participates in the Program as a satellite organization shall:<section prefix="(1)">pay to the State:<section prefix="(i)">a premium in the amount determined by the Secretary; and</section><section prefix="(ii)">any costs, as determined by the Secretary, for the administration of this Program; and</section></section><section prefix="(2)">determine the extent to which the organization will subsidize participation by its employees in the Program.</section></section>
   </text>

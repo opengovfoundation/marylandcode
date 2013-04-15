@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-306" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-8-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">There is a State Radiation Control Fund.</section>
     <section prefix="(b)">All general license fees, specific license fees, registration fees, radiation machine certification fees, and all funds collected by the Department under this title, including any civil penalties, settlements, or fines, shall be paid into the State Radiation Control Fund.</section>

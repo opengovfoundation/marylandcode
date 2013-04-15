@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-306" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-12-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, certification authorizes a waterworks, wastewater works, or industrial wastewater works to employ the certified individual as an operator, industrial operator, or superintendent in an appropriate job classification.</section>
     <section prefix="(b)">Certification as an operator authorizes the operator to perform tasks assigned by a certified superintendent, if an operator is not prohibited from performing those tasks by the rules and regulations adopted under this title.</section>

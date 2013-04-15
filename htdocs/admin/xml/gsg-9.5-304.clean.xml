@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9.5-304" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9.5-304</section_number>
-  <catch_line/>
+  <catch_line>The Commission shall elect annually a chair and a vice chair from among its members....</catch_line>
+  <order_by>304</order_by>
   <text>The Commission shall elect annually a chair and a vice chair from among its members.</text>
 </law>

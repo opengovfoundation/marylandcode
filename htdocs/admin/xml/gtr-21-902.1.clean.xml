@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-902.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-902.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>902.1</order_by>
   <text>
     <section prefix="(a)">In this section, "arrestee" means a person who has been arrested for a violation of &#xA7; 21-902 of this subtitle or Title 2, Subtitle 5 or &#xA7; 3-211 of the Criminal Law Article.</section>
     <section prefix="(b)">An arrestee may not drive a motor vehicle within 12 hours after the arrestee's arrest for a violation of &#xA7; 21-902 of this subtitle or Title 2, Subtitle 5 or &#xA7; 3-211 of the Criminal Law Article.</section>

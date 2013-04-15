@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2418" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2418</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2418</order_by>
   <text>
     <section prefix="(a)">A member of the gaming commission:<section prefix="(1)">may not receive compensation; but</section><section prefix="(2)">is entitled to reimbursement for expenses, in accordance with a policy of the county commissioners.</section></section>
     <section prefix="(b)">The county commissioners shall assign appropriate professional staff to the gaming commission for the gaming commission's meetings.</section>

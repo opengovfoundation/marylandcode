@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1315" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1315</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">"Contract", unless specifically provided otherwise, includes consumer, commercial, and business contracts, covenants, leases of any kind, and tariffs on file with any regulatory authority.</section>
       <section prefix="(4)">
         <section prefix="(i)">"Late fee" means any charge or fee imposed because a payment is not made when the payment is due under the terms of a contract.</section>
-        <section prefix="(ii)">"Late fee" includes a fee imposed under subparagraph (i) of this paragraph that is described:</section>
+        <section prefix="(ii)">"Late fee" includes a fee imposed under subparagraph (i) of this paragraph that is described:<section prefix="1.">As a flat rate;</section><section prefix="2.">As a percentage of the amount due; or</section><section prefix="3.">In any other terms.</section></section>
       </section>
     </section>
     <section prefix="(b)">The parties to a contract may agree to require the payment of a late fee when a party fails to make a payment when the payment is due.</section>
@@ -21,7 +21,7 @@
     <section prefix="(d)">A late fee imposed under this section is not:<section prefix="(1)">Interest;</section><section prefix="(2)">A finance charge;</section><section prefix="(3)">Liquidated damages; or</section><section prefix="(4)">A penalty.</section></section>
     <section prefix="(e)">This section does not affect a late fee, a finance charge, interest, or any other fee or charge otherwise allowed under applicable law.</section>
     <section prefix="(f)">
-      <section prefix="(1)">A late fee included in a consumer contract pursuant to this section is subject to one of the following limitations:<section prefix="(i)"/><section prefix="(ii)">The amount of the late fee may be up to 1.5% per month of the payment amount that is past due.</section></section>
+      <section prefix="(1)">A late fee included in a consumer contract pursuant to this section is subject to one of the following limitations:<section prefix="(i)"><section prefix="1.">The amount of the late fee may be up to $5 per month, or up to 10% per month of the payment amount that is past due, whichever is greater; and</section><section prefix="2.">No more than 3 monthly late fees may be imposed for any single payment amount that is past due, regardless of the period during which the payment remains past due; or</section></section><section prefix="(ii)">The amount of the late fee may be up to 1.5% per month of the payment amount that is past due.</section></section>
       <section prefix="(2)">The amount of the late fee under paragraph (1) of this subsection shall be disclosed, in the consumer contract or by notice, in size equal to at least 10-point bold type.</section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a late fee included in a consumer contract pursuant to this section may not be imposed until 15 days after the date the bill was rendered for the goods or services provided.</section>

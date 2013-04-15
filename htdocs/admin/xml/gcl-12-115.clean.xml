@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-115" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">With respect to any loan made at a rate of interest pursuant to &#xA7; 12-103(a) and (c) or &#xA7; 12-306 of this title:<section prefix="(1)">A lender may repossess goods securing a loan under an agreement if the borrower is in default in:<section prefix="(i)">The payment of any sum due under the agreement;</section><section prefix="(ii)">The performance of any other condition which the agreement lawfully requires him to perform in order to obtain unencumbered title to the goods; or</section><section prefix="(iii)">The performance of any promise the breach of which is expressly made a ground for repossessing the goods; and</section></section><section prefix="(2)">The lender may repossess goods only by:<section prefix="(i)">Legal process; or</section><section prefix="(ii)">Self-help, without use of force.</section></section></section>
     <section prefix="(b)">Nothing in this section authorizes a violation of criminal law.</section>

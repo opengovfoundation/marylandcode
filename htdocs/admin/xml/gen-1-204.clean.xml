@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-204" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-1-204</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other provision to the contrary in this article, service of show cause orders, c...</catch_line>
+  <order_by>204</order_by>
   <text>Notwithstanding any other provision to the contrary in this article, service of show cause orders, complaints, corrective orders, notices, or any other instrument issued by the Department under this article for which service is required may be achieved by any method allowed for service of a summons under the Maryland Rules.</text>
 </law>

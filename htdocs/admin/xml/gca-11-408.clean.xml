@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-408" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-11-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">A registered broker-dealer or investment adviser may file an application for registration of a successor, whether or not the successor is then in existence, for the unexpired portion of the year. There is no fee.</section>
     <section prefix="(b)">The registration of a predecessor remains effective as the registration of a successor for 60 days after the succession, if:<section prefix="(1)">A broker-dealer or investment adviser succeeds to and continues the business of a registered broker-dealer or investment adviser; and</section><section prefix="(2)">The successor files an application for registration within 30 days after the succession.</section></section>

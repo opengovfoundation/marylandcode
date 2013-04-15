@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-602" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">An attorney is entitled to reasonable compensation for legal services rendered by him to the estate and/or the personal representative.</section>
     <section prefix="(b)">Upon the filing of a petition in reasonable detail by the personal representative or the attorney, the court may allow a counsel fee to an attorney employed by the personal representative for legal services. The compensation shall be fair and reasonable in the light of all the circumstances to be considered in fixing the fee of an attorney.</section>

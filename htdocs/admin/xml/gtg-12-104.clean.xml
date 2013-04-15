@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-104" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-12-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">"Consumer" means a person who possesses cigarettes or other tobacco products for a purpose other than selling or transporting the cigarettes or other tobacco products.</section>
-    <section prefix="(b)">The tobacco tax does not apply to:<section prefix="(1)">cigarettes that a licensed wholesaler under Title 16 of the Business Regulation Article is holding for sale outside the State or to a United States armed forces exchange or commissary;</section><section prefix="(2)">other tobacco products that an other tobacco products wholesaler licensed under Title 16.5 of the Business Regulation Article is holding for sale outside the State or to a United States armed forces exchange or commissary; or</section><section prefix="(3)">cigarettes or other tobacco products that:<section prefix="(i)">a consumer brings into the State:</section><section prefix="(ii)">a person is transporting by vehicle in the State if the person has, in the vehicle, the records required by &#xA7; 16-219 or &#xA7; 16.5-215 of the Business Regulation Article for the transportation of cigarettes or other tobacco products; or</section><section prefix="(iii)">are held in storage in a licensed storage warehouse on behalf of a licensed cigarette manufacturer or an other tobacco products manufacturer.</section></section></section>
+    <section prefix="(b)">The tobacco tax does not apply to:<section prefix="(1)">cigarettes that a licensed wholesaler under Title 16 of the Business Regulation Article is holding for sale outside the State or to a United States armed forces exchange or commissary;</section><section prefix="(2)">other tobacco products that an other tobacco products wholesaler licensed under Title 16.5 of the Business Regulation Article is holding for sale outside the State or to a United States armed forces exchange or commissary; or</section><section prefix="(3)">cigarettes or other tobacco products that:<section prefix="(i)">a consumer brings into the State:<section prefix="1.">if the quantity brought from another state does not exceed:</section><section prefix="2.">if the quantity brought from a United States armed forces installation or reservation does not exceed:</section></section><section prefix="(ii)">a person is transporting by vehicle in the State if the person has, in the vehicle, the records required by &#xA7; 16-219 or &#xA7; 16.5-215 of the Business Regulation Article for the transportation of cigarettes or other tobacco products; or</section><section prefix="(iii)">are held in storage in a licensed storage warehouse on behalf of a licensed cigarette manufacturer or an other tobacco products manufacturer.</section></section></section>
   </text>
 </law>

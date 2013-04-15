@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-301" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-9-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to every election governed by this article.</section>
     <section prefix="(b)">The State Board shall prescribe all forms required to comply with:<section prefix="(1)">this subtitle; and</section><section prefix="(2)">any requirements of relevant federal law.</section></section>

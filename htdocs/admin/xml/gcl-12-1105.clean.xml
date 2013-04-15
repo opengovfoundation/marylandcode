@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1105" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1105</section_number>
-  <catch_line/>
+  <catch_line>A rental-purchase agreement may not contain:...</catch_line>
+  <order_by>1105</order_by>
   <text>A rental-purchase agreement may not contain:<section prefix=""><section prefix="(1)">A confession of judgment;</section><section prefix="(2)">A negotiable instrument;</section><section prefix="(3)">A security interest or any other claim of a property interest in any goods except the rental property delivered by the lessor pursuant to the rental-purchase agreement;</section><section prefix="(4)">A wage assignment;</section><section prefix="(5)">A waiver by the consumer of claims or defenses; or</section><section prefix="(6)">A provision authorizing the lessor or a person acting on the lessor's behalf to enter upon the consumer's premises or to commit any breach of the peace in the repossession of rental property.</section></section></text>
 </law>

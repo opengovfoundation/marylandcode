@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-801" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this section, "weekend inmate" means an inmate sentenced to a local correctional facility for nonconsecutive periods of 48 hours or less per week.</section>
     <section prefix="(b)">The governing body of a county may impose on and collect from a weekend inmate a reasonable fee in an amount not to exceed the average cost of providing food, lodging, and clothing for an inmate for the time the inmate is confined in the local correctional facility.</section>

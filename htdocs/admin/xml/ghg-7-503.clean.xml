@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-503" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">Within 21 days after the admission of an individual to a State residential center, a hearing officer of the Department shall hold a hearing on the admission in accordance with the rules and regulations that the Secretary adopts.</section>
     <section prefix="(b)">Written notice of the admission of an individual and of the date, time, and place of the individual's hearing on admission shall be given:<section prefix="(1)">On admission, to the individual; and</section><section prefix="(2)">As soon as possible, but not later than 5 days after the admission, to legal counsel for the individual and to the proponent of admission.</section></section>

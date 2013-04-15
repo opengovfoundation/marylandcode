@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-406" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a designated beneficiary who is receiving payments for life dies on or before the 15th day of a month, the Board of Trustees may not pay any portion of the designated beneficiary's allowance to the designated beneficiary's estate for the month in which the death occurs.</section>

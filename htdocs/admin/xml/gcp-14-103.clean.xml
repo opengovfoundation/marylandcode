@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-14-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">There is a State Prosecutor Selection and Disabilities Commission.</section>
-    <section prefix="(b)">The Commission consists of:<section prefix="(1)">the Attorney General; and</section><section prefix="(2)">six individuals appointed by the Governor as follows:<section prefix="(i)">two individuals shall be appointed from a list of two or more nominees submitted by the President of the Senate:</section><section prefix="(ii)">two individuals shall be appointed from a list of two or more nominees submitted by the Speaker of the House of Delegates:</section><section prefix="(iii)">one individual who:</section><section prefix="(iv)">one individual who:</section></section></section>
+    <section prefix="(b)">The Commission consists of:<section prefix="(1)">the Attorney General; and</section><section prefix="(2)">six individuals appointed by the Governor as follows:<section prefix="(i)">two individuals shall be appointed from a list of two or more nominees submitted by the President of the Senate:<section prefix="1.">only one of the individuals appointed shall be a lawyer; and</section><section prefix="2.">none of the nominees may be a member of the General Assembly or a full-time State employee;</section></section><section prefix="(ii)">two individuals shall be appointed from a list of two or more nominees submitted by the Speaker of the House of Delegates:<section prefix="1.">only one of the individuals appointed shall be a lawyer; and</section><section prefix="2.">none of the nominees may be a member of the General Assembly or a full-time State employee;</section></section><section prefix="(iii)">one individual who:<section prefix="1.">shall be appointed from a list of one or more nominees submitted by the Board of Governors of the Maryland State Bar Association; and</section><section prefix="2.">is a lawyer admitted to practice law in the State; and</section></section><section prefix="(iv)">one individual who:<section prefix="1.">shall be appointed from a list of one or more nominees submitted by the governing board of the Maryland State's Attorneys Association; and</section><section prefix="2.">is a State's Attorney at the time of appointment and throughout the individual's term on the Commission.</section></section></section></section>
     <section prefix="(c)">
       <section prefix="(1)">The Governor shall appoint the members of the Commission from the nominees submitted to the Governor under this section.</section>
       <section prefix="(2)">The Governor may reject an individual as a nominee only for cause.</section>

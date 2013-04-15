@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-165" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-165</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>165</order_by>
   <text>
     <section prefix="(a)">"Taxicab" means, except as provided in subsection (b) of this section, a motor vehicle for hire that:<section prefix="(1)">Is designed to carry seven or fewer individuals, including the driver; and</section><section prefix="(2)">Is used to accept or solicit passengers for transportation for hire between those points along highways in this State as the passengers request.</section></section>
     <section prefix="(b)">"Taxicab" does not include a motor vehicle operated on regular schedules and between fixed termini with the approval of the Public Service Commission.</section>

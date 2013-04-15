@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-212" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, if after an inspection or investigation, the Commissioner or authorized representative of the Commissioner is of the opinion that an employer has violated a duty under this title or an order passed under this title or an occupational safety and health standard or other regulation adopted to carry out this title, the Commissioner or authorized representative shall issue a citation to the employer with reasonable promptness, not to exceed the earlier of 90 days from the date of the closing conference on the inspection or investigation or 6 months from the occurrence of the violation.</section>

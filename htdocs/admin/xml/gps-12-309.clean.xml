@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-309" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">Industrialized buildings certified by the Department for sale in the State shall bear the insignia provided by the Department.</section>
     <section prefix="(b)">An industrialized building that bears an insignia provided by the Department is acceptable in all localities of the State:<section prefix="(1)">to comply with the requirements of this subtitle; and</section><section prefix="(2)">to meet the requirements of safety to life, health, and property required by a law or ordinance of a local governing body of the State without further investigation or inspection by the local governing body if the industrialized building is erected or installed in accordance with the conditions of the certification.</section></section>

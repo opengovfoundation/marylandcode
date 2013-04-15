@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-306" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-6-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -18,8 +18,14 @@
       <section prefix="(3)">A classroom teacher or other nonadministrative school-based employee in a school not identified by the State Board as having comprehensive needs who holds a standard professional certificate or an advanced professional certificate who is employed by a county board and who holds a certificate issued by the National Board for Professional Teaching Standards shall receive a stipend from the State in an amount equal to the county grant for national certification, up to a maximum of $1,000 per qualified individual.</section>
       <section prefix="(4)">A classroom teacher who holds an advanced professional certificate and teaches in a public school identified by the State Board as a school having comprehensive needs shall receive a stipend from the State in the amount of $1,500 for each year that the teacher performs satisfactorily in the classroom.</section>
       <section prefix="(5)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">The State Board shall establish a program to support locally negotiated incentives, governed under Subtitles 4 and 5 of this title, for highly effective classroom teachers and principals to work in public schools that are:</section>
+          <section prefix="2.">The program established under subsubparagraph 1 of this subparagraph may include financial incentives, leadership changes, or other incentives.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">The State Board shall adopt guidelines to implement this paragraph.</section>
+          <section prefix="2.">Nothing in this paragraph shall be construed to prohibit a local school system from employing more stringent standards than the guidelines adopted under this subparagraph.</section>
+        </section>
       </section>
     </section>
     <section prefix="(c)">An individual who receives a stipend or bonus under subsection (b) of this section may not be deemed an employee of the State.</section>

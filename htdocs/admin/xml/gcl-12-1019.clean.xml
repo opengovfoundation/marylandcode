@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1019" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1019</section_number>
-  <catch_line/>
+  <catch_line>An action for violation of this subtitle may not be brought more than 6 months after the loan is sat...</catch_line>
+  <order_by>1019</order_by>
   <text>An action for violation of this subtitle may not be brought more than 6 months after the loan is satisfied.</text>
 </law>

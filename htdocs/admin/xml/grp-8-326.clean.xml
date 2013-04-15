@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-326" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-326</section_number>
-  <catch_line/>
+  <catch_line>In a lease naming either husband or wife as tenant, all goods on the leased premises belonging to ei...</catch_line>
+  <order_by>326</order_by>
   <text>In a lease naming either husband or wife as tenant, all goods on the leased premises belonging to either, or both, are subject to levy under distress to the same extent as if both were named in the lease as tenants.</text>
 </law>

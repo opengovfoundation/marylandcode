@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-804" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-13-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">To calculate the actual costs of the professional instructional program of the College, costs associated with graduate education, continuing education, the agricultural experiment stations, cooperative extension services, and expenditures associated with contractual grant research shall be excluded.</section>
     <section prefix="(b)">The Executive Vice President and Chief Business Officer of the Virginia Polytechnic Institute and State University shall be responsible for providing the Board with the cost data upon which the actual costs of the professional instructional program of the College shall be determined after consulting with the fiscal support staff of the Virginia Polytechnic Institute and State University and the University of Maryland, College Park.</section>

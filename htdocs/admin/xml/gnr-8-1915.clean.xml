@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1915" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-1915</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1915</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The purpose of the Corps Board is to advise the Trust in the development and implementation of the Corps Program.</section>

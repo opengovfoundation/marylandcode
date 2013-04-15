@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-613" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-4-613</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>613</order_by>
   <text>
     <section prefix="(a)">The Secretary may make grants to nonprofit agencies or organizations to establish and operate any program of the center.</section>
     <section prefix="(b)">The Secretary may establish a multipurpose service center in or extend any program of the center to another area of this State.</section>

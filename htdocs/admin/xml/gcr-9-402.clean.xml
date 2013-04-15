@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">This section does not apply if the warrant is for a traffic offense.</section>
     <section prefix="(b)">A person may not harbor a fugitive to prevent the fugitive's discovery or arrest after:<section prefix="(1)">being notified, or otherwise knowing, that a felony warrant was issued for the arrest of the fugitive; and</section><section prefix="(2)">being notified that harboring the fugitive is a crime.</section></section>

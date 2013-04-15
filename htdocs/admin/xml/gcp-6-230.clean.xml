@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-230" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-6-230</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>230</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (d) of this section, this subsection shall apply in any case where the court agrees that, on successful completion of any treatment ordered as a condition of probation under &#xA7; 6-219 of this subtitle, the court will enter an order striking the entry of judgment and deferring further proceedings in accordance with &#xA7; 6-220 of this subtitle.</section>

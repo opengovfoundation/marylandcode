@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-310" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-19-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">Unless the Board agrees to accept the surrender of a license, a licensed social worker may not surrender the license nor may the license lapse by operation of law while the licensee is under investigation or while charges are pending against the social worker.</section>
     <section prefix="(b)">The Board may set conditions on its agreement with the social worker under investigation or against whom charges are pending to accept surrender of the social worker's license.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1213" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1213</order_by>
   <text>
     <section prefix="(a)">This section does not apply to any insurance enumerated in &#xA7; 15-1201(f)(3)(i) through (xiii) of this subtitle.</section>
     <section prefix="(b)">Each benefit offered in addition to the Standard Plan that increases access to care choices or lowers the cost-sharing arrangement in the Standard Plan is subject to all of the provisions of this subtitle applicable to the Standard Plan, including:<section prefix="(1)">guaranteed issuance;</section><section prefix="(2)">guaranteed renewal; and</section><section prefix="(3)">adjusted community rating.</section></section>

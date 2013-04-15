@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-207" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">Each statement by or on behalf of the insured or annuitant in an application for the issuance, renewal, or reinstatement of a life insurance or health insurance policy or annuity contract is considered to be a representation and not a warranty.</section>
     <section prefix="(b)">A misrepresentation, omission, concealment of facts, or incorrect statement does not prevent a recovery under the policy or contract unless:<section prefix="(1)">the misrepresentation, omission, concealment, or statement is fraudulent or material to the acceptance of the risk or to the hazard that the insurer assumes; or</section><section prefix="(2)">if the correct facts had been made known to the insurer, as required by the application for the policy or contract or otherwise, the insurer in good faith would not have:<section prefix="(i)">issued, reinstated, or renewed the policy or contract;</section><section prefix="(ii)">issued the policy or contract in as large an amount or at the same premium or rate; or</section><section prefix="(iii)">provided coverage with respect to the hazard resulting in the loss.</section></section></section>

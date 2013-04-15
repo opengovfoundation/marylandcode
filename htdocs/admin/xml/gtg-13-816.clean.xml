@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-816" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-816</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>816</order_by>
   <text>
     <section prefix="(a)">If a tax under this article is not paid when due, the Governor, tax collector, or Treasurer shall ask a qualified attorney who is a regular salaried employee of the Comptroller or the Attorney General to bring an action against the person responsible to pay the tax, unless a lien on real property under Part II of this subtitle sufficiently secures the tax or a judgment in the action would not be collectible.</section>
     <section prefix="(b)">

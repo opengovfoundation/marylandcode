@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-403" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-13-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">In recognition of the cultural and human values of poetry and poetic expression, the Governor annually shall proclaim October 15 as Poetry Day.</section>
     <section prefix="(b)">The proclamation shall urge cultural, educational, patriotic, and religious organizations to observe Poetry Day properly.</section>

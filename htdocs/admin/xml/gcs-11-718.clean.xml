@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-718" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-718</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>718</order_by>
   <text>
     <section prefix="(a)">In this section, "administrator" means an administrator of a county detention center.</section>
     <section prefix="(b)">This section applies only in Prince George's County.</section>
@@ -27,7 +27,7 @@
       <section prefix="(1)">An administrator may develop educational and vocational programs to further the educational and vocational training of an inmate sentenced to the detention center.</section>
       <section prefix="(2)">
         <section prefix="(i)">The administrator shall adopt regulations to govern the conduct and participation of an inmate in an educational or vocational program as necessary for the security of the detention center and the safety of the public.</section>
-        <section prefix="(ii)">If an inmate violates a trust or a condition that the administrator establishes for conduct during participation in an educational or vocational program, the inmate:</section>
+        <section prefix="(ii)">If an inmate violates a trust or a condition that the administrator establishes for conduct during participation in an educational or vocational program, the inmate:<section prefix="1.">is subject to removal from the program, with notice to the sentencing judge; and</section><section prefix="2.">after an administrative hearing, is subject to cancellation of any earned diminution of the inmate's term of confinement.</section></section>
       </section>
     </section>
   </text>

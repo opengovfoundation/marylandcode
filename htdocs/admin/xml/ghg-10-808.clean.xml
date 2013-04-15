@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-808" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-808</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>808</order_by>
   <text>
     <section prefix="(a)">In this section, "federal agency" means the Department of Veterans Affairs or any other agency of the United States government.</section>
     <section prefix="(b)">Whenever the transfer of an individual to a federal agency is planned under this section, the Director or administrative head of a facility, with the consent of the individual, shall notify the parent or next of kin of the individual about the transfer. In the case of a minor child or an individual who is assigned a legal guardian, the parent of the minor child or the legal guardian of the individual shall be notified of any planned transfer.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-305" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">A personal representative or trustee may make an irrevocable transfer pursuant to &#xA7; 13-309 of this subtitle to a custodian for the benefit of a minor as authorized in the governing will or trust.</section>
     <section prefix="(b)">If the testator or settlor has nominated a custodian under &#xA7; 13-303 of this subtitle to receive the custodial property, the transfer must be made to that person.</section>

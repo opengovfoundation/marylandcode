@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-312.1" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-8-312.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312.1</order_by>
   <text>
     <section prefix="(a)">The Alcoholic Beverages Board of St. Mary's County may issue a special wine festival (WF) license.</section>
     <section prefix="(b)">Notwithstanding any other provision to the contrary, an applicant for a special WF license shall be a holder of an existing retail alcoholic beverages license issued in the State authorizing the sale of wine, a State Class 3 winery license, or a State Class 4 winery license issued under this article.</section>

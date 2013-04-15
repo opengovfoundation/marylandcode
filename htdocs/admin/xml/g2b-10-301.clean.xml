@@ -1,24 +1,34 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-301" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-10-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">Except in Prince George's County, the holder of any expiring license, other than special licenses issued under the provisions of this article, shall, not less than 30 nor more than 60 days before the first day of May of each and every year, file a written application, duly verified by oath, for the renewal of the license with the official authorized to approve the same.</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
-        <section prefix="(iv)">This protest shall be:</section>
+        <section prefix="(ii)">
+          <section prefix="1.">The renewal application shall state that the facts in the original application are unchanged.</section>
+          <section prefix="2.">It shall be accompanied by a statement signed by the owner of the premises consenting to renewal of the license and to search and seizure as in the case of original applications.</section>
+          <section prefix="3.">In the case of retail dealers applying for renewal, the statement of consent by the owner of the premises may not be required if the owner has previously signed such a statement in connection with an original application or previous renewal application giving consent for the term of the owner's lease with the applicant if the lease or renewal does not expire during the term of the renewal license.</section>
+          <section prefix="4.">Subject to subsubparagraph 5 of this subparagraph, on the filing of the renewal application and payment of the annual fee, the holder of the expiring license is entitled to a new license for another year without the filing of further statements or the furnishing of any further information unless specifically requested by the official authorized to approve the license.</section>
+          <section prefix="5.">In the City of Annapolis, the Mayor, Counselor, and Aldermen may determine a periodic basis on which payments for the renewal of a license may be made.</section>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">Subject to subsubparagraph 3 of this subparagraph, a license by way of renewal may not be approved without a hearing before such official if a protest has been filed against the granting of the new license at least 30 days before the expiration of the license for which renewal is sought.</section>
+          <section prefix="2.">In Calvert County and Charles County:</section>
+          <section prefix="3.">In Charles County, the Board of License Commissioners may approve the renewal of the license without a hearing if the Board makes a finding that the basis of the protest lacks substance.</section>
+        </section>
+        <section prefix="(iv)">This protest shall be:<section prefix="1.">Signed by not less than ten residents, commercial tenants who are not holders of or applicants for any license issued under this article, or real estate owners in the immediate vicinity in which the licensed place of business is located; or</section><section prefix="2.">Instituted by the board of licensing commissioners on its own initiative.</section></section>
         <section prefix="(v)">If the protest has been filed it shall be heard and determined as in the case of original applications, except in Baltimore City it shall be heard and determined not as in the case of original application in regard to zoning but only on a specific complaint as to the operation of the licensee's establishments.</section>
       </section>
       <section prefix="(2)">
-        <section prefix="(i)">For all statewide licenses issued to a corporation by the State Comptroller and in each county and Baltimore City, notwithstanding any other provision of this article to the contrary, a corporation or club holding an alcoholic beverages license may, during the license year, substitute any or all names of its officers on the license if the deleted officer:</section>
-        <section prefix="(ii)">The corporation or club shall file with the license issuing authority an affidavit that gives:</section>
-        <section prefix="(iii)">Upon receipt of the affidavit and after making a determination that the applicant qualifies under the provisions of this article, the license issuing authority shall:</section>
+        <section prefix="(i)">For all statewide licenses issued to a corporation by the State Comptroller and in each county and Baltimore City, notwithstanding any other provision of this article to the contrary, a corporation or club holding an alcoholic beverages license may, during the license year, substitute any or all names of its officers on the license if the deleted officer:<section prefix="1.">Is deceased;</section><section prefix="2.">Is retired;</section><section prefix="3.">Has been removed from office; or</section><section prefix="4.">No longer holds an office in the corporation or club.</section></section>
+        <section prefix="(ii)">The corporation or club shall file with the license issuing authority an affidavit that gives:<section prefix="1.">The substitution of the officer or officers;</section><section prefix="2.">An explanation for the substitution; and</section><section prefix="3.">In the case of a corporation, a statement that the ownership of the corporation has not changed.</section></section>
+        <section prefix="(iii)">Upon receipt of the affidavit and after making a determination that the applicant qualifies under the provisions of this article, the license issuing authority shall:<section prefix="1.">Amend its records; and</section><section prefix="2.">Issue a new license in corrected form.</section></section>
       </section>
     </section>
     <section prefix="(a-1)">In Prince George's County, the procedures for the renewal of applications, protests, and hearings are provided in &#xA7; 10-302 of this subtitle.</section>
@@ -38,7 +48,7 @@
     <section prefix="(f)">In Prince George's County and in Montgomery County, any licensee may obtain a renewal license without obtaining a certificate of approval of the owner of the building in which the business is conducted, provided the licensee is the holder of a lease upon the entire building for not less than the term of the renewal license.</section>
     <section prefix="(f-1)">
       <section prefix="(1)">This subsection applies only in Prince George's County.</section>
-      <section prefix="(2)">Subject to paragraph (4) of this subsection, before a license may be renewed, the Board of License Commissioners shall verify:<section prefix="(i)"/><section prefix="(ii)">That the current license holder has provided for payment of the taxes described in item (i) of this paragraph in a manner satisfactory to the governmental unit responsible for the collection.</section></section>
+      <section prefix="(2)">Subject to paragraph (4) of this subsection, before a license may be renewed, the Board of License Commissioners shall verify:<section prefix="(i)"><section prefix="1.">Through the Office of the Comptroller, that the current license holder has paid all undisputed taxes payable to the Comptroller; and</section><section prefix="2.">Through Prince George's County, that the current license holder has paid all undisputed taxes payable to Prince George's County; or</section></section><section prefix="(ii)">That the current license holder has provided for payment of the taxes described in item (i) of this paragraph in a manner satisfactory to the governmental unit responsible for the collection.</section></section>
       <section prefix="(3)">If the information provided to the Board of License Commissioners states that the current license holder owes undisputed taxes and has not provided for payment in a manner satisfactory to the governmental unit responsible for collection, the Board of License Commissioners may not renew the license.</section>
       <section prefix="(4)">If the license was issued on behalf of a corporation, club, or other entity, the verification requirements specified in paragraph (2) of this subsection apply to undisputed taxes payable by each owner or principal of the entity.</section>
     </section>
@@ -61,12 +71,15 @@
       <section prefix="(2)">
         <section prefix="(i)">Each year, between March 1 and March 31, both inclusive, each licensee shall file an application for license renewal with the Board.</section>
         <section prefix="(ii)">An applicant for a renewal of a license issued by the Board shall pay a renewal application fee of $50 to the Director of Finance.</section>
-        <section prefix="(iii)">A license renewal application received by the Board after March 31 may be subject to:</section>
+        <section prefix="(iii)">A license renewal application received by the Board after March 31 may be subject to:<section prefix="1.">Rejection; or</section><section prefix="2.">A late charge of $50 for each day the application is filed late, not to exceed $1,500.</section></section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">This paragraph applies only to a license that is issued in, transferred into, or transferred to a different location within the following areas of the 46th alcoholic beverages district if the application for the issuance or transfer was received by the Board of License Commissioners after December 31, 1995:</section>
+        <section prefix="(i)">This paragraph applies only to a license that is issued in, transferred into, or transferred to a different location within the following areas of the 46th alcoholic beverages district if the application for the issuance or transfer was received by the Board of License Commissioners after December 31, 1995:<section prefix="1.">Ward 1, precincts 2, 3, 4, and 5;</section><section prefix="2.">Ward 2, in its entirety;</section><section prefix="3.">Ward 3, precinct 3; and</section><section prefix="4.">Ward 26, precinct 10.</section></section>
         <section prefix="(ii)">A licensee shall file with each license renewal application a copy of a valid capacity rating issued by the Baltimore City Fire Department for the licensed establishment.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">If the seating capacity rating for the licensed establishment exceeds 150 persons, the Board of Liquor License Commissioners may require the licensee to obtain an accounting, in accordance with generally accepted accounting principles, of the gross sales for the license year immediately preceding the filing of the license renewal application.</section>
+          <section prefix="2.">The accounting described in sub-subparagraph 1 of this subparagraph shall, at a minimum, specify separate figures for each of the following:</section>
+        </section>
       </section>
       <section prefix="(4)">Notwithstanding any other provision of this article, and except where extenuating circumstances exist, before a licensed premises in Baltimore City that has been closed for at least 3 consecutive months may be reopened:<section prefix="(i)">The Board of Liquor License Commissioners shall hold a public hearing; and</section><section prefix="(ii)">The licensee shall obtain approval from the Board of Liquor License Commissioners to reopen.</section></section>
     </section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-203" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-203</section_number>
-  <catch_line/>
+  <catch_line>Each campaign finance entity shall comply with the reporting requirements of Subtitle 3 of this titl...</catch_line>
+  <order_by>203</order_by>
   <text>Each campaign finance entity shall comply with the reporting requirements of Subtitle 3 of this title.</text>
 </law>

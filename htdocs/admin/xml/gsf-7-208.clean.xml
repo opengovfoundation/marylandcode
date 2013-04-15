@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-208" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">While the General Assembly is in session the General Assembly may amend the appropriation for a program of the Legislative Branch of the State government by amendment to the budget bill.</section>
     <section prefix="(b)">While the General Assembly is not in session, the President of the Senate and the Speaker of the House of Delegates jointly may authorize an amendment of an appropriation for a program of the Legislative Branch of the State government.</section>

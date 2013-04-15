@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-441" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-441</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>441</order_by>
   <text>
     <section prefix="(a)">The Department may:<section prefix="(1)">inspect a facility that offers continuing care;</section><section prefix="(2)">examine the facility's books and records; and</section><section prefix="(3)">audit or observe a service provided under a continuing care agreement.</section></section>
     <section prefix="(b)">If all or part of a facility is subject to licensure by the Department of Health and Mental Hygiene, the Department shall coordinate its inspections under this section with the Department of Health and Mental Hygiene to avoid duplication.</section>

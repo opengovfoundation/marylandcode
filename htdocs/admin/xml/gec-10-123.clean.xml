@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-123" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-123</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Corporation may issue bonds to refund outstanding bonds, including paying:<section prefix="(i)">any redemption premium;</section><section prefix="(ii)">interest accrued or to accrue to the date of redemption, purchase, or maturity of the bonds; and</section><section prefix="(iii)">if considered advisable by the Corporation, any part of the cost of a project.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-305" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">A partnership is liable for loss or injury caused to a person, or for a penalty incurred, as a result of a wrongful act or omission, or other actionable conduct, of a partner acting in the ordinary course of business of the partnership or with authority of the partnership.</section>
     <section prefix="(b)">If, in the course of the partnership's business or while acting with authority of the partnership, a partner receives or causes the partnership to receive money or property of a person not a partner, and the money or property is misapplied by a partner, the partnership is liable for the loss.</section>

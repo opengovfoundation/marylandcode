@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-108" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-15-108</section_number>
-  <catch_line/>
+  <catch_line>A person may not willfully assist another to commit an act prohibited by this subtitle....</catch_line>
+  <order_by>108</order_by>
   <text>A person may not willfully assist another to commit an act prohibited by this subtitle.</text>
 </law>

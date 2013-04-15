@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1028" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-1028</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1028</order_by>
   <text>
     <section prefix="(a)">An unmarried father and mother shall be provided an opportunity to execute an affidavit of parentage in the manner provided under &#xA7; 4-208 of the Health - General Article.</section>
     <section prefix="(b)">The affidavit shall be completed on a standardized form developed by the Department.</section>
@@ -14,7 +14,7 @@
       <section prefix="(2)">Before completing an affidavit of parentage form, the unmarried mother and the father shall be advised orally and in writing of the legal consequences of executing the affidavit and of the benefit of seeking legal counsel.</section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">An executed affidavit of parentage constitutes a legal finding of paternity, subject to the right of any signatory to rescind the affidavit:<section prefix="(i)">in writing within 60 days after execution of the affidavit; or</section><section prefix="(ii)">in a judicial proceeding relating to the child:</section></section>
+      <section prefix="(1)">An executed affidavit of parentage constitutes a legal finding of paternity, subject to the right of any signatory to rescind the affidavit:<section prefix="(i)">in writing within 60 days after execution of the affidavit; or</section><section prefix="(ii)">in a judicial proceeding relating to the child:<section prefix="1.">in which the signatory is a party; and</section><section prefix="2.">that occurs before the expiration of the 60-day period.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">After the expiration of the 60-day period, an executed affidavit of parentage may be challenged in court only on the basis of fraud, duress, or material mistake of fact.</section>
         <section prefix="(ii)">The burden of proof shall be on the challenger to show fraud, duress, or material mistake of fact.</section>

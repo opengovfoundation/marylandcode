@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-4-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">In this section, the words "accessory before the fact" and "principal" have their judicially determined meanings.</section>
     <section prefix="(b)">Except for a sentencing proceeding under &#xA7; 2-303 or &#xA7; 2-304 of the Criminal Law Article:<section prefix="(1)">the distinction between an accessory before the fact and a principal is abrogated; and</section><section prefix="(2)">an accessory before the fact may be charged, tried, convicted, and sentenced as a principal.</section></section>

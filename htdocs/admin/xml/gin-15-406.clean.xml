@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-406" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">In this section, "health insurance coverage" means health care coverage under which medical care services can be provided to a child.</section>
     <section prefix="(b)">This section applies to:<section prefix="(1)">commercial insurers, nonprofit health service plans, and health maintenance organizations that operate in the State under a certificate of authority;</section><section prefix="(2)">group health plans, as defined in &#xA7; 607(1) of the Employee Retirement Income Security Act of 1974 (ERISA); and</section><section prefix="(3)">persons that offer a service benefit plan, as defined in federal law.</section></section>

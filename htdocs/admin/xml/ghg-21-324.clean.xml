@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-324" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-324</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>324</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The floors, walls, ceilings, sidewalks, furniture, receptacles, implements, and machinery of or in any food establishment shall be kept in a clean and sanitary condition at all times.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The design and construction of existing equipment in food establishments shall be accepted by the Department, if the existing equipment:</section>
+        <section prefix="(i)">The design and construction of existing equipment in food establishments shall be accepted by the Department, if the existing equipment:<section prefix="1.">Complied with the Department's standards that prevailed at the time of the installation;</section><section prefix="2.">Accomplishes its intended and required function in the establishment;</section><section prefix="3.">Is cleanable;</section><section prefix="4.">Is free of hazardous materials and toxic food contact surfaces; and</section><section prefix="5.">Is in good repair.</section></section>
         <section prefix="(ii)">The Department shall establish guidelines for the replacement of failed existing equipment.</section>
       </section>
     </section>

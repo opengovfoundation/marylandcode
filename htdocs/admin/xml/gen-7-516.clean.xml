@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-516" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-516</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>516</order_by>
   <text>
     <section prefix="(a)">This subtitle does not affect, and may not be construed as affecting, the planning or zoning authority of a county or municipal corporation.</section>
     <section prefix="(b)">This subtitle does not affect, and may not be construed as affecting, any tort action against any participant.</section>

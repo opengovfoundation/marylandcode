@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-134" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-134</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>134</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In order to more efficiently establish a medical care data base under &#xA7; 19-133 of this subtitle, the Commission shall establish standards for the operation of one or more medical care electronic claims clearinghouses in Maryland and may license those clearinghouses meeting those standards.</section>
@@ -53,7 +53,7 @@
       </section>
       <section prefix="(4)">
         <section prefix="(i)">The Commission may adopt regulations to establish the system of evaluation provided under this subsection.</section>
-        <section prefix="(ii)">Before adopting regulations to implement an evaluation system under this subsection, the Commission shall:</section>
+        <section prefix="(ii)">Before adopting regulations to implement an evaluation system under this subsection, the Commission shall:<section prefix="1.">Consider the performance measurements of appropriate accreditation organizations, State licensure regulations, Medicare certification regulations, the quality indicator project of the Association of Maryland Hospitals and Health Systems, and any other relevant performance measurements;</section><section prefix="2.">Evaluate the desirability and feasibility of developing a consumer clearinghouse on health care information using existing available data; and</section><section prefix="3.">On or before January 1, 2001, report to the General Assembly, subject to &#xA7; 2-1246 of the State Government Article, on any performance evaluation developed under this subsection.</section></section>
       </section>
       <section prefix="(5)">The Commission may contract with a private entity to implement the system required under this subsection provided that the entity is not a hospital or an ambulatory surgical facility.</section>
       <section prefix="(6)">

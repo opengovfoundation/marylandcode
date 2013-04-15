@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-817" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-817</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>817</order_by>
   <text>
     <section prefix="(a)">In this section, "child wellness services" means preventive activities designed to protect children from morbidity and mortality and promote child development.</section>
     <section prefix="(b)">This section applies to each individual hospital or major medical insurance policy, group or blanket health insurance policy, and nonprofit health service plan that:<section prefix="(1)">is delivered or issued for delivery in the State;</section><section prefix="(2)">is written on an expense-incurred basis; and</section><section prefix="(3)">provides coverage for a family member of the insured.</section></section>

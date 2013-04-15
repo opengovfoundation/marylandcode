@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-307" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of &#xA7;&#xA7; 4-306(b), 4-320, and 4-321 of this subtitle, if by reason of increased construction costs, error in estimates, or otherwise, the proceeds of the revenue bonds of any issue are less than the amount required for the purpose for which the bonds are authorized, additional revenue bonds may be issued in a similar manner to provide the amount of the deficiency.</section>
     <section prefix="(b)">The additional bonds shall be deemed to be of the same issue and shall be entitled to payment from the same fund, without preference or priority, as the bonds first issued. If the proceeds of the additional bonds exceed the amount required, the excess shall be deposited to the credit of any reserve fund for the bonds or, if so provided in the trust agreement securing the bonds, may be applied to the cost of any additional project.</section>

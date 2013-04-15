@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25a" order_by="" level="1"/>
-    <unit label="chapter" identifier="7" order_by="" level="2"/>
+    <unit label="article" identifier="g25a" order_by="" level="1">Chartered Counties of Maryland</unit>
   </structure>
   <section_number>g25a-7</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>7</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">At the end of each calendar or fiscal year, each charter county shall furnish in a convenient and legible compilation a complete set of all laws enacted during that year under the "Express Powers Act" in &#xA7; 5 of this article, whether to enact, amend, or repeal a local law.</section>
@@ -13,7 +13,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">Copies of this compilation shall be:<section prefix="(i)">Made available for inspection at the office of the county council, county executive, or county manager, during normal business hours; and</section><section prefix="(ii)">Kept on permanent record in the same office.</section></section>
-      <section prefix="(2)">Each charter county shall:<section prefix="(i)">Furnish printed copies of the compilation to the State Archives and the State Law Library; and</section><section prefix="(ii)">Once each year:</section></section>
+      <section prefix="(2)">Each charter county shall:<section prefix="(i)">Furnish printed copies of the compilation to the State Archives and the State Law Library; and</section><section prefix="(ii)">Once each year:<section prefix="1.">Notify each member of the county's legislative delegation that a digital copy of the compilation is available on the Internet; or</section><section prefix="2.">Furnish a printed copy of the compilation to each member of the county's legislative delegation.</section></section></section>
       <section prefix="(3)">Copies under paragraph (2) of this subsection shall be furnished without charge, and the county also may make other copies available at a reasonable cost to any person.</section>
     </section>
     <section prefix="(c)">Not later than March 1 of the next succeeding year, the charter county, without charge, shall furnish 4 printed copies of the compilation to the State Department of Legislative Services.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-206" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-11-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">The Commission may assess and collect from an intrastate pipeline operator an inspection fee that may be used by the Commission for administering the regulatory program established by the Commission under this subtitle.</section>
     <section prefix="(b)">The fee may not:<section prefix="(1)">exceed the expenses attributable to the inspection and examination of the facility; and</section><section prefix="(2)">include expenses that will be reimbursed by the federal government.</section></section>

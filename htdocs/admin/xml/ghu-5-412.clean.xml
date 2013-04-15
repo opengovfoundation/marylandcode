@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-412" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-5-412</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412</order_by>
   <text>
     <section prefix="(a)">Any assistance granted under this part is subject to future repeal or amendment of this part.</section>
     <section prefix="(b)">A recipient is not entitled to compensation if the recipient's assistance is affected by repeal or amendment of this part.</section>

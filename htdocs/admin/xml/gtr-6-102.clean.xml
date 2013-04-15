@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-102" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-6-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">The General Assembly of Maryland makes the following declarations of its intent in the enactment of this title.</section>
     <section prefix="(b)">The ports and harbors of this State are assets of value to the entire State. The residents of all parts of this State benefit directly from the waterborne commerce that they attract and service. Any improvement to these ports and harbors that increases their export and import commerce will benefit the people of the entire State.</section>

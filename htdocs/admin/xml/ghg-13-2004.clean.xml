@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2004" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-2004</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2004</order_by>
   <text>
     <section prefix="(a)">The Office of the Attorney General may seek appropriate injunctive or other relief to prevent the conduct of human subject research in violation of the federal regulations on the protection of human subjects or this subtitle.</section>
     <section prefix="(b)">In exercising the authority granted under subsection (a) of this section, the Office of the Attorney General may not:<section prefix="(1)">Duplicate the investigatory, compliance, or enforcement action undertaken by an agency of the federal government; or</section><section prefix="(2)">Bring an action under subsection (a) of this section if an agency of the federal government has determined that an investigation is not warranted.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-803" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-803</section_number>
-  <catch_line/>
+  <catch_line>An individual is eligible for the Program if the individual:...</catch_line>
+  <order_by>803</order_by>
   <text>An individual is eligible for the Program if the individual:<section prefix=""><section prefix="(1)">Has a cognitive, sensory, or physical disability;</section><section prefix="(2)">Is at least 18 years old and under the age of 65 years at the time of enrollment;</section><section prefix="(3)">Requires the level of care provided in a nursing facility;</section><section prefix="(4)">Will be discharged or diverted from a nursing facility;</section><section prefix="(5)">Qualifies for the Medicaid home and community-based waiver services for adults with physical disabilities;</section><section prefix="(6)">Has a functional need; and</section><section prefix="(7)">Has income that does not exceed 300% of Supplemental Security Income.</section></section></text>
 </law>

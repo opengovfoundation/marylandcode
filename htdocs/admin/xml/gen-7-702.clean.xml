@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-702" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to any person who owns, operates, maintains, or causes to operate or maintain a facility in this State.</section>
     <section prefix="(b)">This subtitle does not apply in a local jurisdiction that adopts hazardous material security standards that are at least as stringent as the standards under &#xA7; 7-703 of this subtitle.</section>

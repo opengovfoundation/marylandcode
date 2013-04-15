@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1201" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-1201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise specifically provided in this title, if either nominee of a Governor and Lieutenant Governor unit dies, declines the nomination, or is disqualified, the remaining nominee shall cease to be a candidate if:<section prefix="(i)">a successor nominee is not designated or selected under this subtitle; and</section><section prefix="(ii)">the certificate of designation and certificate of candidacy required under this subtitle are not filed in a timely manner.</section></section>

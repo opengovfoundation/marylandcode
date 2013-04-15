@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-305" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-8-305</section_number>
-  <catch_line/>
+  <catch_line>Whenever a person appears for jury service, a jury commissioner or jury judge:...</catch_line>
+  <order_by>305</order_by>
   <text>Whenever a person appears for jury service, a jury commissioner or jury judge:<section prefix=""><section prefix="(1)">May require the person to complete, sign, and acknowledge a juror qualification form in the presence of the jury commissioner; and</section><section prefix="(2)">If, at that time, it seems to the jury commissioner or jury judge to be warranted, may question the person but only as to responses to questions in the form and grounds for disqualification, excusal, exemption, or rescheduling.</section></section></text>
 </law>

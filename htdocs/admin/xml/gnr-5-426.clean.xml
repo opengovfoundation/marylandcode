@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-426" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-426</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>426</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall establish and administer an urban and community forestry program to provide State or federal financial assistance, on a matching basis, to:<section prefix="(i)">A county or municipal corporation that implements a local urban and community forestry program within its jurisdiction; or</section><section prefix="(ii)">A nonprofit corporation that participates in the implementation of a local urban and community forestry program.</section></section>

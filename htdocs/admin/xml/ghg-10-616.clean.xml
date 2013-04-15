@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-616" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-616</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>616</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A certificate for involuntary admission of an individual under Part III of this subtitle shall:<section prefix="(i)">Be based on the personal examination of the physician or psychologist who signs the certificate; and</section><section prefix="(ii)">Be in the form that the Secretary adopts, by rule or regulation.</section></section>

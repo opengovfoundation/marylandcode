@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-409" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">Each railroad police officer who is in uniform and on duty shall wear in plain view a badge that identifies the railroad company that employs the railroad police officer.</section>
     <section prefix="(b)">Each railroad police officer shall carry an identification card issued by the railroad company that employs the railroad police officer.</section>

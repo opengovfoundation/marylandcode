@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-410" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">Within 30 days after receiving a request, a charitable organization shall mail a current financial statement at no charge to the person who requested it.</section>
     <section prefix="(b)">The financial statement shall contain:<section prefix="(1)">the name, address, and telephone number of the charitable organization;</section><section prefix="(2)"><section prefix="(i)">the amount of total revenue, the amount of total revenue received from charitable contributions, and the amount and percentage of total revenue used by the charitable organization for its management and general expenses, fund-raising expenses, and program service expenses during the preceding fiscal year; or</section><section prefix="(ii)">if the charitable organization is newly organized, the estimated percentage of charitable contributions being sought that will be used for its management and general expenses, fund-raising expenses, and program service expenses; and</section></section><section prefix="(3)">if the charitable organization is registered with the Secretary of State, a declaration that the charitable organization is registered, but that registration is not and does not imply endorsement of any charitable solicitation.</section></section>

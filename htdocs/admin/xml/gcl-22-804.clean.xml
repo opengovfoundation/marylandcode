@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-804" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">Damages for breach of contract by either party may be liquidated by agreement in an amount that is reasonable in light of:<section prefix="(1)">The loss anticipated at the time of contracting;</section><section prefix="(2)">The actual loss; or</section><section prefix="(3)">The actual or anticipated difficulties of proving loss in the event of breach.</section></section>
     <section prefix="(b)">If a term liquidating damages is unenforceable under this subsection, the aggrieved party may pursue the remedies provided in this title, except as limited by other terms of the contract.</section>

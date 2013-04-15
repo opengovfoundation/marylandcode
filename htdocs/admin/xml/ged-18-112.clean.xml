@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-112" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, repayment obligations incurred by recipients of student financial assistance administered by the Office shall be calculated at an interest rate equal to and matching the interest rate established by the United States Department of Education for the Federal Stafford Loan on the first day of July of each year, with interest not accruing prior to notification to the Commission of a recipient's graduation or termination from an institution of higher education.</section>
     <section prefix="(b)">A recipient shall commence repayment obligations upon graduation or termination from an institution of higher education.</section>

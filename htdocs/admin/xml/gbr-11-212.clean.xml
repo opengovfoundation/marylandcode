@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-212" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">The Commission may maintain a testing laboratory and have tests done elsewhere.</section>
     <section prefix="(b)">

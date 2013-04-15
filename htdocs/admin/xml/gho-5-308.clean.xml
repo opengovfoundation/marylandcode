@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-308" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-5-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless the license is renewed for an additional term as provided in this section, a license expires on the date set by the Board.</section>

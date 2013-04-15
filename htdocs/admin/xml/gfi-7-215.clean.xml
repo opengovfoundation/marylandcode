@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-215" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-7-215</section_number>
-  <catch_line/>
+  <catch_line>A credit union share guaranty corporation shall provide written notice to the Commissioner of:...</catch_line>
+  <order_by>215</order_by>
   <text>A credit union share guaranty corporation shall provide written notice to the Commissioner of:<section prefix=""><section prefix="(1)">The receipt from a credit union of an application for participation in the credit union share guaranty corporation;</section><section prefix="(2)">The credit union share guaranty corporation's underwriting decision regarding the application for participation; and</section><section prefix="(3)">The voluntary or involuntary termination of the participation of a credit union in the credit union share guaranty corporation.</section></section></text>
 </law>

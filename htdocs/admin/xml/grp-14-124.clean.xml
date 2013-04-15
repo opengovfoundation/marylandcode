@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-124" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>124</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Community association" means a Maryland nonprofit association, corporation, or other organization that is located exclusively in an area of the county that is outside of a municipal corporation and:<section prefix="(i)">Is comprised of at least 25% of adult residents of a local community consisting of 40 or more individual, contiguous households as defined by specific geographic boundaries in the bylaws or charter of the association;</section><section prefix="(ii)">Requires, as a condition of membership, the voluntary payment of monetary dues at least annually;</section><section prefix="(iii)">Is operated primarily for the promotion of social welfare and general neighborhood improvement and enhancement;</section><section prefix="(iv)">Has been in existence for at least 2 years when it files suit under this section;</section><section prefix="(v)">Is exempt from taxation under &#xA7; 501(c)(3) or (4) of the Internal Revenue Code; and</section><section prefix="(vi)">In the case of a Maryland corporation, is in good standing.</section></section>
       <section prefix="(3)">"Local code violation" means a violation under the following provisions of the Prince George's County Code as amended from time to time or under any applicable code relating to the following provisions incorporated into the Prince George's County Code by reference:<section prefix="(i)">Animal control regulations (&#xA7; 3-131 et seq.) and other rules, regulations, and standards (&#xA7; 3-175 et seq.) under Subtitle 3;</section><section prefix="(ii)">Building Code under Subtitle 4, Division 1;</section><section prefix="(iii)">Fire Prevention Code under Subtitle 11, Division 4;</section><section prefix="(iv)">Pest control provisions under Subtitle 12, Division 5;</section><section prefix="(v)">Housing Code, property standards and maintenance, and antilitter and weed ordinance, under Subtitle 13, Divisions 1, 7, and 9, respectively;</section><section prefix="(vi)">Sewage disposal nuisances under Subtitle 22, Division 3, Subdivision 3; and</section><section prefix="(vii)">Abandoned vehicles under Subtitle 26, Division 14.</section></section>
-      <section prefix="(4)">"Nuisance" means, within the boundaries of the community represented by the community association, an act or condition knowingly created, performed, or maintained on private property that constitutes a local code violation and that:<section prefix="(i)">Significantly affects other residents of the neighborhood;</section><section prefix="(ii)">Negatively impacts the value of neighboring property; and</section><section prefix="(iii)"/></section>
+      <section prefix="(4)">"Nuisance" means, within the boundaries of the community represented by the community association, an act or condition knowingly created, performed, or maintained on private property that constitutes a local code violation and that:<section prefix="(i)">Significantly affects other residents of the neighborhood;</section><section prefix="(ii)">Negatively impacts the value of neighboring property; and</section><section prefix="(iii)"><section prefix="1.">Is injurious to public health, safety, or welfare of neighboring residents; or</section><section prefix="2.">Obstructs the reasonable use of other property in the neighborhood.</section></section></section>
     </section>
     <section prefix="(b)">This section only applies to a nuisance located within the boundaries of Prince George's County.</section>
     <section prefix="(c)">
@@ -22,16 +22,16 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">An action may not be brought under this section until 60 days after the tenant, if any, and owner of record receive notice from the community association that a nuisance exists and that legal action may be taken if the nuisance is not abated.</section>
-        <section prefix="(ii)">The notice shall specify:</section>
+        <section prefix="(ii)">The notice shall specify:<section prefix="1.">The nature of the alleged nuisance;</section><section prefix="2.">The date and time of day the nuisance was first discovered;</section><section prefix="3.">The location on the property where the nuisance is allegedly occurring; and</section><section prefix="4.">The relief sought.</section></section>
         <section prefix="(iii)">The notice shall be provided to the tenant, if any, and the owner of record in the same manner as service of process in a civil in personam action under the Maryland Rules.</section>
-        <section prefix="(iv)">In filing a suit under this section, an officer of the community association shall certify to the court:</section>
+        <section prefix="(iv)">In filing a suit under this section, an officer of the community association shall certify to the court:<section prefix="1.">What steps the community association has taken to satisfy the notice requirements under this subsection; and</section><section prefix="2.">That each condition precedent to the filing of an action under this section has been met.</section></section>
       </section>
       <section prefix="(4)">A proceeding under this section shall:<section prefix="(i)">Take precedence on the docket;</section><section prefix="(ii)">Be heard at the earliest practicable date; and</section><section prefix="(iii)">Be expedited in every way.</section></section>
     </section>
     <section prefix="(d)">A political subdivision of the State or any agency of a political subdivision may not be subject to any action brought under this section or an action resulting from an action brought under this section against a private property owner.</section>
     <section prefix="(e)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, this section may not be construed to abrogate any equitable or legal right or remedy otherwise available under the law to abate a nuisance.</section>
-      <section prefix="(2)">This section may not be construed as granting standing for an action:<section prefix="(i)">Challenging any zoning application or approval;</section><section prefix="(ii)">In which the alleged nuisance consists of:</section><section prefix="(iii)">Involving any violation of alcoholic beverages laws under Article 2B of the Code; or</section><section prefix="(iv)">Involving any matter in which a certificate, license, permit, or registration is required or allowed under the Environment Article.</section></section>
+      <section prefix="(2)">This section may not be construed as granting standing for an action:<section prefix="(i)">Challenging any zoning application or approval;</section><section prefix="(ii)">In which the alleged nuisance consists of:<section prefix="1.">A condition relating to lead paint; or</section><section prefix="2.">An interior physical defect of a property;</section></section><section prefix="(iii)">Involving any violation of alcoholic beverages laws under Article 2B of the Code; or</section><section prefix="(iv)">Involving any matter in which a certificate, license, permit, or registration is required or allowed under the Environment Article.</section></section>
     </section>
   </text>
 </law>

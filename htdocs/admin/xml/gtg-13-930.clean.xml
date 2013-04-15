@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-930" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-930</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>930</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"Federal official" means a unit or official of the federal government charged with the collection of nontax liabilities payable to the federal government pursuant to 31 U.S.C. &#xA7; 3716.</section>

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-204" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">In addition to the specific powers granted and duties imposed by this title, the Administration has the powers and duties set forth in this section.</section>
     <section prefix="(b)">The Administration may adopt rules and regulations to carry out the provisions of this title.</section>
     <section prefix="(c)">
-      <section prefix="(1)">The Administration shall:<section prefix="(i)">Determine and may change from time to time the location, construction, geometrics, design, and maintenance of the State highway system; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">The Administration shall:<section prefix="(i)">Determine and may change from time to time the location, construction, geometrics, design, and maintenance of the State highway system; and</section><section prefix="(ii)"><section prefix="1.">If the Administration and a local government designate an area as a bicycle and pedestrian priority area, implement a plan developed in cooperation with the local government to increase safety and access for bicycle or pedestrian traffic.</section><section prefix="2.">If there is no State highway within the limits of the bicycle and pedestrian priority area, the plan shall be developed by the local government.</section></section></section>
       <section prefix="(2)">A plan for traffic management in a bicycle and pedestrian priority area shall provide for:<section prefix="(i)">Appropriate changes to the location, construction, geometrics, design, and maintenance of the State highway system to increase safety and access for bicycle or pedestrian traffic in the bicycle and pedestrian priority area; and</section><section prefix="(ii)">The appropriate use of traffic control devices including pedestrian control signals, traffic signals, stop signs, and speed bumps.</section></section>
     </section>
     <section prefix="(d)">The Administration may consult, confer, and contract with any agency or representative of the federal government, this State, or any other state or with any other person in furtherance of the duties of the Administration and the purposes of this title.</section>

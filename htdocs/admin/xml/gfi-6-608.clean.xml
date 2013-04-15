@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-608" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-608</section_number>
-  <catch_line/>
+  <catch_line>A credit union may make a loan that is insured or guaranteed by the federal government, a state gove...</catch_line>
+  <order_by>608</order_by>
   <text>A credit union may make a loan that is insured or guaranteed by the federal government, a state government or local government, or a unit of the federal government or of any state or local government.</text>
 </law>

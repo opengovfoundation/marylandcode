@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-4-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In the District Court, a prosecution for a crime shall be brought in the district that includes the county where the crime was committed, and the trial shall be held in that county unless the case is lawfully removed.</section>
     <section prefix="(b)">If a person is feloniously stricken or poisoned in a county and dies in another county of the same stroke or poison, a prosecution for the felony shall be brought in the county where the stroke or poison was given.</section>

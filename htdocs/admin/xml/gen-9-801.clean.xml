@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-801" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this subtitle, the following words have the meanings indicated.</section>
     <section prefix="(b)">"Development" means:<section prefix="(1)">Planning;</section><section prefix="(2)">Acquisition by gift, purchase, lease, or eminent domain;</section><section prefix="(3)">Construction;</section><section prefix="(4)">Reconstruction;</section><section prefix="(5)">Improvement; or</section><section prefix="(6)">Extension.</section></section>

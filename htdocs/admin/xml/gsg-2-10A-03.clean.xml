@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-10A-03" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-2-10A-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">There is a Joint Committee on Workers' Compensation Benefit and Insurance Oversight.</section>
     <section prefix="(b)">
       <section prefix="(1)">The Committee consists of 16 members.</section>
-      <section prefix="(2)">Of the 16 members:<section prefix="(i)"/><section prefix="(ii)">12 shall be appointed jointly by the President and the Speaker as follows:</section></section>
+      <section prefix="(2)">Of the 16 members:<section prefix="(i)"><section prefix="1.">2 shall be members of the Senate appointed by the President of the Senate; and</section><section prefix="2.">2 shall be Delegates appointed by the Speaker of the House of Delegates; and</section></section><section prefix="(ii)">12 shall be appointed jointly by the President and the Speaker as follows:<section prefix="1.">1 representative of the business community;</section><section prefix="2.">1 representative of the Maryland labor organizations;</section><section prefix="3.">1 representative of the Maryland building and construction labor organizations;</section><section prefix="4.">1 representative of a self-insured local government entity;</section><section prefix="5.">2 members of the public;</section><section prefix="6.">1 member of the insurance industry;</section><section prefix="7.">1 member of the Medical and Chirurgical Faculty of Maryland;</section><section prefix="8.">1 member of a workers' compensation rating organization;</section><section prefix="9.">2 members of the Bar of the Court of Appeals of Maryland, 1 of whom represents plaintiffs in workers' compensation cases and 1 of whom represents defendants in workers' compensation cases; and</section><section prefix="10.">1 member who is certified by the Workers' Compensation Commission as a Maryland rehabilitation service provider.</section></section></section>
     </section>
     <section prefix="(c)">The members of the Committee serve at the pleasure of the presiding officer who appointed them.</section>
     <section prefix="(d)">The President and the Speaker shall jointly appoint a Senator and a Delegate each to serve as cochair.</section>

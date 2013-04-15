@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-203" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-10-203</section_number>
-  <catch_line/>
+  <catch_line>The powers granted to the Mayor and City Council of Baltimore City under this title do not:...</catch_line>
+  <order_by>203</order_by>
   <text>The powers granted to the Mayor and City Council of Baltimore City under this title do not:<section prefix=""><section prefix="(1)">grant to the Mayor and City Council powers in any substantive area not otherwise granted to the Mayor and City Council by any other public general or public local law;</section><section prefix="(2)">restrict the Mayor and City Council from exercising any power granted to the Mayor and City Council by any other public general or public local law or otherwise;</section><section prefix="(3)">authorize the Mayor and City Council or the officers of Baltimore City to engage in any activity that is beyond their power under any other public general law or public local law or otherwise; or</section><section prefix="(4)">preempt or supersede the regulatory authority of any unit of the State under any public general law.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-412" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-412</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412</order_by>
   <text>
     <section prefix="(a)">Any person whose application for a pharmacy permit has been denied or whose pharmacy permit has been suspended or revoked under this title may:<section prefix="(1)">Appeal that action to the Board of Review; and</section><section prefix="(2)">Then take any further appeal allowed by the Administrative Procedure Act.</section></section>
     <section prefix="(b)">If an appeal is taken under this section, the Board may stay its order of suspension or revocation pending the decision of the court.</section>

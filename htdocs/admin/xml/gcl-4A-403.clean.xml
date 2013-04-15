@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Payment of the sender's obligation under &#xA7; 4A-402 of this subtitle to pay the receiving bank occurs as follows:<section prefix="(1)">If the sender is a bank, payment occurs when the receiving bank receives final settlement of the obligation through a Federal Reserve Bank or through a funds-transfer system.</section><section prefix="(2)">If the sender is a bank and the sender:<section prefix="(i)">Credited an account of the receiving bank with the sender; or</section><section prefix="(ii)">Caused an account of the receiving bank in another bank to be credited, payment occurs when the credit is withdrawn or, if not withdrawn, at midnight of the day on which the credit is withdrawable and the receiving bank learns of that fact.</section></section><section prefix="(3)">If the receiving bank debits an account of the sender with the receiving bank, payment occurs when the debit is made to the extent the debit is covered by a withdrawable credit balance in the account.</section></section>
     <section prefix="(b)">

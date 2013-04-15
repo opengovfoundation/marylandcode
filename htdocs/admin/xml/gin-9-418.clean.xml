@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-418" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-418</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>418</order_by>
   <text>
     <section prefix="(a)">To allow proper legal action by the Corporation on any matter germane to its powers or duties, each proceeding in which the impaired insurer is a party in a court in the State shall be stayed for 60 days after the date an order of liquidation, rehabilitation, or conservation is final.</section>
     <section prefix="(b)">If a court enters a judgment under a decision, order, verdict, or finding based on default, the Corporation may:<section prefix="(1)">apply to have the judgment, decision, order, verdict, or finding set aside by the same court that made it; and</section><section prefix="(2)">defend against the suit on the merits.</section></section>

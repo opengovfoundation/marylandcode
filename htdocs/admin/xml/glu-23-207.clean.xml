@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-207" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-23-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, the subdivision regulations may provide for tentative approval of a plat before improvements and installations.</section>
     <section prefix="(b)">Tentative approval of a plat may not:<section prefix="(1)">be entered on the plat; or</section><section prefix="(2)">entitle the plat to be filed or recorded.</section></section>

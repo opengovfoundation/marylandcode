@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-116" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Payee" means any party who receives from the Howard County Board of Education an aggregate payment of $25,000 in a fiscal year.</section>
-        <section prefix="(ii)">"Payee" does not include:</section>
+        <section prefix="(ii)">"Payee" does not include:<section prefix="1.">A Howard County public school employee with respect to the employee's compensation; or</section><section prefix="2.">A Howard County public school retiree with respect to the retiree's retirement allowance.</section></section>
       </section>
       <section prefix="(3)">"Searchable website" means a website created in accordance with this section that displays and searches payment data of the Howard County Board of Education.</section>
     </section>

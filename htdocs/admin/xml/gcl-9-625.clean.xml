@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-625" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-625</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>625</order_by>
   <text>
     <section prefix="(a)">If it is established that a secured party is not proceeding in accordance with this title, a court may order or restrain collection, enforcement, or disposition of collateral on appropriate terms and conditions.</section>
     <section prefix="(b)">Subject to subsections (c) and (d), a person is liable for damages in the amount of any loss caused by a failure to comply with this title. Loss caused by a failure to comply may include loss resulting from the debtor's inability to obtain, or increased costs of, alternative financing.</section>

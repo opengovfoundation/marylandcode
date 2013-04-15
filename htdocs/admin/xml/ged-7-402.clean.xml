@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-402" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">The Department of Education in consultation with the Department of Health and Mental Hygiene shall adopt regulations requiring a physical examination for children entering the Maryland Public School System for the first time.</section>
     <section prefix="(b)">The regulations shall require each child entering the Maryland Public School System for the first time to have a physical examination completed within:<section prefix="(1)">The 9-month period before entering the public school system; or</section><section prefix="(2)">The 6-month period after entering the public school system.</section></section>

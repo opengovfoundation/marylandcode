@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-5D-01" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-5D-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Alternate supervising physician" means one or more physicians designated by the supervising physician to provide supervision of an athletic trainer:<section prefix="(1)">During the absence of the supervising physician; and</section><section prefix="(2)">In accordance with the evaluation and treatment protocol on file with the Board.</section></section>
@@ -25,7 +25,7 @@
     <section prefix="(p)">
       <section prefix="(1)">"Practice athletic training" means application of the following principles and methods for managing athletic injuries for athletes in good overall health under the supervision of a licensed physician:<section prefix="(i)">Prevention;</section><section prefix="(ii)">Clinical evaluation and assessment;</section><section prefix="(iii)">Immediate care; and</section><section prefix="(iv)">Treatment, rehabilitation, and reconditioning.</section></section>
       <section prefix="(2)">"Practice athletic training" includes:<section prefix="(i)">Organization and administration of an athletic training program; and</section><section prefix="(ii)">Instruction to coaches, athletes, parents, medical personnel, and community members regarding the care and prevention of athletic injuries.</section></section>
-      <section prefix="(3)">"Practice athletic training" does not include:<section prefix="(i)">The practice of:</section><section prefix="(ii)">The reconditioning of systemic neurologic injuries, conditions, or disease; or</section><section prefix="(iii)">Except for the conditioning of an athlete under the supervision of a treating physician, the treatment, rehabilitation, or reconditioning of nonathletic injuries or disease.</section></section>
+      <section prefix="(3)">"Practice athletic training" does not include:<section prefix="(i)">The practice of:<section prefix="1.">Chiropractic, including adjustments, manipulation, or high velocity mobilizations of the spine or extremities;</section><section prefix="2.">Massage therapy;</section><section prefix="3.">Medicine;</section><section prefix="4.">Occupational therapy;</section><section prefix="5.">Physical therapy; or</section><section prefix="6.">Podiatry;</section></section><section prefix="(ii)">The reconditioning of systemic neurologic injuries, conditions, or disease; or</section><section prefix="(iii)">Except for the conditioning of an athlete under the supervision of a treating physician, the treatment, rehabilitation, or reconditioning of nonathletic injuries or disease.</section></section>
     </section>
     <section prefix="(q)">"Setting" means a:<section prefix="(1)">Location where an athletic activity, as defined in subsection (d) of this section, is being held;</section><section prefix="(2)">Health or fitness club;</section><section prefix="(3)">Clinic or hospital;</section><section prefix="(4)">Corporation; or</section><section prefix="(5)">Government agency.</section></section>
     <section prefix="(r)">"Supervising physician" means a physician who has been approved by the Board to supervise one or more athletic trainers.</section>

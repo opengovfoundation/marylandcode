@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-101" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-12-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this Division II the following words have the meanings indicated.</section>
     <section prefix="(b)">"Area of operation" means the geographical area within which an authority is empowered to act.</section>
@@ -19,7 +19,7 @@
     <section prefix="(j)">"Extraordinary majority" means two-thirds or more of the authorized number of members of the legislative body or the board of commissioners of an authority, as applicable.</section>
     <section prefix="(k)">
       <section prefix="(1)">"Housing project" means a work or undertaking to:<section prefix="(i)">demolish, clear, or remove buildings from an economically depressed or physically deteriorated area; or</section><section prefix="(ii)">provide decent, safe, and sanitary housing for persons of eligible income and, to the extent authorized by &#xA7; 12-503(a)(4) of this title, for other persons.</section></section>
-      <section prefix="(2)">"Housing project" includes:<section prefix="(i)">work connected to planning, constructing, reconstructing, altering, or repairing improvements, acquiring property, or demolishing structures;</section><section prefix="(ii)">adapting an economically depressed or physically deteriorated area to public purposes, including parks and other recreational or community purposes; and</section><section prefix="(iii)">acquiring buildings, land, equipment, facilities, and other real or personal property for necessary, convenient, or desirable:</section></section>
+      <section prefix="(2)">"Housing project" includes:<section prefix="(i)">work connected to planning, constructing, reconstructing, altering, or repairing improvements, acquiring property, or demolishing structures;</section><section prefix="(ii)">adapting an economically depressed or physically deteriorated area to public purposes, including parks and other recreational or community purposes; and</section><section prefix="(iii)">acquiring buildings, land, equipment, facilities, and other real or personal property for necessary, convenient, or desirable:<section prefix="1.">appurtenances;</section><section prefix="2.">streets;</section><section prefix="3.">sewers;</section><section prefix="4.">water service;</section><section prefix="5.">parks;</section><section prefix="6.">site preparation;</section><section prefix="7.">gardening; and</section><section prefix="8.">administrative, community, health, recreational, educational, welfare, or other purposes.</section></section></section>
     </section>
     <section prefix="(l)">"Legislative body" means the council, commissioners, or other legislative body of a political subdivision.</section>
     <section prefix="(m)">"Military personnel" includes all civilian and military employees of the military and naval forces of the United States and their families and other dependents who are living with them.</section>

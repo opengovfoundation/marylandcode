@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-415" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-8-415</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>415</order_by>
   <text>
     <section prefix="(a)">Each grand juror shall take an oath in substantially the following form:</section>
     <section prefix="(b)">Each bailiff assigned to a grand jury shall take a written oath in substantially the following form:</section>

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-401.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-401.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A release of the claim of an injured individual for damages resulting from a tort, signed by the injured individual within 30 days of the infliction of the injuries without the assistance or guidance of an attorney at law, and any power of attorney to or contract of employment with an attorney at law, with reference to recovery of damages for the tort, signed by the individual within  30 days after the infliction of the injuries, shall be voidable at the option of the injured individual within 60 days after the day on which the individual signed the document.</section>
       <section prefix="(2)">
-        <section prefix="(i)">Notice that a release is voided under this subsection by the injured individual shall be:</section>
+        <section prefix="(i)">Notice that a release is voided under this subsection by the injured individual shall be:<section prefix="1.">In writing; and</section><section prefix="2.">Accompanied by the return of any money paid to the injured individual as a result of the signing of the release.</section></section>
         <section prefix="(ii)">The release is void from the date that the notice is mailed.</section>
       </section>
     </section>

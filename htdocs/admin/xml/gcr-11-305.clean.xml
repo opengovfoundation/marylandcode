@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-305" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-11-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">For purposes of prostitution or committing a crime under Title 3, Subtitle 3 of this article, a person may not:<section prefix="(1)">persuade or entice or aid in the persuasion or enticement of an individual under the age of 16 years from the individual's home or from the custody of the individual's parent or guardian; or</section><section prefix="(2)">knowingly secrete or harbor or aid in the secreting or harboring of an individual under the age of 16 years who has been persuaded or enticed in the manner described in item (1) of this subsection.</section></section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 10 years or a fine not exceeding $5,000 or both.</section>

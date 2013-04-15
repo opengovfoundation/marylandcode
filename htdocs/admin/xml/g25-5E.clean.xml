@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="5E" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-5E</section_number>
-  <catch_line/>
+  <catch_line>The County Commissioners of Charles County may:...</catch_line>
+  <order_by>5E</order_by>
   <text>The County Commissioners of Charles County may:<section prefix=""><section prefix="(1)">Sell the county's interest in any real, leasehold, or personal property to any municipality or governmental agency in Charles County for public use without public sale when the property is no longer needed for public county use;</section><section prefix="(2)">Arrange the terms, conditions and amount of consideration, if any, for any sale made under paragraph (1) of this section; and</section><section prefix="(3)">Execute and acknowledge any deeds and instruments necessary to complete any sale made pursuant to paragraph (1) of this section.</section></section></text>
 </law>

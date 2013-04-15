@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-302" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds that:<section prefix="(1)">governmental authority has allowed and encouraged employers to organize in corporate and other forms of capital control; and</section><section prefix="(2)">in dealing with these employers, an individual worker who is not represented by an organization is helpless to exercise liberty of contract or to protect personal freedom of labor and, thus, to obtain acceptable terms and conditions of employment.</section></section>
-    <section prefix="(b)">The policy of the State is that:<section prefix="(1)">negotiation of terms and conditions of employment should result from voluntary agreement between employees and employer; and</section><section prefix="(2)">therefore, each individual worker must be:<section prefix="(i)">fully free to associate, organize, and designate a representative, as the worker chooses, for negotiation of terms and conditions of employment; and</section><section prefix="(ii)">free from coercion, interference, or restraint by an employer or an agent of an employer in:</section></section></section>
+    <section prefix="(b)">The policy of the State is that:<section prefix="(1)">negotiation of terms and conditions of employment should result from voluntary agreement between employees and employer; and</section><section prefix="(2)">therefore, each individual worker must be:<section prefix="(i)">fully free to associate, organize, and designate a representative, as the worker chooses, for negotiation of terms and conditions of employment; and</section><section prefix="(ii)">free from coercion, interference, or restraint by an employer or an agent of an employer in:<section prefix="1.">designation of a representative;</section><section prefix="2.">self-organization; and</section><section prefix="3.">other concerted activity for the purpose of collective bargaining or other mutual aid or protection.</section></section></section></section>
   </text>
 </law>

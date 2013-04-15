@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1902" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1902</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of this article or the Health - General Article, a contract between a carrier and a clinically integrated organization may include a provision to pay:<section prefix="(1)">for services associated with the coordination of covered medical services to qualifying individuals; and</section><section prefix="(2)">a bonus, fee-based incentive, bundled fees, or other incentives to promote the efficient, medically appropriate delivery of covered medical services to qualifying individuals.</section></section>
     <section prefix="(b)">The Commissioner, in consultation with the Maryland Health Care Commission, may adopt regulations specifying the types of payments and incentives permissible under this section.</section>
     <section prefix="(c)">
       <section prefix="(1)">A carrier shall file a copy of a contract between the carrier and a clinically integrated organization with the Commissioner.</section>
       <section prefix="(2)">If the contract includes a provision to pay a bonus or other incentive that does not comply with &#xA7; 15-113 of this title, the Commissioner shall provide a copy of the contract to the executive director of the Maryland Health Care Commission.</section>
-      <section prefix="(3)">Notwithstanding any other provision of law, a copy of a contract filed with the Commissioner or provided by the Commissioner to the executive director of the Maryland Health Care Commission under this subsection, is:<section prefix="(i)">confidential and privileged;</section><section prefix="(ii)">not subject to:</section><section prefix="(iii)">not admissible in evidence in any private action.</section></section>
+      <section prefix="(3)">Notwithstanding any other provision of law, a copy of a contract filed with the Commissioner or provided by the Commissioner to the executive director of the Maryland Health Care Commission under this subsection, is:<section prefix="(i)">confidential and privileged;</section><section prefix="(ii)">not subject to:<section prefix="1.">Title 10, Subtitle 6 of the State Government Article;</section><section prefix="2.">subpoena; or</section><section prefix="3.">discovery; and</section></section><section prefix="(iii)">not admissible in evidence in any private action.</section></section>
     </section>
   </text>
 </law>

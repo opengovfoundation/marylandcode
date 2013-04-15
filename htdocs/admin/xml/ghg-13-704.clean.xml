@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-704" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">To qualify for a certificate, an individual shall meet the requirements of this section.</section>
     <section prefix="(b)">The applicant shall be of good moral character.</section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">The applicant shall have, or reasonably expect to have, responsibility for at least one other person as a result of the individual's occupation or volunteer status.</section>
     <section prefix="(e)">
       <section prefix="(1)">The applicant shall successfully complete an educational training program approved by the Department.</section>
-      <section prefix="(2)">Educational training programs required under this subsection shall:<section prefix="(i)"/><section prefix="(ii)">Include training in:</section></section>
+      <section prefix="(2)">Educational training programs required under this subsection shall:<section prefix="(i)"><section prefix="1.">Be conducted by a physician licensed to practice medicine in this State under Title 14 of the Health Occupations Article; or</section><section prefix="2.">Be conducted by a nurse practitioner licensed to practice registered nursing in this State under Title 8 of the Health Occupations Article and who is certified as a nurse practitioner by the State Board of Nursing; and</section></section><section prefix="(ii)">Include training in:<section prefix="1.">The recognition of the symptoms of systemic reactions to insect stings; and</section><section prefix="2.">The proper administration of a subcutaneous injection of epinephrine.</section></section></section>
     </section>
   </text>
 </law>

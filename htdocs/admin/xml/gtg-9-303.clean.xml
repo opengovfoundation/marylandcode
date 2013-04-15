@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-303" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-9-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">The motor fuel tax does not apply to motor fuel that is exported or sold for exportation from this State.</section>
     <section prefix="(b)">The motor fuel tax does not apply to special fuel:<section prefix="(1)">containing dye and sold for uses other than in a licensed motor vehicle;</section><section prefix="(2)">delivered into a tank used only for heating; or</section><section prefix="(3)">used for any purpose other than propelling a motor vehicle or turbine-powered aircraft.</section></section>

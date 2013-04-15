@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-4-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">If a defendant is charged with a felony other than a felony within the jurisdiction of the District Court, at the time of the defendant's initial appearance, as required by Maryland Rule 4-213, a court or court commissioner shall advise the defendant of the defendant's right to request a preliminary hearing.</section>
     <section prefix="(b)">

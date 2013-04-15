@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-604" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">Each dealer who issues a temporary registration plate shall insert clearly and indelibly on the face of the plate the dates of its issuance and expiration.</section>
     <section prefix="(b)">Each dealer who issues a temporary registration plate shall insert clearly and indelibly on the face of the plate the make and vehicle identification number of the vehicle for which the plate is issued.</section>

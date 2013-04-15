@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1006" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1006</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006</order_by>
   <text>
     <section prefix="(a)">On written request of the claimant, an insurer that denies a claim made on an individual health insurance policy shall give written notice to the claimant that states fully the reason for the denial.</section>
     <section prefix="(b)">The reason given by an insurer for denial of a claim shall not act as an estoppel or limit the insurer from offering an additional reason for the denial.</section>

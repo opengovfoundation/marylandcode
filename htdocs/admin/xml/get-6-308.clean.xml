@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-308" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-6-308</section_number>
-  <catch_line/>
+  <catch_line>A personal representative whose appointment is terminated may receive for his services the compensat...</catch_line>
+  <order_by>308</order_by>
   <text>A personal representative whose appointment is terminated may receive for his services the compensation awarded by the court at the time of the termination of his appointment. It may not exceed an appropriate proportion of the statutory limit allowable under &#xA7; 7-601 of this article.</text>
 </law>

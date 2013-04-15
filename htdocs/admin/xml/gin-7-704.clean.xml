@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-704" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-704</section_number>
-  <catch_line/>
+  <catch_line>A domestic insurer shall notify the Commissioner within 30 days after making any investment in one c...</catch_line>
+  <order_by>704</order_by>
   <text>A domestic insurer shall notify the Commissioner within 30 days after making any investment in one corporation if the total investment in the corporation by the domestic insurer's insurance holding company system exceeds 10% of the corporation's voting securities.</text>
 </law>

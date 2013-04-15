@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-227" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-227</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>227</order_by>
   <text>
     <section prefix="(a)">The Administration shall coordinate the promotion of its programs of financial assistance for energy conservation projects with the energy conservation promotion programs of the Maryland Energy Office.</section>
     <section prefix="(b)">

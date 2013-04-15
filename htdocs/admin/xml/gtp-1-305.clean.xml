@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-305" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-1-305</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other law of the State, the State or any of its units, political subdivisions, o...</catch_line>
+  <order_by>305</order_by>
   <text>Notwithstanding any other law of the State, the State or any of its units, political subdivisions, or special taxing districts may act as necessary to collect from the United States money that is available for reimbursement for taxes or other charges that have been lost because the United States or 1 of its units holds title to property in the State.</text>
 </law>

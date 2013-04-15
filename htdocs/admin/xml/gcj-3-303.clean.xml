@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">An attachment before judgment may issue in any of the instances in this section.</section>
     <section prefix="(b)">If the debtor is a nonresident individual, or a corporation which has no resident agent in this State, and:<section prefix="(1)">The debtor is a person over whom the court could exercise personal jurisdiction pursuant to &#xA7;&#xA7; 6-102, 6-103 and 6-104 of this article; or</section><section prefix="(2)">The action involves claims to property in this State which property is to be attached; or</section><section prefix="(3)">The action is any other in which the attachment is constitutionally permitted.</section></section>

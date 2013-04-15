@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-111" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-31-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">The SHOP Exchange:<section prefix="(1)">shall be a separate insurance market within the Exchange for small employers; and</section><section prefix="(2)">may not be merged with the individual market of the Individual Exchange.</section></section>
     <section prefix="(b)">The SHOP Exchange shall be designed to balance:<section prefix="(1)">the viability of the SHOP Exchange as an alternative for qualified employers and their employees who have not been able historically to access and afford insurance in the small group market;</section><section prefix="(2)">the need for stability and predictability in employers' health insurance costs incurred on behalf of their employees;</section><section prefix="(3)">the desirability of providing employees with a meaningful choice among high-quality and affordable health benefit plans; and</section><section prefix="(4)">the need to facilitate continuity of care for employees who change employers or health benefit plans.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-214" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">This section applies only to an obligation that:<section prefix="(1)">is on real or personal property that is owned by a person when the person becomes a person in emergency management service or person suffering injury or damage;</section><section prefix="(2)">originates before the person became a person in emergency management service or person suffering injury or damage; and</section><section prefix="(3)">is secured by a mortgage, deed of trust, or other security in the nature of a mortgage.</section></section>
     <section prefix="(b)">

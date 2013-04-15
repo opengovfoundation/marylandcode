@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-203" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-4-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Executive Director may make grants to law enforcement agencies from the Fund.</section>
     <section prefix="(b)">The Executive Director shall establish procedures for law enforcement agencies to apply for grants from the Fund and for the evaluation of progress in addressing the problem of drivers illegally failing to stop for school vehicles.</section>

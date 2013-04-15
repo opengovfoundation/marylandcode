@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-303" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-24-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">In accordance with this section, the district council may adopt local laws that establish procedures and requirements for the execution of agreements.</section>
     <section prefix="(b)">A local law adopted under this section by the district council shall authorize the county planning board to:<section prefix="(1)">if approved by the district council or County Executive, execute agreements affecting real property in the portion of the regional district in Montgomery County with a person having a legal or equitable interest in the property; and</section><section prefix="(2)">if requested by any party, include a reviewing entity as an additional party to the agreement.</section></section>

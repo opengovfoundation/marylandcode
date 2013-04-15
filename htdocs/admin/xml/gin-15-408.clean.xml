@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-408" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -14,7 +14,7 @@
       <section prefix="(4)">"Group contract" means:<section prefix="(i)">an insurance contract or policy that is issued or delivered in the State to the employer of the insured by an insurer or nonprofit health service plan and that provides group hospital, medical, or surgical benefits to the insured on an expense-incurred basis; or</section><section prefix="(ii)">a contract between the employer of the insured and a health maintenance organization certified under Title 19, Subtitle 7 of the Health - General Article that provides group hospital, medical, or surgical benefits offered to the insured.</section></section>
       <section prefix="(5)">"Insured" means an employee who is a resident of the State and covered under a group contract.</section>
       <section prefix="(6)">"Qualified secondary beneficiary" means an individual who is:<section prefix="(i)">a beneficiary under the group contract as the spouse of the insured for at least 30 days immediately preceding the change in status; or</section><section prefix="(ii)">a dependent child of the insured.</section></section>
-      <section prefix="(7)">"Termination statement" means written notice of an event specified in subsection (c) of this section that is:<section prefix="(i)">provided to the employer on a form that the Commissioner prescribes; and</section><section prefix="(ii)"/></section>
+      <section prefix="(7)">"Termination statement" means written notice of an event specified in subsection (c) of this section that is:<section prefix="(i)">provided to the employer on a form that the Commissioner prescribes; and</section><section prefix="(ii)"><section prefix="1.">signed by the insured and a qualified secondary beneficiary defined in paragraph (6)(i) of this subsection; or</section><section prefix="2.">accompanied by the insured's signed and sworn affidavit that verifies all facts in the termination statement.</section></section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">Each group contract in force on the date of the change in status shall provide continuation coverage in accordance with this section.</section>

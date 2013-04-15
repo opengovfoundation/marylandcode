@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-350" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-350</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>350</order_by>
   <text>
     <section prefix="(a)">On the date of closure or delicensure of a hospital for which a financing plan is developed under &#xA7; 10-348 of this subtitle, the Health Services Cost Review Commission shall assess a fee on all hospitals, as provided in &#xA7; 19-223 of the Health - General Article, sufficient to:<section prefix="(1)">pay the principal and interest on any bonds that the Authority issues under &#xA7; 10-349 of this subtitle to finance public obligations;</section><section prefix="(2)">pay the closure costs or the principal and interest on bonds that the Authority issues under &#xA7; 10-349 of this subtitle to finance any closure costs;</section><section prefix="(3)">maintain a reserve required by the trust agreement;</section><section prefix="(4)">pay any required financing fees or charges; and</section><section prefix="(5)">maintain reserves that the Authority considers appropriate to provide the amounts described in paragraphs (1) through (4) of this subsection if a hospital defaults in paying the fees.</section></section>
     <section prefix="(b)">The fee assessed each hospital shall be:<section prefix="(1)">the product of the total fees required to be assessed multiplied by the ratio of the actual gross patient revenue of the hospital to the total gross patient revenue of all hospitals; and</section><section prefix="(2)">determined as of the date the Authority determines after consulting with the Health Services Cost Review Commission.</section></section>

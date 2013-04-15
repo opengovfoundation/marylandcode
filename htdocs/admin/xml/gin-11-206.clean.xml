@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-206" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in this section, each insurer shall file with the Commissioner all rates, supplementary rate information, policy forms, and endorsements and all modifications of rates, supplementary rate information, policy forms, and endorsements that the insurer proposes to use.</section>
@@ -38,11 +38,11 @@
     </section>
     <section prefix="(i)">A special filing with respect to a surety or guarantee bond required by law, by court, by executive order, or by order, rule, or regulation of a public body, not covered by a previous filing shall become effective when filed and remain effective until the Commissioner finds that the filing does not meet the requirements of this subtitle.</section>
     <section prefix="(j)">
-      <section prefix="(1)">In this subsection, "exempt commercial policyholder" means a person that:<section prefix="(i)">pays annual aggregate property and casualty premiums for commercial insurance policies issued in the State during the current or preceding calendar year of $25,000 or more; and</section><section prefix="(ii)">meets any two of the following criteria:</section></section>
+      <section prefix="(1)">In this subsection, "exempt commercial policyholder" means a person that:<section prefix="(i)">pays annual aggregate property and casualty premiums for commercial insurance policies issued in the State during the current or preceding calendar year of $25,000 or more; and</section><section prefix="(ii)">meets any two of the following criteria:<section prefix="1.">generates annual revenues or sales in excess of $10,000,000;</section><section prefix="2.">possesses a net worth in excess of $5,000,000;</section><section prefix="3.">employs at least 25 full-time employees;</section><section prefix="4.">is a nonprofit organization or public body with an annual budget of at least $10,000,000; or</section><section prefix="5.">is a municipal corporation with a population of at least 15,000.</section></section></section>
       <section prefix="(2)">The filing requirements of this section do not apply to policy forms and endorsements and to modifications of policy forms and endorsements issued to an exempt commercial policyholder.</section>
       <section prefix="(3)">
         <section prefix="(i)">An exempt commercial policyholder must certify in writing, on a form approved by the Commissioner, to the insurer issuing coverage and the Commissioner that it meets the criteria necessary for exemption from form filing requirements.</section>
-        <section prefix="(ii)">The certification must include:</section>
+        <section prefix="(ii)">The certification must include:<section prefix="1.">specific reference to the optional criteria that the insured has satisfied to qualify as an exempt commercial policyholder;</section><section prefix="2.">information required by the Commissioner for the purpose of determining the annual aggregate premiums of the insured for purposes of paragraph (1)(i) of this subsection; and</section><section prefix="3.">an acknowledgment by the insured that the policy form, endorsement, or modification intended for use has not been filed with the Commissioner.</section></section>
       </section>
       <section prefix="(4)">This subsection does not apply to the filing of workers' compensation insurance policy forms.</section>
       <section prefix="(5)">The Commissioner may require, by regulation, that insurers provide information to the Administration on the number and types of policies written for exempt commercial policyholders under this subsection.</section>

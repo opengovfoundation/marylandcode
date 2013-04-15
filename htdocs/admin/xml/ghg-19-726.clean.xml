@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-726" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-726</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>726</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A health maintenance organization may not include in its name:<section prefix="(i)">The words "insurer", "casualty", "surety", or "health and accident"; or</section><section prefix="(ii)">Any other words generally regarded as descriptive of the insurance industry.</section></section>

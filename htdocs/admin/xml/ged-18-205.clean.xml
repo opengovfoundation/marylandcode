@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-205" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-205</section_number>
-  <catch_line/>
+  <catch_line>Subject to rules and regulations adopted by the Commission, the Office shall grant a deferment from ...</catch_line>
+  <order_by>205</order_by>
   <text>Subject to rules and regulations adopted by the Commission, the Office shall grant a deferment from the service obligation component of student financial assistance awarded under this title to:<section prefix=""><section prefix="(1)">An individual who has been assigned military duty outside of the State; or</section><section prefix="(2)">The spouse of an individual who has been assigned military duty outside of the State.</section></section></text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-604" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-604</section_number>
-  <catch_line/>
+  <catch_line>The Department may establish:...</catch_line>
+  <order_by>604</order_by>
   <text>The Department may establish:<section prefix=""><section prefix="(1)">eligibility standards for group home sponsors;</section><section prefix="(2)">Program loan fees and charges;</section><section prefix="(3)">maximum Program loans for group homes based on their size, use, and location; and</section><section prefix="(4)">a process for selecting group homes to be financed under the Program that promotes statewide distribution of money.</section></section></text>
 </law>

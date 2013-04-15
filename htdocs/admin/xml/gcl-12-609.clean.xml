@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-609" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">The finance charge imposed on the sale of a motor vehicle may not exceed an amount computed using the following annual simple interest rates of finance charge:<section prefix="(1)">Class 1: A new motor vehicle -- 16.5 percent on the outstanding balance;</section><section prefix="(2)">Class 2: A used motor vehicle designated by the manufacturer by a model year not more than two years before the year in which the sale is made -- 22 percent on the outstanding balance; and</section><section prefix="(3)">Class 3: A used motor vehicle designated by the manufacturer by a model year more than two years before the year in which the sale is made -- 27 percent on the outstanding balance.</section></section>
     <section prefix="(b)">

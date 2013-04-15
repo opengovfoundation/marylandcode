@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-209" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-14-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">Except as otherwise specifically provided by State law, the University, its officers, and its units may not raise the defense of sovereign immunity in any administrative, arbitration, or judicial proceeding involving an employee grievance or hearing that is held under:<section prefix="(1)">This subtitle or a procedure adopted under it;</section><section prefix="(2)">Subtitle 3 of this title; or</section><section prefix="(3)">A personnel policy or procedure that governs classified employees of the University.</section></section>
     <section prefix="(b)">
@@ -13,7 +13,7 @@
       <section prefix="(2)">If this State has sufficient money available at the time, an award made against the University or an officer or unit of the University shall be paid as soon as practicable within 20 days after the award is final.</section>
       <section prefix="(3)">
         <section prefix="(i)">If sufficient money is not available at the time to satisfy an award made against the University or an officer or unit of the University, the affected unit or officer shall report the outstanding award to the State Comptroller.</section>
-        <section prefix="(ii)">The Comptroller shall:</section>
+        <section prefix="(ii)">The Comptroller shall:<section prefix="1.">Keep an accounting of all outstanding awards; and</section><section prefix="2.">Report that accounting annually to the Governor.</section></section>
         <section prefix="(iii)">The Governor shall include in the State budget sufficient money to pay all awards made against the University or an officer or unit of the University.</section>
         <section prefix="(iv)">On appropriation of money by the General Assembly, the Comptroller shall authorize payment of all outstanding awards in the order of the date on which each award was made.</section>
       </section>

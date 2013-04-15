@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-420" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-420</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>420</order_by>
   <text>
     <section prefix="(a)">On or before the beginning of each taxable year and before half-year taxes are due, the supervisors shall prepare and deliver to the collector for each county an assessment roll to be used to prepare the tax roll.</section>
     <section prefix="(b)">Each assessment roll shall contain for each listed property:<section prefix="(1)">the name and address of the owner;</section><section prefix="(2)">a brief description of the property; and</section><section prefix="(3)">the value and assessment of the property.</section></section>

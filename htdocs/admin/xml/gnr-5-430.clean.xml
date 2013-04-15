@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-430" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-430</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>430</order_by>
   <text>
     <section prefix="(a)">In order to implement the Green Shores Program, the Department may:<section prefix="(1)">Enter into contractual agreements with other State agencies, local governments, nonprofit corporations, and private citizens who receive payments or grants;</section><section prefix="(2)">Set priorities by watersheds for the dissemination of grants and payments; and</section><section prefix="(3)">Adopt regulations.</section></section>
     <section prefix="(b)">Any contractual agreement that the Department enters into under the Green Shores Program shall specify the terms of the grant or payment.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-301" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-20-301</section_number>
-  <catch_line/>
+  <catch_line>Subject to &#xA7;&#xA7; 20-303 and 20-304 of this subtitle, a public board, public body, or public official ...</catch_line>
+  <order_by>301</order_by>
   <text>Subject to &#xA7;&#xA7; 20-303 and 20-304 of this subtitle, a public board, public body, or public official may not conduct any of the following activities in the regional district unless the proposed location, character, grade, and extent of the activity is referred to and approved by the Commission:<section prefix=""><section prefix="(1)">acquiring or selling land;</section><section prefix="(2)">locating, constructing, or authorizing:<section prefix="(i)">a road;</section><section prefix="(ii)">a park;</section><section prefix="(iii)">any other public way or ground;</section><section prefix="(iv)">a public building or structure, including a federal building or structure; or</section><section prefix="(v)">a publicly owned or privately owned public utility; or</section></section><section prefix="(3)">changing the use of or widening, narrowing, extending, relocating, vacating, or abandoning any facility listed in item (2) of this section.</section></section></text>
 </law>

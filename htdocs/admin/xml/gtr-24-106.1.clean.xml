@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-106.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-24-106.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106.1</order_by>
   <text>
     <section prefix="(a)">In this section:<section prefix="(1)">"Loose material" includes:<section prefix="(i)">Dirt, sand, gravel, wood chips, or other material that can blow, fall, or spill from a vehicle as a result of movement or of exposure to air, wind, or weather; and</section><section prefix="(ii)">Any other kind of material that can blow, fall, or spill, as specified in rules and regulations adopted by the Administrator; and</section></section><section prefix="(2)">"Loose material" does not include agricultural products, including sod, in their natural state.</section></section>
     <section prefix="(b)">A person may not, in violation of this section, carry any loose material in any vehicle on or across any highway in this State.</section>
@@ -32,7 +32,7 @@
       <section prefix="(1)">Upon application by the supervisor of a construction project of the Department, the Department may grant a reasonable extension of the 1-mile limitation established in subsection (e)(1)(iii) of this section if the Department determines that the extension request meets the criteria developed under paragraph (2) of this subsection and the provisions of paragraph (3) of this subsection.</section>
       <section prefix="(2)">
         <section prefix="(i)">The Department shall adopt regulations establishing criteria for granting an extension under this subsection.</section>
-        <section prefix="(ii)">In adopting regulations under this subsection, the Administration shall consider:</section>
+        <section prefix="(ii)">In adopting regulations under this subsection, the Administration shall consider:<section prefix="1.">The size of the construction project;</section><section prefix="2.">The likely adverse impact that granting the extension will have on surrounding highways and motorist safety; and</section><section prefix="3.">The likely adverse impact of the cover requirement on construction costs and timely completion of the project.</section></section>
       </section>
       <section prefix="(3)">An extension granted under this subsection may not exceed the confines of the Department's construction project.</section>
     </section>

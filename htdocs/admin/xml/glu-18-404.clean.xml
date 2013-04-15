@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-404" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On request by the Commission, Montgomery County and Prince George's County may grant money to the Commission for any of the purposes of Subtitles 2 and 3 of this title.</section>

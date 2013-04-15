@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-207" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department may not accept for record or filing any document of a limited liability company that does not conform with law.</section>

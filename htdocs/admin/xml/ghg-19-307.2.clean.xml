@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-307.2" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-307.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307.2</order_by>
   <text>
     <section prefix="(a)">For a hospital classified as a general hospital, the Secretary shall annually calculate the hospital's licensed bed capacity.</section>
     <section prefix="(b)">The annual licensed bed calculation for each hospital shall equal 140 percent of the average daily census for the 12-month period immediately preceding the calculation.</section>

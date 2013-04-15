@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1008" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-1008</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1008</order_by>
   <text>
     <section prefix="(a)">In this section, "retirement payment":<section prefix="(1)">means an amount in the form of a pension, annuity, or retirement or retired pay from a trust, annuity, profit sharing plan, insurance fund, annuity or insurance contract, or any other similar lump sum or periodic payment that is based on any previous covered employment for a base period employer under a plan paid for wholly or partly by a base period employer; and</section><section prefix="(2)">does not include a payment from a state or federal workers' compensation program.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">For each week in which the Secretary finds that an individual who otherwise is eligible for benefits receives a retirement payment:<section prefix="(i)">if the weekly amount of the retirement payment computed under subsection (c) of this section at least equals the individual's weekly benefit amount, the individual is disqualified from receiving benefits for that week; and</section><section prefix="(ii)">if the weekly amount of the retirement payment computed under subsection (c) of this section is less than the individual's weekly benefit amount, the individual may receive benefits reduced by the amount of the retirement payment.</section></section>
-      <section prefix="(2)">A retirement benefit in the form of a lump sum payment is not deductible from benefits for the period of eligibility if:<section prefix="(i)">the employing unit pays the lump sum payment as a result of a layoff or shutdown; or</section><section prefix="(ii)">within 30 days of receiving the lump sum payment, the claimant:</section></section>
+      <section prefix="(2)">A retirement benefit in the form of a lump sum payment is not deductible from benefits for the period of eligibility if:<section prefix="(i)">the employing unit pays the lump sum payment as a result of a layoff or shutdown; or</section><section prefix="(ii)">within 30 days of receiving the lump sum payment, the claimant:<section prefix="1.">places the lump sum payment in a qualified retirement plan; and</section><section prefix="2.">provides proof to the Secretary that the lump sum payment has been placed in a qualified retirement plan.</section></section></section>
       <section prefix="(3)">In the case of payment in the form of a pension, annuity, retirement, or retired pay paid to an individual under the Social Security Act or the Railroad Retirement Act of 1974, the individual's contribution shall be taken into consideration and the weekly benefit amount shall not be reduced.</section>
     </section>
     <section prefix="(c)">

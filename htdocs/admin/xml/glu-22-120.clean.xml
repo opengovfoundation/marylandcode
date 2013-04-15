@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-120" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-22-120</section_number>
-  <catch_line/>
+  <catch_line>Within the regional district, any power granted to a planning commission or board of appeals under D...</catch_line>
+  <order_by>120</order_by>
   <text>Within the regional district, any power granted to a planning commission or board of appeals under Division I of this article shall be construed as vested exclusively in and may be exercised only by:<section prefix=""><section prefix="(1)">the Commission; or</section><section prefix="(2)">the board of appeals created or authorized by this title.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-309" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">In this section, "reverse stock split" means a combination of outstanding shares of stock of a corporation into a lesser number of shares of stock of the same class without any change in the aggregate amount of stated capital of the corporation, except for a change resulting from the elimination of fractional shares in accordance with &#xA7; 2-214 of this title.</section>
     <section prefix="(b)">If authorized by its board of directors, a corporation may make distributions to its stockholders, subject to any restriction in its charter and the limitations in &#xA7; 2-311 of this subtitle.</section>

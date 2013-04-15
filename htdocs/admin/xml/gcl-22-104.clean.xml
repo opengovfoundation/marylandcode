@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-104</section_number>
-  <catch_line/>
+  <catch_line>The parties may agree that this title, including contract-formation rules, governs the transaction, ...</catch_line>
+  <order_by>104</order_by>
   <text>The parties may agree that this title, including contract-formation rules, governs the transaction, in whole or part, or that other law governs the transaction and this title does not apply, if a material part of the subject matter to which the agreement applies is computer information or informational rights in it that are within the scope of this title, or is subject matter within this title under &#xA7; 22-103(b) of this subtitle, or is subject matter excluded by &#xA7; 22-103(d)(1), (2), or (3) of this subtitle. However, any agreement to do so is subject to the following rules:<section prefix=""><section prefix="(1)">An agreement that this title governs a transaction does not alter the applicability of any statute, rule, regulation, or procedure that may not be varied by agreement of the parties or that may be varied only in a manner specified by the statute, rule, regulation, or procedure, including a consumer protection statute or regulation. In addition, in a mass-market transaction, the agreement does not alter the applicability of a law applicable to a copy of information in printed form.</section><section prefix="(2)">An agreement that this title does not govern a transaction:<section prefix="(A)">Does not alter the applicability of &#xA7; 22-214 of this title or the limitations of &#xA7; 22-816 of this title if the parties have agreed to permit the use of electronic self-help; and</section><section prefix="(B)">In a mass-market transaction, does not alter the applicability under this title of the doctrine of unconscionability or fundamental public policy or the obligation of good faith.</section></section><section prefix="(3)">In a mass-market transaction, any term under this section which changes the extent to which this title governs the transaction must be conspicuous.</section><section prefix="(4)">A copy of a computer program contained in and sold or leased as part of goods and which is excluded from this title by &#xA7; 22-103(b)(1) of this subtitle cannot provide the basis for an agreement under this section that this title governs the transaction.</section></section></text>
 </law>

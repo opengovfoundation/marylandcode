@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-407" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">On or before June 30 of each year, each Association member shall elect whether to recoup its share of the assessment for the immediately preceding year by imposing an assessment surcharge, where appropriate, on each of the Association member's commercial auto policyholders or private passenger auto policyholders, or both.</section>
     <section prefix="(b)">An Association member that does not elect on or before June 30 to recoup its share of an assessment is considered to have recouped that assessment and to have waived its option to impose an assessment surcharge on its policyholders.</section>

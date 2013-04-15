@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-420" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-6-420</section_number>
-  <catch_line/>
+  <catch_line>The purposes of the Program are to provide facilities or programs that offer and provide:...</catch_line>
+  <order_by>420</order_by>
   <text>The purposes of the Program are to provide facilities or programs that offer and provide:<section prefix=""><section prefix="(1)">crisis and transition shelter, proper nutrition, and adequate services to homeless individuals and families, which may include linkage to multiple service components, centralized decision making regarding placement, case management, transportation, and follow-up services; and</section><section prefix="(2)">services to prevent individuals and families in a housing crisis from becoming homeless.</section></section></text>
 </law>

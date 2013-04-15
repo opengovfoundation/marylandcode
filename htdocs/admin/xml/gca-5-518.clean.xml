@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-518" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-518</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>518</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any member of a cooperative may bring charges of misconduct or incompetency against a director by filing with the secretary of the cooperative a written petition signed by 10 percent of the members or 25 members, whichever is less, specifying the charges and requesting removal of the director.</section>

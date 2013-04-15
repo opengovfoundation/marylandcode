@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-5-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">If an issuer wrongfully dishonors or repudiates its obligation to pay money under a letter of credit before presentation, the beneficiary, successor, or nominated person presenting on its own behalf may recover from the issuer the amount that is the subject of the dishonor or repudiation. If the issuer's obligation under the letter of credit is not for the payment of money, the claimant may obtain specific performance or, at the claimant's election, recover an amount equal to the value of performance from the issuer. In either case, the claimant may also recover incidental but not consequential damages. The claimant is not obligated to take action to avoid damages that might be due from the issuer under this subsection. If, although not obligated to do so, the claimant avoids damages, the claimant's recovery from the issuer must be reduced by the amount of damages avoided. The issuer has the burden of proving the amount of damages avoided. In the case of repudiation the claimant need not present any document.</section>
     <section prefix="(b)">If an issuer wrongfully dishonors a draft or demand presented under a letter of credit or honors a draft or demand in breach of its obligation to the applicant, the applicant may recover damages resulting from the breach, including incidental but not consequential damages, less any amount saved as a result of the breach.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-721" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-721</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>721</order_by>
   <text>
     <section prefix="(a)">A person may not fish with a hauling seine or stake net in the waters of Swan Creek from July 15 to September 15, both dates inclusive, and in the waters of the Gunpowder River lying in Harford County from May 15 to September 15, both dates inclusive.</section>
     <section prefix="(b)">A person may not fish at any time with a haul seine in the waters of Bush River or any of its tributaries in Harford County.</section>

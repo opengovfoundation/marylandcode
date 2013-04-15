@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-101" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to:<section prefix="(1)">a telegraph company; or</section><section prefix="(2)">a telephone company that owned lines and provided local exchange or interexchange service in the State as of October 1, 1993, with the approval of the Commission.</section></section>
     <section prefix="(b)">Except as otherwise provided by law, the provisions of this subtitle are not subject to the jurisdiction of the Commission.</section>

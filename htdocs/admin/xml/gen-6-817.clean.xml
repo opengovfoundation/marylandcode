@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-817" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-817</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>817</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except for properties constructed between January 1, 1950, and December 31, 1977, both inclusive, on and after February 24, 2001, an owner of affected properties shall ensure that at least 50% of the owner's affected properties have satisfied the risk reduction standard specified in &#xA7; 6-815(a) of this subtitle, without regard to the number of affected properties in which there has been a change in occupancy.</section>
@@ -19,7 +19,7 @@
       <section prefix="(2)">
         <section prefix="(i)">Notwithstanding any other remedy that may be available, an owner who fails to meet the requirements of subsections (b)(1) and (c) of this section, or of &#xA7; 6-819(f) of this subtitle shall lose the liability protection under &#xA7; 6-836 of this subtitle for any alleged injury or loss caused by the ingestion of lead by a person at risk that is first documented by a test for EBL of 15 &#xB5;g/dl or more on or after February 24, 2006 in any of the owner's units that have not satisfied the risk reduction standard specified in &#xA7; 6-815(a) of this subtitle, the inspection requirement of subsection (c) of this section, or the modified risk reduction standard specified in &#xA7; 6-819(a) of this subtitle, as applicable.</section>
         <section prefix="(ii)">The liability protection under &#xA7; 6-836 of this subtitle shall be reinstated for any alleged injury or loss caused by the ingestion of lead that is first documented by a test for EBL of 15 &#xB5;g/dl or more after the date that the owner meets the requirements of subsections (b)(1) and (c) of this section and the requirements of &#xA7; 6-819(f) of this subtitle.</section>
-        <section prefix="(iii)">The provisions of this paragraph do not apply if the owner proves that the noncompliance results from:</section>
+        <section prefix="(iii)">The provisions of this paragraph do not apply if the owner proves that the noncompliance results from:<section prefix="1.">A tenant's lack of cooperation with the owner's compliance efforts; or</section><section prefix="2.">Legal action affecting access to the unit.</section></section>
       </section>
       <section prefix="(3)">Notice given under subsection (b)(1) of this section shall be sent by:<section prefix="(i)">Certified mail, return receipt requested; or</section><section prefix="(ii)">A verifiable method approved by the Department.</section></section>
     </section>

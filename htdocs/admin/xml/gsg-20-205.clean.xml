@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-205" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-20-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Governor shall:<section prefix="(1)">appoint an Executive Director of the Commission from a list of five names submitted by the Commission; and</section><section prefix="(2)">remove the Executive Director on the recommendation of two-thirds of the members of the Commission.</section></section>
     <section prefix="(b)">The Executive Director:<section prefix="(1)">shall appoint a deputy director with the approval of a majority of the members of the Commission; and</section><section prefix="(2)">may remove the deputy director with the approval of a majority of the members of the Commission.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Advisory Board" means the Criminal Justice Information Advisory Board.</section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">
       <section prefix="(1)">"Criminal history record information" means data that are developed or collected by a criminal justice unit about a person and that pertain to a reportable event.</section>
       <section prefix="(2)">"Criminal history record information" includes:<section prefix="(i)">data from a unit that is required to report to the Central Repository under Title 3 of this article;</section><section prefix="(ii)">data about a person following waiver of jurisdiction by a juvenile court; and</section><section prefix="(iii)">data described under &#xA7;&#xA7; 10-215(a)(20) and (21) and 10-216 of this subtitle.</section></section>
-      <section prefix="(3)">"Criminal history record information" does not include:<section prefix="(i)">data contained in intelligence or investigatory files or police work product records used only for police investigations;</section><section prefix="(ii)">except as provided in paragraph (2)(ii) and (iii) of this subsection, data about a proceeding under Title 3, Subtitle 8A of the Courts Article;</section><section prefix="(iii)">wanted posters, police blotter entries, court records of public judicial proceedings, or published court opinions;</section><section prefix="(iv)">data about a violation of:</section><section prefix="(v)">data about the point system established by the Motor Vehicle Administration under Title 16 of the Transportation Article; or</section><section prefix="(vi)">a presentence investigation report or other report that a probation department prepares for a court to use in the exercise of criminal jurisdiction or for the Governor to use in the exercise of the Governor's power to grant a pardon, reprieve, commutation, or nolle prosequi.</section></section>
+      <section prefix="(3)">"Criminal history record information" does not include:<section prefix="(i)">data contained in intelligence or investigatory files or police work product records used only for police investigations;</section><section prefix="(ii)">except as provided in paragraph (2)(ii) and (iii) of this subsection, data about a proceeding under Title 3, Subtitle 8A of the Courts Article;</section><section prefix="(iii)">wanted posters, police blotter entries, court records of public judicial proceedings, or published court opinions;</section><section prefix="(iv)">data about a violation of:<section prefix="1.">a traffic law of this State or any other traffic law, ordinance, or regulation;</section><section prefix="2.">a local ordinance or a State or local regulation; or</section><section prefix="3.">the Natural Resources Article or a public local law;</section></section><section prefix="(v)">data about the point system established by the Motor Vehicle Administration under Title 16 of the Transportation Article; or</section><section prefix="(vi)">a presentence investigation report or other report that a probation department prepares for a court to use in the exercise of criminal jurisdiction or for the Governor to use in the exercise of the Governor's power to grant a pardon, reprieve, commutation, or nolle prosequi.</section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">"Criminal justice information system" means equipment, facilities, procedures, agreements, and personnel that are used to collect, process, preserve, and disseminate criminal history record information.</section>

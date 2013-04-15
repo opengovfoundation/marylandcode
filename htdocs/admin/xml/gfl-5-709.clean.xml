@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-709" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-709</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>709</order_by>
   <text>
     <section prefix="(a)">If a representative of a local department is conducting an investigation under this subtitle, the representative may enter the household, if the representative:<section prefix="(1)">previously has been denied the right of entry; and</section><section prefix="(2)">has probable cause to believe that a child is in serious, immediate danger.</section></section>
     <section prefix="(b)">A police officer shall accompany the representative and may use reasonable force, if necessary, to enable the representative to gain entry.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-304" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-3-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The health officer for a county is entitled to:<section prefix="(1)">The salary provided in the State budget;</section><section prefix="(2)">Reimbursement for expenses under the Standard State Travel Regulations, as provided in the State budget; and</section><section prefix="(3)">Any additional salary that the county provides.</section></section>
     <section prefix="(b)">Except as otherwise provided by law, each health officer is a special appointment in the State Personnel Management System.</section>

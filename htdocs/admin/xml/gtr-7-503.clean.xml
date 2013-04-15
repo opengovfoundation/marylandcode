@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-503" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">In cooperation with private carriers and the Public Service Commission, the Administration shall coordinate, to the fullest extent practicable, the routes and service of its transit facilities with the routes and service of private carriers.</section>
     <section prefix="(b)">Subject to the approval of the Public Service Commission, the Administration shall:<section prefix="(1)">Enter into agreements with private carriers to establish and maintain through routes and joint fares and to provide for the division of these joint fares; or</section><section prefix="(2)">In the absence of agreement, establish and maintain through routes and joint fares in accordance with orders issued by the Public Service Commission and directed to the private carriers, if the terms and conditions for the through service and joint fares are acceptable to the Administration.</section></section>

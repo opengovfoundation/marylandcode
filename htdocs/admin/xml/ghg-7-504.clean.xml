@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-504" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">The Board of Review of the Department does not have jurisdiction to review the determination of a hearing officer on an admission under this subtitle.</section>
     <section prefix="(b)">The determination of the hearing officer is a final decision of the Department for the purpose of judicial review of final decisions under Title 10, Subtitle 2 of the State Government Article.</section>

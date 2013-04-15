@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8A-1502" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8A-1502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1502</order_by>
   <text>
     <section prefix="(a)">If it is claimed or appears to the court that a rental agreement or park rule may be unconscionable, the court may give to the parties a reasonable opportunity to present evidence as to the meaning of the rental agreement or park rule, relationship of the parties, purpose, and other relevant factors to aid the court in making a determination.</section>
     <section prefix="(b)">A park rule that does not apply uniformly to all residents in a park creates a rebuttable presumption of unfairness.</section>

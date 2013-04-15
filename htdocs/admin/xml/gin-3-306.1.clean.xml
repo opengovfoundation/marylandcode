@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-306.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-306.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A diligent search required by &#xA7; 3-306 of this subtitle shall be deemed completed if:<section prefix="(i)">the insured or the surplus lines broker or insurance producer obtains declinations of a risk from three authorized insurers that are writing the particular kind and class of insurance in this State; and</section><section prefix="(ii)">the declinations are included in the affidavit required under &#xA7; 3-307 of this subtitle.</section></section>

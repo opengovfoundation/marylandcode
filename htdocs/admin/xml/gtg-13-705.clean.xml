@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-705" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
-    <section prefix="(a)">The Comptroller shall assess a penalty not exceeding $500 if:<section prefix="(1)">an individual, as defined under &#xA7; 10-101 of this article, files what purports to be an income tax return, but which:<section prefix="(i)">does not contain information on which the substantial correctness of the tax may be determined; or</section><section prefix="(ii)">contains information that, on its face, indicates the tax reported on the return is substantially incorrect; and</section></section><section prefix="(2)">the conduct of the individual is due to:<section prefix="(i)">a desire, apparent on the face of the return, to delay or impede the administration of the provisions of Title 10 of this article; or</section><section prefix="(ii)">a position that is frivolous because the position:</section></section></section>
+    <section prefix="(a)">The Comptroller shall assess a penalty not exceeding $500 if:<section prefix="(1)">an individual, as defined under &#xA7; 10-101 of this article, files what purports to be an income tax return, but which:<section prefix="(i)">does not contain information on which the substantial correctness of the tax may be determined; or</section><section prefix="(ii)">contains information that, on its face, indicates the tax reported on the return is substantially incorrect; and</section></section><section prefix="(2)">the conduct of the individual is due to:<section prefix="(i)">a desire, apparent on the face of the return, to delay or impede the administration of the provisions of Title 10 of this article; or</section><section prefix="(ii)">a position that is frivolous because the position:<section prefix="1.">has no basis in law or fact;</section><section prefix="2.">is patently unlawful; and</section><section prefix="3.">does not involve a legitimate dispute or reflect an inadvertent mathematical or clerical error.</section></section></section></section>
     <section prefix="(b)">The penalty under subsection (a) of this section is in addition to any penalty assessed under &#xA7; 13-701 of this subtitle.</section>
   </text>
 </law>

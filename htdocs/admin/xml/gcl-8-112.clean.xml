@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-112" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">The interest of a debtor in a certificated security may be reached by a creditor only by actual seizure of the security certificate by the officer making the attachment or levy, except as otherwise provided in subsection (d) of this section. However, a certificated security for which the certificate has been surrendered to the issuer may be reached by a creditor by legal process upon the issuer.</section>
     <section prefix="(b)">The interest of a debtor in an uncertificated security may be reached by a creditor only by legal process upon the issuer at the issuer's chief executive office in the United States, except as otherwise provided in subsection (d) of this section.</section>

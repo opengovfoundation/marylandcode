@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-802" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">The Developmental Disabilities Administration may ask the Mental Hygiene Administration to accept primary responsibility for an individual in or eligible for admission to a State residential center, if the Developmental Disabilities Administration finds that the individual would be provided for more appropriately in a program for individuals with mental disorders.</section>
     <section prefix="(b)">The Mental Hygiene Administration shall determine whether transfer to a mental health program is appropriate.</section>

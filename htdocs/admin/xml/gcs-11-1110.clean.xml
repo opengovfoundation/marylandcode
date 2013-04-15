@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-1110" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-1110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Sheriff may impose emergency suspension with pay if it appears that the action is in the best interest of the public and the Sheriff's Office.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-518" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-518</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>518</order_by>
   <text>
     <section prefix="(a)">A trust company may register in the name of a nominee any assets of a common trust fund that it administers.</section>
     <section prefix="(b)">The nominee may be either an individual or a partnership.</section>

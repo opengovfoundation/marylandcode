@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-104" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">In this section, "responsible personnel" means any foreman, superintendent, or project engineer who is in charge of on-site clearing and grading operations or sediment control associated with a construction project.</section>
     <section prefix="(b)">After July 1, 1983, any applicant for sediment and erosion control plan approval shall certify to the appropriate jurisdiction that any responsible personnel involved in the construction project will have a certificate of attendance at a Department of the Environment approved training program for the control of sediment and erosion before beginning the project. A certificate shall be valid for a 3-year period. A certificate shall be automatically renewed unless the Department of the Environment notifies the certificate holder that additional training is required.</section>

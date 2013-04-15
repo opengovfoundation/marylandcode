@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="221A" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-221A</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221A</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,9 +16,9 @@
       </section>
       <section prefix="(4)">
         <section prefix="(i)">"False alarm" means any request for immediate assistance by a law enforcement agency or fire department, regardless of cause, that is not in response to an actual emergency situation or threatened suggested criminal activity.</section>
-        <section prefix="(ii)">"False alarm" includes:</section>
-        <section prefix="(iii)">"False alarm" does not include:</section>
-        <section prefix="(iv)">An alarm system that is activated a second time within a 12-hour period when the premises are unoccupied shall be deemed a false alarm if:</section>
+        <section prefix="(ii)">"False alarm" includes:<section prefix="1.">Negligently or accidentally activated signals;</section><section prefix="2.">Signals that are the result of faulty, malfunctioning, or improperly installed or maintained equipment; and</section><section prefix="3.">Signals that are purposely activated to summon a law enforcement agency or fire department in a nonemergency situation.</section></section>
+        <section prefix="(iii)">"False alarm" does not include:<section prefix="1.">Signals activated by unusually severe weather conditions or other causes beyond the control of the alarm user or alarm system contractor; or</section><section prefix="2.">Signals activated during the initial 60-day period following new installation.</section></section>
+        <section prefix="(iv)">An alarm system that is activated a second time within a 12-hour period when the premises are unoccupied shall be deemed a false alarm if:<section prefix="1.">Access to the building is provided to the alarm system contractor; and</section><section prefix="2.">An alarm system contractor or an employee of an alarm system contractor responds.</section></section>
         <section prefix="(v)">If access to the building is not provided to the alarm system contractor, and the contractor does not respond to an alarm system that is activated a second time within a 12-hour period when the premises are unoccupied, each subsequent alarm shall be counted as a false alarm.</section>
       </section>
     </section>

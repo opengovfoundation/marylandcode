@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The Department shall control all substances listed in Subtitle 4 of this title.</section>
     <section prefix="(b)">In accordance with the Administrative Procedure Act, the Department may add a substance as a controlled dangerous substance on its own initiative or on the petition of an interested party.</section>

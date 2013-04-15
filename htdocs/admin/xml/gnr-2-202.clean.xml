@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-202" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-2-202</section_number>
-  <catch_line/>
+  <catch_line>The Survey shall:...</catch_line>
+  <order_by>202</order_by>
   <text>The Survey shall:<section prefix=""><section prefix="(1)">Conduct topographic, geologic, hydrographic, and geophysical surveys;</section><section prefix="(2)">Prepare topographic, geologic, and other types of maps to meet specific needs;</section><section prefix="(3)">Prepare reports on the extent and character of the State's geology, mineral, and water resources; and</section><section prefix="(4)">Periodically assess the paleontological resources of the State and coordinate the assessment with interested persons and public agencies.</section></section></text>
 </law>

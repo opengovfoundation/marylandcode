@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-402" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-1-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
-        <section prefix="(i)">This section does not apply to any person:</section>
-        <section prefix="(ii)">A person described in subparagraph (i) of this paragraph is not liable to a customer or user of an automated teller machine for any claim relating to:</section>
+        <section prefix="(i)">This section does not apply to any person:<section prefix="1.">Whose primary function is to provide for the exchange, transfer, or dissemination of electronic fund transfer data; and</section><section prefix="2.">That is not otherwise an operator or person who controls an access area or designated parking area.</section></section>
+        <section prefix="(ii)">A person described in subparagraph (i) of this paragraph is not liable to a customer or user of an automated teller machine for any claim relating to:<section prefix="1.">Any provision of this section; or</section><section prefix="2.">The use or attempted use of an automated teller machine.</section></section>
       </section>
-      <section prefix="(2)">This section does not apply to an automated teller machine which is located:<section prefix="(i)">Inside a building:</section><section prefix="(ii)">In any area, including any access area, building, enclosed space, or parking area, which is not controlled by the operator.</section></section>
+      <section prefix="(2)">This section does not apply to an automated teller machine which is located:<section prefix="(i)">Inside a building:<section prefix="1.">Unless the building is a freestanding installation which exists solely to provide an enclosure for the automated teller machine; or</section><section prefix="2.">Except to the extent that a transaction can be conducted from outside the building; or</section></section><section prefix="(ii)">In any area, including any access area, building, enclosed space, or parking area, which is not controlled by the operator.</section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">An operator of an automated teller machine shall adopt procedures for evaluating the safety of the location of the automated teller machine before it is installed.</section>

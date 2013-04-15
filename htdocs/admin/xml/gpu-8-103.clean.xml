@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-103" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A telegraph or telephone company or a corporation authorized under &#xA7; 5-410(a)(3) of this article may construct lines:<section prefix="(i)">through the State;</section><section prefix="(ii)">from or to any point in the State;</section><section prefix="(iii)">on the boundaries of the State;</section><section prefix="(iv)">along and on a road, street, or highway; and</section><section prefix="(v)">across bridges and the waters in the State.</section></section>

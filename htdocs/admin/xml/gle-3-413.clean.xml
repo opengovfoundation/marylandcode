@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-413" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-413</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>413</order_by>
   <text>
     <section prefix="(a)">In this section, "employer" includes a governmental unit.</section>
-    <section prefix="(b)">Except as provided in &#xA7; 3-414 of this subtitle, each employer shall pay:<section prefix="(1)">to each employee who is subject to both the federal Act and this subtitle, at least the greater of:<section prefix="(i)">the minimum wage for that employee under the federal Act; or</section><section prefix="(ii)">a wage that equals a rate of $6.15 per hour; and</section></section><section prefix="(2)">each other employee who is subject to this subtitle, at least:<section prefix="(i)">the greater of:</section><section prefix="(ii)">a training wage under regulations that the Commissioner adopts that include the conditions and limitations authorized under the federal Fair Labor Standards Amendments of 1989.</section></section></section>
+    <section prefix="(b)">Except as provided in &#xA7; 3-414 of this subtitle, each employer shall pay:<section prefix="(1)">to each employee who is subject to both the federal Act and this subtitle, at least the greater of:<section prefix="(i)">the minimum wage for that employee under the federal Act; or</section><section prefix="(ii)">a wage that equals a rate of $6.15 per hour; and</section></section><section prefix="(2)">each other employee who is subject to this subtitle, at least:<section prefix="(i)">the greater of:<section prefix="1.">the highest minimum wage under the federal Act; or</section><section prefix="2.">a wage that equals a rate of $6.15 per hour; or</section></section><section prefix="(ii)">a training wage under regulations that the Commissioner adopts that include the conditions and limitations authorized under the federal Fair Labor Standards Amendments of 1989.</section></section></section>
   </text>
 </law>

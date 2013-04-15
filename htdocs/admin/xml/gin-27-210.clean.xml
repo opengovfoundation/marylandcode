@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-210" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Sections 27-208 and 27-209 of this subtitle may not be construed to include within the definition of discrimination or rebates any of the practices set forth in this section.</section>
     <section prefix="(b)">For a contract of life insurance or an annuity contract, it is not discrimination or a rebate to pay bonuses to policyholders or otherwise abate their premiums wholly or partly out of the surplus accumulated from nonparticipating insurance, if the bonuses or abatement of premiums is fair, equitable to, and in the best interest of policyholders.</section>

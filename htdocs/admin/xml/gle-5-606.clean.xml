@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-606" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
     <section prefix="(a)">Upon installation of a sanitary sewer line in the State, each connection brought to the property line shall have a combination type fitting, capped at the horizontal end, with a vertical pipe capped within 4 feet of the surface.</section>
     <section prefix="(b)">Each sewer house connection shall be designed to optimize safety, economy, functional efficiency, and operational maintenance.</section>

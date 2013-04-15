@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-510" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-8-510</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>510</order_by>
   <text>
     <section prefix="(a)">The Board may conduct a demonstration study to evaluate a proposed change to regulations regarding nursing practices or the activities of nursing assistants or medication technicians in a practice setting.</section>
     <section prefix="(b)">A demonstration study enables the Board, in a controlled practice setting, to determine:<section prefix="(1)">The safety of the proposed practice or activity; and</section><section prefix="(2)">The appropriate education or training requirements for a proposed practice or activity.</section></section>

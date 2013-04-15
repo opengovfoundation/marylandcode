@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-111" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-12-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">Civil engineers, land surveyors, real estate appraisers, and their assistants acting on behalf of the State or of any of its instrumentalities or any body politic or corporate having the power of eminent domain after every real and bona fide effort to notify the owner or occupant in writing with respect to the proposed entry may:<section prefix="(1)">Enter on any private land to make surveys, run lines or levels, or obtain information relating to the acquisition or future public use of the property or for any governmental report, undertaking, or improvement;</section><section prefix="(2)">Set stakes, markers, monuments, or other suitable landmarks or reference points where necessary; and</section><section prefix="(3)">Enter on any private land and perform any function necessary to appraise the property.</section></section>
     <section prefix="(b)">If any civil engineer, surveyor, real estate appraiser, or any of their assistants is refused permission to enter or remain on any private land for the purposes set out in subsection (a) of this section, the person, the State, its instrumentality, or the body politic or corporate on whose behalf the person is acting may apply to a law court of the county where the property, or any part of it, is located for an order directing that the person be permitted to enter on and remain on the land to the extent necessary to carry out the purposes authorized by this section.</section>

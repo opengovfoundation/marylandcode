@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-513" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-513</section_number>
-  <catch_line/>
+  <catch_line>Consistent with the requirements of any license issued by the federal Energy Regulatory Commission, ...</catch_line>
+  <order_by>513</order_by>
   <text>Consistent with the requirements of any license issued by the federal Energy Regulatory Commission, a person who owns or operates a dam or obstruction on the waters of the State used for the generation of electric power and the Secretary shall cooperate to assure the release of a sufficient flow of impounded water to maintain both water quality and aquatic habitat below the dam or obstruction.</text>
 </law>

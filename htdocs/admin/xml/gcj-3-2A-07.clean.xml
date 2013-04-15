@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-07" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-2A-07</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>07</order_by>
   <text>
     <section prefix="(a)">If the arbitration panel finds that the conduct of any party in maintaining or defending any action is in bad faith or without substantial justification, the panel may require the offending party, the attorney advising the conduct, or both, to pay to the adverse party the costs of the proceeding and reasonable expenses, including reasonable attorney's fees, incurred by the adverse party in opposing it. A determination made under this subsection shall become part of the panel award and subject to judicial review.</section>
     <section prefix="(b)">If a legal fee is in dispute, an attorney may not charge or collect compensation for services rendered in connection with an arbitration claim unless it is approved by the arbitration panel, or by the court in the event an action to nullify a panel determination has been filed therein.</section>

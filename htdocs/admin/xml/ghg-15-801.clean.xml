@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-801" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Agency-provider model" means a method of providing community attendant services and supports for a consumer by a personal assistant who is:<section prefix="(1)">Employed by a provider agency; and</section><section prefix="(2)">Supervised and evaluated by the consumer.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-218" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-218</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any person, whether located within or outside the State, may apply to the Commissioner for a license as a rating organization for a kind of insurance, subdivision of kinds of insurance, or class of risk or part or combination of kinds of insurance or classes of risk, as specified in its application.</section>
@@ -22,10 +22,19 @@
       <section prefix="(2)">Each rating organization shall give notice to subscribers of proposed changes in its rules.</section>
       <section prefix="(3)">Each rating organization shall provide its rating services without discrimination to its members and subscribers.</section>
       <section prefix="(4)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">At the request of a subscriber or an insurer that has been refused admission as a subscriber to a rating organization, the Commissioner shall review the reasonableness of the application of a rule to subscribers or the refusal of the rating organization to admit the insurer as a subscriber.</section>
+          <section prefix="2.">If a rating organization fails to grant or reject the application of an insurer for admission as a subscriber within 30 days after the application was made, the insurer may request a review of the action by the Commissioner as if the application had been rejected.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">The Commissioner shall review the challenged rule or action of the rating organization at a hearing.</section>
+          <section prefix="2.">The Commissioner shall give written notice of the hearing to the rating organization and subscriber or insurer at least 10 days before the hearing.</section>
+        </section>
         <section prefix="(iii)">If the Commissioner finds that the challenged rule is unreasonable in its application to subscribers, the Commissioner shall issue an order that the rule is not applicable to subscribers.</section>
-        <section prefix="(iv)"/>
+        <section prefix="(iv)">
+          <section prefix="1.">If the Commissioner finds that an insurer has been refused admission as a subscriber to the rating organization without justification, the Commissioner shall issue an order that requires the rating organization to admit the insurer as a subscriber.</section>
+          <section prefix="2.">If the Commissioner finds that the action of the rating organization in refusing admission as a subscriber was justified, the Commissioner shall issue an order that affirms the action of the rating organization.</section>
+        </section>
       </section>
     </section>
     <section prefix="(c)">A rating organization may not adopt a rule the effect of which would be to prohibit or regulate the payment of dividends, savings, or unabsorbed premium deposits allowed or returned by insurers to their policyholders, members, or subscribers.</section>

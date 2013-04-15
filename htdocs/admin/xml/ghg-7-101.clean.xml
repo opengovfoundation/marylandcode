@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-101" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Administration" means the Developmental Disabilities Administration.</section>
@@ -15,7 +15,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">"Alternative living unit" means a residence that:<section prefix="(i)">Provides residential services for individuals who, because of developmental disability, require specialized living arrangements;</section><section prefix="(ii)">Admits not more than 3 individuals; and</section><section prefix="(iii)">Provides 10 or more hours of supervision per unit, per week.</section></section>
-      <section prefix="(2)">"Alternative living unit" does not include a residence that is owned or rented by:<section prefix="(i)">1 or more of its residents; or</section><section prefix="(ii)">A person who:</section></section>
+      <section prefix="(2)">"Alternative living unit" does not include a residence that is owned or rented by:<section prefix="(i)">1 or more of its residents; or</section><section prefix="(ii)">A person who:<section prefix="1.">Is an agent for any of the residents; but</section><section prefix="2.">Is not a provider of residential supervision.</section></section></section>
     </section>
     <section prefix="(e)">"Developmental disability" means a severe chronic disability of an individual that:<section prefix="(1)">Is attributable to a physical or mental impairment, other than the sole diagnosis of mental illness, or to a combination of mental and physical impairments;</section><section prefix="(2)">Is manifested before the individual attains the age of 22;</section><section prefix="(3)">Is likely to continue indefinitely;</section><section prefix="(4)">Results in an inability to live independently without external support or continuing and regular assistance; and</section><section prefix="(5)">Reflects the need for a combination and sequence of special, interdisciplinary, or generic care, treatment, or other services that are individually planned and coordinated for the individual.</section></section>
     <section prefix="(f)">"Director" means the Director of the Developmental Disabilities Administration.</section>

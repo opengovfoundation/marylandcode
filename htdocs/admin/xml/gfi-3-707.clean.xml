@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-707" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-707</section_number>
-  <catch_line/>
+  <catch_line>If the Commissioner disapproves an agreement, the Commissioner shall give the constituent banks writ...</catch_line>
+  <order_by>707</order_by>
   <text>If the Commissioner disapproves an agreement, the Commissioner shall give the constituent banks written notice of the reasons for the disapproval and an opportunity to amend the agreement.</text>
 </law>

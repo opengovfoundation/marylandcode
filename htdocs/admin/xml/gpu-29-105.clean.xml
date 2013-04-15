@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="29-105" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-29-105</section_number>
-  <catch_line/>
+  <catch_line>Except as provided in regulations adopted by the Commission, a person may not use, handle, tamper wi...</catch_line>
+  <order_by>105</order_by>
   <text>Except as provided in regulations adopted by the Commission, a person may not use, handle, tamper with, obstruct, interfere with, deface, or destroy any property owned or used by the Commission in the construction or operation of the Commission's systems.</text>
 </law>

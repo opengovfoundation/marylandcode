@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-221" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-221</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221</order_by>
   <text>
     <section prefix="(a)">The Comptroller, the Chief Deputy Comptroller, or a deputy comptroller may not issue a warrant for disbursement of an appropriation to an institution or corporation unless the Comptroller has on file an affidavit that complies with the requirements of this section.</section>
     <section prefix="(b)">An affidavit under this section shall state that the affiant personally knows that no money from State funds has been paid or promised to any legislative agent, lawyer, or lobbyist for any service to obtain the appropriation.</section>

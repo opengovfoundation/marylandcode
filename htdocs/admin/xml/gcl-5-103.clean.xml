@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-5-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">This title applies to letters of credit and to certain rights and obligations arising out of transactions involving letters of credit.</section>
     <section prefix="(b)">The statement of a rule in this title does not by itself require, imply, or negate application of the same or a different rule to a situation not provided for, or to a person not specified, in this title.</section>

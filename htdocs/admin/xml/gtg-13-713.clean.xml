@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-713" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-713</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>713</order_by>
   <text>
     <section prefix="(a)">If a person pays a tax, interest, or penalties under this article by a check that is not honored by the bank on which it is drawn, the tax collector shall assess a service charge of $30 against the person.</section>
     <section prefix="(b)">An assessment under subsection (a) of this section that is not paid within 25 days after the date on which the notice of assessment is mailed is a lien, in favor of the State, that:<section prefix="(1)">extends to all property and rights to property belonging to the person against whom the assessment is made; and</section><section prefix="(2)">may be collected under Subtitle 8, Part II of this title.</section></section>

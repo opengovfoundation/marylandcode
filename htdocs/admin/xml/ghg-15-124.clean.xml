@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-124" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>124</order_by>
   <text>
     <section prefix="(a)">The Department shall maintain a Maryland Pharmacy Assistance Program for low income individuals not eligible for Medicare whose:<section prefix="(1)">Assets are not more than the level established by the federal Centers for Medicare and Medicaid Services under the Qualified Medicare Beneficiary Program; and</section><section prefix="(2)">Gross annual income does not exceed 116% of the federal poverty guidelines for an individual, or 100% of the federal poverty guidelines for a family of two or more.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">Reimbursement under the Maryland Pharmacy Assistance Program may be limited to maintenance drugs, anti-infectives, and AZT as specified in regulations to be issued by the Secretary after consultation with the Maryland Pharmacists Association.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">For any drug on the Program's interchangeable drug list, the Program shall reimburse providers in an amount not more than it would reimburse for the drug's generic equivalent, unless the individual's physician states, in his or her own handwriting, on the face of the prescription, that a specific brand is "medically necessary" for the particular patient.</section>
+          <section prefix="2.">If an appropriate generic drug is not generally available, the Department may waive the reimbursement requirement under subsubparagraph 1 of this subparagraph.</section>
+        </section>
       </section>
       <section prefix="(2)">The reimbursement shall be up to the amount paid for the same items or services under the pharmacy program of the Maryland Medical Assistance Program and shall be subject to a copayment of not more than:<section prefix="(i)">$2.50 for a generic drug or a brand name drug on a preferred drug list established by the Department; and</section><section prefix="(ii)">$7.50 for a brand name drug not on a preferred drug list established by the Department.</section></section>
     </section>

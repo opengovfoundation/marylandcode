@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-403" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-3-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">A political subdivision may enforce the sound level limits and noise control rules and regulations adopted under this title.</section>
     <section prefix="(b)">A political subdivision that enforces a noise control standard adopted under this title or an ordinance concerning noise may:<section prefix="(1)">Investigate a complaint concerning noise;</section><section prefix="(2)">Institute and conduct a survey and testing program concerning noise;</section><section prefix="(3)">Test or make another determination of the source of a noise; and</section><section prefix="(4)">Assess the degree of required abatement of the noise.</section></section>

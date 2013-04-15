@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1303" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-1303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1303</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection applies whenever the executive authority of any state:<section prefix="(i)">Demands of the Governor, a fugitive within the purview of &#xA7; 10-1302 of this subtitle; and</section><section prefix="(ii)">Produces a copy of the commitment, decree, or other judicial process and proceedings, certified as authentic by the governor or chief magistrate of the state whence the person so charged has fled, with an affidavit made before a proper officer showing the person to be a fugitive.</section></section>

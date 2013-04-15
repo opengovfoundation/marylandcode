@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-804" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">Each viatical settlement provider shall have in place an antifraud plan reasonably calculated to detect, prosecute, and prevent fraudulent viatical settlement acts.</section>
     <section prefix="(b)">Within 30 days after instituting or modifying an antifraud plan, the viatical settlement provider shall notify the Commissioner in writing.</section>

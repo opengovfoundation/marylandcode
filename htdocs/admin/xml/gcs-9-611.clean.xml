@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-611" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-611</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>611</order_by>
   <text>
     <section prefix="(a)">An individual who is committed or detained, or another individual on that individual's behalf, may demand a true copy of the warrant of commitment or detainer.</section>
     <section prefix="(b)">If an officer or other individual neglects or refuses to deliver a true copy of the warrant of commitment or detainer, if there is one, within 6 hours after the copy has been demanded, the officer or other individual shall forfeit $500 to the individual who is committed or detained.</section>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-701" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Covered customer" means a customer who elects to purchase coverage under a policy of portable electronics insurance issued to a vendor.</section>
     <section prefix="(c)">"Customer" means a person who purchases or leases portable electronics or purchases service related to the use of portable electronics.</section>
     <section prefix="(d)">"Location" means:<section prefix="(1)">a physical location in the State; or</section><section prefix="(2)">a Web site, call center site, or similar location where coverage under a policy of portable electronics insurance is offered or sold to residents of the State.</section></section>
     <section prefix="(e)">
-      <section prefix="(1)">"Portable electronics" means:<section prefix="(i)">an electronic device, including its accessories, that:</section><section prefix="(ii)">any other electronic device that is portable in nature that the Commissioner approves.</section></section>
+      <section prefix="(1)">"Portable electronics" means:<section prefix="(i)">an electronic device, including its accessories, that:<section prefix="1.">is easily or conveniently transported by hand by an individual; and</section><section prefix="2.">is used for communication, viewing, listening, recording, gaming, computing, or global positioning; and</section></section><section prefix="(ii)">any other electronic device that is portable in nature that the Commissioner approves.</section></section>
       <section prefix="(2)">"Portable electronics" includes:<section prefix="(i)">cellular or satellite phones;</section><section prefix="(ii)">pagers;</section><section prefix="(iii)">personal global positioning satellite units;</section><section prefix="(iv)">portable computers;</section><section prefix="(v)">portable audio listening, video viewing, or recording devices;</section><section prefix="(vi)">digital cameras;</section><section prefix="(vii)">video camcorders;</section><section prefix="(viii)">portable gaming systems;</section><section prefix="(ix)">docking stations; and</section><section prefix="(x)">automatic answering devices.</section></section>
       <section prefix="(3)">"Portable electronics" does not include telecommunications switching equipment, transmission wires, cell site transceiver equipment, or other equipment and systems used by telecommunications companies to provide telecommunications service to consumers.</section>
     </section>

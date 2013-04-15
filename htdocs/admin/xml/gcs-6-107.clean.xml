@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-107" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-6-107</section_number>
-  <catch_line/>
+  <catch_line>A sheriff or police officer authorized to serve criminal process or a parole and probation employee ...</catch_line>
+  <order_by>107</order_by>
   <text>A sheriff or police officer authorized to serve criminal process or a parole and probation employee designated under &#xA7; 6-106 of this subtitle who receives a warrant for the retaking of an alleged violator shall execute the warrant in accordance with the directions in the warrant.</text>
 </law>

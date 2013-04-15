@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-312" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">At any reasonable time, a representative of the Secretary may enter and inspect any establishment in which the Secretary reasonably believes a dangerous household substance is being manufactured, repacked, or relabeled.</section>
     <section prefix="(b)">On entering any establishment to make an inspection under this section, the representative of the Secretary shall present appropriate credentials to the owner, operator, or agent in charge.</section>

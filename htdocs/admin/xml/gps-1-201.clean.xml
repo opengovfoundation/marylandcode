@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-201" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-1-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Governor may offer a reward in the name of the State for information that leads to the arrest and conviction of an individual who causes the death of any of the following individuals who is killed in the performance of duty:<section prefix="(i)">a law enforcement officer of the State or a political subdivision of the State;</section><section prefix="(ii)">a career or volunteer member of a fire department or ambulance or rescue squad; or</section><section prefix="(iii)">a sworn member of the office of State Fire Marshal.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">"Security procedure" means a procedure established by agreement of a customer and a receiving bank for the purpose of:<section prefix="(1)">Verifying that a payment order or communication amending or cancelling a payment order is that of the customer; or</section><section prefix="(2)">Detecting error in the transmission or the content of the payment order or communication.</section></section>
     <section prefix="(b)">A "security procedure" may require the use of algorithms or other codes, identifying words or numbers, encryption, callback procedures, or similar security devices.</section>

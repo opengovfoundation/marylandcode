@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-313" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-9-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">The provisions of this Compact shall be severable, and if any phrase, clause, sentence, or provision is deemed unenforceable, the remaining provisions of the Compact shall be enforceable.</section>
     <section prefix="(b)">The provisions of this Compact shall be liberally construed to effectuate its purposes.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-710" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-710</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>710</order_by>
   <text>
     <section prefix="(a)">This section applies to each individual or group health insurance policy or certificate of an insurer that:<section prefix="(1)">is issued or delivered in the State;</section><section prefix="(2)">is issued to a group that is incorporated or has a main office in the State; or</section><section prefix="(3)">covers individuals who reside or work in the State.</section></section>
     <section prefix="(b)">Each policy or certificate subject to this section that provides for reimbursement for a service that is within the lawful scope of practice of an optometrist licensed under the Health Occupations Article shall require the insurer to reimburse the insured or any other person covered by the policy or certificate for the service performed by the optometrist in accordance with the other provisions of the policy or certificate.</section>

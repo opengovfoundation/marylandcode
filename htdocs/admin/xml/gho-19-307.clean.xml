@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-307" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-19-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of subsections (b) and (c) of this section, a license authorizes the licensee to practice social work while the license is effective.</section>
     <section prefix="(b)">A licensed social worker may practice social work only within the scope of the specific type of license issued by the Board.</section>

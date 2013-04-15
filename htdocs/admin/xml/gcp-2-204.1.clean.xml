@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-204.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-2-204.1</section_number>
-  <catch_line/>
+  <catch_line>A police officer shall arrest with or without a warrant and take into custody a person who the offic...</catch_line>
+  <order_by>204.1</order_by>
   <text>A police officer shall arrest with or without a warrant and take into custody a person who the officer has probable cause to believe is in violation of a protective order as described in &#xA7; 4-508.1(c) or &#xA7; 4-509(b) of the Family Law Article.</text>
 </law>

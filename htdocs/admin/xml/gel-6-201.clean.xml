@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-201" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-6-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">A petition shall contain:<section prefix="(1)">an information page; and</section><section prefix="(2)">signature pages containing not less than the total number of signatures required by law to be filed.</section></section>
     <section prefix="(b)">The information page shall contain:<section prefix="(1)">a description of the subject and purpose of the petition, conforming to the requirements of regulations;</section><section prefix="(2)">identification of the sponsor and, if the sponsor is an organization, of the individual designated to receive notices under this subtitle;</section><section prefix="(3)">the required information relating to the signatures contained in the petition;</section><section prefix="(4)">the required affidavit made and executed by the sponsor or, if the sponsor is an organization, by an individual responsible to and designated by the organization; and</section><section prefix="(5)">any other information required by regulation.</section></section>

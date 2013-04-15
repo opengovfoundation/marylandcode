@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-310" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-17-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">Every person holding funds or other tangible or intangible property presumed abandoned under this subtitle shall report to the Administrator with respect to the property as provided in this section.</section>
     <section prefix="(b)">The report shall be made under oath and shall include:<section prefix="(1)">The name, if known, and last known address, if any, of each person who appears from the records of the holder to be the owner of any property valued at $100 or more and presumed abandoned under this subtitle;</section><section prefix="(2)">In case of unclaimed funds of an insurance corporation, the full name of the insured, annuitant, principal, or claimant, and the last known address according to the insurance corporation's records;</section><section prefix="(3)">The nature and identifying number, if any, or description of the property and the amount which appears from the records to be due, except that items valued at less than $100 each may be reported in the aggregate;</section><section prefix="(4)">The date when the property became payable, demandable, or returnable, and the date of the last transaction with the owner with respect to the property; and</section><section prefix="(5)">Any other information which the Administrator prescribes by rule as necessary for the administration of this title.</section></section>

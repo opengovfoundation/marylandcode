@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-618" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-618</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>618</order_by>
   <text>
     <section prefix="(a)">Unless the bylaws require the presence of a greater percentage or number of the members for a quorum, a quorum for the transaction of business at all meetings of the members of a cooperative shall be:<section prefix="(1)">5% of all members, present in person, of a cooperative that has not more than 1,000 members; and</section><section prefix="(2)">Fifty members, present in person, of a cooperative that has more than 1,000 members.</section></section>
     <section prefix="(b)">If less than a quorum is present at any meeting, a majority of those present in person may adjourn the meeting from time to time without further notice.</section>

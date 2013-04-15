@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-428" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-428</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>428</order_by>
   <text>
     <section prefix="(a)">In this section, "eligible children" means children under the minimum age for adult membership but not more than 18 years old at the time of application.</section>
     <section prefix="(b)">A society may provide for benefits on the lives of eligible children:<section prefix="(1)">in accordance with &#xA7; 8-427 of this subtitle;</section><section prefix="(2)">in accordance with the laws or rules of the society; and</section><section prefix="(3)">on application of an adult.</section></section>

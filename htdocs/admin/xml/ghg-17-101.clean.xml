@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-101" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-17-101</section_number>
-  <catch_line/>
+  <catch_line>The Secretary shall determine the number and location of public health laboratories and maintain tho...</catch_line>
+  <order_by>101</order_by>
   <text>The Secretary shall determine the number and location of public health laboratories and maintain those laboratories as needed to provide testing, consulting, and regulatory support of infectious disease, epidemiology, environmental, and regulatory public health programs.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-213" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">In this section, "submerged aquatic vegetation" means a vascular or nonvascular hydrophyte, which is rooted or unrooted, that lies entirely beneath the surface of the water, except for flowering parts in some species.</section>
     <section prefix="(b)">This section does not apply to activities involved in:<section prefix="(1)">The harvesting of fish, shellfish, or crabs; or</section><section prefix="(2)">The construction, operation, and maintenance of agricultural drainage channels.</section></section>
@@ -14,11 +14,11 @@
       <section prefix="(1)">
         <section prefix="(i)">To allow ample access to their property from a navigable channel, a person who owns or rents a pier, dock, or ramp on the Chesapeake Bay or its tributaries may harvest, cut, or otherwise remove or eradicate submerged aquatic vegetation in a strip up to 60 feet wide extending from the pier, dock, or ramp to the navigable channel without the approval of the Department.</section>
         <section prefix="(ii)">A person who owns or rents any marina on the Chesapeake Bay or its tributaries or the agent of the person may harvest, cut, or otherwise remove or eradicate submerged aquatic vegetation in a strip up to 60 feet wide extending from each individual boat slip to the common points of ingress and egress of the navigable channels servicing the marina without the approval of the Department.</section>
-        <section prefix="(iii)">A public utility company or telecommunications carrier may harvest, cut, or otherwise remove or eradicate submerged aquatic vegetation in a strip up to 60 feet wide in order to maintain utility crossings in the waters of the State without the approval of the Department. However, there is no limitation to a 60 foot wide strip for a utility company or telecommunications carrier when:</section>
+        <section prefix="(iii)">A public utility company or telecommunications carrier may harvest, cut, or otherwise remove or eradicate submerged aquatic vegetation in a strip up to 60 feet wide in order to maintain utility crossings in the waters of the State without the approval of the Department. However, there is no limitation to a 60 foot wide strip for a utility company or telecommunications carrier when:<section prefix="1.">Performing an emergency investigation; or</section><section prefix="2.">Performing repair work.</section></section>
       </section>
       <section prefix="(2)">Before a person harvests, cuts, or otherwise removes or eradicates submerged aquatic vegetation under this subsection, the person is encouraged:<section prefix="(i)">To contact the Department for information on best harvesting methods; and</section><section prefix="(ii)">To use best harvesting methods.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">This paragraph does not apply to:</section>
+        <section prefix="(i)">This paragraph does not apply to:<section prefix="1.">Any person who has a national pollution discharge elimination system permit; or</section><section prefix="2.">Any publicly or privately owned sewage treatment plant.</section></section>
         <section prefix="(ii)">A person may not use any chemical to harvest, cut, or otherwise remove or eradicate submerged aquatic vegetation under this subsection.</section>
       </section>
     </section>

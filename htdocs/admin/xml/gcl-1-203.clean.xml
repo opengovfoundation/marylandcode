@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-1-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">Whether a transaction in the form of a lease creates a lease or security interest is determined by the facts of each case.</section>
     <section prefix="(b)">A transaction in the form of a lease creates a security interest if the consideration that the lessee is to pay the lessor for the right to possession and use of the goods is an obligation for the term of the lease and is not subject to termination by the lessee; and<section prefix="(1)">The original term of the lease is equal to or greater than the remaining economic life of the goods;</section><section prefix="(2)">The lessee is bound to renew the lease for the remaining economic life of the goods or is bound to become the owner of the goods;</section><section prefix="(3)">The lessee has an option to renew the lease for the remaining economic life of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement; or</section><section prefix="(4)">The lessee has an option to become the owner of the goods for no additional consideration or for nominal additional consideration upon compliance with the lease agreement.</section></section>

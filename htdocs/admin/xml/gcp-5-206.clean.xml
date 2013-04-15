@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-206" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-5-206</section_number>
-  <catch_line/>
+  <catch_line>In a criminal case, a judge may reinstate any bail, bond, or recognizance for criminal charges disch...</catch_line>
+  <order_by>206</order_by>
   <text>In a criminal case, a judge may reinstate any bail, bond, or recognizance for criminal charges discharged at a preliminary hearing in the District Court, if a new charging document arises out of the substantially same set of facts.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-103" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-5-103</section_number>
-  <catch_line/>
+  <catch_line>No corporeal estate, leasehold or freehold, or incorporeal interest in land may be assigned, granted...</catch_line>
+  <order_by>103</order_by>
   <text>No corporeal estate, leasehold or freehold, or incorporeal interest in land may be assigned, granted, or surrendered, unless it is in writing signed by the party assigning, granting, or surrendering it, or his agent lawfully authorized by writing, or by act and operation of law.</text>
 </law>

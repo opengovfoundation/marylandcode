@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-1-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The court shall appoint a qualified interpreter to help a defendant in a criminal proceeding throughout any criminal proceeding when the defendant:<section prefix="(i)">is deaf; or</section><section prefix="(ii)">cannot readily understand or communicate the English language and cannot understand a charge made against the defendant or help present the defense.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-503" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-11-503</section_number>
-  <catch_line/>
+  <catch_line>An optometrist practicing in the State may not:...</catch_line>
+  <order_by>503</order_by>
   <text>An optometrist practicing in the State may not:<section prefix=""><section prefix="(1)">Use surgical lasers;</section><section prefix="(2)">Perform any surgery, including cataract surgery or cryosurgery;</section><section prefix="(3)">Perform a radial keratotomy;</section><section prefix="(4)">Give an injection, except that an optometrist may give an injection of epinephrine in the appropriate dose for the treatment of acute anaphylaxis or emergency resuscitation; or</section><section prefix="(5)">Except as provided under this title, dispense a therapeutic pharmaceutical agent to any person.</section></section></text>
 </law>

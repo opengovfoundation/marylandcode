@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-104</section_number>
-  <catch_line/>
+  <catch_line>An individual who violates this subtitle is guilty of a felony and on conviction is subject to impri...</catch_line>
+  <order_by>104</order_by>
   <text>An individual who violates this subtitle is guilty of a felony and on conviction is subject to imprisonment not exceeding 1 year or a fine not exceeding $10,000 or both.</text>
 </law>

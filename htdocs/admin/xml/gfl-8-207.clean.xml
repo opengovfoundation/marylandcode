@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-207" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-8-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">In a proceeding for an annulment or a limited or absolute divorce, the court may determine which property is the family home and family use personal property:<section prefix="(1)">before the court grants an annulment or a limited or absolute divorce; or</section><section prefix="(2)">when the court grants an annulment or a limited or absolute divorce.</section></section>
     <section prefix="(b)">A preliminary or pendente lite determination is subject to modification during the pendency of the proceeding.</section>

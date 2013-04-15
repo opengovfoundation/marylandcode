@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-304" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-11-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Any employee who is subject to a personnel action in violation of &#xA7; 11-303 of this subtitle may institute a civil action in the county where:<section prefix="(1)">the alleged violation occurred;</section><section prefix="(2)">the employee resides; or</section><section prefix="(3)">the employer maintains its principal office in the State.</section></section>
     <section prefix="(b)">The action shall be brought within 1 year after the alleged violation of &#xA7; 11-303 of this subtitle occurred or within 1 year after the employee first became aware of the alleged violation of &#xA7; 11-303 of this subtitle.</section>

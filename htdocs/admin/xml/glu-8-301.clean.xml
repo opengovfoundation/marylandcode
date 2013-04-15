@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-301" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-8-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">A local jurisdiction shall adopt guidelines for rehabilitation and new construction design for designated sites, structures, and districts that are consistent with those generally recognized by the Maryland Historical Trust.</section>
     <section prefix="(b)">The guidelines adopted under this section may include:<section prefix="(1)">design characteristics intended to meet the needs of particular types of sites, structures, and districts; and</section><section prefix="(2)">identification of categories of changes that are so minimal in nature that they do not:<section prefix="(i)">affect historic, archaeological, or architectural significance; and</section><section prefix="(ii)">require review by a commission.</section></section></section>

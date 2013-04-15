@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-306" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-9-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">If, within 90 days after a client starts a job, the client is discharged through no fault of the client or leaves the job voluntarily with just cause, an employment agency may charge the client a temporary placement fee of up to the lesser of:<section prefix="(1)">20% of the total compensation the client received; or</section><section prefix="(2)">75% of the permanent placement fee for the same job.</section></section>
     <section prefix="(b)">If, within 90 days after a client starts a job, the client is discharged for cause or leaves the job voluntarily without just cause, an employment agency may charge the client a temporary placement fee of up to 75% of the permanent placement fee.</section>

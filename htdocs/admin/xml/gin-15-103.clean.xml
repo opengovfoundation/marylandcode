@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-103" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">An insurer or nonprofit health service plan may not issue or deliver in the State an individual health insurance policy, or group health insurance policy covering a group of 1,000 lives or less, unless the policy or certificate is:<section prefix="(1)">written in simplified language; and</section><section prefix="(2)">approved by the Commissioner as complying with the simplified language standards adopted under subsection (c) of this section.</section></section>
     <section prefix="(b)">Subsection (a) of this section applies:<section prefix="(1)">on or after January 2, 1992; or</section><section prefix="(2)">on or after July 2, 1997, if the policy or certificate was approved by the Commissioner on or before January 1, 1992.</section></section>

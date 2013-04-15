@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-201" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-201</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "bond" means a bond, note, or other evidence of indebtedness issued under this tit...</catch_line>
+  <order_by>201</order_by>
   <text>In this subtitle, "bond" means a bond, note, or other evidence of indebtedness issued under this title.</text>
 </law>

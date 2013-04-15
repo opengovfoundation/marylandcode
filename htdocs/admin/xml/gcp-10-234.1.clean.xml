@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-234.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-234.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>234.1</order_by>
   <text>
     <section prefix="(a)">In this section, "Central Repository" means the Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</section>
     <section prefix="(b)">The Chief Administrative Officer of Prince George's County may request with reference to a prospective employee of Prince George's County a State and national criminal history records check from the Central Repository.</section>

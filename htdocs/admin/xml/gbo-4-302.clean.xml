@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-302" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-4-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">To qualify for a license to practice barbering, an applicant shall be an individual who meets the requirements of this section.</section>
     <section prefix="(b)">
       <section prefix="(1)">An applicant for a barber license shall have completed successfully:<section prefix="(i)">a required program of at least 1,200 hours of training in a barber school that is approved by the State Department of Education or the Maryland Higher Education Commission, in consultation with the Board; or</section><section prefix="(ii)">an apprenticeship of at least 2,250 hours within 2 years in a barbershop that holds a barbershop permit under the supervision of a master barber.</section></section>
       <section prefix="(2)">If the applicant for a barber license is an individual trained and currently licensed as a cosmetologist in the State, the Board shall:<section prefix="(i)">credit the applicant with having met one-half of the training requirement of paragraph (1) of this subsection; and</section><section prefix="(ii)">determine the manner in which the credit will be applied.</section></section>
-      <section prefix="(3)">The Board may credit an applicant with the number of hours of training the applicant completes in a barber school toward the number of hours required for an apprenticeship if the barber school where the applicant completes the training:<section prefix="(i)">is located in a detention center or correctional facility; and</section><section prefix="(ii)"/></section>
+      <section prefix="(3)">The Board may credit an applicant with the number of hours of training the applicant completes in a barber school toward the number of hours required for an apprenticeship if the barber school where the applicant completes the training:<section prefix="(i)">is located in a detention center or correctional facility; and</section><section prefix="(ii)"><section prefix="1.">is approved by the State Department of Education or the Maryland Higher Education Commission; or</section><section prefix="2.">has a curriculum similar to one that is approved by the State Department of Education or the Maryland Higher Education Commission.</section></section></section>
       <section prefix="(4)">The Board may not credit more than 600 hours of training to an individual under paragraph (3) of this subsection.</section>
     </section>
     <section prefix="(c)">An applicant for a master barber license shall have at least 15 months of experience as a barber.</section>

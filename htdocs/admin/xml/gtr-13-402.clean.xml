@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-402" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in this section or elsewhere in the Maryland Vehicle Law, each motor vehicle, trailer, semitrailer, and pole trailer driven on a highway shall be registered under this subtitle.</section>

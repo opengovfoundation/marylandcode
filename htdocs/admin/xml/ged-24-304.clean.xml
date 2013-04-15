@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-304" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-24-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">In addition to the other powers expressly granted and duties imposed by this title, and subject to the authority of the Commission, the Board has only the powers and duties set forth in this section.</section>
     <section prefix="(b)">The Board shall:<section prefix="(1)">Exercise general control over the Center;</section><section prefix="(2)">Keep separate records and minutes; and</section><section prefix="(3)">Adopt reasonable rules, regulations, or bylaws to carry out the provisions of this subtitle.</section></section>

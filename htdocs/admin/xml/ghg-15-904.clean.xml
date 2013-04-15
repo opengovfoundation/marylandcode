@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-904" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">The Department and the departments of Human Resources and Aging shall designate appropriate representatives to participate in collective bargaining with the provider organization certified as the exclusive representative of independent home care providers.</section>
     <section prefix="(b)">Except as otherwise provided in this subtitle, the parties shall adhere to the bargaining process set forth in &#xA7; 3-501 of the State Personnel and Pensions Article.</section>
@@ -15,7 +15,7 @@
       <section prefix="(1)">
         <section prefix="(i)">Subject to subparagraphs (ii) and (iii) of this paragraph, collective bargaining may include negotiations relating to the right of a provider organization that is the exclusive representative to receive service fees from nonmembers.</section>
         <section prefix="(ii)">The representatives of the State may not reach an agreement containing a service fee provision unless the representatives of the State conclude that the agreement as a whole will not adversely impact nonmember providers.</section>
-        <section prefix="(iii)">The representatives of the State may only agree to a service fee provision if the service fee provision would require nonmembers to pay service fees on a sliding scale in approximate proportion to the amount each nonmember receives in reimbursement through:</section>
+        <section prefix="(iii)">The representatives of the State may only agree to a service fee provision if the service fee provision would require nonmembers to pay service fees on a sliding scale in approximate proportion to the amount each nonmember receives in reimbursement through:<section prefix="1.">The Medicaid Waiver for Older Adults that is jointly administered by the Department and the Department of Aging as established under &#xA7; 15-132 of this title, or any successor program;</section><section prefix="2.">The Medicaid Personal Care Program under the State Medical Assistance Program, or any successor program;</section><section prefix="3.">The Living at Home Waiver Program under Subtitle 8 of this title, or any successor program; and</section><section prefix="4.">The In-Home Aide Service Program administered by the Department of Human Resources, or any successor program.</section></section>
       </section>
       <section prefix="(2)">An independent home care provider whose religious beliefs are opposed to joining or financially supporting any collective bargaining organization:<section prefix="(i)">Is not required to pay a service fee; but</section><section prefix="(ii)">Shall pay an amount of money as determined in collective bargaining negotiations, not to exceed any service fee negotiated under paragraph (1) of this subsection, to any charitable organization exempt from taxation under &#xA7; 501(c)(3) of the Internal Revenue Code and to furnish to the State agencies engaged in collective bargaining under this subtitle and the exclusive representative written proof of the payment.</section></section>
       <section prefix="(3)">

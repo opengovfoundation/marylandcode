@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1011" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-1011</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1011</order_by>
   <text>
     <section prefix="(a)">An individual with developmental disability or person who is authorized to act on behalf of the individual may:<section prefix="(1)">Contest a record that the licensee keeps on the individual;</section><section prefix="(2)">Ask for an addition to or other change in the record; and</section><section prefix="(3)">Contest disclosure of the record.</section></section>
     <section prefix="(b)">Within 14 days after a licensee receives a request to change a record, the licensee shall acknowledge receipt of the request.</section>

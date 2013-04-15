@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-704" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-4-704</section_number>
-  <catch_line/>
+  <catch_line>Except for the Department of Transportation and the Maryland Transportation Authority in connection ...</catch_line>
+  <order_by>704</order_by>
   <text>Except for the Department of Transportation and the Maryland Transportation Authority in connection with the construction of roads, bridges, or highways, each State agency shall refer to the Board any major architectural problem or plan concerning the construction, reconstruction, or repair of a State building.</text>
 </law>

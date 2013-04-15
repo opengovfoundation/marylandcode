@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-408.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-408.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The requirements under any federal law and &#xA7;&#xA7; 10-611 through 10-628 of the State Government Article regarding the privacy or confidentiality of information or material provided to the nationwide licensing system, and any privilege arising under federal or state law, including the rules of any federal or state court with respect to that information or material, shall continue to apply to that information or material after the information or material has been disclosed to the nationwide licensing system.</section>

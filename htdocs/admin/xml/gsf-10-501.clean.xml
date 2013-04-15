@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-501" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-10-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to subsection (b) of this section, the Board of Public Works may grant to an individual erroneously convicted, sentenced, and confined under State law for a crime the individual did not commit an amount commensurate with the actual damages sustained by the individual, and may grant a reasonable amount for any financial or other appropriate counseling for the individual, due to the confinement.</section>

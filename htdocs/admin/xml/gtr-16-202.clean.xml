@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-202" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The privilege given to a nonresident to drive a motor vehicle on highways in this State may be suspended or revoked by the Administration in the same way and for the same reasons that a driver's license issued under this title may be refused, suspended, or revoked.</section>
     <section prefix="(b)">If the Administration receives a record of the conviction in this State of a nonresident driver of any offense under the motor vehicle laws of this State, the Administration may send a certified copy of the record to the motor vehicle administrator in the state in which the convicted person resides or is licensed to drive.</section>

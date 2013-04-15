@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-7-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Within 60 days after an applicant submits an application for a license and pays the application fee, the Board shall approve or deny the application.</section>
     <section prefix="(b)">To qualify for a license, an applicant shall satisfy the Board that the applicant is of good moral character and has sufficient financial responsibility, business experience, and general fitness to:<section prefix="(1)">engage in business as a collection agency;</section><section prefix="(2)">warrant the belief that the business will be conducted lawfully, honestly, fairly, and efficiently; and</section><section prefix="(3)">command the confidence of the public.</section></section>

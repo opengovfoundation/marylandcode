@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-648" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-648</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>648</order_by>
   <text>
     <section prefix="(a)">The Authority is exempt from any requirement to pay taxes or assessments of any kind.</section>
     <section prefix="(b)">The principal of and interest on bonds, and any income derived from the bonds, including profits made in their sale or transfer, are forever exempt from all State and local taxes.</section>

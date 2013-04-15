@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-206.4" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-23-206.4</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206.4</order_by>
   <text>
     <section prefix="(a)">In this section, "zero-emission vehicle" means any vehicle that:<section prefix="(1)">Is determined by the Secretary to be of a type that does not produce any tailpipe or evaporative emissions; and</section><section prefix="(2)">Has not been altered from the manufacturer's original specifications.</section></section>
     <section prefix="(b)">A zero-emission vehicle is exempt from the mandatory tests and inspections required by this subtitle.</section>

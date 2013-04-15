@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-112" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-112</section_number>
-  <catch_line/>
+  <catch_line>After consultation with the State Board of Pharmacy, the Secretary may authorize reimbursement of a ...</catch_line>
+  <order_by>112</order_by>
   <text>After consultation with the State Board of Pharmacy, the Secretary may authorize reimbursement of a physician for the dispensing of drugs to Program recipients, on the same basis as a licensed pharmacist if:<section prefix=""><section prefix="(1)">The physician dispenses drugs on a regular basis in the physician's office; and</section><section prefix="(2)">There is no pharmacy within 10 miles of that office.</section></section></text>
 </law>

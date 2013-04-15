@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2304" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2304</section_number>
-  <catch_line/>
+  <catch_line>A violation of any provision of this subtitle is an unfair or deceptive practice within the meaning ...</catch_line>
+  <order_by>2304</order_by>
   <text>A violation of any provision of this subtitle is an unfair or deceptive practice within the meaning of Title 13 of this article and is subject to the enforcement and penalty provisions contained in Title 13.</text>
 </law>

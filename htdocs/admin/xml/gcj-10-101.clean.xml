@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">"Business" includes business, profession, and occupation of every kind.</section>
     <section prefix="(b)">A writing or record made in the regular course of business as a memorandum or record of an act, transaction, occurrence, or event is admissible to prove the act, transaction, occurrence, or event.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-505" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">In a closed end account, the finance charge may not exceed the greater of:<section prefix="(1)">An amount computed using the following annual simple interest rates of finance charge:<section prefix="(i)">22 percent on that part of the outstanding balance not exceeding $1,000; and</section><section prefix="(ii)">18 percent on that part of the outstanding balance exceeding $1,000; or</section></section><section prefix="(2)">A minimum charge of $10 or, if the due date of the last installment is eight months or less after the effective date of the retail credit account agreement, $8.</section><section prefix="(3)">Notwithstanding the provisions of paragraph (1) of this subsection, in a closed end account made on or after July 1, 1982, the finance charge may not exceed 24 percent per annum simple interest.</section></section>
     <section prefix="(b)">

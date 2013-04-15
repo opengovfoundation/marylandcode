@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-114" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">A committed person may be released under the provisions of this section and &#xA7;&#xA7; 3-115 through 3-122 of this title.</section>
     <section prefix="(b)">A committed person is eligible for discharge from commitment only if that person would not be a danger, as a result of mental disorder or mental retardation, to self or to the person or property of others if discharged.</section>

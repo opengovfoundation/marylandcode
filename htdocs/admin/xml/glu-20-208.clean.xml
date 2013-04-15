@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-208" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-20-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">Notwithstanding other provisions of this division, money may be included in the Commission's annual budget and appropriated by the respective county council to provide an annual salary for each county planning board member, other than a full-time member, as compensation for the member's services.</section>
     <section prefix="(b)">After notice and public hearing, the Montgomery County Council and the Prince George's County Council may each establish the salary for a county planning board member from that county, other than a full-time member, by local law separate from budget action.</section>

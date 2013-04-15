@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-318" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-9-318</section_number>
-  <catch_line/>
+  <catch_line>A person shall be licensed by the Comptroller before the person may engage, in the State, in the bus...</catch_line>
+  <order_by>318</order_by>
   <text>A person shall be licensed by the Comptroller before the person may engage, in the State, in the business of:<section prefix=""><section prefix="(1)">a dealer;</section><section prefix="(2)">a distributor;</section><section prefix="(3)">a special fuel seller;</section><section prefix="(4)">a special fuel user; or</section><section prefix="(5)">a turbine fuel seller.</section></section></text>
 </law>

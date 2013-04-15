@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-309" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-309</section_number>
-  <catch_line/>
+  <catch_line>Each registrant and permit holder shall display the registration or permit conspicuously at the busi...</catch_line>
+  <order_by>309</order_by>
   <text>Each registrant and permit holder shall display the registration or permit conspicuously at the business address of the registrant or permit holder.</text>
 </law>

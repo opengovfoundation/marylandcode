@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-10D-02" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-10D-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each carrier shall establish an internal appeal process for use by its members, its members' representatives, and health care providers to dispute coverage decisions made by the carrier.</section>
@@ -16,11 +16,11 @@
     <section prefix="(d)">A member, a member's representative, or a health care provider filing a complaint on behalf of a member may file a complaint with the Commissioner without first filing an appeal with a carrier only if the coverage decision involves an urgent medical condition, as defined by regulation adopted by the Commissioner, for which care has not been rendered.</section>
     <section prefix="(e)">
       <section prefix="(1)">Within 30 calendar days after a coverage decision has been made, a carrier shall send a written notice of the coverage decision to the member and the member's representative, if any, and, in the case of a health maintenance organization, the treating health care provider.</section>
-      <section prefix="(2)">Notice of the coverage decision required to be sent under paragraph (1) of this subsection shall:<section prefix="(i)">state in detail in clear, understandable language, the specific factual bases for the carrier's decision; and</section><section prefix="(ii)">include the following information:</section></section>
+      <section prefix="(2)">Notice of the coverage decision required to be sent under paragraph (1) of this subsection shall:<section prefix="(i)">state in detail in clear, understandable language, the specific factual bases for the carrier's decision; and</section><section prefix="(ii)">include the following information:<section prefix="1.">that the member, the member's representative, or a health care provider acting on behalf of the member has a right to file an appeal with the carrier;</section><section prefix="2.">that the member, the member's representative, or a health care provider acting on behalf of the member may file a complaint with the Commissioner without first filing an appeal, if the coverage decision involves an urgent medical condition for which care has not been rendered;</section><section prefix="3.">the Commissioner's address, telephone number, and facsimile number;</section><section prefix="4.">that the Health Advocacy Unit is available to assist the member or the member's representative in both mediating and filing an appeal under the carrier's internal appeal process; and</section><section prefix="5.">the address, telephone number, facsimile number, and electronic mail address of the Health Advocacy Unit.</section></section></section>
     </section>
     <section prefix="(f)">
       <section prefix="(1)">Within 30 calendar days after the appeal decision has been made, each carrier shall send to the member, the member's representative, and the health care provider acting on behalf of the member a written notice of the appeal decision.</section>
-      <section prefix="(2)">Notice of the appeal decision required to be sent under paragraph (1) of this subsection shall:<section prefix="(i)">state in detail in clear, understandable language the specific factual bases for the carrier's decision; and</section><section prefix="(ii)">include the following information:</section></section>
+      <section prefix="(2)">Notice of the appeal decision required to be sent under paragraph (1) of this subsection shall:<section prefix="(i)">state in detail in clear, understandable language the specific factual bases for the carrier's decision; and</section><section prefix="(ii)">include the following information:<section prefix="1.">that the member, the member's representative, or a health care provider acting on behalf of the member has a right to file a complaint with the Commissioner within 4 months after receipt of a carrier's appeal decision;</section><section prefix="2.">the Commissioner's address, telephone number, and facsimile number;</section><section prefix="3.">a statement that the Health Advocacy Unit is available to assist the member in filing a complaint with the Commissioner; and</section><section prefix="4.">the address, telephone number, facsimile number, and electronic mail address of the Health Advocacy Unit.</section></section></section>
     </section>
     <section prefix="(g)">The Commissioner may request the member that filed the complaint or a legally authorized designee of the member to sign a consent form authorizing the release of the member's medical records to the Commissioner or the Commissioner's designee that are needed in order for the Commissioner to make a final decision on the complaint.</section>
     <section prefix="(h)">

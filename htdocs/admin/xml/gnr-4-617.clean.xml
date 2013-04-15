@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-617" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-617</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>617</order_by>
   <text>
     <section prefix="(a)">Except when fishing through ice, a person may not angle with more than three rods and lines with two hooks to each line. Artificial lures or plugs with multiple or gang hooks are considered one unit.</section>
     <section prefix="(b)">A slat basket, commonly known as the Chesapeake Bay eel pot, may not be used to catch eels.</section>

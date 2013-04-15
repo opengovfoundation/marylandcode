@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-502" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">A surety insurer may not cancel or refuse to issue or renew a surety bond for a reason based wholly or partly on race, color, creed, sex, or physical handicap or disability of an applicant or principal or for any other arbitrary, capricious, or unfairly discriminatory reason.</section>
     <section prefix="(b)">A surety insurer may not require special conditions, facts, or situations as a condition to its acceptance or renewal of a particular surety risk in an arbitrary, capricious, unfair, or discriminatory manner based wholly or partly on race, creed, color, sex, religion, national origin, place of residence, or physical handicap or disability.</section>

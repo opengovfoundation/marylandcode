@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-802" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An authorized insurer, its employees, fund producers, insurance producers, a viatical settlement provider, or a viatical settlement broker who in good faith has cause to believe that insurance fraud has been or is being committed shall report the suspected insurance fraud in writing to the Commissioner, the Fraud Division, or the appropriate federal, State, or local law enforcement authorities.</section>

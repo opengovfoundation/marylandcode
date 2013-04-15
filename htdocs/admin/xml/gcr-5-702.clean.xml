@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-702" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection applies to a person engaged in the business of selling prescription drugs, controlled dangerous substances, medicines, chemicals, or preparations for medical use or of compounding or dispensing these in accordance with physicians' prescriptions.</section>

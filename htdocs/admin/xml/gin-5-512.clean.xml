@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-512" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">A life insurer may allocate to one or more separate investment accounts in accordance with a written agreement any amounts paid to the life insurer that are to be invested by the life insurer in accordance with the agreement and applied to the purchase of guaranteed income benefits under the life insurer's individual or group policies or annuity contracts or to provide other guaranteed benefits incidental to those policies or annuity contracts.</section>
     <section prefix="(b)">Any income and gains and losses, realized or unrealized, on each separate investment account shall be credited to or charged against the amounts allocated to the account in accordance with the agreement without regard to other income, gains, or losses of the life insurer.</section>

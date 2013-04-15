@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-306" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-10-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">In this section, "capital asset" means an asset of a substantial permanent nature.</section>
     <section prefix="(b)">If the consideration received for the disposition of any real or personal property of the State or any unit of the State government is other real or personal property, the real or personal property received shall be held and accounted for in the same manner as other property under the jurisdiction and control of the unit of the State government that receives the real or personal property.</section>

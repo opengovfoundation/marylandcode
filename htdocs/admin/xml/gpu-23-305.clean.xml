@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-305" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Before final action on a Program is taken, public hearings shall be held on the Program.</section>
     <section prefix="(b)">The public hearings may be conducted in conjunction with public hearings on the 6-year programs or capital budgets of Montgomery County, Prince George's County, or other agencies.</section>

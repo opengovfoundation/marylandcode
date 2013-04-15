@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-305" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Chairman of the Commission may employ a staff for the Commission in accordance with the State budget.</section>
       <section prefix="(2)">Except as otherwise provided by law, the staff is in the State Personnel Management System.</section>
     </section>
-    <section prefix="(b)">The Secretary of the Commission shall:<section prefix="(1)">perform each duty that the Chairman of the Commission assigns; and</section><section prefix="(2)">keep, at the principal office of the Commission, a public record of:<section prefix="(i)">each proceeding of the Commission, including:</section><section prefix="(ii)">each document required to be submitted by the Commission or by a regulation of the Commission;</section><section prefix="(iii)">each decision of the Commission; and</section><section prefix="(iv)">each order passed by the Commission.</section></section></section>
+    <section prefix="(b)">The Secretary of the Commission shall:<section prefix="(1)">perform each duty that the Chairman of the Commission assigns; and</section><section prefix="(2)">keep, at the principal office of the Commission, a public record of:<section prefix="(i)">each proceeding of the Commission, including:<section prefix="1.">each claim that the Commission considers; and</section><section prefix="2.">each award that the Commission allows to an employee or any person for a service;</section></section><section prefix="(ii)">each document required to be submitted by the Commission or by a regulation of the Commission;</section><section prefix="(iii)">each decision of the Commission; and</section><section prefix="(iv)">each order passed by the Commission.</section></section></section>
     <section prefix="(c)">The Chairman may designate another employee of the Commission to exercise the powers and carry out the duties of the Secretary whenever the Secretary is absent.</section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-512.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-4-512.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512.1</order_by>
   <text>
     <section prefix="(a)">In this section, "Central Repository" means the Domestic Violence Central Repository.</section>
     <section prefix="(b)">The Administrative Office of the Courts shall maintain a Domestic Violence Central Repository.</section>

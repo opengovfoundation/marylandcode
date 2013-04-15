@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-216" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-216</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>216</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in this section, the inheritance tax on property that passes from a decedent shall be paid, before it is distributed, by the person who distributes the property.</section>

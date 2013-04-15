@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-112" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-11-112</section_number>
-  <catch_line/>
+  <catch_line>When granting a limited divorce, an absolute divorce, or an annulment, if the court finds from the t...</catch_line>
+  <order_by>112</order_by>
   <text>When granting a limited divorce, an absolute divorce, or an annulment, if the court finds from the testimony of 2 or more physicians competent in psychiatry that 1 of the parties is permanently and incurably insane with no hope of recovery, then, notwithstanding any agreement between the parties, the court may require a party to:<section prefix=""><section prefix="(1)">pay alimony or support for the benefit of the insane party;</section><section prefix="(2)">pay a lump sum, based on the life expectancy of the insane party and the financial condition of the other party, together with the insane party's reasonable funeral expenses; or</section><section prefix="(3)">give bond to this State conditioned on the payment for:<section prefix="(i)">the care and support of the insane party for the rest of the insane party's life; and</section><section prefix="(ii)">the insane party's reasonable funeral expenses.</section></section></section></text>
 </law>

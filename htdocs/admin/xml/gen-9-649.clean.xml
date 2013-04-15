@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-649" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-649</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>649</order_by>
   <text>
     <section prefix="(a)">This section does not authorize the creation of a service area that includes territory in another service area.</section>
     <section prefix="(b)">If the required number of property owners sign a petition that requests the creation of a service area in a district, the sanitary commission shall review the petition.</section>

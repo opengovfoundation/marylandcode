@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-105" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Any fiduciary, or party of whom a bond, undertaking or other obligation is required, may agree or arrange with his surety for a general or a special deposit for safekeeping of any money, assets and other property, for which he is or may be responsible, with a bank, savings bank, safe deposit or trust company authorized by law to do business and situate in the county in which his bond is filed.</section>
     <section prefix="(b)">The deposit shall be made in a manner as to prevent the withdrawal or alienation of money, assets, or other property, or any part of it, without the written consent of the surety, or an order of a court, made on notice to the surety as the court directs.</section>

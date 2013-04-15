@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5.5-120" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5.5-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">If the Commissioner or an authorized representative of the Commissioner concludes that a condition or practice in the operation of any railroad creates an imminent danger that reasonably could be expected to cause death or serious physical harm to an individual or serious physical damage to property, the authorized representative:<section prefix="(1)">shall give notice of the danger to the railroad company and each employee whom the danger affects; and</section><section prefix="(2)">may recommend that the Commissioner seek to enjoin the condition or practice.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">On a complaint filed by the Commissioner, a circuit court:<section prefix="(i)">may enjoin a condition or practice at a railroad company if the condition or practice creates an imminent danger that reasonably could be expected to cause death or serious physical harm to an individual or serious physical damage to property; and</section><section prefix="(ii)">may grant an injunction or temporary restraining order, pending the outcome of enforcement procedures under this title.</section></section>
       <section prefix="(2)">A temporary restraining order that is passed without notice may not be in effect for more than 7 days.</section>
-      <section prefix="(3)">An injunction under this subsection may require each act needed to:<section prefix="(i)">avoid, correct, or remove the imminent danger; or</section><section prefix="(ii)">prohibit the employment or presence of any individual in a location or under a condition where the imminent danger exists other than an individual who needs to be present to:</section></section>
+      <section prefix="(3)">An injunction under this subsection may require each act needed to:<section prefix="(i)">avoid, correct, or remove the imminent danger; or</section><section prefix="(ii)">prohibit the employment or presence of any individual in a location or under a condition where the imminent danger exists other than an individual who needs to be present to:<section prefix="1.">remove the imminent danger; or</section><section prefix="2.">where operations must be stopped, stop an operation in an orderly and safe manner.</section></section></section>
     </section>
   </text>
 </law>

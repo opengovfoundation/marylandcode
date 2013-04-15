@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-326" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-326</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>326</order_by>
   <text>
     <section prefix="(a)">A surplus lines broker may not:<section prefix="(1)">knowingly or negligently deliver a false binder or cover note; or</section><section prefix="(2)">fail to notify the insured promptly of any material change with respect to surplus lines insurance by delivery to the insured of a substitute binder or cover note as provided in &#xA7; 3-321 of this subtitle.</section></section>
     <section prefix="(b)">A violation of subsection (a) of this section is a violation of this article.</section>

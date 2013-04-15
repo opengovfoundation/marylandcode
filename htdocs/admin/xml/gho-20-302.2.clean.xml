@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-302.2" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-20-302.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302.2</order_by>
   <text>
     <section prefix="(a)">The Board shall adopt regulations for approved training programs for residential child and youth care practitioners.</section>
     <section prefix="(b)">Successful completion of an approved training program shall prepare an individual for certification as a residential child and youth care practitioner.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-17-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Funds held or owing under any life or endowment insurance policy or annuity contract that has matured or terminated are presumed abandoned if unclaimed for more than 3 years after the funds become due and payable as established from the records of the insurance company holding or owing the funds.</section>
     <section prefix="(b)">If a person other than the insured or annuitant is entitled to the funds and an address of the person is not known to the company or it is not definite and certain from the records of the company who is entitled to the funds, it is presumed that the last known address of the person entitled to the funds is the same as the last known address of the insured or annuitant according to the records of the company.</section>

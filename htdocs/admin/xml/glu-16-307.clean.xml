@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-307" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-16-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">The Commission and the exclusive representative of the bargaining unit shall engage in collective bargaining.</section>
     <section prefix="(b)">Subsection (a) of this section does not require the Commission or the exclusive representative to agree to any proposal or to make any concession.</section>

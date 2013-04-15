@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-222" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-222</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>222</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in the Maryland Vehicle Law, the headlamps or the auxiliary driving lamp or combination thereof on motor vehicles, other than motorcycles, shall be so arranged that the driver may select at will between distributions of light projected to different elevations, and the lamps, in addition, may be so arranged that the selection can be made automatically, subject to the following limitations:<section prefix="(1)">There shall be an uppermost distribution of light, or composite beam, so aimed and of intensity to reveal persons and vehicles at a distance of at least 450 feet ahead for all conditions of loading;</section><section prefix="(2)">There shall be a lowermost distribution of light, or composite beam, so aimed and of sufficient intensity to reveal persons and vehicles at a distance of at least 150 feet ahead; and</section><section prefix="(3)">On a straight level road under any condition of loading, none of the high-intensity portion of the beam may be directed to strike the eyes of an approaching driver.</section></section>
     <section prefix="(b)">Every new motor vehicle, other than a motorcycle, registered in this State after January 1, 1955, which has multiple-beam road-lighting equipment shall be equipped with a beam indicator, which shall be lighted whenever the uppermost distribution of light from the headlamps is in use, and may not otherwise be lighted.</section>

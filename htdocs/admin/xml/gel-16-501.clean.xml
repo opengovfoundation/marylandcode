@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-501" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-16-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">A person may not willfully and falsely take an oath or affirmation prescribed:<section prefix="(1)">by the State Board; or</section><section prefix="(2)">pursuant to this article.</section></section>
     <section prefix="(b)">A person may not willfully induce or procure, or offer to induce or procure, another person to willfully and falsely take an oath or affirmation prescribed:<section prefix="(1)">by the State Board; or</section><section prefix="(2)">pursuant to this article.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-401" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, if a tax collector examines or audits a return and determines that the tax due exceeds the amount shown on the return, the tax collector shall assess the deficiency.</section>
     <section prefix="(b)">A tax collector shall allow a credit against any sales and use tax deficiency that would otherwise be assessed for any amount of sales and use tax that the tax collector determines the person who filed the return overpaid on or before the date the deficiency was due.</section>

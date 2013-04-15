@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-502.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-502.1</section_number>
-  <catch_line/>
+  <catch_line>There is a State Open Meetings Law Compliance Board....</catch_line>
+  <order_by>502.1</order_by>
   <text>There is a State Open Meetings Law Compliance Board.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-401" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-401</section_number>
-  <catch_line/>
+  <catch_line>A savings and loan association may classify its savings accounts according to the character, amount,...</catch_line>
+  <order_by>401</order_by>
   <text>A savings and loan association may classify its savings accounts according to the character, amount, duration, or regularity of additions to the accounts.</text>
 </law>

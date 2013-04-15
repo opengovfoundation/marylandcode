@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-116" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-2-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">As it considers desirable, the Commission may conduct proceedings on proposed amendments to any law that, in the judgment of the Commission, would affect the public interest in any aspect of the business of a public service company.</section>

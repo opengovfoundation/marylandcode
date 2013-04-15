@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-202" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-18-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The Commission shall recognize the right of an employee organization, certified under this subtitle as the exclusive representative of a bargaining unit, to represent the employees of the bargaining unit in collective bargaining and in the settlement of grievances.</section>
     <section prefix="(b)">An employee organization certified as the exclusive representative of a bargaining unit shall:<section prefix="(1)">serve as the sole bargaining agent for the unit in collective bargaining; and</section><section prefix="(2)">represent all employees in the bargaining unit fairly, without discrimination, and without regard to whether an employee is a member of the employee organization.</section></section>

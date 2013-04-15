@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-119" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-119</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>119</order_by>
   <text>
     <section prefix="(a)">In this section, "equity security" means:<section prefix="(1)">stock or a similar security;</section><section prefix="(2)">a security convertible, with or without consideration, into stock or a similar security;</section><section prefix="(3)">a security carrying a warrant or right to subscribe to or purchase stock or a similar security;</section><section prefix="(4)">any other warrant or right to subscribe to or purchase stock or a similar security; or</section><section prefix="(5)">any other security that the Commissioner considers to be of a similar nature and necessary or appropriate to treat as an equity security, based on regulations adopted by the Commissioner in the public interest or to protect investors.</section></section>
     <section prefix="(b)">
@@ -27,7 +27,7 @@
         <section prefix="(ii)">An equity security acquired in good faith in connection with a debt contracted prior to the 6-month period is not subject to subparagraph (i) of this paragraph.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">A suit to recover any profit obtained in violation of this subsection may be brought in a court of competent jurisdiction by:</section>
+        <section prefix="(i)">A suit to recover any profit obtained in violation of this subsection may be brought in a court of competent jurisdiction by:<section prefix="1.">the domestic stock insurer; or</section><section prefix="2.">the owner of any security of the domestic stock insurer in the name and on behalf of the domestic stock insurer, if the domestic stock insurer fails or refuses to bring the suit within 60 days after a request to do so or fails to prosecute the suit diligently.</section></section>
         <section prefix="(ii)">A suit under this subsection may not be brought more than 2 years after the date the profit was realized.</section>
       </section>
       <section prefix="(4)">This subsection may not be construed to apply to:<section prefix="(i)">a transaction in which the beneficial owner was not a beneficial owner both at the time of the purchase and sale, or the sale and purchase, of the security involved; or</section><section prefix="(ii)">a transaction that the Commissioner exempts by regulation as not within the purpose of this subsection.</section></section>

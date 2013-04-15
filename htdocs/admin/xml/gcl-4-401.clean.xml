@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">A bank may charge against the account of a customer an item that is properly payable from that account even though the charge creates an overdraft. Any item is properly payable if it is authorized by the customer and is in accordance with any agreement between the customer and bank.</section>
     <section prefix="(b)">A customer is not liable for the amount of an overdraft if the customer neither signed the item nor benefited from the proceeds of the item.</section>

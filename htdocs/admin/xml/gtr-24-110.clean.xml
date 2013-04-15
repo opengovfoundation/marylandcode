@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-110" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-24-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Before registering any bus, truck, truck tractor, trailer, or semitrailer, the Administration may require any information and make any investigations or tests necessary to determine whether the vehicle may be operated safely on the highways in compliance with this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1706" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1706</order_by>
   <text>
     <section prefix="(a)">If a written complaint for violation of any provision of this subtitle or any other law of this State regulating loans or other extensions of credit is filed with the Commissioner of Financial Regulation, the Commissioner may investigate the complaint and hold a hearing on it in accordance with &#xA7; 11-413 of the Financial Institutions Article.</section>
     <section prefix="(b)">

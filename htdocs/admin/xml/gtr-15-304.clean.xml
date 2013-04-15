@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-304" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person may not be licensed under this subtitle unless:<section prefix="(1)">The business to be conducted under the license is the only or principal business conducted from the fixed location specified in the application;</section><section prefix="(2)">That business is conducted from a building that is adequate and appropriate for the sale of the vehicles that may be sold under the license; and</section><section prefix="(3)">That business either:<section prefix="(i)">Maintains and operates an automotive repair facility equipped for reasonably adequate and proper servicing of the vehicles to be sold by it; or</section><section prefix="(ii)">Has an existing contract, approved by the Administration, that requires the contractor to service, at a reasonably convenient location, the vehicles to be sold by the business.</section></section></section>
     <section prefix="(b)">

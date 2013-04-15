@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-305" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">This section applies only to a petition that will affect the right of a candidate to have the candidate's name appear on the ballot in a primary or general election.</section>
     <section prefix="(b)">A registered voter who is a resident of the district or other geographic area in which a candidate is seeking office may file a petition with the circuit court for that district or geographic area to challenge the candidate's residency as provided in &#xA7; 5-202 of this title.</section>

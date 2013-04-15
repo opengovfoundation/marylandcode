@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-102" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-102</section_number>
-  <catch_line/>
+  <catch_line>An equity court may:...</catch_line>
+  <order_by>102</order_by>
   <text>An equity court may:<section prefix="(1)">consider a petition for reasonable visitation of a grandchild by a grandparent; and</section><section prefix="(2)">if the court finds it to be in the best interests of the child, grant visitation rights to the grandparent.</section></text>
 </law>

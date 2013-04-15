@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-312" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in &#xA7; 10-226 of the State Government Article, before the Director takes a final action under this subtitle, the Director shall provide the person against whom the action is contemplated notice of the Director's proposed action and the opportunity to request a hearing before the Director.</section>

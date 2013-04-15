@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-17-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Permit" means a permit issued by the Secretary:<section prefix="(1)">To operate a tissue bank in this State; or</section><section prefix="(2)">To represent or service in this State a tissue bank that is outside this State.</section></section>

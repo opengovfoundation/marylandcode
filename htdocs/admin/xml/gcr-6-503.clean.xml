@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -15,12 +15,12 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">"Railroad" means a form of ground transportation that runs on rails or electromagnetic guide ways.</section>
-        <section prefix="(ii)">"Railroad" includes:</section>
-        <section prefix="(iii)">"Railroad" does not include:</section>
+        <section prefix="(ii)">"Railroad" includes:<section prefix="1.">a commuter or other short-haul railroad passenger service in a metropolitan or suburban area; and</section><section prefix="2.">a high-speed ground transportation system that connects metropolitan areas.</section></section>
+        <section prefix="(iii)">"Railroad" does not include:<section prefix="1.">highway ground transportation; or</section><section prefix="2.">a rapid transit operation in a metropolitan area that does not connect to the general railroad transportation system.</section></section>
       </section>
       <section prefix="(4)">"Railroad carrier" means a person who provides railroad transportation.</section>
       <section prefix="(5)">"Railroad property" means the material, equipment, and property used on or in connection with a railroad, right-of-way, or yard.</section>
-      <section prefix="(6)">"Right-of-way" means the track or roadbed that is:<section prefix="(i)">owned, leased, or operated by a railroad carrier;</section><section prefix="(ii)">located on either side of the tracks of the railroad carrier; and</section><section prefix="(iii)"/></section>
+      <section prefix="(6)">"Right-of-way" means the track or roadbed that is:<section prefix="(i)">owned, leased, or operated by a railroad carrier;</section><section prefix="(ii)">located on either side of the tracks of the railroad carrier; and</section><section prefix="(iii)"><section prefix="1.">readily recognizable to a reasonable person as railroad property; or</section><section prefix="2.">reasonably identified as railroad property by fencing or appropriate signs.</section></section></section>
       <section prefix="(7)">"Yard" means a system of parallel tracks, crossovers, and switches where railroad vehicles are switched or connected, and where railroad vehicles and other rolling stock are kept when not in use or when awaiting repair.</section>
     </section>
     <section prefix="(b)">This section does not apply to:<section prefix="(1)">a passenger on a railroad vehicle;</section><section prefix="(2)">an individual who enters railroad property in an emergency to:<section prefix="(i)">rescue from harm another individual or an animal, including livestock, a pet, or wildlife; or</section><section prefix="(ii)">remove an object that the individual reasonably believes to pose an imminent threat to life or limb;</section></section><section prefix="(3)">an individual on the station grounds or in the depot of a railroad carrier as a passenger or to transact lawful business;</section><section prefix="(4)">a person, a family member or invitee of a person, or an employee or independent contractor of a person who enters a railroad right-of-way to obtain access to land that the person owns, leases, or operates at a private crossing approved by the railroad carrier;</section><section prefix="(5)">a person having permission of the railroad carrier to enter the railroad property;</section><section prefix="(6)">a law enforcement officer, firefighter, or emergency response personnel while performing official duties;</section><section prefix="(7)">a representative of the Maryland Department of Transportation or the Department of Labor, Licensing, and Regulation while performing official duties; or</section><section prefix="(8)">a representative of the Federal Railroad Administration or the National Transportation Safety Board while performing official duties.</section></section>

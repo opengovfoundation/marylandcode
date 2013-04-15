@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-201" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-9-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Beneficiary designation" means an instrument, other than an instrument creating a trust, naming the beneficiary of:<section prefix="(1)">An annuity or insurance policy;</section><section prefix="(2)">An account with a designation for payment upon death;</section><section prefix="(3)">A security registered in beneficiary form;</section><section prefix="(4)">A pension, profit-sharing, retirement, or other employment-related benefit plan; or</section><section prefix="(5)">Any other nonprobate transfer at death.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-622" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-622</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>622</order_by>
   <text>
     <section prefix="(a)">A secured party's acceptance of collateral in full or partial satisfaction of the obligation it secures:<section prefix="(1)">Discharges the obligation to the extent consented to by the debtor;</section><section prefix="(2)">Transfers to the secured party all of a debtor's rights in the collateral;</section><section prefix="(3)">Discharges the security interest or agricultural lien that is the subject of the debtor's consent and any subordinate security interest or other subordinate lien; and</section><section prefix="(4)">Terminates any other subordinate interest.</section></section>
     <section prefix="(b)">A subordinate interest is discharged or terminated under subsection (a), even if the secured party fails to comply with this title.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-105" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-7-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">A local board shall provide notice of each question to be submitted statewide and each question to be submitted to the voters of the county, by:<section prefix="(1)">specimen ballot mailed at least 1 week before the general election; or</section><section prefix="(2)">publication or dissemination by mass communication during the 3 weeks immediately preceding the general election at which a question will appear on the ballot.</section></section>
     <section prefix="(b)">

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-302" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-13-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">There is a General Professional Services Selection Board in the Department of General Services.</section>
     <section prefix="(b)">
       <section prefix="(1)">The General Selection Board consists of:<section prefix="(i)">4 permanent members; and</section><section prefix="(ii)">1 temporary member.</section></section>
-      <section prefix="(2)">The permanent members shall be:<section prefix="(i)">the Secretary of General Services, ex officio, or a designee; and</section><section prefix="(ii)">3 members who are appointed by the Governor and shall be:</section></section>
+      <section prefix="(2)">The permanent members shall be:<section prefix="(i)">the Secretary of General Services, ex officio, or a designee; and</section><section prefix="(ii)">3 members who are appointed by the Governor and shall be:<section prefix="1.">1 appointee from the Department of General Services on recommendation of the Secretary of General Services; and</section><section prefix="2.">2 appointees from the general public, at least 1 of whom is not an architect or engineer.</section></section></section>
       <section prefix="(3)">The temporary member shall be the head of the unit whose request is under consideration.</section>
       <section prefix="(4)">On recommendation of the Secretary of General Services, the Governor may appoint an alternate member to serve in the absence of the appointee under paragraph (2)(ii)1 of this subsection.</section>
     </section>
@@ -22,7 +22,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">The Governor may remove a member for incompetence, misconduct, neglect of duty, or other sufficient cause.</section>
-      <section prefix="(2)">A member may not participate in any matter before the General Selection Board in which the member:<section prefix="(i)">has an interest; or</section><section prefix="(ii)">is or, within the previous 12 months, has been associated with:</section></section>
+      <section prefix="(2)">A member may not participate in any matter before the General Selection Board in which the member:<section prefix="(i)">has an interest; or</section><section prefix="(ii)">is or, within the previous 12 months, has been associated with:<section prefix="1.">a transportation unit that has an interest in the matter; or</section><section prefix="2.">any other person who is not a unit and has an interest in the matter.</section></section></section>
     </section>
     <section prefix="(e)">Each appointee from the general public is entitled to:<section prefix="(1)">compensation in accordance with the State budget; and</section><section prefix="(2)">reimbursement for expenses under the Standard State Travel Regulations, as provided in the State budget.</section></section>
   </text>

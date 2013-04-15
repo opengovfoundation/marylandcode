@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-210" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">In this section:<section prefix="(1)">"Request" means a record of a type described in paragraph (2), (3), or (4).</section><section prefix="(2)">"Request for an accounting" means a record authenticated by a debtor requesting that the recipient provide an accounting of the unpaid obligations secured by collateral and reasonably identifying the transaction or relationship that is the subject of the request.</section><section prefix="(3)">"Request regarding a list of collateral" means a record authenticated by a debtor requesting that the recipient approve or correct a list of what the debtor believes to be the collateral securing an obligation and reasonably identifying the transaction or relationship that is the subject of the request.</section><section prefix="(4)">"Request regarding a statement of account" means a record authenticated by a debtor requesting that the recipient approve or correct a statement indicating what the debtor believes to be the aggregate amount of unpaid obligations secured by collateral as of a specified date and reasonably identifying the transaction or relationship that is the subject of the request.</section></section>
     <section prefix="(b)">Subject to subsections (c), (d), (e), and (f), a secured party, other than a buyer of accounts, chattel paper, payment intangibles, or promissory notes or a consignor, shall comply with a request within 14 days after receipt:<section prefix="(1)">In the case of a request for an accounting, by authenticating and sending to the debtor an accounting; and</section><section prefix="(2)">In the case of a request regarding a list of collateral or a request regarding a statement of account, by authenticating and sending to the debtor an approval or correction.</section></section>

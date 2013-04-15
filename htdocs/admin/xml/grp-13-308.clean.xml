@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-308" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On receipt of the surveyor's acknowledgement of the warrant, the Commissioner shall mail a notice of the issuance of the warrant to:<section prefix="(i)">The applicant;</section><section prefix="(ii)">Each adjoining landowner named in the application under &#xA7; 13-302(a)(4) of this subtitle;</section><section prefix="(iii)">Each person, governmental body, or agency named in the application under &#xA7; 13-302(a)(6) of this subtitle as having a claim to any portion of the land described in the application;</section><section prefix="(iv)">The Division of State Documents; and</section><section prefix="(v)">The Board of Public Works.</section></section>

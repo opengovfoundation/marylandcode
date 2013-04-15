@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-5B-05" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-5B-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">In reviewing requests for new or expanded water appropriation permits by public water systems, as defined by this subtitle, the Department shall consider existing local initiatives and voluntary efforts and best management practices set forth for implementation within a permit application.</section>
     <section prefix="(b)">In reviewing and prioritizing requests by public water systems, as defined by this subtitle, for State financial assistance through the Maryland Water Quality Revolving Loan Fund under &#xA7; 9-1605 of this article and other State funding sources, the Department shall consider local initiatives and voluntary efforts, and the best management practices set forth for implementation within a financial assistance application.</section>

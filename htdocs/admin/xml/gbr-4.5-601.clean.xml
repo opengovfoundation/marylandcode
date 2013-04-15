@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-601" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">Except for a building permit for construction to be performed directly by a landowner solely for the landowner's own use, the building and permits department of a county may not issue a permit for home building unless:<section prefix="(1)">the permit includes the home builder registration number of a registrant; and</section><section prefix="(2)">the person pays the Guaranty Fund fee required under &#xA7; 4.5-704 of this title.</section></section>
     <section prefix="(b)">Before issuing a permit for home building to a landowner, the building and permits department of a county shall obtain the signature of the landowner affirming that the permit is being issued solely for the purpose of the landowner performing work on the landowner's own property.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-702" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds and declares that:<section prefix="(1)">The storage of oil in underground oil storage tanks is a major cause of groundwater contamination in this State;</section><section prefix="(2)">Groundwater resources are vital to the population and economy of this State; and</section><section prefix="(3)">The preservation of the State's groundwater resources is in the public interest.</section></section>
     <section prefix="(b)">The General Assembly further finds that where contamination of groundwater has occurred due to leaking underground oil storage tanks, remedial measures have often been delayed for long periods due to high costs of such remedial measures. These delays result in the continuation and intensification of the threat to the public health, safety, and welfare, in greater damages to the environment, and in significantly higher costs to clean up the contamination and rehabilitate the site.</section>

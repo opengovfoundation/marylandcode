@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-501.1" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-8-501.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501.1</order_by>
   <text>
     <section prefix="(a)">This section applies only in Cecil County.</section>
     <section prefix="(b)">There is a Class GC (golf course) beer, wine and liquor (on-sale) license.</section>

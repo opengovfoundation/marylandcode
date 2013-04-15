@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-604" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-604</section_number>
-  <catch_line/>
+  <catch_line>A home builder who installs an industrialized building intended for residential use or a mobile home...</catch_line>
+  <order_by>604</order_by>
   <text>A home builder who installs an industrialized building intended for residential use or a mobile home is responsible to the owner for correcting any defects in any component incorporated into the new home except for those industrialized buildings or mobile homes that are the responsibility of the manufacturer of the industrialized building and mobile home pursuant to Title 12, Subtitle 3 of the Public Safety Article.</text>
 </law>

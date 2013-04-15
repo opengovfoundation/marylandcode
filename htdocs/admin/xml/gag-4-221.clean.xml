@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-221" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-221</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221</order_by>
   <text>
     <section prefix="(a)">The Secretary may investigate and gather, and compile information concerning the organization, business, conduct, practices, and management of any person engaged in intrastate commerce, and his relation to other persons.</section>
     <section prefix="(b)">The Secretary, by general or special order, may require any person or class of persons engaged in intrastate commerce to file, on forms the Secretary prescribes, annual or special reports or answers in writing to specific questions, furnishing to the Secretary information he requires concerning the organization, business, conduct, practices, management, and relation to any person filing. Every report and answer shall be made under oath, or otherwise as the Secretary prescribes, within a reasonable period set by him, unless additional time is granted.</section>

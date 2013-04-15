@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-4-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Apprentice barber" means an individual who, under the supervision of a master barber, is learning to practice barbering in a barbershop that holds a barbershop permit.</section>
@@ -23,7 +23,7 @@
     <section prefix="(h)">"Master barber" means a barber who:<section prefix="(1)">has at least 15 months experience as a licensed barber; and</section><section prefix="(2)">has passed a test approved by the Board.</section></section>
     <section prefix="(i)">
       <section prefix="(1)">"Practice barbering" means to provide to an individual for compensation the service of:<section prefix="(i)">cutting, razor cutting, styling, relaxing, body waving, shampooing, or coloring the hair;</section><section prefix="(ii)">shaving or trimming the beard;</section><section prefix="(iii)">massaging the face;</section><section prefix="(iv)">designing, fitting, or cutting a hairpiece; or</section><section prefix="(v)">performing any other similar procedure on the hair, beard, face, or hairpiece of the individual.</section></section>
-      <section prefix="(2)">"Practice barbering" does not include:<section prefix="(i)">the mere sale of wigs or hairpieces; or</section><section prefix="(ii)">the services performed by an employee under the supervision of a master barber in a barbershop that holds a barbershop permit that are restricted to:</section></section>
+      <section prefix="(2)">"Practice barbering" does not include:<section prefix="(i)">the mere sale of wigs or hairpieces; or</section><section prefix="(ii)">the services performed by an employee under the supervision of a master barber in a barbershop that holds a barbershop permit that are restricted to:<section prefix="1.">shampooing;</section><section prefix="2.">removal of a hair solution;</section><section prefix="3.">sterilization of equipment; or</section><section prefix="4.">similar activities.</section></section></section>
     </section>
   </text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-304" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-2-304</section_number>
-  <catch_line/>
+  <catch_line>The appropriations described in this subtitle shall be used for programs, including related administ...</catch_line>
+  <order_by>304</order_by>
   <text>The appropriations described in this subtitle shall be used for programs, including related administrative expenses, directed at the following:<section prefix=""><section prefix="(1)">Communicable disease control services;</section><section prefix="(2)">Environmental health services;</section><section prefix="(3)">Family planning services;</section><section prefix="(4)">Maternal and child health services;</section><section prefix="(5)">Wellness promotion services;</section><section prefix="(6)">Adult health and geriatric services; and</section><section prefix="(7)">Administration and communication services associated with the provision of the services described in items (1) through (6) of this section.</section></section></text>
 </law>

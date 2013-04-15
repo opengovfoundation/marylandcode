@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-601" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Motor vehicle rental company" means any person that is in the business of providing motor vehicles to the public under a rental agreement for a period of 180 days or less.</section>

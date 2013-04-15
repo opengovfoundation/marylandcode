@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-303" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-1-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">In this section, "voter information material" means:<section prefix="(1)">campaign literature that is campaign material under Title 13, Subtitle 4 of this article; or</section><section prefix="(2)">registration or voting information issued by the State Board or a local board.</section></section>
     <section prefix="(b)">This section applies only:<section prefix="(1)">in Montgomery County; and</section><section prefix="(2)">to apartment buildings, condominiums, or other multifamily residential structures where access to the entrance of individual residential units is restricted by the owner or governing board of the entire structure.</section></section>

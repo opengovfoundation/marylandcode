@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-511" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(a)">The Commissioner and the Chief Executive Officer may develop programs to provide services or produce goods used by:<section prefix="(1)">units of State government;</section><section prefix="(2)">political subdivisions of the State;</section><section prefix="(3)">units of the federal government;</section><section prefix="(4)">units of other states; or</section><section prefix="(5)">political subdivisions of other states.</section></section>
     <section prefix="(b)">

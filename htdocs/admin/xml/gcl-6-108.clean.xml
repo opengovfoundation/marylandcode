@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-6-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(1)">A bulk transfer is subject to this title even though it is by sale at auction, but only in the manner and with the results stated in this section.</section>
     <section prefix="(2)">The transferor shall furnish a list of his creditors and assist in the preparation of a schedule of the property to be sold, both prepared as before stated (&#xA7; 6-104).</section>

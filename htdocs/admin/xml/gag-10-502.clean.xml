@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-502" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-502</section_number>
-  <catch_line/>
+  <catch_line>The Secretary may:...</catch_line>
+  <order_by>502</order_by>
   <text>The Secretary may:<section prefix=""><section prefix="(1)">Devise and establish official trademarks or other insignia for farm products of the State and secure copyrights for them under the law of the United States or the State;</section><section prefix="(2)">Permit the use of official trademarks or other insignia on farm products of the State or on their containers and charge reasonable and necessary fees for this use;</section><section prefix="(3)">Prevent the unauthorized or improper use of official trademarks or other insignia and protect them from infringements; and</section><section prefix="(4)">Adopt rules and regulations and take any action necessary to effectuate the purposes of this subtitle.</section></section></text>
 </law>

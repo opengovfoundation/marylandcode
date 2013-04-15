@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-111.2" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-111.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111.2</order_by>
   <text>
     <section prefix="(a)">In this section, "candidate sign" means a sign on behalf of a candidate for public office or a slate of candidates for public office.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a recorded covenant or restriction, a provision in a declaration, or a provision in the bylaws or rules of a condominium may not restrict or prohibit the display of:<section prefix="(1)">A candidate sign; or</section><section prefix="(2)">A sign that advertises the support or defeat of any question submitted to voters in accordance with the Election Law Article.</section></section>

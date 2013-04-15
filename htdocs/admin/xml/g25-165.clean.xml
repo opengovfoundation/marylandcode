@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="165" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-165</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>165</order_by>
   <text>
     <section prefix="(a)">After any erosion prevention works, or part thereof determined to be constructed, shall have been completed in or for any taxing and assessment district, said county commissioners, acting as district council for such district, are empowered and directed to fix and levy a benefit charge upon all real property in said district benefited by the said erosion prevention works. Before proceeding to assess such benefits it shall first notify the owners of real property in such assessment district that it proposes to make an assessment of benefit against their real property for such erosion prevention works, and that upon a day certain to be named therein a hearing will be granted such owners at a place designated therein. Said notice of the proposed assessment, as far as practicable, shall be mailed to each property owner in said assessment district by placing the same in an envelope addressed to his last known address and depositing the same, postpaid, in a United States post office, and by publication thereof once a week for two successive weeks in a newspaper of general circulation published in the county.</section>
     <section prefix="(b)">After said hearing has been granted, said commissioners, acting as such district council, shall determine the benefits accruing to each of the lots or parcels of land in said assessment district from the construction of said erosion prevention works and shall fix and levy a benefit charge upon each lot or parcel of land in said assessment district to the extent it is benefited by the construction of said erosion prevention works, or part thereof. Said benefit charge shall be a lien upon the real property against which it is assessed and shall be paid annually as county taxes are required to be paid, by all such lots or parcels of land in such district for a period of years coextensive with the period of maturity of the notes, certificates of indebtedness or bonds out of the proceeds of which such erosion prevention work was done.</section>
@@ -16,7 +16,7 @@
       <section prefix="(4)">
         <section prefix="(i)">Any annual installments in default shall be a first lien on the benefited property, subject only to prior State, county, or municipal real property taxes. The outstanding balance of a benefit charge shall be given normal lien priority.</section>
         <section prefix="(ii)">The sale of a benefited property does not extinguish the lien assessed against the benefited property.</section>
-        <section prefix="(iii)">The purchaser of a benefited property shall:</section>
+        <section prefix="(iii)">The purchaser of a benefited property shall:<section prefix="1.">Take ownership of the property subject to any outstanding balance of the total benefit charge unpaid at the conclusion of the sale; and</section><section prefix="2.">Be required to meet the same annual installments as were being paid by the previous owner of the benefited property.</section></section>
         <section prefix="(iv)">For purposes of &#xA7; 3-104(b) of the Real Property Article, relating to the payment of taxes as a prerequisite to recording any transfer of property, it is sufficient that all current annual installments of any benefit charge levied under this subtitle have been paid.</section>
       </section>
     </section>

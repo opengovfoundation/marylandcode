@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-331" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-331</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>331</order_by>
   <text>
     <section prefix="(a)">In accordance with subsection (b) of this section, the State Board shall assess a late filing fee for a failure to file a campaign finance report or affidavit, as specified in &#xA7; 13-327 of this subtitle.</section>
     <section prefix="(b)">

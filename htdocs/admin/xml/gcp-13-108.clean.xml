@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-13-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, if a complaint is not timely and properly filed or if the action is finally decided against the claimant, the seized money not disposed of shall be forfeited to the custodian without further judicial action.</section>
     <section prefix="(b)">For the seized money to be forfeited, timely notice must be given by certified mail or other appropriate means to any known claimants, at their last known addresses, of the requirements of this section for making claim for the return of seized money.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-659" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-659</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>659</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The sanitary commission shall connect the water system or sewerage system to any parcel:<section prefix="(i)">Whose owner requests the connection;</section><section prefix="(ii)">That does not abut a way in which a water pipe or sewer pipe is laid; and</section><section prefix="(iii)">That is not the subject of a benefit assessment levied under &#xA7; 9-657 or &#xA7; 9-658 of this subtitle.</section></section>

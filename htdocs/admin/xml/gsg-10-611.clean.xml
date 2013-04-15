@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-611" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-611</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>611</order_by>
   <text>
     <section prefix="(a)">In this Part III of this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Applicant" means a person or governmental unit that asks to inspect a public record.</section>
@@ -17,7 +17,7 @@
       <section prefix="(2)">"Personal information" does not include an individual's driver's status, driving offenses, 5-digit zip code, or information on vehicular accidents.</section>
     </section>
     <section prefix="(g)">
-      <section prefix="(1)">"Public record" means the original or any copy of any documentary material that:<section prefix="(i)">is made by a unit or instrumentality of the State government or of a political subdivision or received by the unit or instrumentality in connection with the transaction of public business; and</section><section prefix="(ii)">is in any form, including:</section></section>
+      <section prefix="(1)">"Public record" means the original or any copy of any documentary material that:<section prefix="(i)">is made by a unit or instrumentality of the State government or of a political subdivision or received by the unit or instrumentality in connection with the transaction of public business; and</section><section prefix="(ii)">is in any form, including:<section prefix="1.">a card;</section><section prefix="2.">a computerized record;</section><section prefix="3.">correspondence;</section><section prefix="4.">a drawing;</section><section prefix="5.">film or microfilm;</section><section prefix="6.">a form;</section><section prefix="7.">a map;</section><section prefix="8.">a photograph or photostat;</section><section prefix="9.">a recording; or</section><section prefix="10.">a tape.</section></section></section>
       <section prefix="(2)">"Public record" includes a document that lists the salary of an employee of a unit or instrumentality of the State government or of a political subdivision.</section>
       <section prefix="(3)">"Public record" does not include a digital photographic image or signature of an individual, or the actual stored data thereof, recorded by the Motor Vehicle Administration.</section>
     </section>

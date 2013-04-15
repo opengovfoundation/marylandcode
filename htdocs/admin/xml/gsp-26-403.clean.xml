@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-403" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-26-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (f) of this section, a retiree who is receiving a service retirement allowance may accept employment with a participating employer on a permanent, temporary, or contractual basis, without any reduction in retirement allowance.</section>
     <section prefix="(b)">A reemployed retiree who is receiving a service retirement allowance may not receive creditable service or eligibility service during the period of reemployment.</section>

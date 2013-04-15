@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-657" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-657</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>657</order_by>
   <text>
     <section prefix="(a)">The sanitary commission shall classify each parcel of property on which it may make a benefit assessment as:<section prefix="(1)">Agricultural;</section><section prefix="(2)">Business or industrial;</section><section prefix="(3)">Small acreage;</section><section prefix="(4)">Subdivision; or</section><section prefix="(5)">A subclass of any of those classes.</section></section>
     <section prefix="(b)">The sanitary commission may change the classification of a parcel of property when the use of that parcel justifies its classification in another class or subclass.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-402" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-402</section_number>
-  <catch_line/>
+  <catch_line>If personal property is assessed at less than its value as a result of the owner inaccurately report...</catch_line>
+  <order_by>402</order_by>
   <text>If personal property is assessed at less than its value as a result of the owner inaccurately reporting the cost or other information as to the property, the underassessed part of the property shall be treated as escaped property under &#xA7; 8-417 of this article.</text>
 </law>

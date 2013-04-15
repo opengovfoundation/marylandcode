@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-405" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-3-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">An applicant for a permit shall:<section prefix="(1)">submit to the Board an application on the form that the Board provides; and</section><section prefix="(2)">pay to the Board a nonrefundable application fee set by the Board.</section></section>
     <section prefix="(b)">In addition to any other information required on an application form, the form shall require the name and address of:<section prefix="(1)">each responsible member of a corporation, limited liability company, or partnership;</section><section prefix="(2)">each officer and director of a corporation;</section><section prefix="(3)">each member of a limited liability company; and</section><section prefix="(4)">each partner of a partnership.</section></section>

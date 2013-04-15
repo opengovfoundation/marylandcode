@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-308" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-308</section_number>
-  <catch_line/>
+  <catch_line>A written acknowledgment of delivery by a custodian constitutes a sufficient receipt and discharge f...</catch_line>
+  <order_by>308</order_by>
   <text>A written acknowledgment of delivery by a custodian constitutes a sufficient receipt and discharge for custodial property transferred to the custodian pursuant to this subtitle.</text>
 </law>

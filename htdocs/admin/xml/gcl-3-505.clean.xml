@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-505" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">The following are admissible as evidence and create a presumption of dishonor and of any notice of dishonor stated:<section prefix="(1)">A document regular in form as provided in subsection (b) which purports to be a protest;</section><section prefix="(2)">A purported stamp or writing of the drawee, payor bank, or presenting bank on or accompanying the instrument stating that acceptance or payment has been refused unless reasons for the refusal are stated and the reasons are not consistent with dishonor;</section><section prefix="(3)">A book or record of the drawee, payor bank, or collecting bank, kept in the usual course of business which shows dishonor, even if there is no evidence of who made the entry.</section></section>
     <section prefix="(b)">A protest is a certificate of dishonor made by a United States consul or vice consul, or a notary public or other person authorized to administer oaths by the law of the place where dishonor occurs. It may be made upon information satisfactory to that person. The protest must identify the instrument and certify either that presentment has been made or, if not made, the reason why it was not made, and that the instrument has been dishonored by nonacceptance or nonpayment. The protest may also certify that notice of dishonor has been given to some or all parties.</section>

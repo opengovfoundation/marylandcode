@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-202" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-202</section_number>
-  <catch_line/>
+  <catch_line>A person may not:...</catch_line>
+  <order_by>202</order_by>
   <text>A person may not:<section prefix=""><section prefix="(1)">make, issue, circulate, or cause to be made, issued, or circulated an estimate, circular, or statement that misrepresents the terms of a policy issued or to be issued, the benefits or advantages promised by the policy, or the dividends or share of the surplus to be received on the policy;</section><section prefix="(2)">make a false or misleading statement about the dividends or share of the surplus previously paid on similar policies;</section><section prefix="(3)">make a misleading representation or any misrepresentation about the financial condition of an insurer or about the legal reserve system on which a life insurer operates; or</section><section prefix="(4)">use a name or title of a policy or class of policies that misrepresents the true nature of the policy or class of policies.</section></section></text>
 </law>

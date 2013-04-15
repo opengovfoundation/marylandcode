@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-314" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-16-314</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>314</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Board finds that there are grounds for action under &#xA7; 16-311 of this subtitle, the Board shall pass an order in accordance with the Administrative Procedure Act.</section>

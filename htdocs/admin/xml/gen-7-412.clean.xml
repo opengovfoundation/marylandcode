@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-412" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-412</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412</order_by>
   <text>
     <section prefix="(a)">Any interested party, including a prospective user of a hazardous or low-level nuclear waste facility site who generates hazardous or low-level nuclear waste in this State, may appeal a decision of the Board directly to the circuit court of the jurisdiction of the proposed site. The decision of the circuit court may be appealed to the Court of Special Appeals of Maryland.</section>
     <section prefix="(b)">Any issue in an appeal from a decision of the Board has preference over other civil actions and proceedings in both trial and appellate courts.</section>

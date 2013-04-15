@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-215" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">An item is finally paid by a payor bank when the bank has done any of the following:<section prefix="(1)">Paid the item in cash;</section><section prefix="(2)">Settled for the item without having a right to revoke the settlement under statute, clearing-house rule, or agreement; or</section><section prefix="(3)">Made a provisional settlement for the item and failed to revoke the settlement in the time and manner permitted by statute, clearing-house rule, or agreement.</section></section>
     <section prefix="(b)">If provisional settlement for an item does not become final, the item is not finally paid.</section>

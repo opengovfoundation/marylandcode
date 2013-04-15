@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-111" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">Each individual licensed to practice land surveying or property line surveying under the Maryland Professional Land Surveyors Act shall use the type of stake, marker, monument, or other landmark designated by the State Board for Professional Land Surveyors.</section>
     <section prefix="(b)">Any person who willfully obliterates, damages, or removes any stake, marker, monument, or other landmark set in the property of another person by any civil engineer, surveyor, or real estate appraiser or any of their assistants, except if the stake, marker, monument, or other landmark interferes with the proper use of the property, is guilty of a misdemeanor and on conviction shall be fined not more than $2,500.</section>

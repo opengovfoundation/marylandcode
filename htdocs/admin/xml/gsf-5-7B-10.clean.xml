@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-7B-10" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-5-7B-10</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>10</order_by>
   <text>
     <section prefix="(a)">This section may not be construed to create a private cause of action for any person or local government.</section>
     <section prefix="(b)">A decision to fund a project or not to fund a project as required under this subtitle shall not be subject to Title 10, Subtitle 2 (Administrative Procedure Act - Contested Cases) of the State Government Article.</section>

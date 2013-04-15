@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-408" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, and subject to &#xA7; 9-409 of this subtitle, State primary drinking water regulations shall apply to every public water system in this State.</section>
     <section prefix="(b)">The State primary drinking water regulations do not apply to a public water system that:<section prefix="(1)">Consists only of distribution and storage facilities, and does not have any collection and treatment facilities;</section><section prefix="(2)">Obtains all of its water from, but is not owned or operated by, a public water system to which the State primary drinking water regulations apply;</section><section prefix="(3)">Does not sell water to any person; and</section><section prefix="(4)">Is not a carrier that conveys passengers in interstate commerce.</section></section>

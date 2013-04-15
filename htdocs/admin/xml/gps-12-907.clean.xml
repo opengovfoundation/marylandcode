@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-907" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-907</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>907</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The following entities may request the Commissioner to issue special inspector commissions:<section prefix="(i)">an authorized insurer that insures boilers and pressure vessels in the State; or</section><section prefix="(ii)">an authorized inspection agency.</section></section>
@@ -35,7 +35,7 @@
     <section prefix="(h)">A special inspector may not receive a salary from or have any expenses paid by the State.</section>
     <section prefix="(i)">
       <section prefix="(1)">A special inspector commission expires 2 years after its effective date.</section>
-      <section prefix="(2)">Before a special inspector commission expires, the employer of the special inspector may renew the commission if the employer:<section prefix="(i)">pays to the Commissioner a renewal fee of $50; and</section><section prefix="(ii)">submits evidence to the Commissioner that the special inspector:</section></section>
+      <section prefix="(2)">Before a special inspector commission expires, the employer of the special inspector may renew the commission if the employer:<section prefix="(i)">pays to the Commissioner a renewal fee of $50; and</section><section prefix="(ii)">submits evidence to the Commissioner that the special inspector:<section prefix="1.">meets the standards imposed by this subtitle;</section><section prefix="2.">remains in the employment of the employer; and</section><section prefix="3.">has been trained on current boiler and pressure vessel technology in accordance with regulations adopted under this subtitle.</section></section></section>
     </section>
     <section prefix="(j)">Within 30 days after the termination of the employment of a special inspector, the employer shall return the special inspector commission to the Chief Boiler Inspector.</section>
     <section prefix="(k)">

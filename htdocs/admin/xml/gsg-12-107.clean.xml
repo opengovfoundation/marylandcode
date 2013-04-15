@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-107" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-12-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">A claim under this subtitle shall:<section prefix="(1)">contain a concise statement of facts that sets forth the nature of the claim, including the date and place of the alleged tort;</section><section prefix="(2)">demand specific damages;</section><section prefix="(3)">state the name and address of each party;</section><section prefix="(4)">state the name, address, and telephone number of counsel for the claimant, if any; and</section><section prefix="(5)">be signed by the claimant, or the legal representative or counsel for the claimant.</section></section>
     <section prefix="(b)">The Treasurer may:<section prefix="(1)">consider a claim for money damages under this subtitle or delegate wholly or partly this responsibility to other State personnel; and</section><section prefix="(2)">contract for any support services that are needed to carry out this responsibility properly.</section></section>
@@ -14,7 +14,7 @@
       <section prefix="(2)">Unless a contract with a private insurer provides otherwise, the Treasurer or designee may compromise and settle a claim for money damages after the Treasurer or designee consults with the Attorney General.</section>
       <section prefix="(3)">The State may enter into a structured settlement to the extent permitted in &#xA7; 12-104(a)(2) of this subtitle.</section>
       <section prefix="(4)">If a structured settlement is entered into, the State and the claimant shall select the investment company by mutual agreement.</section>
-      <section prefix="(5)">The acceptance of a settlement by a claimant is, as to that claimant:<section prefix="(i)">final; and</section><section prefix="(ii)">a complete release of each claim arising from the same cause of action against:</section></section>
+      <section prefix="(5)">The acceptance of a settlement by a claimant is, as to that claimant:<section prefix="(i)">final; and</section><section prefix="(ii)">a complete release of each claim arising from the same cause of action against:<section prefix="1.">the State;</section><section prefix="2.">each of its units; and</section><section prefix="3.">all State personnel.</section></section></section>
     </section>
     <section prefix="(d)">A claim under this subtitle is denied finally:<section prefix="(1)">if, by certified mail, return receipt requested, under a postmark of the United States Postal Service, the Treasurer or designee sends the claimant, or the legal representative or counsel for the claimant written notice of denial; or</section><section prefix="(2)">if the Treasurer or designee fails to give notice of a final decision within 6 months after the filing of the claim.</section></section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-516" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-516</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>516</order_by>
   <text>
     <section prefix="(a)">The Secretary shall establish within the Bituminous Coal Open-Pit Mining Reclamation Fund a reserve to be used to replace water supplies that are determined to have been affected by an open-pit mining operation, after all the bonds under &#xA7; 15-507 of this subtitle covering the operation that affected the water supply have been released in accordance with &#xA7; 15-507 of this subtitle.</section>
     <section prefix="(b)">One cent of the mine reclamation surcharge that the Department assesses for each ton of coal removed by the open-pit or strip method under &#xA7; 15-509 of this subtitle shall be paid into the water supply replacement reserve.</section>

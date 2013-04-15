@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-205" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-11-205</section_number>
-  <catch_line/>
+  <catch_line>To qualify for a license, an applicant shall satisfy the Commissioner that:...</catch_line>
+  <order_by>205</order_by>
   <text>To qualify for a license, an applicant shall satisfy the Commissioner that:<section prefix=""><section prefix="(1)">The applicant has at least $20,000 in liquid assets available to be used in the business to be covered by the license;</section><section prefix="(2)">The business will promote the convenience and advantage of the community in which the place of business will be located; and</section><section prefix="(3)">The applicant or, if the applicant is not an individual, the owners, officers, directors, or members have sufficient experience, character, financial responsibility, and general fitness to:<section prefix="(i)">Command the confidence of the public; and</section><section prefix="(ii)">Warrant the belief that the business will be operated lawfully, honestly, fairly, and efficiently.</section></section></section></text>
 </law>

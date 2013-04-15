@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-814.3" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-814.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>814.3</order_by>
   <text>
     <section prefix="(a)">If, after investigation, the Commissioner determines that an owner violated the Safety Code or a regulation adopted by the Commissioner under Part II of this subtitle, the Commissioner may assess and collect a civil penalty of up to $5,000 for each elevator unit in violation of the Safety Code or regulations.</section>
     <section prefix="(b)">In determining the amount of the penalty, the Commissioner shall consider:<section prefix="(1)">the gravity of the violation;</section><section prefix="(2)">the owner's good faith; and</section><section prefix="(3)">the owner's history of violations under this subtitle.</section></section>

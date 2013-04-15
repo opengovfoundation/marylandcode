@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-604" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-3-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">The Department from time to time may issue its refunding bonds for refunding any special transportation project revenue bonds.</section>
     <section prefix="(b)">The powers granted and limitations imposed in this subtitle as to the issuance of special transportation project revenue bonds also apply to the issuance of refunding bonds.</section>

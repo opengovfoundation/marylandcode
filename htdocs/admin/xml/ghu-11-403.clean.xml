@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-11-403</section_number>
-  <catch_line/>
+  <catch_line>The Corporation shall accept and use any money or property received by gift, devise, bequest, or oth...</catch_line>
+  <order_by>403</order_by>
   <text>The Corporation shall accept and use any money or property received by gift, devise, bequest, or otherwise to further the purposes of this title.</text>
 </law>

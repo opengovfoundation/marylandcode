@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-13-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Central Repository" means the Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</section>
@@ -17,7 +17,7 @@
     <section prefix="(h)">"Private detective" means an individual who personally provides private detective services.</section>
     <section prefix="(i)">"Private detective agency" means a person who conducts a business that provides private detective services.</section>
     <section prefix="(j)">
-      <section prefix="(1)">"Provide private detective services" means to provide, for compensation, the service of:<section prefix="(i)">conducting an investigation that concerns:</section><section prefix="(ii)">securing evidence for use before any investigating committee, board of award, or board of arbitration or for use in the trial of any civil or criminal cause;</section><section prefix="(iii)">nonuniformed personal protection; or</section><section prefix="(iv)">conducting an investigation to locate or apprehend a fugitive from justice, unless the person:</section></section>
+      <section prefix="(1)">"Provide private detective services" means to provide, for compensation, the service of:<section prefix="(i)">conducting an investigation that concerns:<section prefix="1.">a crime or wrong committed, assumed to have been committed, or threatened to be committed;</section><section prefix="2.">the identity, habits, conduct, movement, location, affiliations, associations, transactions, reputation, or character of any person;</section><section prefix="3.">the credibility of a witness or of any other individual;</section><section prefix="4.">the location of a missing individual;</section><section prefix="5.">the location or recovery of lost or stolen property;</section><section prefix="6.">the origin or cause of or responsibility for:</section><section prefix="7.">the affiliation, connection, or relation of any person with an organization or other person; or</section><section prefix="8.">the activities, conduct, efficiency, loyalty, or honesty of any employee, agent, contractor, or subcontractor;</section></section><section prefix="(ii)">securing evidence for use before any investigating committee, board of award, or board of arbitration or for use in the trial of any civil or criminal cause;</section><section prefix="(iii)">nonuniformed personal protection; or</section><section prefix="(iv)">conducting an investigation to locate or apprehend a fugitive from justice, unless the person:<section prefix="1.">conducting the investigation is a property bail bondsman or licensed by the Insurance Commissioner of the State or a similar licensing body of another state as a bail bondsman;</section><section prefix="2.">is an employee of a property bail bondsman or a licensed bail bondsman for the purpose of locating or apprehending fugitives from justice; or</section><section prefix="3.">is authorized as an agent by a property bail bondsman or licensed bail bondsman in advance of the apprehension of a fugitive from justice.</section></section></section>
       <section prefix="(2)">"Provide private detective services" does not include:<section prefix="(i)">performing any activity of a person who is engaged exclusively in the business of making investigations and reports that relate to the financial standing, creditworthiness, or financial responsibility of any person;</section><section prefix="(ii)">performing any activity of a person who is engaged exclusively in the business of making a report for an insurance or credit purpose, except if the making of the report involves an investigation or surveillance of a sort normally performed by a person who otherwise is subject to this title;</section><section prefix="(iii)">monitoring an electronically controlled burglar or fire alarm system with a central unit; or</section><section prefix="(iv)">making a marketing survey.</section></section>
     </section>
     <section prefix="(k)">"Representative member" means a firm member who is appointed under &#xA7; 13-302(b) of this title to act on behalf of the firm.</section>

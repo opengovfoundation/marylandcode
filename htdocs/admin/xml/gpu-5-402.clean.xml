@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-402" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-5-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">This subtitle does not authorize a corporation to take or use property unless just compensation, as agreed on with the owner or awarded by a jury, has been paid or tendered to the parties entitled to compensation or paid into court.</section>
     <section prefix="(b)">This subtitle does not authorize the location of a public road on private property without the consent of the owner or the decision of the county commissioners or county council after notice and an opportunity to be heard as required by law for opening or altering public roads.</section>

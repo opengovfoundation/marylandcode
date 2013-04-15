@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-914" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-914</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>914</order_by>
   <text>
     <section prefix="(a)">With the application for a new or renewal license, the applicant or licensee shall file a surety bond or bond renewal certificate with the Commissioner as provided in this section.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-703" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">As to any certificate of title, issued to a person under this title, the person may not knowingly permit its use by any other person who is not entitled by law to its use.</section>
     <section prefix="(b)">As to any registration card, issued to a person under this title, the person may not knowingly permit its use by any other person who is not entitled by law to its use.</section>

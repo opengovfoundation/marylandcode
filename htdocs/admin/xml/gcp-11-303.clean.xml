@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">This section applies to a case of abuse of a child under Title 5, Subtitle 7 of the Family Law Article or &#xA7; 3-601 or &#xA7; 3-602 of the Criminal Law Article.</section>
     <section prefix="(b)">A court may order that the testimony of a child victim be taken outside the courtroom and shown in the courtroom by closed circuit television if:<section prefix="(1)">the court determines that testimony by the child victim in the presence of a defendant or a child respondent will result in the child victim's suffering serious emotional distress such that the child victim cannot reasonably communicate; and</section><section prefix="(2)">the testimony is taken during the proceeding.</section></section>
@@ -13,7 +13,7 @@
       <section prefix="(1)">In determining whether testimony by the child victim in the presence of the defendant or child respondent will result in the child victim's suffering such serious emotional distress that the child cannot reasonably communicate, the court may:<section prefix="(i)">observe and question the child victim inside or outside the courtroom; and</section><section prefix="(ii)">hear testimony of a parent or custodian of the child victim or other person, including a person who has dealt with the child victim in a therapeutic setting.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, each defendant or child respondent, one attorney for a defendant or child respondent, one prosecuting attorney, and one attorney for the child victim may be present when the court hears testimony on whether to allow a child victim to testify by closed circuit television.</section>
-        <section prefix="(ii)">If the court decides to observe or question the child victim in connection with the determination to allow testimony by closed circuit television:</section>
+        <section prefix="(ii)">If the court decides to observe or question the child victim in connection with the determination to allow testimony by closed circuit television:<section prefix="1.">the court may not allow the defendant or child respondent to be present; but</section><section prefix="2.">one attorney for each defendant or child respondent, one prosecuting attorney, and one attorney for the child victim may be present.</section></section>
       </section>
     </section>
     <section prefix="(d)">

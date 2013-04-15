@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-110" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-25-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">With the advice of the State Department of Education, the Motor Vehicle Administration shall adopt and enforce rules and regulations not inconsistent with the Maryland Vehicle Law to govern the safe operation of all school vehicles.</section>

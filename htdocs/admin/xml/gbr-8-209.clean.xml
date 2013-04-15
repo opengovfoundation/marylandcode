@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-209" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-8-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">The Commission shall keep available for public inspection during office hours a record of:<section prefix="(1)">all licenses issued under this title;</section><section prefix="(2)">all expirations, revocations, and suspensions of those licenses; and</section><section prefix="(3)">all contractors represented by each salesperson who holds a license under this title.</section></section>
     <section prefix="(b)">The Commission shall collect a fee of $1 per page for each copy of a document in the Commission office.</section>

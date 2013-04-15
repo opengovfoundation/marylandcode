@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-102" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-6-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">The provisions of this section apply to all possibilities of reverter and rights of entry on estates of fee simple, existing before July 1, 1969.</section>
     <section prefix="(b)">A special limitation or a condition subsequent, which restricts a fee-simple estate, and the possibility of reverter or right of entry for condition broken thereby created is not valid, unless within the time specified in subsection (e) of this section, a notice of intention to preserve the possibility of reverter or right of entry is recorded. The extinguishment occurs at the end of the period in which the notice or renewal notice may be recorded and an estate in fee simple determinable or fee simple subject to a condition subsequent then becomes a fee simple absolute. No disability or lack of knowledge of any kind prevents the extinguishment of the interest if no notice of intention to preserve is filed within the time specified in subsection (e) of this section.</section>

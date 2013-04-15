@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-222" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-15-222</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>222</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any provision of a procurement contract, the Appeals Board may award interest on money that the Appeals Board determines to be due to the unit or the contractor under a contract claim.</section>
     <section prefix="(b)">

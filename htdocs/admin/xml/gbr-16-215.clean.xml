@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-215" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">Unless authorized by a license, a person may not accept delivery of unstamped cigarettes.</section>
     <section prefix="(b)">On receipt of a package of cigarettes, a retailer, subwholesaler, or vending machine operator immediately shall:<section prefix="(1)">examine the package to find out whether tobacco tax stamps are affixed properly to the package as required by &#xA7; 12-304 of the Tax - General Article; and</section><section prefix="(2)">reject any unstamped or improperly stamped cigarettes by:<section prefix="(i)">returning them to the seller or consignor; or</section><section prefix="(ii)">delivering them to a common carrier for return to the seller or consignor.</section></section></section>

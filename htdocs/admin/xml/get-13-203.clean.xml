@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-203" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">While a petition for appointment of a guardian or other protective order is pending, the court may preserve and apply the property of the alleged disabled person or minor as may be required. The court need not give notice to other persons.</section>
     <section prefix="(b)">The court may not exercise the power conferred by subsection (a) of this section unless it appears from specific facts shown by affidavit that immediate, substantial, and irreparable injury will result to the applicant or to the minor or disabled person before an adversary hearing can be held. The court may communicate informally with the minor or disabled person prior to taking action. Any order shall be served immediately on the minor or disabled person.</section>

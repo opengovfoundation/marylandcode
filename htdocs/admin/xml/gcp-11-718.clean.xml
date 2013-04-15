@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-718" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-718</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>718</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Department or a local law enforcement unit finds that, to protect the public from a specific registrant, it is necessary to give notice of a registration statement, a change of address of the registrant, or a change in a county in which the registrant habitually lives to a particular person not otherwise identified under &#xA7; 11-709 of this subtitle, then the Department or a local law enforcement unit shall give notice of the registration statement to that person.</section>

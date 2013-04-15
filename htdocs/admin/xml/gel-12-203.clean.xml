@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-203" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-12-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">A proceeding under this subtitle shall be conducted in accordance with the Maryland Rules, except that:<section prefix="(1)">the proceeding shall be heard and decided without a jury and as expeditiously as the circumstances require;</section><section prefix="(2)">on the request of a party or sua sponte, the chief administrative judge of the circuit court may assign the case to a three-judge panel of circuit court judges; and</section><section prefix="(3)">an appeal shall be taken directly to the Court of Appeals within 5 days of the date of the decision of the circuit court.</section></section>
     <section prefix="(b)">The Court of Appeals shall give priority to hear and decide an appeal brought under subsection (a)(3) of this section as expeditiously as the circumstances require.</section>

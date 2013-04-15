@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-516" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-516</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>516</order_by>
   <text>
     <section prefix="(a)">This section applies to a motor vehicle insurance policy issued, sold, or delivered in the State that covers a motor vehicle that is specially equipped for the transportation of or operation by an individual with a disability.</section>
     <section prefix="(b)">If a motor vehicle insurance policy described in subsection (a) of this section provides for reimbursement of the costs of a rental motor vehicle, the insurer shall, upon request of the applicant or insured, make available for the appropriate premium at the time of the issuance or renewal of the policy a daily reimbursement rate of up to $100, for a maximum of $1,500 per policy period, to allow the insured to rent a motor vehicle that is equipped similarly to the covered motor vehicle.</section>

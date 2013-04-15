@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-219" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The attorney in fact of a reciprocal insurer:<section prefix="(i)">periodically may fix and determine savings to be paid to each subscriber or policyholder on participating policies or contracts from the earned surplus of the reciprocal insurer; and</section><section prefix="(ii)">after doing so, shall establish an adequate surplus from which the savings are to be paid.</section></section>

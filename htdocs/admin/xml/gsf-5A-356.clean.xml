@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="5A-356" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-5A-356</section_number>
-  <catch_line/>
+  <catch_line>The Trust may not make a grant to a museum that:...</catch_line>
+  <order_by>356</order_by>
   <text>The Trust may not make a grant to a museum that:<section prefix=""><section prefix="(1)">currently is receiving operating support from the Maryland State Arts Council;</section><section prefix="(2)">is operated wholly or partly by the State; or</section><section prefix="(3)">has not existed as a nonprofit organization for at least 3 years before applying for the grant.</section></section></text>
 </law>

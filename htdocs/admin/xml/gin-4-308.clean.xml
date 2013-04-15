@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-308" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">A mandatory control level event occurs when:<section prefix="(1)">an insurer files an RBC report that indicates that the insurer has total adjusted capital that is less than its mandatory control level RBC;</section><section prefix="(2)">the Commissioner notifies the insurer of an adjusted RBC report that indicates an event under item (1) of this subsection; or</section><section prefix="(3)">if an insurer requests a hearing to challenge an adjusted RBC report that indicates the event under item (1) of this subsection, the Commissioner notifies the insurer that the Commissioner, after a hearing, has rejected the insurer's challenge.</section></section>
     <section prefix="(b)">

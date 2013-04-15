@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-173" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-173</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>173</order_by>
   <text>
     <section prefix="(a)">"Type I school vehicle" means a school vehicle that:<section prefix="(1)">Is designed and constructed to carry passengers;</section><section prefix="(2)">Is either of the body-on-chassis type construction or integral type construction; and</section><section prefix="(3)">Has a gross vehicle weight of more than 15,000 pounds and provides a minimum of 13 inches of seating space per passenger.</section></section>
     <section prefix="(b)">"Type I school vehicle" does not include any bus operated by a common carrier under the jurisdiction of a State, regional, or federal regulatory agency or operated by the agency itself.</section>

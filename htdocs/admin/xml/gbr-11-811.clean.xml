@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-811" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-811</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>811</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -20,7 +20,7 @@
       <section prefix="(2)">Ocean Downs may be a receiving track only if at least 40 days of live racing were held there in the previous calendar year.</section>
       <section prefix="(3)">Pimlico Race Course may be a receiving track only if at least 90 days of live racing were held there in the previous calendar year.</section>
       <section prefix="(4)">A track where racing is conducted by Fair Hill may be a sending track only on days when Fair Hill is licensed to conduct and actually conducts live racing.</section>
-      <section prefix="(5)">A track in Allegany County may be a sending track:<section prefix="(i)">to any receiving track:</section><section prefix="(ii)">to a receiving track located more than 35 miles from any of Laurel Park, Pimlico Race Course, and Rosecroft Raceway:</section></section>
+      <section prefix="(5)">A track in Allegany County may be a sending track:<section prefix="(i)">to any receiving track:<section prefix="1.">on days when the track is licensed to conduct and actually conducts live racing; and</section><section prefix="2.">for live races conducted at the track; and</section></section><section prefix="(ii)">to a receiving track located more than 35 miles from any of Laurel Park, Pimlico Race Course, and Rosecroft Raceway:<section prefix="1.">on any day the Commission has authorized the licensee to hold racing; and</section><section prefix="2.">for simulcast races conducted at the track.</section></section></section>
       <section prefix="(6)">Subject to &#xA7; 11-804.2 of this subtitle, nothing in paragraph (5) of this subsection shall limit the ability of a track in Allegany County to act as a sending track to a satellite simulcast facility.</section>
       <section prefix="(7)">A track in Allegany County may be a receiving track:<section prefix="(i)">during its opening year if it has scheduled at least 21 days of live racing within 12 months of its opening and the Commission has granted its application to race on those days; and</section><section prefix="(ii)">in subsequent years if at least 21 days of live racing were held at the track in the previous calendar year.</section></section>
       <section prefix="(8)">The Commission may waive a requirement of this subsection if the receiving track could not meet the requirement because of:<section prefix="(i)">an act of God; or</section><section prefix="(ii)">what the Commission finds to be an emergency.</section></section>

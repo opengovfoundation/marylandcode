@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-108" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">This section applies to a dispute only if the employer involved in the dispute has at least 10 employees.</section>
     <section prefix="(b)">Whenever a disputant or other reliable source informs the Mediation Service that a dispute might result in a lockout or strike, the Mediation Service:<section prefix="(1)">may investigate and try to mediate the dispute; and</section><section prefix="(2)">if the Mediation Service is unable to mediate, may try to obtain the consent of the disputants for formation of a board.</section></section>

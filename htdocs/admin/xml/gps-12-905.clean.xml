@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-905" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">The Board shall formulate regulations for the safe construction, use, installation, maintenance, repair, and inspection of boilers and pressure vessels in the State.</section>
     <section prefix="(b)">The regulations formulated by the Board shall conform as nearly as possible to the requirements of:<section prefix="(1)">this subtitle; and</section><section prefix="(2)">the following codes as amended and interpreted:<section prefix="(i)">the Boiler and Pressure Vessel Code of the American Society of Mechanical Engineers;</section><section prefix="(ii)">the Inspection Code of the National Board of Boiler and Pressure Vessel Inspectors;</section><section prefix="(iii)">the Code for Power Piping, B31.1 of the American Society of Mechanical Engineers;</section><section prefix="(iv)">the Code for Controls and Safety Devices for Automatically Fired Boilers, CSD-1 of the American Society of Mechanical Engineers;</section><section prefix="(v)">NFPA 85 Boiler and Combustion Systems Hazards Code; and</section><section prefix="(vi)">the Code for Chemical Plant and Petroleum Refinery Piping, B31.3 of the American Society of Mechanical Engineers.</section></section></section>

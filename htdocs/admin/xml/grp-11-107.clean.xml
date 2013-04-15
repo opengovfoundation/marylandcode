@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-107" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">Each unit owner shall own an undivided percentage interest in the common elements equal to that set forth in the declaration. Except as specifically provided in this title, the common elements shall remain undivided. Except as provided in this title, no unit owner, nor any other person, may bring a suit for partition of the common elements, and any covenant or provision in any declaration, bylaws, or other instrument to the contrary is void.</section>
     <section prefix="(b)">Each unit owner shall have a percentage interest in the common expenses and common profits equal to that set forth in the declaration.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-110" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-9-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -20,7 +20,7 @@
       <section prefix="(4)">"Permit" has the meaning stated in &#xA7; 2-101(j) of the Business Occupations and Professions Article.</section>
       <section prefix="(5)">"Practice of certified public accountancy" has the meaning stated for "practice certified public accountancy" in &#xA7; 2-101(l) of the Business Occupations and Professions Article.</section>
       <section prefix="(6)">
-        <section prefix="(i)">"Practice of public accountancy" means the performance or the offering to perform by a licensed certified public accountant or a firm, while holding out to the public, services for a client or a potential client that involve:</section>
+        <section prefix="(i)">"Practice of public accountancy" means the performance or the offering to perform by a licensed certified public accountant or a firm, while holding out to the public, services for a client or a potential client that involve:<section prefix="1.">The use of accounting or auditing skills, including the issuance of reports on financial statements;</section><section prefix="2.">Financial management, advice, or consultation; or</section><section prefix="3.">The preparation of tax returns or the furnishing of advice about tax matters.</section></section>
         <section prefix="(ii)">"Practice of public accountancy" includes the practice of certified public accountancy.</section>
       </section>
       <section prefix="(7)">"Quality review" means an independent appraisal, review, or study of the professional work of a licensed certified public accountant or firm in the practice of public accountancy that is made by a licensed certified public accountant or firm that is not affiliated with the licensed certified public accountant or firm undergoing a quality review.</section>

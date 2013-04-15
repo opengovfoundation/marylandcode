@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1203" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1203</order_by>
   <text>
     <section prefix="(a)">A small employer under this subtitle is a person that meets the criteria specified in any subsection of this section.</section>
     <section prefix="(b)">
-      <section prefix="(1)">A person is considered a small employer under this subtitle if the person:<section prefix="(i)">is an employer that on at least 50% of its working days during the preceding calendar quarter, employed at least two but not more than 50 eligible employees, the majority of whom are employed in the State; and</section><section prefix="(ii)">is a person actively engaged in business or is the governing body of:</section></section>
+      <section prefix="(1)">A person is considered a small employer under this subtitle if the person:<section prefix="(i)">is an employer that on at least 50% of its working days during the preceding calendar quarter, employed at least two but not more than 50 eligible employees, the majority of whom are employed in the State; and</section><section prefix="(ii)">is a person actively engaged in business or is the governing body of:<section prefix="1.">a charter home-rule county established under Article XI-A of the Maryland Constitution;</section><section prefix="2.">a code home-rule county established under Article XI-F of the Maryland Constitution;</section><section prefix="3.">a commission county established or operating under Article 25 of the Code; or</section><section prefix="4.">a municipal corporation established or operating under Article XI-E of the Maryland Constitution.</section></section></section>
       <section prefix="(2)">Notwithstanding paragraph (1)(i) of this subsection:<section prefix="(i)">a person is considered a small employer under this subtitle if the employer did not exist during the preceding calendar year but on at least 50% of the working days during its first year the employer employs at least two but not more than 50 eligible employees and otherwise satisfies the conditions of paragraph (1)(i) of this subsection; and</section><section prefix="(ii)">if the federal Employee Retirement Income Security Act (ERISA) is amended to exclude employee groups under a specific size, this subtitle shall apply to any employee group size that is excluded from that Act.</section></section>
       <section prefix="(3)">In determining the group size specified under paragraph (1)(i) of this subsection:<section prefix="(i)">companies that are affiliated companies or that are eligible to file a consolidated federal income tax return shall be considered one employer; and</section><section prefix="(ii)">an employee may not be counted who is a part-time employee as described in &#xA7; 15-1210(a)(2) of this subtitle.</section></section>
       <section prefix="(4)">A carrier may request documentation to verify that a person meets the criteria under this subsection to be considered a small employer under this subtitle.</section>

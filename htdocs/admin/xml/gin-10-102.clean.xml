@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-102" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to insurance producers, all kinds of insurance and annuities, and all types of insurers, including:<section prefix="(1)">nonprofit health service plans;</section><section prefix="(2)">dental plan organizations;</section><section prefix="(3)">health maintenance organizations; and</section><section prefix="(4)">fraternal benefit societies.</section></section>
     <section prefix="(b)">This subtitle does not apply to:<section prefix="(1)">reinsurance;</section><section prefix="(2)">except as provided in &#xA7;&#xA7; 10-116(c) and 10-119 of this subtitle, surplus lines transactions, which are subject to Title 3, Subtitle 3 of this article;</section><section prefix="(3)">a person while employed by an insured to administer or help to administer the insurance or risk management program of the person's employer, if the person is not authorized to accept any compensation from an insurance producer or insurer; or</section><section prefix="(4)">a licensed insurance adviser while employed under contract by an insured and acting for the insured, if the insurance adviser is not authorized to accept any compensation from an insurance producer or insurer.</section></section>

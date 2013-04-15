@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-204.1" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-204.1</section_number>
-  <catch_line/>
+  <catch_line>The Advisory Council shall respond to issues raised by the Director in the annual report required un...</catch_line>
+  <order_by>204.1</order_by>
   <text>The Advisory Council shall respond to issues raised by the Director in the annual report required under &#xA7; 5-204 of this subtitle and &#xA7; 5-311 of this title and develop a plan to study ongoing issues during the year following the issuance of the report.</text>
 </law>

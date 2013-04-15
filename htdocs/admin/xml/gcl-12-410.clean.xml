@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-410" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -32,11 +32,16 @@
     </section>
     <section prefix="(f)">
       <section prefix="(1)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">In this paragraph the following words have the meanings indicated.</section>
+          <section prefix="2.">"Improvements" means buildings or structures erected upon or affixed to real property that enhance the value of the real property.</section>
+          <section prefix="3.">"Property insurance coverage" means property insurance against losses caused by perils that commonly are covered in insurance policies described with terms similar to "standard fire" or "standard fire with extended coverage".</section>
+          <section prefix="4.">A. "Replacement cost" means the amount needed to repair damage to or rebuild improvements on real property to restore the improvements to their pre-loss condition.</section>
+        </section>
         <section prefix="(ii)">A lender may not require a borrower, as a condition to receiving or maintaining a secondary mortgage loan, to provide or purchase property insurance coverage against risks to any improvements on any real property in an amount exceeding the replacement cost of the improvements on the real property.</section>
-        <section prefix="(iii)">In determining the replacement cost of the improvements on any real property, the lender may:</section>
+        <section prefix="(iii)">In determining the replacement cost of the improvements on any real property, the lender may:<section prefix="1.">Accept the value placed on the improvements by the insurer; or</section><section prefix="2.">Use the value placed on the improvements by the lender's appraisal of the improvements.</section></section>
         <section prefix="(iv)">Any property insurance coverage required by a lender shall bear a reasonable relation to the existing risk of loss.</section>
-        <section prefix="(v)">A violation of this paragraph or of subsection (h) of this section shall entitle the borrower to:</section>
+        <section prefix="(v)">A violation of this paragraph or of subsection (h) of this section shall entitle the borrower to:<section prefix="1.">Seek an injunction to prohibit the lender who has engaged or is engaging in the violation from continuing or engaging in the violation;</section><section prefix="2.">Reasonable attorney's fees; and</section><section prefix="3.">Damages directly resulting from the violation.</section></section>
         <section prefix="(vi)">A violation of this paragraph or of subsection (h) of this section does not affect the validity of the mortgage or deed of trust securing the secondary mortgage loan.</section>
       </section>
       <section prefix="(2)">The amount of credit life insurance may not exceed the total original amount payable under the loan contract.</section>

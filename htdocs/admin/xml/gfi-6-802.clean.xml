@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-802" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">Any credit union organized under the laws of any other state or of the United States may convert to a State credit union as provided in this section.</section>
     <section prefix="(b)">A credit union proposing to convert shall meet:<section prefix="(1)">All of the requirements of this title for the incorporation of a credit union in this State; and</section><section prefix="(2)">All of the requirements of the Commissioner, including any specific conditions that a credit union must meet in order to convert.</section></section>
@@ -17,7 +17,7 @@
       <section prefix="(2)">Within 10 days after the vote, a statement of the results of the vote shall be filed with the Commissioner. The statement shall be verified by the chairman or vice chairman of the board and the secretary of the credit union.</section>
     </section>
     <section prefix="(g)">
-      <section prefix="(1)">A credit union may convert to a State credit union if:<section prefix="(i)">The converted credit union:</section><section prefix="(ii)">The Commissioner determines that the conversion:</section></section>
+      <section prefix="(1)">A credit union may convert to a State credit union if:<section prefix="(i)">The converted credit union:<section prefix="1.">Meets the common bond requirements of the proposed field of membership type; and</section><section prefix="2.">Files with the Commissioner an application and any other documents that the Commissioner deems necessary to make a determination; and</section></section><section prefix="(ii)">The Commissioner determines that the conversion:<section prefix="1.">Is in the best interest of the existing and proposed membership;</section><section prefix="2.">Will likely result in better service to the existing membership;</section><section prefix="3.">Is in accordance with sound credit union practices; and</section><section prefix="4.">Does not expose the funds of the existing members to unnecessary risk.</section></section></section>
       <section prefix="(2)">Unless the Commissioner notifies the credit union that a different time period is necessary, within 120 days after the application is filed, the Commissioner shall notify the credit union of the determination on the application.</section>
     </section>
     <section prefix="(h)">When the conversion is complete, the successor credit union owns all of the assets and is responsible for all the obligations of the credit union as though the conversion had not taken place.</section>

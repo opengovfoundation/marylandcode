@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-19-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">A person other than as an agent or employee of the United States or a state or a political subdivision of the United States or a state may not use the word "official", or its equivalent, in connection with a tourist or travelers' guide or information service or with related advertising or publicity.</section>
     <section prefix="(b)">

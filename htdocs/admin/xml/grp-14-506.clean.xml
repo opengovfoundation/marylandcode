@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-506" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraphs (2) and (3) of this subsection, an affordable housing land trust agreement may authorize the affordable housing land trust to repurchase any interest in the property covered and any improvements on it under conditions set forth in the agreement.</section>

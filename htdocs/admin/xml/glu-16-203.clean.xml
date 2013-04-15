@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-203" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-16-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">After a public hearing on the appointment, the Commission shall appoint an experienced neutral third party to serve as labor relations administrator for an initial term of 1 year.</section>
     <section prefix="(b)">After the term of the labor relations administrator appointed under subsection (a) of this section expires, the exclusive representative and the Commission shall appoint a labor relations administrator for a 2-year term from a list of five nominees on whom they have agreed.</section>

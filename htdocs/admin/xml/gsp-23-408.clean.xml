@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-408" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-23-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
-    <section prefix="(a)">This section applies to an individual who:<section prefix="(1)">is eligible for membership in the Judges' Retirement System as provided in &#xA7; 27-201(a) of this title; and</section><section prefix="(2)"><section prefix="(i)">is receiving a service retirement allowance from the Employees' Pension System at the time of appointment in item (1) of this subsection; or</section><section prefix="(ii)"/></section></section>
+    <section prefix="(a)">This section applies to an individual who:<section prefix="(1)">is eligible for membership in the Judges' Retirement System as provided in &#xA7; 27-201(a) of this title; and</section><section prefix="(2)"><section prefix="(i)">is receiving a service retirement allowance from the Employees' Pension System at the time of appointment in item (1) of this subsection; or</section><section prefix="(ii)"><section prefix="1.">has earned a vested allowance from the Employees' Pension System; and</section><section prefix="2.">begins receiving the vested allowance while serving as a judge described in item (1) of this subsection.</section></section></section></section>
     <section prefix="(b)">An individual described in subsection (a) of this section may elect to receive service credit in the Judges' Retirement System.</section>
     <section prefix="(c)">
       <section prefix="(1)">An individual described in subsection (a) of this section who elects to receive service credit in the Judges' Retirement System under subsection (b) of this section shall complete and file a form provided by the Board of Trustees directing the Board of Trustees to suspend the individual's allowance while the individual is receiving service credit in the Judges' Retirement System.</section>
       <section prefix="(2)">
-        <section prefix="(i)">An individual shall file a form described in paragraph (1) of this subsection with the Board of Trustees:</section>
+        <section prefix="(i)">An individual shall file a form described in paragraph (1) of this subsection with the Board of Trustees:<section prefix="1.">if the individual is receiving a service retirement allowance from the Employees' Pension System prior to serving as a judge, at the time the individual becomes a member of the Judges' Retirement System; or</section><section prefix="2.">if the individual has earned a vested allowance from the Employees' Pension System and becomes eligible to receive that allowance after the individual becomes a member of the Judges' Retirement System, at the time the individual applies to receive the vested allowance.</section></section>
         <section prefix="(ii)">A temporary suspension under this subsection shall begin on the first day of the month following the month in which the Board of Trustees received the individual's request to temporarily suspend the allowance.</section>
       </section>
     </section>

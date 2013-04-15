@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-712" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-712</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>712</order_by>
   <text>
     <section prefix="(a)">If the employer or its insurer directs or requests a covered employee or, in case of death, the personal representative of the covered employee to submit the claim application form to the insurer, on receipt of the claim application form the insurer immediately shall file the claim application form with the Commission.</section>
     <section prefix="(b)">The employer or insurer may not advise the covered employee or the personal representative of the covered employee that the claim has been denied.</section>

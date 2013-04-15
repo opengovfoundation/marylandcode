@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-212" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">Except by order of court in a proceeding affecting the right of possession, an action for eviction or distress may not be brought against a person in emergency management service or person suffering injury or damage if:<section prefix="(1)">the rent for the premises does not exceed $150 per month; and</section><section prefix="(2)">the premises are occupied for dwelling purposes by the spouse, children, or other dependents of the person in emergency management service or person suffering injury or damage.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">In a proceeding affecting the right of possession:<section prefix="(i)"/><section prefix="(ii)">the court may issue any other order.</section></section>
+      <section prefix="(1)">In a proceeding affecting the right of possession:<section prefix="(i)"><section prefix="1.">on its own initiative the court may stay the proceeding for a period not exceeding 3 months; and</section><section prefix="2.">subject to paragraph (2) of this subsection, on motion the court shall stay the proceeding for a period not exceeding 3 months; or</section></section><section prefix="(ii)">the court may issue any other order.</section></section>
       <section prefix="(2)">The court need not stay the action if the court finds that the ability of a tenant to pay the agreed rent was not materially affected because the tenant was a person in emergency management service or person suffering injury or damage.</section>
     </section>
   </text>

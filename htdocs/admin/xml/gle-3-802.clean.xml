@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-802" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,9 +16,9 @@
       </section>
       <section prefix="(4)">"Immediate family" means a child, spouse, or parent.</section>
       <section prefix="(5)">
-        <section prefix="(i)">"Leave with pay" means paid time away from work that is earned and available to an employee:</section>
+        <section prefix="(i)">"Leave with pay" means paid time away from work that is earned and available to an employee:<section prefix="1.">based on hours worked; or</section><section prefix="2.">as an annual grant of a fixed number of hours or days of leave for performance of service.</section></section>
         <section prefix="(ii)">"Leave with pay" includes sick leave, vacation time, paid time off, and compensatory time.</section>
-        <section prefix="(iii)">"Leave with pay" does not include:</section>
+        <section prefix="(iii)">"Leave with pay" does not include:<section prefix="1.">a benefit provided under an employee welfare benefit plan subject to the federal Employee Retirement Income Security Act of 1974;</section><section prefix="2.">an insurance benefit, including benefits from an employer's self-insured plan;</section><section prefix="3.">workers' compensation;</section><section prefix="4.">unemployment compensation;</section><section prefix="5.">a disability benefit; or</section><section prefix="6.">a similar benefit.</section></section>
       </section>
       <section prefix="(6)">"Parent" means an adoptive, biological, or foster parent, a stepparent, a legal guardian, or a person standing in loco parentis.</section>
     </section>

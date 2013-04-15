@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-310" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraphs (2), (3), (4), (5), and (6) of this subsection and subsection (f) of this section, any student who attends a community college in this State and is not a resident of this State shall pay, in addition to the student tuition and fees payable by a county resident, an out-of-state fee, at least equal to:<section prefix="(i)">60% of the county share per full-time equivalent student as determined under &#xA7; 16-305 of this subtitle; and</section><section prefix="(ii)">The marginal cost component of the State share per full-time equivalent student as determined under &#xA7; 16-305(c)(5) of this subtitle.</section></section>
@@ -28,8 +28,8 @@
         <section prefix="(ii)">Any student attending a community college in this State who receives a tuition waiver as provided by this paragraph shall not be included as an in-State resident for computation of State aid to community colleges in accordance with &#xA7; 16-305 of this subtitle.</section>
       </section>
       <section prefix="(5)">
-        <section prefix="(i)">Each board of community college trustees shall waive the out-of-state fee as determined in paragraph (1) of this subsection for a student who resides in this State but does not meet the in-State residency requirement for tuition purposes and is a public school teacher employed by a county board if:</section>
-        <section prefix="(ii)">A public school teacher is responsible for the difference between in-State and out-of-state tuition if:</section>
+        <section prefix="(i)">Each board of community college trustees shall waive the out-of-state fee as determined in paragraph (1) of this subsection for a student who resides in this State but does not meet the in-State residency requirement for tuition purposes and is a public school teacher employed by a county board if:<section prefix="1."/><section prefix="2.">The teacher resides in this State and is employed as a full-time public school teacher; and</section><section prefix="3.">The teacher has been employed as a public school teacher in the State for less than a year.</section></section>
+        <section prefix="(ii)">A public school teacher is responsible for the difference between in-State and out-of-state tuition if:<section prefix="1.">The teacher resigns or is terminated from employment with the county board; and</section><section prefix="2.">The teacher remains enrolled in the course or program at a community college during the teacher's first year as a Maryland resident.</section></section>
         <section prefix="(iii)">Any public school teacher attending a community college in this State who satisfies the requirements established in this paragraph shall be included as an in-State resident for computation of the State aid to community colleges in accordance with &#xA7; 16-305 of this subtitle.</section>
       </section>
       <section prefix="(6)">
@@ -53,7 +53,10 @@
     <section prefix="(c)">Any county may appropriate money to pay the out-of-county or out-of-region fees for county residents who attend a community college in this State that is not supported by that county.</section>
     <section prefix="(d)">
       <section prefix="(1)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Notwithstanding subsection (b) of this section, subject to subsubparagraph 2 of this subparagraph, if any student is a resident of this State and enrolls in an instructional program that the Commission designates as a health manpower shortage program or a statewide or regional program:</section>
+          <section prefix="2.">For a student who attends a community college not supported by the county in which the student resides, at the discretion of the board of community college trustees:</section>
+        </section>
         <section prefix="(ii)">For any fiscal year beginning on or after July 1, 2011, if State appropriations to the Commission for payment of any applicable out-of-county fee under this paragraph do not provide sufficient funds to fully reimburse applicable out-of-county fees, the Commission shall prorate the reimbursement for the out-of-county fees.</section>
       </section>
       <section prefix="(2)">The Commission may make payments to effectuate the provisions of this section from funds specifically appropriated for this purpose as provided in the State budget or any supplemental budget request.</section>

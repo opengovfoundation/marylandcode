@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-202" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">Subject to the requirements of this section, a policy may be issued to a labor union, or similar employee organization, which shall be deemed to be the policyholder, to insure members of the union or organization for the benefit of persons other than the union or organization or any of its officials, representatives, or agents.</section>
     <section prefix="(b)">The members eligible for insurance under the policy shall be all of the members of the union or organization, or all of any class or classes of members.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-422" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-422</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>422</order_by>
   <text>
     <section prefix="(a)">Free-play console machines and free-play pinball machines may not be licensed or kept for public use in Wicomico County.</section>
     <section prefix="(b)">Pinball machines may be licensed under Part III of this subtitle and kept for public use in Wicomico County if they:<section prefix="(1)">are amusement devices only; and</section><section prefix="(2)">are not free-play console machines or free-play pinball machines.</section></section>

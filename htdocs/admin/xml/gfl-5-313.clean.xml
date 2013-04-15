@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-313" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 5-331 of this subtitle, a petition for guardianship shall precede a petition for adoption under this subtitle.</section>
     <section prefix="(b)">Only the individual who would be subject to guardianship or a local department may file a petition for guardianship under this Part II of this subtitle.</section>

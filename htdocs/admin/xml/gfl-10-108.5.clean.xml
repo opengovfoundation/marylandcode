@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-108.5" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-108.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108.5</order_by>
   <text>
     <section prefix="(a)">In any case in which a court has ordered an obligor to send support payments directly to an obligee, the Administration may direct an obligor to forward any support payments through a support enforcement agency if the Administration has:<section prefix="(1)">sent a notice to the obligor directing the obligor to send support payments through a support enforcement agency;</section><section prefix="(2)">advised the obligee that it is issuing a notice to change payees under this section; and</section><section prefix="(3)">filed a notice with the court that the Administration is directing the obligor to change payees.</section></section>
     <section prefix="(b)">When an obligor receives notice to change payees under subsection (a) of this section, the obligor shall forward all future support payments to the support enforcement agency designated in the notice.</section>

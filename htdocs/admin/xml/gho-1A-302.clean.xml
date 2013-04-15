@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="1A-302" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-1A-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">To qualify for a license, an applicant shall be an individual who meets the requirements of this section.</section>
-    <section prefix="(b)">The applicant shall:<section prefix="(1)">Be of good moral character;</section><section prefix="(2)">Be at least 18 years old;</section><section prefix="(3)">Demonstrate competence in performing acupuncture by meeting one of the following standards for education or training:<section prefix="(i)">Graduation from a course of training of at least 1,800 hours in acupuncture, including 300 clinical hours, that is:</section><section prefix="(ii)">Achievement of a:</section></section><section prefix="(4)">Demonstrate the ability to communicate in the English language; and</section><section prefix="(5)">Meet any other qualifications that the Board establishes in regulations.</section></section>
+    <section prefix="(b)">The applicant shall:<section prefix="(1)">Be of good moral character;</section><section prefix="(2)">Be at least 18 years old;</section><section prefix="(3)">Demonstrate competence in performing acupuncture by meeting one of the following standards for education or training:<section prefix="(i)">Graduation from a course of training of at least 1,800 hours in acupuncture, including 300 clinical hours, that is:<section prefix="1.">Approved by the Maryland Higher Education Commission;</section><section prefix="2.">Accredited by the Accreditation Commission for Acupuncture and Oriental Medicine; or</section><section prefix="3.">Found by the Board to be equivalent to a course approved by the Accreditation Commission for Acupuncture and Oriental Medicine; or</section></section><section prefix="(ii)">Achievement of a:<section prefix="1.">Diplomate in acupuncture from the National Certification Commission for Acupuncture and Oriental Medicine; or</section><section prefix="2.">Passing score on an examination that is determined by the Board to be equivalent to the examination given by the National Certification Commission for Acupuncture and Oriental Medicine;</section></section></section><section prefix="(4)">Demonstrate the ability to communicate in the English language; and</section><section prefix="(5)">Meet any other qualifications that the Board establishes in regulations.</section></section>
   </text>
 </law>

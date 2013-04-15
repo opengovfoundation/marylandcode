@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-476" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-476</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>476</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In a delinquency proceeding in which the Secretary has been appointed receiver, the Secretary may:<section prefix="(i)">appoint one or more special deputy secretaries to act for the Secretary; and</section><section prefix="(ii)">employ counsel, clerks, and assistants.</section></section>

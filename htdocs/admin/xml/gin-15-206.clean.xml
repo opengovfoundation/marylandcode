@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-206" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">A policy provision that is not subject to this subtitle may not make the policy or any part of the policy less favorable in any respect to the insured or beneficiary than the provisions of the policy that are subject to this subtitle.</section>
     <section prefix="(b)">A policy that is delivered or issued for delivery in the State in violation of this subtitle is valid but shall be construed as provided in this subtitle.</section>

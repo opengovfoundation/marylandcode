@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-214.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-214.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214.1</order_by>
   <text>
     <section prefix="(1)">The provisions of &#xA7; 2A-214 do not apply to leases of consumer goods, as defined by &#xA7; 9-109, services, or both.</section>
     <section prefix="(2)">Any oral or written language used by a lessor of consumer goods and services, which attempts to exclude or modify any implied warranties of merchantability and fitness for a particular purpose or to exclude or modify the consumer's remedies for breach of those warranties, is unenforceable. However, the lessor may recover from the manufacturer any damages resulting from breach of the implied warranty of merchantability or fitness for a particular purpose.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-301" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-24-301</section_number>
-  <catch_line/>
+  <catch_line>A member is entitled to:...</catch_line>
+  <order_by>301</order_by>
   <text>A member is entitled to:<section prefix=""><section prefix="(1)">eligibility service as provided in &#xA7;&#xA7; 24-303 through 24-306 of this subtitle; and</section><section prefix="(2)">creditable service as provided in &#xA7; 24-307 of this subtitle.</section></section></text>
 </law>

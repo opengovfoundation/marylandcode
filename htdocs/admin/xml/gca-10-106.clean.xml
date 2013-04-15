@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-106" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-10-106</section_number>
-  <catch_line/>
+  <catch_line>A limited partnership may carry on any business that a partnership may carry on, except the business...</catch_line>
+  <order_by>106</order_by>
   <text>A limited partnership may carry on any business that a partnership may carry on, except the business of acting as an insurer.</text>
 </law>

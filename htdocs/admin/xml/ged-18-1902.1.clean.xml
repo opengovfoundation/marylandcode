@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-1902.1" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-1902.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1902.1</order_by>
   <text>
     <section prefix="(a)">There is a Program entitled the College Savings Plans of Maryland.</section>
     <section prefix="(b)">The purpose of the Program is to provide for the administration by the Board of the Maryland Prepaid College Trust, the Maryland College Investment Plan, and the Maryland Broker-Dealer College Investment Plan.</section>

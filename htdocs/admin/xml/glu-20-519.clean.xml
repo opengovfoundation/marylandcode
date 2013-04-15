@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-519" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-20-519</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>519</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"County unit" includes:<section prefix="(1)">the Commission;</section><section prefix="(2)">the county Department of Environmental Resources;</section><section prefix="(3)">the county Department of Public Works and Transportation;</section><section prefix="(4)">the county fire/EMS department;</section><section prefix="(5)">the county health department; and</section><section prefix="(6)">the Washington Suburban Sanitary Commission.</section></section>

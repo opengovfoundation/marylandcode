@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="3A-309" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-3A-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">There is a Major Information Technology Development Project Fund.</section>
     <section prefix="(b)">The purpose of the Fund is to support major information technology development projects.</section>
@@ -25,7 +25,7 @@
     <section prefix="(k)">A unit of State government or local government may submit a request to the Secretary to support the cost of an information technology project with moneys under subsection (j) of this section.</section>
     <section prefix="(l)">
       <section prefix="(1)">On or before November 1 of each year, the Secretary shall report to the Governor, the Secretary of Budget and Management, and to the budget committees of the General Assembly and submit a copy of the report to the General Assembly, in accordance with &#xA7; 2-1246 of the State Government Article.</section>
-      <section prefix="(2)">The report shall include:<section prefix="(i)">the financial status of the Fund and a summary of its operations for the preceding fiscal year;</section><section prefix="(ii)">an accounting for the preceding fiscal year of all moneys from each of the revenue sources specified in subsection (e) of this section, including any expenditures made from the Fund; and</section><section prefix="(iii)">for each project receiving moneys from the Fund in the preceding fiscal year and for each major information technology development project receiving funding from any source other than the Fund in the preceding fiscal year:</section></section>
+      <section prefix="(2)">The report shall include:<section prefix="(i)">the financial status of the Fund and a summary of its operations for the preceding fiscal year;</section><section prefix="(ii)">an accounting for the preceding fiscal year of all moneys from each of the revenue sources specified in subsection (e) of this section, including any expenditures made from the Fund; and</section><section prefix="(iii)">for each project receiving moneys from the Fund in the preceding fiscal year and for each major information technology development project receiving funding from any source other than the Fund in the preceding fiscal year:<section prefix="1.">the status of the project;</section><section prefix="2.">a comparison of estimated and actual costs of the project;</section><section prefix="3.">any known or anticipated changes in scope or costs of the project;</section><section prefix="4.">an evaluation of whether the project is using best practices; and</section><section prefix="5.">a summary of any monitoring and oversight of the project from outside the agency in which the project is being developed, including a description of any problems identified by any external review and any corrective actions taken.</section></section></section>
     </section>
     <section prefix="(m)">On or before January 15 of each year, for each major information technology development project currently in development or for which operations and maintenance funding is being provided in accordance with subsection (i)(3) of this section, subject to &#xA7; 2-1246 of the State Government Article, the Secretary shall provide a summary report to the Department of Legislative Services with the most up-to-date project information including:<section prefix="(1)">project status;</section><section prefix="(2)">any schedule, cost, and scope changes since the last annual report;</section><section prefix="(3)">a risk assessment including any problems identified by any internal or external review and any corrective actions taken; and</section><section prefix="(4)">any change in the monitoring or oversight status.</section></section>
   </text>

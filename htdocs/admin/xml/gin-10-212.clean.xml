@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-212" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">Subject to the hearing provisions of Title 2 of this article, the Commissioner may suspend or revoke a license if the licensee:<section prefix="(1)">has violated this article;</section><section prefix="(2)">has violated any law while acting as an adviser;</section><section prefix="(3)">has made a material misstatement in the application for the license;</section><section prefix="(4)">has been guilty of fraudulent or dishonest practices; or</section><section prefix="(5)">has demonstrated incompetency or untrustworthiness to act as an adviser.</section></section>
     <section prefix="(b)">

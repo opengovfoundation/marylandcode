@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1105" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1105</order_by>
   <text>
     <section prefix="(a)">The seller may not increase the layaway price of the consumer goods sold under a layaway agreement.</section>
     <section prefix="(b)">If, within 10 calendar days after the execution of a layaway agreement, the seller reduces the selling price of existing items in his stock or inventory identical to those being held for a buyer, the seller shall credit the buyer for the difference between the original layaway price and the reduced price.</section>

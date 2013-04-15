@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-1006" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-1006</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006</order_by>
   <text>
     <section prefix="(a)">A foreign limited liability company may cancel its registration by filing with the Department a certificate of cancellation executed by an authorized person.</section>
     <section prefix="(b)">The filing of a certificate of cancellation does not terminate the authority of the Department to accept service of process on the foreign limited liability company with respect to causes of action arising out of doing business in this State.</section>

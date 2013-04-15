@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-414.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-414.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>414.1</order_by>
   <text>
     <section prefix="(a)">In this section, "video display equipment" means equipment capable of displaying a dynamic visual image, other than text, from a digital video disc or other storage device.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a motor vehicle driven on a highway in the State may be equipped with video display equipment only if the video display equipment is turned off when the screen on the video display equipment is visible to the driver.</section>

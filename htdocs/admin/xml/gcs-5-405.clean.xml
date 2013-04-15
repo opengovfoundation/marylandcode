@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-405" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-5-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">An inmate in the Baltimore City Detention Center who is sick, injured, or disabled shall:<section prefix="(1)">reimburse the State, as appropriate, for the payment of medical expenses; and</section><section prefix="(2)">provide the warden with any information relating to:<section prefix="(i)">the existence of any health insurance, group health plan, or prepaid medical care coverage under which the inmate is insured or covered;</section><section prefix="(ii)">the inmate's eligibility for benefits under the Maryland Medical Assistance Program;</section><section prefix="(iii)">the name and address of the third party payor; and</section><section prefix="(iv)">any policy or other identifying number relating to items (i) through (iii) of this item.</section></section></section>
     <section prefix="(b)">

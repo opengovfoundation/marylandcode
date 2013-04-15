@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11A-116" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11A-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "purchase money" includes any money, note, security, or other monetary consideration paid by a purchaser for a time-share.</section>

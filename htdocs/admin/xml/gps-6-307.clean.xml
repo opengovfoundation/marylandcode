@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-307" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-6-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The State Fire Marshal shall inspect for fire exits and reasonable safety standards:<section prefix="(i)">all institutions owned by the State or a county or municipal corporation; and</section><section prefix="(ii)">all schools, theaters, churches, and other places of public assembly.</section></section>
@@ -24,7 +24,7 @@
       <section prefix="(1)">In this subsection, "trade secret" means a confidential formula, pattern, device, or compilation of information that:<section prefix="(i)">is used in an employer's business;</section><section prefix="(ii)">gives the employer an opportunity to obtain an advantage over competitors who do not know or use the information; and</section><section prefix="(iii)">is known only to the employer and those employees to whom it is necessary to confide the information.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, any information reported to or otherwise obtained by the State Fire Marshal or designee of the State Fire Marshal in connection with an inspection or proceeding under this subtitle that contains or might reveal a trade secret is confidential.</section>
-        <section prefix="(ii)">Information described in subparagraph (i) of this paragraph may be disclosed only:</section>
+        <section prefix="(ii)">Information described in subparagraph (i) of this paragraph may be disclosed only:<section prefix="1.">to other officers or employees responsible for carrying out this subtitle; or</section><section prefix="2.">if relevant in a proceeding under this subtitle.</section></section>
       </section>
       <section prefix="(3)">In a proceeding under this subtitle, the State Fire Marshal, designee of the State Fire Marshal, or a court of competent jurisdiction, as applicable, shall issue appropriate orders to protect the confidentiality of a trade secret.</section>
     </section>

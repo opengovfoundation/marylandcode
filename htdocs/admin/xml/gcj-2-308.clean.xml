@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-308" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">A sheriff shall collect the fees of a clerk, register, attorney, or other officer when requested to do so.</section>
     <section prefix="(b)">A sheriff is answerable for all penalties imposed on an inhabitant of his county by a court of the State unless he shows that the person liable for the penalty is insolvent.</section>

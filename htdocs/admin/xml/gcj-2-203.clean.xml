@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-203</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise provided by law or order of court, any person may, without charge, inspect, examine...</catch_line>
+  <order_by>203</order_by>
   <text>Unless otherwise provided by law or order of court, any person may, without charge, inspect, examine, and make memoranda or notes from an index or paper filed with the clerk of a court.</text>
 </law>

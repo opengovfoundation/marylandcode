@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-213" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">This section applies to:<section prefix="(1)">an omission or mistake previously made by the Commission; or</section><section prefix="(2)">a judgment or decree previously rendered on a property if front foot benefit charge payments have not been made on the property.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">When the Commission discovers an omission or mistake or within a reasonable time after a court renders a judgment or decree, the Commission may impose a front foot benefit charge at a rate and in a classification that it could have imposed originally or that a court orders, including any increases applied to the project of which the property is a part, if:<section prefix="(i)">the Commission discovers that property subject to a front foot benefit charge:</section><section prefix="(ii)">a property owner did not receive notice as required by &#xA7; 25-204 of this subtitle; or</section><section prefix="(iii)">the court set aside the service of notice by judgment or decree.</section></section>
+      <section prefix="(1)">When the Commission discovers an omission or mistake or within a reasonable time after a court renders a judgment or decree, the Commission may impose a front foot benefit charge at a rate and in a classification that it could have imposed originally or that a court orders, including any increases applied to the project of which the property is a part, if:<section prefix="(i)">the Commission discovers that property subject to a front foot benefit charge:<section prefix="1.">mistakenly has not had a front foot benefit charge imposed;</section><section prefix="2.">has had the charge imposed but was listed in the wrong name; or</section><section prefix="3.">has had the charge imposed under an incorrect description; or</section></section><section prefix="(ii)">a property owner did not receive notice as required by &#xA7; 25-204 of this subtitle; or</section><section prefix="(iii)">the court set aside the service of notice by judgment or decree.</section></section>
       <section prefix="(2)">The front foot benefit charge imposed under this section shall run for the period of years the benefit charge would have run if it had been imposed at the proper time or in the proper manner.</section>
     </section>
   </text>

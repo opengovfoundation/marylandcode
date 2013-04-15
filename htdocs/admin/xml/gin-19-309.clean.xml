@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-309" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other law to the contrary, an insurer, for any reason not prohibited by law, may terminate any policy or insurance contract for which an antiarson application or alternative antiarson application is required under this subtitle at any time within 90 days after the insurer accepts the antiarson application or alternative antiarson application.</section>
     <section prefix="(b)">An insurer shall state the specific reasons for terminating a policy or insurance contract in the notice of termination to the insured.</section>

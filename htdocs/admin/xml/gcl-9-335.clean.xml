@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-335" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-335</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>335</order_by>
   <text>
     <section prefix="(a)">A security interest may be created in an accession and continues in collateral that becomes an accession.</section>
     <section prefix="(b)">If a security interest is perfected when the collateral becomes an accession, the security interest remains perfected in the collateral.</section>

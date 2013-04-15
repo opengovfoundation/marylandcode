@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-120.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-120.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -36,10 +36,10 @@
       <section prefix="(2)">The regulations shall:<section prefix="(i)">Address quality, access, and cost;</section><section prefix="(ii)">Establish a process and minimum standards for obtaining a certificate of conformance;</section><section prefix="(iii)">Establish a process and minimum standards for obtaining and maintaining a certificate of ongoing performance;</section><section prefix="(iv)">Set an appropriate time period for the expiration of a certificate of ongoing performance;</section><section prefix="(v)">Require, as a condition of the issuance of a certificate of conformance or a certificate of ongoing performance to an acute general hospital without on-site cardiac surgery services, that the acute general hospital agree to voluntarily relinquish its authority to provide emergency PCI services or elective PCI services if the hospital fails to meet the applicable standards established by the Commission;</section><section prefix="(vi)">Establish a process for an acute general hospital that is out of compliance with minimum standards for a certificate of ongoing performance to return to good standing;</section><section prefix="(vii)">Require that an acute general hospital, except for an acute general hospital located in a part of the State that does not have sufficient access to emergency PCI services, have provided emergency PCI services in accordance with established standards before seeking a certificate of conformance for elective PCI services;</section><section prefix="(viii)">Prohibit an acute general hospital from providing elective PCI services unless the acute general hospital also provides emergency PCI services;</section><section prefix="(ix)">Incorporate, to the extent appropriate, the standards for cardiac surgery services, emergency PCI services, and elective PCI services recommended by the clinical advisory group established under paragraph (3) of this subsection;</section><section prefix="(x)">Include requirements for peer or independent review, consistent with the ACCF/AHA/SCAI Guidelines for Percutaneous Coronary Intervention (Report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines and the Society for Cardiovascular Angiography and Interventions), of difficult or complicated cases and for randomly selected cases; and</section><section prefix="(xi)">For a certificate of conformance for elective PCI services, give weight to the experience, performance, investment, and scope of interventional capabilities of an applicant hospital that was providing emergency PCI services on January 1, 2012.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The Commission shall establish a clinical advisory group to advise the Commission and recommend standards for cardiac surgery services, emergency PCI services, and elective PCI services for inclusion in regulations adopted under this subsection.</section>
-        <section prefix="(ii)">The clinical advisory group shall be composed of experts in cardiac surgery services and PCI services, including:</section>
+        <section prefix="(ii)">The clinical advisory group shall be composed of experts in cardiac surgery services and PCI services, including:<section prefix="1.">Clinicians and representatives from hospitals in the State with and without on-site cardiac surgery services and with and without PCI services;</section><section prefix="2.">At least one representative of an acute general hospital that is not part of a merged asset system and provides only emergency PCI services; and</section><section prefix="3.">Other persons with needed expertise from inside and outside the State.</section></section>
       </section>
       <section prefix="(4)">
-        <section prefix="(i)">On or before September 30, 2013, after obtaining advice from the clinical advisory group and other appropriate stakeholders, the Commission shall:</section>
+        <section prefix="(i)">On or before September 30, 2013, after obtaining advice from the clinical advisory group and other appropriate stakeholders, the Commission shall:<section prefix="1.">Develop recommended regulations under this subsection;</section><section prefix="2.">Post the recommended regulations on its Web site for public comment; and</section><section prefix="3.">Submit the recommended regulations to the Governor and, in accordance with &#xA7; 2-1246 of the State Government Article, the Senate Finance Committee and the House Health and Government Operations Committee.</section></section>
         <section prefix="(ii)">The Senate Finance Committee and the House Health and Government Operations Committee shall have 60 days from receipt of the recommended regulations for review and comment.</section>
       </section>
     </section>

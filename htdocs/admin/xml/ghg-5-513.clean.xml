@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-513" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-513</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>513</order_by>
   <text>
     <section prefix="(a)">On taking custody of the body of a decedent in accordance with all authorizations required by law, a funeral establishment or crematory shall maintain the body in a manner that provides for complete coverage of the body and prevents leakage or spillage except during:<section prefix="(1)">Identification, embalming, or preparation of an unembalmed body for final disposition;</section><section prefix="(2)">Restoration and dressing of a body in preparation for final disposition; and</section><section prefix="(3)">Viewing during a visitation or funeral service.</section></section>
     <section prefix="(b)">If the unembalmed body of a decedent is to be stored for more than 48 hours before final disposition, a funeral establishment or crematory shall maintain the body with refrigeration and at a temperature determined by regulation.</section>
@@ -18,7 +18,7 @@
     <section prefix="(f)">A funeral establishment, crematory, or transportation service may not transport or store the body of a decedent together with animal remains in the same confined space.</section>
     <section prefix="(g)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, while the body of a decedent is in the custody of a funeral establishment or crematory in the State, the body may not be transported for preparation or storage to a facility that is not within the jurisdiction of the State, licensed by the State Board of Morticians and Funeral Directors, or permitted by the Office of Cemetery Oversight.</section>
-      <section prefix="(2)">The body of a decedent may be transported for preparation or storage to a facility that is not within the jurisdiction of the State, licensed by the State Board of Morticians and Funeral Directors, or permitted by the Office of Cemetery Oversight if:<section prefix="(i)">The facility has entered into a written agreement with the State Board of Morticians and Funeral Directors or the Office of Cemetery Oversight to allow the State to make unannounced inspections of the facility; and</section><section prefix="(ii)">The person authorized to arrange for the final disposition of the body under &#xA7; 5-509 of this subtitle:</section></section>
+      <section prefix="(2)">The body of a decedent may be transported for preparation or storage to a facility that is not within the jurisdiction of the State, licensed by the State Board of Morticians and Funeral Directors, or permitted by the Office of Cemetery Oversight if:<section prefix="(i)">The facility has entered into a written agreement with the State Board of Morticians and Funeral Directors or the Office of Cemetery Oversight to allow the State to make unannounced inspections of the facility; and</section><section prefix="(ii)">The person authorized to arrange for the final disposition of the body under &#xA7; 5-509 of this subtitle:<section prefix="1.">Has given written permission for the body to be transported to the facility; or</section><section prefix="2."/></section></section>
     </section>
   </text>
 </law>

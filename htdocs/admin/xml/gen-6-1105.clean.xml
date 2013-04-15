@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-1105" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-1105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1105</order_by>
   <text>
     <section prefix="(a)">Marketers shall develop and provide or cause to be provided a generic notice placard to each retailer of a unit or product with an easily removable rechargeable battery.</section>
     <section prefix="(b)">The notice placard shall contain substantially the following information:<section prefix="(1)">After December 31, 1994, disposal of rechargeable batteries or products powered by nonremovable rechargeable batteries may only be in accordance with a State-approved collection system;</section><section prefix="(2)">Under State law, marketers of rechargeable batteries and products powered by nonremovable rechargeable batteries shall provide a special collection system for these items by January 1, 1995; and</section><section prefix="(3)">Rechargeable batteries and rechargeable products shall contain specific information on proper methods of collection and disposal.</section></section>

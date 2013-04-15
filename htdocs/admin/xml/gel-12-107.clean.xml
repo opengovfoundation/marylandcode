@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-107" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-12-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">In this section, "petitioner" includes a counterpetitioner.</section>
     <section prefix="(b)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, each petitioner shall pay the cost of a recount requested under this subtitle and the petitioner's bond is liable for the cost.</section>
-      <section prefix="(2)">The petitioner is not liable for the costs of the recount if:<section prefix="(i)">the outcome of the election is changed;</section><section prefix="(ii)">the petitioner has gained a number of votes, for the petitioner's candidacy or for or against the question that is the subject of the petition, equal to 2% or more of the total votes cast for the office or on the question, in all precincts being recounted; or</section><section prefix="(iii)"/></section>
+      <section prefix="(2)">The petitioner is not liable for the costs of the recount if:<section prefix="(i)">the outcome of the election is changed;</section><section prefix="(ii)">the petitioner has gained a number of votes, for the petitioner's candidacy or for or against the question that is the subject of the petition, equal to 2% or more of the total votes cast for the office or on the question, in all precincts being recounted; or</section><section prefix="(iii)"><section prefix="1.">the margin of difference in the number of votes received by an apparent winner and the losing candidate with the highest number of votes for an office is 0.1% or less of the total votes cast for those candidates; or</section><section prefix="2.">in the case of a question, the margin of difference between the number of votes cast for and the number cast against the question is 0.1% or less.</section></section></section>
     </section>
     <section prefix="(c)">If the petitioner is not liable for the costs of the recount as provided in subsection (b) of this section, a county shall pay the costs of the recount in that county.</section>
   </text>

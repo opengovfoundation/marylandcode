@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-502" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Every owner of a dam on waters of the State shall construct on the dam and keep repaired at least one fish ladder if the Department deems it necessary for ascending and descending of fish. Every fish ladder shall be constructed to allow anadromous fish free course up and down the waters at all times.</section>
     <section prefix="(b)">Any person intending to construct a dam on waters of the State shall file an application with the Department. Each application shall contain sufficient information to enable the Department to determine the necessity for constructing a fish ladder. The Department shall advise the applicant of its determination.</section>

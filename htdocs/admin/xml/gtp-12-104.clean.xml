@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-104" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-12-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the consideration payable, including the amount of any mortgage or deed of trust assumed by the grantee, or the principal amount of the secured debt incurred, shall be described in:<section prefix="(1)">the recitals or the acknowledgment of the instrument of writing; or</section><section prefix="(2)">an affidavit under oath that accompanies the instrument of writing and that is signed by a party to the instrument of writing or by an agent of a party.</section></section>
     <section prefix="(b)">Security agreements filed in accordance with &#xA7; 9-502 of the Maryland Uniform Commercial Code are governed by the requirements of that section and not by subsection (a) of this section.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-7-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, in a case in which a sentence of death has been imposed, the circuit court may not exercise jurisdiction over a proceeding under this title unless the petition is filed within 210 days after:<section prefix="(1)">the Supreme Court of the United States passes an order denying a petition for a writ of certiorari;</section><section prefix="(2)">the Supreme Court of the United States makes a decision affirming the sentence of death; or</section><section prefix="(3)">if no review is sought, the time for seeking review by the Supreme Court of the United States expires.</section></section>
     <section prefix="(b)">The circuit court may extend the period within which the petition shall be filed if good cause for the extension is shown.</section>

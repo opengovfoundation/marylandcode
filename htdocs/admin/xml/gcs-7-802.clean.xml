@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-802" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">If an inmate is sentenced to the Division of Correction and, at the time of sentencing, the sentencing judge makes a written request for notification, the Commission shall:<section prefix="(1)">at least 90 days before the parole release hearing, notify the sentencing judge in writing that a parole release hearing is scheduled for the inmate; and</section><section prefix="(2)">promptly notify the sentencing judge of the Commission's final decision regarding parole for the inmate.</section></section>
     <section prefix="(b)">The Commission shall make any recommendation made by the sentencing judge at the time of sentencing available for review by the inmate or the inmate's representative under &#xA7; 7-303(b) of this title.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-206" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-9-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Except as provided in paragraph (2) of this subsection, a heading shall be printed at the top of the ballot and shall contain, in the following order:<section prefix="(1)">the words "Official Ballot";</section><section prefix="(2)">the type of election, i.e., regular or special, primary or general, and any other information required to identify the election being held;</section><section prefix="(3)">the date of the election;</section><section prefix="(4)">the words "State of Maryland" and the name of the county;</section><section prefix="(5)">in a primary election, the name of the political party or the words "nonpartisan ballot", as applicable, for which the ballot or a portion of the ballot is to be used; and</section><section prefix="(6)">if more than one ballot style will be used in the county in the election, the ballot style indicator.</section></section>
     <section prefix="(b)">The provisions of subsection (a) of this section do not apply to a voting machine ballot if the State Board determines there is insufficient space.</section>

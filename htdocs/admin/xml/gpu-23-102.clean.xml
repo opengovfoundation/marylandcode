@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-102" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">A privately owned or municipally owned water supply or sanitary sewer system or part of a system, water main, sewer, water purification or sewage disposal plant, or connection with these facilities may not be constructed or installed, except as provided in this section.</section>
     <section prefix="(b)">A municipality or the property owners or residents of a locality in the sanitary district may construct and operate a water supply or sanitary sewer system or part of a system at their own expense if the Commission decides that it is inexpedient or impracticable to build the system due to remoteness from the Commission's general system or for other reasons.</section>

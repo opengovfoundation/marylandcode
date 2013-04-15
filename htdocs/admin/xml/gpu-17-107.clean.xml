@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-107" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-17-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The members of the Commission are entitled to the following annual salaries:<section prefix="(i)">chair $13,500;</section><section prefix="(ii)">vice chair $13,000; and</section><section prefix="(iii)">commissioners $13,000.</section></section>

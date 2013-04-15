@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-142" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-142</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>142</order_by>
   <text>
     <section prefix="(a)">A person may not obliterate, remove, change, or alter the manufacturer's identification mark or number on a firearm.</section>
     <section prefix="(b)">If on trial for a violation of this section possession of the firearm by the defendant is established, the defendant is presumed to have obliterated, removed, changed, or altered the manufacturer's identification mark or number on the firearm.</section>

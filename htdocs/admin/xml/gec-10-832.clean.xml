@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-832" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-832</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>832</order_by>
   <text>
     <section prefix="(a)">To carry out the purposes of the Program, the Center shall award financial assistance under this part.</section>
     <section prefix="(b)">The Center shall consult with the Administration, the Department, and other appropriate governmental units in the development of the Program.</section>

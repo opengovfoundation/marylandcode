@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-604" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a charter amendment by the board of directors in accordance with &#xA7; 2-105(a)(13) or &#xA7; 2-309(e) of this title.</section>
     <section prefix="(b)">If there is any stock outstanding or subscribed for and entitled to be voted on the charter amendment, it shall be approved as provided in this section.</section>
     <section prefix="(c)">Except as provided in &#xA7; 2-112 of this title, the board of directors of a corporation proposing a charter amendment shall:<section prefix="(1)">Adopt a resolution which sets forth the proposed amendment and declares that it is advisable; and</section><section prefix="(2)">Direct that the proposed amendment be submitted for consideration at either an annual or a special meeting of the stockholders.</section></section>
     <section prefix="(d)">
       <section prefix="(1)">Notice which states that a purpose of the meeting will be to act on the proposed amendment shall be given by the corporation in the manner required by Subtitle 5 of this title to:<section prefix="(i)">Each stockholder entitled to vote on the proposed amendment; and</section><section prefix="(ii)">Each stockholder not entitled to vote on the proposed amendment if the contract rights of his stock, as expressly set forth in the charter, would be altered by the amendment.</section></section>
-      <section prefix="(2)">The notice shall:<section prefix="(i)">Include a copy of the amendment or a summary of the changes it will effect; or</section><section prefix="(ii)"/></section>
+      <section prefix="(2)">The notice shall:<section prefix="(i)">Include a copy of the amendment or a summary of the changes it will effect; or</section><section prefix="(ii)"><section prefix="1.">Identify a website at which the amendment or a summary of the changes it will effect may be accessed; and</section><section prefix="2.">Include a telephone number or an address where the stockholder may request a paper copy of the amendment or summary without charge.</section></section></section>
     </section>
     <section prefix="(e)">The proposed amendment shall be approved by the stockholders of the corporation by the affirmative vote of two thirds of all the votes entitled to be cast on the matter.</section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-502" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The name of a corporation must include one of the following words or an abbreviation of one of the following words:<section prefix="(i)">"Company", if it is not preceded by the word "and" or a symbol for the word "and";</section><section prefix="(ii)">"Corporation";</section><section prefix="(iii)">"Incorporated"; or</section><section prefix="(iv)">"Limited".</section></section>

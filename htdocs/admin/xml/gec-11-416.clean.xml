@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-416" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-11-416</section_number>
-  <catch_line/>
+  <catch_line>The Corporation may:...</catch_line>
+  <order_by>416</order_by>
   <text>The Corporation may:<section prefix=""><section prefix="(1)">lend or otherwise make available its net revenue to finance costs of a project; and</section><section prefix="(2)">enter into a financing agreement, mortgage, or other instrument that it determines is necessary or desirable to evidence or secure the loan.</section></section></text>
 </law>

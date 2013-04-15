@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-426" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-426</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>426</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person aggrieved by a regulation or order to pay wages that the Commissioner adopts under this subtitle may file a complaint in circuit court for the county within 60 days after the date of publication of the regulation or order to pay wages to have it modified or set aside.</section>

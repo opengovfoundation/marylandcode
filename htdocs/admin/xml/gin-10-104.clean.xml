@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-104" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">This section applies to:<section prefix="(1)">a license to act as an insurance producer for insurance other than life insurance, health insurance, or annuities;</section><section prefix="(2)">a limited lines license to act as an insurance producer for limited line credit insurance other than credit life insurance or credit health insurance; and</section><section prefix="(3)">a limited lines license to act as an insurance producer for a line of insurance described in &#xA7;&#xA7; 10-122 through 10-125 of this subtitle.</section></section>
     <section prefix="(b)">To qualify for a license to which this section applies, an individual applicant must meet the requirements of this section.</section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">An applicant must be at least 18 years of age.</section>
     <section prefix="(e)">An applicant may not have committed any act that the Commissioner finds would warrant denial of a license under &#xA7; 10-126 of this subtitle.</section>
     <section prefix="(f)">
-      <section prefix="(1)">Except as otherwise provided in this section:<section prefix="(i)">so that the applicant is reasonably familiar with the kind or subdivision of insurance for which the applicant wants to be licensed, the applicant must complete successfully a program of studies that has been established or approved by the Commissioner;</section><section prefix="(ii)">during the 3 years immediately preceding the date of application, the applicant must have been employed regularly for periods totaling at least 1 year:</section><section prefix="(iii)">during the 3 years immediately preceding the date of entering or immediately after discharge from the armed forces of the United States, the applicant must have been employed regularly for periods totaling at least 1 year:</section></section>
+      <section prefix="(1)">Except as otherwise provided in this section:<section prefix="(i)">so that the applicant is reasonably familiar with the kind or subdivision of insurance for which the applicant wants to be licensed, the applicant must complete successfully a program of studies that has been established or approved by the Commissioner;</section><section prefix="(ii)">during the 3 years immediately preceding the date of application, the applicant must have been employed regularly for periods totaling at least 1 year:<section prefix="1.">by the Administration as an employee or by an insurer or insurance producer; and</section><section prefix="2.">in responsible insurance duties in connection with the kind or subdivision of insurance for which the applicant wants to be licensed; or</section></section><section prefix="(iii)">during the 3 years immediately preceding the date of entering or immediately after discharge from the armed forces of the United States, the applicant must have been employed regularly for periods totaling at least 1 year:<section prefix="1.">by an insurer or insurance producer; and</section><section prefix="2.">in connection with the kind or subdivision of insurance for which the applicant wants to be licensed.</section></section></section>
       <section prefix="(2)">In the case of an applicant for a limited lines license to act as an insurance producer for limited line credit insurance, the applicant shall complete successfully a program of instruction that is:<section prefix="(i)">provided by an insurer that sells, solicits, or negotiates limited line credit insurance; and</section><section prefix="(ii)">approved by the Commissioner.</section></section>
     </section>
     <section prefix="(g)">Except as otherwise provided in this section, the applicant must pass an examination given by the Commissioner under this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-706" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">Each trust account shall be:<section prefix="(1)">titled "preneed trust account"; and</section><section prefix="(2)">established by the seller in the seller's name.</section></section>
     <section prefix="(b)">A trustee appointed under this subtitle must be:<section prefix="(1)">a national banking association, as defined in the Financial Institutions Article;</section><section prefix="(2)">a banking institution, as defined in the Financial Institutions Article;</section><section prefix="(3)">any other financial institution allowed by law to engage in the trust business; or</section><section prefix="(4)">a person who provides a fidelity bond from a recognized bonding institution in an amount equal to the trust fund and inuring to the benefit of the trust account of the cemetery or burial goods business, or the preneed buyers, or both.</section></section>

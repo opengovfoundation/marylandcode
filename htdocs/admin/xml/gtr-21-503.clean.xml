@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-503" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">If a pedestrian crosses a roadway at any point other than in a marked crosswalk or in an unmarked crosswalk at an intersection, the pedestrian shall yield the right-of-way to any vehicle approaching on the roadway.</section>
     <section prefix="(b)">If a pedestrian crosses a roadway at a point where a pedestrian tunnel or overhead pedestrian crossing is provided, the pedestrian shall yield the right-of-way to any vehicle approaching on the roadway.</section>

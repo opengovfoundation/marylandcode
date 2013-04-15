@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-207" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">A certificate of authority authorizes a reciprocal insurer to engage in one kind or a combination of kinds of insurance business, except for life insurance and health insurance other than as supplementary coverage in policies of liability insurance.</section>
     <section prefix="(b)">A certificate of authority authorizes a reciprocal insurer to purchase reinsurance and grant reinsurance as to any kind of insurance business in which the reciprocal insurer is authorized to engage.</section>

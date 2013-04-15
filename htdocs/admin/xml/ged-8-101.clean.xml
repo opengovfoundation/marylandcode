@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-101" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-8-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Disadvantaged child" means a child who:<section prefix="(1)">Because of environmental conditions, is not achieving at a level that is scholastically up to his potential abilities;</section><section prefix="(2)">Has to compensate for his inability to profit from the normal educational program;</section><section prefix="(3)">Is 3 years old or older and under 19 and has not graduated from high school;</section><section prefix="(4)">Has the potential to complete successfully a regular educational program leading to graduation from a high school; and</section><section prefix="(5)">Because of home and community environment, is subject to language, cultural, and economic disadvantages that make his completion of the regular program leading to graduation unlikely without special efforts by school authorities to provide stimulation of his potential in addition to the efforts involved in providing the regular educational programs.</section></section>

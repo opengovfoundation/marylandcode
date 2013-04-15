@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="17" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-17</section_number>
-  <catch_line/>
+  <catch_line>If two or more amendments to the same section or subsection of the Code are enacted at the same or d...</catch_line>
+  <order_by>17</order_by>
   <text>If two or more amendments to the same section or subsection of the Code are enacted at the same or different sessions of the General Assembly, and one of them makes no reference to and takes no account of the other or others, the amendments shall be construed together, and each shall be given effect, if possible and with due regard to the wording of their titles. If the amendments are irreconcilable and it is not possible to construe them together, the latest in date of final enactment shall prevail.</text>
 </law>

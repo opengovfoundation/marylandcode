@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-210" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">When, in the opinion of the legally constituted authorities of Maryland, there has occurred on the waters of Maryland a violation of this article, or when, in the opinion of the legally constituted authorities of Virginia, there has occurred on the waters of Virginia a violation of the laws of Virginia enforceable under &#xA7; 28.2-900, Code of Virginia, the legally constituted authorities of the state in which the offense was committed may pursue the offender up to and across the Maryland-Virginia Boundary into the state in which the offender flees.</section>

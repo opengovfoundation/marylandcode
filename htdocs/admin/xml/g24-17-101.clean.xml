@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g24" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-101" order_by="" level="2"/>
+    <unit label="article" identifier="g24" order_by="" level="1">Political Subdivisions - Miscellaneous Provisions</unit>
   </structure>
   <section_number>g24-17-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "computer software program" means a software program to access data, or to implement a process using data, in a computer system.</section>

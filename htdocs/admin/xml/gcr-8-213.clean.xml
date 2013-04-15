@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-213" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"Authorized use, disclosure, or receipt" means any use, disclosure, or receipt necessary to accomplish the specific purpose for which the person issued a credit card number or payment device number, or granted to another the right to use, disclose, or receive the credit card number or other payment device number.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-404" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">If the State has agreed to pay the costs set out in &#xA7; 2-402 of this subtitle and any additional construction costs associated with the connection, the State may connect a State facility, regardless of its location, to a publicly owned utility system.</section>
     <section prefix="(b)">If an existing publicly owned utility system is inadequate to handle proposed State utility needs, the State shall pay all costs that are:<section prefix="(1)">associated with the expansion of the publicly owned utility system to meet the needs of the State; and</section><section prefix="(2)">in excess of available federal funds.</section></section>

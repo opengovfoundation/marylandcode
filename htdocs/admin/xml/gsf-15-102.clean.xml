@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-102" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-15-102</section_number>
-  <catch_line/>
+  <catch_line>A contractor who submits an invoice for a procurement contract shall include in the invoice:...</catch_line>
+  <order_by>102</order_by>
   <text>A contractor who submits an invoice for a procurement contract shall include in the invoice:<section prefix=""><section prefix="(1)">the contractor's federal employer's identification number or Social Security number;</section><section prefix="(2)">the procurement contract or purchase order number or another adequate description of the procurement contract; and</section><section prefix="(3)">any documentation required by regulation or the procurement contract.</section></section></text>
 </law>

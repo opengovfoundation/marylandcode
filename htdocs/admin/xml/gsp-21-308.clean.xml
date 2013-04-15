@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-308" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On or before December 1 of each year, the Board of Trustees shall:<section prefix="(i)">certify to the Governor and the Secretary of Budget and Management the rates to be used to determine the amounts to be paid by the State to the accumulation fund of each of the several systems during the next fiscal year, including a separate certification of the normal contribution rate for the Teachers' Retirement System and the Teachers' Pension System; and</section><section prefix="(ii)">provide to the Secretary of Budget and Management a statement of the total amount to be paid by the State as determined under &#xA7; 21-304 of this subtitle to the Teachers' Retirement System and the Teachers' Pension System expressed as a percentage of the payroll of all members of those State systems.</section></section>
@@ -28,7 +28,7 @@
     <section prefix="(d)">
       <section prefix="(1)">
         <section prefix="(i)">The State Superintendent of Schools shall determine the amount that equals the applicable percentage as determined under subparagraph (ii) of this paragraph of the payroll of the professional and clerical employees of the Department of Public Libraries of Montgomery County who are members of the Employees' Retirement System of Montgomery County and are excluded from membership in the Teachers' Retirement System or the Teachers' Pension System.</section>
-        <section prefix="(ii)">The applicable percentage under subparagraph (i) of this paragraph is the lesser of:</section>
+        <section prefix="(ii)">The applicable percentage under subparagraph (i) of this paragraph is the lesser of:<section prefix="1.">the State's contribution percentage for the Teachers' Retirement System and the Teachers' Pension System, as certified by the Board of Trustees; or</section><section prefix="2.">the percentage of the payroll of its employees that Montgomery County has contributed to the Employees' Retirement System of Montgomery County, as determined by an actuarial valuation.</section></section>
       </section>
       <section prefix="(2)">The amount determined under paragraph (1) of this subsection shall be:<section prefix="(i)">included in the budget estimate for the Superintendent of Schools;</section><section prefix="(ii)">certified by the State Superintendent of Schools to the State Comptroller; and</section><section prefix="(iii)">paid to Montgomery County as provided in this subsection.</section></section>
       <section prefix="(3)">The Comptroller shall issue a warrant or warrants to the State Treasurer for the amount to be paid Montgomery County under this subsection.</section>

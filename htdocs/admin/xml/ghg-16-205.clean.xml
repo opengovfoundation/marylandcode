@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-205" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-16-205</section_number>
-  <catch_line/>
+  <catch_line>Instead of the requirements of this subtitle, the Department may accept those requirements that are ...</catch_line>
+  <order_by>205</order_by>
   <text>Instead of the requirements of this subtitle, the Department may accept those requirements that are set out in the Maryland Medical Assistance Plan or the federal laws and regulations under Title XIX of the Social Security Act and that govern the investigation of financial condition, standards of eligibility, and legal responsibility of recipients of services, their responsible relatives, legal representatives and estates, or other chargeable persons.</text>
 </law>

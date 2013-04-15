@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-801" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-801</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "release" means a permanent, temporary, absolute, or conditional release of an ind...</catch_line>
+  <order_by>801</order_by>
   <text>In this subtitle, "release" means a permanent, temporary, absolute, or conditional release of an individual from a residential facility or a Veterans' Administration hospital.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-501" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-26-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">A person may not act as a representative of a licensee unless the person is registered under Subtitle 3 of this title.</section>
     <section prefix="(b)">A person may not sell, solicit, or act as a representative for an unlicensed motor club doing business in the State.</section>

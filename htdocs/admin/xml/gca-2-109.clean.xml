@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-109" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">After the Department accepts the articles of incorporation for record, at the call of a majority of the directors named in the articles, the directors shall hold an organization meeting of the board of directors, to adopt bylaws, elect officers, and transact any other business which may come before the meeting.</section>

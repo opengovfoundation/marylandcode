@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-101" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-16-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">The decision of a local licensing board, in approving, suspending, revoking and restricting, or refusing to approve, suspend, revoke or restrict a license, or a licensee, shall be subject to appeal in the manner provided in this section.</section>
     <section prefix="(b)">
@@ -25,7 +25,7 @@
       <section prefix="(3)">Unless extended by the court for good cause, the local licensing board's decision made under subsection (a) of this section shall be affirmed, modified, or reversed by the court within 90 days after the record has been filed in the court by the local licensing board.</section>
       <section prefix="(4)">
         <section prefix="(i)">If the court reverses the action of the local licensing board it shall file with the papers a written statement of the reasons. The court may modify, as well as affirm or reverse, the action of the local licensing board. Costs shall be awarded as in other civil cases.</section>
-        <section prefix="(ii)">In addition to the other powers of the court provided in this article, the court may remand the proceedings to the local licensing board in the following jurisdictions:</section>
+        <section prefix="(ii)">In addition to the other powers of the court provided in this article, the court may remand the proceedings to the local licensing board in the following jurisdictions:<section prefix="1.">Anne Arundel County;</section><section prefix="2.">Baltimore City;</section><section prefix="3.">Carroll County;</section><section prefix="4.">Charles County;</section><section prefix="5.">Frederick County;</section><section prefix="6.">Harford County;</section><section prefix="7.">Howard County;</section><section prefix="8.">Montgomery County;</section><section prefix="9.">Prince George's County; and</section><section prefix="10.">St. Mary's County.</section></section>
       </section>
     </section>
     <section prefix="(f)">

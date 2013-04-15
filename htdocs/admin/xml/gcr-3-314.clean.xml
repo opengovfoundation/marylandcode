@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-314" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-314</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>314</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Correctional employee" means a:</section>
+        <section prefix="(i)">"Correctional employee" means a:<section prefix="1.">correctional officer, as defined in &#xA7; 8-201 of the Correctional Services Article; or</section><section prefix="2.">managing official or deputy managing official of a correctional facility.</section></section>
         <section prefix="(ii)">"Correctional employee" includes a sheriff, warden, or other official who is appointed or employed to supervise a correctional facility.</section>
       </section>
       <section prefix="(3)">

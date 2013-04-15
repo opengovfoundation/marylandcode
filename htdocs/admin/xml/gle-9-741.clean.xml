@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-741" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-741</section_number>
-  <catch_line/>
+  <catch_line>An appeal is not a stay of:...</catch_line>
+  <order_by>741</order_by>
   <text>An appeal is not a stay of:<section prefix=""><section prefix="(1)">an order of the Commission requiring payment of compensation; or</section><section prefix="(2)">an order or supplemental order of the Commission requiring the provision of medical treatment.</section></section></text>
 </law>

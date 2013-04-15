@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1913" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1913</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1913</order_by>
   <text>
     <section prefix="(a)">An action to enforce any liability created under this subtitle shall be brought within 2 years from the date the violation at issue occurred.</section>
     <section prefix="(b)">Where a defendant has materially and willfully misrepresented any information required to be disclosed to a consumer by this subtitle and the information is material to establishing defendant's liability, the action may be brought at any time within 2 years of the discovery of the misrepresentation.</section>

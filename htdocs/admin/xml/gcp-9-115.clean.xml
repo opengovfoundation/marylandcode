@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-115" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-9-115</section_number>
-  <catch_line/>
+  <catch_line>If, from the examination before the judge or District Court commissioner, it appears that the person...</catch_line>
+  <order_by>115</order_by>
   <text>If, from the examination before the judge or District Court commissioner, it appears that the person held is the person charged with having committed the crime alleged and, except in cases arising under &#xA7; 9-106 of this title, that the person has fled from justice, the judge or District Court commissioner must, by a warrant reciting the accusation, commit the person to the local correctional facility for a term specified in the warrant but not exceeding 30 days, as will enable the arrest of the accused to be made under a warrant of the Governor on a requisition of the executive authority of the state having jurisdiction of the crime, unless the person gives bail as provided in &#xA7; 9-116 of this title or until the person is legally discharged.</text>
 </law>

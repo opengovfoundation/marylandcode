@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-117" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">The Commission's capital budget for each fiscal year may include only projects that fully conform with the part of the most recently adopted 6-year capital improvements program applicable to that year.</section>
     <section prefix="(b)">

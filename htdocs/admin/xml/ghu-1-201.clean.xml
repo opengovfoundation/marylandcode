@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-201" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-1-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person may not disclose any information concerning an applicant for or recipient of social services, child welfare services, cash assistance, food stamps, or medical assistance that is directly or indirectly derived from the records, investigations, or communications of the State, a county, or a municipal corporation or a unit of the State, a county, or a municipal corporation or that is acquired in the course of the performance of official duties.</section>
     <section prefix="(b)">This section does not prohibit the disclosure of information:<section prefix="(1)">in accordance with a court order; or</section><section prefix="(2)">to an officer or employee of any state or local government, the United States, or a fiduciary institution, if the officer or employee is entitled to the information in an official capacity and the disclosure is necessary to administer public assistance, medical assistance, social services, or child welfare services programs.</section></section>

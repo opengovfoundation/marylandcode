@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-301.1" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-301.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">There is a solar energy pilot program to promote the use of solar energy systems to generate electricity in public school buildings in the State.</section>

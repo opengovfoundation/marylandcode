@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-640" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-640</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>640</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b), (c), and (d) of this section, a capital stock savings and loan association converted under this part to a commercial bank may exercise all the powers of, and shall be subject to all the restrictions imposed on, a commercial bank under this article.</section>
     <section prefix="(b)">A commercial bank that results from a conversion of a capital stock savings and loan association may hold assets or conduct business activities, other than insurance assets and insurance activities, that result from the conversion and that do not conform with applicable law, unless a different period is authorized by federal regulatory agencies:<section prefix="(1)">For a period of 5 years after the conversion; and</section><section prefix="(2)">If the Commissioner approves, for an additional period not exceeding 5 years.</section></section>

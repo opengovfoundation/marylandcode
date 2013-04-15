@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-910" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-910</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>910</order_by>
   <text>
     <section prefix="(a)">At the time of employment, an employee shall sign and file with the employer an exemption certificate that states the number of exemptions to which the employee is entitled under this title.</section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
     </section>
     <section prefix="(c)">
       <section prefix="(1)">An exemption certificate is invalid if it:<section prefix="(i)">does not contain the information required; or</section><section prefix="(ii)">contains false or fraudulent information.</section></section>
-      <section prefix="(2)">An exemption certificate is not invalid if it states:<section prefix="(i)">a number of exemptions that is less than the number of exemptions to which the individual is entitled under &#xA7; 10-211 of this title; or</section><section prefix="(ii)">a number of additional exemptions less than or equal to the fraction, rounded down to the nearest whole number:</section></section>
+      <section prefix="(2)">An exemption certificate is not invalid if it states:<section prefix="(i)">a number of exemptions that is less than the number of exemptions to which the individual is entitled under &#xA7; 10-211 of this title; or</section><section prefix="(ii)">a number of additional exemptions less than or equal to the fraction, rounded down to the nearest whole number:<section prefix="1.">the numerator of which equals the excess of the total of estimated itemized deductions, alimony payments, allowable child care expenses, qualified retirement contributions, business losses, and employer business expenses over the standard deduction allowance; and</section><section prefix="2.">the denominator of which equals the amount allowed for each exemption under &#xA7; 10-211(a)(1) of this title for the applicable taxable year.</section></section></section>
     </section>
     <section prefix="(d)">A person who is entitled to receive a payment subject to withholding of winnings derived from wagering shall complete, under oath, and give to the payor a withholding certificate that contains the name, address, state of residence, and taxpayer identification number of:<section prefix="(1)">the person who is to receive the payment; and</section><section prefix="(2)">each person entitled to any portion of the payment.</section></section>
   </text>

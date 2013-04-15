@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-218.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-218.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218.1</order_by>
   <text>
     <section prefix="(a)">Any rural letter carrier's motor vehicle may be equipped with a warning device for the purpose of warning the drivers of other vehicles of the presence of a vehicular traffic hazard requiring the exercise of unusual care in approaching, overtaking, and passing, and, when so equipped, may display the device in addition to any other warning signal required or permitted by law.</section>
     <section prefix="(b)">The warning device shall include two bi-directional lights mounted at each side of the vehicle on the roof, with two amber lenses facing the rear and two amber lenses facing the front.</section>

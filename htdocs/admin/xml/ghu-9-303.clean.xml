@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-303" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-9-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">As used in this subtitle the following words have the meanings indicated, unless the context clearly requires a different construction.</section>
     <section prefix="(b)">"Bylaws" means those bylaws established by the Interstate Commission for its governance, or for directing or controlling its actions or conduct.</section>

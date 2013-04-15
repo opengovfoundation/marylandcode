@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-2A-04" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-2A-04</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>04</order_by>
   <text>
     <section prefix="(a)">Any species of fish determined to be an endangered species pursuant to the Endangered Species Act shall be deemed to be an endangered species under the provisions of this subtitle and any species of fish determined to be a threatened species pursuant to the Endangered Species Act shall be deemed to be a threatened species under the provisions of this subtitle. The Secretary may determine, in accordance with this section, that any threatened species is an endangered species throughout all or any portion of the range of the species within the State.</section>
     <section prefix="(b)">In addition to the species deemed to be endangered or threatened pursuant to the Endangered Species Act, the Secretary, by rule or regulation, shall determine whether any species of fish normally occurring within the State is an endangered or threatened species due to any of the following factors:<section prefix="(1)">The present or threatened destruction, modification, or curtailment of its habitat or range;</section><section prefix="(2)">Overutilization for commercial, sporting, scientific, educational, or other purposes;</section><section prefix="(3)">Disease or predation;</section><section prefix="(4)">The inadequacy of existing regulatory mechanisms; or</section><section prefix="(5)">Other natural or manmade factors affecting its continued existence within the State.</section></section>

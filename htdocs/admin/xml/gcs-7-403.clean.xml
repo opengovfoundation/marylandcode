@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a parolee is convicted of a crime committed while on parole and is sentenced to an additional term of imprisonment in any correctional facility in this State, the court shall determine if the new sentence is to run concurrently or consecutively, as required under Maryland Rule 4-351(a)(5).</section>

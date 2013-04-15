@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-410" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-1-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">Unless registration of a mark is renewed for a 10-year term as provided in this section, the registration expires on the tenth anniversary of its effective date.</section>
     <section prefix="(b)">Within 1 year before registration of a mark expires, the Secretary of State shall mail to the registrant, at the last known address of the registrant:<section prefix="(1)">a renewal application form; and</section><section prefix="(2)">a notice that states:<section prefix="(i)">the date on which the current registration expires;</section><section prefix="(ii)">the date by which the Secretary of State must receive the renewal application for the renewal to be issued and mailed before the registration expires; and</section><section prefix="(iii)">the amount of the renewal fee.</section></section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-713" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-713</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>713</order_by>
   <text>
     <section prefix="(a)">A person who fishes with haul seine equipment shall carry a tidal fish license to catch finfish.</section>
     <section prefix="(b)">A Natural Resources police officer shall inspect every haul seine prior to its use in any portion of the waters of the Chesapeake Bay or its tributaries. If the Natural Resources police officer determines that the seine complies with the provisions of this section, he shall affix a seal and number certifying that the haul seine is inspected and in compliance with provisions of this section. Any haul seine without a State seal or with a broken seal is an illegal one, and a person may not operate it.</section>
@@ -20,7 +20,7 @@
       <section prefix="(2)">
         <section prefix="(i)">In Baltimore County and Harford County, on prior notification to the Department a person may catch carp during the period from Friday midnight until sunrise on Monday, except in areas where it is prohibited by the Department.</section>
         <section prefix="(ii)">Except in areas where it is prohibited by the Department, a person may set a licensed haul seine at a distance greater than one-third the distance across a river, creek, cove, or inlet in any of the tributary waters of Baltimore County or Harford County only to catch carp and catfish, notwithstanding any other provision of this subtitle regarding the distance across which a haul seine may be set. A person may not set the licensed haul seine to impede or obstruct navigation or block in any way the main channel of the river, creek, cove, or inlet. Any person who catches fish of a variety other than carp or catfish in any licensed haul seine shall return them immediately to the water unharmed. A person always shall attend a licensed haul seine for catching carp or catfish. Any person whose licensed haul seine is found more than one-third the distance across the waters where it is set without a person in attendance is guilty of violating this subsection.</section>
-        <section prefix="(iii)">The Department, by regulation:</section>
+        <section prefix="(iii)">The Department, by regulation:<section prefix="1.">Shall establish procedures for the prior notification required under subparagraph (i) of this paragraph; and</section><section prefix="2.">May prohibit fishing for carp and catfish in certain areas as provided in subparagraph (ii) of this paragraph.</section></section>
       </section>
     </section>
   </text>

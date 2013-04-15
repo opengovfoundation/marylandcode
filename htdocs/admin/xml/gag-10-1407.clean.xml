@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1407" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-1407</section_number>
-  <catch_line/>
+  <catch_line>Except as provided by regulations adopted by the United States Department of Agriculture pursuant to...</catch_line>
+  <order_by>1407</order_by>
   <text>Except as provided by regulations adopted by the United States Department of Agriculture pursuant to the federal Organic Food Production Act, 7 U.S.C. &#xA7; 6501 et seq., the record custodian shall deny access to any business-related information concerning any person regulated under this subtitle.</text>
 </law>

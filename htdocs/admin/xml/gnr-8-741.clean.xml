@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-741" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-741</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>741</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For the purposes of this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Marine sanitation device" means any equipment on board a vessel which is designed to receive, retain, treat or discharge sewage and any process to treat sewage on board.</section>
-        <section prefix="(ii)">"Marine sanitation device" includes:</section>
+        <section prefix="(ii)">"Marine sanitation device" includes:<section prefix="1.">Type I marine sanitation device, which produces an effluent having a fecal coliform bacteria count not greater than 1,000 per 100 milliliters and no visible floating solids;</section><section prefix="2.">Type II marine sanitation device, which produces an effluent having a fecal coliform bacteria count not greater than 200 per 100 milliliters and suspended solids not greater than 150 milligrams per liter; and</section><section prefix="3.">Type III marine sanitation device, which is certified to a no-discharge standard, including recirculating and incinerating marine sanitation devices and holding tanks.</section></section>
       </section>
       <section prefix="(3)">"Sewage" means:<section prefix="(i)">Human body wastes; and</section><section prefix="(ii)">The wastes from toilets and other receptacles intended to retain body waste.</section></section>
       <section prefix="(4)">"Y valve" means a device capable of diverting the flow of marine sewage so that a vessel's marine sanitation device is bypassed and raw sewage is discharged directly into the water.</section>

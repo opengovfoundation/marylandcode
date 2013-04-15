@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">A person may not:<section prefix="(1)">sell or possess a stolen:<section prefix="(i)">manufactured serial number; or</section><section prefix="(ii)">vehicle identification plate or label; or</section></section><section prefix="(2)">possess a manufactured serial number or vehicle identification plate or label if the person intends it to be:<section prefix="(i)">affixed to stolen property; or</section><section prefix="(ii)">used for fraudulent purposes.</section></section></section>
     <section prefix="(b)">A person who violates a provision of this section is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 18 months or a fine not exceeding $500 or both for each violation.</section>

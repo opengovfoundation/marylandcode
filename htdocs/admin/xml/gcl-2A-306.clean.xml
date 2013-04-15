@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-306" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-306</section_number>
-  <catch_line/>
+  <catch_line>If a person in the ordinary course of his business furnishes services or materials with respect to g...</catch_line>
+  <order_by>306</order_by>
   <text>If a person in the ordinary course of his business furnishes services or materials with respect to goods subject to a lease contract, a lien upon those goods in the possession of that person given by statute or rule of law for those materials or services is enforceable and takes priority over any interest of the lessor or lessee under the lease contract or this title unless the lien is created by statute and the statute provides otherwise or unless the lien is created by rule of law and the rule of law provides otherwise.</text>
 </law>

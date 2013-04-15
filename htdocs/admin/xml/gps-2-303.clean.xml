@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-303" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">As provided in the State budget, the Department shall make its training facilities available to any law enforcement agency of the State and to the Police Training Commission to the extent that the training facilities and employees of the Department are available.</section>
     <section prefix="(b)">The Secretary shall adopt rules to govern:<section prefix="(1)">the extent to which the training facilities of the Department may be used;</section><section prefix="(2)">the course of training; and</section><section prefix="(3)">the qualifications of individuals who will use the training facilities.</section></section>

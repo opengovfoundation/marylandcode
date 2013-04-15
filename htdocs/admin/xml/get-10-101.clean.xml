@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-101" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-10-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">The final approval of the final account automatically closes the estate. If the final account so requests, it also automatically terminates the appointment of the personal representative.</section>
     <section prefix="(b)">If the appointment is not terminated by the final account, a personal representative may, after the time has passed for presenting claims which arose prior to the death of the decedent, petition the court for an order to terminate his appointment as personal representative. After notice to all interested persons including creditors who have presented their claims and legatees who have not been paid in full, the court may enter an appropriate order if a written request for a hearing has not been filed within 20 days.</section>

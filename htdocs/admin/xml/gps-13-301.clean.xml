@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-301" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">The Adjutant General:<section prefix="(1)">is the head of the Department;</section><section prefix="(2)">shall be appointed by the Governor with the advice and consent of the Senate;</section><section prefix="(3)">is subordinate only to the Governor in matters relating to the Department;</section><section prefix="(4)">shall have a commissioned grade not above that of Lieutenant General; and</section><section prefix="(5)">shall be a full-time employee of the Department in State active duty status.</section></section>
     <section prefix="(b)">At the time of appointment, the Adjutant General shall:<section prefix="(1)">have at least 2 years of commissioned field grade service in the National Guard;</section><section prefix="(2)">have attained at least the rank of colonel; and</section><section prefix="(3)">meet the requirements for federal recognition at the rank of Major General.</section></section>

@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g24" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1002" order_by="" level="2"/>
+    <unit label="article" identifier="g24" order_by="" level="1">Political Subdivisions - Miscellaneous Provisions</unit>
   </structure>
   <section_number>g24-9-1002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1002</order_by>
   <text>
     <section prefix="(a)">The County Council of Dorchester County, by ordinance, may fix and impose a building excise tax on any building construction within Dorchester County.</section>
     <section prefix="(b)">The County Council shall specify in the ordinance:<section prefix="(1)">The types of building construction subject to the building excise tax;</section><section prefix="(2)">The criteria and formulas used to assess the tax; and</section><section prefix="(3)">The tax rates.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">The County Council may impose different rates of the building excise tax on different types of building construction subject to the building excise tax.</section>
-      <section prefix="(2)">The tax rates:<section prefix="(i)">Shall relate to the development or growth-related infrastructure needs in the county; and</section><section prefix="(ii)">May not exceed:</section></section>
+      <section prefix="(2)">The tax rates:<section prefix="(i)">Shall relate to the development or growth-related infrastructure needs in the county; and</section><section prefix="(ii)">May not exceed:<section prefix="1.">$5,000 per unit for residential development where building construction is to occur; or</section><section prefix="2.">$1 per square foot for any category of nonresidential development, not to exceed $5,000 per lot or parcel.</section></section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">The revenues from the building excise tax shall be deposited in a special fund.</section>

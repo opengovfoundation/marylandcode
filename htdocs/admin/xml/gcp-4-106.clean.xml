@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-4-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">A charging document may describe an amount of money in dollars and cents without specifying the particular notes, denominations, coins, or certificates circulating as money that constitute the amount.</section>
     <section prefix="(b)">A description of an amount of money in dollars and cents under subsection (a) of this section is sustained by proof of any number of notes, denominations, coins, or certificates circulating as money without proof of the particular species of notes, denominations, coins, or certificates that constitute the amount.</section>

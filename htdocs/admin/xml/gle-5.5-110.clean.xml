@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5.5-110" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5.5-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">A railroad company may not transport an employee to or from work on a caboose or locomotive unless the railroad company provides a fixed seat with a back support for the employee.</section>
     <section prefix="(b)">To protect the health and safety of employees, a railroad company shall:<section prefix="(1)">install and maintain water or chemical toilet facilities on each caboose used for service beyond a 15-mile radius from a point of dispatchment within the State for use by employees, unless the caboose is a temporary substitute for one regularly used for the service; and</section><section prefix="(2)">enclose all toilet fixtures, within the caboose, in a separate compartment of sufficient dimensions that is ventilated properly.</section></section>

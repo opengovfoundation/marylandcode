@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-206" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-11-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person may not knowingly require a purchaser or consignee to receive obscene matter as a condition to a sale, allocation, consignment, or delivery for resale of a paper, magazine, book, periodical, publication, or other merchandise.</section>

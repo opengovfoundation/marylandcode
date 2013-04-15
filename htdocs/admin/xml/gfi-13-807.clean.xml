@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-807" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-13-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Secretary may make any and all allocations, apportionments, determinations, and findings required or permitted by this subtitle.</section>

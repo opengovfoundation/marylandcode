@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-607" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">A person may not recklessly or intentionally do an act or create a situation that subjects a student to the risk of serious bodily injury for the purpose of an initiation into a student organization of a school, college, or university.</section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 6 months or a fine not exceeding $500 or both.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-459" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-459</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>459</order_by>
   <text>
     <section prefix="(a)">Only qualifying universities, as provided under &#xA7; 10-455 of this part, may submit proposals for grant funding from the Initiative.</section>
     <section prefix="(b)">The participating members of the Initiative may establish a committee composed of experts in the areas of research considered for commercialization.</section>

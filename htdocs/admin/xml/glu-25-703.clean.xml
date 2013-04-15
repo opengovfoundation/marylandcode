@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-703" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-25-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">Except for costs borne by the United States or the State Highway Administration, the county shall pay all costs of a flood control or navigation project from the Stormwater Management Fund.</section>
     <section prefix="(b)">The county shall apply the Fund to the cost of:<section prefix="(1)">constructing and relocating all county roads and bridges related to the flood control or navigation project;</section><section prefix="(2)">constructing necessary internal drainage facilities;</section><section prefix="(3)">relocating utility structures; and</section><section prefix="(4)">acquiring land and buildings necessary for the flood control or navigation projects.</section></section>

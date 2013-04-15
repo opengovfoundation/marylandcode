@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-406" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">A bank that sends or makes available to a customer a statement of account showing payment of items for the account shall either return or make available to the customer the items paid or provide information in the statement of account sufficient to allow the customer reasonably to identify the items paid. The statement of account provides sufficient information if the item is described by item number, amount, and date of payment.</section>
     <section prefix="(b)">If the items are not returned to the customer, the person retaining the items shall either retain the items or, if the items are destroyed, maintain the capacity to furnish legible copies of the items until the expiration of 7 years after receipt of the items. A customer may request an item from the bank that paid the item, and that bank must provide in a reasonable time either the item or, if the item has been destroyed or is not otherwise obtainable, a legible copy of the item.</section>

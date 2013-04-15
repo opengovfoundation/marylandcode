@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-418" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-418</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>418</order_by>
   <text>
     <section prefix="(a)">After any personal property that is subject to assessment by &#xA7; 8-417(d) of this subtitle as escaped property is assessed, the Department shall determine if:<section prefix="(1)">the owner failed to report accurately the cost or other information as to the escaped property; and</section><section prefix="(2)">the failure to report accurately caused the escaped property to be assessed at less than its value.</section></section>
     <section prefix="(b)">

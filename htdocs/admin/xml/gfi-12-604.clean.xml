@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-604" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">In a contract governing the use of a safe-deposit box by a customer, the safe-deposit company may limit its total liability for any loss resulting from its negligence to a maximum amount, which may not be less than 500 times the annual rental charged for the safe-deposit box.</section>
     <section prefix="(b)">The safe-deposit company may provide in the contract that it will not be liable for the loss of any money, jewelry, or other items specified in the contract for this purpose.</section>

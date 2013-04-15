@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-204" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-23-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">This section applies only in Montgomery County.</section>
     <section prefix="(b)">The subdivision regulations may:<section prefix="(1)">establish a time period within which the county planning board shall approve or disapprove a preapplication or preliminary plan submission; and</section><section prefix="(2)">provide that an applicant may:<section prefix="(i)">waive the time period within which the county planning board shall take action in accordance with item (1) of this subsection; and</section><section prefix="(ii)">consent to an extension of the time period.</section></section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-213" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">Unless the bylaws provide otherwise, the board of directors of a corporation may determine the conditions for issuing a new stock certificate in place of one which is alleged to have been lost, stolen, or destroyed.</section>
     <section prefix="(b)">In its discretion, the board may require the owner of the certificate to give bond, with sufficient surety, to indemnify the corporation against any loss or claim arising as a result of the issuance of a new certificate.</section>

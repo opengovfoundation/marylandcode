@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-409" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">Members of the Corporation are subject to assessment as provided in this section.</section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
         <section prefix="(ii)">The Board may make a Class A assessment on a pro rata or nonpro rata basis.</section>
         <section prefix="(iii)">If made on a pro rata basis, the Board may provide that the assessment be credited against future Class B assessments.</section>
         <section prefix="(iv)">A nonpro rata assessment may not exceed the amount provided in the Corporation's plan of operation per member insurer in 1 calendar year.</section>
-        <section prefix="(v)">The amount of a Class B assessment shall be allocated for assessment purposes among the accounts according to an allocation formula that is based on:</section>
+        <section prefix="(v)">The amount of a Class B assessment shall be allocated for assessment purposes among the accounts according to an allocation formula that is based on:<section prefix="1.">the premiums or reserves of the impaired insurer or insolvent insurer; or</section><section prefix="2.">on another standard that the Board considers in its sole discretion to be fair and reasonable under the circumstances.</section></section>
       </section>
       <section prefix="(2)">The Board shall make Class B assessments against member insurers for each account in the proportion that the amount of premiums received on business in the State by each assessed member insurer on policies or contracts covered by each account for the most recent calendar year for which information is available preceding the year in which the insurer became impaired or insolvent, bears to the amount of premiums received on business in the State for those calendar years by all assessed member insurers.</section>
       <section prefix="(3)">The Board may assess member insurers on a nonpro rata basis without regard to paragraph (2) of this subsection if the amount of a Class B assessment representing the aggregate liability of the Corporation for a single impairment or insolvency is not greater than the Class A assessment in the same calendar year against authorized insurers in the same line of business as the liability for the impaired insurer or insolvent insurer.</section>

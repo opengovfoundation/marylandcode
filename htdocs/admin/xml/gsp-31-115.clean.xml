@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-115" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-31-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">A participating governmental unit may establish, by law, a separate additional program of interim or supplemental allowances for a class of employees.</section>
     <section prefix="(b)">A participating governmental unit shall fund any additional program of allowances separately from the funding for benefits provided under this Division II.</section>

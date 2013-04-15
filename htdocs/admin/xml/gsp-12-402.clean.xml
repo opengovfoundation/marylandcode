@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-402" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-12-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the remedies available to a grievant under this title are limited to the restoration of the rights, pay, status, or benefits that the grievant otherwise would have had if the contested policy, procedure, or regulation had been applied appropriately as determined by the final decision maker.</section>
     <section prefix="(b)">

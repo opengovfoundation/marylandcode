@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">A person may not recklessly:<section prefix="(1)">engage in conduct that creates a substantial risk of death or serious physical injury to another; or</section><section prefix="(2)">discharge a firearm from a motor vehicle in a manner that creates a substantial risk of death or serious physical injury to another.</section></section>
     <section prefix="(b)">A person who violates this section is guilty of the misdemeanor of reckless endangerment and on conviction is subject to imprisonment not exceeding 5 years or a fine not exceeding $5,000 or both.</section>

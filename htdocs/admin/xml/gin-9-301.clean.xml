@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-301" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Account" means:<section prefix="(1)">the title insurance account;</section><section prefix="(2)">the motor vehicle insurance account;</section><section prefix="(3)">the workers' compensation account; or</section><section prefix="(4)">the account for all other insurance to which this subtitle applies.</section></section>
     <section prefix="(c)">"Corporation" means the Property and Casualty Insurance Guaranty Corporation.</section>
     <section prefix="(d)">
-      <section prefix="(1)">"Covered claim" means an insolvent insurer's unpaid obligation, including an unearned premium:<section prefix="(i)">that:</section><section prefix="(ii)">that is presented on or before the last date fixed for the filing of claims in the domiciliary delinquency proceeding as a claim to the corporation or to the receiver in the State;</section><section prefix="(iii)">that:</section><section prefix="(iv)">that arises out of a policy or surety bond of the insolvent insurer issued for a kind of insurance to which this subtitle applies.</section></section>
+      <section prefix="(1)">"Covered claim" means an insolvent insurer's unpaid obligation, including an unearned premium:<section prefix="(i)">that:<section prefix="1."/><section prefix="2.">arises out of a surety bond issued by the insolvent insurer for the protection of a third party that is a resident;</section></section><section prefix="(ii)">that is presented on or before the last date fixed for the filing of claims in the domiciliary delinquency proceeding as a claim to the corporation or to the receiver in the State;</section><section prefix="(iii)">that:<section prefix="1.">except for a surety bond claim, was incurred or existed before, on, or within 30 days after the determination of insolvency; or</section><section prefix="2.">for a surety bond claim that arises out of a surety bond issued by a domestic insurer, was incurred or existed before, on, or within 18 months after the determination of insolvency, whether or not the surety bond is issued for no stated period or for a stated period; and</section></section><section prefix="(iv)">that arises out of a policy or surety bond of the insolvent insurer issued for a kind of insurance to which this subtitle applies.</section></section>
       <section prefix="(2)">"Covered claim" does not include:<section prefix="(i)">an amount due a reinsurer, insurer, insurance pool, or underwriting association, as a subrogation recovery or otherwise; or</section><section prefix="(ii)">an amount due that arises out of insurance covering the members of a purchasing group if the insurance obtained by the purchasing group is written by an unauthorized insurer.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">"Covered claim" does not include a first party claim by an insured whose net worth exceeds $50,000,000 on December 31 of the year before the year in which the insurer becomes an insolvent insurer.</section>
         <section prefix="(ii)">For purposes of this paragraph, the net worth of an insured is deemed to include the aggregate net worth of the insured and all of its subsidiaries calculated on a consolidated basis.</section>
       </section>
-      <section prefix="(4)">Notwithstanding any other provision of this subtitle, "covered claim" does not include:<section prefix="(i)">a claim filed with the Corporation after the earlier of:</section><section prefix="(ii)">a claim filed with the Corporation or a liquidator for protection afforded under the insured's policy for losses that are incurred but not reported.</section></section>
+      <section prefix="(4)">Notwithstanding any other provision of this subtitle, "covered claim" does not include:<section prefix="(i)">a claim filed with the Corporation after the earlier of:<section prefix="1.">18 months after the date of the order of liquidation; or</section><section prefix="2.">the final date set by the court for the filing of claims against the liquidator or receiver of an insolvent insurer; or</section></section><section prefix="(ii)">a claim filed with the Corporation or a liquidator for protection afforded under the insured's policy for losses that are incurred but not reported.</section></section>
     </section>
     <section prefix="(e)">"Insolvent insurer" means an insurer:<section prefix="(1)">that is authorized to transact insurance business or authorized to issue surety bonds in the State when the policy or surety bond is issued or when the event giving rise to the claim occurs; and</section><section prefix="(2)">against whom a court of competent jurisdiction in the insurer's state of domicile has passed a final order of liquidation with a finding of insolvency.</section></section>
     <section prefix="(f)">

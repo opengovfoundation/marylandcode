@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="23" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-23</section_number>
-  <catch_line/>
+  <catch_line>The provisions of all statutes enacted after July 1, 1973 are severable unless the statute specifica...</catch_line>
+  <order_by>23</order_by>
   <text>The provisions of all statutes enacted after July 1, 1973 are severable unless the statute specifically provides that its provisions are not severable. The finding by a court that some provision of a statute is unconstitutional and void does not affect the validity of the remaining portions of that statute, unless the court finds that the remaining valid provisions alone are incomplete and incapable of being executed in accordance with the legislative intent.</text>
 </law>

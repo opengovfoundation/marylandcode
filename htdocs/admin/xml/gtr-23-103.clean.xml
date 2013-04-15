@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-103" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-23-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On receipt of an application and a nonrefundable fee established by the Administration from a facility for an inspection station license, the Division shall:<section prefix="(i)">Inspect the facility as to its ability to inspect and correct equipment; and</section><section prefix="(ii)">If the facility is qualified, issue to it a license as an inspection station.</section></section>

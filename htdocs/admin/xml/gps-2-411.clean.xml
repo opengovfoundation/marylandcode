@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-411" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">If authorized by the Secretary, a police employee or a 40-hour civilian employee may work an alternative workday of not more than 12 hours instead of an 8-hour workday.</section>
     <section prefix="(b)">

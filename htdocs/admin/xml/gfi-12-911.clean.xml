@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-911" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-911</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>911</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall include on each license:<section prefix="(1)">The name of the licensee;</section><section prefix="(2)">The address at which the business is to be conducted; and</section><section prefix="(3)">The debt management services license number of the licensee.</section></section>
     <section prefix="(b)">A license authorizes the licensee to provide debt management services.</section>

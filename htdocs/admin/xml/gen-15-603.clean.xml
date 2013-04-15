@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-603" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">The Secretary shall adopt rules and regulations for prevention of water pollution or damage to the land surface resulting from deep mining operations. The rules and regulations shall include standards and procedures for insuring reclamation or sealing of mined areas after operations cease.</section>
     <section prefix="(b)">The Secretary may study and recommend and shall approve all procedures for reclamation, conservation, and revegetation of affected areas, including mine opening sealing, prevention or reclamation of subsidence damage, underground fires, disposition of spoil, restoration of plant cover, prevention of erosion, prevention of the creation of acid water, and any other actions that will ensure conservation and beneficial utilization of the natural resources of the State.</section>

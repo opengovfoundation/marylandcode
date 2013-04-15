@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-701" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">This section applies only in:<section prefix="(1)">Allegany County;</section><section prefix="(2)">Anne Arundel County;</section><section prefix="(3)">Charles County;</section><section prefix="(4)">Harford County;</section><section prefix="(5)">Kent County;</section><section prefix="(6)">Montgomery County;</section><section prefix="(7)">Prince George's County;</section><section prefix="(8)">Somerset County;</section><section prefix="(9)">Talbot County; and</section><section prefix="(10)">Wicomico County.</section></section>
     <section prefix="(b)">A physician, pharmacist, dentist, or nurse who treats an individual for an injury that was caused or shows evidence of having been caused by an automobile accident or a lethal weapon, or the individual in charge of a hospital that treats the injured individual, shall notify the county sheriff, the county police, or the Department of State Police of the injury as soon as practicable.</section>

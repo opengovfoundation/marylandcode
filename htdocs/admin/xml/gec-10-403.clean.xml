@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-403" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">A Board of Directors shall manage the Corporation and exercise its corporate powers.</section>
     <section prefix="(b)">The Board consists of the following 15 members:<section prefix="(1)">the Secretary; and</section><section prefix="(2)">fourteen members appointed by the Governor with the advice and consent of the Senate:<section prefix="(i)">two representing the not-for-profit research sector of the State;</section><section prefix="(ii)">two with expertise in venture capital financing;</section><section prefix="(iii)">five with experience in technology-based businesses;</section><section prefix="(iv)">two representing colleges and universities; and</section><section prefix="(v)">three members of the general public.</section></section></section>

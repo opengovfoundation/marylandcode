@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-506" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-506</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not prevent the delivery of an inmate to a State or federal authority that is ent...</catch_line>
+  <order_by>506</order_by>
   <text>This subtitle does not prevent the delivery of an inmate to a State or federal authority that is entitled to the inmate.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9.5-303" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9.5-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">A court of this State shall recognize and enforce a child custody determination of a court of another state if the latter court exercised jurisdiction in substantial conformity with this title or the determination was made under factual circumstances meeting the jurisdictional standards of this title and the determination has not been modified in accordance with this title.</section>
     <section prefix="(b)">

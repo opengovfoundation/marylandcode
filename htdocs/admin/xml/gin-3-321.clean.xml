@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-321" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-321</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>321</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">On placing surplus lines coverage, a surplus lines broker promptly shall deliver to the insured:<section prefix="(i)">the policy issued by the insurer; or</section><section prefix="(ii)">if the policy is not available, a binder or cover note that shows:</section></section>
+      <section prefix="(1)">On placing surplus lines coverage, a surplus lines broker promptly shall deliver to the insured:<section prefix="(i)">the policy issued by the insurer; or</section><section prefix="(ii)">if the policy is not available, a binder or cover note that shows:<section prefix="1.">the subject, coverage, conditions, and term of the insurance; and</section><section prefix="2.">the name and address of the insurer.</section></section></section>
       <section prefix="(2)">If a direct risk is assumed by more than one insurer, the policy, binder, or cover note shall state:<section prefix="(i)">the name and address of each insurer; and</section><section prefix="(ii)">the proportion of the direct risk assumed by each insurer.</section></section>
     </section>
     <section prefix="(b)">Unless a copy of each binder or cover note has been filed with and approved by the Commissioner, the surplus lines broker, as soon as reasonably possible, shall get the policy from the insurer and deliver it to the insured to replace the binder or cover note previously delivered.</section>

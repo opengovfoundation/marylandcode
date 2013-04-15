@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-501" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-501</section_number>
-  <catch_line/>
+  <catch_line>Every court of this State shall take judicial notice of the common law and statutes of every state, ...</catch_line>
+  <order_by>501</order_by>
   <text>Every court of this State shall take judicial notice of the common law and statutes of every state, territory, and other jurisdiction of the United States, and of every other jurisdiction having a system of law based on the common law of England.</text>
 </law>

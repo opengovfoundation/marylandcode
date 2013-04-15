@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-309" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">For a first violation, a person who violates this part is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 1 year or a fine not exceeding $2,500 or both for each individual act in violation of this part.</section>
     <section prefix="(b)">For each subsequent violation, a person who violates this part is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 3 years or a fine not exceeding $10,000 or both for each individual act in violation of this part.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-10B-09" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-10B-09</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>09</order_by>
   <text>
     <section prefix="(a)">In this section, "attending provider" means an obstetrician, pediatrician, or other physician or certified nurse midwife or pediatric nurse practitioner attending the mother or newborn child.</section>
     <section prefix="(b)">Except as provided in subsections (c) and (d) of this section, the criteria and standards used by a private review agent or health maintenance organization in performing utilization review of hospital services related to maternity and newborn care, including length of stay, shall be in accordance with the medical criteria outlined in the most current version of the "Guidelines for Perinatal Care" prepared by the American Academy of Pediatrics and the American College of Obstetricians and Gynecologists.</section>

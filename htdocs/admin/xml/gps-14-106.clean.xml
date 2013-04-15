@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-106" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Governor:<section prefix="(i)">has control of and is responsible for MEMA; and</section><section prefix="(ii)">is responsible for carrying out this subtitle.</section></section>

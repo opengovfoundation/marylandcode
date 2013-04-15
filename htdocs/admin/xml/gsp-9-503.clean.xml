@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-503" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-9-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">Payment for sick leave taken under this subtitle for personal illness or disability constitutes a separate benefit on account of sickness and is not a continuation of salary.</section>
     <section prefix="(b)">Payment for sick leave taken under this subtitle for any reason not specified in subsection (a) of this section is a continuation of salary.</section>

@@ -1,24 +1,24 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-119.3" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-119.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>119.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"License" means any license, certificate, registration, permit, or other authorization that:<section prefix="(i)">is issued by a licensing authority;</section><section prefix="(ii)">is subject to suspension, revocation, forfeiture, or termination by a licensing authority; and</section><section prefix="(iii)">is necessary for an individual to practice or engage in a particular business, occupation, or profession.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">"Licensing authority" means a department, unit of a department, commission, board, office, or court of the State.</section>
-        <section prefix="(ii)">"Licensing authority" includes:</section>
+        <section prefix="(ii)">"Licensing authority" includes:<section prefix="1.">the Department of Labor, Licensing, and Regulation;</section><section prefix="2.">the Department of Health and Mental Hygiene;</section><section prefix="3.">the Department of Human Resources;</section><section prefix="4.">the Department of Transportation;</section><section prefix="5.">the Department of the Environment;</section><section prefix="6.">the Comptroller of the Treasury;</section><section prefix="7.">the Department of Agriculture;</section><section prefix="8.">the Maryland Insurance Administration;</section><section prefix="9.">the Public Service Commission;</section><section prefix="10.">the Secretary of State;</section><section prefix="11.">the State Department of Education;</section><section prefix="12.">the Department of Natural Resources;</section><section prefix="13.">the Office of the Attorney General;</section><section prefix="14.">the clerks of the court that are authorized to issue a license or certificate for professional services or recreational uses; and</section><section prefix="15.">the Court of Appeals.</section></section>
       </section>
     </section>
     <section prefix="(b)">A licensing authority shall:<section prefix="(1)">require each applicant for a license to disclose the Social Security number of the applicant; and</section><section prefix="(2)">record the applicant's Social Security number on the application.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">To carry out its responsibility under State and federal law, the Administration may request from a licensing authority information concerning any obligor in arrears in paying child support through a support enforcement agency.</section>
-      <section prefix="(2)">A request for information by the Administration under paragraph (1) of this subsection:<section prefix="(i)">shall contain:</section><section prefix="(ii)">may be transmitted to a licensing authority using an electronic format.</section></section>
+      <section prefix="(2)">A request for information by the Administration under paragraph (1) of this subsection:<section prefix="(i)">shall contain:<section prefix="1.">the full name of the obligor; and</section><section prefix="2.">the Social Security number of the obligor; and</section></section><section prefix="(ii)">may be transmitted to a licensing authority using an electronic format.</section></section>
       <section prefix="(3)">A request for information may not be made by the Administration to a licensing authority more frequently than four times in each calendar year except with respect to an obligor whom the Administration has reason to believe is licensed by, or has applied for a license from, the licensing authority.</section>
       <section prefix="(4)">In addition to requests for information under this subsection, the Administration may request a licensing authority to periodically share its licensing database with the Administration.</section>
     </section>
@@ -28,7 +28,7 @@
       <section prefix="(3)">Except as otherwise provided by law, any record compiled under this subsection shall be made available only to a person who has a right to the record in an official capacity.</section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">Except as provided in paragraph (3) of this subsection and subject to the provisions of subsection (f) of this section, the Administration may request a licensing authority to suspend or deny an individual's license if:<section prefix="(i)"/><section prefix="(ii)">the individual has failed to comply with a subpoena issued by the Administration under &#xA7; 10-108.6 of this subtitle.</section></section>
+      <section prefix="(1)">Except as provided in paragraph (3) of this subsection and subject to the provisions of subsection (f) of this section, the Administration may request a licensing authority to suspend or deny an individual's license if:<section prefix="(i)"><section prefix="1.">the individual is in arrears amounting to more than 120 days under the most recent order; and</section><section prefix="2."/></section><section prefix="(ii)">the individual has failed to comply with a subpoena issued by the Administration under &#xA7; 10-108.6 of this subtitle.</section></section>
       <section prefix="(2)">Except as provided in paragraph (3) of this subsection, upon notification by the Administration under this section, a licensing authority shall:<section prefix="(i)">suspend an individual's license; or</section><section prefix="(ii)">deny the license of an individual who is an applicant for a license from the licensing authority.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">This paragraph applies if the licensing authority is the Court of Appeals.</section>

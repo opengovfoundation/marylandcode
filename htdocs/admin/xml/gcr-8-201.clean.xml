@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Cardholder" means the person named on the face of a credit card to whom or for whose benefit the credit card is issued by an issuer.</section>
     <section prefix="(c)">
       <section prefix="(1)">"Credit card" means an instrument or device issued by an issuer for the use of a cardholder in obtaining money, goods, services, or anything of value on credit.</section>
-      <section prefix="(2)">"Credit card" includes:<section prefix="(i)">a debit card, access card, or other device for use by a cardholder to effect a transfer of funds through an electronic terminal, telephone, or computer;</section><section prefix="(ii)">a magnetic tape that orders or authorizes a financial institution to debit or credit an account; and</section><section prefix="(iii)">a code, account number, or other means of account access that is not encoded or truncated and can be used to:</section></section>
+      <section prefix="(2)">"Credit card" includes:<section prefix="(i)">a debit card, access card, or other device for use by a cardholder to effect a transfer of funds through an electronic terminal, telephone, or computer;</section><section prefix="(ii)">a magnetic tape that orders or authorizes a financial institution to debit or credit an account; and</section><section prefix="(iii)">a code, account number, or other means of account access that is not encoded or truncated and can be used to:<section prefix="1.">obtain money, goods, services, or anything of value; or</section><section prefix="2.">initiate a transfer of funds.</section></section></section>
       <section prefix="(3)">"Credit card" does not include a check, draft, or similar paper instrument.</section>
     </section>
     <section prefix="(d)">"Issuer" means a business organization or financial institution that issues a credit card or the authorized agent of the business organization or financial institution.</section>

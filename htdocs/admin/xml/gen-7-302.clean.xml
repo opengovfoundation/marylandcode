@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-302" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="a.">
       <section prefix="1.">There is hereby created the Appalachian States Low-Level Radioactive Waste Commission. The Commission is hereby created as a body corporate and politic, with succession for the duration of this compact, as an agency and instrumentality of the governments of the respective signatory parties, but separate and distinct from the respective signatory party states. The Commission shall have central offices located in Pennsylvania.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1711" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1711</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1711</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This section applies only to:<section prefix="(i)">A property owner or manager of an apartment building that contains 10 or more dwelling units; and</section><section prefix="(ii)">A council of unit owners of a condominium that contains 10 or more dwelling units.</section></section>

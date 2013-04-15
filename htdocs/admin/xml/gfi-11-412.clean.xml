@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-412" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-11-412</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412</order_by>
   <text>
     <section prefix="(a)">A licensee may surrender the license by delivering to the Commissioner a written statement that the license is surrendered.</section>
     <section prefix="(b)">The surrender of a license does not affect any civil or criminal liability of the licensee for acts committed before the license was surrendered.</section>

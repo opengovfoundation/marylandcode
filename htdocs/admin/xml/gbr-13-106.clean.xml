@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-106" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-13-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">A trading stamp company may not do business as a trading stamp company in the State unless:<section prefix="(1)">a rightful holder may redeem trading stamps for cash if the trading stamps have a total cash value of at least 25 cents; and</section><section prefix="(2)">the cash redemption value of the trading stamps is at least equal to the highest cash redemption value that the trading stamp company offers in any other jurisdiction.</section></section>
     <section prefix="(b)">

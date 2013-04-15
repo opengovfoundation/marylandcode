@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-407" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-2-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">An individual may not knowingly make any material false statement to obtain or to help another individual to obtain a license or marriage ceremony in violation of this title or of any order of court under &#xA7; 2-405 of this subtitle.</section>
     <section prefix="(b)">An individual who violates the provisions of this section is guilty of perjury.</section>

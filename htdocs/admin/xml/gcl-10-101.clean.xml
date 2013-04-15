@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-10-101</section_number>
-  <catch_line/>
+  <catch_line>As used in this title:...</catch_line>
+  <order_by>101</order_by>
   <text>As used in this title:<section prefix=""><section prefix="(1)">"Original Code" means Chapter 538 of the Acts of 1963, as the provisions of that chapter were amended prior to 12:01 a.m. on January 1, 1981.</section><section prefix="(2)">"This Act" means Chapter 824 of the Acts of 1980.</section></section></text>
 </law>

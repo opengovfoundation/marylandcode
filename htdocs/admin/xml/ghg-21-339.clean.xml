@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-339" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-339</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>339</order_by>
   <text>
     <section prefix="(a)">In this section, "repack crab meat" means to take or remove crab meat from any container or package, when the crab meat has been picked from a crab at another location, and place that crab meat in another container or package.</section>
     <section prefix="(b)">Each container of crab meat shall be marked plainly with the information required by this section.</section>
@@ -21,7 +21,7 @@
     <section prefix="(f)">
       <section prefix="(1)">A person may not repack crab meat or change crab meat containers or container lids with the intent to sell the crab meat except as provided by the Department.</section>
       <section prefix="(2)">
-        <section prefix="(i)">A person may not possess more than 12 empty crab meat containers or container lids unless the person:</section>
+        <section prefix="(i)">A person may not possess more than 12 empty crab meat containers or container lids unless the person:<section prefix="1.">Is a manufacturer of containers or lids;</section><section prefix="2.">Is a licensed crab meat packer and the containers or lids are the same as used by the packer in the ordinary course of business;</section><section prefix="3.">Has removed the crab meat from the containers and lids for consumption on the premises; or</section><section prefix="4.">Is in possession of the containers or lids as provided for by the Department.</section></section>
         <section prefix="(ii)">Possession of empty containers or crab meat container lids in violation of this section shall be presumptive evidence of intent to repack crab meat in violation of this Part VI of this subtitle.</section>
         <section prefix="(iii)">Possession of crab meat containers or crab meat container lids from which the crab meat has been consumed or cooked for consumption and which have been properly disposed of may not constitute presumptive evidence of intent to repack or change crab meat containers for sale.</section>
       </section>

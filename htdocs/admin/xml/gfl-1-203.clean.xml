@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-203" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-1-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">In an action for alimony, annulment, or divorce, an equity court:<section prefix="(1)">has all the powers of a court of equity; and</section><section prefix="(2)">may issue an injunction to protect any party to the action from physical harm or harassment.</section></section>
     <section prefix="(b)">Unless the court expressly provides otherwise, the filing of an action for an annulment, a limited divorce, or an absolute divorce does not constitute lis pendens with respect to any property of a party.</section>

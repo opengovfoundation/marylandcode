@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-417" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-417</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>417</order_by>
   <text>
     <section prefix="(a)">A political subdivision may acquire, by purchase or, if unable to agree on terms, by condemnation, any property, including any air right or interest, needed to establish or operate an airport, airport facility, or air navigation facility.</section>
     <section prefix="(b)">Any condemnation of property under this section shall be under the law by which the political subdivision may condemn property for public purposes other than street purposes or, if it has no such law, under Title 12 of the Real Property Article.</section>

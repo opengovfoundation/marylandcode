@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1502" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1502</order_by>
   <text>
     <section prefix="(a)">If the manufacturer's warranty period is to include those miles of operation when the new motor vehicle is in the possession of any person other than the consumer, the manufacturer shall state that fact in 12 point bold face type in the manufacturer's written warranty.</section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
       <section prefix="(3)">The manufacturer or factory branch, its agent, or its authorized dealer shall correct the nonconformity, defect, or condition at no charge to the consumer, even if repairs are made after the expiration of the warranty period. The corrections shall be completed within 30 days of the manufacturer's receipt of the consumer's notification of the nonconformity, defect, or condition.</section>
     </section>
     <section prefix="(c)">
-      <section prefix="(1)">If, during the warranty period, the manufacturer or factory branch, its agent, or its authorized dealer is unable to repair or correct any defect or condition that substantially impairs the use and market value of the motor vehicle to the consumer after a reasonable number of attempts, the manufacturer or factory branch, at the option of the consumer, shall:<section prefix="(i)">Replace the motor vehicle with a comparable motor vehicle acceptable to the consumer; or</section><section prefix="(ii)">Accept return of the motor vehicle from the consumer and refund to the consumer the full purchase price including all license fees, registration fees, and any similar governmental charges, less:</section></section>
+      <section prefix="(1)">If, during the warranty period, the manufacturer or factory branch, its agent, or its authorized dealer is unable to repair or correct any defect or condition that substantially impairs the use and market value of the motor vehicle to the consumer after a reasonable number of attempts, the manufacturer or factory branch, at the option of the consumer, shall:<section prefix="(i)">Replace the motor vehicle with a comparable motor vehicle acceptable to the consumer; or</section><section prefix="(ii)">Accept return of the motor vehicle from the consumer and refund to the consumer the full purchase price including all license fees, registration fees, and any similar governmental charges, less:<section prefix="1.">A reasonable allowance for the consumer's use of the vehicle not to exceed 15 percent of the purchase price; and</section><section prefix="2.">A reasonable allowance for damage not attributable to normal wear but not to include damage resulting from a nonconformity, defect, or condition.</section></section></section>
       <section prefix="(2)">The manufacturer or factory branch shall make refunds under this section to the consumer and lienholder, if any, as their interests appear on the records of ownership maintained by the Motor Vehicle Administration.</section>
       <section prefix="(3)">It is an affirmative defense to any claim under this section that the nonconformity, defect, or condition:<section prefix="(i)">Does not substantially impair the use and market value of the motor vehicle; or</section><section prefix="(ii)">Is the result of abuse, neglect, or unauthorized modifications or alterations of the motor vehicle.</section></section>
     </section>
@@ -30,7 +30,7 @@
     <section prefix="(g)">
       <section prefix="(1)">
         <section prefix="(i)">If a motor vehicle that is returned to the manufacturer under either this subtitle or by judgment, decree, arbitration award, settlement agreement, or by voluntary agreement in this or any other state and is then transferred to a dealer in Maryland, the manufacturer shall disclose this information to the dealer.</section>
-        <section prefix="(ii)">The manufacturer's disclosure under this paragraph shall be in writing on a separate piece of paper in 10 point all capital type and shall state in a clear and conspicuous manner:</section>
+        <section prefix="(ii)">The manufacturer's disclosure under this paragraph shall be in writing on a separate piece of paper in 10 point all capital type and shall state in a clear and conspicuous manner:<section prefix="1.">That the motor vehicle was returned to the manufacturer or factory branch;</section><section prefix="2.">The nature of the defect, if any, that resulted in the return; and</section><section prefix="3.">The condition of the motor vehicle at the time that it is transferred to the dealer.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">If the returned vehicle is then made available for resale, the seller shall provide a copy of the manufacturer's disclosure form to the consumer prior to sale.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-502" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-10-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, whenever any license issued under this article has been lost or destroyed, the license issuing authority issuing such a license shall have the power, upon application under oath, and upon payment of a fee of $1, to issue another license, upon which shall be endorsed the word "duplicate" in addition to all of the information which appeared upon the original license.</section>
     <section prefix="(b)">In Prince George's County, the fee for a duplicate license is $10.</section>

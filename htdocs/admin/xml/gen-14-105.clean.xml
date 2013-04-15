@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-105" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-14-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">An applicant for a permit to drill a well under &#xA7; 14-104 of this subtitle shall submit an application in a manner satisfactory to the Department.</section>
     <section prefix="(b)">The Department shall establish and collect fees for:<section prefix="(1)">The issuance of a permit to drill a well under &#xA7; 14-104 of this subtitle;</section><section prefix="(2)">The renewal of a permit to drill a well under &#xA7; 14-104 of this subtitle; and</section><section prefix="(3)">The production of oil and gas wells installed after October 1, 2010.</section></section>

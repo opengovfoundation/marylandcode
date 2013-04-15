@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-201" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this subtitle, a corporation from time to time may issue:<section prefix="(1)">Stock of any class authorized by its charter; and</section><section prefix="(2)">Securities convertible into stock of any class authorized by its charter.</section></section>
     <section prefix="(b)">The authorization of stock convertible into other stock or securities convertible into stock constitutes an authorization of the stock into which the stock or securities are convertible, without further specific authorization in the charter.</section>

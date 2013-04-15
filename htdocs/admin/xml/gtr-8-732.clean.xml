@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-732" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-732</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>732</order_by>
   <text>
     <section prefix="(a)">In this section, "centerline" means:<section prefix="(1)">The centerline of the main traveled way of a nondivided highway; or</section><section prefix="(2)">A line equidistant from the edges of the median separating the main traveled ways of a divided highway.</section></section>
     <section prefix="(b)">The location of an outdoor sign structure located between highways entering into or intersecting the main traveled way of any federal-aid primary highway shall conform to the minimum spacing criteria specified in this section, to be applied separately to each side of the federal-aid primary highway.</section>

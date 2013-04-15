@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1401" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-1401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following terms have the meanings indicated.</section>
     <section prefix="(b)">"Cave" means any naturally occurring void, cavity, recess, or system of interconnecting passages beneath the surface of the earth or within a cliff or ledge, including natural subsurface water and drainage systems. The word "cave" includes or is synonymous with cavern, sinkhole, grotto, and rock shelter.</section>

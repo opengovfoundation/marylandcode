@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-806" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">Except as provided under subsection (b) of this section, the record of a proceeding before the Board or a Board member is a public record.</section>
     <section prefix="(b)">If the confidentiality of a record or report that the Board obtains is protected by law or regulation, the record or report shall remain confidential, subject to the law or regulation.</section>

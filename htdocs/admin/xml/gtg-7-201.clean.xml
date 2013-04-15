@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-201" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Estate" means property that is subject to administration under the Estates and Trusts Article as the estate of a decedent.</section>
@@ -14,7 +14,7 @@
       <section prefix="(2)">"Less than absolute interest" includes:<section prefix="(i)">a life estate;</section><section prefix="(ii)">an interest for a term of years;</section><section prefix="(iii)">a contingent or vested remainder, or executory or reversionary interest that a person other than the decedent creates; or</section><section prefix="(iv)">any other interest that is less than absolute.</section></section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">"Property that passes from a decedent" includes:<section prefix="(i)">property that passes, by will or under the intestate laws of the State, at or after the death of a decedent, in trust or otherwise, to or for the use of another person;</section><section prefix="(ii)">property in which, at death, a decedent had an interest as a joint tenant; or</section><section prefix="(iii)">except for a bona fide sale for an adequate and full consideration in money or money's worth, property that passes by an inter vivos transfer by a decedent, in trust or otherwise, if:</section></section>
+      <section prefix="(1)">"Property that passes from a decedent" includes:<section prefix="(i)">property that passes, by will or under the intestate laws of the State, at or after the death of a decedent, in trust or otherwise, to or for the use of another person;</section><section prefix="(ii)">property in which, at death, a decedent had an interest as a joint tenant; or</section><section prefix="(iii)">except for a bona fide sale for an adequate and full consideration in money or money's worth, property that passes by an inter vivos transfer by a decedent, in trust or otherwise, if:<section prefix="1.">the transfer is made in contemplation of death;</section><section prefix="2.">the transfer of a material part of the property of the decedent in the nature of a final disposition or distribution is made by the decedent within 2 years before death and is not shown to not have been made in contemplation of death;</section><section prefix="3.">the transfer is intended to take effect in possession or enjoyment at or after the death of the decedent; or</section><section prefix="4.">under the transfer, the decedent retained any dominion over the transferred property during the life of the decedent, including the retention of:</section></section></section>
       <section prefix="(2)">Notwithstanding any parol agreement, the written form of the title is controlling for intangible personal property held in joint tenancy.</section>
     </section>
     <section prefix="(e)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-629" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-629</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>629</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other law, the Attorney General has exclusive jurisdiction and control as escrow agent over money or other consideration subject to Part II of this subtitle.</section>
     <section prefix="(b)">Money in an escrow account may be distributed only by a determination and order of the Attorney General under Part II of this subtitle.</section>

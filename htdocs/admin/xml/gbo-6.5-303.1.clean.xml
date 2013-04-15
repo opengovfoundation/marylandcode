@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="6.5-303.1" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-6.5-303.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303.1</order_by>
   <text>
     <section prefix="(a)">The Board may authorize an applicant to take a license examination if the Board determines that the work experience of the applicant is substantially equivalent to the work experience requirements of a licensee for the license level requested by the applicant.</section>
     <section prefix="(b)">In evaluating the work experience of an applicant, the Board shall consider:<section prefix="(1)">the size of the operation or plant at which the applicant acquired the work experience;</section><section prefix="(2)">the type of machinery the applicant used in acquiring the work experience; and</section><section prefix="(3)"><section prefix="(i)">the job responsibilities or duties of the applicant; and</section><section prefix="(ii)">the time period in which the applicant held each job responsibility or duty.</section></section></section>

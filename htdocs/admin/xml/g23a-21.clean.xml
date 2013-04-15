@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g23a" order_by="" level="1"/>
-    <unit label="chapter" identifier="21" order_by="" level="2"/>
+    <unit label="article" identifier="g23a" order_by="" level="1">Corporations - Municipal</unit>
   </structure>
   <section_number>g23a-21</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>21</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">At least 20% of the individuals who reside within any particular area in a county and who are registered to vote in county elections, together with the owners of at least 25% of the assessed valuation of the real property of the area to be incorporated, may initiate a proposal to incorporate that area as a municipal corporation, by presenting a valid petition to the county governing body.</section>

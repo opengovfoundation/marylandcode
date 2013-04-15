@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">There is a Wildlife Advisory Commission in the Department.</section>
     <section prefix="(b)">Notwithstanding any other provision of this article, a member of the Fish and Wildlife Commission as of June 30, 1972 may serve the unexpired remainder of the member's term as a member of an advisory commission created by law.</section>

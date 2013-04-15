@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-308" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If, after a hearing, the Commissioner finds that a rate is not in compliance with &#xA7; 11-306 of this subtitle or that a rate was set in violation of &#xA7; 11-342 of this subtitle, the Commissioner shall issue an order that requires that use of the rate be discontinued for each policy issued or renewed after a date specified in the order.</section>
@@ -21,7 +21,7 @@
       <section prefix="(1)">
         <section prefix="(i)">At a hearing to determine compliance with &#xA7; 11-306(b)(2) of this subtitle, the Commissioner first shall determine whether a reasonable degree of competition exists within a market and shall issue a ruling to that effect.</section>
         <section prefix="(ii)">All insurers that operate within a market that is subject to a determination by the Commissioner under this paragraph shall have the burden of establishing that a reasonable degree of competition exists within that market.</section>
-        <section prefix="(iii)">In determining the competitiveness of a market, the Commissioner shall consider all relevant factors including:</section>
+        <section prefix="(iii)">In determining the competitiveness of a market, the Commissioner shall consider all relevant factors including:<section prefix="1.">the number of insurers actively engaged in providing coverage in the market;</section><section prefix="2.">market shares;</section><section prefix="3.">changes in market shares; and</section><section prefix="4.">ease of entry.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">If the Commissioner determines that a reasonable degree of competition does not exist in a market, each insurer designated by the Commissioner shall have the burden of justifying its rate in that market.</section>

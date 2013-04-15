@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-102" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-6-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">A tax is imposed on all new and renewal gross direct premiums of each person subject to taxation under this subtitle that are:<section prefix="(1)">allocable to the State; and</section><section prefix="(2)">written during the preceding calendar year.</section></section>
     <section prefix="(b)">Premiums to be taxed include:<section prefix="(1)">the consideration for a surety contract, guaranty contract, or annuity contract;</section><section prefix="(2)">gross receipts received as a result of capitation payments, supplemental payments, and bonus payments, made to a managed care organization for provider services to an individual who is enrolled in a managed care organization;</section><section prefix="(3)">subscription charges or other amounts paid to a for-profit health maintenance organization on a predetermined periodic rate basis by a person other than a person subject to the tax under this subtitle as compensation for providing health care services to members;</section><section prefix="(4)">dividends on life insurance policies that have been applied to buy additional insurance or to shorten the period during which a premium is payable; and</section><section prefix="(5)">the part of the gross receipts of a title insurer that is derived from insurance business or guaranty business.</section></section>

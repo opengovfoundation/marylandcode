@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-206.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-25-206.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206.1</order_by>
   <text>
     <section prefix="(a)">This section applies to any vehicle sold by a police department of Baltimore City, Prince George's County, Montgomery County, or a municipal corporation in Prince George's County or Montgomery County under this subtitle as an abandoned vehicle, and to any vehicle sold pursuant to an ordinance of the Mayor and City Council of Baltimore, an ordinance or local law enacted by Prince George's County or Montgomery County, or an ordinance enacted by a municipal corporation in Prince George's County or Montgomery County governing vehicles that are:<section prefix="(1)">Abandoned and unclaimed;</section><section prefix="(2)">Reported stolen, recovered, and subsequently unclaimed; or</section><section prefix="(3)">Involved in an accident, removed by police, and subsequently unclaimed.</section></section>
     <section prefix="(b)">If the money collected from the sale of a vehicle subject to this section is not enough to reimburse a police department or its agent for the costs of towing, preserving, and storing the vehicle and for the expenses of sale, including all publication and notice costs, the last registered owner shall be liable to the police department or its agent for the deficiency. For purposes of this subsection, the costs chargeable to an owner for the preservation and storage of a vehicle may not exceed $300.</section>

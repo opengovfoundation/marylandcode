@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-220" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, if the total inheritance tax determined on all interests in property is paid when due and equals the inheritance tax that would have been due if an absolute interest in the property passed from the decedent, additional inheritance tax is not due because of a subsequent invasion of the corpus by or for any person under the terms of the instrument that created the property interests.</section>
     <section prefix="(b)">

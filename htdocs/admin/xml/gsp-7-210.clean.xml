@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-210" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-7-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Any applicant under this title who is not selected for a position may appeal the decision.</section>
     <section prefix="(b)">An appeal:<section prefix="(1)">may be made only on the grounds that the decision was unconstitutional or illegal; and</section><section prefix="(2)">may only be made to the appointing authority.</section></section>

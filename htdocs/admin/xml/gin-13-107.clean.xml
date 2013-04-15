@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-107" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-13-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, the term of credit life insurance, credit health insurance, or credit involuntary unemployment benefit insurance subject to acceptance by the insurer, begins on the date that the debtor becomes obligated to the creditor.</section>

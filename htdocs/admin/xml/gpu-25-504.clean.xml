@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-504" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
-    <section prefix="(a)">The Commission:<section prefix="(1)">may provide for the billing and collection of the water and sewer usage charges on an estimated basis for periods of 6 months or less, based on the historical daily average consumption calculated from actual previous usage;</section><section prefix="(2)">shall read the meter at least once every 6 months; and</section><section prefix="(3)"><section prefix="(i)">shall base the final bill for the 6-month period on the actual consumption adjusted by previous estimates, if the meter had not been read because it was inaccessible;</section><section prefix="(ii)">shall base the final bill for the 6-month period on the historical daily average consumption, calculated from actual previous usage, if a final reading cannot be made because:</section><section prefix="(iii)">may modify the historical daily average consumption calculation based on appropriate evidence submitted by the owner; and</section><section prefix="(iv)">may not base a final bill on estimated usage for two consecutive 6-month periods.</section></section></section>
+    <section prefix="(a)">The Commission:<section prefix="(1)">may provide for the billing and collection of the water and sewer usage charges on an estimated basis for periods of 6 months or less, based on the historical daily average consumption calculated from actual previous usage;</section><section prefix="(2)">shall read the meter at least once every 6 months; and</section><section prefix="(3)"><section prefix="(i)">shall base the final bill for the 6-month period on the actual consumption adjusted by previous estimates, if the meter had not been read because it was inaccessible;</section><section prefix="(ii)">shall base the final bill for the 6-month period on the historical daily average consumption, calculated from actual previous usage, if a final reading cannot be made because:<section prefix="1.">the meter malfunctioned;</section><section prefix="2.">the meter had been taken out of service for repairs, maintenance, or water system relining purposes; or</section><section prefix="3.">there was theft of service;</section></section><section prefix="(iii)">may modify the historical daily average consumption calculation based on appropriate evidence submitted by the owner; and</section><section prefix="(iv)">may not base a final bill on estimated usage for two consecutive 6-month periods.</section></section></section>
     <section prefix="(b)">
       <section prefix="(1)">The Commission shall bill for the amount of water and sewer usage charges to each property served monthly, four times a year, or twice a year, as the Commission determines.</section>
       <section prefix="(2)">On receipt each bill is payable to the Commission.</section>

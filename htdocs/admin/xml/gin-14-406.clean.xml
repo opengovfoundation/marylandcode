@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-406" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-406</section_number>
-  <catch_line/>
+  <catch_line>Within 10 days after a significant modification of information submitted with the application for a ...</catch_line>
+  <order_by>406</order_by>
   <text>Within 10 days after a significant modification of information submitted with the application for a certificate of authority, a dental plan organization shall file notice of the modification with the Commissioner.</text>
 </law>

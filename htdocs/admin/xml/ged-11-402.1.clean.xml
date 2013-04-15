@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-402.1" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-11-402.1</section_number>
-  <catch_line/>
+  <catch_line>An institution of higher education may not pay a commission, a bonus, or any other incentive payment...</catch_line>
+  <order_by>402.1</order_by>
   <text>An institution of higher education may not pay a commission, a bonus, or any other incentive payment based on success in securing enrollments or the award of financial aid to a person or entity engaged in student recruitment or admission activity.</text>
 </law>

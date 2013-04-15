@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-601" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-4-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">A depositor of a savings bank may withdraw the deposit as the bylaws of the savings bank permit.</section>
     <section prefix="(b)">The bylaws of a savings bank:<section prefix="(1)">May require a depositor to give notice of an intent to withdraw any part of a deposit; and</section><section prefix="(2)">May not require more than 90 days' notice.</section></section>

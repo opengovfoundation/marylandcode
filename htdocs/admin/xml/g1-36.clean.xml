@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="36" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-36</section_number>
-  <catch_line/>
+  <catch_line>In computing any period of time prescribed or allowed by any applicable statute, the day of the act,...</catch_line>
+  <order_by>36</order_by>
   <text>In computing any period of time prescribed or allowed by any applicable statute, the day of the act, event, or default, after which the designated period of time begins to run is not to be included. The last day of the period so computed is to be included unless: (1) It is a Sunday or a legal holiday, in which event the period runs until the end of the next day, which is neither a Sunday or a holiday; or, (2) the act to be done is the filing of some paper in court and the office of the clerk of said court on said last day of the period is not open, or is closed for a part of a day, in which event, the period runs until the end of the next day which is neither a Sunday, Saturday, a legal holiday, or a day on which the said office is not open the entire day during ordinary business hours. When the period of time allowed is more than seven days, intermediate Sundays and holidays shall be considered as other days; but if the period of time allowed is seven days or less, intermediate Sundays and holidays shall not be counted in computing the period of time.</text>
 </law>

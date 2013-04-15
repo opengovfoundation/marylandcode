@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-702" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to any reasonable limitation that a facility imposes, each individual in the facility shall have access, at all reasonable hours, to writing instruments, stationery, and postage and may use them to write to anyone.</section>

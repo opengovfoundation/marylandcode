@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-302" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-6-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The Secretary shall appoint a State Fire Marshal from a list of three names submitted by the Commission.</section>
     <section prefix="(b)">The State Fire Marshal shall:<section prefix="(1)">be a graduate of an accredited college or university; and</section><section prefix="(2)">have 5 years of recent progressively responsible experience, at least 3 years of which shall have been at the administrative level, in fire prevention inspection, fire investigation, fire safety promotion, fire protection engineering, fire fighting, or teaching fire safety engineering.</section></section>
@@ -15,7 +15,7 @@
       <section prefix="(1)">At any time, the Secretary may remove the State Fire Marshal for neglect of duty or other conduct unbecoming the office.</section>
       <section prefix="(2)">The Commission may recommend to the Secretary that the State Fire Marshal be removed for cause.</section>
       <section prefix="(3)">
-        <section prefix="(i)">Before removing the State Fire Marshal, the Secretary shall give the State Fire Marshal:</section>
+        <section prefix="(i)">Before removing the State Fire Marshal, the Secretary shall give the State Fire Marshal:<section prefix="1.">timely notice with a statement of the charges; and</section><section prefix="2.">an opportunity for a public hearing on the charges.</section></section>
         <section prefix="(ii)">The State Fire Marshal may be represented at the hearing by counsel.</section>
       </section>
     </section>

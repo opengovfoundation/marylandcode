@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-14-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Day care center for adults" means a place that:<section prefix="(1)">Is operated to provide, with or without charge, care for medically handicapped adults; and</section><section prefix="(2)">Either is:<section prefix="(i)">Designated for group day care for 4 or more medically handicapped adults; or</section><section prefix="(ii)">A family home that provides day care for 2 or 3 medically handicapped adults.</section></section></section>

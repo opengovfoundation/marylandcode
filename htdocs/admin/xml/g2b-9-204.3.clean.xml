@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-204.3" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-9-204.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, in Baltimore City, no new license, or removal of an existing license, shall be granted to sell alcoholic beverages in any building located within 300 feet of the nearest point of the buildings of a church or school, but the license of any person now holding a license for any building located within such distance of the building grounds of a church or school may be renewed or extended for the same building.</section>

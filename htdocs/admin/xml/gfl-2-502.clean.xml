@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-502" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-2-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">In this section, "foreign marriage" means a marriage ceremony:<section prefix="(1)">performed outside this State; and</section><section prefix="(2)">in which 1 or both of the parties were or are citizens of this State.</section></section>
     <section prefix="(b)">Each clerk shall keep a foreign marriage record book in the clerk's office. The clerk shall record a foreign marriage when presented with either:<section prefix="(1)">a certificate of marriage signed by the individual who performed the marriage ceremony; or</section><section prefix="(2)">an official certified copy of a marriage record.</section></section>

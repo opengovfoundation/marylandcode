@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-201" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
-      <section prefix="(1)">"Dormitory" means a building or space in a building that:<section prefix="(i)">is under joint occupancy and single management; and</section><section prefix="(ii)">provides group sleeping accommodations:</section></section>
+      <section prefix="(1)">"Dormitory" means a building or space in a building that:<section prefix="(i)">is under joint occupancy and single management; and</section><section prefix="(ii)">provides group sleeping accommodations:<section prefix="1.">with or without meals, but without individual cooking facilities;</section><section prefix="2.">for more than 16 individuals who are not members of the same family group; and</section><section prefix="3.">in one room or in a series of closely associated rooms.</section></section></section>
       <section prefix="(2)">"Dormitory" includes a school dormitory, fraternity house, and military barracks.</section>
     </section>
     <section prefix="(c)">"Dwelling unit" means a single unit that:<section prefix="(1)">provides complete, independent living facilities for one or more individuals; and</section><section prefix="(2)">contains permanent provisions for living, sleeping, eating, cooking, and sanitation.</section></section>
@@ -18,7 +18,7 @@
       <section prefix="(2)">"Hotel" includes an inn, motel, club, and apartment hotel.</section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">"Lodging or rooming house" means a building:<section prefix="(i)">in which separate sleeping rooms are rented; and</section><section prefix="(ii)">that provides sleeping accommodations:</section></section>
+      <section prefix="(1)">"Lodging or rooming house" means a building:<section prefix="(i)">in which separate sleeping rooms are rented; and</section><section prefix="(ii)">that provides sleeping accommodations:<section prefix="1.">for 16 or fewer individuals;</section><section prefix="2.">on either a transient or permanent basis; and</section><section prefix="3.">with or without meals, but without individual cooking facilities.</section></section></section>
       <section prefix="(2)">"Lodging or rooming house" includes an inn, club, and bed and breakfast establishment.</section>
     </section>
     <section prefix="(f)">

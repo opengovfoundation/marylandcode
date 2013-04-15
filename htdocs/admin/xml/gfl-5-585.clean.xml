@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-585" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-585</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>585</order_by>
   <text>
     <section prefix="(a)">All restrictions imposed by the laws, ordinances, or regulations of all subordinate jurisdictions within the State of Maryland on the licensure or regulation of child care centers are superseded by this section, and the State of Maryland hereby preempts the rights of these jurisdictions to regulate child care centers.</section>
     <section prefix="(b)">This section does not apply to any local fire, building, or zoning code required of a child care center.</section>

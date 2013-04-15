@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-107" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-107</section_number>
-  <catch_line/>
+  <catch_line>If any member of the armed services of the United States has executed a power of attorney, the fact ...</catch_line>
+  <order_by>107</order_by>
   <text>If any member of the armed services of the United States has executed a power of attorney, the fact that that person has been reported or listed, officially or otherwise, as "missing in action", as that phrase is used to describe a casualty category applicable to members of the armed services, does not operate to revoke the power of attorney, unless the instrument otherwise provides.</text>
 </law>

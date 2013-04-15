@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-102.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-6-102.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,7 +16,7 @@
       <section prefix="(6)">"Program" means an alcohol-free and drug-free workplace program for a marine facility that meets the requirements of this section.</section>
       <section prefix="(7)">
         <section prefix="(i)">"Safety-sensitive employee" means an employee who operates heavy machinery.</section>
-        <section prefix="(ii)">"Safety-sensitive employee" includes, but is not limited to:</section>
+        <section prefix="(ii)">"Safety-sensitive employee" includes, but is not limited to:<section prefix="1.">An operator of a crane, winch, or top loader; and</section><section prefix="2.">A driver of a hustler or forklift.</section></section>
       </section>
     </section>
     <section prefix="(b)">This section does not apply to:<section prefix="(1)">Employees, contractors, independent contractors, or agents of the Maryland Port Administration;</section><section prefix="(2)">Vessel employees, or employees of contractors or subcontractors that attend vessels, who do not load or unload cargo between a vessel and a pier, or from one stowage position to another on a vessel, at a marine facility; or</section><section prefix="(3)">Individuals or employees required by federal or State law to comply with 49 C.F.R. Parts 40 and 382 of the Federal Motor Carrier Safety Regulations.</section></section>

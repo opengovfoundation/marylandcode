@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-601" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, a person may not practice, attempt to practice, or offer to practice dentistry or dental hygiene on a human being in this State unless licensed by the Board.</section>
     <section prefix="(b)">A person may not aid or abet unauthorized practice of dental hygiene in this State.</section>

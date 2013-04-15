@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-206.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-206.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206.1</order_by>
   <text>
     <section prefix="(a)">In this section, "good faith" means honesty in fact and the observance of reasonable commercial standards of fair dealing in the trade.</section>
     <section prefix="(b)">A manufacturer, distributor, or factory branch, whether directly or through an agent, employee, or representative, may not fail to act in good faith:<section prefix="(1)">In acting or purporting to act under the terms, provisions, or conditions of any franchise agreement; or</section><section prefix="(2)">In any transaction or conduct governed by this subtitle.</section></section>

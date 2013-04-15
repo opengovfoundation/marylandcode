@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-602" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-4-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
-    <section prefix="(a)">The General Assembly finds that:<section prefix="(1)">homemakers have been an insufficiently recognized sector of the work force who make an invaluable contribution to the welfare of the residents of this State; and</section><section prefix="(2)">there is an ever-increasing number of individuals in this State who:<section prefix="(i)">have fulfilled a role as homemaker;</section><section prefix="(ii)">in their middle years, because of separation, divorce, or the death or disability of a family member depended on for support, are:</section><section prefix="(iii)">very often are ineligible for public assistance, unemployment benefits, insurance benefits, and Social Security benefits;</section><section prefix="(iv)">have the highest unemployment rate of any sector of the work force;</section><section prefix="(v)">face discrimination in employment because of age and the absence of any recent employment experience;</section><section prefix="(vi)">often have lost rights as beneficiaries under employers' pension and health plans and other insurance plans; and</section><section prefix="(vii)">often are unacceptable to private insurance plans because of their age.</section></section></section>
+    <section prefix="(a)">The General Assembly finds that:<section prefix="(1)">homemakers have been an insufficiently recognized sector of the work force who make an invaluable contribution to the welfare of the residents of this State; and</section><section prefix="(2)">there is an ever-increasing number of individuals in this State who:<section prefix="(i)">have fulfilled a role as homemaker;</section><section prefix="(ii)">in their middle years, because of separation, divorce, or the death or disability of a family member depended on for support, are:<section prefix="1.">displaced homemakers; and</section><section prefix="2.">without income or with substantially reduced income;</section></section><section prefix="(iii)">very often are ineligible for public assistance, unemployment benefits, insurance benefits, and Social Security benefits;</section><section prefix="(iv)">have the highest unemployment rate of any sector of the work force;</section><section prefix="(v)">face discrimination in employment because of age and the absence of any recent employment experience;</section><section prefix="(vi)">often have lost rights as beneficiaries under employers' pension and health plans and other insurance plans; and</section><section prefix="(vii)">often are unacceptable to private insurance plans because of their age.</section></section></section>
     <section prefix="(b)">In enacting this subtitle, the General Assembly intends to provide to displaced homemakers the counseling, training, employment placement assistance, services, and health care that displaced homemakers need to continue as productive residents of this State.</section>
   </text>
 </law>

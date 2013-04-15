@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-8A-10" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-8A-10</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>10</order_by>
   <text>
     <section prefix="(a)">This section does not apply to allegations that a child is in need of assistance, as defined in &#xA7; 3-801 of this title.</section>
     <section prefix="(b)">An intake officer shall receive:<section prefix="(1)">Complaints from a person or agency having knowledge of facts which may cause a person to be subject to the jurisdiction of the court under this subtitle; and</section><section prefix="(2)">Citations issued by a police officer under &#xA7; 3-8A-33 of this subtitle.</section></section>
@@ -14,8 +14,8 @@
       <section prefix="(2)">An inquiry need not include an interview of the child who is the subject of the complaint if the complaint alleges the commission of an act that would be a felony if committed by an adult or alleges a violation of &#xA7; 4-203 or &#xA7; 4-204 of the Criminal Law Article.</section>
       <section prefix="(3)">In accordance with this section, the intake officer may, after such inquiry and within 25 days of receiving the complaint:<section prefix="(i)">Authorize the filing of a petition or a peace order request or both;</section><section prefix="(ii)">Propose an informal adjustment of the matter; or</section><section prefix="(iii)">Refuse authorization to file a petition or a peace order request or both.</section></section>
       <section prefix="(4)">
-        <section prefix="(i)">If a complaint is filed that alleges the commission of an act which would be a felony if committed by an adult or alleges a violation of &#xA7; 4-203 or &#xA7; 4-204 of the Criminal Law Article, and if the intake officer denies authorization to file a petition or proposes an informal adjustment, the intake officer shall immediately:</section>
-        <section prefix="(ii)">The State's Attorney shall make a preliminary review as to whether the court has jurisdiction and whether judicial action is in the best interests of the public or the child. The need for restitution may be considered as one factor in the public interest. After the preliminary review the State's Attorney shall, within 30 days of the receipt of the complaint by the State's Attorney, unless the court extends the time:</section>
+        <section prefix="(i)">If a complaint is filed that alleges the commission of an act which would be a felony if committed by an adult or alleges a violation of &#xA7; 4-203 or &#xA7; 4-204 of the Criminal Law Article, and if the intake officer denies authorization to file a petition or proposes an informal adjustment, the intake officer shall immediately:<section prefix="1.">Forward the complaint to the State's Attorney; and</section><section prefix="2.">Forward a copy of the entire intake case file to the State's Attorney with information as to any and all prior intake involvement with the child.</section></section>
+        <section prefix="(ii)">The State's Attorney shall make a preliminary review as to whether the court has jurisdiction and whether judicial action is in the best interests of the public or the child. The need for restitution may be considered as one factor in the public interest. After the preliminary review the State's Attorney shall, within 30 days of the receipt of the complaint by the State's Attorney, unless the court extends the time:<section prefix="1.">File a petition or a peace order request or both;</section><section prefix="2.">Refer the complaint to the Department of Juvenile Services for informal disposition; or</section><section prefix="3.">Dismiss the complaint.</section></section>
         <section prefix="(iii)">This subsection may not be construed or interpreted to limit the authority of the State's Attorney to seek a waiver under &#xA7; 3-8A-06 of this subtitle.</section>
       </section>
     </section>
@@ -23,7 +23,7 @@
       <section prefix="(1)">In this subsection, "seriously emotionally disturbed" has the meaning stated in &#xA7; 15-130 of the Health - General Article.</section>
       <section prefix="(2)">
         <section prefix="(i)">As soon as possible and in no event later than 25 days after receipt of a complaint, the intake officer shall discuss with the child who is the subject of a complaint and the child's parent or guardian information regarding a referral for a mental health and substance abuse screening of the child.</section>
-        <section prefix="(ii)">The screening authorized under subparagraph (i) of this paragraph shall be conducted by a person who:</section>
+        <section prefix="(ii)">The screening authorized under subparagraph (i) of this paragraph shall be conducted by a person who:<section prefix="1.">Has been selected by the child's parent or guardian;</section><section prefix="2.">Has been approved by the child's health insurance carrier; and</section><section prefix="3.">Is:</section></section>
         <section prefix="(iii)">Within 15 days of the date of the discussion with the child and the child's parent or guardian, the intake officer shall document whether the child's parent or guardian made an appointment for a mental health and substance abuse screening of the child who is the subject of a complaint.</section>
       </section>
       <section prefix="(3)">If, as a result of the screening authorized under paragraph (2) of this subsection, it is determined that the child is a mentally handicapped or seriously emotionally disturbed child, or is a substance abuser, the qualified health, mental health, or substance abuse professional or staff, no later than 5 working days after the screening, shall conduct a comprehensive mental health or substance abuse assessment of the child.</section>

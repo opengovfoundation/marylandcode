@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-121" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-121</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>121</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -15,7 +15,7 @@
       <section prefix="(5)">"Health care services" means a health or medical care procedure or service rendered by a provider that:<section prefix="(i)">provides testing, diagnosis, or treatment of a human disease or dysfunction; or</section><section prefix="(ii)">dispenses drugs, medical devices, medical appliances, or medical goods for the treatment of a human disease or dysfunction.</section></section>
       <section prefix="(6)">
         <section prefix="(i)">"Provider" means a person or entity licensed, certified, or otherwise authorized under the Health Occupations Article or the Health - General Article to provide health care services.</section>
-        <section prefix="(ii)">"Provider" includes:</section>
+        <section prefix="(ii)">"Provider" includes:<section prefix="1.">a health care facility;</section><section prefix="2.">a pharmacy;</section><section prefix="3.">a professional services corporation;</section><section prefix="4.">a partnership;</section><section prefix="5.">a limited liability company;</section><section prefix="6.">a professional office; or</section><section prefix="7.">any other entity licensed or authorized by law to provide or deliver professional health care services through or on behalf of a provider.</section></section>
       </section>
     </section>
     <section prefix="(b)">This section applies to a carrier that provides health care services to enrollees, or otherwise makes health care services available to enrollees, through contracts with providers.</section>

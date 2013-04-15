@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-103" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-26-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The Commissioner may conduct investigations and examine the books, records, and accounts of a person at the person's expense under this title to the same extent as is authorized with respect to insurers under this article.</section>
     <section prefix="(b)">The Commissioner may:<section prefix="(1)">investigate possible violations of this title and subpoena persons and documents that the Commissioner considers appropriate in connection with the investigation;</section><section prefix="(2)">require a licensee to stop doing business through a particular representative on finding, after notice and opportunity for a hearing, that the representative has intentionally or negligently made false or misleading statements about the services offered by the licensee; and</section><section prefix="(3)">adopt regulations to administer, carry out, or enforce this title.</section></section>

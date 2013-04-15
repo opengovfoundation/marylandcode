@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-229" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-9-229</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>229</order_by>
   <text>
     <section prefix="(a)">The Department shall operate and manage the Baltimore City Juvenile Justice Center as a centralized regional juvenile intake, assessment, court, and detention facility for Baltimore City.</section>
     <section prefix="(b)">The Baltimore City Juvenile Justice Center shall include:<section prefix="(1)">the Department;</section><section prefix="(2)">the Juvenile Division of the Circuit Court for Baltimore City;</section><section prefix="(3)">an office of the State's Attorney for Baltimore City;</section><section prefix="(4)">an office of the Baltimore City Department of Social Services;</section><section prefix="(5)">Baltimore City police services; and</section><section prefix="(6)">courthouse security services of the Sheriff of Baltimore City.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-7A-02" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-7A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">There is an Animal Waste Technology Fund in the Department.</section>
     <section prefix="(b)">The purpose of the Animal Waste Technology Fund is to provide financial assistance to individuals and business enterprises that:<section prefix="(1)">Conduct research or develop technologies that are intended to reduce the amount of nutrients in animal waste;</section><section prefix="(2)">Alter the composition of animal waste;</section><section prefix="(3)">Develop alternative animal waste management strategies; or</section><section prefix="(4)">Use animal waste in a production process.</section></section>

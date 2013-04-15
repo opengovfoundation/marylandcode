@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-924" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-924</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>924</order_by>
   <text>
     <section prefix="(a)">The Commissioner may conduct an on-site examination of a licensee with or without prior notice.</section>
     <section prefix="(b)">The licensee shall pay all reasonably incurred costs directly related to an examination conducted under this section, including the travel expenses, lodging expenses, and a per diem for examiners.</section>

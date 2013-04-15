@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-308" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">In this section, "natural gas vehicle" means a vehicle operated on a public road and powered by natural gas.</section>
     <section prefix="(b)">The sale by any person of natural gas that is received from a public service company for use as a motor fuel in a natural gas vehicle is not subject to regulation by the Commission.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-609" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">Whenever the Fund makes payment in an action brought or claim made under this subtitle, the Fund shall be subrogated to the cause of action of the claimant receiving the payment against the driver or owner of the motor vehicle by which the accident was occasioned.</section>
     <section prefix="(b)">The Fund:<section prefix="(1)">if the identity and whereabouts are established of the person that is the driver or owner, may bring an action against that person for the amount of damage the claimant sustains; and</section><section prefix="(2)">may recover that amount out of any money payable with respect to death or injury under any policy in force when the accident occurred.</section></section>

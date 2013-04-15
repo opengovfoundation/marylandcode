@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-204" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-9-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">Upon the death of a holder of jointly held property, a surviving holder may disclaim in whole or in part, the greater of:<section prefix="(1)">A fractional share of the property determined by dividing the number one by the number of joint holders alive immediately before the death of the holder to whose death the disclaimer relates; or</section><section prefix="(2)">All of the property except that part of the value of the entire interest attributable to the contribution furnished by the disclaimant.</section></section>
     <section prefix="(b)">A disclaimer under subsection (a) of this section takes effect as of the death of the holder of jointly held property to whose death the disclaimer relates.</section>

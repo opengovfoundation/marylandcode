@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11A-124" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11A-124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>124</order_by>
   <text>
     <section prefix="(a)">It is unlawful for any developer to sell or offer to sell a time-share in this State unless the developer has designated a person as the project broker for the time-share project. The time-share project shall be considered a separate real estate office for purposes of the real estate licensing laws of this State.</section>
     <section prefix="(b)">It is unlawful for any person to act as project broker for a time-share project unless such person is a licensed real estate broker.</section>

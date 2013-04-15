@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-305" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-12-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the ordinance or resolution described in &#xA7; 12-303 of this subtitle may provide that a bond may be secured and made payable from any combination of:<section prefix="(1)">a pledge of the full faith and credit of the political subdivision and payable by taxes of general applicability;</section><section prefix="(2)">an increase in real property tax revenues that is attributable to increases in assessed value in designated blighted areas resulting from carrying out the purposes for which the bond is issued;</section><section prefix="(3)">revenues of the project or undertaking for which the bond is issued;</section><section prefix="(4)">proceeds of bonds; or</section><section prefix="(5)">other money that may be legally made available to pay the bond.</section></section>
     <section prefix="(b)">A bond issued by Baltimore City may not be secured under subsection (a)(2) of this section.</section>

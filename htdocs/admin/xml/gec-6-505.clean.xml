@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-505" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-6-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">The Authority consists of the following nine members:<section prefix="(1)">seven members appointed by the Governor with the advice and consent of the Senate;</section><section prefix="(2)">one member appointed by the President of the Senate; and</section><section prefix="(3)">one member appointed by the Speaker of the House.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">Of the seven members appointed by the Governor:<section prefix="(i)"/><section prefix="(ii)">at least one shall have experience as a small business owner;</section><section prefix="(iii)">at least one shall have experience as a business executive that has raised venture capital investments; and</section><section prefix="(iv)">at least one shall be a resident of a rural county in the State.</section></section>
+      <section prefix="(1)">Of the seven members appointed by the Governor:<section prefix="(i)"><section prefix="1.">at least four shall have experience in working with companies that have raised investment capital for seed-stage to venture-stage companies or in providing professional services to the venture capital industry; and</section><section prefix="2.">one of the four members selected under item 1 of  this item shall have experience in higher education research and development and technology transfer projects;</section></section><section prefix="(ii)">at least one shall have experience as a small business owner;</section><section prefix="(iii)">at least one shall have experience as a business executive that has raised venture capital investments; and</section><section prefix="(iv)">at least one shall be a resident of a rural county in the State.</section></section>
       <section prefix="(2)">The Governor shall consider the geographic diversity of the State when appointing members.</section>
     </section>
     <section prefix="(c)">The members appointed by the President and the Speaker:<section prefix="(1)">may not be elected officials; and</section><section prefix="(2)">shall have experience and expertise in venture capital investments.</section></section>

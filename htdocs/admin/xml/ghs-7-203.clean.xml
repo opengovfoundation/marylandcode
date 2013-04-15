@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-203" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-7-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">An owner may not take a protected action unless the owner has provided all tenant protection assistance required by this title.</section>
     <section prefix="(b)">Before a sale or conveyance of an assisted project that is a protected action, the owner shall offer the right of first purchase in accordance with this subtitle.</section>

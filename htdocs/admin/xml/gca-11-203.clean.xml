@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-203" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-11-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commissioner from time to time may make, amend, and rescind the rules, forms, and orders necessary to carry out the provisions of this title, including rules and forms governing registration statements, notice filings, applications, and reports and defining any terms, whether or not used in this title, to the extent that the definitions are not inconsistent with the provisions of this title.</section>

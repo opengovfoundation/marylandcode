@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-205" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">In addition to the modification under &#xA7; 10-204 of this subtitle, the amounts under this section are added to the federal adjusted gross income of a resident to determine Maryland adjusted gross income.</section>
     <section prefix="(b)">The addition under subsection (a) of this section includes the amount of a credit claimed under:<section prefix="(1)">&#xA7; 10-702 of this title for wages paid to an employee in an enterprise zone;</section><section prefix="(2)">&#xA7; 10-704.3 of this title or &#xA7; 8-213 of this article for wages paid and qualified child care or transportation expenses incurred with respect to qualified employment opportunity employees; and</section><section prefix="(3)">&#xA7; 10-704.7 of this title or &#xA7; 8-216 of this article for wages paid and qualified child care or transportation expenses incurred with respect to a qualified employee with a disability.</section></section>
@@ -18,7 +18,7 @@
         <section prefix="(iii)">"Net addition modification" means, for any taxable year, the amount by which the sum of the addition modifications required under this title exceeds the sum of the subtraction modifications allowed under this title.</section>
         <section prefix="(iv)">"Net operating loss deduction" means a net operating loss deduction allowed for federal income tax purposes under &#xA7; 172 of the Internal Revenue Code.</section>
       </section>
-      <section prefix="(2)">If a net operating loss deduction is allowed for the taxable year, the addition under subsection (a) of this section for the taxable year includes, for each loss year as to which a portion of the net operating loss deduction is attributable, an amount equal to the lesser of:<section prefix="(i)">the amount of the net operating loss deduction attributable to that loss year; or</section><section prefix="(ii)">the amount by which the total net operating loss in the loss year is less than the sum of:</section></section>
+      <section prefix="(2)">If a net operating loss deduction is allowed for the taxable year, the addition under subsection (a) of this section for the taxable year includes, for each loss year as to which a portion of the net operating loss deduction is attributable, an amount equal to the lesser of:<section prefix="(i)">the amount of the net operating loss deduction attributable to that loss year; or</section><section prefix="(ii)">the amount by which the total net operating loss in the loss year is less than the sum of:<section prefix="1.">the net addition modification for that loss year; and</section><section prefix="2.">the cumulative net operating loss deductions attributable to that loss year allowed for the taxable year and all prior taxable years.</section></section></section>
     </section>
     <section prefix="(f)">The addition under subsection (a) of this section includes 50% of the sum of tax preference items under &#xA7; 10-222 of this subtitle.</section>
     <section prefix="(g)">The addition under subsection (a) of this section includes the amount claimed and allowed as a deduction for federal income tax purposes for expenses attributable to:<section prefix="(1)">operating a family child care home in the State without having the registration required by &#xA7; 5-552 of the Family Law Article; or</section><section prefix="(2)">operating a child care center in the State without having the license required by &#xA7; 5-574 of the Family Law Article.</section></section>

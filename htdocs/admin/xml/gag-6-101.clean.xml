@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-101" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-6-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">A commercial feed is "adulterated" if:<section prefix="(1)">The feed contains any poisonous or deleterious substance that may render the feed injurious to human or animal health, except when the substance is not added to the feed and the quantity of the substance does not ordinarily render it injurious to human or animal health;</section><section prefix="(2)">A valuable constituent is omitted or abstracted wholly or partially from it or any less valuable substance is substituted for it;</section><section prefix="(3)">Its composition or quality falls below or differs from that which it is purported or is represented to possess by its labeling;</section><section prefix="(4)">The feed contains any added poisonous, added deleterious, or added nonnutritive substance which is unsafe;</section><section prefix="(5)">The feed consists, in whole or part, of any filthy, putrid, or decomposed substance, or is otherwise unfit for feed; or</section><section prefix="(6)">The feed has been prepared, packed, or held under unsanitary conditions where the feed may have become contaminated with filth or rendered injurious to human or animal health.</section></section>

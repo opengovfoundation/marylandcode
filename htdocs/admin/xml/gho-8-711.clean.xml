@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-711" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-8-711</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>711</order_by>
   <text>
     <section prefix="(a)">The Board may impose a civil fine on a licensee who fails to renew a license within 30 days after the date of expiration of the license and engages in the practice of nursing during the period of expiration.</section>
     <section prefix="(b)">The civil fine shall be $5 a day for each day that the violation continues, up to a maximum of $500.</section>

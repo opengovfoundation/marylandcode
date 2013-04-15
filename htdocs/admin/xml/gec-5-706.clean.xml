@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-706" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">A political subdivision may request the Secretary to designate all or part of an enterprise zone as a focus area for the lesser of:<section prefix="(1)">5 years; or</section><section prefix="(2)">the remainder of the 10-year term of the applicable enterprise zone.</section></section>
     <section prefix="(b)">The request may be made on or before a submission date when the political subdivision applies for the designation of a new enterprise zone or after the Secretary has designated an enterprise zone.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-504" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-13-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">When a contract is executed for the transfer of any interest in agricultural land in Washington County, the seller shall notify the buyer, in writing, that the transfer may be subject to the county agricultural land transfer tax.</section>
     <section prefix="(b)">If a seller fails to notify a buyer as required by subsection (a) of this section, the seller is liable to the buyer for the county agricultural land transfer tax paid by the buyer.</section>

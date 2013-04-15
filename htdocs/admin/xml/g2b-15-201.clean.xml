@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-201" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-15-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraphs (2) and (3) of this subsection, there is hereby constituted and established in each county a liquor control board, to be appointed and to have the tenure, compensation, powers and duties as provided in this subtitle.</section>
@@ -14,7 +14,7 @@
         <section prefix="(ii)">Whenever used in this subtitle the words "liquor control board" or "board" shall be construed to apply to the Department of Liquor Control in Montgomery County whenever such construction would be reasonable.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">In Worcester County there is a Department of Liquor Control that:</section>
+        <section prefix="(i)">In Worcester County there is a Department of Liquor Control that:<section prefix="1.">Is a department of the county government; and</section><section prefix="2.">Has the powers of a liquor control board as defined in &#xA7; 15-205 of this subtitle.</section></section>
         <section prefix="(ii)">The words "liquor control board" or "board" in this subtitle apply to the Worcester County Department of Liquor Control when that construction would be reasonable.</section>
       </section>
     </section>
@@ -35,7 +35,14 @@
       <section prefix="(2)">In Somerset County Board members shall be appointed by the Governor.</section>
       <section prefix="(3)">
         <section prefix="(i)">Nominees shall be selected for vacancies on the Harford County Liquor Control Board with consideration given to geographical representation.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The appointment process to fill vacancies resulting from expired terms on the Harford County Liquor Control Board is as provided in this subparagraph.</section>
+          <section prefix="2.">At least 60 days before the expiration of a member's term, the County Executive shall submit the name of one nominee to the Harford County Delegation to the Maryland General Assembly, consisting of Harford County Senators and Delegates, for the advice and consent of the Delegation.</section>
+          <section prefix="3.">Within 7 working days after the Delegation receives the name of the nominee:</section>
+          <section prefix="4.">If the Delegation rejects the nominee, the County Executive shall submit the name of a new nominee to the Delegation within 7 working days after the County Executive receives notice of the rejection.</section>
+          <section prefix="5.">The County Executive shall continue to submit names of nominees in accordance with subsubparagraphs 3 and 4 of this subparagraph to the Delegation until a nominee is approved.</section>
+          <section prefix="6.">The County Executive shall submit the name of the approved nominee to the County Council for its advice and consent.</section>
+        </section>
       </section>
       <section prefix="(4)">In Garrett County, the members of the Board shall be appointed by the Governor. He shall appoint two members of the Board who are members of that political party which has elected a majority of the members of the Board of County Commissioners and one member of the Board from that political party other than the one electing a majority of the Board of County Commissioners. The appointments shall be confirmed by the House of Delegates if there is no resident Senator elected from the county.</section>
       <section prefix="(5)">In Worcester County, the Board of County Commissioners shall appoint the director of the Department of Liquor Control, who shall serve at the pleasure of the Board.</section>

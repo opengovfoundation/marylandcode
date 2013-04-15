@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-312" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">To determine the earnable compensation of a member in a payroll period, the Board of Trustees may deem that the rate of annual compensation payable to the member on the first day of the payroll period continues throughout the payroll period.</section>
     <section prefix="(b)">The Board of Trustees may omit member contributions for a period less than a full payroll period for an individual who was not a member on the first day of the payroll period.</section>

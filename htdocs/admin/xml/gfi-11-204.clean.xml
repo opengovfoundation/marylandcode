@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-204" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-11-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">Unless a person is licensed by the Commissioner, the person may not:<section prefix="(1)">Make a loan; or</section><section prefix="(2)">In any way use any advantage provided by the Maryland Consumer Loan Law.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">A separate license is required for each place of business where a person makes a loan or transacts any business under the Maryland Consumer Loan Law.</section>
       <section prefix="(2)">A person may not:<section prefix="(i)">Receive any application for a loan or allow any note or contract for a loan to be signed at any place of business for which the person does not have a license;</section><section prefix="(ii)">Conduct any business under the Maryland Consumer Loan Law under a name different from the name that appears on the person's license; or</section><section prefix="(iii)">Evade the application of this section by any device, subterfuge, or pretense of any kind.</section></section>
       <section prefix="(3)">This subsection does not prohibit a licensee from accommodating a borrower, at the borrower's request, by making a loan by mail because of the borrower's sickness or hours of employment or for similar reasons.</section>
-      <section prefix="(4)">Notwithstanding paragraphs (2) and (3) of this subsection, for a loan that is to be secured by residential real property:<section prefix="(i)">A licensee may solicit and accept an application for a loan:</section><section prefix="(ii)">Except as provided in subparagraph (iii) of this paragraph, the loan closing shall be conducted at:</section><section prefix="(iii)">A licensee may conduct the loan closing at another location at the written request of the borrower or the borrower's designee to accommodate the borrower because of the borrower's sickness.</section></section>
+      <section prefix="(4)">Notwithstanding paragraphs (2) and (3) of this subsection, for a loan that is to be secured by residential real property:<section prefix="(i)">A licensee may solicit and accept an application for a loan:<section prefix="1.">By mail;</section><section prefix="2.">By telephone or other electronic means; or</section><section prefix="3.">At any location requested by the prospective borrower;</section></section><section prefix="(ii)">Except as provided in subparagraph (iii) of this paragraph, the loan closing shall be conducted at:<section prefix="1.">The lender's licensed location;</section><section prefix="2.">The office of an attorney representing the licensee, the borrower, the title company, or title insurer in connection with the loan; or</section><section prefix="3.">The office of the title insurer or title agency performing closing services in connection with the loan; and</section></section><section prefix="(iii)">A licensee may conduct the loan closing at another location at the written request of the borrower or the borrower's designee to accommodate the borrower because of the borrower's sickness.</section></section>
     </section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-16-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Any artisan who, with the consent of the owner, has possession of goods for repair, mending, improving, dry cleaning, laundering, or other work which includes storage of goods in the case of a dry cleaner or launderer, has a lien on the goods for the costs of the work done.</section>
     <section prefix="(b)">If the costs which give rise to the lien are due and unpaid 90 days after the work is completed or in the case of a dry cleaner or launderer goods are due to be retrieved from storage, the artisan may sell the goods to which the lien attaches at public or private sale. The artisan, launderer, or dry cleaner shall post a notice in a conspicuous place on the premises to the effect that clothing must be retrieved in 90 days or it will be subject to sale, after notice.</section>

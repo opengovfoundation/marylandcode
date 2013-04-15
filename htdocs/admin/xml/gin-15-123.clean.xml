@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-123" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-123</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,7 +16,7 @@
       <section prefix="(6)">"Health care services" means a health or medical care procedure or service rendered by a provider that:<section prefix="(i)">provides testing, diagnosis, or treatment of a human disease or dysfunction; or</section><section prefix="(ii)">dispenses drugs, medical devices, medical appliances, or medical goods for the treatment of a human disease or dysfunction.</section></section>
       <section prefix="(7)">
         <section prefix="(i)">"Provider" means a person or entity licensed, certified, or otherwise authorized under the Health Occupations Article or the Health - General Article to provide health care services.</section>
-        <section prefix="(ii)">"Provider" includes:</section>
+        <section prefix="(ii)">"Provider" includes:<section prefix="1.">a health care facility;</section><section prefix="2.">a pharmacy;</section><section prefix="3.">a professional services corporation;</section><section prefix="4.">a partnership;</section><section prefix="5.">a limited liability company;</section><section prefix="6.">a professional office; or</section><section prefix="7.">any other entity licensed or authorized by law to provide or deliver professional health care services through or on behalf of a provider.</section></section>
       </section>
       <section prefix="(8)">"Therapeutic services" means any medical or surgical service or procedure that a provider can use to treat a human disease or disorder.</section>
     </section>
@@ -27,7 +27,7 @@
       <section prefix="(2)">The carrier shall disclose the definition in:<section prefix="(i)">contracts offered to providers that may render direct health care services to the enrollees of the carrier; and</section><section prefix="(ii)">marketing materials and enrollment materials of the carrier that are provided to current enrollees and prospective enrollees, as appropriate.</section></section>
     </section>
     <section prefix="(e)">Each carrier shall establish or subscribe or contract to provide a systematic, scientific process to follow for evaluating emerging medical and surgical treatments to ensure that subscribers have access to the latest appropriate treatments.</section>
-    <section prefix="(f)">The process established or subscribed to or contracted for by a carrier under subsection (e) of this section shall include:<section prefix="(1)">a comprehensive review of medical literature and data evaluation; and</section><section prefix="(2)">input from physicians and other recognized experts:<section prefix="(i)">who are not employees of the carrier; and</section><section prefix="(ii)">who:</section></section></section>
+    <section prefix="(f)">The process established or subscribed to or contracted for by a carrier under subsection (e) of this section shall include:<section prefix="(1)">a comprehensive review of medical literature and data evaluation; and</section><section prefix="(2)">input from physicians and other recognized experts:<section prefix="(i)">who are not employees of the carrier; and</section><section prefix="(ii)">who:<section prefix="1.">are currently treating patients for the disease or condition being evaluated;</section><section prefix="2.">are board certified in the pertinent specialty or subspecialty area of the disease or condition being evaluated;</section><section prefix="3.">are generally recognized by their peers to be authoritative resources in the clinical area being evaluated as evidenced by:</section><section prefix="4.">have a demonstrated history of substantial experience and practical knowledge in the specialty or subspecialty area in question.</section></section></section></section>
     <section prefix="(g)">A carrier's decision to provide coverage for an emerging medical or surgical treatment shall result from the consensus of opinion from its own analysis and the knowledge provided to the carrier from the process identified by the carrier in subsection (f) of this section.</section>
     <section prefix="(h)">Each carrier, in conjunction with the clinical experts identified by the carrier under subsection (f)(2) of this section, shall decide the patient selection criteria for an emerging medical or surgical treatment for which coverage by the carrier is to be provided.</section>
     <section prefix="(i)">Each carrier shall provide a description of the process identified by the carrier under subsection (f) of this section to enrollees and contracting providers and all other providers on request.</section>

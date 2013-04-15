@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-720" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-720</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>720</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Administration" means the Maryland Energy Administration.</section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraphs (ii) and (iii) of this paragraph, "qualified energy resources" has the meaning stated in &#xA7; 45(c)(1) of the Internal Revenue Code.</section>
-        <section prefix="(ii)">"Qualified energy resources" includes any nonhazardous waste material that is segregated from other waste materials and is derived from:</section>
-        <section prefix="(iii)">"Qualified energy resources" includes methane gas or other combustible gases resulting from the decomposition of organic materials from an agricultural operation, or from a landfill or wastewater treatment plant using one or a combination of the following processes:</section>
+        <section prefix="(ii)">"Qualified energy resources" includes any nonhazardous waste material that is segregated from other waste materials and is derived from:<section prefix="1.">any of the following forest-related resources, not including old-growth timber:</section><section prefix="2.">waste pallets, crates, and dunnage and landscape or right-of-way trimmings; or</section><section prefix="3.">agricultural sources, including, but not limited to, orchard tree crops, vineyard, grain, legumes, sugar, and other crop by-products or residues.</section></section>
+        <section prefix="(iii)">"Qualified energy resources" includes methane gas or other combustible gases resulting from the decomposition of organic materials from an agricultural operation, or from a landfill or wastewater treatment plant using one or a combination of the following processes:<section prefix="1.">anaerobic decomposition; or</section><section prefix="2.">thermal decomposition.</section></section>
       </section>
       <section prefix="(4)">"Qualified Maryland facility" means a facility located in the State that:<section prefix="(i)">primarily uses qualified energy resources to produce electricity and is originally placed in service on or after January 1, 2006, but before January 1, 2016; or</section><section prefix="(ii)">produces electricity from a qualified energy resource that is co-fired with coal and initially begins co-firing a qualified energy resource on or after January 1, 2006, but before January 1, 2016, regardless of when the original facility was placed in service.</section></section>
     </section>
@@ -37,7 +37,7 @@
     <section prefix="(e)">
       <section prefix="(1)">On January 1, 2007, and each year thereafter, the Administration shall provide to the Comptroller a list of all taxpayers in the prior tax year that have been issued an initial credit certificate and shall specify for each taxpayer the earliest tax year for which the credit may be claimed and the maximum amount of credit allowed.</section>
       <section prefix="(2)">
-        <section prefix="(i)">On or before October 1, 2007, and each year thereafter, the Comptroller and the Administration jointly shall submit to the Governor and, subject to &#xA7; 2-1246 of the State Government Article, to the General Assembly a written report regarding:</section>
+        <section prefix="(i)">On or before October 1, 2007, and each year thereafter, the Comptroller and the Administration jointly shall submit to the Governor and, subject to &#xA7; 2-1246 of the State Government Article, to the General Assembly a written report regarding:<section prefix="1.">the number of certifications and taxpayers claiming the credit under this section;</section><section prefix="2.">the name and physical location of each taxpayer issued an initial credit certificate;</section><section prefix="3.">the maximum credit amount approved for each taxpayer;</section><section prefix="4.">the geographical distribution of the credits claimed; and</section><section prefix="5.">any other available information the Administration determines to be meaningful and appropriate.</section></section>
         <section prefix="(ii)">The Comptroller shall ensure that the information is presented and classified in a manner consistent with the confidentiality of tax return information.</section>
       </section>
     </section>

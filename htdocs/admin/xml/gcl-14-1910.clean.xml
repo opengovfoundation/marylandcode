@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1910" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1910</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1910</order_by>
   <text>
     <section prefix="(a)">Any person claiming against the surety bond for a violation of this subtitle may maintain an action against the credit services business and against the surety.</section>
     <section prefix="(b)">The surety shall be liable only for actual damages and not for the punitive damages permitted under &#xA7; 14-1912 of this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-414" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-414</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>414</order_by>
   <text>
     <section prefix="(a)">If any person who has applied for or obtained the registration of a vehicle moves from the address given in the application or shown on the registration card, the person shall, within 30 days of the change, notify the Administration of the former address and new address.</section>
     <section prefix="(b)">If the name of any individual who has applied for or obtained the registration of a vehicle is later changed by marriage or by court order, or if the name of any other person who has applied for or obtained the registration of a vehicle is later changed as provided by law, the person shall, within 30 days of the change, notify the Administration of the former name and the new name and apply for a corrected registration certification on the form that the Administration requires. On receipt of the application, the Administration shall issue a corrected registration certificate without charge.</section>

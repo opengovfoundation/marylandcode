@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-806" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">The authorizing resolution may provide that the bonds shall contain a recital that they are issued under this subtitle.</section>
     <section prefix="(b)">The authorizing resolution shall state that the interest on bonds issued under this subtitle shall be payable twice a year.</section>

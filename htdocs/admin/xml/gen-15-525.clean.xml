@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-525" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-525</section_number>
-  <catch_line/>
+  <catch_line>No person may engage in or be directly responsible for blasting or the use of explosives in open-pit...</catch_line>
+  <order_by>525</order_by>
   <text>No person may engage in or be directly responsible for blasting or the use of explosives in open-pit mining operations without being certified by the Department. The Department shall establish a program providing training, examination and certification.</text>
 </law>

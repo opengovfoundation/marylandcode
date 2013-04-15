@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-301" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a policy of group life insurance may not be delivered in the State unless it contains in substance:<section prefix="(1)">the provisions of &#xA7;&#xA7; 17-302 through 17-311 of this subtitle; or</section><section prefix="(2)">provisions that in the opinion of the Commissioner are:<section prefix="(i)">more favorable to the insureds; or</section><section prefix="(ii)">at least as favorable to the insureds and more favorable to the policyholder.</section></section></section>
     <section prefix="(b)">

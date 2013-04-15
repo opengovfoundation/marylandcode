@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-114" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-5-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">In this section, "proceeds of a letter of credit" means the cash, check, accepted draft, or other item of value paid or delivered upon honor or giving of value by the issuer or any nominated person under the letter of credit. The term does not include a beneficiary's drawing rights or documents presented by the beneficiary.</section>
     <section prefix="(b)">A beneficiary may assign its right to part or all of the proceeds of a letter of credit. The beneficiary may do so before presentation as a present assignment of its right to receive proceeds contingent upon its compliance with the terms and conditions of the letter of credit.</section>

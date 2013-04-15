@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-302" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-10-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In Prince George's County, before a Class A, B, C, or D alcoholic beverages license expires, the holder may renew it for an additional term.</section>
@@ -14,7 +14,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">The renewal application shall state that the facts in the original application are unchanged.</section>
-      <section prefix="(2)">The renewal application shall be accompanied by a signed statement.<section prefix="(i)">The statement shall be signed by the owner of the premises containing the business that is subject to the license renewal.</section><section prefix="(ii)">The owner shall consent:</section></section>
+      <section prefix="(2)">The renewal application shall be accompanied by a signed statement.<section prefix="(i)">The statement shall be signed by the owner of the premises containing the business that is subject to the license renewal.</section><section prefix="(ii)">The owner shall consent:<section prefix="1.">To renewal of the license; and</section><section prefix="2.">To search and seizure as in the case of the original application.</section></section></section>
       <section prefix="(3)">A signed consent statement provided for in this subsection is not required:<section prefix="(i)">If a signed statement has been previously filed with the original application or a renewal application and the owner's consent is valid for the term of the lease between the owner and the applicant and the lease does not expire prior to expiration of the license renewal term; or</section><section prefix="(ii)">If the renewal applicant has a lease for the entire building in which the business is conducted and the lease is not less than the term of the renewal license, and the owner's consent statement has been previously filed with the original application or the renewal application.</section></section>
     </section>
     <section prefix="(c)">However, the Prince George's County Board of License Commissioners shall not require an applicant to hold a lease on the premises that contain the licensed business for the full term or any portion of the license renewal period.</section>

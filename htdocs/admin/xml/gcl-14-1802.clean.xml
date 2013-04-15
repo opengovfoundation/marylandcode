@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1802" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1802</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of this article, when a consumer orders a household good, the dealer shall provide to the consumer:<section prefix="(1)">An estimated delivery date written clearly and conspicuously on any document evidencing the agreement of sale or lease for the household good; and</section><section prefix="(2)">A statement that is part of or accompanies the document evidencing the agreement of sale or lease for the household good and is in boldface type of a minimum size of 10 points which is in substantially the following form:</section></section>
     <section prefix="(b)">The estimated delivery date shall take into account the manufacturer's or supplier's instructions, recent delivery experience with the manufacturer or supplier, and the dealer's own delivery schedules.</section>

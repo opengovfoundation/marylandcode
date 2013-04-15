@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-12-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">In this section, "antique slot machine" means a slot machine that was manufactured at least 25 years before the date on which the machine is seized.</section>
     <section prefix="(b)">A person may not be convicted under &#xA7; 12-302 of this subtitle if the person shows by a preponderance of the evidence that the slot machine:<section prefix="(1)">is an antique slot machine; and</section><section prefix="(2)">was not operated for gambling purposes while in the person's possession.</section></section>

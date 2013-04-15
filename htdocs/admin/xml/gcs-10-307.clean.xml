@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board shall investigate each claim filed under &#xA7; 10-305 of this subtitle.</section>
@@ -15,7 +15,7 @@
     <section prefix="(c)">
       <section prefix="(1)">The Board shall file the original papers representing the claim and all appended documents in the office of the Secretary.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The Board shall send a copy of the original papers representing the claim and all appended documents to:</section>
+        <section prefix="(i)">The Board shall send a copy of the original papers representing the claim and all appended documents to:<section prefix="1.">the Comptroller; and</section><section prefix="2.">the Secretary of Budget and Management.</section></section>
         <section prefix="(ii)">The Comptroller and the Secretary of Budget and Management shall keep a record of the documents sent by the Secretary under item (i) of this paragraph.</section>
       </section>
       <section prefix="(3)">The original papers representing the claim and all appended documents constitute a permanent claims record.</section>

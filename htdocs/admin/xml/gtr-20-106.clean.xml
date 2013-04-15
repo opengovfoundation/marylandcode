@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-106" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-20-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">In addition to the other requirements of this title, if a motor vehicle strikes and injures a domestic animal, the driver of the motor vehicle immediately shall notify the appropriate State or local police of the accident.</section>
     <section prefix="(b)">On receipt of notice under this section, the police shall notify the local organization or governmental agency designated by the appropriate local government to give such injured animals medical care.</section>

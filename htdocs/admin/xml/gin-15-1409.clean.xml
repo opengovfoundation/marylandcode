@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1409" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1409</order_by>
   <text>
     <section prefix="(a)">A carrier that elects not to renew all of a particular type of coverage or policy form in the State shall:<section prefix="(1)">provide notice of the nonrenewal at least 90 days before the date of the nonrenewal to each affected:<section prefix="(i)">policyholder;</section><section prefix="(ii)">plan sponsor;</section><section prefix="(iii)">participant; and</section><section prefix="(iv)">beneficiary;</section></section><section prefix="(2)">offer to each affected plan sponsor the option to purchase any other health insurance coverage currently being offered by the carrier; and</section><section prefix="(3)">act uniformly without regard to the claims experience of any affected plan sponsor, or any health status-related factor of any affected individual.</section></section>
     <section prefix="(b)">A carrier may elect not to renew all group health benefit plans in the State.</section>

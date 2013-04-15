@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-802" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -19,7 +19,7 @@
       <section prefix="(9)">"Nursing student" means a student enrolled in a postsecondary nursing education degree or diploma program at an eligible institution.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">There is a Maryland Physician Assistant-Nurse Practitioner Training Program that provides financial support to institutions with training programs for physician assistants and nurse practitioners in primary care in this State administered by the Office. An institution may participate if its program:<section prefix="(i)">Is accredited by the American Medical Association, the American Nurses Association, or the National League of Nursing;</section><section prefix="(ii)">Produces graduates eligible to take:</section><section prefix="(iii)">Is part of, or has a formal arrangement with, a medical education center;</section><section prefix="(iv)">Focuses on developing primary care skills and includes substantial clinical experience in primary care; and</section><section prefix="(v)">Is not a specialty program in a discipline other than primary care.</section></section>
+      <section prefix="(1)">There is a Maryland Physician Assistant-Nurse Practitioner Training Program that provides financial support to institutions with training programs for physician assistants and nurse practitioners in primary care in this State administered by the Office. An institution may participate if its program:<section prefix="(i)">Is accredited by the American Medical Association, the American Nurses Association, or the National League of Nursing;</section><section prefix="(ii)">Produces graduates eligible to take:<section prefix="1.">The primary care physician assistant certifying examination of the National Commission on the Certification of Physician Assistants; or</section><section prefix="2.">The primary care in adult and family nursing practice certifying examination or any other examination required by the State Board of Nursing;</section></section><section prefix="(iii)">Is part of, or has a formal arrangement with, a medical education center;</section><section prefix="(iv)">Focuses on developing primary care skills and includes substantial clinical experience in primary care; and</section><section prefix="(v)">Is not a specialty program in a discipline other than primary care.</section></section>
       <section prefix="(2)">The Physician Assistant-Nurse Practitioner Training Program consists of grants to an eligible medical education center for each individual who completes the program in physician assistant or nurse practitioner training in the amount of:<section prefix="(i)">$3,000 for each physician assistant; and</section><section prefix="(ii)">$1,500 for each nurse practitioner.</section></section>
     </section>
     <section prefix="(c)">If the total amount of the grants to be made under this section for physician assistants-nurse practitioners is more than $72,000 annually, then the amount of a medical education center's grant for that period shall be equal to the product of:<section prefix="(1)">The amount required to pay grants for that center; times</section><section prefix="(2)">The ratio of the total amount appropriated to the total amount required to pay grants under this section to all centers.</section></section>

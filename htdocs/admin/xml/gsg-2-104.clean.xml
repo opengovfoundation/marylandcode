@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-104" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-2-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">All full-time permanent employees of the General Assembly of Maryland and the Department of Legislative Services shall be considered as full-time permanent State employees for the purposes of transferring to a position in the Executive or Judicial Branch of State government.</section>

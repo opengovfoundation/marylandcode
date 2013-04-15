@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11A-104" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11A-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Time-shares may be created in any unit in existence before January 1, 1985 unless prohibited by a project instrument. If time-shares are not prohibited by the project instrument, the owners of at least 34 percent of the units in the project may sign and record a document among the land records of the county where the project is located, stating an intent to limit time-shares in the project, and referring to this section. Thereafter, no person or other entity may become a developer with respect to more than 1 unit in the project, but this limitation will not apply to units of which the developer was owner of record prior to the recording of the aforementioned document.</section>

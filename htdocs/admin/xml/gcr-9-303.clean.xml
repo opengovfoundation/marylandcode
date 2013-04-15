@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">A person may not intentionally harm another, threaten to harm another, or damage or destroy property with the intent of retaliating against a victim or witness for:<section prefix="(1)">giving testimony in an official proceeding; or</section><section prefix="(2)">reporting a crime or delinquent act.</section></section>
     <section prefix="(b)">A person may not solicit another person to intentionally harm another, threaten to harm another, or damage or destroy property with the intent of retaliating against a victim or witness for:<section prefix="(1)">giving testimony in an official proceeding; or</section><section prefix="(2)">reporting a crime or delinquent act.</section></section>

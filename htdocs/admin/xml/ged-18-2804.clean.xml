@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-2804" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-2804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2804</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "eligible field of employment" means employment by an organization, institution, association, society, or corporation that is exempt from taxation under &#xA7; 501(c)(3) or (4) of the Internal Revenue Code of 1986.</section>

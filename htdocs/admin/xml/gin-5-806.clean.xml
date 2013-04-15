@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-806" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (b) through (e) of this section, the trust agreement shall provide in substance that an alien insurer may not make, and the trustee may not allow, withdrawals of trusteed assets without advance written authorization of the Commissioner.</section>
     <section prefix="(b)">The trust agreement may provide that, on request of an alien insurer or the United States manager of the alien insurer, all or part of the income, earnings, dividends, or interest accumulations of the trusteed assets may be paid to that manager.</section>

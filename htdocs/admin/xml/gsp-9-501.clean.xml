@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-501" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-9-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">Each employee in the State Personnel Management System, except a temporary employee, is entitled to sick leave with pay as provided in this subtitle.</section>
     <section prefix="(b)">Sick leave may be used:<section prefix="(1)">for illness or disability of the employee;</section><section prefix="(2)">for death, illness, or disability of a member of the employee's immediate family;</section><section prefix="(3)">following the birth of the employee's child;</section><section prefix="(4)">when a child is placed with the employee for adoption; or</section><section prefix="(5)">for a medical appointment of the employee or a member of the employee's immediate family.</section></section>

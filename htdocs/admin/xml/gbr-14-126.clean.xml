@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-126" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-126</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>126</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a seller violates a provision of &#xA7;&#xA7; 14-120 through 14-125 of this subtitle, the buyer, within 1 year after the date of a contract for the sale of a business opportunity:<section prefix="(i)">may void the contract; and</section><section prefix="(ii)">is entitled to receive from the seller a refund of any money paid to the seller.</section></section>

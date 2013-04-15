@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-403" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, a person must obtain a license before the person acts as a public adjuster in the State.</section>
     <section prefix="(b)">A person that violates this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $500 or imprisonment not exceeding 6 months or both for each violation.</section>

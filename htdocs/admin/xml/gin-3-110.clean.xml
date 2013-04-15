@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-110" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in &#xA7; 3-113 of this subtitle for nonassessable policies, each member of a domestic mutual insurer other than a life insurer is contingently liable on a pro rata basis for the discharge of the liabilities of the domestic mutual insurer.</section>

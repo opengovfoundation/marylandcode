@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-307" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-307</section_number>
-  <catch_line/>
+  <catch_line>The Potomac River Fisheries Commission shall have the power to make, adopt, and publish such rules a...</catch_line>
+  <order_by>307</order_by>
   <text>The Potomac River Fisheries Commission shall have the power to make, adopt, and publish such rules and regulations as may be necessary or desirable for authorizing and regulating the dredging of oysters in areas of the Potomac River within its geographical jurisdiction and may levy license and repletion fees for same.</text>
 </law>

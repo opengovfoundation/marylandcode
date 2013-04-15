@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-803" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-11-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">At the time a foreign judgment is filed, the judgment creditor or the judgment creditor's attorney shall file with the clerk of the court an affidavit showing the name and last known post office address of the judgment debtor and the judgment creditor.</section>
     <section prefix="(b)">

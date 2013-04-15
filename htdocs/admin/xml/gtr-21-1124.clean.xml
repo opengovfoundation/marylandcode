@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1124" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1124</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,7 +16,7 @@
     <section prefix="(c)">An individual who is under the age of 18 years may not use a wireless communication device while operating a motor vehicle.</section>
     <section prefix="(d)">A police officer may enforce this section only as a secondary action when the police officer detains a driver for a suspected violation of another provision of the Code.</section>
     <section prefix="(e)">
-      <section prefix="(1)">If the Administration receives satisfactory evidence that an individual has violated this section, the Administration:<section prefix="(i)">May suspend the individual's driver's license for not more than 90 days; and</section><section prefix="(ii)">May issue a restricted license for the period of suspension that is limited to driving a motor vehicle:</section></section>
+      <section prefix="(1)">If the Administration receives satisfactory evidence that an individual has violated this section, the Administration:<section prefix="(i)">May suspend the individual's driver's license for not more than 90 days; and</section><section prefix="(ii)">May issue a restricted license for the period of suspension that is limited to driving a motor vehicle:<section prefix="1.">In the course of the individual's employment;</section><section prefix="2.">For the purpose of driving to or from a place of employment; or</section><section prefix="3.">For the purpose of driving to or from school.</section></section></section>
       <section prefix="(2)">An individual may request a hearing as provided for a suspension or revocation under Title 12, Subtitle 2 of this article.</section>
     </section>
   </text>

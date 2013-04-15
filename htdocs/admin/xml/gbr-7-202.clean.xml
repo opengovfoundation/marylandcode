@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-202" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-7-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of the following 5 members:<section prefix="(i)">as an ex officio member, the Commissioner; and</section><section prefix="(ii)">4 members appointed by the Governor with the advice and consent of the Senate.</section></section>
       <section prefix="(2)">Of the 4 appointed members:<section prefix="(i)">2 shall represent collection agencies; and</section><section prefix="(ii)">2 shall be consumer members.</section></section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Each consumer member of the Board:<section prefix="(i)">shall be a member of the general public; and</section><section prefix="(ii)">shall be:</section></section>
+      <section prefix="(1)">Each consumer member of the Board:<section prefix="(i)">shall be a member of the general public; and</section><section prefix="(ii)">shall be:<section prefix="1.">an officer or member of the board of a recognized consumer group in the State; or</section><section prefix="2.">an employee of a local consumer protection unit in the State.</section></section></section>
       <section prefix="(2)">A consumer member of the Board may not:<section prefix="(i)">be a licensee or otherwise be subject to regulation by the Board; or</section><section prefix="(ii)">within 1 year before appointment, have had a financial interest in or have received compensation from a person regulated by the Board.</section></section>
     </section>
     <section prefix="(c)">While a member of the Board, a consumer member may not have a financial interest in or receive compensation from a person regulated by the Board.</section>

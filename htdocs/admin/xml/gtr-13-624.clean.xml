@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-624" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-624</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>624</order_by>
   <text>
     <section prefix="(a)">The owner or operator of any special mobile equipment may apply to the Administration for the issuance of as many special, mobile equipment registration plates as the Administration authorizes.</section>
     <section prefix="(b)">The owner or operator of any special mobile equipment may operate the special mobile equipment under any one mobile equipment registration plate issued under this section.</section>

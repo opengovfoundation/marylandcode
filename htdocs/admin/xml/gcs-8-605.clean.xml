@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-605" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-8-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">Whenever the duly constituted authorities in a state party to this Compact, and which has entered into a contract pursuant to &#xA7; 8-604 of this subtitle, shall decide that confinement in, or transfer of an inmate to, an institution within the territory of another party state is necessary or desirable in order to provide adequate quarters and care or an appropriate program of rehabilitation or treatment, the officials may direct that the confinement be within an institution within the territory of the other party state, the receiving state to act in that regard solely as agent for the sending state.</section>
     <section prefix="(b)">The appropriate officials of any state party to this Compact shall have access, at all reasonable times, to any institution in which it has a contractual right to confine inmates for the purpose of inspecting the facilities thereof and visiting such of its inmates as may be confined in the institution.</section>

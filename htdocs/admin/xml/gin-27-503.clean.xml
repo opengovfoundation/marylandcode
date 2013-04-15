@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-503" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">An insurer may not cancel a written agreement with an insurance producer about insurance or refuse to accept insurance business from the insurance producer unless the insurer complies with this section.</section>
     <section prefix="(b)">
-      <section prefix="(1)">This subsection does not apply to:<section prefix="(i)">policies of life insurance, health insurance, surety insurance, wet marine and transportation insurance, and title insurance; or</section><section prefix="(ii)">insurance producers or policies of a company or group of companies represented by insurance producers who by contractual agreement represent only that company or group of companies if:</section></section>
+      <section prefix="(1)">This subsection does not apply to:<section prefix="(i)">policies of life insurance, health insurance, surety insurance, wet marine and transportation insurance, and title insurance; or</section><section prefix="(ii)">insurance producers or policies of a company or group of companies represented by insurance producers who by contractual agreement represent only that company or group of companies if:<section prefix="1.">the business is owned by the company or group of companies; and</section><section prefix="2.">the cancellation of any contractual agreement does not result in the cancellation or refusal to renew any policies.</section></section></section>
       <section prefix="(2)">If an insurer intends to cancel a written agreement with an insurance producer or intends to refuse a class of renewal business from an insurance producer, the insurer shall give the insurance producer at least 90 days' written notice.</section>
       <section prefix="(3)">Notwithstanding any provision of the agreement to the contrary, the insurer shall continue for at least 2 years after termination of the agency agreement to renew through the insurance producer any of the policies that have not been replaced with other insurers as expirations occur.</section>
     </section>

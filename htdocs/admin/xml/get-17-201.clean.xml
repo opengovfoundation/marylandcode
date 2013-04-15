@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-201" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">A document substantially in one of the forms set forth in this subtitle may be used to create a statutory form power of attorney that has the meaning and effect prescribed by this title.</section>
     <section prefix="(b)">A document substantially in one of the forms set forth in this subtitle in effect on the date the document is executed shall continue to have the meaning and effect prescribed by this title, notwithstanding enactment of legislation altering that statutory form after the date the document is executed.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-221" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-221</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If within 15 years after the date of a decedent's death, property valued under &#xA7; 7-211 of this subtitle is disqualified for the special valuation, additional inheritance tax is due in the amount of the difference between the inheritance tax paid and the inheritance tax that would have been paid if the election under &#xA7; 7-211 of this subtitle had not been made.</section>

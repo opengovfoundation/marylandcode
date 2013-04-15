@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-409" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-15-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">This section applies only in Charles County.</section>
     <section prefix="(b)">
@@ -24,7 +24,7 @@
       <section prefix="(3)">An employee appointed under this subsection is entitled to the same benefits as a county employee.</section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">The State's Attorney:<section prefix="(i)">shall serve full time; and</section><section prefix="(ii)">except in connection with performing the duties of the office, may not:</section></section>
+      <section prefix="(1)">The State's Attorney:<section prefix="(i)">shall serve full time; and</section><section prefix="(ii)">except in connection with performing the duties of the office, may not:<section prefix="1.">appear as counsel or represent any party before a court or unit of the State or a political subdivision of the State; or</section><section prefix="2.">otherwise engage in the private practice of law.</section></section></section>
       <section prefix="(2)">A deputy State's Attorney shall serve full time and may not engage in the private practice of law.</section>
       <section prefix="(3)">An assistant State's Attorney may serve full time or part time and may not engage in the private practice of criminal law.</section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2C-01" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-2C-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Claim" means a civil action, including an original claim, counterclaim, cross-claim, or third-party claim, originally filed in a circuit court or United States District Court against a licensed professional or the employer, partnership, or other entity through which the licensed professional performed professional services that is based on the licensed professional's alleged negligent act or omission in rendering professional services, within the scope of the professional's license, permit, or certificate, for others.</section>

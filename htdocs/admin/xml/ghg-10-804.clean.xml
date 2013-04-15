@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-804" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">Any individual who has been admitted to a facility or Veterans' Administration hospital or any person on behalf of the individual may apply at any time to a court of competent jurisdiction for a writ of habeas corpus to determine the cause and the legality of the detention.</section>
     <section prefix="(b)">The Director, in the name of the Administration, may make an application for a writ of habeas corpus to determine whether a facility properly admitted or properly holds an individual. The State's Attorney for the county where the facility is located or the individual is a resident, on behalf of the Administration, shall file the application.</section>

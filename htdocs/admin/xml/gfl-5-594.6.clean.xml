@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-594.6" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-594.6</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>594.6</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this part, the State Department of Education may set the terms and conditions for direct incentive grants.</section>
     <section prefix="(b)">On an annual basis, the State Department of Education may establish priorities for the distribution of direct incentive grants based on the categories of children child care providers serve, including infants, toddlers, and preschool and school-age children.</section>

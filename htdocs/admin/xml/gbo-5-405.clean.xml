@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-405" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-5-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsection (g) of this section, the initial term of registration as an apprentice is 2 years.</section>
     <section prefix="(b)">Unless registration as an apprentice is renewed for one additional 2-year term as provided in this section, the registration expires on the date set by the Board.</section>

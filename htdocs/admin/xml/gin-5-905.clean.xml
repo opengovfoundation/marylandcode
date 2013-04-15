@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-905" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-905</section_number>
-  <catch_line/>
+  <catch_line>Each unauthorized insurer that applies for approval or renewal of approval as an accepted reinsurer ...</catch_line>
+  <order_by>905</order_by>
   <text>Each unauthorized insurer that applies for approval or renewal of approval as an accepted reinsurer shall file annually with the Commissioner:<section prefix=""><section prefix="(1)">an annual statement on convention form;</section><section prefix="(2)">a certificate evidencing a deposit; and</section><section prefix="(3)">a certificate of compliance.</section></section></text>
 </law>

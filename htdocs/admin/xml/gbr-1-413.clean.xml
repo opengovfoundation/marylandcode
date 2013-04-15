@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-413" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-1-413</section_number>
-  <catch_line/>
+  <catch_line>A person who, for the person or for another, applies to register or registers a mark under this subt...</catch_line>
+  <order_by>413</order_by>
   <text>A person who, for the person or for another, applies to register or registers a mark under this subtitle by knowingly making a false or fraudulent representation, orally or in writing, or by other fraudulent means is liable for any damages sustained as a result of the application or registration.</text>
 </law>

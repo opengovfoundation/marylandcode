@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-401" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this section, "date of adoption" means the earlier of:<section prefix="(1)">a judicial decree of adoption; or</section><section prefix="(2)">the assumption of custody, pending adoption, of a prospective adoptive child by a prospective adoptive parent.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">This subsection applies to:<section prefix="(i)">each individual health insurance policy that:</section><section prefix="(ii)">each group health insurance policy, including a contract issued by a nonprofit health service plan, that:</section><section prefix="(iii)">each individual service or indemnity contract that:</section></section>
+      <section prefix="(1)">This subsection applies to:<section prefix="(i)">each individual health insurance policy that:<section prefix="1.">is delivered, issued for delivery, or renewed in the State;</section><section prefix="2.">provides coverage on an expense-incurred basis; and</section><section prefix="3.">provides coverage for a family member of the insured;</section></section><section prefix="(ii)">each group health insurance policy, including a contract issued by a nonprofit health service plan, that:<section prefix="1.">is delivered, issued for delivery, or renewed in the State;</section><section prefix="2.">provides coverage on an expense-incurred basis for employees of an employer or employers or members of a union or unions; and</section><section prefix="3.">provides coverage for a family member of a covered employee or member; and</section></section><section prefix="(iii)">each individual service or indemnity contract that:<section prefix="1.">is delivered, issued for delivery, or renewed in the State by a nonprofit health service plan; and</section><section prefix="2.">provides coverage for a family member of the subscriber.</section></section></section>
       <section prefix="(2)">Each policy or contract subject to this subsection shall provide that the health insurance benefits applicable:<section prefix="(i)">for children or grandchildren shall be payable for a newly born or newly adopted dependent child or grandchild from the moment of birth or date of adoption of the child or grandchild; and</section><section prefix="(ii)">for a minor for whom guardianship is granted by court or testamentary appointment shall be payable from the date of appointment.</section></section>
     </section>
     <section prefix="(c)">On request, an insurer or nonprofit health service plan that issues an individual or group health insurance policy that provides coverage on an expense-incurred basis shall offer family members' coverage to an insured or subscriber regardless of the marital status of the insured or subscriber.</section>

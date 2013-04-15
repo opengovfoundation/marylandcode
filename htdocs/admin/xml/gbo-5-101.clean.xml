@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Apprentice" means an individual who is learning to practice cosmetology or any limited practice of cosmetology in a beauty salon that holds a beauty salon permit under the supervision of:<section prefix="(1)">if learning to practice cosmetology, a licensed senior cosmetologist;</section><section prefix="(2)">if learning to provide esthetic services, a licensed senior cosmetologist or a licensed esthetician with 2 years' experience; and</section><section prefix="(3)">if learning to provide nail technician services, a licensed senior cosmetologist or a licensed nail technician with 2 years' experience.</section></section>
@@ -27,7 +27,7 @@
       <section prefix="(2)">"Limited license" includes, unless the context requires otherwise, each of the following licenses:<section prefix="(i)">a limited license to provide esthetic services; and</section><section prefix="(ii)">a limited license to provide nail technician services.</section></section>
     </section>
     <section prefix="(k)">
-      <section prefix="(1)">"Practice cosmetology" means to engage in any of the following for compensation:<section prefix="(i)">beautifying, cleaning, or embellishing the hair of an individual by:</section><section prefix="(ii)">arching or dyeing eyebrows;</section><section prefix="(iii)">dyeing eyelashes;</section><section prefix="(iv)">providing esthetic services; or</section><section prefix="(v)">providing nail technician services.</section></section>
+      <section prefix="(1)">"Practice cosmetology" means to engage in any of the following for compensation:<section prefix="(i)">beautifying, cleaning, or embellishing the hair of an individual by:<section prefix="1.">arranging the hair;</section><section prefix="2.">bleaching the hair;</section><section prefix="3.">cleansing the hair;</section><section prefix="4.">coloring the hair;</section><section prefix="5.">curling the hair;</section><section prefix="6.">cutting the hair;</section><section prefix="7.">dressing the hair;</section><section prefix="8.">singeing the hair;</section><section prefix="9.">permanent waving the hair;</section><section prefix="10.">waving the hair; or</section><section prefix="11.">performing any other similar procedure intended to beautify, clean, or embellish the hair;</section></section><section prefix="(ii)">arching or dyeing eyebrows;</section><section prefix="(iii)">dyeing eyelashes;</section><section prefix="(iv)">providing esthetic services; or</section><section prefix="(v)">providing nail technician services.</section></section>
       <section prefix="(2)">The practice of cosmetology does not include:<section prefix="(i)">the mere sale, fitting, or styling of wigs or hairpieces;</section><section prefix="(ii)">the mere shampooing of hair; or</section><section prefix="(iii)">a service that results in tension on hair strands or roots by twisting, wrapping, weaving, extending, locking, or braiding by hand or mechanical device, provided that the service does not include the application of dyes, reactive chemicals, or other preparations to alter the color of the hair or to straighten, curl, or alter the structure of the hair.</section></section>
     </section>
     <section prefix="(l)">"Provide esthetic services" means to provide to an individual, for compensation, the service of:<section prefix="(1)">cleansing, exercising, massaging, stimulating, or performing any other similar procedure on the skin or scalp by electrical, mechanical, or any other means;</section><section prefix="(2)">applying to the face an alcohol, cream, lotion, astringent, or cosmetic preparation; or</section><section prefix="(3)">removing superfluous hair by the use of a depilatory, tweezers, or wax.</section></section>

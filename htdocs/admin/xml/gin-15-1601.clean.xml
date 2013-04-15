@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1601" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1601</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Agent" means a pharmacy, a pharmacist, a mail order pharmacy, or a nonresident pharmacy acting on behalf or at the direction of a pharmacy benefits manager.</section>
@@ -23,7 +23,7 @@
     <section prefix="(j)">"Pharmacy" has the meaning stated in &#xA7; 12-101 of the Health Occupations Article.</section>
     <section prefix="(k)">"Pharmacy and therapeutics committee" means a committee established by a pharmacy benefits manager to:<section prefix="(1)">objectively appraise and evaluate prescription drugs; and</section><section prefix="(2)">make recommendations to a purchaser regarding the selection of drugs for the purchaser's formulary.</section></section>
     <section prefix="(l)">
-      <section prefix="(1)">"Pharmacy benefits management services" means:<section prefix="(i)">the procurement of prescription drugs at a negotiated rate for dispensation within the State to beneficiaries;</section><section prefix="(ii)">the administration or management of prescription drug coverage provided by a purchaser for beneficiaries; and</section><section prefix="(iii)">any of the following services provided with regard to the administration of prescription drug coverage:</section></section>
+      <section prefix="(1)">"Pharmacy benefits management services" means:<section prefix="(i)">the procurement of prescription drugs at a negotiated rate for dispensation within the State to beneficiaries;</section><section prefix="(ii)">the administration or management of prescription drug coverage provided by a purchaser for beneficiaries; and</section><section prefix="(iii)">any of the following services provided with regard to the administration of prescription drug coverage:<section prefix="1.">mail service pharmacy;</section><section prefix="2.">claims processing, retail network management, and payment of claims to pharmacies for prescription drugs dispensed to beneficiaries;</section><section prefix="3.">clinical formulary development and management services;</section><section prefix="4.">rebate contracting and administration;</section><section prefix="5.">patient compliance, therapeutic intervention, and generic substitution programs; or</section><section prefix="6.">disease management programs.</section></section></section>
       <section prefix="(2)">"Pharmacy benefits management services" does not include any service provided by a nonprofit health maintenance organization that operates as a group model, provided that the service:<section prefix="(i)">is provided solely to a member of the nonprofit health maintenance organization; and</section><section prefix="(ii)">is furnished through the internal pharmacy operations of the nonprofit health maintenance organization.</section></section>
     </section>
     <section prefix="(m)">"Pharmacy benefits manager" means a person that performs pharmacy benefits management services.</section>

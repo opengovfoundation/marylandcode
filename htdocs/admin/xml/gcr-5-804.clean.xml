@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-804" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">In this section, "administrative probable cause" means a valid public interest in the effective enforcement of this title or regulations sufficient to justify administrative inspection of the area, premises, building, or conveyance in the circumstances specified in the application for the administrative inspection warrant.</section>
     <section prefix="(b)">On showing of administrative probable cause, a judge of the State may issue an administrative inspection warrant to conduct:<section prefix="(1)">administrative inspections authorized by this title; and</section><section prefix="(2)">seizures of property appropriate to the inspections.</section></section>

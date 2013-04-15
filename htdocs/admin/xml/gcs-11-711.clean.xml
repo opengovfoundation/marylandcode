@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-711" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-711</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>711</order_by>
   <text>
     <section prefix="(a)">In this section, "warden" means the warden of the Dorchester County Department of Corrections.</section>
     <section prefix="(b)">This section applies only in Dorchester County.</section>

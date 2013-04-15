@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-703" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">This subtitle may not be construed as altering the rights, responsibilities, or liabilities of a party responsible for the discharge of oil.</section>
     <section prefix="(b)">This subtitle is not intended to provide evidence of financial responsibility for owners and operators of underground oil storage tanks under Subtitle I of the Resource Conservation and Recovery Act, the Superfund Amendments and Reauthorization Act of 1986, or any other federal law.</section>

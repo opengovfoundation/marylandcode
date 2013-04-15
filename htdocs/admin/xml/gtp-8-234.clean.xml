@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-234" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-234</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>234</order_by>
   <text>
     <section prefix="(a)">In this section, "mobile home" includes a trailer, a house trailer, a trailer coach, or a mobile home that:<section prefix="(1)">is used or can be used for residential purposes; and</section><section prefix="(2)">is permanently attached to land or connected to utility, water, or sewage facilities.</section></section>
     <section prefix="(b)">Except as provided in subsection (c) of this section and notwithstanding &#xA7;&#xA7; 7-220, 7-230, and 7-231 of this article, a mobile home shall be assessed to the owner of the land on which the mobile home is located on the same basis as improvements to real property.</section>

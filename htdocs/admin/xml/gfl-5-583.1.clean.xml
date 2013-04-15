@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-583.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-583.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>583.1</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of subsection (c) of this section, a person who violates any provision of this Part VII of this subtitle or any rule or regulation adopted under this Part VII of this subtitle is subject to a civil penalty imposed in a civil action not exceeding $1,000 for each violation.</section>
     <section prefix="(b)">Each day a violation occurs is a separate violation under this section.</section>

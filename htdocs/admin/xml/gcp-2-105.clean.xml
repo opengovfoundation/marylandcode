@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-2-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">In this section, "governing body" means:<section prefix="(1)">the county executive and county council of a charter county with a county executive;</section><section prefix="(2)">the county council of a charter county with no county executive;</section><section prefix="(3)">the board of county commissioners of a county; or</section><section prefix="(4)">the mayor and council, by whatever name known, of a municipal corporation.</section></section>
     <section prefix="(b)">By action as in the regular routine for legislative enactment, the governing body of a county or municipal corporation may determine the circumstances under which the police officers and other officers, agents, and employees of the county or municipal corporation, together with all necessary equipment, may lawfully go or be sent beyond the boundaries of the county or municipal corporation to any place within or outside the State.</section>

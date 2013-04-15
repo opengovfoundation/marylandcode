@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-208" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">There is a Maryland Transportation Authority Police Force.</section>
@@ -15,9 +15,9 @@
       <section prefix="(1)">A Maryland Transportation Authority police officer may exercise the powers described in subsection (a)(2) of this section on property owned, leased, or operated by or under the control of the Maryland Transportation Authority, Maryland Aviation Administration, and Maryland Port Administration.</section>
       <section prefix="(2)">
         <section prefix="(i)">This paragraph does not apply to a highway as defined in &#xA7; 8-101 of this article or other public property or waterway open for public conveyance.</section>
-        <section prefix="(ii)">For purposes of establishing perimeter security subject to the requirements of paragraph (3) of this subsection, a Maryland Transportation Authority police officer may exercise the powers described in subsection (a)(2) of this section:</section>
+        <section prefix="(ii)">For purposes of establishing perimeter security subject to the requirements of paragraph (3) of this subsection, a Maryland Transportation Authority police officer may exercise the powers described in subsection (a)(2) of this section:<section prefix="1.">Within 500 feet of property described in paragraph (1) of this subsection; and</section><section prefix="2.">On or within 500 feet of any other property owned, leased, operated by, or under the control of the Department.</section></section>
       </section>
-      <section prefix="(3)">A Maryland Transportation Authority police officer may exercise the powers described in paragraph (2) of this subsection, if:<section prefix="(i)">The Chairman of the Maryland Transportation Authority, with the approval of the Governor, determines on the basis of specific and articulable facts that the exercise of the powers is reasonable to protect against actual or threatened physical injury or damage to State employees or State property or assets and provides notice of the exercise of the powers to the:</section><section prefix="(ii)">Ordered to do so by the Governor pursuant to a proclamation or declaration by the Governor of a state of emergency under Title 14 of the Public Safety Article.</section></section>
+      <section prefix="(3)">A Maryland Transportation Authority police officer may exercise the powers described in paragraph (2) of this subsection, if:<section prefix="(i)">The Chairman of the Maryland Transportation Authority, with the approval of the Governor, determines on the basis of specific and articulable facts that the exercise of the powers is reasonable to protect against actual or threatened physical injury or damage to State employees or State property or assets and provides notice of the exercise of the powers to the:<section prefix="1.">Chief of police, if any, or the chief's designee, in a municipal corporation;</section><section prefix="2.">Chief of police or the chief's designee in a county with a county police department;</section><section prefix="3.">Sheriff or the sheriff's designee in a county without a police department;</section><section prefix="4.">Police Commissioner or the Police Commissioner's designee in Baltimore City;</section><section prefix="5.">Secretary of Natural Resources or the Secretary's designee on any property owned, leased, operated by, or under the control of the Department of Natural Resources;</section><section prefix="6.">Secretary of State Police or the Secretary's designee; or</section><section prefix="7.">Secretary of a principal department that maintains a police force or the secretary's designee if the department would be affected by the actions of the Maryland Transportation Authority Police Force of this subsection; or</section></section><section prefix="(ii)">Ordered to do so by the Governor pursuant to a proclamation or declaration by the Governor of a state of emergency under Title 14 of the Public Safety Article.</section></section>
       <section prefix="(4)">The police officer may not exercise these powers on any other property unless:<section prefix="(i)">Engaged in fresh pursuit of a suspected offender;</section><section prefix="(ii)">Specially requested or permitted to do so in a political subdivision by its chief executive officer or its chief police officer; or</section><section prefix="(iii)">Ordered to do so by the Governor.</section></section>
       <section prefix="(5)">Nothing in this subsection shall be construed to preclude, or limit in any way, the authority of any federal, State, or local law enforcement agency, or any other federal police or federal protective service.</section>
     </section>

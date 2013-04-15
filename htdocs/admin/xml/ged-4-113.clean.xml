@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-113" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-4-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">Under the direction of the county superintendent, a county board may take a school census of the children under the age of 18 in its county, including a census of handicapped children both of school age and of preschool age.</section>
     <section prefix="(b)">Any data collected as to handicapped children shall be furnished to the Department of Health and Mental Hygiene.</section>

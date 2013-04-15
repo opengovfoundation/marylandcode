@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">An agreement modifying a contract subject to this title needs no consideration to be binding.</section>
     <section prefix="(b)">An authenticated record that precludes modification or rescission except by an authenticated record may not otherwise be modified or rescinded. In a standard form supplied by a merchant to a consumer, a term requiring an authenticated record for modification of the contract is not enforceable unless the consumer manifests assent to the term.</section>

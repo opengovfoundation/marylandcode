@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">To the extent necessary for a securities intermediary to satisfy all security entitlements with respect to a particular financial asset, all interests in that financial asset held by the securities intermediary are held by the securities intermediary for the entitlement holders, are not property of the securities intermediary, and are not subject to claims of creditors of the securities intermediary, except as otherwise provided in &#xA7; 8-511 of this subtitle.</section>
     <section prefix="(b)">An entitlement holder's property interest with respect to a particular financial asset under subsection (a) of this section is a pro rata property interest in all interests in that financial asset held by the securities intermediary, without regard to the time the entitlement holder acquired the security entitlement or the time the securities intermediary acquired the interest in that financial asset.</section>

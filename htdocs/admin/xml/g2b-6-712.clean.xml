@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-712" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-6-712</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>712</order_by>
   <text>
     <section prefix="(a)">This section applies only in Cecil County.</section>
     <section prefix="(b)">The annual license fee is $100.</section>

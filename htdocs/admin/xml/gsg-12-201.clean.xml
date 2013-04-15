@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-201" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-12-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Except as otherwise expressly provided by a law of the State, the State, its officers, and its units may not raise the defense of sovereign immunity in a contract action, in a court of the State, based on a written contract that an official or employee executed for the State or 1 of its units while the official or employee was acting within the scope of the authority of the official or employee.</section>
     <section prefix="(b)">In an action under this subtitle, the State and its officers and units shall have the immunity from liability described under &#xA7; 5-522(d) of the Courts and Judicial Proceedings Article.</section>

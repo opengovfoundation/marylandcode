@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-512" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">This section and &#xA7; 7-513 of this subtitle apply to an entity that was regulated as an electric company on June 30, 1999, whether or not the entity or any of its businesses, services, or assets continues to be regulated under this article after that date.</section>
     <section prefix="(b)">An electric company may recover costs under this section to the extent that the Commission finds costs to be just and reasonable.</section>
     <section prefix="(c)">
       <section prefix="(1)">An electric company shall be provided a fair opportunity to recover fully all costs that have been or will be incurred by the electric company under public purpose programs established by law or ordered by the Commission.</section>
       <section prefix="(2)">
-        <section prefix="(i)">Except as provided in paragraph (3) of this subsection, the costs subject to this subsection shall be funded by a surcharge or other cost recovery mechanism collected on a statewide basis that:</section>
+        <section prefix="(i)">Except as provided in paragraph (3) of this subsection, the costs subject to this subsection shall be funded by a surcharge or other cost recovery mechanism collected on a statewide basis that:<section prefix="1.">fully recovers from customers the costs of the plans and programs; and</section><section prefix="2.">subject to subparagraph (ii) of this paragraph, with respect to any of these costs not included in rates on January 1, 2000, is not subject to any otherwise applicable cap.</section></section>
         <section prefix="(ii)">The recovery by an electric company of costs for a universal service program is subject to any applicable cap regardless of when the costs are included in rates.</section>
       </section>
       <section prefix="(3)">During the fiscal year ending June 30, 2000, an electric company may not, under paragraph (2) of this subsection, recover costs of a consumer education program established by law, regulation, or order.</section>

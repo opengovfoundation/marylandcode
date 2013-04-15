@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-104" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-14-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">A person doing public business shall file a statement with the State Board as provided in this section.</section>
     <section prefix="(b)">
       <section prefix="(1)">When a contract is made that causes a person to be doing public business, an initial statement shall be filed:<section prefix="(i)">at that time, covering the preceding 24 months, if the person has made an applicable contribution within that period; or</section><section prefix="(ii)">if item (i) of this paragraph does not apply, but the person subsequently makes an applicable contribution during a reporting period specified in paragraph (2) of this subsection, as required by that paragraph.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">A person shall file a semi-annual statement in accordance with this paragraph for each reporting period specified in subparagraph (ii) of this paragraph in which the person has made an applicable contribution if:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">A person shall file a semi-annual statement in accordance with this paragraph for each reporting period specified in subparagraph (ii) of this paragraph in which the person has made an applicable contribution if:<section prefix="1.">performance remains uncompleted on any contract that caused the person to be doing public business; or</section><section prefix="2.">the person is doing public business.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">The statements required by subparagraph (i) of this paragraph shall cover 6-month reporting periods ending on January 31 and July 31.</section>
+          <section prefix="2.">A statement required by subparagraph (i) of this paragraph shall be filed within 5 days after the end of the applicable reporting period.</section>
+        </section>
       </section>
     </section>
     <section prefix="(c)">

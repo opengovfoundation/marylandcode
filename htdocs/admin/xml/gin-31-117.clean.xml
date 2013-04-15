@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-117" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-31-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">The Exchange, with the approval of the Commissioner, shall implement or oversee the implementation of the state-specific requirements of &#xA7;&#xA7; 1341 and 1343 of the Affordable Care Act relating to transitional reinsurance and risk adjustment.</section>
     <section prefix="(b)">The Exchange may not assume responsibility for the program corridors for health benefit plans in the Individual Exchange and the SHOP Exchange established under &#xA7; 1342 of the Affordable Care Act.</section>

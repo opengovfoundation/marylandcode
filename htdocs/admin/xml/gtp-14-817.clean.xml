@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-817" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-817</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>817</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
@@ -21,10 +21,13 @@
       <section prefix="(4)">The conduct of the sale shall be according to terms set by the collector, and published with a reasonable degree of specificity in the public notice of the tax sale, to ensure the orderly functioning of the public auction and the integrity of the tax sale process, including requirements that potential bidders:<section prefix="(i)">establish their eligibility for bidding by presenting evidence of the legal existence of the bidding entity that is satisfactory to the collector;</section><section prefix="(ii)">limit their representation at a tax sale to no more than a single agent per bidding entity; and</section><section prefix="(iii)">refrain from any act, agreement, consent, or conspiracy to suppress, predetermine, rig, or fix the bidding at the sale.</section></section>
       <section prefix="(5)">
         <section prefix="(i)">If determined by the collector to be in the best public interest and included in the required public notice of the sale, the collector may solicit and accept bids from the highest bidder for any group of properties to be sold at the tax sale.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Upon the request of any individual or group, the collector may remove any individual property or properties from a group of properties to be sold at the tax sale.</section>
+          <section prefix="2.">Upon the request of the property owner at least 15 days before the date of the tax sale, the collector shall remove any individual property or properties from a group of properties to be sold at the tax sale.</section>
+        </section>
         <section prefix="(iii)">The collector shall provide notice to the potential bidders of any alterations to a group of properties at the time the bidders become known.</section>
         <section prefix="(iv)">The collector may conduct the sale of a group of properties under this paragraph by a sealed bid process.</section>
-        <section prefix="(v)">Except in Montgomery County, the collector shall establish a high-bid premium under subsection (b)(2) of this section for all properties to be sold:</section>
+        <section prefix="(v)">Except in Montgomery County, the collector shall establish a high-bid premium under subsection (b)(2) of this section for all properties to be sold:<section prefix="1.">in groups; or</section><section prefix="2.">by sealed bid process.</section></section>
       </section>
     </section>
     <section prefix="(b)">
@@ -32,10 +35,10 @@
       <section prefix="(2)">
         <section prefix="(i)">The collector may establish a high-bid premium to be applied to all properties to be sold at the tax sale.</section>
         <section prefix="(ii)">Except as provided in subparagraphs (iii) and (iv) of this paragraph, the high-bid premium shall be 20% of the amount by which the highest bid exceeds 40% of the property's full cash value.</section>
-        <section prefix="(iii)">Except as provided in subparagraph (iv) of this paragraph, in Baltimore City and Prince George's County, the high-bid premium shall be 20% of the amount by which the highest bid exceeds the greater of:</section>
+        <section prefix="(iii)">Except as provided in subparagraph (iv) of this paragraph, in Baltimore City and Prince George's County, the high-bid premium shall be 20% of the amount by which the highest bid exceeds the greater of:<section prefix="1.">the lien amount; or</section><section prefix="2.">40% of the property's full cash value.</section></section>
         <section prefix="(iv)">For property assessed under agricultural use assessment, the high-bid premium shall be 20% of the amount by which the highest bid exceeds the appropriate value determined by the collector.</section>
-        <section prefix="(v)">In addition to the amounts payable under paragraph (1) of this subsection, the highest bidder shall pay a high-bid premium if the collector:</section>
-        <section prefix="(vi)">The collector shall refund the high-bid premium, without interest, to:</section>
+        <section prefix="(v)">In addition to the amounts payable under paragraph (1) of this subsection, the highest bidder shall pay a high-bid premium if the collector:<section prefix="1.">determines that a high-bid premium shall be used for the tax sale; and</section><section prefix="2.">indicates in the public notice of the sale that the high-bid premium will be applied.</section></section>
+        <section prefix="(vi)">The collector shall refund the high-bid premium, without interest, to:<section prefix="1.">the holder of the tax sale certificate on redemption of the property for which the high-bid premium was paid; or</section><section prefix="2.">the plaintiff in an action to foreclose the right of redemption on delivery of a tax sale deed for the property for which the high-bid premium was paid.</section></section>
         <section prefix="(vii)">The high-bid premium is not refundable after the time required under &#xA7; 14-833 of this subtitle for an action to foreclose the right of redemption if there has been no redemption and if an action to foreclose the right of redemption has not been filed within that time.</section>
       </section>
     </section>

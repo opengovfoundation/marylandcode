@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-409" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">Whenever a person keeps a free-play pinball machine for public use in the State, the person must have a pinball machine license for that free-play pinball machine.</section>
     <section prefix="(b)">Whenever a person keeps a free-play console machine for public use in the State, the person must have a console machine license for that free-play console machine.</section>

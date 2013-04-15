@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-5A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-5A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the Board of Appeals shall adopt reasonable regulations, in accordance with &#xA7; 10-206 of the State Government Article, to govern appeals and hearings under this subtitle.</section>
     <section prefix="(b)">Section 10-206(e) of the State Government Article does not apply to regulations adopted under this section.</section>

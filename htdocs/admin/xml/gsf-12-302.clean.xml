@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-302" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-12-302</section_number>
-  <catch_line/>
+  <catch_line>The Maryland Energy Administration shall be responsible for monitoring the status of active energy p...</catch_line>
+  <order_by>302</order_by>
   <text>The Maryland Energy Administration shall be responsible for monitoring the status of active energy performance contracts and reporting that status to the Board annually.</text>
 </law>

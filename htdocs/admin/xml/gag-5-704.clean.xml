@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-704" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">The Insurance Fund shall be administered by a governing board and executive committee as hereinafter provided. The actions of the governing board and executive committee pursuant to this compact shall be deemed the actions of the Insurance Fund.</section>
     <section prefix="(b)">The members of the governing board shall be entitled to one vote each on such board. No action of the governing board shall be binding unless taken at a meeting at which a majority of the total number of votes on the governing board are cast in favor thereof. Action of the governing board shall be only at a meeting at which a majority of the members are present.</section>

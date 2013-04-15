@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-616" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-616</section_number>
-  <catch_line/>
+  <catch_line>A person may not act as a professional solicitor unless the person's agreement with the charitable o...</catch_line>
+  <order_by>616</order_by>
   <text>A person may not act as a professional solicitor unless the person's agreement with the charitable organization states:<section prefix=""><section prefix="(1)">the names and addresses of the parties;</section><section prefix="(2)">the minimum percentage of the gross receipts from charitable solicitations that will be used by the charitable organization exclusively to advance its charitable purposes;</section><section prefix="(3)">the text that the professional solicitor or associate solicitor will use in each charitable solicitation; and</section><section prefix="(4)">any other information that the Secretary of State requires by regulation.</section></section></text>
 </law>

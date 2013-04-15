@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-104" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-20-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">The driver of each vehicle involved in an accident that results in bodily injury to or death of any person or in damage to an attended vehicle or other attended property shall render reasonable assistance to any person injured in the accident and, if the person requests medical treatment or it is apparent that medical treatment is necessary, arrange for the transportation of the person to a physician, surgeon, or hospital for medical treatment.</section>
     <section prefix="(b)">The driver of each vehicle involved in an accident that results in bodily injury to or death of any person or in damage to an attended vehicle or other attended property shall give his name, his address, and the registration number of the vehicle he is driving and, on request, exhibit his license to drive, if it is available, to:<section prefix="(1)">Any person injured in the accident; and</section><section prefix="(2)">The driver, occupant of, or person attending any vehicle or other property damaged in the accident.</section></section>

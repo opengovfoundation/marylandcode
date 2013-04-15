@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-112" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-6-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On request of a court, a parole and probation agent of the Division shall:<section prefix="(i)">provide the court with a presentence investigation report;</section><section prefix="(ii)">conduct other investigations; and</section><section prefix="(iii)">perform other probationary services.</section></section>

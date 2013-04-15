@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-16-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any person who, with the consent of the owner, has custody of an aircraft and who, at the request of the owner, provides a service to or materials for the aircraft, has a lien on the aircraft for any charge incurred for any:<section prefix="(i)">Inspection, maintenance, repair, servicing, or rebuilding;</section><section prefix="(ii)">Storage, parking, handling, or tiedown; or</section><section prefix="(iii)">Parts, accessories, materials, or supplies.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-13-302</section_number>
-  <catch_line/>
+  <catch_line>Any practice prohibited by this title is a violation of this title, whether or not any consumer in f...</catch_line>
+  <order_by>302</order_by>
   <text>Any practice prohibited by this title is a violation of this title, whether or not any consumer in fact has been misled, deceived, or damaged as a result of that practice.</text>
 </law>

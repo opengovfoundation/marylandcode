@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-108" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">The Department shall annually value the operating unit of a railroad on the basis of the value of the operating property of the railroad, by considering:<section prefix="(1)">the earning capacity of the operating unit; and</section><section prefix="(2)">all other factors relevant to a determination of the value of the operating unit.</section></section>
     <section prefix="(b)">The Department shall allocate to this State the value of that part of the operating unit that is reasonably attributable to the part located in this State.</section>

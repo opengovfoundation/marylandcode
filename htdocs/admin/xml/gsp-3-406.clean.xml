@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-406" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-3-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">The Board shall certify as exclusive representative the employee organization receiving the votes in an election from a majority of the employees voting in the election.</section>
     <section prefix="(b)">After notice and an opportunity for a hearing, the Board may deny or revoke certification as exclusive representative of an employee organization for willful failure to comply with:<section prefix="(1)">this title; or</section><section prefix="(2)">the governing documents of the organization.</section></section>

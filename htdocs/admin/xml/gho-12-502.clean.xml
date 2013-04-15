@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-502" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">In the operation of a pharmacy, only a licensed pharmacist or an individual engaging in a professional experience program and acting under the direct supervision of a licensed pharmacist may provide information to the public or a health care practitioner concerning prescription or nonprescription drugs or devices including information as to their therapeutic values, potential side effects, and use in the treatment and prevention of diseases.</section>
     <section prefix="(b)">A licensed pharmacist shall give a patient who requests, in person or by telephone, the current price of a prescription drug or device that the pharmacy offers for sale to the public.</section>

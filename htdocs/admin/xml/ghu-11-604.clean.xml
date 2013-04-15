@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-604" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-11-604</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other provision of this title, information subject to the attorney-client privil...</catch_line>
+  <order_by>604</order_by>
   <text>Notwithstanding any other provision of this title, information subject to the attorney-client privilege is confidential and may not be disclosed to any person unless the privilege is waived by the client or a court orders the disclosure.</text>
 </law>

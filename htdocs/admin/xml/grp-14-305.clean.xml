@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-305" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">When a petition to establish a broker's lien is filed, the court shall review the pleadings and documents on file and may require the petitioner to supplement or explain any matters set forth in the petition, pleadings, or documents.</section>
-      <section prefix="(2)">If the court determines that the lien should attach, it shall pass an order that:<section prefix="(i)">Directs the owner to show cause within 15 days from the date of service on the owner of a copy of the order, together with copies of the pleadings and documents on file, why a broker's lien on the lien property and for the amount described in the petition should not attach; and</section><section prefix="(ii)">Informs the owner that:</section></section>
+      <section prefix="(2)">If the court determines that the lien should attach, it shall pass an order that:<section prefix="(i)">Directs the owner to show cause within 15 days from the date of service on the owner of a copy of the order, together with copies of the pleadings and documents on file, why a broker's lien on the lien property and for the amount described in the petition should not attach; and</section><section prefix="(ii)">Informs the owner that:<section prefix="1.">The owner may appear at the time stated in the order and present evidence on the owner's behalf or may file a counter-affidavit at or before that time; and</section><section prefix="2.">If the owner fails to appear and present evidence or file a counter-affidavit, the facts in the affidavit supporting the petitioner's claim shall be deemed admitted and a broker's lien may attach to the lien property as described in the petition.</section></section></section>
       <section prefix="(3)">
         <section prefix="(i)">If the owner desires to controvert any statement of fact contained in the affidavit supporting the petitioner's claim, the owner shall file an affidavit in support of the owner's answer showing cause.</section>
         <section prefix="(ii)">The failure of the owner to file an opposing affidavit shall constitute an admission for the purposes of the proceedings of all statements of facts in the affidavit supporting the petitioner's claim, but shall not constitute an admission that a broker's petition or affidavit in support of the broker's petition is legally sufficient.</section>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-06D" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-2A-06D</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>06D</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This section applies only to an initial complaint filed on or after January 1, 2005, for which a certificate of a qualified expert is required to be filed in accordance with &#xA7; 3-2A-04 of this subtitle.</section>
       <section prefix="(2)">This section does not apply if the defendant admits liability.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Within 15 days after the date that discovery is required to be completed, a party shall file with the court a supplemental certificate of a qualified expert, for each defendant, that attests to:<section prefix="(i)">The certifying expert's basis for alleging what is the specific standard of care;</section><section prefix="(ii)">The certifying expert's qualifications to testify to the specific standard of care;</section><section prefix="(iii)">The specific standard of care;</section><section prefix="(iv)">For the plaintiff:</section><section prefix="(v)">For the defendant:</section></section>
+      <section prefix="(1)">Within 15 days after the date that discovery is required to be completed, a party shall file with the court a supplemental certificate of a qualified expert, for each defendant, that attests to:<section prefix="(i)">The certifying expert's basis for alleging what is the specific standard of care;</section><section prefix="(ii)">The certifying expert's qualifications to testify to the specific standard of care;</section><section prefix="(iii)">The specific standard of care;</section><section prefix="(iv)">For the plaintiff:<section prefix="1.">The specific injury complained of;</section><section prefix="2.">How the specific standard of care was breached;</section><section prefix="3.">What specifically the defendant should have done to meet the specific standard of care; and</section><section prefix="4.">The inference that the breach of the standard of care proximately caused the plaintiff's injury; and</section></section><section prefix="(v)">For the defendant:<section prefix="1.">How the defendant complied with the specific standard of care;</section><section prefix="2.">What the defendant did to meet the specific standard of care; and</section><section prefix="3.">If applicable, that the breach of the standard of care did not proximately cause the plaintiff's injury.</section></section></section>
       <section prefix="(2)">An extension of the time allowed for filing a supplemental certificate under this section shall be granted for good cause shown.</section>
       <section prefix="(3)">The facts required to be included in the supplemental certificate of a qualified expert shall be considered necessary to show entitlement to relief sought by a plaintiff or to raise a defense by a defendant.</section>
     </section>

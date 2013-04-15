@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-107" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-15-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">The Montgomery County Council may designate a commissioner from that county to serve on a full-time basis as the chair or vice chair of the Commission.</section>
     <section prefix="(b)">With the approval of a majority of the members of the County Council, the County Executive of Prince George's County may designate a commissioner from that county to serve on a full-time basis as the chair or vice chair of the Commission.</section>

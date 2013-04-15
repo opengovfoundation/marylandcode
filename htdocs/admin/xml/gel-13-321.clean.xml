@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-321" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-321</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>321</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In accordance with paragraph (2) of this subsection, the State Board shall notify each campaign finance entity that is required under this subtitle to file campaign finance reports of each campaign finance report required to be filed by that entity.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-408" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">If there is no qualified applicant in a legislative district, a qualified applicant who resides in another legislative district may be appointed to receive the senatorial scholarship.</section>
     <section prefix="(b)">A senatorial scholarship awarded under this section is for 1 year. However, a student who receives an appointment under this section is eligible to receive a subsequent appointment for not longer than 3 years.</section>

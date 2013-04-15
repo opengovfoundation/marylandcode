@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-103" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-15-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">There is a Board of License Commissioners in Frederick County.</section>
@@ -50,7 +50,7 @@
     <section prefix="(f)">The chairperson of the Board, with the approval of the County Commissioners, may employ the clerical assistants necessary to carry out the duties of the Board and the salary of the clerical assistants shall be set by the County Commissioners and provided for in the county budget.</section>
     <section prefix="(g)">
       <section prefix="(1)">
-        <section prefix="(i)">A Commissioner, full-time or part-time inspector, or employee of the Board may not:</section>
+        <section prefix="(i)">A Commissioner, full-time or part-time inspector, or employee of the Board may not:<section prefix="1.">Have any interest, directly or indirectly, either proprietary or by means of any loan, mortgage, or lien, or in any other manner, in or to any premises where alcoholic beverages are manufactured or sold;</section><section prefix="2.">Have any interest, directly or indirectly, in any business wholly or partially devoted to the manufacture or sale of alcoholic beverages; or</section><section prefix="3.">Own any stock in any corporation which has any interest, proprietary or otherwise, directly or indirectly, in any premises where alcoholic beverages are manufactured or sold or in any business wholly or partially devoted to the manufacture or sale of alcoholic beverages, or hold any other public office or employment.</section></section>
         <section prefix="(ii)">A Commissioner, full-time or part-time inspector, or employee of the Board may not solicit or receive, directly or indirectly, any commission, remuneration, or gift whatsoever from any person or corporation engaged in the manufacture or sale of beer or other alcoholic beverages, from any licensee, licensed under the provisions of this article.</section>
         <section prefix="(iii)">A person or corporation engaged in the manufacture or sale of beer or other alcoholic beverages, any agent or employee of that person or corporation, and any licensee licensed under the provisions of this article may not, directly or indirectly, offer to pay any commission, profit, or remuneration or make any gift to any Commissioner, full-time or part-time inspector, or employee of the Board.</section>
       </section>

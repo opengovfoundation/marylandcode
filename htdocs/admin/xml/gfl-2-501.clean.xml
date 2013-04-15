@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-501" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-2-501</section_number>
-  <catch_line/>
+  <catch_line>Each clerk shall keep in the clerk's office a marriage license book, which shall contain:...</catch_line>
+  <order_by>501</order_by>
   <text>Each clerk shall keep in the clerk's office a marriage license book, which shall contain:<section prefix=""><section prefix="(1)">a complete record of each license issued;</section><section prefix="(2)">a complete record of all matters the clerk is required to ascertain that relate to the rights of an individual to obtain a license;</section><section prefix="(3)">in regular order, the items testified to by the applicants for a license as required under this title;</section><section prefix="(4)">properly indexed, the name of each individual who intends to be married; and</section><section prefix="(5)">the date each certificate was filed and the name of the authorized official who performed the ceremony.</section></section></text>
 </law>

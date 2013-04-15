@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-714" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-714</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>714</order_by>
   <text>
     <section prefix="(a)">This section applies only in Harford County.</section>
     <section prefix="(b)">
@@ -27,7 +27,7 @@
       <section prefix="(1)">The Sheriff shall:<section prefix="(i)">establish and administer a home detention program; and</section><section prefix="(ii)">adopt regulations for the program.</section></section>
       <section prefix="(2)">At the time of sentencing or at any time during an individual's confinement, the sentencing judge may allow an individual who is convicted of a crime and sentenced to imprisonment in a local correctional facility to participate in the home detention program.</section>
       <section prefix="(3)">Subject to paragraph (4) of this subsection, an inmate is eligible for the home detention program if:<section prefix="(i)">the sentencing judge recommends that the inmate participate in the program; and</section><section prefix="(ii)">the inmate has no other charges pending in any jurisdiction.</section></section>
-      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:</section></section>
+      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:<section prefix="1.">child abuse under &#xA7; 3-601 or &#xA7; 3-602 of the Criminal Law Article; or</section><section prefix="2.">escape under &#xA7; 9-404 of the Criminal Law Article.</section></section></section>
     </section>
   </text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-106" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-4-106</section_number>
-  <catch_line/>
+  <catch_line>If a testator makes a subsequent will intended to revoke a prior will, the destruction or other revo...</catch_line>
+  <order_by>106</order_by>
   <text>If a testator makes a subsequent will intended to revoke a prior will, the destruction or other revocation of the subsequent will does not revive the prior will unless the will is still in existence and is republished with the same formalities as are required for the execution of a will in this subtitle.</text>
 </law>

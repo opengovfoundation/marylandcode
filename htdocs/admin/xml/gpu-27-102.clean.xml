@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-102" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-27-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">In Montgomery County and Prince George's County, the county executive and county council may adopt regulations concerning the Commission's entry into or use of a public roadway for which a permit is required.</section>
     <section prefix="(b)">The regulations adopted under this section:<section prefix="(1)">shall be adopted after consultation with the Commission;</section><section prefix="(2)">may include provisions for the review and approval of the required permits to be issued by the Commission under &#xA7; 27-108 of this title for the construction or location of pipes, conduits, tracks, lines, poles, or facilities of a public utility in the public roadways of the county;</section><section prefix="(3)">subject to reasonable provisions for control by the county of the construction, disturbing, or repair of the public roadway, may not:<section prefix="(i)">be administered so as to constitute a taking of a franchise right that a public service company or a utility company has in a public roadway; and</section><section prefix="(ii)">divest the Commission of its right to use a public roadway for the installation of a Commission facility;</section></section><section prefix="(4)">subject to this title, may not prohibit the installation in a public roadway of a facility being constructed by the Commission to provide service to the sanitary district in the other county; and</section><section prefix="(5)">may not be inconsistent with this title.</section></section>
@@ -14,7 +14,7 @@
       <section prefix="(2)">A permit issued by the Commission under &#xA7; 27-108 of this title is not effective unless the appropriate county approves the permit.</section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">The Commission:<section prefix="(i)">shall give a county advance notice of the date, time, and extent to which the Commission plans to cut into a public roadway, sidewalk, or other public property of the county; and</section><section prefix="(ii)">if required by a regulation adopted under this section, shall:</section></section>
+      <section prefix="(1)">The Commission:<section prefix="(i)">shall give a county advance notice of the date, time, and extent to which the Commission plans to cut into a public roadway, sidewalk, or other public property of the county; and</section><section prefix="(ii)">if required by a regulation adopted under this section, shall:<section prefix="1.">submit a copy of proposed construction plans to the county before construction begins; and</section><section prefix="2.">apply for and obtain a permit from the county at no cost to the Commission.</section></section></section>
       <section prefix="(2)">The county shall promptly process the Commission's permit application.</section>
       <section prefix="(3)">The issuance of a permit under this section constitutes approval of the Commission's proposed construction as specified in the permit.</section>
       <section prefix="(4)">If the construction under this section is an emergency, the Commission shall notify the appropriate county as soon as practicable after the cut.</section>

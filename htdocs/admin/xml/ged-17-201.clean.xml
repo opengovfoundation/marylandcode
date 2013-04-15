@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-201" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-17-201</section_number>
-  <catch_line/>
+  <catch_line>There is an Eminent Scholar Program to give public institutions of higher education the opportunity ...</catch_line>
+  <order_by>201</order_by>
   <text>There is an Eminent Scholar Program to give public institutions of higher education the opportunity to attract and keep faculty who have achieved national eminence in their disciplines.</text>
 </law>

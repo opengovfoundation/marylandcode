@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-309" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">On any roadway that is divided into two or more clearly marked lanes for vehicular traffic, the following rules, in addition to any others consistent with them, apply.</section>
     <section prefix="(b)">A vehicle shall be driven as nearly as practicable entirely within a single lane and may not be moved from that lane or moved from a shoulder or bikeway into a lane until the driver has determined that it is safe to do so.</section>

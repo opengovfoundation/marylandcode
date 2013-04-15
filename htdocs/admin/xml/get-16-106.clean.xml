@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-106" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-16-106</section_number>
-  <catch_line/>
+  <catch_line>The designation of a TOD beneficiary on a registration in beneficiary form has no effect on ownershi...</catch_line>
+  <order_by>106</order_by>
   <text>The designation of a TOD beneficiary on a registration in beneficiary form has no effect on ownership until the owner's death. A registration of a security in beneficiary form may be canceled or changed at any time by the sole owner or all then surviving owners without the consent of the beneficiary.</text>
 </law>

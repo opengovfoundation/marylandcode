@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-401" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">Each employer who, under a collective bargaining agreement, deducts dues from an employee's pay for payment to a union shall make the payment within 30 days after it is required.</section>
     <section prefix="(b)">Each employer or union official who, under a collective bargaining or other agreement with an employee, agrees to make a payment into a health or welfare fund, a pension fund, a vacation plan, or any other similar fund or plan for employees shall make the payment within 30 days after it is required.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-203" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-1-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -15,7 +15,7 @@
       <section prefix="(5)">"Secretary" means the Secretary of Human Resources.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Notwithstanding any other provision of law, the local director or the Secretary shall, on request, disclose information concerning child abuse or neglect in accordance with subsection (c) of this section if:<section prefix="(i)">the information is limited to actions or omissions of the local department, the Department of Human Resources, or an agent of the Department of Human Resources;</section><section prefix="(ii)">the child named in a report of abuse or neglect has suffered a fatality or near fatality; and</section><section prefix="(iii)"/></section>
+      <section prefix="(1)">Notwithstanding any other provision of law, the local director or the Secretary shall, on request, disclose information concerning child abuse or neglect in accordance with subsection (c) of this section if:<section prefix="(i)">the information is limited to actions or omissions of the local department, the Department of Human Resources, or an agent of the Department of Human Resources;</section><section prefix="(ii)">the child named in a report of abuse or neglect has suffered a fatality or near fatality; and</section><section prefix="(iii)"><section prefix="1.">the local director or the Secretary has consulted the State's Attorney's office; and</section><section prefix="2.">the State's Attorney's office has advised the local director or the Secretary that disclosure of the information would not jeopardize or prejudice a related investigation or prosecution.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">If the local director or the Secretary does not disclose information under paragraph (1) of this subsection because the State's Attorney has advised that disclosure of the information would jeopardize or prejudice a related investigation or prosecution, the State's Attorney shall notify the local director or the Secretary within 10 days after the conclusion of the related investigation or prosecution.</section>
         <section prefix="(ii)">Within 30 days after notification from the State's Attorney under subparagraph (i) of this paragraph, the local director or the Secretary shall disclose information in accordance with this section.</section>

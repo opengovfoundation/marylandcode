@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-511" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-4-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(a)">A document of gift need not be delivered during the lifetime of a donor to be effective.</section>
     <section prefix="(b)">On or after the death of an individual, a person in possession of a document of gift or a refusal to make an anatomical gift regarding the individual shall allow examination and copying of the document of gift or refusal by:<section prefix="(1)">A person authorized to make or object to the making of the anatomical gift; or</section><section prefix="(2)">A person to which the gift could pass under &#xA7; 4-509 of this subtitle.</section></section>

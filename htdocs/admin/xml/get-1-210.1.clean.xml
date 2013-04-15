@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-210.1" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-1-210.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210.1</order_by>
   <text>
     <section prefix="(a)">Unless a contrary intention expressly appears, subsection (b) of this section applies to the provisions of a will requiring that upon the occurrence of an event, distribution shall be made by representation or per stirpes to the issue of one specified person.</section>
     <section prefix="(b)">

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-522" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-20-522</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>522</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) and (c) of this section, within 90 days after receiving an application for a development permit for a qualifying redevelopment project, the county shall:<section prefix="(1)">approve or disapprove the application; and</section><section prefix="(2)">notify the applicant of the approval or disapproval in writing.</section></section>
-    <section prefix="(b)">The county shall have an additional 60 days to comply with subsection (a) of this section if:<section prefix="(1)"><section prefix="(i)">a county unit involved in the review of the application determines that the extension is necessary to complete the review based on:</section><section prefix="(ii)">the county unit notifies the applicant about the extension in writing; or</section></section><section prefix="(2)"><section prefix="(i)">the applicant modifies the application for any reason, including for the purpose of responding to a request from a county unit that is involved in the review of the application; and</section><section prefix="(ii)">the modification is made during the original 90-day period under subsection (a) of this section.</section></section></section>
+    <section prefix="(b)">The county shall have an additional 60 days to comply with subsection (a) of this section if:<section prefix="(1)"><section prefix="(i)">a county unit involved in the review of the application determines that the extension is necessary to complete the review based on:<section prefix="1.">the nature or complexity of the application; or</section><section prefix="2.">unresolved issues related to the application; and</section></section><section prefix="(ii)">the county unit notifies the applicant about the extension in writing; or</section></section><section prefix="(2)"><section prefix="(i)">the applicant modifies the application for any reason, including for the purpose of responding to a request from a county unit that is involved in the review of the application; and</section><section prefix="(ii)">the modification is made during the original 90-day period under subsection (a) of this section.</section></section></section>
     <section prefix="(c)">In addition to the 60-day extension provided under subsection (b) of this section, the county shall have an additional 30 days to comply with subsection (a) of this section if:<section prefix="(1)">the applicant modifies the application for any reason, including for the purpose of responding to a request from a county unit that is involved in the review of the application; and</section><section prefix="(2)">the modification is made during the 60-day extension under subsection (b) of this section.</section></section>
   </text>
 </law>

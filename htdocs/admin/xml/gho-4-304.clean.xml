@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-304" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">To apply for a license, an applicant shall:<section prefix="(1)">Submit an application to the Board on the form that the Board requires; and</section><section prefix="(2)">Pay to the Board an application fee set by the Board.</section></section>
     <section prefix="(b)">In addition to the other requirements of this section, an applicant for a limited license to practice dentistry shall submit to the Board a written request, from the hospital, sanatorium, dental school, or public health program to which the practice is to be limited, that the license be issued.</section>

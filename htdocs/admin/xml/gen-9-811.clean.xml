@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-811" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-811</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>811</order_by>
   <text>
     <section prefix="(a)">To assure that each sewerage facility always remains self-supporting, the governing body of a municipality that issues bonds under this subtitle shall set, collect, and whenever necessary revise reasonable rates, fees, benefit assessments, or charges for the services, facilities, and commodities of the sewerage facility.</section>
     <section prefix="(b)">The rates, fees, benefit assessments, or charges shall be set so as to produce revenue and reserves that are at least sufficient:<section prefix="(1)">To pay, when due, all bonds and the interest on the bonds, for the payment of which the revenue is pledged, charged, or otherwise encumbered; and</section><section prefix="(2)">To provide for all expenses of operation and maintenance of the sewerage facility.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-6-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">At the close of the evidence for the State, a defendant may move for judgment of acquittal on one or more counts or on one or more degrees of a crime, on the ground that the evidence is insufficient in law to sustain a conviction as to the count or degree.</section>

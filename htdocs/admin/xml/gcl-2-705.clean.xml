@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-705" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(1)">The seller may stop delivery of goods in the possession of a carrier or other bailee when he discovers the buyer to be insolvent (&#xA7; 2-702) and may stop delivery of carload, truckload, planeload or larger shipments of express or freight when the buyer repudiates or fails to make a payment due before delivery or if for any other reason the seller has a right to withhold or reclaim the goods.</section>
     <section prefix="(2)">As against such buyer the seller may stop delivery until<section prefix="(a)">Receipt of the goods by the buyer; or</section><section prefix="(b)">Acknowledgment to the buyer by any bailee of the goods except a carrier that the bailee holds the goods for the buyer; or</section><section prefix="(c)">Such acknowledgment to the buyer by a carrier by reshipment or as a warehouse; or</section><section prefix="(d)">Negotiation to the buyer of any negotiable document of title covering the goods.</section></section>

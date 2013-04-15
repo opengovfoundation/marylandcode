@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-106" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (b) of this section, in any custody or visitation proceeding the court may include as a condition of a custody or visitation order a requirement that either party provide advance written notice of at least 90 days to the court, the other party, or both, of the intent to relocate the permanent residence of the party or the child either within or outside the State.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-105" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except for land that is actively devoted to farm or agricultural use, the supervisor:<section prefix="(i)">may value income producing real property by using the capitalization of income method or any other appropriate method of valuing the real property; and</section><section prefix="(ii)">shall consider an income method in valuing income producing commercial real property.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-304" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-19-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">An approved applicant is entitled to be examined for licensure as provided in this section.</section>
     <section prefix="(b)">The Board shall ensure that a Board-approved examination for each category of license is made available for an applicant to take at least twice a year, at the times and places that the Board determines.</section>

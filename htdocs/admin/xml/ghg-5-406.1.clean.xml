@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-406.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-406.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406.1</order_by>
   <text>
     <section prefix="(a)">Any person who has custody of a donated body immediately shall notify the chairman of the Board.</section>
     <section prefix="(b)">When the Board is notified of the existence of a donated body, the Board may remove the body to a designated morgue in Baltimore City.</section>

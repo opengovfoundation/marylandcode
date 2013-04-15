@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-403" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-12-403</section_number>
-  <catch_line/>
+  <catch_line>The Secretary shall adopt rules and regulations to carry out the provisions of this title....</catch_line>
+  <order_by>403</order_by>
   <text>The Secretary shall adopt rules and regulations to carry out the provisions of this title.</text>
 </law>

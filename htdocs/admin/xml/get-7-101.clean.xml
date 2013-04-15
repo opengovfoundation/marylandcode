@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-101" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">A personal representative is a fiduciary. He is under a general duty to settle and distribute the estate of the decedent in accordance with the terms of the will and the estates of decedents law as expeditiously and with as little sacrifice of value as is reasonable under the circumstances. He shall use the authority conferred upon him by the estates of decedents law, by the terms of the will, by orders in proceedings to which he is party, and by the equitable principles generally applicable to fiduciaries, fairly considering the interests of all interested persons and creditors.</section>
     <section prefix="(b)">Unless the time of distribution is extended by order of court for good cause shown, the personal representative shall distribute all the assets of the estate of which he has taken possession or control within the time provided in &#xA7; 7-305 of this title for rendering his first account.</section>

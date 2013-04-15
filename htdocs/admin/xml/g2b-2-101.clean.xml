@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-101" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-2-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">The Office of the Comptroller shall provide application forms for the permits listed in this section and applicants shall make application to the Office of the Comptroller. The procedure in issuing permits, the purchase of alcoholic beverages, and the exercise of the privileges granted under the various permits shall be subject to regulations promulgated by the Office of the Comptroller. The Office of the Comptroller may cancel, restrict, suspend, or revoke any permit.</section>
     <section prefix="(b)">
       <section prefix="(1)">
-        <section prefix="(i)">The Office of the Comptroller shall collect a fee for the issuance or renewal of the following permits:</section>
+        <section prefix="(i)">The Office of the Comptroller shall collect a fee for the issuance or renewal of the following permits:<section prefix="1.">$50 for a solicitor's permit, an individual storage permit, a nonresident winery permit, or a commercial nonbeverage permit;</section><section prefix="2.">$75 for a public storage permit, a public transportation permit, or an import and export permit;</section><section prefix="3.">$200 for a public storage and transportation permit, a nonresident dealer's permit, a resident dealer's permit, or a bulk transfer permit;</section><section prefix="4.">$400 for a family beer and wine facility permit;</section><section prefix="5.">$200 for issuance or renewal of a direct wine shipper's permit; and</section><section prefix="6.">$100 for a common carrier permit.</section></section>
         <section prefix="(ii)">The Office of the Comptroller shall issue a nonbeverage permit without the payment of any fee for an eleemosynary or a fuel-alcohol permittee.</section>
       </section>
       <section prefix="(2)">
@@ -87,12 +87,12 @@
         <section prefix="(ii)">Only 1 permit shall be issued to each charity during a calendar year.</section>
       </section>
       <section prefix="(8)">
-        <section prefix="(i)">A permit holder may receive wine for the auction from:</section>
-        <section prefix="(ii)">A permit holder may receive commercially-produced wine that is not authorized for distribution and sale in the State from:</section>
+        <section prefix="(i)">A permit holder may receive wine for the auction from:<section prefix="1.">A wholesaler licensed under this article;</section><section prefix="2.">A Class 3 or Class 4 winery licensed under this article;</section><section prefix="3.">A retail dealer licensed under this article;</section><section prefix="4.">A private individual residing in the State; or</section><section prefix="5.">A business entity that is located in the State and not licensed under this article.</section></section>
+        <section prefix="(ii)">A permit holder may receive commercially-produced wine that is not authorized for distribution and sale in the State from:<section prefix="1.">A nonresident private individual; or</section><section prefix="2.">A business entity that is located outside of this State.</section></section>
       </section>
       <section prefix="(9)">
-        <section prefix="(i)">Wine that is received from the following sources is subject to Maryland tax as provided under &#xA7; 5-102 of the Tax - General Article:</section>
-        <section prefix="(ii)">Wine that is received from the following sources is presumed to have been tax-paid:</section>
+        <section prefix="(i)">Wine that is received from the following sources is subject to Maryland tax as provided under &#xA7; 5-102 of the Tax - General Article:<section prefix="1.">Wholesalers licensed under this article;</section><section prefix="2.">Class 3 and 4 wineries licensed under this article; and</section><section prefix="3.">Any other source outside of this State.</section></section>
+        <section prefix="(ii)">Wine that is received from the following sources is presumed to have been tax-paid:<section prefix="1.">Retail dealers licensed under this article;</section><section prefix="2.">Private individuals residing in this State; and</section><section prefix="3.">Business entities that are located in this State and not licensed under this article.</section></section>
       </section>
       <section prefix="(10)">
         <section prefix="(i)">Within 30 days from the close of the auction, the permit holder shall file a report and pay all taxes that are due and owing on the wine that is received for the auction.</section>
@@ -131,7 +131,7 @@
     </section>
     <section prefix="(t)">
       <section prefix="(1)">A private bulk sale permit authorizes the holder to sell the holder's private alcoholic beverages inventory to an individual or entity in accordance with this subsection.</section>
-      <section prefix="(2)">In order to qualify for a private bulk sale permit, an applicant must:<section prefix="(i)">Be an individual at least 21 years of age or older;</section><section prefix="(ii)">Be a current Maryland resident;</section><section prefix="(iii)">File an inventory with the Comptroller of all alcoholic beverages to be sold; and</section><section prefix="(iv)">Certify that all alcoholic beverages to be sold:</section></section>
+      <section prefix="(2)">In order to qualify for a private bulk sale permit, an applicant must:<section prefix="(i)">Be an individual at least 21 years of age or older;</section><section prefix="(ii)">Be a current Maryland resident;</section><section prefix="(iii)">File an inventory with the Comptroller of all alcoholic beverages to be sold; and</section><section prefix="(iv)">Certify that all alcoholic beverages to be sold:<section prefix="1.">Have been legally acquired and transported into Maryland in accordance with this article; and</section><section prefix="2.">Are owned by the permit holder at the time of application.</section></section></section>
       <section prefix="(3)">Sales under a private bulk sale permit shall be made by:<section prefix="(i)">The permit holder; or</section><section prefix="(ii)">An unlicensed agent or auction company acting on behalf of the permit holder.</section></section>
       <section prefix="(4)">Sales transactions may take place on:<section prefix="(i)">A premises not licensed under the provisions of this article; or</section><section prefix="(ii)">A private room of an on-premise retail licensee.</section></section>
       <section prefix="(5)">Sales may only be made under this permit to one or more of the following:<section prefix="(i)">A Maryland resident who is at least 21 years of age;</section><section prefix="(ii)">A Maryland alcoholic beverages retailer who holds the proper class of license; or</section><section prefix="(iii)">An individual or entity located outside of this State if the individual or entity is authorized to ship alcoholic beverages purchased under the permit to their home state or state of ultimate destination.</section></section>
@@ -146,23 +146,26 @@
       <section prefix="(6)">A Class 4 Maryland limited winery in Calvert County may be issued a winery special event permit for unlimited use for one night each week from June through November at the North Beach Friday Night Farmers' Market.</section>
       <section prefix="(7)">
         <section prefix="(i)">In addition to the winery special event permits that may be issued under paragraph (1)(i) and (iii) of this subsection, a Class 4 Maryland limited winery may be issued not more than 12 winery special event permits for use at farmers' markets in Prince George's County that are listed on the Farmers' Market Directory of the Maryland Department of Agriculture.</section>
-        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:</section>
+        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:<section prefix="1.">The holder of the permit may not sell wine by the glass; and</section><section prefix="2.">The farmers' market administrator or the administrator's designee and the holder of the permit or the holder's designee shall be:</section></section>
       </section>
       <section prefix="(8)">
         <section prefix="(i)">In addition to the winery special event permits that may be issued under paragraph (1)(i) and (iii) of this subsection, a Class 4 Maryland limited winery may be issued not more than 12 winery special event permits for use at farmers' markets in Montgomery County that are listed on the Farmers' Market Directory of the Maryland Department of Agriculture.</section>
-        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:</section>
+        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:<section prefix="1.">The holder of the permit may not sell wine by the glass; and</section><section prefix="2.">The farmers' market administrator or the administrator's designee and the holder of the permit or the holder's designee shall be:</section></section>
       </section>
       <section prefix="(9)">
         <section prefix="(i)">In addition to the winery special event permits that may be issued under paragraph (1)(i) and (iii) of this subsection, a Class 4 Maryland limited winery may be issued not more than 12 winery special event permits for use at farmers' markets in Frederick County that are listed on the Farmers' Market Directory of the Maryland Department of Agriculture.</section>
-        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:</section>
+        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:<section prefix="1.">The holder of the permit may not sell wine by the glass; and</section><section prefix="2.">The farmers' market administrator or the administrator's designee and the holder of the permit or the holder's designee shall be:</section></section>
       </section>
       <section prefix="(10)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:</section>
+        <section prefix="(i)">
+          <section prefix="1.">In addition to the winery special event permits that may be issued under paragraph (1)(i) and (iii) of this subsection and subject to subsubparagraph 2 of this subparagraph, a Class 4 Maryland limited winery may be issued not more than 12 winery special event permits for use at farmers' markets in Baltimore County that are listed on the Farmers' Market Directory of the Maryland Department of Agriculture.</section>
+          <section prefix="2.">A Class 4 Maryland limited winery may use not more than six winery special event permits at the same farmers' market in Baltimore County in a year.</section>
+        </section>
+        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:<section prefix="1.">The holder of the permit may not sell wine by the glass; and</section><section prefix="2.">The farmers' market administrator or the administrator's designee and the holder of the permit or the holder's designee shall be:</section></section>
       </section>
       <section prefix="(11)">
         <section prefix="(i)">In addition to the winery special event permits that may be issued under paragraph (1)(i) and (iii) of this subsection, a Class 4 Maryland limited winery may be issued not more than 12 winery special event permits for use at farmers' markets in Carroll County that are listed on the Farmers' Market Directory of the Maryland Department of Agriculture.</section>
-        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:</section>
+        <section prefix="(ii)">If a winery special event permit is issued under this paragraph:<section prefix="1.">The holder of the permit may not sell wine by the glass; and</section><section prefix="2.">The farmers' market administrator or the administrator's designee and the holder of the permit or the holder's designee shall be:</section></section>
       </section>
       <section prefix="(12)">In addition to the winery special event permits that may be issued under paragraph (1)(i) and (iii) of this subsection, a Class 4 Maryland limited winery may be issued a winery special event permit for unlimited use for 1 day each week at a farmers' market in St. Mary's County that is listed on the Farmers' Market Directory of the Maryland Department of Agriculture.</section>
       <section prefix="(13)">In addition to the winery special event permits that may be issued under paragraph (1)(i) and (iii) of this subsection, a Class 4 Maryland limited winery may be issued a winery special event permit for unlimited use for 1 day each week at a farmers' market in Dorchester County that is listed on the Farmers' Market Directory of the Maryland Department of Agriculture.</section>
@@ -186,10 +189,10 @@
       <section prefix="(3)">The Comptroller may issue the permit to a holder of a license:<section prefix="(i)">Other than a Class 4 limited winery license, that allows the holder to sell alcoholic beverages to the public for consumption off the licensed premises; and</section><section prefix="(ii)">That was issued by the local licensing board of the jurisdiction in which the farmer's market will be held.</section></section>
       <section prefix="(4)">The holder of a permit shall notify the local licensing board of the jurisdiction in which the farmer's market will be held that the permit has been issued.</section>
       <section prefix="(5)">
-        <section prefix="(i)">A permit may be used only:</section>
+        <section prefix="(i)">A permit may be used only:<section prefix="1.">At a farmer's market that is listed in the farmer's market directory of the Maryland Department of Agriculture;</section><section prefix="2.">At the farmer's market named in the permit; and</section><section prefix="3.">During the hours of operation of the farmer's market for which it is obtained.</section></section>
         <section prefix="(ii)">The Comptroller may issue not more than one permit for use at each farmer's market.</section>
       </section>
-      <section prefix="(6)">A permit authorizes the holder to:<section prefix="(i)">Occupy stall space at a farmer's market; and</section><section prefix="(ii)">Subject to paragraph (7) of this subsection:</section></section>
+      <section prefix="(6)">A permit authorizes the holder to:<section prefix="(i)">Occupy stall space at a farmer's market; and</section><section prefix="(ii)">Subject to paragraph (7) of this subsection:<section prefix="1.">Offer and sell sealed containers of wine to consumers for consumption off the licensed premises of the farmer's market; and</section><section prefix="2.">Provide at no charge samples of wine not to exceed 1 fluid ounce per brand to consumers for consumption on the licensed premises of the farmer's market.</section></section></section>
       <section prefix="(7)">All wine offered for sale or samplings by the permit holder shall be the product of a Class 4 limited winery.</section>
     </section>
     <section prefix="(y)">

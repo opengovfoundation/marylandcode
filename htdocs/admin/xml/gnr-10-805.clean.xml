@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-805" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">The Department, in order to protect and propagate wildlife, may establish and maintain State wildlife refuges where wildlife may not be hunted, disturbed, or molested at any time. Upon the consent of the Governor and the superintendent in charge of any area of federally owned or State-owned land or water, the Department may locate a State wildlife refuge on any State-owned or federally owned forest, land, or water.</section>
     <section prefix="(b)">The boundaries of each wildlife refuge shall be clearly marked. At each refuge a notice shall be posted in a conspicuous place informing the public the area of land or water is a "State Wildlife Refuge -- Hunting Is Unlawful", and other information or regulations the Department considers advisable.</section>

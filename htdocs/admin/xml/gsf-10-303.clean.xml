@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-303" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-10-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other section of this subtitle, the Department of Natural Resources may dispose of any existing structure on any property acquired by the State for the use of the Department if the structure is valued at $2,500 or less.</section>
     <section prefix="(b)">Before the Department of Natural Resources disposes of any structure under this section, the Department shall give public notice in a newspaper of general circulation in the county in which the structure is located.</section>

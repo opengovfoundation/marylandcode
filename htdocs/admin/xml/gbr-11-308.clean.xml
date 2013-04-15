@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-308" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">Subject to the hearing provisions of &#xA7;&#xA7; 11-309 and 11-310 of this subtitle, the Commission may deny a license to an applicant or discipline a licensee in accordance with this section.</section>
     <section prefix="(b)">The Commission may deny a license to any applicant for any reason that the Commission considers sufficient.</section>

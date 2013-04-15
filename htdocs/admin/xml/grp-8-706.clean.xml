@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-706" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-706</section_number>
-  <catch_line/>
+  <catch_line>After a ground lease is registered, the ground lease holder shall promptly notify the Department of:...</catch_line>
+  <order_by>706</order_by>
   <text>After a ground lease is registered, the ground lease holder shall promptly notify the Department of:<section prefix=""><section prefix="(1)">A change in the name or address of the ground lease holder, leasehold tenant, or person to whom the ground rent payment is sent;</section><section prefix="(2)">A redemption of the ground lease; and</section><section prefix="(3)">Any other information the Department requires.</section></section></text>
 </law>

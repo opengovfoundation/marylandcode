@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-107" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-23-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Before the Administration titles and registers any used vehicle, it shall require the applicant to present a valid inspection certificate for the vehicle.</section>
-      <section prefix="(2)">For the purposes of this subsection, an inspection certificate shall remain valid from the date the inspection certificate is issued for a period of:<section prefix="(i)">90 days; or</section><section prefix="(ii)">In the case of an inspection certificate issued for a used vehicle owned and held in inventory by a dealer licensed under Title 15 of this article, the earlier of:</section></section>
+      <section prefix="(2)">For the purposes of this subsection, an inspection certificate shall remain valid from the date the inspection certificate is issued for a period of:<section prefix="(i)">90 days; or</section><section prefix="(ii)">In the case of an inspection certificate issued for a used vehicle owned and held in inventory by a dealer licensed under Title 15 of this article, the earlier of:<section prefix="1.">6 months; or</section><section prefix="2.">When 1,000 miles have been added to the vehicle's odometer since the inspection certificate was issued.</section></section></section>
       <section prefix="(3)">This subsection does not apply to any vehicle transferred within 30 days after the date of an inspection certificate issued for the vehicle and filed by the Administration in its title records.</section>
     </section>
     <section prefix="(b)">

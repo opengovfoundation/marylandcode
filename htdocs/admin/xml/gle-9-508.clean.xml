@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-508" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-508</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>508</order_by>
   <text>
     <section prefix="(a)">A principal contractor is liable to pay to a covered employee or the dependents of the covered employee any compensation that the principal contractor would have been liable to pay had the covered employee been employed directly by the principal contractor if:<section prefix="(1)">the principal contractor undertakes to perform any work that is part of the business, occupation, or trade of the principal contractor;</section><section prefix="(2)">the principal contractor contracts with a subcontractor for the execution by or under the subcontractor of all or part of the work undertaken by the principal contractor; and</section><section prefix="(3)">the covered employee is employed in the execution of that work.</section></section>
     <section prefix="(b)">
@@ -16,8 +16,8 @@
     <section prefix="(d)">If a principal contractor is liable to pay compensation under this section, the principal contractor is entitled to indemnity from any employer who would have been liable to pay compensation independent of this section.</section>
     <section prefix="(e)">This section does not prevent a covered employee or a dependent of a covered employee from recovering compensation from a subcontractor instead of the principal contractor.</section>
     <section prefix="(f)">
-      <section prefix="(1)">A principal contractor is not liable to pay compensation to an individual under this title if the individual:<section prefix="(i)">is a corporate officer, or a member of a limited liability company, who elects to be exempt from coverage under &#xA7; 9-206 of this title;</section><section prefix="(ii)">is a partner in a partnership and the partnership does not elect to make the individual a covered employee under &#xA7; 9-219 of this title; or</section><section prefix="(iii)">is a sole proprietor who:</section></section>
-      <section prefix="(2)">An individual is presumed to be a sole proprietor who is not a covered employee under this section if:<section prefix="(i)">a substantial part of the individual's income is derived from the trade or business for which a principal contractor engages the individual and from which the individual has attempted to earn taxable income; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">A principal contractor is not liable to pay compensation to an individual under this title if the individual:<section prefix="(i)">is a corporate officer, or a member of a limited liability company, who elects to be exempt from coverage under &#xA7; 9-206 of this title;</section><section prefix="(ii)">is a partner in a partnership and the partnership does not elect to make the individual a covered employee under &#xA7; 9-219 of this title; or</section><section prefix="(iii)">is a sole proprietor who:<section prefix="1.">does not notify the principal contractor, on a form approved by the Commission, of the individual's status as a covered employee; and</section><section prefix="2.">does not elect to be a covered employee under &#xA7; 9-227 of this title.</section></section></section>
+      <section prefix="(2)">An individual is presumed to be a sole proprietor who is not a covered employee under this section if:<section prefix="(i)">a substantial part of the individual's income is derived from the trade or business for which a principal contractor engages the individual and from which the individual has attempted to earn taxable income; and</section><section prefix="(ii)"><section prefix="1.">the individual notifies the principal contractor on a form approved by the Commission that the individual has not elected to become a covered employee under &#xA7; 9-227 under this title; or</section><section prefix="2.">the individual has filed the appropriate Internal Revenue Form 1040, Schedule C or F, for the previous taxable year.</section></section></section>
     </section>
   </text>
 </law>

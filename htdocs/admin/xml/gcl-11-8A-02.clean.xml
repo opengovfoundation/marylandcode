@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-8A-02" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-8A-02</section_number>
-  <catch_line/>
+  <catch_line>If an art dealer accepts a work of fine art on a fee, commission, or other compensation basis, on co...</catch_line>
+  <order_by>02</order_by>
   <text>If an art dealer accepts a work of fine art on a fee, commission, or other compensation basis, on consignment from the artist:<section prefix=""><section prefix="(1)">The art dealer is, with respect to that work of fine art, the bailee of the artist;</section><section prefix="(2)">The work of fine art is bailment property in which the art dealer has no legal or equitable interest until the work is sold to a bona fide third party; and</section><section prefix="(3)">The proceeds of the sale of the work of fine art are bailment property in which the art dealer has no legal or equitable interest until the amount due the artist from the sale, minus the agreed commission, is paid.</section></section></text>
 </law>

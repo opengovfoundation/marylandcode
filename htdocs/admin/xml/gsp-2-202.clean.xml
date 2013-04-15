@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-202" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-2-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The principal personnel system in the Executive Branch of State government is the State Personnel Management System.</section>
     <section prefix="(b)">As expressly authorized by law, a unit in the Executive Branch of State government may establish a personnel system that operates independent of the State Personnel Management System.</section>

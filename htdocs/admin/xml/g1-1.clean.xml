@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="1" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-1</section_number>
-  <catch_line/>
+  <catch_line>The adoption of this Code shall not affect or impair any right, vested or acquired and existing at t...</catch_line>
+  <order_by>1</order_by>
   <text>The adoption of this Code shall not affect or impair any right, vested or acquired and existing at the time of its adoption, nor shall it impair, discharge or release any existing contract, obligation, duty or liability of any kind whatsoever. All pending suits, actions and prosecutions for crimes or misdemeanors, including all civil and criminal proceedings whatsoever, shall be prosecuted and proceeded with to final determination, and judgment entered therein as if this Code had not been adopted.</text>
 </law>

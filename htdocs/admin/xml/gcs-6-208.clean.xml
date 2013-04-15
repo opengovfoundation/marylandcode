@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-208" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-6-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">The Interstate Commission shall meet and take such actions as are consistent with the provisions of this Compact.</section>
     <section prefix="(b)">Except as otherwise provided in this Compact and unless a greater percentage is required by the bylaws, in order to constitute an act of the Interstate Commission, such act shall have been taken at a meeting of the Interstate Commission and shall have received an affirmative vote of a majority of the members present.</section>

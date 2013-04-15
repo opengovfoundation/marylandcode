@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-104" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-10-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">A person must have a permit to discharge fireworks as provided by this subtitle before the person:<section prefix="(1)">discharges fireworks; or</section><section prefix="(2)">possesses fireworks with the intent to discharge fireworks or to allow the discharge of fireworks.</section></section>
     <section prefix="(b)">An applicant for a permit to discharge fireworks shall:<section prefix="(1)">apply to the State Fire Marshal for the permit at least 10 days before the date of discharge;</section><section prefix="(2)">pay to the State Fire Marshal a permit fee of $50; and</section><section prefix="(3)">post a bond with the State Fire Marshal in accordance with &#xA7; 10-105 of this subtitle.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-932" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-932</section_number>
-  <catch_line/>
+  <catch_line>By resolution of its board of directors, an authority may:...</catch_line>
+  <order_by>932</order_by>
   <text>By resolution of its board of directors, an authority may:<section prefix=""><section prefix="(1)">Issue bonds of the authority;</section><section prefix="(2)">Secure the payment of the bonds by pledge or deed of trust of all or any part of the revenue of the authority;</section><section prefix="(3)">Either before or after the issuance of bonds, make any agreement that the authority considers advisable with:<section prefix="(i)">A purchaser or holder of the bonds; or</section><section prefix="(ii)">Any other person in connection with the bonds; and</section></section><section prefix="(4)">Provide generally for:<section prefix="(i)">The security for the bonds; and</section><section prefix="(ii)">The rights of the holders of the bonds.</section></section></section></text>
 </law>

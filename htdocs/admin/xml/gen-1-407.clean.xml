@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-407" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-1-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">The Attorney General is legal adviser to the Department.</section>
     <section prefix="(b)">The Attorney General shall assign to the Department the number of assistant Attorneys General authorized by law to be assigned to the Department and any additional ones necessary to give effective legal advice and counsel. The Attorney General also shall designate an assistant Attorney General as counsel to the Department.</section>

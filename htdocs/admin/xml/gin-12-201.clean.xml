@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An individual of competent legal capacity may procure or effect an insurance contract on the individual's own life or body for the benefit of any person.</section>
@@ -15,19 +15,19 @@
       <section prefix="(1)">With reference to personal insurance, an insurable interest includes only the interests described in this subsection.</section>
       <section prefix="(2)">
         <section prefix="(i)">For individuals related closely by blood or law, a substantial interest engendered by love and affection is an insurable interest.</section>
-        <section prefix="(ii)">For the prospective parent of a prospective adoptive child, an insurable interest exists in the life of the child as of the date of the earlier of:</section>
+        <section prefix="(ii)">For the prospective parent of a prospective adoptive child, an insurable interest exists in the life of the child as of the date of the earlier of:<section prefix="1.">a placement for adoption, as defined in &#xA7; 5-301 of the Family Law Article, provided that:</section><section prefix="2.">an interlocutory or final decree of adoption.</section></section>
       </section>
       <section prefix="(3)">For persons other than individuals closely related by blood or law, a lawful and substantial economic interest in the continuation of the life, health, or bodily safety of the individual is an insurable interest but an interest that arises only by, or would be enhanced in value by, the death, disablement, or injury of the individual is not an insurable interest.</section>
       <section prefix="(4)">
-        <section prefix="(i)">This paragraph applies only to employees with respect to whom the corporate employer or an employer sponsored trust for the benefits of employees is the beneficiary under an insurance contract, if the employer is:</section>
-        <section prefix="(ii)">A lawful and substantial economic interest exists in:</section>
+        <section prefix="(i)">This paragraph applies only to employees with respect to whom the corporate employer or an employer sponsored trust for the benefits of employees is the beneficiary under an insurance contract, if the employer is:<section prefix="1.">a private corporation; or</section><section prefix="2.">a public corporation, the stock of which is traded on a recognized stock exchange or traded in accordance with the National Association of Securities Dealers Automated Quotation (NASDAQ) Systems.</section></section>
+        <section prefix="(ii)">A lawful and substantial economic interest exists in:<section prefix="1.">a key employee of a private corporation or a public corporation described in subparagraph (i) of this paragraph; and</section><section prefix="2.">a nonkey employee of a public corporation described in subparagraph (i) of this paragraph if:</section></section>
       </section>
       <section prefix="(5)">
-        <section prefix="(i)">This paragraph applies only to a contract or option for the purchase or sale of:</section>
+        <section prefix="(i)">This paragraph applies only to a contract or option for the purchase or sale of:<section prefix="1.">an interest in a business partnership or firm; or</section><section prefix="2.">stock shares, or an interest in stock shares, of a close corporation.</section></section>
         <section prefix="(ii)">An individual party to a contract or option described in subparagraph (i) of this paragraph has an insurable interest in the life of each individual party to the contract or option.</section>
-        <section prefix="(iii)">The insurable interest specified in subparagraph (ii) of this paragraph:</section>
+        <section prefix="(iii)">The insurable interest specified in subparagraph (ii) of this paragraph:<section prefix="1.">is only for the purposes of the contract or option; and</section><section prefix="2.">is in addition to any other insurable interest that may exist on the life of an individual party to the contract or option.</section></section>
       </section>
-      <section prefix="(6)">The trustee of a trust has an insurable interest in the life of an individual insured under a life insurance policy owned by the trust or the trustee of a trust if, on the date on which the policy is issued:<section prefix="(i)">the insured is:</section><section prefix="(ii)">the life insurance proceeds are primarily for the benefit of trust beneficiaries having an insurable interest in the life of the insured.</section></section>
+      <section prefix="(6)">The trustee of a trust has an insurable interest in the life of an individual insured under a life insurance policy owned by the trust or the trustee of a trust if, on the date on which the policy is issued:<section prefix="(i)">the insured is:<section prefix="1.">the grantor of the trust;</section><section prefix="2.">an individual related closely by blood or law to the grantor; or</section><section prefix="3.">an individual in whom the grantor otherwise has an insurable interest; and</section></section><section prefix="(ii)">the life insurance proceeds are primarily for the benefit of trust beneficiaries having an insurable interest in the life of the insured.</section></section>
       <section prefix="(7)">A partnership, limited partnership, or limited liability company has an insurable interest in the life of an individual insured under a life insurance policy owned by the partnership, limited partnership, or limited liability company if, on the date on which the policy is issued, substantially all of the owners of the partnership, limited partnership, or limited liability company are:<section prefix="(i)">the insured;</section><section prefix="(ii)">individuals related closely by blood or law to the insured; or</section><section prefix="(iii)">persons having an insurable interest in the life of the insured.</section></section>
     </section>
     <section prefix="(c)">

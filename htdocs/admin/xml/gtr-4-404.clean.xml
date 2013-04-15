@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-404" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">The Authority shall construct any gasoline service facilities that it finds to be needed on the John F. Kennedy Memorial Highway.</section>
     <section prefix="(b)">The Authority may require a gasoline service facility located on the John F. Kennedy Memorial Highway to sell a blend of fuel that is at least 5% biodiesel fuel or other biofuel approved by the U.S. Environmental Protection Agency as a fuel or fuel additive or approved under the EPA Renewable Fuels Standard 2 Program.</section>

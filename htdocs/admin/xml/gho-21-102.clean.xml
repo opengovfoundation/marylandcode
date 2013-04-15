@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-102" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-21-102</section_number>
-  <catch_line/>
+  <catch_line>This title does not prohibit an individual from practicing any other profession or occupation that t...</catch_line>
+  <order_by>102</order_by>
   <text>This title does not prohibit an individual from practicing any other profession or occupation that the individual is authorized to practice under the laws of the State.</text>
 </law>

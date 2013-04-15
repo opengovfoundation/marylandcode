@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-501" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"Capital equipment" means essential fixed equipment and furnishings with an expected useful life of at least 15 years.</section>
@@ -17,7 +17,7 @@
     <section prefix="(e)">"Improvement" means construction, replacement, extension, or betterment of a project or real property.</section>
     <section prefix="(f)">"Master plan" means a comprehensive plan for a local government's projected need for funds for senior citizen activities centers over 15 years.</section>
     <section prefix="(g)">"Program" means the Senior Citizen Activities Centers Capital Improvement Grants Program.</section>
-    <section prefix="(h)">"Project" means a proposed or existing senior citizen activities center that:<section prefix="(1)">receives or has received a grant for work that is eligible under this part;</section><section prefix="(2)">is operated under the authority of a unit of local government; and</section><section prefix="(3)">is:<section prefix="(i)">wholly owned by the unit of local government; or</section><section prefix="(ii)">leased by a unit of local government if:</section></section></section>
+    <section prefix="(h)">"Project" means a proposed or existing senior citizen activities center that:<section prefix="(1)">receives or has received a grant for work that is eligible under this part;</section><section prefix="(2)">is operated under the authority of a unit of local government; and</section><section prefix="(3)">is:<section prefix="(i)">wholly owned by the unit of local government; or</section><section prefix="(ii)">leased by a unit of local government if:<section prefix="1.">the lease is for a minimum term of 15 years after completion of the project or gives the lessee the right of purchase; and</section><section prefix="2.">the lessor consents to the recording of a notice of the right of recovery under &#xA7; 10-506 of this subtitle in the land records of the county in which the facility is located.</section></section></section></section>
     <section prefix="(i)">"Senior citizen activities center" means a community or neighborhood facility in which a broad spectrum of services are organized and provided to individuals at least 60 years old or their spouses, including health, social, nutritional, educational, and recreational services.</section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-409" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">If the Internal Revenue Service issues a final determination that increases federal taxable income, federal estate, or federal generation-skipping transfer tax reported on a federal return, the tax collector shall assess the financial institution franchise tax, public service company franchise tax, income tax, Maryland estate tax, or Maryland generation-skipping transfer tax on the increase in the taxable net earnings, gross receipts, Maryland taxable income, federal credit for State death tax, or federal credit for State generation-skipping transfer tax that results from the federal adjustment.</section>
     <section prefix="(b)">Within 90 days after the Internal Revenue Service issues to a person the final determination to which subsection (a) of this section refers, the person shall submit to the tax collector a report of federal adjustment that includes:<section prefix="(1)">a statement of the amount of the increase; and</section><section prefix="(2)">if the person contends that the final federal determination is erroneous, an explanation of the reasons for the contention.</section></section>

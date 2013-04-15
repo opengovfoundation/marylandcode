@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-606" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
     <section prefix="(a)">When a claim subject to this subtitle results in a default judgment that is entered for want of a plea by a defendant other than the Fund, or in a judgment that is entered with the consent of the defendant without the knowledge and approval of the Fund, the Fund shall answer or apply for relief against the judgment and for permission to answer and defend the claim within 30 days after receipt of actual notice of the judgment.</section>
     <section prefix="(b)">

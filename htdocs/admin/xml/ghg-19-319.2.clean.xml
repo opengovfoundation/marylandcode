@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-319.2" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-319.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>319.2</order_by>
   <text>
     <section prefix="(a)">In this section, "facility" means a special psychiatric hospital or an acute general care hospital with separately identified inpatient psychiatric service.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-104" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-7-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">The Corporation exercises its powers and performs its duties subject to the authority of the Commissioner.</section>
     <section prefix="(b)">Except as otherwise provided in this subtitle, the Corporation has all of the powers, privileges, and immunities granted to Maryland corporations under the Maryland General Corporation Law.</section>

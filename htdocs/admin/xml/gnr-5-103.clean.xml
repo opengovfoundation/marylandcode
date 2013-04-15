@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-103" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -41,9 +41,16 @@
       </section>
       <section prefix="(6)">The Fund consists of any money received from contributions by a constructing agency under subsection (d) of this section.</section>
       <section prefix="(7)">
-        <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, the Fund may be used only to:</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
+        <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, the Fund may be used only to:<section prefix="1.">Plant trees on State or other publicly owned lands located in the county and watershed in which construction projects giving rise to Fund contributions are located;</section><section prefix="2.">If reforestation cannot be reasonably accomplished in the county and watershed in which the construction activity is located:</section><section prefix="3.">Replace trees, except nursery stock that has not been replanted, that were destroyed by the application of a treatment applied to destroy plant pests under a quarantine imposed by the Secretary of Agriculture, whether or not the quarantine is in effect in the county or watershed where the construction activity occurred.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">Except as provided in subsubparagraph 2 of this subparagraph, moneys in the Fund may be used for administrative costs calculated in accordance with &#xA7; 1-103(b)(2) of this article.</section>
+          <section prefix="2.">The Fund may not be used to finance administrative activities associated with a mitigation bank.</section>
+          <section prefix="3.">Any credits created by the Fund may not be sold to compensate for additional forest impacts.</section>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">The Department shall accomplish the reforestation for which money is deposited in the Fund within 1 year or two growing seasons after project completion, as appropriate.</section>
+          <section prefix="2.">Money deposited in the Fund under subsection (d) of this section shall remain in the Fund for a period of 1 year or two growing seasons, and at the end of that time period, any portion that is not used to meet the reforestation requirements shall be returned to the constructing agency.</section>
+        </section>
       </section>
       <section prefix="(8)">
         <section prefix="(i)">The Treasurer shall invest the money of the Fund in the same manner as other State money may be invested.</section>

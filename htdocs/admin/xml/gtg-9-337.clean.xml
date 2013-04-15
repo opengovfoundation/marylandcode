@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-337" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-9-337</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>337</order_by>
   <text>
     <section prefix="(a)">A person may not engage in the business of a dealer, a distributor, a special fuel seller, a special fuel user, or a turbine fuel seller without a license issued by the Comptroller under this subtitle.</section>
     <section prefix="(b)">A dealer, distributor, special fuel seller, special fuel user, or turbine fuel seller may not receive motor fuel without a license issued by the Comptroller under this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-307" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-6-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Financial assistance under the Business Development Program shall be on the terms that the Department considers necessary to make the project financially feasible.</section>
     <section prefix="(b)">Financial assistance under the Business Development Program may be used for:<section prefix="(1)">a part of the development costs of a project; or</section><section prefix="(2)">the development costs, working capital, or business expenses of a microenterprise project.</section></section>

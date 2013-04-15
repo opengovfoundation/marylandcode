@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-701" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-701</section_number>
-  <catch_line/>
+  <catch_line>Nominations for public offices that are filled by elections governed by this article shall be made:...</catch_line>
+  <order_by>701</order_by>
   <text>Nominations for public offices that are filled by elections governed by this article shall be made:<section prefix=""><section prefix="(1)">by party primary, for candidates of a principal political party;</section><section prefix="(2)">by petition, for candidates not affiliated with any political party; or</section><section prefix="(3)">in accordance with the constitution and by-laws of the political party, for candidates of a political party that does not nominate by party primary.</section></section></text>
 </law>

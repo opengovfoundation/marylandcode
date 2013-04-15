@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-810" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-810</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>810</order_by>
   <text>
     <section prefix="(a)">Each application for a commercial driver's license or commercial driver's instructional permit shall be made on the form the Administration requires.</section>
     <section prefix="(b)">In addition to the information specified by &#xA7; 16-106 of this title, each application shall contain:<section prefix="(1)">The applicant's Social Security number;</section><section prefix="(2)">A consent to release a complete driving record to any employer or prospective employer;</section><section prefix="(3)">Certifications and information required by federal regulation; and</section><section prefix="(4)">Any other pertinent information that the Administration requires.</section></section>

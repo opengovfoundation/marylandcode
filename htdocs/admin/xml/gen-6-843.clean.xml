@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-843" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-843</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>843</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in this subsection and subsection (b) of this section, and in cooperation with the Department of Housing and Community Development, the State Department of Assessments and Taxation, and other appropriate governmental units, the Department shall provide for the collection of an annual fee for every rental dwelling unit in the State.</section>

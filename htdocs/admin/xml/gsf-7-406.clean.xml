@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-406" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -23,7 +23,7 @@
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">A grantor shall submit a report as provided in this subsection to the Department on or before September 1 after the close of each fiscal year in which the grantor provided State aid to a grantee.</section>
-        <section prefix="(ii)">The report shall contain:</section>
+        <section prefix="(ii)">The report shall contain:<section prefix="1.">the name, address, and zip code of each grantee that received State aid from the grantor during the previous fiscal year;</section><section prefix="2.">the amount of any State aid provided to the grantee; and</section><section prefix="3.">a description of the State aid provided to the grantee.</section></section>
       </section>
       <section prefix="(2)">The reports required under this subsection shall be in the form and format, including electronic format, that the Department, after consultation with the Department of Information Technology, requires.</section>
     </section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-412" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-11-412</section_number>
-  <catch_line/>
+  <catch_line>The Corporation may:...</catch_line>
+  <order_by>412</order_by>
   <text>The Corporation may:<section prefix=""><section prefix="(1)">acquire, improve, develop, manage, market, lease as lessor or lessee, operate, and maintain any project at the Bainbridge Naval Training Center; and</section><section prefix="(2)">acquire, either directly or by or through an agreement with the United States Navy, by purchase, gift, or devise, any property, rights, rights-of-way, franchises, easements, and other interests in land, including land lying under water and riparian rights located in or outside the State as necessary or convenient to improve or operate a project on terms and at prices that the Corporation considers reasonable.</section></section></text>
 </law>

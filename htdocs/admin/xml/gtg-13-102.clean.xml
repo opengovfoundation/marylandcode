@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-102" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">Unpaid tax and interest and penalties on the tax are, from the due date, the personal debt of the person required to pay the tax.</section>
     <section prefix="(b)">Subsection (a) of this section does not add to or otherwise change the personal liability of an officer of a corporation under any other provision of law.</section>

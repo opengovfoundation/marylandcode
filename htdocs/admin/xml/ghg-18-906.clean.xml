@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-906" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-906</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>906</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Secretary requires an individual or a group of individuals to go to and remain in places of isolation or quarantine under &#xA7; 18-905 of this subtitle, the Secretary shall issue a directive to the individual or group of individuals.</section>
       <section prefix="(2)">The directive shall specify:<section prefix="(i)">The identity of the individual or group of individuals subject to isolation or quarantine;</section><section prefix="(ii)">The premises subject to isolation or quarantine;</section><section prefix="(iii)">The date and time at which isolation or quarantine commences;</section><section prefix="(iv)">The suspected deadly agent causing the outbreak or disease, if known;</section><section prefix="(v)">The basis upon which isolation or quarantine is justified; and</section><section prefix="(vi)">The availability of a hearing to contest the directive.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, the directive shall be in writing and given to the individual or group of individuals prior to the individual or group of individuals being required to go to and remain in places of isolation and quarantine.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">If the Secretary determines that the notice required under subparagraph (i) of this paragraph is impractical because of the number of individuals or geographical areas affected, the Secretary shall ensure that the affected individuals are fully informed of the directive using the best possible means available.</section>
+          <section prefix="2.">If the directive applies to a group of individuals and it is impractical to provide written individual copies under subparagraph (i) of this paragraph, the written directive may be posted in a conspicuous place in the isolation or quarantine premises.</section>
+        </section>
       </section>
     </section>
     <section prefix="(b)">
@@ -24,10 +27,19 @@
         <section prefix="(ii)">In granting or denying an extension, the court shall consider the rights of the affected individual, the protection of the public health, the severity of the catastrophic health emergency, and the availability, if necessary, of witnesses and evidence.</section>
       </section>
       <section prefix="(5)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">The court shall grant the request for relief unless the court determines that the isolation or quarantine directive is necessary and reasonable to prevent or reduce the spread of the disease or outbreak believed to have been caused by the exposure to a deadly agent.</section>
+          <section prefix="2.">If feasible, in making a determination under this subparagraph, the court may consider the means of transmission, the degree of contagion, and, to the extent possible, the degree of public exposure to the disease.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">An order authorizing the isolation or quarantine issued under this paragraph shall:</section>
+          <section prefix="2.">If the court determines that the notice required in subsubparagraph 1C of this subparagraph is impractical because of the number of individuals or geographical areas affected, the court shall ensure that the affected individuals are fully informed of the order using the best possible means available.</section>
+        </section>
         <section prefix="(iii)">An order authorizing isolation or quarantine is effective for a period not to exceed 30 days.</section>
-        <section prefix="(iv)"/>
+        <section prefix="(iv)">
+          <section prefix="1.">Prior to the expiration of an order, the Secretary or designated official may move to continue isolation or quarantine for subsequent 30-day periods.</section>
+          <section prefix="2.">The court shall base its decision on the standards provided under this paragraph.</section>
+        </section>
       </section>
       <section prefix="(6)">In the event that an individual cannot personally appear before the court, proceedings may be conducted:<section prefix="(i)">By an individual's authorized representative; and</section><section prefix="(ii)">Through any means that allow other individuals to fully participate.</section></section>
       <section prefix="(7)">In any proceedings brought under this subsection, the court may order the consolidation of individual claims into group claims where:<section prefix="(i)">The number of individuals involved or affected is so large as to render individual participation impractical;</section><section prefix="(ii)">There are questions of law or fact common to the individual claims or rights to be determined;</section><section prefix="(iii)">The group claims or rights to be determined are typical of the affected individual's claims or rights; or</section><section prefix="(iv)">The entire group will be adequately represented in the consolidation.</section></section>

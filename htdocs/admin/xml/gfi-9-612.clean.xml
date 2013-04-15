@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-612" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-612</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>612</order_by>
   <text>
     <section prefix="(a)">In this section, "savings and loan association" means a savings and loan association organized under this title as a mutual association.</section>
     <section prefix="(b)">Notwithstanding any other provision of this title, the Division Director may approve the voluntary conversion of a savings and loan association to a capital stock association and the sale of the association's newly issued capital stock to a third party or parties in a transaction in which the association members have no rights of approval or participation and no rights to the continuance of any legal or beneficial ownership interest in the converted association if the circumstances of the conversion and sale would, under federal law, permit the Federal Home Loan Bank Board to authorize a voluntary supervisory stock conversion.</section>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-508" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-508</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>508</order_by>
   <text>
     <section prefix="(a)">This section applies only in Prince George's County.</section>
     <section prefix="(b)">There is an Office of Prince George's County Ombudsman in the Commission.</section>
     <section prefix="(c)">The Prince George's County Executive, with the approval of the Prince George's County Council, shall appoint an Ombudsman.</section>
     <section prefix="(d)">
       <section prefix="(1)">
-        <section prefix="(i)">Prince George's County shall:</section>
+        <section prefix="(i)">Prince George's County shall:<section prefix="1.">pay the Ombudsman's salary;</section><section prefix="2.">provide to the Ombudsman any benefits available to other employees of Prince George's County; and</section><section prefix="3.">provide funding for the Office of the Ombudsman.</section></section>
         <section prefix="(ii)">The county may pay for any legal expenses incurred by the Ombudsman, as provided in the county budget.</section>
       </section>
       <section prefix="(2)">The Prince George's County Council shall determine the salary of the Ombudsman.</section>

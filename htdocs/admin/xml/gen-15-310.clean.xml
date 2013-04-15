@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-310" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">A person holding a certificate or permit of competence may be charged with violation of law, fraud, intemperate habits, incapacity, or other good cause for cancellation or suspension of the certificate or permit. The charge shall be in writing and filed with the Director of the Bureau.</section>
     <section prefix="(b)">A certificate or permit of competence may be canceled or suspended only by the examining authority. Except as provided in subsection (d) of this section, a certificate or a permit may be canceled or suspended only after a hearing at which the person charged has the right to appear. The hearing shall be held within 30 days after the receipt of the charges by the examining authority, which shall give the person charged written notice of the charge at least 15 days prior to the hearing. A hearing of the examining authority shall be on the call of its chairman.</section>

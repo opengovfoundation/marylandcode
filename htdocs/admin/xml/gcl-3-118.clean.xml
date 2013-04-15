@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-118" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-118</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>118</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (e), an action to enforce the obligation of a party to pay a note payable at a definite time must be commenced within 6 years after the due date or dates stated in the note or, if a due date is accelerated, within 6 years after the accelerated due date.</section>
     <section prefix="(b)">Except as provided in subsection (d) or (e), if demand for payment is made to the maker of a note payable on demand, an action to enforce the obligation of a party to pay the note must be commenced within 6 years after the demand. If no demand for payment is made to the maker, an action to enforce the note is barred if neither principal nor interest on the note has been paid for a continuous period of 10 years.</section>

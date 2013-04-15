@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-110" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-2-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">In this section, "license":<section prefix="(1)">means any grant of authority to conduct a business or to practice an occupation; and</section><section prefix="(2)">includes a certificate, permit, or registration.</section></section>
     <section prefix="(b)">A unit in the Department may not require as a condition for a license an ability to communicate in English, except to the extent that the unit expressly determines that the ability is needed to engage in the business or occupation for which the license is sought.</section>

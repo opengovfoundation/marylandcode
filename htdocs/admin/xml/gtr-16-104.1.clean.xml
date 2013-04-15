@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-104.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-104.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A noncommercial Class A driver's license authorizes the licensee to drive combinations of Class F (tractor) and Class G (trailer) vehicles and any vehicle that a noncommercial Class B driver's license authorizes its holder to drive, except:<section prefix="(i)">Commercial motor vehicles; and</section><section prefix="(ii)">Motorcycles.</section></section>

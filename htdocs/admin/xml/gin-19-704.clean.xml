@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-704" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">This section applies only to lead hazard coverage for affected properties.</section>
     <section prefix="(b)">This section does not affect coverage for property damage or any other form of coverage provided in a policy or insurance contract for an affected property.</section>
@@ -14,9 +14,9 @@
     <section prefix="(e)">Instead of waiving a lead hazard coverage exclusion as required by subsection (d) of this section, after receiving approval from the Commissioner, an authorized insurer may offer an alternative form of coverage for a qualified offer made or to be made under Title 6, Subtitle 8, Part V of the Environment Article.</section>
     <section prefix="(f)">An authorized insurer may exclude lead hazard coverage for an affected property in excess of the amount of a qualified offer made or to be made under Title 6, Subtitle 8, Part V of the Environment Article.</section>
     <section prefix="(g)">
-      <section prefix="(1)">An authorized insurer may cancel or nonrenew lead hazard coverage or reimpose a lead hazard coverage exclusion in a policy for an affected property only if:<section prefix="(i)">the insured fails to:</section><section prefix="(ii)">the affected property fails to comply or maintain compliance with the risk reduction standard under &#xA7; 6-815(a)(2) of the Environment Article.</section></section>
+      <section prefix="(1)">An authorized insurer may cancel or nonrenew lead hazard coverage or reimpose a lead hazard coverage exclusion in a policy for an affected property only if:<section prefix="(i)">the insured fails to:<section prefix="1.">pay the applicable premium;</section><section prefix="2.">provide the authorized insurer or the authorized insurer's designee reasonable access to the affected property to inspect for the presence or condition of lead;</section><section prefix="3.">comply with the terms or conditions of the policy; or</section><section prefix="4.">perform lead hazard reduction treatments; or</section></section><section prefix="(ii)">the affected property fails to comply or maintain compliance with the risk reduction standard under &#xA7; 6-815(a)(2) of the Environment Article.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">An authorized insurer may cancel or nonrenew lead hazard coverage or reimpose a lead hazard coverage exclusion under paragraph (1)(i)4 or (ii) of this subsection only if the authorized insurer:</section>
+        <section prefix="(i)">An authorized insurer may cancel or nonrenew lead hazard coverage or reimpose a lead hazard coverage exclusion under paragraph (1)(i)4 or (ii) of this subsection only if the authorized insurer:<section prefix="1.">mails written notice to the insured that the authorized insurer intends to cancel or nonrenew the coverage or to reimpose the exclusion; and</section><section prefix="2.">provides an opportunity to the insured to correct the violation within 30 days after the notice is mailed.</section></section>
         <section prefix="(ii)">Coverage is automatically reinstated if the violation is corrected within 30 days after the notice is mailed.</section>
         <section prefix="(iii)">Within 45 days after mailing a notice of cancellation or nonrenewal of coverage or reimposition of an exclusion under this paragraph, the authorized insurer shall send a copy of the notice to the Secretary of the Environment or a designee of the Secretary, and include the results of any inspection of the affected property.</section>
       </section>

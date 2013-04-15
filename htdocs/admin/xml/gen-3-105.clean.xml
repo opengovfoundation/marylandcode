@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-105" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-3-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in this section, this title does not limit the power of a political subdivision to adopt noise control ordinances, rules, or regulations.</section>
@@ -16,7 +16,10 @@
       </section>
       <section prefix="(4)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, Allegany County, Anne Arundel County, Garrett County, Washington County, or a political subdivision of Allegany County, Anne Arundel County, Garrett County, or Washington County may not adopt any noise control ordinance, rule, or regulation, including the environmental noise standards, sound level limits, and noise control rules and regulations adopted under this title, that prohibits trapshooting, skeetshooting, or other target shooting between the hours of 9 a.m. and 10 p.m. by a shooting sports club that is chartered and in operation as of January 1, 2005.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Subject to the provisions of subsubparagraph 2 of this subparagraph, Allegany County, Anne Arundel County, Garrett County, Washington County, or a political subdivision of Allegany County, Anne Arundel County, Garrett County, or Washington County may adopt any noise control ordinance, rule, or regulation, including the environmental noise standards, sound level limits, and noise control rules and regulations adopted under this title, that prohibits trapshooting, skeetshooting, or other target shooting between the hours of 9 a.m. and 10 p.m. by a shooting sports club that the responsible political subdivision determines is not in compliance as of January 1, 2005 with environmental noise standards, sound level limits, or noise control rules or regulations adopted under this title.</section>
+          <section prefix="2.">A noise control ordinance, rule, or regulation adopted under subsubparagraph 1 of this subparagraph shall allow trapshooting, skeetshooting, and other target shooting between the hours of 9 a.m. and 10 p.m. by a shooting sports club that the responsible political subdivision determines has become compliant with environmental noise standards, sound level limits, and noise control rules and regulations adopted under this title.</section>
+        </section>
       </section>
       <section prefix="(5)">Carroll County or a political subdivision of Carroll County may not enforce any noise control ordinance, rule, or regulation, including the environmental noise standards, sound level limits, and noise control rules and regulations adopted under this title, against a public school in Carroll County that violates the ordinance, rule, or regulation between the hours of 8 a.m. and 9:30 p.m.</section>
     </section>

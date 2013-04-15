@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-106" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,7 +16,7 @@
     <section prefix="(b)">If a public body is authorized to incur debt to be redeemed from the proceeds of any tax or levy, an authorized official of the public body shall submit to the State Treasurer:<section prefix="(1)">on or before January 1 of each year, a report on bonds anticipated to be issued during the next 7-month period; and</section><section prefix="(2)">on or before July 1 of each year, a report on bonds anticipated to be issued during the next 7-month period.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">A report under this section shall be in the form the State Treasurer requires.</section>
-      <section prefix="(2)">The report shall include:<section prefix="(i)">a statement of the amount of bonds that the public body expects to issue during the period that the report covers; and</section><section prefix="(ii)">for each issue of bonds, a statement of:</section></section>
+      <section prefix="(2)">The report shall include:<section prefix="(i)">a statement of the amount of bonds that the public body expects to issue during the period that the report covers; and</section><section prefix="(ii)">for each issue of bonds, a statement of:<section prefix="1.">the month and part of the month during which the bonds will be issued;</section><section prefix="2.">the term for which the bonds will be outstanding; and</section><section prefix="3.">whether the bonds will be sold at a public or private sale.</section></section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">The State Treasurer shall prepare:<section prefix="(i)">on or before January 31 of each year, a compilation of the information in the reports submitted for the current January 1 to July 31 period; and</section><section prefix="(ii)">on or before July 31 of each year, a compilation of the information in the reports submitted for the current July 1 to January 31 period.</section></section>

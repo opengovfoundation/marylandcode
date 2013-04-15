@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-704" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a compensable hernia.</section>
     <section prefix="(b)">If a covered employee is injured or dies due to an accidental personal injury, oral or written notice shall be given to the employer:<section prefix="(1)">for injury, within 10 days after the accidental personal injury; or</section><section prefix="(2)">for death, within 30 days after the death.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-113" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">A county governing body may notify the Department that a local board has not complied with one or more reporting requirements under this subtitle or one of the expenditure limitations of &#xA7; 5-105 of this subtitle.</section>
     <section prefix="(b)">The Department shall investigate a complaint filed under this section. If the State Superintendent determines, after taking into account aggravating and mitigating circumstances, that a violation has occurred without reasonable justification, for the next fiscal year following the final determination of a violation, the county board may not make a category expenditure, as defined by the Maryland Board of Education reporting manual, in excess of the category expenditure in the operating budget approved by the county governing body without the prior approval of the county governing body. If the county governing body fails to take action on a request for approval within 30 days after the receipt of a written request, the failure to take action constitutes approval.</section>

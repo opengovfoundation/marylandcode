@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-118" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-118</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>118</order_by>
   <text>
     <section prefix="(a)">In this section, "producer register" means a register of appointed insurance producers who are authorized to sell, solicit, or negotiate contracts of insurance on behalf of an insurer.</section>
     <section prefix="(b)">
@@ -22,8 +22,8 @@
     <section prefix="(e)">
       <section prefix="(1)">
         <section prefix="(i)">When there is any termination of the appointment, employment, contract, or other insurance business relationship with an insurance producer, the insurer shall, within 30 days following the effective date of the termination, update the insurer's producer register by entering the effective date of the termination.</section>
-        <section prefix="(ii)">An insurer or authorized representative of an insurer shall notify the Commissioner of the termination of an appointment when the termination, in whole or in part, is a result of the belief that the producer has engaged or is engaging in any of the activities set forth in &#xA7; 10-126 of this subtitle, including any finding made by a court, governmental unit, or self-regulatory organization authorized by law that:</section>
-        <section prefix="(iii)">On written request of the Commissioner, the insurer shall provide additional information, documents, records, or other data pertaining to:</section>
+        <section prefix="(ii)">An insurer or authorized representative of an insurer shall notify the Commissioner of the termination of an appointment when the termination, in whole or in part, is a result of the belief that the producer has engaged or is engaging in any of the activities set forth in &#xA7; 10-126 of this subtitle, including any finding made by a court, governmental unit, or self-regulatory organization authorized by law that:<section prefix="1.">the insurance producer has violated &#xA7; 10-126 of this subtitle; or</section><section prefix="2.">the insurance producer has engaged in any activities that are set forth in &#xA7; 10-126 of this subtitle.</section></section>
+        <section prefix="(iii)">On written request of the Commissioner, the insurer shall provide additional information, documents, records, or other data pertaining to:<section prefix="1.">the termination; or</section><section prefix="2.">the activities of the insurance producer if the insurance producer was terminated for cause due to a reason set forth in &#xA7; 10-126 of this subtitle.</section></section>
       </section>
       <section prefix="(2)">If the appointment of an insurance producer is terminated because the insurance producer failed to renew the insurance producer's license and the license is reinstated under &#xA7; 10-116.1(c)(1) of this subtitle, an insurer may reappoint the insurance producer retroactively, with the appointment effective on the date that the license expired.</section>
     </section>
@@ -46,11 +46,11 @@
       <section prefix="(3)">Notwithstanding paragraph (2) of this subsection, the Commissioner may use any document, material, or other information that is subject to this section to further any regulatory or legal action brought as part of the duties of the Commissioner.</section>
       <section prefix="(4)">The Commissioner and any person who received any document, material, or other information to which this subsection applies while acting under the authority of the Commissioner may not be allowed or required to testify in any private civil action concerning the document, material, or information.</section>
       <section prefix="(5)">
-        <section prefix="(i)">Provided that the recipient agrees to maintain any confidentiality and privileged status, the Commissioner may share a document, material, or other information, including a document, material, or other information that is confidential and privileged under this subsection, with:</section>
+        <section prefix="(i)">Provided that the recipient agrees to maintain any confidentiality and privileged status, the Commissioner may share a document, material, or other information, including a document, material, or other information that is confidential and privileged under this subsection, with:<section prefix="1.">other State, federal, or international regulatory agencies;</section><section prefix="2.">the National Association of Insurance Commissioners and its affiliates or subsidiaries; or</section><section prefix="3.">State, federal, or international law enforcement authorities.</section></section>
         <section prefix="(ii)">If the Commissioner determines that a confidential document, material, or other information that has been shared through a database or other electronic filing system is inaccurate or incomplete in any way, the Commissioner shall update the information in the database or other electronic filing system so that the information is accurate and complete.</section>
       </section>
       <section prefix="(6)">
-        <section prefix="(i)">The Commissioner may receive a document, material, or information, including a document, material, or information that is otherwise confidential and privileged, from:</section>
+        <section prefix="(i)">The Commissioner may receive a document, material, or information, including a document, material, or information that is otherwise confidential and privileged, from:<section prefix="1.">the National Association of Insurance Commissioners or its affiliates or subsidiaries; or</section><section prefix="2.">regulatory and law enforcement officials of other foreign or domestic jurisdictions.</section></section>
         <section prefix="(ii)">The Commissioner shall maintain as confidential and privileged any document, material, or information received under this paragraph with notice or the understanding that it is confidential or privileged under the laws of the jurisdiction that is the source of the document, material, or information.</section>
       </section>
       <section prefix="(7)">The Commissioner may enter into agreements governing sharing and use of information consistent with this subsection.</section>

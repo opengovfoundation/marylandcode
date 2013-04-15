@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-303" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-11-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Following an election, each local board shall meet at its designated counting center to canvass the provisional ballots cast in that election in accordance with the regulations and guidelines established by the State Board.</section>
     <section prefix="(b)">A local board may not open an envelope of a provisional ballot until the local board has approved the provisional ballot application.</section>

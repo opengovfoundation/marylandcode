@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-502" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">On payment of the premium set by the Fund, the Fund is authorized to and shall sell, issue, and deliver a policy that provides the security required under &#xA7; 17-103 of the Transportation Article to a person:<section prefix="(1)">that owns a covered vehicle registered with the Motor Vehicle Administration, has a license issued by the Motor Vehicle Administration to drive a covered vehicle, or is a lessee under a "lease not intended as security", as defined in &#xA7; 11-127.1(b) of the Transportation Article;</section><section prefix="(2)">that does not owe to the Fund:<section prefix="(i)">an unpaid premium with respect to a policy that has expired or been canceled; or</section><section prefix="(ii)">a claim payment obtained by fraud;</section></section><section prefix="(3)">that:<section prefix="(i)">has attempted in good faith to obtain a policy that provides the security required under &#xA7; 17-103 of the Transportation Article from at least two Association members and has been rejected or refused the policy by two Association members for any reason other than nonpayment of premiums; or</section><section prefix="(ii)">has had a policy that provides the security required under &#xA7; 17-103 of the Transportation Article canceled or nonrenewed by an Association member for any reason other than nonpayment of premiums; and</section></section><section prefix="(4)">that meets the requirements of subsection (b) of this section.</section></section>
     <section prefix="(b)">To be eligible for a policy issued under this subtitle, a person must:<section prefix="(1)">be domiciled in the State;</section><section prefix="(2)">own, lease, or rent a primary place of residence in the State and, regardless of the person's domicile, reside in the State for more than 1 year;</section><section prefix="(3)">maintain a main or branch office or warehouse facility in the State, and base and operate motor vehicles intrastate in the State;</section><section prefix="(4)">have filed as a State resident for income tax purposes; or</section><section prefix="(5)">have a nonresident permit issued under &#xA7; 13-402.1(e) of the Transportation Article.</section></section>
@@ -17,7 +17,7 @@
     <section prefix="(e)">
       <section prefix="(1)">If a prospective insured fails to qualify under this section, any policy issued is void and a commission may not be paid by the Fund to a fund producer.</section>
       <section prefix="(2)">
-        <section prefix="(i)">Subject to the provisions of subparagraph (ii) of this paragraph, if a person fails to meet the requirements of subsection (b) of this section, the Fund may charge and collect the greater of:</section>
+        <section prefix="(i)">Subject to the provisions of subparagraph (ii) of this paragraph, if a person fails to meet the requirements of subsection (b) of this section, the Fund may charge and collect the greater of:<section prefix="1.">a policy processing fee to cover its expenses; or</section><section prefix="2.">the amount that the person would have received after the Fund returns to a fund producer, or any other person other than the person who fails to meet the requirements of subsection (b) of this section, any gross unearned premiums that are due under the policy.</section></section>
         <section prefix="(ii)">Prior to charging and collecting a policy processing fee or the amount allowed under subparagraph (i) of this paragraph, the Fund shall refer to the Insurance Fraud Division in the Administration for investigation and possible prosecution of the person who fails to meet the requirements of subsection (b) of this section.</section>
       </section>
     </section>

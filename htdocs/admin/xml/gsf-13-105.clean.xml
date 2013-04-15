@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-105" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-13-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">A request for proposals for a lease of real property shall include:<section prefix="(1)">a work statement that shall be used as a basis for the evaluation of proposals;</section><section prefix="(2)">a statement of the factors, including price, that will be used in evaluating proposals; and</section><section prefix="(3)">a statement of the relative importance of each factor.</section></section>
     <section prefix="(b)">Subject to the requirements of Title 4, Subtitle 3, Part III of this article, a unit shall publish a request for proposals in the same manner as required for an invitation for bids.</section>

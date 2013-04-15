@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-412" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-412</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412</order_by>
   <text>
     <section prefix="(a)">In this section, "trust company" has the meaning stated in &#xA7; 1-101 of the Estates and Trusts Article.</section>
     <section prefix="(b)">With the application for a new or renewal license, the applicant shall file evidence of a surety device with the Commissioner as provided in this section.</section>

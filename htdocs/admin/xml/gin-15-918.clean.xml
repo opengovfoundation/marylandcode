@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-918" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-918</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>918</order_by>
   <text>
     <section prefix="(a)">The Commissioner may prescribe by regulation a standard form and the contents of an informational brochure for individuals eligible for Medicare by reason of age, which is intended to improve the buyer's ability to choose the most appropriate coverage and to improve the buyer's understanding of Medicare.</section>
     <section prefix="(b)">Except for direct response insurance policies, the Commissioner may require by regulation that the informational brochure be provided to each prospective insured eligible for Medicare at the time of delivery of the outline of coverage.</section>

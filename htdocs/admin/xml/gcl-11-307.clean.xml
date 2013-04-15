@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-307</section_number>
-  <catch_line/>
+  <catch_line>Any person who violates any provision of this subtitle is liable for damages caused by the violation...</catch_line>
+  <order_by>307</order_by>
   <text>Any person who violates any provision of this subtitle is liable for damages caused by the violation and is subject to the other legal or equitable remedies available to the party injured by the violation.</text>
 </law>

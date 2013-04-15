@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-306" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">The bond required for an administrator under this subtitle must:<section prefix="(1)">provide protection to the plans, for which the administrator acts as an administrator, against loss because of acts of fraud or dishonesty on the part of the administrator, directly or through connivance with others; and</section><section prefix="(2)">be issued by an authorized corporate surety insurer that is an acceptable surety on federal bonds under authority granted by the Secretary of the Treasury.</section></section>
     <section prefix="(b)">
@@ -16,7 +16,7 @@
     </section>
     <section prefix="(c)">Subject to approval by the Commissioner, the bond may be an individual bond or a blanket bond that covers a group or class.</section>
     <section prefix="(d)">
-      <section prefix="(1)">An applicant need not file evidence of a bond as a condition of registration or renewal of registration if:<section prefix="(i)">the applicant only administers plans under which benefits are paid only from the general assets of an employee organization or of an employer; or</section><section prefix="(ii)">the applicant:</section></section>
+      <section prefix="(1)">An applicant need not file evidence of a bond as a condition of registration or renewal of registration if:<section prefix="(i)">the applicant only administers plans under which benefits are paid only from the general assets of an employee organization or of an employer; or</section><section prefix="(ii)">the applicant:<section prefix="1.">is a corporation organized and doing business under the laws of the United States or a state;</section><section prefix="2.">is authorized under the laws of the United States or a state to exercise trust powers or to engage in business as an insurer;</section><section prefix="3.">is subject to supervision or examination by a federal or State authority; and</section><section prefix="4.">at all times has a combined capital and surplus that exceeds $1,000,000 or any greater amount set by regulation of the Commissioner.</section></section></section>
       <section prefix="(2)">The Commissioner may waive the requirement for an applicant to file evidence of a bond as a condition of registration or renewal of registration if the Commissioner finds that:<section prefix="(i)">other arrangements, including providing letters of credit or similar instruments, would be adequate to protect the interests of plan participants and beneficiaries; or</section><section prefix="(ii)">the overall financial condition of the applicant would be adequate to protect the interests of plan participants and beneficiaries.</section></section>
     </section>
     <section prefix="(e)">Notwithstanding any other provision of the Code, an applicant that complies with this section and is registered as an administrator under this subtitle is not subject to any other bonding requirement imposed by the law of the State for the same activities that required the applicant to be registered and bonded under this subtitle.</section>

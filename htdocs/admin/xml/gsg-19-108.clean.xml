@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-108" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-19-108</section_number>
-  <catch_line/>
+  <catch_line>The certificate of the acknowledging officer shall be completed by:...</catch_line>
+  <order_by>108</order_by>
   <text>The certificate of the acknowledging officer shall be completed by:<section prefix=""><section prefix="(1)">the signature of the officer;</section><section prefix="(2)">the official seal of the officer, if the officer has one;</section><section prefix="(3)">the title of the office of the officer; and</section><section prefix="(4)">if the officer is a notary public, the date that the officer's commission expires.</section></section></text>
 </law>

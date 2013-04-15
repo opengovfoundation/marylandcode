@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-140" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-140</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>140</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unpaid child support, due under an order requiring payments through a support enforcement agency, constitutes a lien in favor of the obligee on all real and personal property of the obligor.</section>

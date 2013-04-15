@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-508" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-508</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>508</order_by>
   <text>
     <section prefix="(a)">A cooperative may:<section prefix="(1)">Limit the sale of its common stock or membership to persons designated or described in the bylaws;</section><section prefix="(2)">Provide that a stockholder or member who ceases to belong to the class of persons designated or described in the bylaws loses his right to vote;</section><section prefix="(3)">Limit the number of shares of stock which a person may hold; and</section><section prefix="(4)">Reserve to the board of directors:<section prefix="(i)">The option to purchase for the cooperative the stock offered by any stockholder; and</section><section prefix="(ii)">The right to redeem the stock of any stockholder.</section></section></section>
     <section prefix="(b)">If a cooperative exercises an option to purchase or a right to redeem, it shall pay for the stock the greater of its book value or its par value.</section>

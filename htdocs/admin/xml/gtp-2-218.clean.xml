@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-218" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-2-218</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218</order_by>
   <text>
     <section prefix="(a)">The Department may request documentation to verify that a dwelling is the principal residence of a homeowner.</section>
     <section prefix="(b)">The documentation requested under subsection (a) of this section may include, but is not limited to, requiring an individual to execute a sworn affidavit regarding residency for the purposes of:<section prefix="(1)">voting;</section><section prefix="(2)">driver's license address; and</section><section prefix="(3)">income tax filing.</section></section>

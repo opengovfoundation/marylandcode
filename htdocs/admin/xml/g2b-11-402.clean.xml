@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-402" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-11-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">This section applies primarily to January 1 of each year, New Year's Day but may also apply to December 24 and 31, as specified for each jurisdiction.</section>
     <section prefix="(b)">
@@ -39,7 +39,7 @@
     <section prefix="(i)">
       <section prefix="(1)">This subsection applies only in Cecil County.</section>
       <section prefix="(2)">
-        <section prefix="(i)">This article may not be construed to restrict the sale of alcoholic beverages under any class of license issued under this article or to restrict any person from consuming any alcoholic beverage on any premises licensed under this article:</section>
+        <section prefix="(i)">This article may not be construed to restrict the sale of alcoholic beverages under any class of license issued under this article or to restrict any person from consuming any alcoholic beverage on any premises licensed under this article:<section prefix="1.">On January 1, between midnight and 4 a.m.; or</section><section prefix="2.">On December 31, when that date falls on a Sunday, between 7 p.m. and 4 a.m. the following day.</section></section>
         <section prefix="(ii)">On January 1, when that date falls on a Sunday, a person may not sell any class of alcoholic beverages or consume alcoholic beverages on a licensed premises between 4 a.m. and the appropriate opening hour of sale listed in &#xA7; 11-508 of this title.</section>
       </section>
     </section>

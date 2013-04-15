@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-109" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">The affairs of the condominium shall be governed by a council of unit owners which, even if unincorporated, is constituted a legal entity for all purposes. The council of unit owners shall be comprised of all unit owners.</section>
     <section prefix="(b)">The bylaws may authorize or provide for the delegation of any power of the council of unit owners to a board of directors, officers, managing agent, or other person for the purpose of carrying out the responsibilities of the council of unit owners.</section>
@@ -24,9 +24,15 @@
       </section>
       <section prefix="(8)">
         <section prefix="(i)">Unless the bylaws provide otherwise, a quorum is deemed present throughout any meeting of the council of unit owners if persons entitled to cast 25 percent of the total number of votes appurtenant to all units are present in person or by proxy.</section>
-        <section prefix="(ii)">If the number of persons present in person or by proxy at a properly called meeting of the council of unit owners is insufficient to constitute a quorum, another meeting of the council of unit owners may be called for the same purpose if:</section>
-        <section prefix="(iii)"/>
-        <section prefix="(iv)"/>
+        <section prefix="(ii)">If the number of persons present in person or by proxy at a properly called meeting of the council of unit owners is insufficient to constitute a quorum, another meeting of the council of unit owners may be called for the same purpose if:<section prefix="1.">The notice of the meeting stated that the procedure authorized by this paragraph might be invoked; and</section><section prefix="2.">By majority vote, the unit owners present in person or by proxy call for the additional meeting.</section></section>
+        <section prefix="(iii)">
+          <section prefix="1.">Fifteen days' notice of the time, place, and purpose of the additional meeting shall be delivered, mailed, or sent by electronic transmission if the requirements of &#xA7; 11-139.1 of this title are met, to each unit owner at the address shown on the roster maintained under paragraph (2) of this subsection.</section>
+          <section prefix="2.">The notice shall contain the quorum and voting provisions of subparagraph (iv) of this paragraph.</section>
+        </section>
+        <section prefix="(iv)">
+          <section prefix="1.">At the additional meeting, the unit owners present in person or by proxy constitute a quorum.</section>
+          <section prefix="2.">Unless the bylaws provide otherwise, a majority of the unit owners present in person or by proxy:</section>
+        </section>
         <section prefix="(v)">This paragraph may not be construed to affect the percentage of votes required to amend the declaration or bylaws or to take any other action required to be taken by a specified percentage of votes.</section>
       </section>
       <section prefix="(9)">At meetings of the council of unit owners each unit owner shall be entitled to cast the number of votes appurtenant to his unit. Unit owners may vote by proxy, but the proxy is effective only for a maximum period of 180 days following its issuance, unless granted to a lessee or mortgagee.</section>
@@ -37,11 +43,18 @@
       <section prefix="(14)">Election materials prepared with funds of the council of unit owners shall list candidates in alphabetical order and may not indicate a candidate preference.</section>
       <section prefix="(15)">Unless otherwise provided in this title, and subject to provisions in the bylaws requiring a different majority, decisions of the council of unit owners shall be made on a majority of votes of the unit owners listed on the current roster present and voting.</section>
       <section prefix="(16)">
-        <section prefix="(i)">A meeting of the council of unit owners to elect a board of directors for the council of unit owners, as provided in the condominium declaration or bylaws, shall be held within:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">A meeting of the council of unit owners to elect a board of directors for the council of unit owners, as provided in the condominium declaration or bylaws, shall be held within:<section prefix="1.">60 days from the date that units representing 50 percent of the votes in the condominium have been conveyed by the developer to members of the public for residential purposes; or</section><section prefix="2.">If a lesser percentage is specified in the declaration or bylaws of the condominium, 60 days from the date the specified lesser percentage of units in the condominium are sold to members of the public for residential purposes.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">Before the date of the meeting held under subparagraph (i) of this paragraph, the developer shall deliver to each unit owner notice that the requirements of subparagraph (i) of this paragraph have been met.</section>
+          <section prefix="2.">The notice shall include the date, time, and place of the meeting to elect the board of directors for the council of unit owners.</section>
+        </section>
         <section prefix="(iii)">If a replacement board member is elected, the term of each member of the board of directors appointed by the developer shall end 10 days after the meeting is held as specified in subparagraph (i) of this paragraph.</section>
-        <section prefix="(iv)">Within 30 days from the date of the meeting held under subparagraph (i) of this paragraph, the developer shall deliver to the officers or board of directors for the council of unit owners, as provided in the condominium declaration or bylaws, at the developer's expense:</section>
-        <section prefix="(v)"/>
+        <section prefix="(iv)">Within 30 days from the date of the meeting held under subparagraph (i) of this paragraph, the developer shall deliver to the officers or board of directors for the council of unit owners, as provided in the condominium declaration or bylaws, at the developer's expense:<section prefix="1.">The documents specified in &#xA7; 11-132 of this title;</section><section prefix="2.">The condominium funds, including operating funds, replacement reserves, investment accounts, and working capital;</section><section prefix="3.">The tangible property of the condominium; and</section><section prefix="4.">A roster of current unit owners, including mailing addresses, telephone numbers, and unit numbers, if known.</section></section>
+        <section prefix="(v)">
+          <section prefix="1.">This subparagraph does not apply to a contract entered into before October 1, 2009.</section>
+          <section prefix="2."/>
+          <section prefix="3.">Until all members of the board of directors of the condominium are elected by the unit owners at a transitional meeting as specified in subparagraph (i) of this paragraph, a contract entered into by the officers or board of directors of the condominium may be terminated, at the discretion of the board of directors and without liability for the termination, not later than 30 days after notice.</section>
+        </section>
         <section prefix="(vi)">If the developer fails to comply with the requirements of this paragraph, an aggrieved unit owner may submit the dispute to the Division of Consumer Protection of the Office of the Attorney General under &#xA7; 11-130(c) of this title.</section>
       </section>
     </section>

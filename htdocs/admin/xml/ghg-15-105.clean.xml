@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-105" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">In this section, "dual eligibility" means simultaneous eligibility for health insurance coverage under both the Program and Medicare and for which the Department may obtain federal matching funds.</section>
     <section prefix="(b)">The Department shall adopt rules and regulations for the reimbursement of providers under the Program. However, except for an invoice that must be submitted to a Medicare intermediary or Medicare carrier for an individual with dual eligibility, payment may not be made for an invoice that is received more than 1 year after the dates of the services given.</section>
@@ -14,7 +14,7 @@
       <section prefix="(1)">The Department shall adopt regulations for the reimbursement of specialty outpatient treatment and diagnostic services rendered to Program recipients at a freestanding clinic owned and operated by a hospital that is under a capitation agreement approved by the Health Services Cost Review Commission.</section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, the reimbursement rate under paragraph (1) of this subsection shall be set according to Medicare standards and principles for retrospective cost reimbursement as described in 42 C.F.R. Part 413 or on the basis of charges, whichever is less.</section>
-        <section prefix="(ii)">The reimbursement rate for a hospital that has transferred outpatient oncology, diagnostic, rehabilitative, and digestive disease services to an off-site facility prior to January 1, 1999 shall be set according to the rates approved by the Health Services Cost Review Commission if:</section>
+        <section prefix="(ii)">The reimbursement rate for a hospital that has transferred outpatient oncology, diagnostic, rehabilitative, and digestive disease services to an off-site facility prior to January 1, 1999 shall be set according to the rates approved by the Health Services Cost Review Commission if:<section prefix="1.">The transfer of services was due to zoning restrictions at the hospital campus;</section><section prefix="2.">The off-site facility is surveyed as part of the hospital for purposes of accreditation by the Joint Commission on Accreditation of Healthcare Organizations; and</section><section prefix="3.">The hospital notifies the Health Services Cost Review Commission in writing by July 1, 1999 that the hospital would like the services provided at the off-site facility subject to Title 19, Subtitle 2 of this article.</section></section>
       </section>
     </section>
     <section prefix="(e)">

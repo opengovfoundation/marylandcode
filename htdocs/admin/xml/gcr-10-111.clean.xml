@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Bodily fluid" means blood, urine, saliva, or other bodily fluid.</section>
       <section prefix="(3)">
-        <section prefix="(i)">"Bodily fluid adulterant" means any substance or chemical that is intended, for the purpose of altering the results of a drug or alcohol screening test, to be:</section>
+        <section prefix="(i)">"Bodily fluid adulterant" means any substance or chemical that is intended, for the purpose of altering the results of a drug or alcohol screening test, to be:<section prefix="1.">consumed by a person;</section><section prefix="2.">introduced into the body of a person; or</section><section prefix="3.">added to or substituted for a sample of bodily fluid.</section></section>
         <section prefix="(ii)">"Bodily fluid adulterant" includes synthetic urine.</section>
       </section>
       <section prefix="(4)">"Controlled dangerous substance" has the meaning stated in &#xA7; 5-101 of this article.</section>

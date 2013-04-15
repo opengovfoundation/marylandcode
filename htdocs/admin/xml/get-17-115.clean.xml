@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-115" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-115</section_number>
-  <catch_line/>
+  <catch_line>This title does not supersede other laws applicable to financial institutions or other entities, and...</catch_line>
+  <order_by>115</order_by>
   <text>This title does not supersede other laws applicable to financial institutions or other entities, and to the extent those other laws are inconsistent with the title, the other laws prevail.</text>
 </law>

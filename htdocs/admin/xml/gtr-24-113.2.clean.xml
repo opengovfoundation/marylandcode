@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-113.2" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-24-113.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113.2</order_by>
   <text>
     <section prefix="(a)">Unless otherwise provided by federal law, an exceptional hauling permit issued under this section is not valid on the interstate highway system, as defined in &#xA7; 8-101(j) of this article.</section>
     <section prefix="(b)">Notwithstanding any other provision of this title, the State Highway Administration may issue an exceptional hauling permit for a combination of vehicles that:<section prefix="(1)">Carries farm products as defined in &#xA7; 10-601(c) of the Agriculture Article that:<section prefix="(i)">Are loaded in fields or other off-highway locations; and</section><section prefix="(ii)">Are the only load of the vehicle; and</section></section><section prefix="(2)">Has an axle configuration of not less than six axles and a front-to-rear centerline axle spacing of not less than 50 feet.</section></section>
@@ -23,7 +23,7 @@
       <section prefix="(2)">If the holder of an exceptional hauling permit or a facility that receives farm products does not comply with a request under this subsection, the State Highway Administration may:<section prefix="(i)">Suspend the holder's exceptional hauling permit; or</section><section prefix="(ii)">Prohibit a vehicle from delivering farm products under the authority of the exceptional hauling permit to the noncompliant facility.</section></section>
     </section>
     <section prefix="(h)">
-      <section prefix="(1)">An applicant for an exceptional hauling permit shall pay to the State Highway Administration:<section prefix="(i)"/><section prefix="(ii)">$1,000 for the reinstatement of a permit that was revoked under subsection (f)(3) of this section for a first violation; and</section><section prefix="(iii)">$5,000 for the reinstatement of a permit that was revoked under subsection (f)(3) of this section for a second or subsequent violation within the prior 24 months.</section></section>
+      <section prefix="(1)">An applicant for an exceptional hauling permit shall pay to the State Highway Administration:<section prefix="(i)"><section prefix="1.">$250 for the issuance of a new annual permit or the annual renewal; or</section><section prefix="2.">$30 for the issuance of a 30-day permit;</section></section><section prefix="(ii)">$1,000 for the reinstatement of a permit that was revoked under subsection (f)(3) of this section for a first violation; and</section><section prefix="(iii)">$5,000 for the reinstatement of a permit that was revoked under subsection (f)(3) of this section for a second or subsequent violation within the prior 24 months.</section></section>
       <section prefix="(2)">A fee paid under this subsection is nonrefundable.</section>
     </section>
     <section prefix="(i)">Except as otherwise provided in this section, an exceptional hauling permit is valid for:<section prefix="(1)">1 year from the date of issuance for an annual permit; or</section><section prefix="(2)">30 consecutive days for a 30-day permit.</section></section>

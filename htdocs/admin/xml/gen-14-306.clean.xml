@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-306" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-14-306</section_number>
-  <catch_line/>
+  <catch_line>Every application for a permit shall be accompanied by at least two copies of an accurate map prepar...</catch_line>
+  <order_by>306</order_by>
   <text>Every application for a permit shall be accompanied by at least two copies of an accurate map prepared by a competent engineer or geologist showing the location, extent, and depth of the proposed storage place and of all wells drilled or proposed to be drilled to the storage place. A copy of the map shall be sent to the Department and it shall review the application and map to determine the presence or absence of the danger of pollution, contamination, diversion, or depletion of subsurface and percolating waters. The Department may take the testimony of any other person. It shall decide whether the granting of any application would likely endanger the public safety, health and welfare, and in accordance with its determination, grant or deny the application.</text>
 </law>

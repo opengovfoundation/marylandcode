@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-842" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-842</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>842</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This section applies to:<section prefix="(i)">insurers and nonprofit health service plans that provide coverage for prescription drugs and devices under health insurance policies or contracts that are issued or delivered in the State; and</section><section prefix="(ii)">health maintenance organizations that provide coverage for prescription drugs and devices under contracts that are issued or delivered in the State.</section></section>

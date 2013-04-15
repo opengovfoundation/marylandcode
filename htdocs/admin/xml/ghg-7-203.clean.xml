@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-203" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-203</section_number>
-  <catch_line/>
+  <catch_line>The Secretary may delegate to an individual any of the authority, powers, and duties granted to the ...</catch_line>
+  <order_by>203</order_by>
   <text>The Secretary may delegate to an individual any of the authority, powers, and duties granted to the Secretary under this title.</text>
 </law>

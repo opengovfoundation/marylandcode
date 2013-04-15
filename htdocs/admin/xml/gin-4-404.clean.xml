@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-404" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-404</section_number>
-  <catch_line/>
+  <catch_line>If a life insurer denies a policy of life insurance to an applicant, the life insurer shall disclose...</catch_line>
+  <order_by>404</order_by>
   <text>If a life insurer denies a policy of life insurance to an applicant, the life insurer shall disclose the results of any medical examination administered to determine the applicant's insurability to a physician of the applicant's choice if the applicant so requests.</text>
 </law>

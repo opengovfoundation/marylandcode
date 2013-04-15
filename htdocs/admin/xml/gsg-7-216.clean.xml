@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-216" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-7-216</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>216</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">The Committee shall adopt guidelines for the Administrator to:<section prefix="(i)">sell a subscription list for any publication of the Division; and</section><section prefix="(ii)">set the price for:</section></section>
+      <section prefix="(1)">The Committee shall adopt guidelines for the Administrator to:<section prefix="(i)">sell a subscription list for any publication of the Division; and</section><section prefix="(ii)">set the price for:<section prefix="1.">a copy of or a subscription to the Code of Maryland Regulations and the Register; and</section><section prefix="2.">a copy of a database or other computer readable information on magnetic tape or some other electronic media.</section></section></section>
       <section prefix="(2)">The Committee may allow:<section prefix="(i)">a volume discount; and</section><section prefix="(ii)">the free, reciprocal exchange of publications by the State and other jurisdictions.</section></section>
     </section>
     <section prefix="(b)">A copy of the Code of Maryland Regulations and the Register shall be available to the public at the price set under this section.</section>

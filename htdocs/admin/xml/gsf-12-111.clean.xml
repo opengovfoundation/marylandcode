@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-111" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-12-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Public employer" means:<section prefix="(i)">a unit;</section><section prefix="(ii)">a county;</section><section prefix="(iii)">a municipality;</section><section prefix="(iv)">a county board of education; or</section><section prefix="(v)">a special taxing district.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, "services" has the meaning stated in &#xA7; 11-101(t) of this article.</section>
-        <section prefix="(ii)">"Services" includes:</section>
+        <section prefix="(ii)">"Services" includes:<section prefix="1.">construction-related services;</section><section prefix="2.">architectural services;</section><section prefix="3.">engineering services; or</section><section prefix="4.">energy performance contract services.</section></section>
       </section>
     </section>
     <section prefix="(b)">This section applies to a procurement contract with an estimated value of $2,000,000 or more.</section>

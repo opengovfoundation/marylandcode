@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-301" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-3-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class C beer license shall be issued by the local licensing authority of the county in which the place of business is located. The holder of the license may keep for sale and sell beer at retail to bona fide members and their guests, at any club, at the place described in the license for consumption on the premises only.</section>
@@ -30,7 +30,7 @@
     <section prefix="(o)">
       <section prefix="(1)">In Howard County the annual license fee is $25.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The license shall be issued only to a club composed exclusively:</section>
+        <section prefix="(i)">The license shall be issued only to a club composed exclusively:<section prefix="1.">Of members who served in the armed forces of the United States;</section><section prefix="2.">Which is affiliated with a national organization; and</section><section prefix="3.">Which has 75 or more bona fide members who paid dues as required by its national organization in the year immediately preceding the year for which the license is issued.</section></section>
         <section prefix="(ii)">At least 75 percent of the members of the club shall have resided in Howard County for at least 2 years immediately preceding the date of the application for the license. The club shall also have maintained a post in the county for at least 3 years immediately preceding the date of the application.</section>
       </section>
     </section>
@@ -40,8 +40,8 @@
     <section prefix="(s)">
       <section prefix="(1)">In Queen Anne's County the annual license fee is $50.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The license shall be issued to any local unit of a nationwide bona fide nonprofit organization or club:</section>
-        <section prefix="(ii)">The license shall be issued only to a bona fide yacht club, golf club, fraternal club or order, country club, social or recreational club:</section>
+        <section prefix="(i)">The license shall be issued to any local unit of a nationwide bona fide nonprofit organization or club:<section prefix="1.">Which is composed solely of members who served in the armed forces of the United States in any war in which the United States has engaged;</section><section prefix="2.">Which has a charter from a national veterans' organization prior to the time of making application for this license; and</section><section prefix="3.">Which operates solely for the use of its own members and their guests, when the guest is accompanied by the member.</section></section>
+        <section prefix="(ii)">The license shall be issued only to a bona fide yacht club, golf club, fraternal club or order, country club, social or recreational club:<section prefix="1.">Which is not operated for profit;</section><section prefix="2.">Which has had for one year immediately preceding the year for which the license is issued 50 or more bona fide adult members who paid dues of not less than $25 per annum;</section><section prefix="3.">Which owns or operates a clubhouse or meeting rooms that have facilities for preparing and serving food on the premises;</section><section prefix="4.">Which are principally used for members and their guests, when the guests are accompanied by members; and</section><section prefix="5.">Which is not directly or indirectly owned or operated as a public business.</section></section>
       </section>
     </section>
     <section prefix="(t)">This section does not apply in St. Mary's County.</section>

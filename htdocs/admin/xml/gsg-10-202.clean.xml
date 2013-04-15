@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-202" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Agency" means:<section prefix="(1)">an officer or unit of the State government authorized by law to adjudicate contested cases; or</section><section prefix="(2)">a unit that:<section prefix="(i)">is created by general law;</section><section prefix="(ii)">operates in at least 2 counties; and</section><section prefix="(iii)">is authorized by law to adjudicate contested cases.</section></section></section>

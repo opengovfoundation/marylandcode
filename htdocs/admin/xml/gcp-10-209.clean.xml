@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-209" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">A majority of the members of the Advisory Board then serving is a quorum.</section>
     <section prefix="(b)">The Executive Director of the Governor's Office of Crime Control and Prevention, the Attorney General, and the Director of the Maryland Justice Analysis Center of the Department of Criminology and Criminal Justice of the University of Maryland shall serve on the Advisory Board as ex officio members.</section>

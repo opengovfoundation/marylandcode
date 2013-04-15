@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-704.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-704.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Local telephone classified advertising directory" means a telephone directory that:</section>
+        <section prefix="(i)">"Local telephone classified advertising directory" means a telephone directory that:<section prefix="1.">Contains classified advertisements; and</section><section prefix="2.">Is distributed free of charge to residents in the State.</section></section>
         <section prefix="(ii)">"Local telephone classified advertising directory" includes a directory distributed by a person other than a telephone company.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">"Local telephone directory" means a telephone directory that is:</section>
+        <section prefix="(i)">"Local telephone directory" means a telephone directory that is:<section prefix="1.">Available free of charge to telephone subscribers in an area of the State; and</section><section prefix="2.">Does not contain classified advertisements.</section></section>
         <section prefix="(ii)">"Local telephone directory" includes a directory distributed by a person other than a telephone company.</section>
       </section>
       <section prefix="(4)">"Location" means any part of the address of a person, including the street, the city, or the state.</section>

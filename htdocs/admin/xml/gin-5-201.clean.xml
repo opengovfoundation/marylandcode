@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -41,7 +41,7 @@
       <section prefix="(2)">A memorandum or other material provided to the Commissioner is not subject to a subpoena except for defending in a suit that:<section prefix="(i)">seeks damages from any person; and</section><section prefix="(ii)">is based on an action required by this section.</section></section>
     </section>
     <section prefix="(h)">
-      <section prefix="(1)">The Commissioner may release a memorandum or other material provided to the Commissioner:<section prefix="(i)">with the written consent of the life insurer, nonprofit health service plan, or fraternal benefit society that provides the memorandum or material; or</section><section prefix="(ii)">to the American Academy of Actuaries, if the Academy:</section></section>
+      <section prefix="(1)">The Commissioner may release a memorandum or other material provided to the Commissioner:<section prefix="(i)">with the written consent of the life insurer, nonprofit health service plan, or fraternal benefit society that provides the memorandum or material; or</section><section prefix="(ii)">to the American Academy of Actuaries, if the Academy:<section prefix="1.">requests the memorandum or other material for professional disciplinary proceedings; and</section><section prefix="2.">sets forth procedures satisfactory to the Commissioner to preserve the confidentiality of the memorandum or other material.</section></section></section>
       <section prefix="(2)">All parts of a memorandum or other material are no longer confidential if any part of the memorandum or material is:<section prefix="(i)">cited by the life insurer, nonprofit health service plan, or fraternal benefit society in its marketing;</section><section prefix="(ii)">cited before a governmental unit other than a State insurance department; or</section><section prefix="(iii)">released by the life insurer, nonprofit health service plan, or fraternal benefit society to the news media.</section></section>
     </section>
     <section prefix="(i)">Except for fraud, willful misconduct, or gross negligence, a qualified actuary is not liable for damages to any person other than the life insurer, nonprofit health service plan, fraternal benefit society, or the Commissioner for any act, error, omission, decision, or conduct related to an opinion that the qualified actuary issues under this section.</section>

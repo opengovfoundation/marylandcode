@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-818" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-818</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>818</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any person performing lead-contaminated dust testing or conducting inspections required by this subtitle:<section prefix="(i)">Shall be accredited by the Department;</section><section prefix="(ii)">May not be a related party to the owner; and</section><section prefix="(iii)">Shall submit a verified report of the result of the lead-contaminated dust testing or visual inspection to the Department, the owner, and the tenant, if any, of the affected property.</section></section>

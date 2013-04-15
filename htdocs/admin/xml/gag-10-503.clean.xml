@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-503" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-503</section_number>
-  <catch_line/>
+  <catch_line>The Secretary may enter any building, vehicle, other enclosure, or conveyance in the State, where an...</catch_line>
+  <order_by>503</order_by>
   <text>The Secretary may enter any building, vehicle, other enclosure, or conveyance in the State, where any farm product is produced, stored, sold, or shipped, or offered, exposed, packed, or transported for sale, or presented for intrastate or interstate shipment. He may examine any farm product found in any of these places, and may take for further examination samples of the farm products and their containers necessary to determine whether this subtitle is violated.</text>
 </law>

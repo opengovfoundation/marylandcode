@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1313" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1313</section_number>
-  <catch_line/>
+  <catch_line>The Administration shall provide on its website and in printed form on request a list of carriers, i...</catch_line>
+  <order_by>1313</order_by>
   <text>The Administration shall provide on its website and in printed form on request a list of carriers, including contact information for each carrier, that offer individual health benefit plans in the State.</text>
 </law>

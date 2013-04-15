@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-309" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-6-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">At any time, the State Fire Marshal may investigate the origin or circumstances of a fire or explosion or an attempt to cause a fire or explosion that occurs in the State.</section>
     <section prefix="(b)">At any time, the State Fire Marshal:<section prefix="(1)">may enter into and examine a building or premises where a fire is burning or where a fire or attempt to cause a fire has occurred;</section><section prefix="(2)">may enter into a building or premises adjacent to a building or premises where a fire or attempt to cause a fire has occurred; and</section><section prefix="(3)">may take full control and custody of the building or premises and place an individual that the State Fire Marshal considers proper in charge of the building or premises, until the examination and investigation of the State Fire Marshal is completed.</section></section>

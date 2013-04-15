@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-803" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">An alien insurer may use Maryland as a state of entry to transact insurance business in the United States if the alien insurer makes and maintains in Maryland a deposit of assets in trust with a solvent bank or trust company approved by the Commissioner.</section>
     <section prefix="(b)">The deposit of trusteed assets shall be held for the benefit, security, and protection of the policyholders and creditors of the alien insurer in the United States.</section>

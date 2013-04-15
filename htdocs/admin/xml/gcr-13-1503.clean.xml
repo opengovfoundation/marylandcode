@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1503" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1503</order_by>
   <text>
     <section prefix="(a)">Before an organization conducts a gaming event under this subtitle, the organization shall obtain a license from the sheriff.</section>
     <section prefix="(b)">The following organizations may obtain a license to conduct a gaming event:<section prefix="(1)">a bona fide religious group that has conducted religious services at a fixed location in the county for at least 3 years before applying for a license;</section><section prefix="(2)">a State-chartered organization authorized by a nationally chartered veterans organization;</section><section prefix="(3)">a tax-supported volunteer fire company; or</section><section prefix="(4)">a nonprofit organization that intends to raise money for an exclusively charitable, athletic, or educational purpose which is specifically described in the application for a license.</section></section>

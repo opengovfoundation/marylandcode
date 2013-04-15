@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-112" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-3-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">A surviving parent is not entitled under &#xA7; 3-104 of this subtitle to a distribution of the net estate of a minor child of the parent if the parent:<section prefix="(1)">Abandoned the child; or</section><section prefix="(2)">Willfully failed to contribute to the support of the child for at least 3 consecutive years immediately preceding the death of the child or for the life of the child, whichever is less.</section></section>
     <section prefix="(b)">A parent shall be deemed to have abandoned a minor child under subsection (a)(1) of this section if the conduct of the parent demonstrates a settled purpose willfully and intentionally to relinquish all parental rights and duties with respect to the child and to renounce and forsake the child entirely.</section>

@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-835" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-835</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>835</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Congenital or genetic birth defect" means a defect existing at or from birth, including a hereditary defect.</section>
-        <section prefix="(ii)">"Congenital or genetic birth defect" includes, but is not limited to:</section>
+        <section prefix="(ii)">"Congenital or genetic birth defect" includes, but is not limited to:<section prefix="1.">autism or an autism spectrum disorder;</section><section prefix="2.">cerebral palsy;</section><section prefix="3.">intellectual disability;</section><section prefix="4.">Down syndrome;</section><section prefix="5.">spina bifida;</section><section prefix="6.">hydroencephalocele; and</section><section prefix="7.">congenital or genetic developmental disabilities.</section></section>
       </section>
       <section prefix="(3)">"Habilitative services" means services, including occupational therapy, physical therapy, and speech therapy, for the treatment of a child with a congenital or genetic birth defect to enhance the child's ability to function.</section>
       <section prefix="(4)">"Managed care system" means a method that an insurer, a nonprofit health service plan, or a health maintenance organization uses to review and preauthorize a treatment plan that a health care practitioner develops for a covered person using a variety of cost containment methods to control utilization, quality, and claims.</section>

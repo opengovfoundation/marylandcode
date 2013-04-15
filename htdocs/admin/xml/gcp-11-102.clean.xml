@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-102" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">If practicable, a victim or victim's representative who has filed a notification request form under &#xA7; 11-104 of this subtitle has the right to attend any proceeding in which the right to appear has been granted to a defendant.</section>
     <section prefix="(b)">As provided in &#xA7; 9-205 of the Courts Article, a person may not be deprived of employment solely because of job time lost because the person attended a proceeding that the person has a right to attend under this section.</section>

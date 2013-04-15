@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-512" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any person desiring to commercially practice the art of taxidermy or fur tanning or who desires to mount, preserve, or tan any species of wildlife for another person first shall obtain a taxidermist and fur tanner's license.</section>

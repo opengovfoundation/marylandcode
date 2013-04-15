@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-303" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-17-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">To apply for a license, an applicant shall:<section prefix="(i)">Submit to the Board an application on the form that the Board provides;</section><section prefix="(ii)">Submit the documents required under this section; and</section><section prefix="(iii)">Pay to the Board the required application fee set by the Board.</section></section>
@@ -14,7 +14,7 @@
     <section prefix="(b)">
       <section prefix="(1)">If the applicant is an individual, the application form provided by the Board shall require:<section prefix="(i)">The name of the applicant;</section><section prefix="(ii)">The address of the applicant; and</section><section prefix="(iii)">The current and previous employment of the applicant relevant to the field of marine contracting.</section></section>
       <section prefix="(2)">If the applicant is an entity, the application form provided by the Board shall require:<section prefix="(i)">A list of the entity's owners; and</section><section prefix="(ii)">For each entity owner, the same information required regarding an individual applicant under paragraph (1) of this subsection.</section></section>
-      <section prefix="(3)">For all applicants, the application form shall require:<section prefix="(i)">The address of the applicant's proposed principal place of business and of each proposed branch office;</section><section prefix="(ii)">All trade or fictitious names that the applicant intends to use while performing marine contractor services; and</section><section prefix="(iii)">As the Board considers appropriate, any other information to assist in the evaluation of:</section></section>
+      <section prefix="(3)">For all applicants, the application form shall require:<section prefix="(i)">The address of the applicant's proposed principal place of business and of each proposed branch office;</section><section prefix="(ii)">All trade or fictitious names that the applicant intends to use while performing marine contractor services; and</section><section prefix="(iii)">As the Board considers appropriate, any other information to assist in the evaluation of:<section prefix="1.">An individual applicant; or</section><section prefix="2.">If the applicant is an entity, any entity member.</section></section></section>
     </section>
     <section prefix="(c)">The application form provided by the Board shall contain a statement advising the applicant of the penalties for violation of this title provided under &#xA7; 17-403 of this title.</section>
     <section prefix="(d)">

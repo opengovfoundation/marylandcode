@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-636" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-636</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>636</order_by>
   <text>
     <section prefix="(a)">Subject to the prior approval of the Board of Public Works, the Authority may issue bonds to refund any of its outstanding bonds, including the payment of:<section prefix="(1)">any redemption premium; and</section><section prefix="(2)">any interest accrued or that will accrue to the earliest or any subsequent date of redemption, purchase, or maturity of the bonds.</section></section>
     <section prefix="(b)">

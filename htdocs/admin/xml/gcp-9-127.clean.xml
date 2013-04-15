@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-127" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-9-127</section_number>
-  <catch_line/>
+  <catch_line>This title shall be interpreted and construed to effectuate its general purposes to make uniform the...</catch_line>
+  <order_by>127</order_by>
   <text>This title shall be interpreted and construed to effectuate its general purposes to make uniform the law of those states that enact it.</text>
 </law>

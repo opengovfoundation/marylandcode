@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c0" order_by="" level="1"/>
-    <unit label="chapter" identifier="5" order_by="" level="2"/>
+    <unit label="article" identifier="c0" order_by="" level="1">Declaration of Rights</unit>
   </structure>
   <section_number>c0-5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>5</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">That the Inhabitants of Maryland are entitled to the Common Law of England, and the trial by Jury, according to the course of that Law, and to the benefit of such of the English statutes as existed on the Fourth day of July, seventeen hundred and seventy-six; and which, by experience, have been found applicable to their local and other circumstances, and have been introduced, used and practiced by the Courts of Law or Equity; and also of all Acts of Assembly in force on the first day of June, eighteen hundred and sixty-seven; except such as may have since expired, or may be inconsistent with the provisions of this Constitution; subject, nevertheless, to the revision of, and amendment or repeal by, the Legislature of this State. And the Inhabitants of Maryland are also entitled to all property derived to them from, or under the Charter granted by His Majesty Charles the First to Caecilius Calvert, Baron of Baltimore.</section>

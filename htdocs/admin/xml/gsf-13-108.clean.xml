@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-108" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-13-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in &#xA7; 11-205 ("Collusion"), &#xA7; 10-204 ("Approval for designated contracts"), &#xA7; 13-219 ("Required clauses - Nondiscrimination clause"), &#xA7; 13-221 ("Disclosures to Secretary of State"), Title 16 ("Suspension and Debarment of Contractors"), or Title 17 ("Special Provisions - State and Local Subdivisions") of this article, with the approval of the head of a unit, its procurement officer may make an emergency procurement by any method that the procurement officer considers most appropriate to avoid or mitigate serious damage to public health, safety, or welfare.</section>

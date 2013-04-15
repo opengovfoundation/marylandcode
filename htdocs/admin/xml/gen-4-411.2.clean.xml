@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-411.2" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-411.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411.2</order_by>
   <text>
     <section prefix="(a)">Within 14 days of the finding, the Department shall notify the appropriate local health department of a finding that a groundwater monitoring well sample taken from a high-risk groundwater use area, as defined by the Department, contains:<section prefix="(1)">Methyl tertiary butyl ether at or in excess of 20 parts per billion;</section><section prefix="(2)">Benzene at or in excess of 5 parts per billion; or</section><section prefix="(3)">A combination of benzene, toluene, ethyl benzene, and xylene at or in excess of 100 parts per billion.</section></section>
     <section prefix="(b)">

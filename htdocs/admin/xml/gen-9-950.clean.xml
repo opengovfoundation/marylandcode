@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-950" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-950</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>950</order_by>
   <text>
     <section prefix="(a)">In this section, "abutting lot" means a parcel of land:<section prefix="(1)">That abuts on a street or other public way that contains a sanitary sewer that is part of, is served by, or may be served by the sewerage system of an authority; and</section><section prefix="(2)">On which a building has been constructed for residential, commercial, or industrial use.</section></section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, when an authority acquires or constructs a sewerage system under this subtitle, the authority, by rule, regulation, or resolution, may require each owner of an abutting lot to:<section prefix="(1)">Connect with the sewerage system of the authority each building that is constructed for residential, commercial, or industrial use on the abutting lot; and</section><section prefix="(2)">Stop using any other method for the disposal of sewage or other polluting matter.</section></section>

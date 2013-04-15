@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-6A-02" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-6A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">Except for the student member, the State Board may remove a voting member of the county board for:<section prefix="(1)">Immorality;</section><section prefix="(2)">Misconduct in office;</section><section prefix="(3)">Incompetency;</section><section prefix="(4)">Willful neglect of duty; or</section><section prefix="(5)">Failure to attend, without good cause, at least 75% of the scheduled meetings of the county board in any 1 calendar year.</section></section>
     <section prefix="(b)">Before removing a member, the State Board shall send the member a copy of the charges and give the member an opportunity to request a hearing within 10 days.</section>

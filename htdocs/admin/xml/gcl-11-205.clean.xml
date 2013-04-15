@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-205" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (i) of this section, if the Attorney General believes that a person may be in possession, custody, or control of any documentary material, wherever situated, or may have any information which the Attorney General believes is relevant to the subject matter of an investigation of a possible violation of this subtitle, the Attorney General may serve on the person before institution of a civil proceeding for the violation a written civil investigative demand which requires that person to produce the documentary material and permit inspection and copying, to answer in writing written interrogatories, to give oral testimony concerning documentary material or information, or to furnish any combination of such material, answers, or testimony.</section>
     <section prefix="(b)">

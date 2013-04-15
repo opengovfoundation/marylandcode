@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-108" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-2-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">On the Secretary's initiative or on request of a community or voluntary, nonprofit organization, the Secretary may conduct a survey to identify any area in this State that has a substantial deficiency in general or specific medical or health care facilities, staff, or services.</section>
     <section prefix="(b)">In cooperation with appropriate county and State groups, the Secretary may provide the community or organization with counsel and other help to establish medical or health care facilities or services and to recruit medical or health care staff in an underserved area identified as a result of the survey conducted in accordance with subsection (a) of this section.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-717" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-717</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>717</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this part, "low intensity support services" means a program designed to:<section prefix="(i)">Enable a family to provide for the needs of a child or an adult with developmental disability living in the home; or</section><section prefix="(ii)">Support an adult with developmental disability living in the community.</section></section>

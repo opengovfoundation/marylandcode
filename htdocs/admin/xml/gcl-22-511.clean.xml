@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-511" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(a)">The creation of a financier's interest does not place any obligations on or alter the rights of a licensor.</section>
     <section prefix="(b)">A financier's interest does not attach to any intellectual property rights of the licensor unless the licensor expressly consents to such attachment in a license or another record.</section>

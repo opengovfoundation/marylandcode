@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-401" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In connection with any matter under its jurisdiction, the Administration may acquire by condemnation any property located in the District.</section>
     <section prefix="(b)">The Administration may purchase the capital stock of a private carrier or acquire by purchase, lease, or condemnation any property of a private carrier used or useful in rendering transit service, including any rolling stock, shops, garages, terminals, and other assets, property, or facilities.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-523" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-523</section_number>
-  <catch_line/>
+  <catch_line>In this part, "State Fair Society" means the Maryland State Fair and Agricultural Society, Inc....</catch_line>
+  <order_by>523</order_by>
   <text>In this part, "State Fair Society" means the Maryland State Fair and Agricultural Society, Inc.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-424" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-424</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>424</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A provider shall give without cost a disclosure statement for each facility for which the provider holds a preliminary, initial, or renewal certificate of registration:<section prefix="(i)">to a prospective subscriber before the earlier of payment of any part of the entrance fee or execution of a continuing care agreement; and</section><section prefix="(ii)">annually to any subscriber who requests a disclosure statement.</section></section>

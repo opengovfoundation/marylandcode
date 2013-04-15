@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-117" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (d) of this section, an authorized insurer or its subsidiary may not make, directly or indirectly, a loan to a director or executive officer of the authorized insurer unless the loan:<section prefix="(i)">is a bona fide mortgage loan made on a principal residence of the director or executive officer; and</section><section prefix="(ii)">is approved or ratified by the board of directors of the authorized insurer.</section></section>

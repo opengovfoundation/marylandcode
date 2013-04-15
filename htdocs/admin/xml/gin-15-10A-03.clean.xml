@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-10A-03" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-10A-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Within 4 months after the date of receipt of an adverse decision or a grievance decision, a member, a member's representative, or a health care provider, who filed the grievance on behalf of the member under &#xA7; 15-10A-02(b)(2)(iii) of this subtitle, may file a complaint with the Commissioner.</section>

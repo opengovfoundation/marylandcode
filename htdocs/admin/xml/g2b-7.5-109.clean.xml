@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="7.5-109" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-7.5-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">To receive a direct shipment of wine, a consumer in the State shall be at least 21 years old.</section>
     <section prefix="(b)">A person who receives a shipment of wine shall use the shipment for personal consumption only and may not resell it.</section>

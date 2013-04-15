@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-210" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Each year, the Authority shall develop and adopt a 6-year financial forecast for the operations of the Authority.</section>
     <section prefix="(b)">In accordance with &#xA7; 2-1246 of the State Government Article, the Authority shall submit to the General Assembly:<section prefix="(1)">A draft of the financial forecast on submission of the budget bill to the presiding officers of the General Assembly; and</section><section prefix="(2)">The financial forecast as approved by the Authority on or before July 1 of each year.</section></section>

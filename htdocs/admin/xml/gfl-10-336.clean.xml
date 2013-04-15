@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-336" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-336</section_number>
-  <catch_line/>
+  <catch_line>An employer who complies with an income withholding order issued in another state in accordance with...</catch_line>
+  <order_by>336</order_by>
   <text>An employer who complies with an income withholding order issued in another state in accordance with this subtitle is not subject to civil liability to any individual or agency with regard to the employer's withholding child support from the obligor's income.</text>
 </law>

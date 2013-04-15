@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-11A-08" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-11A-08</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>08</order_by>
   <text>
     <section prefix="(a)">This section applies to a water column lease in the waters of the State.</section>
     <section prefix="(b)">The Department may issue to a person a water column lease in waters of the State after the Department of the Environment classifies the waters as:<section prefix="(1)">Approved, conditionally approved, or restricted for harvest; or</section><section prefix="(2)">Prohibited, provided that the lease is used exclusively for the planting and gathering of seed for aquaculture and the leaseholder complies with the requirements of the National Shellfish Sanitation Program as implemented by the Department.</section></section>

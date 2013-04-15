@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-805" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A petition alleging that a child is a CINA shall be filed in the county where:<section prefix="(i)">The child is residing when the petition is filed; or</section><section prefix="(ii)">The act on which the petition is based allegedly occurred.</section></section>

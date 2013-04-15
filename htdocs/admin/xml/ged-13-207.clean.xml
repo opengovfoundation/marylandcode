@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-207" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-13-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">The defense of sovereign immunity may not be available to the University, unless otherwise specifically provided by the laws of Maryland, in any administrative, arbitration, or judicial proceeding held pursuant to this section, or the personnel policies, rules, and regulations for classified employees of the University System of Maryland involving any type of employee grievance or hearing, including, but not limited to charges for removal, disciplinary suspensions, involuntary demotions, or reclassifications.</section>
     <section prefix="(b)">The Governor shall provide in the annual State budget adequate funds for the satisfaction of any final monetary or benefit award or judgment that has been rendered in favor of the employee against the University in any administrative, arbitration, or judicial proceeding.</section>

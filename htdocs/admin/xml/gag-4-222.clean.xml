@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-222" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-222</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>222</order_by>
   <text>
     <section prefix="(a)">The Secretary, at all reasonable times, shall have access to any documentary evidence of any person being investigated or proceeded against and shall have the right to copy it for examination purposes. The Secretary may require, by subpoena, the attendance and testimony of any witness and the production of any documentary evidence of any person relating to any matter under investigation. The Secretary may sign subpoenas, may administer oaths and affirmations, examine witnesses, and receive evidence.</section>
     <section prefix="(b)">Attendance of any witness and the production of documentary evidence may be required at any designated place of hearing. In case of disobedience to a subpoena, the Secretary may invoke the aid of any court designated in &#xA7; 4-225 of this subtitle, to require the attendance and testimony of any witness and the production of documentary evidence.</section>

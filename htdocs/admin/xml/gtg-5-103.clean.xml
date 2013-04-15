@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-103" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-5-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">A rebuttable presumption exists that any alcoholic beverage in the State is subject to the alcoholic beverage tax.</section>
     <section prefix="(b)">An alcoholic beverage on which the alcoholic beverage tax is not paid is a contraband alcoholic beverage if it is delivered, possessed, sold, or transported in the State in a manner that is not authorized:<section prefix="(1)">under this title; or</section><section prefix="(2)">under Article 2B of the Code.</section></section>

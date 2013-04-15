@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-609" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">A cooperative may amend its articles of incorporation as provided in this section.</section>
     <section prefix="(b)">

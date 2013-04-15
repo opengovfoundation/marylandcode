@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-505" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-11-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">Each year, the Corporation shall require:<section prefix="(1)">a financial audit by an independent certified public accountant of each grantee whose grant income from the Corporation in the most recently completed fiscal year was $50,000 or more; or</section><section prefix="(2)">a financial review by an independent certified public accountant of each grantee whose grant income from the Corporation in the most recently completed fiscal year was less than $50,000.</section></section>
     <section prefix="(b)">The report of each audit or review shall be:<section prefix="(1)">submitted to the Governor;</section><section prefix="(2)">made available to the Legislative Auditor; and</section><section prefix="(3)">kept for at least 5 years at the principal office of the Corporation.</section></section>

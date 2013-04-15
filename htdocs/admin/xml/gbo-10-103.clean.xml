@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-103" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-10-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">Subject to this title, the Court of Appeals shall adopt rules that govern the standards and procedures for admission to the Bar.</section>
     <section prefix="(b)">The rules under this section shall include provisions for:<section prefix="(1)">a uniform system of Bar examination in the State;</section><section prefix="(2)">the registration of each applicant for admission to the Bar;</section><section prefix="(3)">the qualifications of each applicant for admission to the Bar;</section><section prefix="(4)">the examination of the character of each applicant for admission to the Bar; and</section><section prefix="(5)">the fees to be paid by an applicant.</section></section>

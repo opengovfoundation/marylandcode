@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-111" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -33,7 +33,7 @@
       <section prefix="(2)">The Commission may adopt regulations that waive the fee assessed under this section for a specific class of health care practitioners.</section>
       <section prefix="(3)">
         <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, the Commission shall adopt regulations to permit a waiver of the fee assessment requirements for certain health care practitioners.</section>
-        <section prefix="(ii)">In adopting regulations to permit a waiver of the fee assessment requirements for certain health care practitioners, the Commission shall:</section>
+        <section prefix="(ii)">In adopting regulations to permit a waiver of the fee assessment requirements for certain health care practitioners, the Commission shall:<section prefix="1.">Consider the hourly wages of the health care practitioners; and</section><section prefix="2.">Give preference to exempting health care practitioners with an average hourly wage substantially below that of other health care practitioners.</section></section>
       </section>
     </section>
     <section prefix="(f)">
@@ -46,7 +46,7 @@
       <section prefix="(7)">This section may not be construed to prohibit the Fund from receiving funds from any other source.</section>
       <section prefix="(8)">The Fund shall be used only to provide funding for the Commission and for the purposes authorized under this subtitle.</section>
     </section>
-    <section prefix="(g)">The Commission shall:<section prefix="(1)"><section prefix="(i)">Assess fees on payors in a manner that apportions the total amount of the fees to be assessed on payors under subsection (d)(1) of this section among each payor based on the ratio of each payor's total premiums written in the State for health benefit plans to the total written premiums of all payors written in the State; and</section><section prefix="(ii)">On or before June 30 of each year, assess each payor a fee in accordance with item (i) of this item;</section></section><section prefix="(2)"><section prefix="(i)">Assess fees for each hospital equal to the sum of:</section><section prefix="(ii)">Establish minimum and maximum assessments; and</section><section prefix="(iii)">On or before June 30 of each year, assess each hospital a fee in accordance with item (i) of this item; and</section></section><section prefix="(3)"><section prefix="(i)">Assess fees for each nursing home equal to the sum of:</section><section prefix="(ii)">Establish minimum and maximum assessments; and</section><section prefix="(iii)">On or before June 30 of each year, assess each nursing home a fee in accordance with item (i) of this item.</section></section></section>
+    <section prefix="(g)">The Commission shall:<section prefix="(1)"><section prefix="(i)">Assess fees on payors in a manner that apportions the total amount of the fees to be assessed on payors under subsection (d)(1) of this section among each payor based on the ratio of each payor's total premiums written in the State for health benefit plans to the total written premiums of all payors written in the State; and</section><section prefix="(ii)">On or before June 30 of each year, assess each payor a fee in accordance with item (i) of this item;</section></section><section prefix="(2)"><section prefix="(i)">Assess fees for each hospital equal to the sum of:<section prefix="1.">The amount equal to one-half of the total fees to be assessed on hospitals under subsection (d)(1) of this section times the ratio of admissions of the hospital to total admissions of all hospitals; and</section><section prefix="2.">The amount equal to one-half of the total fees to be assessed on hospitals under subsection (d)(1) of this section times the ratio of gross operating revenue of each hospital to total gross operating revenues of all hospitals;</section></section><section prefix="(ii)">Establish minimum and maximum assessments; and</section><section prefix="(iii)">On or before June 30 of each year, assess each hospital a fee in accordance with item (i) of this item; and</section></section><section prefix="(3)"><section prefix="(i)">Assess fees for each nursing home equal to the sum of:<section prefix="1.">The amount equal to one-half of the total fees to be assessed on nursing homes under subsection (d)(1) of this section times the ratio of admissions of the nursing home to total admissions of all nursing homes; and</section><section prefix="2.">The amount equal to one-half of the total fees to be assessed on nursing homes under subsection (d)(1) of this section times the ratio of gross operating revenue of each nursing home to total gross operating revenues of all nursing homes;</section></section><section prefix="(ii)">Establish minimum and maximum assessments; and</section><section prefix="(iii)">On or before June 30 of each year, assess each nursing home a fee in accordance with item (i) of this item.</section></section></section>
     <section prefix="(h)">
       <section prefix="(1)">On or before September 1 of each year, each payor, hospital, and nursing home assessed under this section shall make payment to the Commission.</section>
       <section prefix="(2)">The Commission shall make provisions for partial payments.</section>

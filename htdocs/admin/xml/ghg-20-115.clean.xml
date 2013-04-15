@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-115" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Center" means any facility that produces, develops, or interprets:</section>
+        <section prefix="(i)">"Center" means any facility that produces, develops, or interprets:<section prefix="1.">Screening;</section><section prefix="2.">Diagnostic mammograms; or</section><section prefix="3.">Both.</section></section>
         <section prefix="(ii)">"Center" includes a hospital, outpatient department, medical laboratory, clinic, radiology practice, office of a health care provider, or other testing facility conducting mammography testing.</section>
         <section prefix="(iii)">"Center" does not include a facility of the federal Department of Veterans Affairs.</section>
       </section>

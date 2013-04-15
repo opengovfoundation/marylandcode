@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-916" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-916</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>916</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, the appropriate official shall pay a refund claim that meets the requirements of this subtitle, and shall pay the interest allowed in &#xA7; 14-917 of this subtitle.</section>
     <section prefix="(b)">The appropriate official may not pay a refund claim under &#xA7; 14-907 or &#xA7; 14-908 of this subtitle if:<section prefix="(1)">an appeal that relates to the refund claim is pending;</section><section prefix="(2)">the refund claim is not submitted within the time required by &#xA7; 14-915 of this subtitle; or</section><section prefix="(3)">the claimant has delinquent State, county, or municipal corporation taxes, charges, or fees.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-201" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-12-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board shall establish:<section prefix="(i)">A Council of University System Presidents;</section><section prefix="(ii)">A Council of University System Faculty;</section><section prefix="(iii)">A Council of University System Staff; and</section><section prefix="(iv)">A University System Student Council.</section></section>

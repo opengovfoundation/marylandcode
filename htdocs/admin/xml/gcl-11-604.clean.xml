@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-604" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-604</section_number>
-  <catch_line/>
+  <catch_line>Unless taken with the written consent of the owner, each of the following actions by any person, oth...</catch_line>
+  <order_by>604</order_by>
   <text>Unless taken with the written consent of the owner, each of the following actions by any person, other than the person whose mark is on the container, is presumptive evidence of a violation of this subtitle:<section prefix=""><section prefix="(1)">Use of a marked container;</section><section prefix="(2)">Possession of a marked container; or</section><section prefix="(3)">Purchase of a marked container for:<section prefix="(i)">The sale of liquefied petroleum gas; or</section><section prefix="(ii)">The filling or refilling of the container with liquefied petroleum gas.</section></section></section></text>
 </law>

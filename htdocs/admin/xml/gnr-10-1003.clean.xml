@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1003" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">Each application for a license to feed waterfowl shall be submitted in the form and number of copies as the Secretary prescribes. The submitted application shall show the name and address of each applicant and each owner, or each lessor and lessee if the property is leased. The submitted application shall contain a sufficient description of the property and its location so that the property may readily be identified and located.</section>
     <section prefix="(b)">Each copy shall be accompanied by a sketch map showing the exterior boundaries, access roads, principal ponds, creeks, and other bodies of water in sufficient detail to identify and clearly record the location of the proposed feeding zones and shooting blinds or stands.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-609" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">Unless authorized by a charitable organization, a person may not:<section prefix="(1)">represent that a charitable contribution is requested for the charitable organization; or</section><section prefix="(2)">use a name, symbol, emblem, device, service mark or printed matter that belongs to or is associated with the charitable organization to solicit charitable contributions.</section></section>
     <section prefix="(b)">In soliciting charitable contributions for a charitable organization, a person may not use a name, symbol, emblem, device, service mark, or printed matter so similar to that of another established charitable organization that the use might confuse or mislead the public.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-301" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subtitle, "distribution" means:<section prefix="(i)">A direct or indirect transfer of money or other property of the corporation in respect of any of its shares; or</section><section prefix="(ii)">An incurrence or forgiveness of indebtedness by a corporation to or for the benefit of the corporation's stockholders in respect of any of its shares.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-202" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-10-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">A person must have a permit issued by the Commission whenever the person operates as a taxicab business in or from a point in Baltimore City, Baltimore County, the City of Cumberland, or the City of Hagerstown.</section>
     <section prefix="(b)">The provisions of this division relating to taxicabs or of any public local law relating to taxicabs do not limit the jurisdiction of the Commission over a taxicab business as a common carrier even if the taxicab business operates in a jurisdiction other than Baltimore City, Baltimore County, the City of Cumberland, or the City of Hagerstown.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-282" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-282</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>282</order_by>
   <text>
     <section prefix="(a)">There is a State Coal Combustion By-Products Management Fund.</section>
     <section prefix="(b)">The Fund shall consist of:<section prefix="(1)">Fees collected by the Department under &#xA7; 9-283 of this subtitle;</section><section prefix="(2)">Funds appropriated by the General Assembly for deposit to the Fund; and</section><section prefix="(3)">Any additional money made available from any sources, public or private, for the purposes for which the Fund has been established.</section></section>

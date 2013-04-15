@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-134" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-134</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>134</order_by>
   <text>
     <section prefix="(a)">In this section, "grandfathered health plan" has the meaning stated in the federal Patient Protection and Affordable Care Act, as amended by the federal Health Care and Education Reconciliation Act of 2010.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a provision of this title or Title 14 of this article enacted after January 1, 2010, may not apply to a group health plan that is a grandfathered health plan or health insurance coverage that is a grandfathered health plan if the provision would prevent the group health plan or health insurance coverage from being considered a grandfathered health plan.</section>

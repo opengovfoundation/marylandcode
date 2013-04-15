@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-712" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-712</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>712</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Emergency medical treatment" means medical or surgical care rendered by a provider in a laboratory, health care facility, or child advocacy center to a child under this section:</section>
+        <section prefix="(i)">"Emergency medical treatment" means medical or surgical care rendered by a provider in a laboratory, health care facility, or child advocacy center to a child under this section:<section prefix="1.">to relieve any urgent illness, injury, severe emotional distress, or life-threatening health condition; or</section><section prefix="2.">to determine the existence, nature, or extent of any possible abuse or neglect.</section></section>
         <section prefix="(ii)">"Emergency medical treatment" includes, if appropriate, the use of telemedicine to achieve a timely expert diagnosis of child abuse or neglect.</section>
       </section>
       <section prefix="(3)">"Expert child abuse or neglect care" means the diagnosis or treatment of child abuse or neglect provided by:<section prefix="(i)">a physician;</section><section prefix="(ii)">a multidisciplinary team or multidisciplinary team member;</section><section prefix="(iii)">a health care facility; or</section><section prefix="(iv)">a staff member of a health care facility who is an expert in the field of abuse and neglect.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-116" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-13-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">An authorized insurer that issues coverage under this title may not engage in fronting agreements with unauthorized insurers with respect to any insurance written or issued in the State under which the authorized insurer by reinsurance or otherwise transfers to one or more unauthorized insurers:<section prefix="(1)">substantially the entire risk of loss under substantially all of the insurance written by the authorized insurer in the State;</section><section prefix="(2)">all of a kind, line, type, or class of insurance;</section><section prefix="(3)">all of the business produced through an insurance producer or agency;</section><section prefix="(4)">all of the business in a designated geographical area; or</section><section prefix="(5)">all of the business written on a policy form.</section></section>
     <section prefix="(b)">

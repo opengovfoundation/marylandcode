@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-126" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-18-126</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>126</order_by>
   <text>
     <section prefix="(a)">A person may not impersonate another in an examination held under this subtitle.</section>
     <section prefix="(b)">A person may not willfully or corruptly falsify a score or report on an examination held under this subtitle.</section>

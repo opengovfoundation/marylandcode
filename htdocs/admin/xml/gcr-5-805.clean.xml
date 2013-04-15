@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-805" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">In this section, "controlled premises" means:<section prefix="(1)">a place where a registrant or person exempted from registration requirements under this title is required to keep records; or</section><section prefix="(2)">a place, including a factory, warehouse, establishment, or conveyance, where a registrant or person exempted from registration requirements under this title may possess, manufacture, compound, process, sell, deliver, or dispose of a controlled dangerous substance.</section></section>
     <section prefix="(b)">The Department may make administrative inspections of controlled premises in accordance with this section and designate those who may seize property under this section.</section>

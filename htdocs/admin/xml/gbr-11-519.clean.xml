@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-519" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-519</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>519</order_by>
   <text>
     <section prefix="(a)">The owner of the Bowie Race Course Training Center shall operate the Center as a thoroughbred training facility to provide more stall space for a race meeting that a licensee holds.</section>
     <section prefix="(b)">The owner of the Bowie Race Course Training Center is responsible for the cost to improve, maintain, and operate the Center.</section>

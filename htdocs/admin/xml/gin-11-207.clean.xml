@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-207" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">By written order, the Commissioner may suspend or modify the filing requirement for a kind of insurance, subdivision or combination of kinds of insurance, or for classes of risks, for which it is not practicable to file rates before they are used.</section>

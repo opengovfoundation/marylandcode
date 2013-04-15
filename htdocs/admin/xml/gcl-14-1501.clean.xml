@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1501" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1501</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Consumer" means:<section prefix="(1)">The purchaser, other than for purposes of resale, of a new motor vehicle;</section><section prefix="(2)">Any person to whom a new motor vehicle is transferred during the duration of the warranty applicable to such motor vehicle; or</section><section prefix="(3)">Any other person who is entitled to enforce the obligations of the warranty.</section></section>

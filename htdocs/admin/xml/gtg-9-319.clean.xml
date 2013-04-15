@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-319" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-9-319</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>319</order_by>
   <text>
     <section prefix="(a)">To qualify for a Class "A" license, an applicant shall be:<section prefix="(1)">an entity that:<section prefix="(i)">blends or refines gasoline;</section><section prefix="(ii)">owns or controls and dedicates at least 1 million gallons of storage capacity in the State to gasoline, other than aviation gasoline, and to special fuel; and</section><section prefix="(iii)">keeps in the State an inventory of at least 500,000 gallons of that gasoline and special fuel; or</section></section><section prefix="(2)">an entity that is wholly owned by one or more entities that would otherwise qualify as a Class "A" licensee.</section></section>
     <section prefix="(b)">To qualify for a Class "B" license, an applicant shall be an entity that is licensed by the state from which the gasoline is to be exported for importation into this State.</section>

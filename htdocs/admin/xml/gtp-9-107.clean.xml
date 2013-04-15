@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-107" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">In this section, "conservation property" means land that is:<section prefix="(1)">unimproved;</section><section prefix="(2)">not used for commercial purposes; and</section><section prefix="(3)">subject to a perpetual conservation easement that is:<section prefix="(i)">donated to the Department of Natural Resources or the Maryland Environmental Trust and identifies the Department of Natural Resources or the Maryland Environmental Trust as a grantee under Title 3, Subtitle 2 of the Natural Resources Article; and</section><section prefix="(ii)">accepted and approved by the Board of Public Works after June 30, 1986.</section></section></section>
     <section prefix="(b)">There shall be a property tax credit granted under this section against the property tax imposed on conservation property.</section>

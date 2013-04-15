@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-102" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-10-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(1)">Transactions validly entered into before the effective date of the original Code, and the rights, duties and interests flowing from them remain valid thereafter and may be terminated, completed, consummated or enforced as required or permitted by any statute or other law amended or repealed by the original Code as though such repeal or amendment had not occurred.</section>
     <section prefix="(2)">Record books, indices, dockets, and any other papers or records permitted or required to be recorded, filed or maintained in the office of the clerk of the circuit court for any county under the provisions of any article, section, or other portion of the Maryland Code repealed by the original Code may be destroyed or otherwise disposed of by said clerk at any time after the expiration of five (5) years and sixty (60) days from the date of the last pertinent date thereon or record entry therein, provided that the requirements of Title 10, Subtitle 6, Part V of the State Government Article have been complied with.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-849" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-849</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>849</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall impose an administrative penalty on an owner who fails to register an affected property by December 31, 1995 or within the time period specified in &#xA7; 6-811(a)(2) or &#xA7; 6-812(b) of this subtitle or fails to renew or update a registration as provided under &#xA7; 6-812(a) of this subtitle. The administrative penalty imposed shall be up to $20 per day, calculated from the date compliance is required, for each affected property which is not registered or for which registration is not renewed or updated.</section>

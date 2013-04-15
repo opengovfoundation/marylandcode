@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-909" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-909</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>909</order_by>
   <text>
     <section prefix="(a)">Consummation of a merger has the effects provided in this section.</section>
     <section prefix="(b)">The separate existence of each partnership, limited liability company, limited partnership, corporation, or business trust party to the articles, except the successor, ceases.</section>
@@ -18,7 +18,7 @@
     <section prefix="(f)">
       <section prefix="(1)">
         <section prefix="(i)">The successor is liable for all the debts and obligations of each nonsurviving party to the articles of merger.</section>
-        <section prefix="(ii)">An existing claim, action, or proceeding pending by or against any nonsurviving party to the articles of merger:</section>
+        <section prefix="(ii)">An existing claim, action, or proceeding pending by or against any nonsurviving party to the articles of merger:<section prefix="1.">May be prosecuted to judgment as if the merger had not taken place; or</section><section prefix="2.">On motion of the successor or any party, the successor may be substituted as a party, and the judgment against the nonsurviving party to the articles of merger shall constitute a judgment against the successor.</section></section>
       </section>
       <section prefix="(2)">A merger does not impair the rights of creditors or a lien on the property of any partnership, limited liability company, limited partnership, corporation, or business trust party to the articles of merger.</section>
       <section prefix="(3)">Subject to Subtitles 7 and 8 of this title, a partner of a nonsurviving partnership remains liable for all the debts and obligations of the nonsurviving partnership party to the articles of merger.</section>

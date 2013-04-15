@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-204" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-4-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">Acting under the rules and regulations of the county board, the county superintendent is responsible for the administration of his office.</section>
     <section prefix="(b)">As the executive officer of the county board, the county superintendent shall see that the following are carried out:<section prefix="(1)">The laws relating to the schools;</section><section prefix="(2)">The applicable enacted and published bylaws of the State Board;</section><section prefix="(3)">The policies of the State Board;</section><section prefix="(4)">The rules and regulations of the county board; and</section><section prefix="(5)">The policies of the county board.</section></section>

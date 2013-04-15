@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-305" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Unless otherwise provided, any commodity in a package form shall bear on the outside of the package a definite, plain, and conspicuous declaration of:<section prefix="(1)">The identity of the commodity in the package unless the commodity can be identified easily through the wrapper or container;</section><section prefix="(2)">The net quantity of the contents in terms of weight, measure, or count; and</section><section prefix="(3)">In the case of any package possessed, offered, or exposed for sale, or sold in any place other than on the premises where packed, the name and place of business of the manufacturer, packer, or distributor, as the Secretary adopts by rule or regulation.</section></section>
     <section prefix="(b)">

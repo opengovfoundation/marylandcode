@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-803.5" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-803.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803.5</order_by>
   <text>
     <section prefix="(a)">In this section, "fertilizer" means commercial fertilizer and specialty fertilizer.</section>
     <section prefix="(b)">
@@ -20,9 +20,9 @@
     </section>
     <section prefix="(e)">Except as provided in subsections (c) and (d) of this section, a person may apply fertilizer to turf containing phosphorus if the person:<section prefix="(1)">Determines that the fertilizer is necessary for the specific soils and target vegetation in accordance with a soil test performed no more than 3 years before the fertilizer application, provided the application complies with the recommendations established by the University of Maryland;</section><section prefix="(2)">Is establishing vegetation for the first time, such as after land disturbance, provided the application complies with the recommendations established by the University of Maryland; or</section><section prefix="(3)">Is reestablishing or repairing a turf area</section></section>
     <section prefix="(f)">
-      <section prefix="(1)">Except as provided in paragraph (2) of this subsection and in addition to the requirements set forth in this section, a person, other than a professional fertilizer applicator, may not:<section prefix="(i)">Apply fertilizer to turf:</section><section prefix="(ii)">Apply nitrogen to turf:</section><section prefix="(iii)">Apply fertilizer to a golf course.</section></section>
+      <section prefix="(1)">Except as provided in paragraph (2) of this subsection and in addition to the requirements set forth in this section, a person, other than a professional fertilizer applicator, may not:<section prefix="(i)">Apply fertilizer to turf:<section prefix="1.">In an amount that is inconsistent with the annual recommended rate established by the University of Maryland; and</section><section prefix="2.">That contains nitrogen that is less than 20% slow release;</section></section><section prefix="(ii)">Apply nitrogen to turf:<section prefix="1.">At an application rate of more than 0.7 pounds per 1,000 square feet of water-soluble nitrogen; and</section><section prefix="2.">At an application rate that is more than 0.9 pounds per 1,000 square feet of total nitrogen; and</section></section><section prefix="(iii)">Apply fertilizer to a golf course.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">Subject to subparagraphs (ii) and (iii) of this paragraph, a person may apply an enhanced efficiency fertilizer:</section>
+        <section prefix="(i)">Subject to subparagraphs (ii) and (iii) of this paragraph, a person may apply an enhanced efficiency fertilizer:<section prefix="1.">At an annual application rate of no more than 2.5 pounds per 1,000 square feet of nitrogen; and</section><section prefix="2.">That has a release rate of no more than 0.7 pounds per 1,000 square feet of nitrogen per month.</section></section>
         <section prefix="(ii)">The annual total application rate of an enhanced efficiency fertilizer may not exceed 80% of the annual recommendation rate established by the University of Maryland.</section>
         <section prefix="(iii)">Enhanced efficiency fertilizers may not be applied after November 15 or before March 1 of each calendar year.</section>
       </section>

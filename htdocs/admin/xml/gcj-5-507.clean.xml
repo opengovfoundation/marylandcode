@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-507" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">In an action in contract described under Article 23A, &#xA7; 1A of the Code, a municipal corporation, or its officer, department, agency, board, commission, or other unit of government, is not liable for punitive damages.</section>
     <section prefix="(b)">

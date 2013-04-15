@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-506" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">On or before December 1, 2007, each law enforcement agency in the State shall adopt written policies relating to eyewitness identification that comply with the United States Department of Justice standards on obtaining accurate eyewitness identification.</section>
     <section prefix="(b)">On or before January 1, 2008, each law enforcement agency in the State shall file a copy of the written policy relating to eyewitness identification with the Department of State Police.</section>

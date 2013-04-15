@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-107" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection and &#xA7; 3-111 of this subtitle, if the investigation or interrogation of a law enforcement officer results in a recommendation of demotion, dismissal, transfer, loss of pay, reassignment, or similar action that is considered punitive, the law enforcement officer is entitled to a hearing on the issues by a hearing board before the law enforcement agency takes that action.</section>
@@ -26,7 +26,7 @@
       </section>
       <section prefix="(4)">
         <section prefix="(i)">A law enforcement agency or the agency's superior governmental authority that has recognized and certified an exclusive collective bargaining representative may negotiate with the representative an alternative method of forming a hearing board.</section>
-        <section prefix="(ii)">A law enforcement officer may elect the alternative method of forming a hearing board if:</section>
+        <section prefix="(ii)">A law enforcement officer may elect the alternative method of forming a hearing board if:<section prefix="1.">the law enforcement officer works in a law enforcement agency described in subparagraph (i) of this paragraph; and</section><section prefix="2.">the law enforcement officer is included in the collective bargaining unit.</section></section>
         <section prefix="(iii)">The law enforcement agency shall notify the law enforcement officer in writing before a hearing board is formed that the law enforcement officer may elect an alternative method of forming a hearing board if one has been negotiated under this paragraph.</section>
         <section prefix="(iv)">If the law enforcement officer elects the alternative method, that method shall be used to form the hearing board.</section>
         <section prefix="(v)">An agency or exclusive collective bargaining representative may not require a law enforcement officer to elect an alternative method of forming a hearing board.</section>

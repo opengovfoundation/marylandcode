@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-822.1" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-822.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>822.1</order_by>
   <text>
     <section prefix="(a)">On request of any person and payment of a fee set by the Board, the Board shall certify the licensing status of any person who is the subject of the request.</section>
     <section prefix="(b)">Each certification under this section:<section prefix="(1)">shall include a statement of the licensing status of the person who is the subject of the request; and</section><section prefix="(2)">may include:<section prefix="(i)">information about the examination results and other qualifications of that person;</section><section prefix="(ii)">information about the dates of issuance and renewal of the license of that person;</section><section prefix="(iii)">information about any disciplinary action taken against that person; and</section><section prefix="(iv)">if authorized by that person, information about any complaint against that person.</section></section></section>

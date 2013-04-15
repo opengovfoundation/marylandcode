@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-109" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (c) and (d), this title applies to:<section prefix="(1)">A transaction, regardless of its form, that creates a security interest in personal property or fixtures by contract;</section><section prefix="(2)">An agricultural lien;</section><section prefix="(3)">A sale of accounts, chattel paper, payment intangibles, or promissory notes;</section><section prefix="(4)">A consignment;</section><section prefix="(5)">A security interest arising under &#xA7; 2-401, &#xA7; 2-505, &#xA7; 2-711(3), or &#xA7; 2A-508(5) of this article, as provided in &#xA7; 9-110; and</section><section prefix="(6)">A security interest arising under &#xA7; 4-210 or &#xA7; 5-118 of this article.</section></section>
     <section prefix="(b)">The application of this title to a security interest in a secured obligation is not affected by the fact that the obligation is itself secured by a transaction or interest to which this title does not apply.</section>

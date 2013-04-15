@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-703" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">The Administration shall self insure or purchase and maintain insurance against:<section prefix="(1)">Loss or damage to its property; and</section><section prefix="(2)">Liability for injury to persons or property.</section></section>
     <section prefix="(b)">The Administration may purchase insurance against loss of revenue from any cause.</section>

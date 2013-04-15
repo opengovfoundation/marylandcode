@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-114" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">In this section, "community foundation" means a nonprofit organization that is:<section prefix="(1)">formed to receive contributions and distribute money to meet cultural, educational, charitable, environmental, civic, or other similar needs of a community; and</section><section prefix="(2)">governed by a board of private citizens who reside in the community.</section></section>
     <section prefix="(b)">An educational or religious organization, hospital, or community foundation may not make or issue in the State agreements for annuity payments with donors until it has obtained from the Commissioner a special permit issued in accordance with this section.</section>

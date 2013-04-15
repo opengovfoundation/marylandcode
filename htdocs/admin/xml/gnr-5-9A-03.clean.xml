@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-9A-03" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-9A-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">There is a Rural Legacy Board established in the Department of Natural Resources to administer the Rural Legacy Program.</section>
     <section prefix="(b)">The Board consists of the following members:<section prefix="(1)">The Secretary of Agriculture;</section><section prefix="(2)">The Secretary of Natural Resources; and</section><section prefix="(3)">The Secretary of the Department of Planning.</section></section>

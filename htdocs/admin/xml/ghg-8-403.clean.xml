@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-8-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">In this section, "alcohol abuse and drug abuse treatment program":<section prefix="(1)">Means any individual or organization that provides treatment, care, or rehabilitation for individuals who show the effects of drug abuse or alcohol abuse, and represents or advertises itself as an alcohol abuse or drug abuse treatment program; and</section><section prefix="(2)">Includes a program or facility that is owned or operated by this State or any of its political subdivisions.</section></section>
     <section prefix="(b)">Except as otherwise provided in this section, an alcohol abuse and drug abuse treatment program shall be certified by the Department before program services may be provided in this State.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2801" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Blind" means that an individual's visual acuity:<section prefix="(1)">Does not exceed 20/200 in the better eye with correcting lenses; or</section><section prefix="(2)">Exceeds 20/200 but with a field of vision that at the widest diameter subtends an angle not greater than 20 degrees.</section></section>

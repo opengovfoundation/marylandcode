@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-309" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">As soon as practicable after a hearing on a protest against a rule or regulation under &#xA7; 22-308 of this subtitle, the Secretary shall:<section prefix="(i)">Act on the protest by issuing an order; and</section><section prefix="(ii)">Send a copy of the order to each protester by certified mail, return receipt requested, bearing a postmark from the United States Postal Service.</section></section>

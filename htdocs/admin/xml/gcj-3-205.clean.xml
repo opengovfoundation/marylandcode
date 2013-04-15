@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-205" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided, a petition under this subtitle shall be heard in the manner and upon the notice provided by law or rule of court for the procedures when a petition is filed in an action.</section>
     <section prefix="(b)">Unless the parties agree otherwise, notice of the initial petition for an order shall be served in the manner provided by law or rule of court for the service of summons in an action.</section>

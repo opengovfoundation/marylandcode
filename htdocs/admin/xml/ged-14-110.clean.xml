@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-110" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-14-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">Consistent with &#xA7; 15-107 of this article and any other applicable law, the Board of Regents may establish, invest in, finance, and operate businesses or business entities when the Board of Regents finds that doing so would further one or more goals of the University and is related to the mission of the University.</section>
     <section prefix="(b)">
@@ -18,7 +18,7 @@
       <section prefix="(3)">Division II of the State Finance and Procurement Article does not apply to transactions between an entity established, financed, or operated under this subsection and the University that established, financed, or operated the entity.</section>
       <section prefix="(4)">
         <section prefix="(i)">The Board of Regents shall adopt policies and procedures governing the establishment of high impact economic development entities to ensure that the University's participation in the entity furthers the interests of the University and the State.</section>
-        <section prefix="(ii)">The policies and procedures under subparagraph (i) of this paragraph shall include requirements for:</section>
+        <section prefix="(ii)">The policies and procedures under subparagraph (i) of this paragraph shall include requirements for:<section prefix="1.">Recognition of the entity by the Board of Regents;</section><section prefix="2.">An annual audit of the entity by an independent certified public accountant; and</section><section prefix="3.">Adequate safeguards with regard to conflicts of interest, proper contracting practices, and other fundamental ethical and business practice standards.</section></section>
       </section>
     </section>
     <section prefix="(d)">The Board of Regents shall submit to the Governor and, in accordance with &#xA7; 2-1246 of the State Government Article, the General Assembly, an annual report on:<section prefix="(1)">The business entities established in accordance with this section;</section><section prefix="(2)">Funds invested in, and financing provided to, business entities established in accordance with this section;</section><section prefix="(3)">Ownership interests in any business entities established in accordance with this section; and</section><section prefix="(4)">The current status of the business entities.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-111" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-111</section_number>
-  <catch_line/>
+  <catch_line>The discharge of a fiduciary who has resigned his office pursuant to the Maryland Rules does not rel...</catch_line>
+  <order_by>111</order_by>
   <text>The discharge of a fiduciary who has resigned his office pursuant to the Maryland Rules does not release the fiduciary, or his sureties, if any, from liability to any of the cestui que trustent, or other persons, for acts, defaults, or omissions of duty occurring while the fiduciary was in office.</text>
 </law>

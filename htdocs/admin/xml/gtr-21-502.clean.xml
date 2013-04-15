@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-502" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection does not apply where:<section prefix="(i)">A pedestrian tunnel or overhead pedestrian crossing is provided, as described in &#xA7; 21-503(b) of this subtitle; or</section><section prefix="(ii)">A traffic control signal is in operation.</section></section>

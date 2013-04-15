@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-905.1" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-905.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905.1</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a marketer may not sell or provide a fever thermometer containing mercury to a consumer except by prescription.</section>
     <section prefix="(b)">This section does not apply to:<section prefix="(1)">A fever thermometer sold or provided to be used in hospitals or other places where medical services are provided by medical service professionals; or</section><section prefix="(2)">A digital thermometer using mercury-added button cell batteries.</section></section>

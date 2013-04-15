@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-211" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-13-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">Each person licensed under the provisions of this subtitle shall insure and at all times keep insured, in his own name or as a coinsurer, all of the grain in the actual, physical control of the licensee.</section>
     <section prefix="(b)">The amount of the insurance shall be the fair market value of the grain.</section>

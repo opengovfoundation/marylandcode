@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-122" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An application to the court for a change in conditional release of a committed person may be made by:<section prefix="(i)">the Health Department or the State's Attorney at any time; or</section><section prefix="(ii)">the committed person not earlier than 6 months after the court ordered the conditional release, unless the court for good cause permits an earlier application.</section></section>

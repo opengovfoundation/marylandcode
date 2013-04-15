@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-411" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">In this section, "record" means the proceedings, records, or files of the Board.</section>
     <section prefix="(b)">Except as otherwise expressly provided in this section and &#xA7; 14-411.1 of this subtitle, the Board or any of its investigatory bodies may not disclose any information contained in a record.</section>

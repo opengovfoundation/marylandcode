@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-1808" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-1808</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1808</order_by>
   <text>
     <section prefix="(a)">The Department, in consultation with the Maryland Health Care Commission and stakeholders, including advocates, consumers, and providers of assisted living services, shall develop a standard assisted living program services disclosure statement.</section>
     <section prefix="(b)">The purpose of the assisted living program services disclosure statement is to inform potential consumers about the services provided by an assisted living program in order to assist a consumer in choosing the most appropriate assisted living program.</section>

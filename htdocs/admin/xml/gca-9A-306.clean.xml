@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-306" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (b) and (c) of this section, all partners are liable jointly and severally for all obligations of the partnership unless otherwise agreed by the claimant or provided by law.</section>
     <section prefix="(b)">A person admitted as a partner into an existing partnership shall have the immunity from liability described under &#xA7; 5-420 of the Courts and Judicial Proceedings Article.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-214" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person may not require another person to buy insurance through a particular insurance producer or insurer as a condition, agreement, or understanding with respect to selling or providing a loan, credit, sale, goods, property, contract, lease, or service to the other person.</section>

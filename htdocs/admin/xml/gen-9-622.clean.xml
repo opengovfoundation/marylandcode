@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-622" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-622</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>622</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The sanitary commission of each single county district consists of the following numbers of sanitary commissioners, each appointed by the governing body of the member county:<section prefix="(i)">Allegany County - 7;</section><section prefix="(ii)">Dorchester County - 6;</section><section prefix="(iii)">Somerset County, except as provided in paragraph (2) of this subsection - 5;</section><section prefix="(iv)">Worcester County - 5; and</section><section prefix="(v)">Other counties - 3.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-307" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-3-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">In the performance of official duties, a health officer may enter and inspect any private house if the health officer:<section prefix="(1)">Has obtained consent to enter and inspect;</section><section prefix="(2)">Has obtained a warrant; or</section><section prefix="(3)">Does not have time or opportunity to obtain a warrant and an exceptional or emergency situation exists.</section></section>
     <section prefix="(b)">In the performance of official duties, a health officer may enter any place of business or employment.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1203" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1203</order_by>
   <text>
     <section prefix="(a)">A person must have a license for each day that the person conducts bingo unless the bingo is conducted in a licensed gaming event.</section>
     <section prefix="(b)">Notwithstanding any other provision of this subtitle or Subtitle 2 of this title, in addition to bingo conducted in connection with a gaming event under Subtitle 2 of this title, the clerk of the circuit court of the county may issue a license to conduct bingo.</section>

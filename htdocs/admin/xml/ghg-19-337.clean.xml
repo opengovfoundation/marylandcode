@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-337" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-337</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>337</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as expressly provided otherwise in this section, each receiver who is appointed under Part V of this subtitle has all of the powers of a receiver who is appointed under &#xA7; 3-414 of the Corporations and Associations Article.</section>
@@ -17,9 +17,9 @@
     <section prefix="(e)">If the structure or furnishings of a nursing home or site of the community program violate State or federal law, the receiver may correct the violation:<section prefix="(1)">Without the consent of the court, if the cost of the correction does not exceed $3,000; or</section><section prefix="(2)">On petition to and with the consent of the court, if the cost of the correction is more than $3,000.</section></section>
     <section prefix="(f)">
       <section prefix="(1)">The receiver shall pay the principal of and interest on a mortgage or secured transaction unless the holder of the mortgage or the secured party is the owner or an affiliate of the owner.</section>
-      <section prefix="(2)">On petition of a receiver, the court may:<section prefix="(i)">Allow the receiver to avoid a lease, mortgage, secured transaction, or other contract that the owner or operating entity made if:</section><section prefix="(ii)">If the receiver is allowed to avoid the contract, set a reasonable rent or interest rate to be paid on any property that is subject to the contract and is needed to continue operation of the nursing home or community program.</section></section>
+      <section prefix="(2)">On petition of a receiver, the court may:<section prefix="(i)">Allow the receiver to avoid a lease, mortgage, secured transaction, or other contract that the owner or operating entity made if:<section prefix="1.">The person seeking payment under the contract is, or at the time the contract was made was, the owner or an affiliate of the owner; and</section><section prefix="2.">The contract provides for a rent or interest rate substantially exceeding the rent or interest rate that was reasonable when the contract was made; and</section></section><section prefix="(ii)">If the receiver is allowed to avoid the contract, set a reasonable rent or interest rate to be paid on any property that is subject to the contract and is needed to continue operation of the nursing home or community program.</section></section>
       <section prefix="(3)">The court shall hold a hearing on a petition under this subsection within 15 days after the petition is filed.</section>
-      <section prefix="(4)">Notice of the petition shall be given to all known owners of property that the petition affects:<section prefix="(i)">By the receiver, at least 10 days before the hearing; or</section><section prefix="(ii)">By publication, if the receiver files with the court a statement that:</section></section>
+      <section prefix="(4)">Notice of the petition shall be given to all known owners of property that the petition affects:<section prefix="(i)">By the receiver, at least 10 days before the hearing; or</section><section prefix="(ii)">By publication, if the receiver files with the court a statement that:<section prefix="1.">Is signed and verified by the receiver;</section><section prefix="2.">States that the owner of the property cannot be found; and</section><section prefix="3.">Sets forth a substantial account of reasonable, good faith efforts to find the owner and serve process.</section></section></section>
       <section prefix="(5)">The court shall set a rent under this subsection in an amount that is not less than the total current payments of principal and interest required on all mortgages and secured transactions that:<section prefix="(i)">Affect the property under the contract to be avoided; and</section><section prefix="(ii)">Cannot be avoided under this subsection.</section></section>
       <section prefix="(6)">Payment of the rent or interest rate that a court sets under this subsection is a defense in any action against the receiver for payment or for possession of the property. However, the payment does not relieve the owner or operating entity of any liability for the difference between the amount that the receiver pays and the amount that is due under the contract.</section>
     </section>

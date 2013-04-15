@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-204" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">For purposes of any law or rule relating to members of a nonstock corporation, the directors of a nonstock corporation, under either of the circumstances described in subsection (b) of this section:<section prefix="(1)">Also constitute the members of the corporation; and</section><section prefix="(2)">When meeting as directors, may exercise the rights and powers of members.</section></section>
     <section prefix="(b)">This section applies if:<section prefix="(1)">Neither the charter nor the bylaws of the corporation provide for members; or</section><section prefix="(2)">The nonstock corporation in fact has no members.</section></section>

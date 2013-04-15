@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-402" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-11-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">If, while providing optometric services to a patient, an optometrist or diagnostically certified optometrist detects or diagnoses an active eye pathology which the optometrist is not licensed or certified to treat under &#xA7; 11-404 or &#xA7; 11-404.2 of this subtitle, the optometrist shall refer the patient to:<section prefix="(1)">An ophthalmologist or a therapeutically certified optometrist, as appropriate;</section><section prefix="(2)">The patient's physician;</section><section prefix="(3)">A physician if required under a managed care contract; or</section><section prefix="(4)">A hospital emergency room or ambulatory surgical center if necessary.</section></section>
     <section prefix="(b)">If, while providing optometric services to a patient, a therapeutically certified optometrist diagnoses an active eye pathology that the optometrist is not certified to treat under &#xA7; 11-404.2 of this subtitle, the optometrist shall refer the patient to:<section prefix="(1)">An ophthalmologist;</section><section prefix="(2)">The patient's physician;</section><section prefix="(3)">A physician if required under a managed care contract; or</section><section prefix="(4)">A hospital emergency room if necessary.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-211" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-211</section_number>
-  <catch_line/>
+  <catch_line>For purposes of determining its status as a holder in due course, a bank has given value to the exte...</catch_line>
+  <order_by>211</order_by>
   <text>For purposes of determining its status as a holder in due course, a bank has given value to the extent that it has a security interest in an item, if the bank otherwise complies with the requirements of &#xA7; 3-302 on what constitutes a holder in due course.</text>
 </law>

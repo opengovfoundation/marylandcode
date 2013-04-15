@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-918" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-918</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>918</order_by>
   <text>
     <section prefix="(a)">If a Class E (truck) vehicle is operated in combination with a nonfreight trailer or semitrailer under &#xA7; 13-927(b)(1) of this subtitle, the Class E (truck) vehicle shall be registered for only the gross vehicle weight of the Class E (truck) vehicle and not the gross combination weight of the Class E (truck) vehicle and nonfreight trailer or semitrailer.</section>
     <section prefix="(b)">If a Class E (truck) vehicle is operated in combination with a freight trailer or semitrailer, under &#xA7; 13-927(c)(1) of this subtitle, the Class E (truck) vehicle shall be registered for the gross combination weight, which includes the gross weight of the Class E (truck) vehicle, and the freight trailer or semitrailer with which it is in combination.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1003" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">To carry out the policy stated in &#xA7; 7-1002 of this subtitle, the following procedures are required for all services covered under this title.</section>
     <section prefix="(b)">Each licensee shall:<section prefix="(1)">On or before acceptance of an individual for services, give the individual a written statement of:<section prefix="(i)">The services provided by the licensee, including each service that is required to be offered on an as-needed basis; and</section><section prefix="(ii)">All charges, including any charges for services that are not covered by Medicare, Medicaid, or reimbursement by a State or local public agency; and</section></section><section prefix="(2)">Keep a written receipt for the statement that is signed by the individual or, if the individual is a minor, the parent or guardian of the person.</section></section>
@@ -42,7 +42,7 @@
     <section prefix="(l)">The executive officer or administrative head of a licensee is responsible for carrying out this section.</section>
     <section prefix="(m)">
       <section prefix="(1)">A person who believes that the rights of an individual with developmental disability have been violated shall report the alleged violation to the executive director or administrative head of a licensee.</section>
-      <section prefix="(2)">The executive officer or administrative head of the licensee shall:<section prefix="(i)">Promptly send the report:</section><section prefix="(ii)">Investigate the report; and</section><section prefix="(iii)">After the investigation, report the findings:</section></section>
+      <section prefix="(2)">The executive officer or administrative head of the licensee shall:<section prefix="(i)">Promptly send the report:<section prefix="1.">To the Director; and</section><section prefix="2.">To the State-designated protection and advocacy agency;</section></section><section prefix="(ii)">Investigate the report; and</section><section prefix="(iii)">After the investigation, report the findings:<section prefix="1.">To the complainant;</section><section prefix="2.">To the State-designated protection and advocacy agency; and</section><section prefix="3.">To the Director.</section></section></section>
       <section prefix="(3)">The State-designated protection and advocacy agency shall seek redress of a violation of the rights stated in this section.</section>
     </section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-310" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">The Authority may issue its bond anticipation notes, payable to the bearer or registered holder of the notes out of the first proceeds of the next sale of bonds issued under this subtitle.</section>
     <section prefix="(b)">The resolution authorizing the issuance of bond anticipation notes may provide for the issuance of these notes in series, as funds are required, and for the renewal of these notes at maturity, with or without resale.</section>

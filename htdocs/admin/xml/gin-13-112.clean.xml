@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-112" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-13-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraph (3) of this subsection, each individual policy or group certificate shall provide that any refund of the amount paid by the debtor for credit life insurance, credit health insurance, or credit involuntary unemployment benefit insurance will be paid or credited promptly to the person entitled to it if the insurance is terminated before the scheduled maturity date of the indebtedness.</section>

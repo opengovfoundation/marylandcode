@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-11A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-11A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">This section applies to leasing in an Aquaculture Enterprise Zone in the Chesapeake Bay.</section>
     <section prefix="(b)">
@@ -17,8 +17,12 @@
     <section prefix="(c)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, the Department may issue to any person an aquaculture lease in an Aquaculture Enterprise Zone.</section>
       <section prefix="(2)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)">The Department may issue an aquaculture lease to a corporation only if:</section>
+        <section prefix="(i)">
+          <section prefix="1.">The Department shall set aside 25% of each Aquaculture Enterprise Zone for leasing to persons who hold tidal fish licenses under Subtitle 7 of this title and who have actively used those licenses during the 3 years preceding June 1, 2009.</section>
+          <section prefix="2.">An applicant for a lease under this subparagraph shall comply with the provisions for leasing set forth in this subtitle.</section>
+          <section prefix="3.">The set-aside provided for in subsubparagraph 1 of this subparagraph shall expire June 1, 2011.</section>
+        </section>
+        <section prefix="(ii)">The Department may issue an aquaculture lease to a corporation only if:<section prefix="1.">The corporation is organized under the laws of the State; and</section><section prefix="2.">More than 50% of the stock in the corporation is owned by residents of the State.</section></section>
       </section>
       <section prefix="(3)">The Department may establish a buffer between leased areas within an Aquaculture Enterprise Zone.</section>
     </section>

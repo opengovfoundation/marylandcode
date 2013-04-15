@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">A person who is an appropriate person to make an indorsement or originate an instruction may demand that the issuer not register transfer of a security by communicating to the issuer a notification that identifies the registered owner and the issue of which the security is a part and provides an address for communications directed to the person making the demand. The demand is effective only if it is received by the issuer at a time and in a manner affording the issuer reasonable opportunity to act on it.</section>
     <section prefix="(b)">If a certificated security in registered form is presented to an issuer with a request to register transfer or an instruction is presented to an issuer with a request to register transfer of an uncertificated security after a demand that the issuer not register transfer has become effective, the issuer shall promptly communicate to (i) the person who initiated the demand at the address provided in the demand and (ii) the person who presented the security for registration of transfer or initiated the instruction requesting registration of transfer a notification stating that:<section prefix="(1)">The certificated security has been presented for registration of transfer or instruction for registration of transfer of uncertificated security has been received;</section><section prefix="(2)">A demand that the issuer not register transfer had previously been received; and</section><section prefix="(3)">The issuer will withhold registration of transfer for a period of time stated in the notification in order to provide the person who initiated the demand an opportunity to obtain legal process or an indemnity bond.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-106" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">No trustee of a deed of trust may charge, demand, or receive any money or any other item of value exceeding $15 for the partial or complete release of the deed of trust unless the fee is specified in the instrument. Any person who violates this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $100.</section>
     <section prefix="(b)">
@@ -21,7 +21,7 @@
       <section prefix="(2)">Except as otherwise provided by law, if an action has not been brought to enforce the lien of a mortgage or deed of trust within the time provided in paragraph (1) of this subsection and, notwithstanding any other right or remedy available either at law or equity, the lien created by the mortgage or deed of trust shall terminate, no longer be enforceable against the property, and shall be extinguished as a lien against the property.</section>
       <section prefix="(3)">
         <section prefix="(i)">A continuation statement may be filed within 1 year before the expiration of the applicable time period under paragraph (1) of this subsection.</section>
-        <section prefix="(ii)">A continuation statement shall:</section>
+        <section prefix="(ii)">A continuation statement shall:<section prefix="1.">Be signed by:</section><section prefix="2.">Identify the original instrument by:</section><section prefix="3.">State that the purpose of the continuation statement is to continue the effectiveness of the original instrument.</section></section>
         <section prefix="(iii)">Upon timely recordation in the land records where the original instrument was recorded of a continuation statement under this subparagraph, the effectiveness of the original instrument shall be continued for 12 years after the day on which the continuation statement is recorded.</section>
         <section prefix="(iv)">A continuation statement is effective if it substantially complies with the requirements of subparagraph (ii) of this paragraph.</section>
       </section>

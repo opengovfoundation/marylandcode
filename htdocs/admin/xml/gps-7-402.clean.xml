@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-402" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-7-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">A person may not willfully interfere with or obstruct a firefighter, a rescue squad member, or emergency services personnel while the firefighter, rescue squad member, or emergency services personnel:<section prefix="(1)">is fighting a fire, performing emergency services, or proceeding to a fire or other emergency; or</section><section prefix="(2)">is dispatched on a call for emergency services.</section></section>
     <section prefix="(b)">A person may not, with fraudulent design on person or property, falsely represent that the person is a member of a career or volunteer fire department, rescue squad, or emergency services unit of the State or a county or municipal corporation of the State.</section>

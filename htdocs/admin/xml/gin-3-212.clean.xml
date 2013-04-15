@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-212" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">The attorney in fact of a reciprocal insurer may be an individual, firm, or corporation.</section>
     <section prefix="(b)">The attorney in fact of a foreign or alien reciprocal insurer that is authorized to engage in the insurance business in the State is not considered to be doing business in the State within the meaning of any law of the State that applies to foreign firms or corporations merely because the attorney in fact performs its duties as attorney in fact with respect to the reciprocal insurer's transactions in the State.</section>

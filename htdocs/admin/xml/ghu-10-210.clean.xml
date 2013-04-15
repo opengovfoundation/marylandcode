@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-210" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">The Secretary may impose a civil money penalty against a provider of congregate housing services for a violation:<section prefix="(1)">that results in conditions presenting an imminent danger or a substantial probability of death or serious physical harm to a resident of congregate housing;</section><section prefix="(2)">of a resident's rights as specified in regulations adopted under this title; or</section><section prefix="(3)">of a State or local fire safety law.</section></section>
     <section prefix="(b)">Before imposing a penalty under this section, the Department shall send a notice of violation to the provider that states:<section prefix="(1)">when the provider must submit a plan of correction that is acceptable to the Department;</section><section prefix="(2)">when each identified violation must be substantially corrected; and</section><section prefix="(3)">that a civil money penalty may be imposed for failure to:<section prefix="(i)">submit an acceptable plan of correction; or</section><section prefix="(ii)">correct an identified violation.</section></section></section>
@@ -19,7 +19,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">The Secretary shall provide written notice of a civil money penalty to the provider.</section>
-      <section prefix="(2)">The notice shall:<section prefix="(i)">be served on the provider by certified mail; and</section><section prefix="(ii)">state:</section></section>
+      <section prefix="(2)">The notice shall:<section prefix="(i)">be served on the provider by certified mail; and</section><section prefix="(ii)">state:<section prefix="1.">each penalty imposed;</section><section prefix="2.">the regulation or provision violated;</section><section prefix="3.">the amount of the penalty;</section><section prefix="4.">the provider's right to request a reduction of the penalty; and</section><section prefix="5.">how to file an administrative appeal of the penalty.</section></section></section>
     </section>
     <section prefix="(f)">
       <section prefix="(1)">A provider of congregate housing services may request a reduction of a civil money penalty.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-402" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-8-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Unless issued under &#xA7; 8-401(e) of this subtitle, an order issued under this subtitle may not become effective until the savings and loan association or related entity named in the order has been given an opportunity for a hearing before the Division Director or the Division Director's designee.</section>
     <section prefix="(b)">If the savings and loan association or related entity does not request a hearing within the time specified in &#xA7; 8-401(b)(4) of this subtitle or does not appear at the scheduled hearing, the order becomes final.</section>

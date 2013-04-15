@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-10-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in this section, the local collecting agent shall remit all license fees collected under this article to the board of county commissioners or county fiscal officer for the county, or to the Mayor and City Council of Baltimore, as the case may be.</section>
@@ -16,8 +16,8 @@
       <section prefix="(1)">This subsection applies only in Allegany County.</section>
       <section prefix="(2)">The Director of Finance is the local collecting agent. The Director of Finance shall:<section prefix="(i)">Credit 5 percent of the license fees received for licenses that are issued to a place of business located in a municipal corporation to the general fund of the county to cover administrative costs; and</section><section prefix="(ii)">Pay 50 percent of the remaining license fees received for licenses that are issued to a place of business located in a municipal corporation in the county to the municipal corporation.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">The chairman of the Board of License Commissioners shall submit to the Director of Finance the total amount of the Board's budget, including:</section>
-        <section prefix="(ii)">From the receipts, the County Commissioners shall pay:</section>
+        <section prefix="(i)">The chairman of the Board of License Commissioners shall submit to the Director of Finance the total amount of the Board's budget, including:<section prefix="1.">Salaries for the Board members;</section><section prefix="2.">Salaries for such other employees as the Board deems necessary; and</section><section prefix="3.">All other necessary expenses.</section></section>
+        <section prefix="(ii)">From the receipts, the County Commissioners shall pay:<section prefix="1.">The salaries of the Board of License Commissioners and its employees once every 2 weeks; and</section><section prefix="2.">The expenses of the Board of License Commissioners upon draft properly signed by the chairman of the Board.</section></section>
         <section prefix="(iii)">The salaries and expenses of the employees of the Board shall be subject to the approval of the County Commissioners.</section>
       </section>
     </section>

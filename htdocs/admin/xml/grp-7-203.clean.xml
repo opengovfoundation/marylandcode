@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-203" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-203</section_number>
-  <catch_line/>
+  <catch_line>Any deed retaining a valid vendor's lien may provide that in the event of a sale, any note or other ...</catch_line>
+  <order_by>203</order_by>
   <text>Any deed retaining a valid vendor's lien may provide that in the event of a sale, any note or other instrument of indebtedness mentioned in the deed shall be paid and satisfied in full in the order of maturity. However, if any note or instrument of indebtedness is paid or satisfied, no further proceedings may be had in reference to or satisfaction of it, but the funds arising from the sale shall be distributed as if the note already paid or satisfied had never been given. If the lien is duly released of record after the date of the maturity of the note or other instrument of indebtedness mentioned in the deed, the note or other instrument of indebtedness conclusively is presumed to have been paid as far as any lien on the property granted by the deed is concerned.</text>
 </law>

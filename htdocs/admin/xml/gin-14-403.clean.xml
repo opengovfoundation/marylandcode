@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-403" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-403</section_number>
-  <catch_line/>
+  <catch_line>A person may not establish, operate, or administer a dental plan organization or sell, offer to sell...</catch_line>
+  <order_by>403</order_by>
   <text>A person may not establish, operate, or administer a dental plan organization or sell, offer to sell, solicit offers to purchase, or receive advance or periodic consideration in conjunction with a dental plan, unless the person has a certificate of authority issued by the Commissioner under this subtitle.</text>
 </law>

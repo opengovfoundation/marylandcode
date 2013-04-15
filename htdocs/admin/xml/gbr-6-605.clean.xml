@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-605" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-605</section_number>
-  <catch_line/>
+  <catch_line>A fund-raising counsel may not receive compensation from a charitable organization if the compensati...</catch_line>
+  <order_by>605</order_by>
   <text>A fund-raising counsel may not receive compensation from a charitable organization if the compensation depends wholly or partly on the number or value of charitable contributions that result from the effort of the fund-raising counsel.</text>
 </law>

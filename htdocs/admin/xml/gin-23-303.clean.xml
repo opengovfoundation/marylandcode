@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-303" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">The maximum charges stated in &#xA7;&#xA7; 23-304 and 23-305 of this subtitle shall include all interest, fees, and charges incident to the premium finance agreement and the resulting extension of credit.</section>
     <section prefix="(b)">Notwithstanding subsection (a) of this section, delinquency, collection, cancellation, reinstatement, and electronic payment fee charges may be made in accordance with the limitations of &#xA7;&#xA7; 23-306, 23-307, and 23-307.1 of this subtitle.</section>

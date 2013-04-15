@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1503" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1503</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a dealer, manufacturer, factory branch, or distributor is required under a judgment, decree, arbitration award, or settlement agreement to accept, or by voluntary agreement accepts, return of a motor vehicle from a consumer, the consumer shall be entitled to recover from the Motor Vehicle Administration the excise taxes originally paid by the consumer, subject to subsection (b) of this section.</section>
       <section prefix="(2)">
         <section prefix="(i)">If a dealer, manufacturer, factory branch, or distributor replaces a motor vehicle with a comparable motor vehicle under &#xA7; 14-1502(c)(1)(i) of this subtitle, the Motor Vehicle Administration shall allow a credit against the excise tax imposed for the replacement vehicle in the amount of the excise taxes originally paid by the consumer for the returned vehicle, subject to subsection (b) of this section.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">If the excise tax on the replacement vehicle exceeds the credit allowed under subparagraph (i) of this paragraph, the dealer shall collect only that portion of excise tax due; or</section>
+          <section prefix="2.">If the excise tax on the vehicle being replaced exceeds the excise tax on the replacement vehicle, the consumer shall be entitled to recover from the Motor Vehicle Administration the excess of the excise tax paid.</section>
+        </section>
       </section>
     </section>
     <section prefix="(b)">The excise taxes that a consumer is entitled to recover under this section shall be calculated based on the amount of the purchase price or any portion of the purchase price of the motor vehicle that the dealer, manufacturer, factory branch, or distributor refunds to the consumer.</section>

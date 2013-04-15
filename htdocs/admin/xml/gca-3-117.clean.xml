@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-117" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">In this section, "foreign corporation" means a foreign corporation as defined in &#xA7; 1-101 of this article.</section>
     <section prefix="(b)">If a foreign corporation which owns property, rights, privileges, franchises, or other assets located in this State is a party to a consolidation or merger in which another foreign corporation is the successor, the transfer to, vesting in, or devolution on the successor of the property, rights, privileges, franchises, or other assets of the nonsurviving foreign corporation is effective as provided by the laws of the places which govern the consolidation or merger.</section>

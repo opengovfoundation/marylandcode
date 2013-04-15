@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-209.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-6-209.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209.1</order_by>
   <text>
     <section prefix="(a)">A distributor shall maintain, for at least 2 years, a record of all sales or distributions of ammonium nitrate fertilizer including:<section prefix="(1)">The date of sale or delivery of the fertilizer;</section><section prefix="(2)">The name, address, and copy of the driver's license or picture identification card of the buyer or recipient;</section><section prefix="(3)">The quantity of fertilizer sold or delivered; and</section><section prefix="(4)">Any other information required by the Secretary.</section></section>
     <section prefix="(b)">Records maintained pursuant to subsection (a) of this section shall be made available to the Secretary upon request.</section>

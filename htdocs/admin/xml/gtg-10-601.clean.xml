@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-601" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-601</section_number>
-  <catch_line/>
+  <catch_line>Except as provided in &#xA7; 10-105(d) of this title and except as otherwise provided in this subtitle, ...</catch_line>
+  <order_by>601</order_by>
   <text>Except as provided in &#xA7; 10-105(d) of this title and except as otherwise provided in this subtitle, a person shall compute the State income tax by applying the tax rates in &#xA7; 10-105 of this title to Maryland taxable income.</text>
 </law>

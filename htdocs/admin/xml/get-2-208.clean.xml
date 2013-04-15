@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-208" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-2-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">In addition to other powers and duties provided for in this title, each register has the additional powers and duties specified in this section.</section>
     <section prefix="(b)">He shall appoint deputies and clerks required for the efficient operation of his office. Appointments and compensation of deputies and clerks shall be approved by the Comptroller. When qualified, every deputy shall have the power and authority to act in the place of the register and every act performed by a deputy shall have the force and effect as if performed by the register.</section>

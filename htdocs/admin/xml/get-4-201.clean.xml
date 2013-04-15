@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-201" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-4-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">A will may be deposited by the testator, or by his agent, for safekeeping with the register of the county where the testator resides. The register shall give a receipt for it, upon the payment of the required fee.</section>
     <section prefix="(b)">The will shall be enclosed in a sealed wrapper, which shall have endorsed on it "Will of," followed by the name of the testator, his address, and his Social Security number, if available. The register shall endorse on it the day when and the person from whom it was received. The will is not to be delivered or opened except as provided in this subtitle.</section>

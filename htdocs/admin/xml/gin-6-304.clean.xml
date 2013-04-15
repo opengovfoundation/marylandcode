@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-304" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-6-304</section_number>
-  <catch_line/>
+  <catch_line>All taxes imposed by this subtitle that are not paid within 30 days after the Commissioner issues th...</catch_line>
+  <order_by>304</order_by>
   <text>All taxes imposed by this subtitle that are not paid within 30 days after the Commissioner issues the notice of the amount due are subject to a penalty of 5% and interest at the rate determined under &#xA7; 13-604 of the Tax - General Article for each month after the date of the notice that the tax was due.</text>
 </law>

@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-306" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-13-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">The Board shall issue an appropriate license to any applicant who:<section prefix="(1)">Meets the requirements of this title;</section><section prefix="(2)">Pays the required fee; and</section><section prefix="(3)">Provides evidence of any performance bond and contractor's liability insurance that the Board may require.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">In accordance with its rules and regulations, the Board shall issue well driller licenses and restricted licenses.</section>
       <section prefix="(2)">
-        <section prefix="(i)">There are 3 categories of well driller licenses:</section>
+        <section prefix="(i)">There are 3 categories of well driller licenses:<section prefix="1.">Well driller general;</section><section prefix="2.">Well driller-geotechnical; and</section><section prefix="3.">Well driller-water supply.</section></section>
         <section prefix="(ii)">A well driller license may be limited to the drilling of wells for particular purposes.</section>
       </section>
       <section prefix="(3)">There are 3 categories of restricted licenses:<section prefix="(i)">Water conditioner installer;</section><section prefix="(ii)">Water pump installer; and</section><section prefix="(iii)">Well rig operator.</section></section>

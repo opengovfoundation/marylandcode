@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-431" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-431</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>431</order_by>
   <text>
     <section prefix="(a)">There is a Stem Cell Research Commission.</section>
     <section prefix="(b)">The Commission is an independent commission that functions in the Corporation.</section>

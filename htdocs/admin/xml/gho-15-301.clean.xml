@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-301" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-15-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">Nothing in this title may be construed to authorize a physician assistant to practice independent of a primary or alternate supervising physician.</section>
     <section prefix="(b)">A license issued to a physician assistant shall limit the physician assistant's scope of practice to medical acts:<section prefix="(1)">Delegated by the primary or alternate supervising physician;</section><section prefix="(2)">Appropriate to the education, training, and experience of the physician assistant;</section><section prefix="(3)">Customary to the practice of the primary or alternate supervising physician; and</section><section prefix="(4)">Consistent with the delegation agreement filed with the Board.</section></section>

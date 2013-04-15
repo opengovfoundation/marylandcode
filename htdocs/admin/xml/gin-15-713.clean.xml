@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-713" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-713</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>713</order_by>
   <text>
     <section prefix="(a)">This section applies to individual, group, or blanket health insurance policies and contracts delivered or issued for delivery in the State by insurers, nonprofit health service plans, and health maintenance organizations.</section>
     <section prefix="(b)">Notwithstanding any other provision of an individual, group, or blanket health insurance policy or contract subject to this section, if the policy or contract provides for reimbursement for a service that is within the lawful scope of practice of a licensed podiatrist, the insured or any other person covered by or entitled to reimbursement under the policy or contract is entitled to the same amount of reimbursement for the service regardless of whether the service is performed by a physician or licensed podiatrist.</section>

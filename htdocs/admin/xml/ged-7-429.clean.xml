@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-429" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-429</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>429</order_by>
   <text>
     <section prefix="(a)">This section applies only in Howard County.</section>
     <section prefix="(b)">The county board shall cause to be conducted a test and inspection of the water for bacteria in each public school in the county that is served by well water.</section>

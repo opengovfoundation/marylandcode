@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-103.6" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-2-103.6</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103.6</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -15,7 +15,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">There is a job access program to provide grants to transportation providers for job access projects.</section>
-      <section prefix="(2)">Subject to the limitations provided in subsection (c) of this section and subject to the availability of funds in the annual State budget, the Secretary shall make grants to a transportation provider that:<section prefix="(i)">Operates a job access project that:</section><section prefix="(ii)">Files a written application with the Department in the form and detail the Secretary requires; and</section><section prefix="(iii)">Receives approval from the Secretary.</section></section>
+      <section prefix="(2)">Subject to the limitations provided in subsection (c) of this section and subject to the availability of funds in the annual State budget, the Secretary shall make grants to a transportation provider that:<section prefix="(i)">Operates a job access project that:<section prefix="1.">Takes into account the transportation needs of low-income workers within the area of service defined by the transportation provider; and</section><section prefix="2.">Is not restricted to clients of social service agencies;</section></section><section prefix="(ii)">Files a written application with the Department in the form and detail the Secretary requires; and</section><section prefix="(iii)">Receives approval from the Secretary.</section></section>
       <section prefix="(3)">Before approving an application from a transportation provider, the Secretary shall consult with the local department of social services.</section>
       <section prefix="(4)">When allocating funds under the job access program, the Secretary shall give priority to the areas of the State that the Secretary determines are most in need of a job access project.</section>
     </section>

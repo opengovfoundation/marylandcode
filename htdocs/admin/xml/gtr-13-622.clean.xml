@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-622" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-622</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>622</order_by>
   <text>
     <section prefix="(a)">If an automotive dismantler and recycler or scrap processor licensed under Title 15 of this article owns a vehicle that is mainly used in his business and that otherwise is required to be registered under this title, he may apply to the Administration for the issuance of as many special, recycler registration plates as the Administration authorizes.</section>
     <section prefix="(b)">A licensed automotive dismantler and recycler or scrap processor may drive, under any one recycler registration plate issued to him:<section prefix="(1)">Any used vehicle owned by him and mainly used in his business; and</section><section prefix="(2)">Any vehicle in his possession, but not owned by him, if he has the consent of the owner of the vehicle to this use.</section></section>

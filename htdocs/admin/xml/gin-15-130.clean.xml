@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-130" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-130</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>130</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This section applies to:<section prefix="(i)">insurers and nonprofit health service plans that provide coverage for prescription drugs on an outpatient basis under health insurance policies or contracts that are issued or delivered in the State;</section><section prefix="(ii)">health maintenance organizations that provide coverage for prescription drugs on an outpatient basis under contracts that are issued or delivered in the State;</section><section prefix="(iii)">managed care organizations, as defined in &#xA7; 15-101 of the Health - General Article, that provide coverage for prescription drugs on an outpatient basis under contracts that are issued or delivered in the State; and</section><section prefix="(iv)">to the extent consistent with State and federal law, third party administrators.</section></section>

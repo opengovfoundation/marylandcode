@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="6.5-305" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-6.5-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">The Secretary of the Department may revoke or suspend a license to operate a hospital in accordance with &#xA7; 19-327 of the Health - General Article if an acquisition occurs without the approval of the Attorney General.</section>
     <section prefix="(b)">An acquisition of a nonprofit health service plan or a nonprofit health maintenance organization may not occur without the approval of the Administration.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-1906.1" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-1906.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1906.1</order_by>
   <text>
     <section prefix="(a)">If the current prepaid contract obligations of the Trust exceed the market value of Trust assets, at the request of the Board the Governor shall include in the annual budget bill submitted to the General Assembly an appropriation in the amount determined under subsection (b) of this section.</section>
     <section prefix="(b)">The appropriation to be included in the budget bill under subsection (a) of this section shall equal the difference between the current prepaid contract obligations and the market value of Trust assets.</section>

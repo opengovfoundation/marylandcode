@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1104" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">There must be a carbon monoxide alarm installed in a central location outside of each sleeping area within a dwelling subject to this subtitle.</section>
     <section prefix="(b)">Notwithstanding subsection (a) of this section, if there is a centralized alarm system that is capable of emitting a distinct and audible sound to warn all occupants, the owner of a dwelling may install a carbon monoxide alarm within 25 feet of any carbon monoxide-producing fixture and equipment.</section>

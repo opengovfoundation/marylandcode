@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c3" order_by="" level="1"/>
-    <unit label="chapter" identifier="10" order_by="" level="2"/>
+    <unit label="article" identifier="c3" order_by="" level="1">III - Legislative Department</unit>
   </structure>
   <section_number>c3-10</section_number>
-  <catch_line/>
+  <catch_line>No member of Congress, or person holding any civil, or military office under the United States, shal...</catch_line>
+  <order_by>10</order_by>
   <text>No member of Congress, or person holding any civil, or military office under the United States, shall be eligible as a Senator, or Delegate; and if any person shall after his election as Senator, or Delegate, be elected to Congress, or be appointed to any office, civil, or military, under the Government of the United States, his acceptance thereof, shall vacate his seat; except that a Senator or Delegate may be a member of a reserve component of the armed forces of the United States or a member of the militia of the United States or this State.</text>
 </law>

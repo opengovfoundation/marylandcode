@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-401" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-6-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Eligible economic development project" means an economic development project that:<section prefix="(1)">establishes or expands a business facility within a qualified distressed county; and</section><section prefix="(2)">is approved for a project tax credit or a start-up tax credit in accordance with this subtitle.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">"Eligible project cost" means the cost and expense a qualified business entity incurs to acquire, construct, rehabilitate, install, or equip an eligible economic development project.</section>
-      <section prefix="(2)">"Eligible project cost" includes:<section prefix="(i)">the cost of:</section><section prefix="(ii)">the interest cost before and during the acquisition, construction, installation, and equipping of the project, and for up to 2 years after project completion; and</section><section prefix="(iii)">legal, accounting, financial, printing, recording, filing, and other fees and expenses incurred to finance the project.</section></section>
+      <section prefix="(2)">"Eligible project cost" includes:<section prefix="(i)">the cost of:<section prefix="1.">obligations for labor and payments made to contractors, subcontractors, builders, and suppliers;</section><section prefix="2.">acquiring land, rights in land, and costs incidental to acquiring land or rights in land;</section><section prefix="3.">contract bonds and insurance needed during the acquisition, construction, or installation of the project;</section><section prefix="4.">test borings, surveys, estimates, plans, specifications, preliminary investigations, environmental mitigation, supervision of construction, and other architectural and engineering services;</section><section prefix="5.">performing duties required by or consequent to the acquisition, construction, and installation of the project;</section><section prefix="6.">installing water, sewer, sewer treatment, gas, electricity, communications, railroads, and similar utilities; and</section><section prefix="7.">bond insurance, letters of credit, or other forms of credit enhancement or liquidity facilities;</section></section><section prefix="(ii)">the interest cost before and during the acquisition, construction, installation, and equipping of the project, and for up to 2 years after project completion; and</section><section prefix="(iii)">legal, accounting, financial, printing, recording, filing, and other fees and expenses incurred to finance the project.</section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">"Eligible start-up cost" means a qualified business entity's cost to furnish and equip a new location for ordinary business functions.</section>

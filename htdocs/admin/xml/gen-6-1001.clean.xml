@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-1001" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Abatement" means a set of measures that eliminate or reduce lead-based paint hazards in residential, public, or commercial buildings, bridges, or other structures or superstructures in accordance with standards established by the Department which may include:<section prefix="(1)">The removal of lead-based paint and lead-contaminated dust, the containment or encapsulation of lead-based paint, the replacement or demolition of lead-painted surfaces or fixtures, and the removal or covering of lead-contaminated soil;</section><section prefix="(2)">All preparation, cleanup, disposal, and postabatement clearance testing activities associated with these measures; and</section><section prefix="(3)">The renovation, repair, and painting of a lead-containing substance in a residential, public, or commercial building built before 1978.</section></section>

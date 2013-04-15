@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-403" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-403</section_number>
-  <catch_line/>
+  <catch_line>Each reseller that provides telecommunications service shall obtain authorization from the Commissio...</catch_line>
+  <order_by>403</order_by>
   <text>Each reseller that provides telecommunications service shall obtain authorization from the Commission in a manner determined by the Commission to provide those services in the State.</text>
 </law>

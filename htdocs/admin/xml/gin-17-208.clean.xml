@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-208" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the requirements of this section, the lives of a group of individuals may be insured under a policy issued to a volunteer fire, rescue squad, or ambulance service organization to cover the registered members of the organization for the benefit of persons other than the organization.</section>

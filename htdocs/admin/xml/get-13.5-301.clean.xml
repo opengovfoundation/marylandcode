@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13.5-301" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13.5-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">Following the appointment of a guardian or conservator, the guardian or conservator may petition the court to transfer the guardianship or conservatorship to another state.</section>
     <section prefix="(b)">Notice of a petition to transfer a guardianship or conservatorship under subsection (a) of this section shall be given by the petitioner to those persons that would be entitled to notice of a petition in this State for the appointment of a guardian or conservator.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-106" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-24-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">There is a Lida Lee Tall Learning Resources Center.</section>
     <section prefix="(b)">The purpose of the Lida Lee Tall Learning Resources Center is to provide an accessible laboratory environment for:<section prefix="(1)">Training students from public institutions of higher education to be teachers in elementary schools by providing students the opportunity for early field experience;</section><section prefix="(2)">Identifying and addressing appropriate early childhood and elementary education research needs and priorities in this State;</section><section prefix="(3)">Providing opportunities for demonstration and observation of effective teaching practices; and</section><section prefix="(4)">Providing in-service and staff development opportunities for faculty from teacher education programs, prospective principals and experienced teachers in Maryland elementary schools.</section></section>

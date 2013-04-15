@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-704.2" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-704.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704.2</order_by>
   <text>
     <section prefix="(a)">On written request by a federal agency operating a federal witness security program established under 18 U.S.C. 3521, the registration requirement for a sex offender under the protection of a federal witness security program is waived and the person under protection is exempt from registration.</section>
     <section prefix="(b)">On written request by a nonfederal agency that operates a witness protection program comparable to a federal program established under 18 U.S.C. 3521, the registration requirement for a sex offender under the protection of a witness protection program is waived and the person under protection is exempt from registration.</section>

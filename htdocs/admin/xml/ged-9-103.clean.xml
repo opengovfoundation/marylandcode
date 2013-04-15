@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-103" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-9-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The primary public chartering authority for the granting of a charter shall be a county board of education.</section>
     <section prefix="(b)">The secondary public chartering authority for the granting of a charter shall be the State Board acting in its appeal review capacity or as the public chartering authority for a restructured school in accordance with &#xA7; 9-104(a) of this title.</section>

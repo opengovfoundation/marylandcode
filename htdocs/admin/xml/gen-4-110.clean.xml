@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-110" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">If the Department finds that earth moving activity requiring the approval of the appropriate approval authority is being carried on in violation of &#xA7; 4-105 of this subtitle either because it is being undertaken:<section prefix="(1)">Without any such approval; or</section><section prefix="(2)">Not substantially in accordance with the approved plan or any written recommendations of the approval authority regarding control of erosion and siltation and elimination of pollution, the Department may issue an order requiring the person conducting the work to stop all work, except that work necessary to implement the recommendations of the approval authority, until such time as approval of the activity has been obtained from the approval authority and the sediment control measures required by the authority have been implemented.</section></section>
     <section prefix="(b)">In order to request that a stop work order be lifted, the person to whom the stop work order has been issued shall notify the Department when the required approval has been received and the required sediment control measures have been implemented.</section>

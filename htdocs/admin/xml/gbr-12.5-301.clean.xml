@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12.5-301" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12.5-301</section_number>
-  <catch_line/>
+  <catch_line>Each licensed locksmith shall include on each invoice or receipt for services the following informat...</catch_line>
+  <order_by>301</order_by>
   <text>Each licensed locksmith shall include on each invoice or receipt for services the following information regarding each service call:<section prefix=""><section prefix="(1)">the address where the services were provided by the locksmith;</section><section prefix="(2)">the type of lock being serviced;</section><section prefix="(3)">the vehicle identification number, if applicable;</section><section prefix="(4)">the quoted cost of the service provided to the customer prior to agreeing to provide the service; and</section><section prefix="(5)">the actual cost of the service paid by the customer.</section></section></text>
 </law>

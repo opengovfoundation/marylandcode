@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-907" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-907</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>907</order_by>
   <text>
     <section prefix="(a)">If credit under a revolving credit plan is offered and extended by a credit grantor which is a depository institution in connection with a demand deposit account or other transaction account maintained by the borrower with the credit grantor under an agreement or arrangement where the credit grantor agrees to honor checks, drafts, or other debits to the account by making extensions of credit to the borrower under a revolving credit plan, any charges customarily imposed by the credit grantor under the terms governing the account in the absence of any associated revolving credit plan may continue to be imposed on the account without specific reference or incorporation in the agreement governing the revolving credit plan.</section>
     <section prefix="(b)">The account charges referred to in subsection (a) of this section include:<section prefix="(1)">Check charges;</section><section prefix="(2)">Monthly maintenance charges;</section><section prefix="(3)">Checkbook charges;</section><section prefix="(4)">Charges for checks drawn in excess of an available line of credit; or</section><section prefix="(5)">Any similar charges.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-436" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-436</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>436</order_by>
   <text>
     <section prefix="(a)">The Commission shall contract with an independent scientific peer review committee composed of scientifically recognized experts in the field of stem cell research.</section>
     <section prefix="(b)">The committee shall:<section prefix="(1)">review, evaluate, rank, and rate research proposals for State-funded stem cell research:<section prefix="(i)">based on the procedures and guidelines established by the Commission; and</section><section prefix="(ii)">in a manner that gives due consideration to the scientific, medical, and ethical implications of the research; and</section></section><section prefix="(2)">make recommendations to the Commission, based on the rankings and ratings awarded to research proposals by the committee, for the award and disbursement of grants and loans under the Fund.</section></section>

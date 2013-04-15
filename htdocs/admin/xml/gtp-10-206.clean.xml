@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-206" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-10-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">If a corporation submits articles of dissolution to the Department, the Department shall immediately certify to the collector the assessment of any personal property of the corporation that is subject to property tax on the most recent date of finality.</section>
     <section prefix="(b)">The collector shall send to the corporation a personal property tax bill that is calculated by applying the current property tax rates to the assessment that is determined under subsection (a) of this section.</section>

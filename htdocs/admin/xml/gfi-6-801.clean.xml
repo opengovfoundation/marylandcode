@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-801" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">Any State credit union may convert into a federal credit union as provided by federal law and as provided in this section.</section>
     <section prefix="(b)">A majority of the board of a credit union proposing to convert shall:<section prefix="(1)">Adopt a resolution that declares that the conversion is advisable;</section><section prefix="(2)">Set a date for a vote on the proposed conversion by the members of the credit union at an annual or special meeting of the members or by mail ballot to be filed on or before that date;</section><section prefix="(3)">Comply with federal law regarding conversion; and</section><section prefix="(4)">File the required conversion application with the Commissioner.</section></section>

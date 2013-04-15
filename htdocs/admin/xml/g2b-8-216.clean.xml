@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-216" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-8-216</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>216</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subsection "place of business" does not include:<section prefix="(i)">A country club; or</section><section prefix="(ii)">A restaurant located within the country inn zone of Montgomery County where alcoholic beverages are sold for consumption on the premises only; provided that a maximum of 2 (two) such alcoholic beverages licenses may be issued in any election district identified in paragraph (2) of this subsection.</section></section>
@@ -13,8 +13,18 @@
         <section prefix="(i)">Except as provided in subparagraphs (ii), (iii), (iv), (v), and (vi) of this paragraph and in subsection (f) of this section, in Montgomery County, a license for the sale of alcoholic beverages authorized by this article may not be issued for any place of business located in Damascus (12th election district), and in the towns of Barnesville, Kensington, Laytonsville, Washington Grove and the City of Takoma Park.</section>
         <section prefix="(ii)">In the town of Barnesville, the Montgomery County Board of License Commissioners may issue a special 7-day on-sale beer, wine and liquor license to any bona fide religious, fraternal, civic, or charitable organization.</section>
         <section prefix="(iii)">In the town of Kensington, the Montgomery County Board of License Commissioners may issue a special 2-day on-sale beer and wine license or a special 2-day on-sale beer, wine and liquor license to any bona fide religious, fraternal, civic, or charitable organization holding an event on municipal property located at 3710 Mitchell Street, Kensington, Maryland.</section>
-        <section prefix="(iv)"/>
-        <section prefix="(v)"/>
+        <section prefix="(iv)">
+          <section prefix="1.">In the town of Kensington, the Montgomery County Board of License Commissioners may issue a special B-K beer and wine license or a special B-K beer, wine and liquor license for use on the premises of a restaurant located in the following commercial areas:</section>
+          <section prefix="2.">A special B-K beer, wine and liquor license or a special B-K beer and wine license authorizes the holder to keep for sale and sell alcoholic beverages for consumption on the premises only.</section>
+          <section prefix="3.">A licensee shall maintain average daily receipts from the sale of food, not including carryout food, of at least 50% of the overall average daily receipts.</section>
+          <section prefix="4.">In addition to the restrictions in subsubparagraphs 2 and 3 of this subparagraph, the holder of a special B-K beer and wine license or a special B-K beer, wine and liquor license in the commercial areas specified in subsubparagraph 1I, J, K, and L of this subparagraph may not serve alcoholic beverages after 11 p.m.</section>
+        </section>
+        <section prefix="(v)">
+          <section prefix="1.">In the town of Kensington, the Montgomery County Board of License Commissioners may issue not more than three Class A (off-sale) beer and light wine licenses for use in the commercial areas specified in subparagraph (iv)1 of this paragraph.</section>
+          <section prefix="2.">A Class A beer and light wine license authorizes the holder to keep for sale and sell beer or light wine for consumption off the premises  7 days a week, from 10 a.m. to 8 p.m. daily.</section>
+          <section prefix="3.">A holder of a Class A beer and light wine license may not:</section>
+          <section prefix="4.">The annual license fee is $250.</section>
+        </section>
         <section prefix="(vi)">In Damascus (12th election district), the Montgomery County Board of License Commissioners may issue a special 7-day Class C on-sale beer, wine and liquor license to any bona fide volunteer fire department.</section>
       </section>
       <section prefix="(3)">This subsection does not prohibit the issuance of an on-sale license for the sale of beer only during daylight hours only for any restaurant or snack bar or similar facility located upon land owned by the Montgomery County Revenue Authority and operated by the Revenue Authority or others in connection with the operation by the Revenue Authority of a public golf course.</section>

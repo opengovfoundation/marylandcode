@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-111" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">A power of attorney is effective when executed, unless the principal provides in the power of attorney that it becomes effective at a future date or on the occurrence of a future event or contingency.</section>
     <section prefix="(b)">If a power of attorney becomes effective on the occurrence of a future event or contingency, the principal, in the power of attorney, may authorize one or more persons to determine in a writing or other record that the event or contingency has occurred.</section>

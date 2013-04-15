@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-202" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-9-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The State Board shall certify the content and the arrangement of each ballot to be used in an election that is subject to this article.</section>
     <section prefix="(b)">Each local board shall place questions, names of candidates, and other material on the ballot in that county in accordance with the content and arrangement prescribed by the State Board.</section>

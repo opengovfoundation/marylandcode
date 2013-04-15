@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">The provisions of this section apply to a civil action in:<section prefix="(1)">The District Court; or</section><section prefix="(2)">A circuit court if the amount in controversy in the action in the circuit court does not exceed the amount specified in &#xA7; 4-401 of this article for that type of action.</section></section>
     <section prefix="(b)">
@@ -13,7 +13,7 @@
         <section prefix="(i)">Subject to the provisions of this section, a paid bill for goods or services is admissible without the testimony of the provider of the goods or services as evidence of the authenticity of the bill for goods or services provided and the fairness and reasonableness of the charges of the provider of the goods or services.</section>
         <section prefix="(ii)">A finder of fact may attach whatever weight to a paid bill that the finder of fact deems appropriate.</section>
       </section>
-      <section prefix="(2)">The bill shall be admitted on testimony, by the party or any other person with personal knowledge:<section prefix="(i)">Identifying the original bill or an authenticated copy; and</section><section prefix="(ii)"/></section>
+      <section prefix="(2)">The bill shall be admitted on testimony, by the party or any other person with personal knowledge:<section prefix="(i)">Identifying the original bill or an authenticated copy; and</section><section prefix="(ii)"><section prefix="1.">Identifying the provider of the goods or services;</section><section prefix="2.">Explaining the circumstances surrounding the receipt of the bill;</section><section prefix="3.">Describing the goods or services provided;</section><section prefix="4.">Stating that the goods or services were provided in connection with the event giving rise to the action; and</section><section prefix="5.">Stating that the bill was paid.</section></section></section>
     </section>
     <section prefix="(c)">
       <section prefix="(1)">Subsection (b) of this section applies only if, at least 60 days before the beginning of the trial, the party who intends to introduce the bill:<section prefix="(i)">Serves notice of the party's intent to introduce the bill without the support of the testimony of the provider of the goods or services that were billed, a list that identifies each bill, and a copy of the bill on all other parties as provided under Maryland Rule 1-321; and</section><section prefix="(ii)">Files notice of service and the list that identifies each bill with the court.</section></section>

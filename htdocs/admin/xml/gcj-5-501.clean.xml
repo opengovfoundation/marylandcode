@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-501" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-501</section_number>
-  <catch_line/>
+  <catch_line>A civil or criminal action may not be brought against a city or town councilman, county commissioner...</catch_line>
+  <order_by>501</order_by>
   <text>A civil or criminal action may not be brought against a city or town councilman, county commissioner, county councilman, or similar official by whatever name known, for words spoken at a meeting of the council or board of commissioners or at a meeting of a committee or subcommittee thereof.</text>
 </law>

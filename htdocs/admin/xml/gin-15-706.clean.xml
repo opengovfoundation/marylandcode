@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-706" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to subsection (c) of this section, a policy, contract, or certificate described in &#xA7; 15-701(a) of this subtitle may provide for reimbursement under &#xA7; 15-701(a) of this subtitle for usual, customary, and reasonable charges for services rendered by a dietitian or nutritionist licensed under the Health Occupations Article if a licensed physician determines that the services are medically necessary for the treatment of cardiovascular disease, diabetes, malnutrition, cancer, cerebral vascular disease, or kidney disease.</section>

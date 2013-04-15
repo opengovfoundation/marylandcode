@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-210" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-16-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">An individual may apply for services of the Office as an indigent individual, if the individual states in writing under oath or affirmation that the individual, without undue financial hardship, cannot provide the full payment of an attorney and all other necessary expenses of representation in proceedings listed under &#xA7; 16-204(b) of this subtitle.</section>
     <section prefix="(b)">For an individual whose assets and net annual income are less than 100 percent of the federal poverty guidelines, eligibility for services of the Office may be determined without an assessment regarding the need of the applicant.</section>
@@ -21,7 +21,7 @@
       <section prefix="(2)">The Office may:<section prefix="(i)">require an applicant to execute and deliver written requests or authorizations that are necessary under law to provide the Office with access to confidential records of public or private sources that are needed to evaluate eligibility; and</section><section prefix="(ii)">on request, obtain information without charge from a public record office or other unit of the State, county, or municipal corporation.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The Office may submit requests to the Department of Labor, Licensing, and Regulation and the Comptroller for information regarding the employment status and income of applicants.</section>
-        <section prefix="(ii)">Each request shall be accompanied by an authorization for release of information that is:</section>
+        <section prefix="(ii)">Each request shall be accompanied by an authorization for release of information that is:<section prefix="1.">in a form acceptable to the agency to which the request is submitted; and</section><section prefix="2.">signed by the applicant.</section></section>
         <section prefix="(iii)">The Department of Labor, Licensing, and Regulation and the Comptroller shall comply with requests for information made by the Office under this paragraph.</section>
         <section prefix="(iv)">Requests and responsive information may be exchanged by facsimile transmission.</section>
       </section>

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3B-13" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3B-13</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>13</order_by>
   <text>
     <section prefix="(a)">Any adult or minor may be adopted under this subtitle.</section>
     <section prefix="(b)">
       <section prefix="(1)">Any adult may petition a court for adoption.</section>
-      <section prefix="(2)">If a petitioner is married, the petitioner's spouse shall join in the petition unless the spouse:<section prefix="(i)">is separated from the petitioner under a circumstance that gives the petitioner a ground for annulment or divorce;</section><section prefix="(ii)">is not competent to join in the petition; or</section><section prefix="(iii)"/></section>
+      <section prefix="(2)">If a petitioner is married, the petitioner's spouse shall join in the petition unless the spouse:<section prefix="(i)">is separated from the petitioner under a circumstance that gives the petitioner a ground for annulment or divorce;</section><section prefix="(ii)">is not competent to join in the petition; or</section><section prefix="(iii)"><section prefix="1.">is a parent of the prospective adoptee; and</section><section prefix="2.">has consented to the adoption in accordance with this subtitle.</section></section></section>
     </section>
     <section prefix="(c)">Before a petition is filed under this subtitle, a petitioner shall move for, and a court shall order that, a case pending under Subtitle 3 of this title be closed.</section>
     <section prefix="(d)">If the marital status of a petitioner changes before entry of an order under this subtitle, the petitioner shall amend the petition accordingly.</section>

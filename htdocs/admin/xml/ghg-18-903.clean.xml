@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-903" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-903</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>903</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In accordance with procedures to be adopted by the Department, the Secretary, in consultation with health care facilities, may require health care facilities to develop and implement contingency plans addressing:<section prefix="(i)">Staff training needs;</section><section prefix="(ii)">Stockpiling of equipment, medication, and supplies necessary to address a catastrophic health emergency;</section><section prefix="(iii)">Treatment and decontamination protocols;</section><section prefix="(iv)">The coordination of services with other public and private entities; and</section><section prefix="(v)">Any other area that the Secretary determines is necessary to assist in the early detection and treatment of an individual exposed to a deadly agent.</section></section>

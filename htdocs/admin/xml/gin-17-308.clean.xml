@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-308" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-308</section_number>
-  <catch_line/>
+  <catch_line>Each policy of group life insurance shall contain a provision that requires the insurer to issue to ...</catch_line>
+  <order_by>308</order_by>
   <text>Each policy of group life insurance shall contain a provision that requires the insurer to issue to the policyholder, for delivery to each insured, an individual certificate that states:<section prefix=""><section prefix="(1)">the insurance protection to which the insured is entitled;</section><section prefix="(2)">each person to whom the insurance benefits are payable; and</section><section prefix="(3)">the rights and conditions set forth in &#xA7; 17-102 of this title and &#xA7;&#xA7; 17-309 through 17-311 of this subtitle.</section></section></text>
 </law>

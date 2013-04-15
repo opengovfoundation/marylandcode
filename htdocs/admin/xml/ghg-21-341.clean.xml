@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-341" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-341</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>341</order_by>
   <text>
     <section prefix="(a)">A person may not process, sell, or keep for sale, as crab meat, anything that is not crab meat.</section>
     <section prefix="(b)">A person may not process or sell for human consumption crab meat that:<section prefix="(1)">Contains any filthy, putrid, or decomposed substance or is otherwise unfit for human consumption;</section><section prefix="(2)">Has been packed or pasteurized in violation of this subtitle; or</section><section prefix="(3)">Has been packed, prepared, or held under conditions that may have allowed the crab meat to become:<section prefix="(i)">Contaminated with filth; or</section><section prefix="(ii)">Injurious to health.</section></section></section>

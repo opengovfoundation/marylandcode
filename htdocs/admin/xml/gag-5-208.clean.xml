@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-208" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">When a pesticide is applied, or at the time a customer enters into a contract with a licensee for pest control, a licensee shall provide a customer with the following written information:<section prefix="(1)">Name of licensee;</section><section prefix="(2)">Maryland pesticide business license number;</section><section prefix="(3)">Telephone number of licensee;</section><section prefix="(4)">Common name of pesticide or active ingredient applied;</section><section prefix="(5)">Pertinent safety information, as determined by the Department, including health risks for humans and animals, about pesticide in the end-use dilution applied;</section><section prefix="(6)">Maryland Poison Center telephone number; and</section><section prefix="(7)">Any other information required by the Department.</section></section>
     <section prefix="(b)">Upon the customer's request, the licensee shall provide the customer with advance notice of a pesticide application.</section>

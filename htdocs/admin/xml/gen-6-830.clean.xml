@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-830" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-830</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>830</order_by>
   <text>
     <section prefix="(a)">If, between February 24, 1996 and February 23, 2001, inclusive, the concentration of lead in a whole venous blood sample of a person at risk tested within 30 days after the person at risk begins residence or to regularly spend at least 24 hours per week in an affected property that is certified as being in compliance with the provisions of &#xA7; 6-815 of this subtitle is greater than or equal to 25 &#xB5;g/dl, or, between February 24, 2001 and February 23, 2006, inclusive, greater than or equal to 20 &#xB5;g/dl, or, on or after February 24, 2006, greater than or equal to 15 &#xB5;g/dl, it shall be presumed that the ingestion of lead occurred before a person at risk began residing or regularly spending at least 24 hours per week in the affected property.</section>
     <section prefix="(b)">On or after July 1, 2006, the EBL concentration of lead in a blood sample shall be determined in accordance with &#xA7; 6-801(f) of this subtitle.</section>

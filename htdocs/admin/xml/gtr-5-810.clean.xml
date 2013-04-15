@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-810" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-810</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>810</order_by>
   <text>
     <section prefix="(a)">For airports not owned by this State, within 180 days after the Executive Director certifies and publishes a noise zone under Part II of this subtitle, each political subdivision that has a noise zone wholly or partly within its jurisdiction shall adopt, under its police power, noise zone regulations establishing local noise zones. These noise zones may not be less restrictive than the noise zone certified by the Executive Director.</section>
     <section prefix="(b)">The political subdivision shall identify the noise zones established under this section on each zoning map, comprehensive plan, and other appropriate document.</section>

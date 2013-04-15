@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-311" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">Before any license is suspended or revoked, the Board shall give the licensee at least ten days written notice of the time and place of the hearing. Notice shall be given by certified mail, return receipt requested, bearing a postmark from the United States Postal Service, addressed to the post-office address shown on the annual registration or in other information the Board possesses.</section>
     <section prefix="(b)">A copy of the charges shall be furnished the licensee and he shall be afforded an opportunity to be heard personally and to be represented by counsel before the Board. The licensee shall have the opportunity to confront witnesses against him.</section>

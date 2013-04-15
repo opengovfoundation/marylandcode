@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-202" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-21-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of 9 members appointed by the Governor with the advice of the Secretary, and with the advice and consent of the Senate.</section>
-      <section prefix="(2)">Of the 9 Board members:<section prefix="(i)">7 shall be licensed environmental health specialists appointed as follows:</section><section prefix="(ii)">2 shall be consumer members.</section></section>
+      <section prefix="(2)">Of the 9 Board members:<section prefix="(i)">7 shall be licensed environmental health specialists appointed as follows:<section prefix="1.">1 shall be employed by private industry;</section><section prefix="2.">1 shall be employed by the Department of the Environment;</section><section prefix="3.">1 shall be employed by the Department;</section><section prefix="4.">1 shall be employed by a local health department and be employed under the State Personnel Management System;</section><section prefix="5.">1 shall be employed by a local government and not be employed under the State Personnel Management System; and</section><section prefix="6.">2 shall be appointed at large; and</section></section><section prefix="(ii)">2 shall be consumer members.</section></section>
       <section prefix="(3)">All Board members shall be residents of the State.</section>
     </section>
     <section prefix="(b)">The members appointed at large shall reasonably reflect the geographic diversity of the State.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-406" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-406</section_number>
-  <catch_line/>
+  <catch_line>The Department:...</catch_line>
+  <order_by>406</order_by>
   <text>The Department:<section prefix=""><section prefix="(1)">Shall adopt the rules and regulations necessary to carry out the provisions of this subtitle; and</section><section prefix="(2)">At least once a year, during an actual removal or encapsulation project, shall conduct an on-site inspection of each licensee's procedures for removing and encapsulating asbestos.</section></section></text>
 </law>

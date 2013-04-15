@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-502" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-8-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">After a preliminary evaluation of an individual by the administrator or the designee of the administrator, the individual may be admitted to the facility if it is certified in writing that the individual:<section prefix="(1)">Has acute symptoms of alcohol or drug intoxication or withdrawal; and</section><section prefix="(2)"><section prefix="(i)">Appears to be in imminent danger of harming one's self, or another individual, or the property of another individual; or</section><section prefix="(ii)">Is willing to be voluntarily admitted.</section></section></section>
     <section prefix="(b)">An individual admitted under this section may be detained up to 72 hours after admission.</section>

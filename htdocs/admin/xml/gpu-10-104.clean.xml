@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-104" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-10-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An applicant for a for-hire driver's license shall:<section prefix="(i)">submit to the Commission a completed application on the form that the Commission provides;</section><section prefix="(ii)">state on the form that the applicant is applying for a passenger-for-hire driver's license or a taxicab driver's license;</section><section prefix="(iii)">pay to the Commission an application fee set by the Commission;</section><section prefix="(iv)">file with the application two recent photographs, of a size that may be easily attached to the license; and</section><section prefix="(v)">apply to the Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services for a State criminal history records check as provided in subsection (b) of this section.</section></section>
@@ -22,14 +22,14 @@
       <section prefix="(5)">
         <section prefix="(i)">As provided by this paragraph, an applicant for a for-hire driver's license or a licensee may contest the contents of a printed statement or a revised printed statement issued by the Central Repository.</section>
         <section prefix="(ii)">To contest the contents of a printed statement or a revised printed statement, an applicant or a licensee shall contact the office of the Secretary of Public Safety and Correctional Services, or the Secretary's designee.</section>
-        <section prefix="(iii)">The Secretary of Public Safety and Correctional Services, or the Secretary's designee, shall:</section>
+        <section prefix="(iii)">The Secretary of Public Safety and Correctional Services, or the Secretary's designee, shall:<section prefix="1.">convene a hearing within 20 workdays, unless subsequently waived by the applicant or the licensee; and</section><section prefix="2.">render a decision within 5 workdays after the hearing.</section></section>
         <section prefix="(iv)">For the purposes of this paragraph, the record of a court disposition or a copy of the record certified by the clerk of the court or by a judge of the court in which the disposition occurred shall be conclusive evidence of the disposition.</section>
         <section prefix="(v)">In a case where a pending charge is recorded, documentation provided by a court to the Secretary of Public Safety and Correctional Services, or the Secretary's designee, that a pending charge for a crime which has not been finally adjudicated shall be conclusive evidence of the pending charge.</section>
         <section prefix="(vi)">Failure of the applicant or a licensee to appear at the scheduled hearing shall be considered grounds for dismissal of the contest.</section>
       </section>
       <section prefix="(6)">
         <section prefix="(i)">In addition to a State criminal history records check under this subsection, and subject to Title 10, Subtitle 2 of the Criminal Procedure Article, the Commission may require an applicant to obtain a criminal history records check from the Federal Bureau of Investigation, through the Department of Public Safety and Correctional Services.</section>
-        <section prefix="(ii)">An applicant who is required by the Commission to obtain a criminal history records check from the Federal Bureau of Investigation under subparagraph (i) of this paragraph shall:</section>
+        <section prefix="(ii)">An applicant who is required by the Commission to obtain a criminal history records check from the Federal Bureau of Investigation under subparagraph (i) of this paragraph shall:<section prefix="1.">apply to the Central Repository of the Department of Public Safety and Correctional Services for a national criminal history records check;</section><section prefix="2.">submit to the Central Repository one complete set of the applicant's legible fingerprints taken on forms approved by the Director of the Federal Bureau of Investigation; and</section><section prefix="3.">submit to the Central Repository the mandatory processing fee required by the Federal Bureau of Investigation for a national criminal history records check.</section></section>
       </section>
       <section prefix="(7)">The Commission may use a private agency to provide a background check on an applicant or licensee under this section, as determined by the Commission.</section>
     </section>

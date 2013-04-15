@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2502.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2502.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2502.1</order_by>
   <text>
     <section prefix="(a)">The seller of a hearing aid must bill any fee for diagnostic tests separately from any charges for the purchase and fitting of a hearing aid.</section>
     <section prefix="(b)">A separately billed fee for a diagnostic test is not subject to refund under &#xA7; 14-2503 of this subtitle.</section>

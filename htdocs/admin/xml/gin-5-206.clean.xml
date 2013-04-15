@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-206" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">In addition to adequate reserves required by &#xA7; 5-103 of this title for outstanding losses, a title insurer shall maintain a statutory reserve or unearned premium reserve of at least an amount computed as follows:<section prefix="(i)">8% of the total amount of the risk premiums written in the calendar year for title insurance contracts shall be as assigned originally to the reserves; and</section><section prefix="(ii)">during each of the 20 years that follow the year in which the contract is issued, the reserves applicable to the contract shall be reduced in accordance with the following formula:</section></section>
+      <section prefix="(1)">In addition to adequate reserves required by &#xA7; 5-103 of this title for outstanding losses, a title insurer shall maintain a statutory reserve or unearned premium reserve of at least an amount computed as follows:<section prefix="(i)">8% of the total amount of the risk premiums written in the calendar year for title insurance contracts shall be as assigned originally to the reserves; and</section><section prefix="(ii)">during each of the 20 years that follow the year in which the contract is issued, the reserves applicable to the contract shall be reduced in accordance with the following formula:<section prefix="1.">35% of the aggregate sum on July 1 of the year next succeeding the year of addition;</section><section prefix="2.">15% of the aggregate sum on July 1 of each of the succeeding 2 years;</section><section prefix="3.">10% of the aggregate sum on July 1 of the succeeding year;</section><section prefix="4.">3% of the aggregate sum on July 1 of each of the succeeding 3 years;</section><section prefix="5.">2% of the aggregate sum on July 1 of each of the succeeding 3 years; and</section><section prefix="6.">1% of the aggregate sum on July 1 of each of the succeeding 10 years.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">The title insurer shall calculate retroactive adjusted statutory reserve or unearned premium reserve on an aggregate basis on January 1, 2010.</section>
         <section prefix="(ii)">The adjusted aggregate reserve shall be recalculated as if paragraph (1)(ii) of this subsection had been in effect during the 20 years preceding January 1, 2010.</section>

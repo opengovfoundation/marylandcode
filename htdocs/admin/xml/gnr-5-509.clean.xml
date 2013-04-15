@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-509" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-509</section_number>
-  <catch_line/>
+  <catch_line>The provisions of Subtitle 13 do not apply to this subtitle....</catch_line>
+  <order_by>509</order_by>
   <text>The provisions of Subtitle 13 do not apply to this subtitle.</text>
 </law>

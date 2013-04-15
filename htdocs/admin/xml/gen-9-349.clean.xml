@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-349" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-349</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>349</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Loans or loan guarantees may be awarded to industrial users for projects that provide for pretreatment of pollutants that are discharged directly or indirectly into publicly owned treatment works or into any conveyance leading to a publicly owned treatment plant.</section>

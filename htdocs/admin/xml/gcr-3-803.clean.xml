@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-803" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">A person may not follow another in or about a public place or maliciously engage in a course of conduct that alarms or seriously annoys the other:<section prefix="(1)">with the intent to harass, alarm, or annoy the other;</section><section prefix="(2)">after receiving a reasonable warning or request to stop by or on behalf of the other; and</section><section prefix="(3)">without a legal purpose.</section></section>
     <section prefix="(b)">This section does not apply to a peaceable activity intended to express a political view or provide information to others.</section>

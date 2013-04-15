@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1026" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1026</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1026</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -18,8 +18,8 @@
       <section prefix="(3)">The lending institution shall annually provide the consumer borrower with a statement of the escrow balance.</section>
       <section prefix="(4)">The provisions of this subsection do not apply to a lending institution that provides for the payment of taxes, insurance, or other expenses under the direct reduction method by which these expenses, when paid by the lending institution, are added to the outstanding principal balance of the loan.</section>
       <section prefix="(5)">
-        <section prefix="(i)">This subsection does not apply if the loan:</section>
-        <section prefix="(ii)">Notwithstanding subparagraph (i) of this paragraph, this subsection shall apply if the out-of-state lender:</section>
+        <section prefix="(i)">This subsection does not apply if the loan:<section prefix="1.">Is purchased by an out-of-state lender through the Federal National Mortgage Association, the Government National Mortgage Association, or the Federal Home Loan Mortgage Corporation; and</section><section prefix="2.">The out-of-state lender elects to service the loan as a condition of purchase.</section></section>
+        <section prefix="(ii)">Notwithstanding subparagraph (i) of this paragraph, this subsection shall apply if the out-of-state lender:<section prefix="1.">Sells the loan to a Maryland lender; or</section><section prefix="2.">Places the loan with a Maryland lender for servicing.</section></section>
       </section>
     </section>
     <section prefix="(c)">
@@ -29,7 +29,11 @@
       <section prefix="(4)">
         <section prefix="(i)">Subject to subparagraph (iii) of this paragraph, if, after recalculating the amount that is required to be maintained in escrow under a first mortgage or first deed of trust on residential real property, a credit grantor or a servicer of a loan determines that the amount that a consumer borrower is required to pay must increase, the credit grantor or servicer may not include, for a 1-year period after the determination is made, the amount of the increase in escrow payments in any calculation of the amount of interest or any fee due under the loan.</section>
         <section prefix="(ii)">This paragraph may not be construed to limit the ability of a credit grantor or a servicer of a loan to impose a late fee for any escrow payment that is due and not timely paid.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">In this subparagraph, "other expenses" does not include money required by a credit grantor or a servicer of a loan for an escrow account cushion as permitted by the federal Real Estate Settlement Procedures Act.</section>
+          <section prefix="2.">A credit grantor or a servicer of a loan may charge interest to a consumer borrower on the amount of funds the credit grantor or servicer advances to pay taxes, insurance premiums, or other expenses owed by the consumer borrower in order to protect the security of the loan.</section>
+          <section prefix="3.">Interest may be charged by a credit grantor or a servicer of a loan under subsubparagraph 2 of this subparagraph only if:</section>
+        </section>
       </section>
     </section>
     <section prefix="(d)">

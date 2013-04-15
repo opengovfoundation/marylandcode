@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-714" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-714</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>714</order_by>
   <text>
     <section prefix="(a)">The Social Services Administration and each local department may maintain a central registry of cases reported under this subtitle.</section>
     <section prefix="(b)">
@@ -18,7 +18,7 @@
       <section prefix="(2)">A central registry may not contain identifying information related to an investigation of abuse or neglect if:<section prefix="(i)">abuse or neglect has been ruled out; or</section><section prefix="(ii)">the abuse or neglect finding has been expunged in accordance with &#xA7; 5-707(b)(1) of this subtitle.</section></section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">The Department or a local department may identify an individual as responsible for abuse or neglect in a central registry only if the individual:<section prefix="(i)">has been found guilty of any criminal charge arising out of the alleged abuse or neglect; or</section><section prefix="(ii)">has been found responsible for indicated abuse or neglect and has:</section></section>
+      <section prefix="(1)">The Department or a local department may identify an individual as responsible for abuse or neglect in a central registry only if the individual:<section prefix="(i)">has been found guilty of any criminal charge arising out of the alleged abuse or neglect; or</section><section prefix="(ii)">has been found responsible for indicated abuse or neglect and has:<section prefix="1.">unsuccessfully appealed the finding in accordance with the procedures established under &#xA7; 5-706.1 of this subtitle; or</section><section prefix="2.">failed to exercise the individual's appeal rights within the time frames specified in &#xA7; 5-706.1 of this subtitle, Title 10, Subtitle 2 of the State Government Article, or the Maryland Rules.</section></section></section>
       <section prefix="(2)">The Department without the necessity of a request shall remove from the name of an individual described in paragraph (1) of this subsection the identification of that individual as responsible for abuse or neglect if no entry has been made for that individual for 7 years after the entry of the individual's name in a registry.</section>
     </section>
     <section prefix="(f)">

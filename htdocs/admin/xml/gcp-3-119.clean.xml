@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-119" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-119</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>119</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Not earlier than 1 year after the initial release hearing ends or was waived, and not more than once a year thereafter, a committed person may apply for release under either subsection (b) or (c) of this section, but not both.</section>
@@ -19,7 +19,7 @@
       <section prefix="(1)">To apply for release under this subsection, the committed person shall file a petition for release with the court that ordered commitment.</section>
       <section prefix="(2)">The committed person shall send a copy of the petition for release to the Health Department and the State's Attorney.</section>
       <section prefix="(3)">If the committed person requests a trial by jury, the trial shall be held in a circuit court with a jury as in a civil action at law.</section>
-      <section prefix="(4)">The trier of fact shall:<section prefix="(i)">determine whether the committed person has proved eligibility for release by a preponderance of the evidence; and</section><section prefix="(ii)">render a verdict for:</section></section>
+      <section prefix="(4)">The trier of fact shall:<section prefix="(i)">determine whether the committed person has proved eligibility for release by a preponderance of the evidence; and</section><section prefix="(ii)">render a verdict for:<section prefix="1.">continued commitment;</section><section prefix="2.">conditional release; or</section><section prefix="3.">discharge from commitment.</section></section></section>
       <section prefix="(5)">If the trier of fact renders a verdict for conditional release, within 30 days after the verdict, the court shall release the committed person under conditions it imposes in accordance with specific recommendations for conditions under &#xA7; 3-116(b) of this title.</section>
     </section>
     <section prefix="(d)">

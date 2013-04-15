@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-467" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-467</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>467</order_by>
   <text>
     <section prefix="(a)">Within 25 days after receipt of the Committee's recommendations, the Department shall consider the recommendations and make a final determination of whether financial difficulty exists and, if so, whether there is a significant risk of financial failure in accordance with &#xA7; 10-469 of this subtitle.</section>
     <section prefix="(b)">If the Department determines that the provider is in financial difficulty it shall immediately notify the provider by certified mail, return receipt requested, and inform the provider whether the Department has determined that there is a significant risk of financial failure.</section>

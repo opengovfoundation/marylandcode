@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1104" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">At or before the time the buyer signs a layaway agreement, the seller shall give him an exact copy signed by the seller.</section>
     <section prefix="(b)">Upon execution of a layaway agreement, the seller shall hold for the buyer or agree to deliver to the buyer on a date mutually acceptable to both parties, the consumer goods or consumer goods that are identical to those originally selected by the buyer, as long as the buyer complies with all of the terms of the layaway agreement.</section>

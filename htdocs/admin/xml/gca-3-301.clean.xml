@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-301" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">If the final order of a court makes a plan of reorganization binding on the stockholders of a corporation, the board of directors, trustee, or receiver, as the case may be, may take any action necessary to carry out the plan without any other corporate approval.</section>
     <section prefix="(b)">If a charter document is required to be filed with the Department to carry out a transaction under subsection (a) of this section, it shall state:<section prefix="(1)">That the transaction was carried out under a plan of reorganization pursuant to a final order of a court having jurisdiction;</section><section prefix="(2)">The name of the court and the caption and docket number of the proceedings; and</section><section prefix="(3)">That the transaction was approved by the board of directors, trustee, or receiver, as the case may be.</section></section>

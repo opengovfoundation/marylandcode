@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-304" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">If an insurer issues and delivers a policy to a lender on property of a borrower that has been pledged, mortgaged, or is subject to a conditional contract of sale, the insurer must issue a certificate to the borrower or owner of the property in accordance with subsection (b) of this section.</section>
     <section prefix="(b)">The certificate issued under this section shall set forth:<section prefix="(1)">the coverages provided in the policy;</section><section prefix="(2)">the amount of premium charged for the policy;</section><section prefix="(3)">the date the policy takes effect; and</section><section prefix="(4)">the date the policy expires.</section></section>

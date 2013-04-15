@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-625" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-625</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>625</order_by>
   <text>
     <section prefix="(a)">The Attorney General shall pay the defendant from the escrow account the money that a court of competent jurisdiction in an order finds will be used to hire legal counsel at any stage of the criminal case, including an appeal.</section>
     <section prefix="(b)">After notice to each victim or victim's representative, the Attorney General shall pay money from the escrow account to a representative of a defendant for the necessary expenses of production of the money paid into the escrow account if the Attorney General finds that the payments are necessary and are not contrary to public policy.</section>

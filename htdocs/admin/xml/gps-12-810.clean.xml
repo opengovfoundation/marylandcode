@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-810" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-810</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>810</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall conduct a final acceptance inspection on completion of the installation, modification, or alteration of an elevator unit before it is placed in service.</section>
     <section prefix="(b)">The Commissioner shall provide an inspection checklist that specifies the requirements for compliance with the Safety Code and other regulations adopted by the Commissioner.</section>

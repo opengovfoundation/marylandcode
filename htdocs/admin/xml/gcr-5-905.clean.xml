@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-905" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">A person convicted of a subsequent crime under this title is subject to:<section prefix="(1)">a term of imprisonment twice that otherwise authorized;</section><section prefix="(2)">twice the fine otherwise authorized; or</section><section prefix="(3)">both.</section></section>
     <section prefix="(b)">For purposes of this section, a crime is considered a subsequent crime, if, before the conviction for the crime, the offender has ever been convicted of a crime under this title or under any law of the United States or of this or another state relating to other controlled dangerous substances.</section>

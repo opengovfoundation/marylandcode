@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-807" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">The Department shall adopt a quality assurance system for the Program, consistent with federal requirements regarding quality of waiver services.</section>
     <section prefix="(b)">The quality assurance system shall include meaningful consumer input, including consumer surveys, that measure the extent to which consumers receive services described in their individualized support plans and consumer satisfaction with the services.</section>

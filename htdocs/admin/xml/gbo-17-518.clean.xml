@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-518" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-17-518</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>518</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this subtitle, a licensed real estate broker may maintain branch offices in the State.</section>
     <section prefix="(b)">A licensed real estate broker shall obtain a branch office certificate before the broker may maintain a branch office in the State.</section>
@@ -15,7 +15,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, the licensed real estate broker shall designate a manager for each branch office of the broker.</section>
-      <section prefix="(2)">The manager shall be:<section prefix="(i)">a licensed associate real estate broker;</section><section prefix="(ii)">a licensed real estate salesperson who has at least 3 years' experience providing real estate brokerage services; or</section><section prefix="(iii)">a licensed real estate salesperson who:</section></section>
+      <section prefix="(2)">The manager shall be:<section prefix="(i)">a licensed associate real estate broker;</section><section prefix="(ii)">a licensed real estate salesperson who has at least 3 years' experience providing real estate brokerage services; or</section><section prefix="(iii)">a licensed real estate salesperson who:<section prefix="1.">has completed successfully a course in real estate approved by the Commission for real estate brokers; and</section><section prefix="2.">has passed the real estate broker's examination given by the Commission under &#xA7; 17-306 of this title.</section></section></section>
       <section prefix="(3)">A licensed real estate salesperson seeking to qualify as a branch office manager under paragraph (2)(iii) of this subsection shall submit to the Commission, before taking the real estate broker's examination, a commitment from the licensed real estate broker proposing to engage the salesperson as a branch office manager.</section>
       <section prefix="(4)">The manager shall have the responsibility to supervise the provision of real estate brokerage services by the associate brokers and sales agents registered to that office as provided for in &#xA7; 17-320 of this title.</section>
     </section>

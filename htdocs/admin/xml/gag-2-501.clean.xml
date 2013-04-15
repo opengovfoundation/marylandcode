@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-501" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">It is the intent of the Maryland General Assembly to preserve agricultural land and woodland in order to:<section prefix="(1)">Provide sources of agricultural products within the State for the citizens of the State;</section><section prefix="(2)">Control the urban expansion which is consuming the agricultural land and woodland of the State;</section><section prefix="(3)">Curb the spread of urban blight and deterioration; and</section><section prefix="(4)">Protect agricultural land and woodland as open-space land.</section></section>
     <section prefix="(b)">With respect to woodland preservation under this subtitle, the General Assembly encourages that fair consideration be given to the retention of forest lands that are working landscapes as defined under &#xA7; 5-101 of the Natural Resources Article.</section>

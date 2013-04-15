@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-414" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-414</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>414</order_by>
   <text>
     <section prefix="(a)">This section does not apply to cashier's checks or other drafts drawn on the drawer.</section>
     <section prefix="(b)">If an unaccepted draft is dishonored, the drawer is obliged to pay the draft (i) according to its terms at the time it was issued or, if not issued, at the time it first came into possession of a holder, or (ii) if the drawer signed an incomplete instrument, according to its terms when completed, to the extent stated in &#xA7;&#xA7; 3-115 and 3-407. The obligation is owed to a person entitled to enforce the draft or to an indorser who paid the draft under &#xA7; 3-415.</section>

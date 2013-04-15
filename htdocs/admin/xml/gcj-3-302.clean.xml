@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-302</section_number>
-  <catch_line/>
+  <catch_line>A court of law including the District Court, within the limits of its jurisdiction, may issue an att...</catch_line>
+  <order_by>302</order_by>
   <text>A court of law including the District Court, within the limits of its jurisdiction, may issue an attachment at the commencement of the action or while it is pending against any property or credits, whether matured or unmatured, belonging to the debtor upon the application of the plaintiff in the action.</text>
 </law>

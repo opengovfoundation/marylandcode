@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-04" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-2A-04</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>04</order_by>
   <text>
     <section prefix="(a)">If, at any time, the amount of money in the Grant Fund exceeds the amount that the Trust considers necessary currently to meet its expenses and obligations, the Department shall deposit the excess money with the State Treasurer, who shall invest the money in the manner provided for by law.</section>
     <section prefix="(b)">Annually, the State Treasurer shall report to the Department as to:<section prefix="(1)">The status of the money invested under this subtitle;</section><section prefix="(2)">The market value of the assets in the Grant Fund as of the date of the report; and</section><section prefix="(3)">The interest received from investments for the Grant Fund during the period covered by the report.</section></section>

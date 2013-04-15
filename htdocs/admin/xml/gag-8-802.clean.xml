@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-802" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">A person may not prepare a nutrient management plan, for purposes of meeting the requirements of this subtitle, unless the person is certified or licensed by the State.</section>
     <section prefix="(b)">An individual may apply to the Department for certification as a certified nutrient management consultant.</section>

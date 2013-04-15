@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-602" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">The maximum amount payable from the Fund, exclusive of interest and costs, for claims filed under this subtitle arising from one accident is:<section prefix="(1)">$30,000 on account of injury to or death of one individual;</section><section prefix="(2)">subject to the limit specified in item (1) of this subsection, $60,000 on account of injury to or death of more than one individual; and</section><section prefix="(3)">$15,000 for damages to property.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">The following deductions shall be made from the smaller of the applicable maximum amount under subsection (a) of this section and the amount of the judgment:<section prefix="(i)">$250 from a judgment or part of a judgment for damages to property; and</section><section prefix="(ii)">the total amount that the claimant has received or is likely to receive:</section></section>
+      <section prefix="(1)">The following deductions shall be made from the smaller of the applicable maximum amount under subsection (a) of this section and the amount of the judgment:<section prefix="(i)">$250 from a judgment or part of a judgment for damages to property; and</section><section prefix="(ii)">the total amount that the claimant has received or is likely to receive:<section prefix="1.">from any source toward payment of the settlement or judgment;</section><section prefix="2.">toward payment of a judgment against a person against whom the claimant has a cause of action, arising out of the same accident, for damages for bodily injury or death or damage to property;</section><section prefix="3.">under a policy affording indemnity for damage to or destruction of property of the applicant; and</section><section prefix="4.">by reason of the accident out of which the claim arises under any workers' compensation law.</section></section></section>
       <section prefix="(2)">For the purposes of this subtitle, medical, hospital, funeral, or other benefits paid or payable for the applicant under the Maryland Workers' Compensation Act shall be considered to be received or receivable by the claimant.</section>
     </section>
     <section prefix="(c)">The Fund may recover any amount paid out of the Fund that exceeds the amount authorized under this subtitle by bringing an action against the person that received the excess payment.</section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-135" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-12-135</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>135</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person that performs an excavation or demolition without first providing the notice required under &#xA7; 12-124(a) of this subtitle and damages, dislocates, or disturbs an underground facility is deemed negligent and is subject to a civil penalty assessed by the Authority not exceeding:<section prefix="(i)">$2,000 for the first offense; and</section><section prefix="(ii)">subject to subsection (c) of this section, $4,000 for each subsequent offense.</section></section>
-      <section prefix="(2)">Instead of or in addition to a civil penalty assessed under this subsection, the Authority may:<section prefix="(i)">require that a person:</section><section prefix="(ii)">impose other similar measures.</section></section>
+      <section prefix="(2)">Instead of or in addition to a civil penalty assessed under this subsection, the Authority may:<section prefix="(i)">require that a person:<section prefix="1.">participate in damage prevention training; or</section><section prefix="2.">implement procedures to mitigate the likelihood of damage to underground facilities; or</section></section><section prefix="(ii)">impose other similar measures.</section></section>
       <section prefix="(3)">A person that violates any provision of Part IV of this subtitle is subject to a civil penalty assessed by the Authority not exceeding $2,000.</section>
     </section>
     <section prefix="(b)">

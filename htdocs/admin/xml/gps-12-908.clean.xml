@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-908" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-908</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>908</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A new boiler or pressure vessel may not be installed and operated in the State unless:<section prefix="(i)">the boiler or pressure vessel conforms to the regulations adopted under this subtitle that govern new construction and installation; or</section><section prefix="(ii)">the Board issues a special installation and operating permit for the boiler or pressure vessel.</section></section>

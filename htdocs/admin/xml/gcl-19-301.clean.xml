@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-19-301</section_number>
-  <catch_line/>
+  <catch_line>A supplier may not:...</catch_line>
+  <order_by>301</order_by>
   <text>A supplier may not:<section prefix=""><section prefix="(1)">Coerce a dealer to accept delivery of equipment, parts, or accessories that the dealer has not ordered voluntarily unless the parts or accessories are safety parts or accessories required by the supplier;</section><section prefix="(2)">Condition the sale of additional equipment to a dealer on a requirement that the dealer also purchase other goods or services, except that a supplier may require the dealer to purchase parts that are reasonably necessary to maintain the quality of operation in the field of the equipment used in the trade area;</section><section prefix="(3)">Coerce a dealer into refusing to purchase equipment manufactured by another supplier; or</section><section prefix="(4)">Terminate, cancel, or fail to renew or substantially change the competitive circumstances of the retail agreement based on the results of any circumstance beyond the dealer's control, including a natural disaster such as a sustained drought, high unemployment in the dealer market area, or a labor dispute.</section></section></text>
 </law>

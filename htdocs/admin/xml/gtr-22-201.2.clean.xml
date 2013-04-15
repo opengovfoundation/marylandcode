@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-201.2" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-201.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201.2</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of this subtitle, if a driver of a vehicle on a highway operates the vehicle's windshield wipers for a continuous period of time because of impaired visibility resulting from unfavorable atmospheric conditions, the driver shall light the vehicle's headlamps or fog lights.</section>
     <section prefix="(b)">A violation of this section is not considered a moving violation for purposes of &#xA7; 16-402 of this article.</section>

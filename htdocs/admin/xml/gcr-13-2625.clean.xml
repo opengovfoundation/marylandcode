@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2625" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2625</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2625</order_by>
   <text>
     <section prefix="(a)">A raffle conducted under a permit issued under this part may not last more than 1 year from the date the permit is issued to the date the last prize is awarded.</section>
     <section prefix="(b)">The county commissioners may regulate the number of permits to conduct a raffle that an organization may receive in a year.</section>

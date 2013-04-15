@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1505" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-2-1505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1505</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, a committee may not vote on a bill unless:<section prefix="(1)">a fiscal note accompanies the bill; and</section><section prefix="(2)">if the bill affects the funding of a State pension system, an actuarial analysis of the bill is attached to or summarized in the note or the analysis is waived.</section></section>
     <section prefix="(b)">
@@ -37,7 +37,7 @@
     </section>
     <section prefix="(j)">
       <section prefix="(1)">
-        <section prefix="(i)">In its summary report of legislation enacted by the General Assembly that has a fiscal impact, the Department of Legislative Services shall include a list of legislation that:</section>
+        <section prefix="(i)">In its summary report of legislation enacted by the General Assembly that has a fiscal impact, the Department of Legislative Services shall include a list of legislation that:<section prefix="1.">affects local government units; or</section><section prefix="2.">requires a mandated appropriation in the annual budget bill.</section></section>
         <section prefix="(ii)">In the list of legislation described in subparagraph (i)1 of this paragraph, the Department of Legislative Services shall indicate which legislation imposes mandates on local government units.</section>
       </section>
       <section prefix="(2)">Where applicable and if data is available, the report shall indicate:<section prefix="(i)">the fiscal impact of the bill on local government units;</section><section prefix="(ii)">the impact of the bill on local property tax rates;</section><section prefix="(iii)">the cumulative fiscal impact of all legislation imposing mandates on more than one local government unit; and</section><section prefix="(iv)">the cumulative fiscal impact of all legislation requiring mandated appropriations.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-306" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-5-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">If an applicant qualifies for a license under this subtitle, the Board shall send the applicant a notice that specifies that:<section prefix="(1)">The applicant has qualified for a license; and</section><section prefix="(2)">On receipt of the license fee set by the Board, the Board will issue a license to the applicant.</section></section>
     <section prefix="(b)">On payment of the license fee, the Board shall issue a license to any applicant who meets the requirements of this subtitle.</section>

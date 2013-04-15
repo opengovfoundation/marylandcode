@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-456" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-456</section_number>
-  <catch_line/>
+  <catch_line>The purpose of the Initiative is to: ...</catch_line>
+  <order_by>456</order_by>
   <text>The purpose of the Initiative is to: <section prefix=""><section prefix="(1)">promote the commercialization of research conducted in universities in the State;</section><section prefix="(2)">encourage qualifying universities to partner on commercialization and other activities, including with federal laboratories located in Maryland; and</section><section prefix="(3)">facilitate the transfer of technology from universities to commercial industries, by:<section prefix="(i)">assessing the viability and value of the technology;</section><section prefix="(ii)">defining and exploiting potential markets for the technology;</section><section prefix="(iii)">identifying funding sources to support the development of the technology; and</section><section prefix="(iv)">developing commercialization strategies.</section></section></section></text>
 </law>

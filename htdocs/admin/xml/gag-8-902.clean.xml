@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-902" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>902</order_by>
   <text>
     <section prefix="(a)">The Department may establish requirements for the voluntary certification and registration of nutrient or sediment credits on agricultural land, as defined by the Department of Assessments and Taxation.</section>
     <section prefix="(b)">Certification and registration requirements established under subsection (a) of this section shall include:<section prefix="(1)">Application and eligibility requirements for certification;</section><section prefix="(2)">Standards for quantifying nutrient or sediment credits resulting from any existing or proposed agronomic, land use, and structural practice;</section><section prefix="(3)">Requirements governing the duration and maintenance of credits; and</section><section prefix="(4)">Establishment of a credit registry accessible to the public.</section></section>

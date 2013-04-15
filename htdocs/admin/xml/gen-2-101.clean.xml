@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-101" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Air pollution" means the presence in the outdoor atmosphere of any substance that is present in such quantities and is of such duration that it:<section prefix="(1)">May be predicted with reasonable certainty to be injurious to property or to human, plant, or animal life; or</section><section prefix="(2)">Unreasonably interferes with the proper enjoyment of the property of others because of the emission of odors, solids, vapors, liquids, or gases.</section></section>

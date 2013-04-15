@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-307" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A principal, teacher, school security guard, or other school system personnel in any public school may take reasonable action necessary to prevent violence on school premises or on a school-sponsored trip, including intervening in a fight or physical struggle that takes place in his or her presence, whether the fight is among students or other individuals.</section>

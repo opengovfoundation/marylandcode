@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-201.1" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-201.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201.1</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Environmental site design" means using small-scale stormwater management practices, nonstructural techniques, and better site planning to mimic natural hydrologic runoff characteristics and minimize the impact of land development on water resources.</section>

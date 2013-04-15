@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-917" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-917</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>917</order_by>
   <text>
     <section prefix="(a)">In order to provide for full and fair disclosure in the sale of Medicare supplement policies, a Medicare supplement policy or certificate may not be delivered in the State unless an outline of coverage is provided to the applicant at the time the application is delivered.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1101" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-1101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following terms have the meanings indicated.</section>
     <section prefix="(b)">"Behavior intervention plan" means a proactive plan designed to address problem behavior exhibited by a student in the educational setting through the use of positive behavioral interventions, strategies, and supports.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-306" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">An applicant for a license to act as a promoter of a contest shall execute a surety bond to be given to the State for the benefit of each person who may be interested in the payment of the expenses incurred in connection with the contest.</section>
     <section prefix="(b)">The surety bond shall be:<section prefix="(1)">in the amount of:<section prefix="(i)">$2,000; or</section><section prefix="(ii)">any greater amount that the Commission requires;</section></section><section prefix="(2)">in a form that the Commission approves;</section><section prefix="(3)">with a surety that the Commission approves; and</section><section prefix="(4)">conditioned on the payment, within the time that the Commission sets, of all expenses incurred in connection with the contest.</section></section>

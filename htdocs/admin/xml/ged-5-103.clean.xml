@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-103" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The amount requested in the annual budget of each county board for current expenses for the next school year and that is to be raised by revenue from local sources may not be less than the minimum amount required to be levied under &#xA7; 5-202(d)(1)(i) of this title.</section>
     <section prefix="(b)">The county commissioners or county council may provide funds that are more than the amount required by &#xA7; 5-202(d)(1)(i) of this title to support improved and additional programs.</section>

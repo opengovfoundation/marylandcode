@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-2A-01" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-2A-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">Unless otherwise provided by law, the Department shall maintain custody of any abandoned, lost, or seized personal property that comes into the custody of the Department until the Department determines that the custody by the Department is not necessary to any investigation or prosecution.</section>
     <section prefix="(b)">Unless otherwise provided by law, after a determination described under subsection (a) of this section, the Department shall return abandoned, lost, or seized personal property to the person who:<section prefix="(1)">Establishes the person's right to possession of the abandoned, lost, or seized personal property; and</section><section prefix="(2)">Gives a proper receipt for the abandoned, lost, or seized personal property.</section></section>

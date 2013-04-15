@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-103" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,14 +16,14 @@
       </section>
       <section prefix="(4)">
         <section prefix="(i)">"Business entity" means a person who operates or conducts a trade or business.</section>
-        <section prefix="(ii)">"Business entity" includes a person who owns, operates, develops, constructs, or rehabilitates real property, if the real property:</section>
+        <section prefix="(ii)">"Business entity" includes a person who owns, operates, develops, constructs, or rehabilitates real property, if the real property:<section prefix="1.">is intended for use primarily as single or multifamily residential property located in the enterprise zone; and</section><section prefix="2.">is partially devoted to a nonresidential use.</section></section>
       </section>
       <section prefix="(5)">
         <section prefix="(i)">"Eligible assessment" means the difference between the base year value and the actual value as determined by the Department for the applicable taxable year in which the tax credit under this section is to be granted.</section>
         <section prefix="(ii)">For a business entity that is located on land or within improvements owned by the federal, State, county, or municipal government, "eligible assessment" means the difference between the base year value and the actual value reduced by the value of any property entitled to an exemption under Title 7 of this article as determined by the Department for the applicable taxable year in which the tax credit under this section is to be granted.</section>
       </section>
       <section prefix="(6)">
-        <section prefix="(i)">"Qualified property" means real property that is:</section>
+        <section prefix="(i)">"Qualified property" means real property that is:<section prefix="1.">not used for residential purposes;</section><section prefix="2.">used in a trade or business by a business entity that meets the requirements of &#xA7; 5-707 of the Economic Development Article; and</section><section prefix="3.">located in an enterprise zone that is designated under Title 5, Subtitle 7 of the Economic Development Article.</section></section>
         <section prefix="(ii)">"Qualified property" includes personal property on real property that is located in a focus area as defined in &#xA7; 5-701 of the Economic Development Article.</section>
       </section>
     </section>

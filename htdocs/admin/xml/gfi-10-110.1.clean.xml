@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-110.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-10-110.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110.1</order_by>
   <text>
     <section prefix="(a)">Upon final liquidation of a member association, the Fund Director shall:<section prefix="(1)">Subject to subsection (b) of this section, determine the amount of insurable loss in the manner established by the rules and regulations of the Fund; and</section><section prefix="(2)">Make provision for the payment or assumption of any insurable loss to each depositor less any payments made to, or accounts made available to, a depositor under subsection (c) of this section.</section></section>
     <section prefix="(b)">The determination of insurable loss under subsection (a)(1) of this section shall occur no later than 4 years from the date a member association is placed in receivership.</section>

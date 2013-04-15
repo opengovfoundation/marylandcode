@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-306" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, revenue bonds may be issued by the Authority:<section prefix="(1)">Without obtaining the consent of any instrumentality, agency, or unit of this State; and</section><section prefix="(2)">Without any proceedings or the happening of any conditions or things other than those specifically required by this subtitle.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, revenue bonds secured by toll revenue may be issued in any amount as long as the aggregate outstanding and unpaid principal balance of the revenue bonds secured by toll revenue and revenue bonds of prior issues does not exceed $3,000,000,000 on June 30 of any year.</section>
-        <section prefix="(ii)">The maximum aggregate amount of revenue bonds that may be outstanding and unpaid under subparagraph (i) of this paragraph shall be reduced by the amount of:</section>
+        <section prefix="(ii)">The maximum aggregate amount of revenue bonds that may be outstanding and unpaid under subparagraph (i) of this paragraph shall be reduced by the amount of:<section prefix="1.">Any loan extended to the State under the federal Transportation Infrastructure Finance and Innovation Act; and</section><section prefix="2.">Any line of credit extended to the State under the federal Transportation Infrastructure Finance and Innovation Act, to the extent the State draws on the line of credit.</section></section>
       </section>
       <section prefix="(2)">Except as otherwise provided in this section and &#xA7; 4-205 of this title, without the approval of the General Assembly, the Authority may issue bonds to refinance all or any part of the cost of a transportation facility project for which the Authority previously issued bonds authorized under this subtitle.</section>
     </section>

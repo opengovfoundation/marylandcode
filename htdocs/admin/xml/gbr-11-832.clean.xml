@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-832" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-832</section_number>
-  <catch_line/>
+  <catch_line>The Commission shall adopt regulations to:...</catch_line>
+  <order_by>832</order_by>
   <text>The Commission shall adopt regulations to:<section prefix=""><section prefix="(1)">define the criteria for applicants for a satellite simulcast betting permit, which may include a nonrefundable application fee;</section><section prefix="(2)">define allowable costs of operations under &#xA7; 11-827 of this part; and</section><section prefix="(3)">otherwise carry out this part.</section></section></text>
 </law>

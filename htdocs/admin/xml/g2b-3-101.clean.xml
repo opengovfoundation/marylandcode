@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-101" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-3-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class A beer license shall be issued by the license issuing authority of the county in which the place of business is located. The holder of the license may keep for sale and sell beer at retail in any quantity to any consumers at the place described in the license. The holder shall deliver the beer in a sealed package or container, which may not be opened nor its contents consumed on the premises where sold.</section>

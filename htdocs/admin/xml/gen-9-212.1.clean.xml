@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-212.1" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-212.1</section_number>
-  <catch_line/>
+  <catch_line>The Department may deny an application for a permit for a sanitary landfill system to any nongovernm...</catch_line>
+  <order_by>212.1</order_by>
   <text>The Department may deny an application for a permit for a sanitary landfill system to any nongovernmental person if:<section prefix=""><section prefix="(1)">The owner of the land, the operator, or the applicant has violated:<section prefix="(i)">Any law of this State or any other state concerning sanitary landfills; or</section><section prefix="(ii)">Any regulation or permit condition of this State or any other state concerning sanitary landfills; or</section></section><section prefix="(2)">The Department finds that operation of the sanitary landfill system would harm public health or the environment.</section></section></text>
 </law>

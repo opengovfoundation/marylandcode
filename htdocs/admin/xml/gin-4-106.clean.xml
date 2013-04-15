@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-106" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) and (c) of this section, to qualify for a certificate of authority, an insurer shall deposit and maintain in trust with the Treasurer, for the protection of the insurer's policyholders and creditors, an amount not less than $100,000 in:<section prefix="(1)">cash; or</section><section prefix="(2)">government securities eligible for the investment of capital funds of domestic insurers as specified in &#xA7; 5-701(b) of this article.</section></section>
     <section prefix="(b)">For a foreign insurer, instead of all or part of the deposit required by subsection (a) of this section, the Commissioner shall accept the current certificate of the insurance supervisory official of another state showing that a like deposit by the foreign insurer is being maintained:<section prefix="(1)">in public custody or in a depository approved by the official; and</section><section prefix="(2)">in trust for protection of the policyholders and creditors of the foreign insurer in the United States.</section></section>

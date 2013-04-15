@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-209" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Secretary shall develop congregate housing services programs for seniors in conjunction with:<section prefix="(i)">public or private for profit or nonprofit corporations; or</section><section prefix="(ii)">State or federal units.</section></section>

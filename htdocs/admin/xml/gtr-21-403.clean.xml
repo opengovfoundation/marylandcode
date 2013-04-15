@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-403" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Preferential right-of-way at an intersection may be indicated by stop signs or yield signs placed in accordance with the Maryland Vehicle Law.</section>
     <section prefix="(b)">If the driver of a vehicle approaches a through highway, the driver shall:<section prefix="(1)">Stop at the entrance to the through highway; and</section><section prefix="(2)">Yield the right-of-way to any other vehicle approaching on the through highway.</section></section>

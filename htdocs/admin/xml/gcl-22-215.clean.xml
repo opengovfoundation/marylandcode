@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-215" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">Receipt of an electronic message is effective when received even if no individual is aware of its receipt.</section>
     <section prefix="(b)">Receipt of an electronic acknowledgment of an electronic message establishes that the message was received but by itself does not establish that the content sent corresponds to the content received.</section>

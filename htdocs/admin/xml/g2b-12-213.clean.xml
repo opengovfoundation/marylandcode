@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-213" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-12-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">In Harford County it shall be the duty of all holders of "on-sale" licenses to keep complete and accurate books of account of their receipts and expenditures in such form as may be prescribed by the Liquor Control Board, showing in detail the daily receipts from the sale authorized therein; and said licensees shall also procure vouchers or purchase slips for all alcoholic beverages, food or other commodities and items bought and permitted to be sold therein, which said books, accounts and records shall be open at all times to inspection by the said Board or any officer or inspector appointed by the said Liquor Control Board for that purpose.</section>
     <section prefix="(b)">All licensees shall make such reports to the Liquor Control Board of all purchases and sales of alcoholic beverages as may be required by the regulations of said Board, and if it is shown by such reports or by investigation by said Board, said officers, or by any other person, that any licensee is violating the provisions of this article, it shall be the duty of said Board to summon such licensee before it, for a hearing. If at such hearing the charges are sustained, the license of such licensee shall immediately be revoked.</section>
@@ -15,7 +15,7 @@
       <section prefix="(1)">This subsection applies only in Harford County.</section>
       <section prefix="(2)">An alcoholic beverages licensee may not:<section prefix="(i)">Employ any person under the age of 18 years for the purposes of selling or serving alcoholic beverages;</section><section prefix="(ii)">Permit any person under the age of 18 years to sell or serve alcoholic beverages; or</section><section prefix="(iii)">Except as provided in paragraph (3) of this subsection, employ a person under the age of 21 years to act as a bartender or to serve alcoholic beverages at a permanent full-service bar.</section></section>
       <section prefix="(3)">A person at least 18 years old may act as a bartender or serve alcoholic beverages at a permanent full-service bar if the person is the son or daughter of the owner of the establishment.</section>
-      <section prefix="(4)">An alcoholic beverages licensee may employ:<section prefix="(i)">A person at least 18 years old to serve alcoholic beverages while acting as a waiter or waitress; or</section><section prefix="(ii)">A person at least 16 years old to act as a bartender's assistant who:</section></section>
+      <section prefix="(4)">An alcoholic beverages licensee may employ:<section prefix="(i)">A person at least 18 years old to serve alcoholic beverages while acting as a waiter or waitress; or</section><section prefix="(ii)">A person at least 16 years old to act as a bartender's assistant who:<section prefix="1.">May replace ice, remove trash, or perform similar tasks that do not involve alcoholic beverages; but</section><section prefix="2.">May not engage in the distribution or sale of alcoholic beverages.</section></section></section>
     </section>
   </text>
 </law>

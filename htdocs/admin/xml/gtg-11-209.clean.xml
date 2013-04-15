@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-209" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">The sales and use tax does not apply to a casual and isolated sale by a person who regularly does not sell tangible personal property or a taxable service if:<section prefix="(1)">the sale price is less than $1,000; and</section><section prefix="(2)">the sale is not made through an auctioneer or a dealer.</section></section>
     <section prefix="(b)">The sales and use tax does not apply to a distribution of tangible personal property by:<section prefix="(1)">a corporation or joint-stock company to its stockholders as a liquidating distribution;</section><section prefix="(2)">a partnership to a partner; or</section><section prefix="(3)">a limited liability company to a member.</section></section>

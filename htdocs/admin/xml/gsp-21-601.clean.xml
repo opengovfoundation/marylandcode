@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-601" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Direct rollover" means a payment by the State Retirement Agency directly to the eligible retirement plan specified by the participant, the surviving spouse of a participant, or the designated beneficiary of the participant.</section>
@@ -15,7 +15,7 @@
       <section prefix="(2)">"Eligible rollover distribution" does not include:<section prefix="(i)">any distribution that is one of a series of substantially equal periodic payments that are made at least annually for the life or life expectancy of the participant or the joint lives or joint life expectancies of the participant and the participant's beneficiary;</section><section prefix="(ii)">any distribution that is one of a series of substantially equal periodic payments made for a specified period of at least 10 years;</section><section prefix="(iii)">any distribution that is required under &#xA7; 401(a)(9) of the Internal Revenue Code; or</section><section prefix="(iv)">any distribution that is reasonably expected to total less than $200 during the calendar year.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">Effective January 1, 2002, a portion of a distribution will not fail to be an eligible rollover distribution merely because that portion consists of after-tax employee contributions that are not includible in gross income.</section>
-        <section prefix="(ii)">A portion of a distribution described in subparagraph (i) of this paragraph may be transferred only to:</section>
+        <section prefix="(ii)">A portion of a distribution described in subparagraph (i) of this paragraph may be transferred only to:<section prefix="1.">an individual retirement account or annuity described in &#xA7; 408(a) or (b) of the Internal Revenue Code;</section><section prefix="2.">a qualified defined contribution plan described in &#xA7; 401(a) of the Internal Revenue Code; or</section><section prefix="3.">on or after January 1, 2007, to a qualified defined benefit plan described in &#xA7; 401(a) of the Internal Revenue Code or to an annuity contract described in &#xA7; 403(b) of the Internal Revenue Code, that agrees to account separately for amounts transferred to the account and earnings received as a result of the transferred amounts.</section></section>
       </section>
     </section>
     <section prefix="(e)">"Supplemental plan" means the Board of Trustees of the Maryland Teachers and State Employees Supplemental Retirement Plans.</section>

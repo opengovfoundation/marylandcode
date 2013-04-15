@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">A person is not liable on an instrument unless (i) the person signed the instrument, or (ii) the person is represented by an agent or representative who signed the instrument and the signature is binding on the represented person under &#xA7; 3-402.</section>
     <section prefix="(b)">A signature may be made (i) manually or by means of a device or machine, and (ii) by the use of any name, including a trade or assumed name, or by a word, mark, or symbol executed or adopted by a person with present intention to authenticate a writing.</section>

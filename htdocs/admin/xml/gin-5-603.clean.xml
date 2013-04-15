@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-603" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">The eligibility of an investment shall be determined as of the date of the making or acquisition of the investment.</section>
     <section prefix="(b)">An investment limitation that is based on the amount of assets or particular funds of an insurer shall relate to the assets or funds as shown by:<section prefix="(1)">the annual statement of the insurer as of the December 31 immediately preceding the date of acquisition of the investment by the insurer; or</section><section prefix="(2)">a current financial statement of the insurer filed with the Commissioner that reflects the result of merger or consolidation with another insurer, bulk reinsurance, or change in capitalization.</section></section>

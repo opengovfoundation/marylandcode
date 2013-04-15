@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-521" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-521</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>521</order_by>
   <text>
     <section prefix="(a)">A person may not obtain or attempt to obtain legal representation from the Office of the Public Defender by willfully and knowingly:<section prefix="(1)">making a false representation or false statement;</section><section prefix="(2)">failing to disclose the person's true financial condition; or</section><section prefix="(3)">using any other fraudulent means.</section></section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 1 year or a fine not exceeding $1,000 or both.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-515" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-515</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>515</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 11-516 of this subtitle, the takeout that a licensee deducts from the handle of a race shall be allocated in accordance with this section.</section>
     <section prefix="(b)">A licensee shall:<section prefix="(1)">keep 50% of the breakage;</section><section prefix="(2)">allocate 45% of the breakage for purses; and</section><section prefix="(3)">allocate 5% of the breakage to the Maryland-Bred Race Fund.</section></section>

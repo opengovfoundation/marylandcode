@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-915" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-915</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>915</order_by>
   <text>
     <section prefix="(a)">On inspection, the Chief Boiler Inspector or an authorized deputy boiler inspector may prohibit the use of a boiler or pressure vessel if the inspector determines that:<section prefix="(1)">the boiler or pressure vessel or part of it violates a standard, safety code, or regulation adopted under this subtitle; and</section><section prefix="(2)">there is substantial probability that death, serious physical harm, or serious damage to property could result from continued use of the boiler or pressure vessel.</section></section>
     <section prefix="(b)">

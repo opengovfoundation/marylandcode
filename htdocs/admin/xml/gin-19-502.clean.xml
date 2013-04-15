@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-502" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">This subtitle does not affect Title 17 of the Transportation Article.</section>
     <section prefix="(b)">Neither this subtitle nor Title 17 of the Transportation Article prevents an insurer from issuing, selling, or delivering motor vehicle liability insurance policies that provide liability coverage in excess of the requirements of the Maryland Vehicle Law.</section>

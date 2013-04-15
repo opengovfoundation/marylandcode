@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-301" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-14-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">Courts of equity have full jurisdiction to enforce trusts for charitable purposes upon suit of the State by the Attorney General or suit of any person having an interest in enforcement of the trust.</section>
     <section prefix="(b)">"Charitable purposes" includes all purposes within either the spirit or letter of the statute of 43 Elizabeth ch. 4 (1601), commonly known as the statute of charitable uses.</section>

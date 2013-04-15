@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-405" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-25-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">The Governing Committee shall adopt a program of operation in accordance with this subtitle.</section>
     <section prefix="(b)">The program of operation shall provide for economical, fair, and nondiscriminatory administration and for the prompt and efficient delivery of essential property insurance and homeowner's insurance to promote orderly community development.</section>

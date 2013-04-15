@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-827" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-827</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>827</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Cooperative group" means a formal network of facilities that collaborate on research projects and have an established NIH-approved Peer Review Program operating within the group.</section>
-        <section prefix="(ii)">"Cooperative group" includes:</section>
+        <section prefix="(ii)">"Cooperative group" includes:<section prefix="1.">the National Cancer Institute Clinical Cooperative Group;</section><section prefix="2.">the National Cancer Institute Community Clinical Oncology Program;</section><section prefix="3.">the AIDS Clinical Trials Group; and</section><section prefix="4.">the Community Programs for Clinical Research in AIDS.</section></section>
       </section>
       <section prefix="(3)">"FDA" means the federal Food and Drug Administration.</section>
       <section prefix="(4)">"Member" means a policyholder, subscriber, insured, or certificate holder or a covered dependent of a policyholder, subscriber, insured, or certificate holder.</section>
@@ -19,7 +19,7 @@
       <section prefix="(6)">"NIH" means the National Institutes of Health.</section>
       <section prefix="(7)">
         <section prefix="(i)">"Patient cost" means the cost of a medically necessary health care service that is incurred as a result of the treatment being provided to the member for purposes of the clinical trial.</section>
-        <section prefix="(ii)">"Patient cost" does not include:</section>
+        <section prefix="(ii)">"Patient cost" does not include:<section prefix="1.">the cost of an investigational drug or device;</section><section prefix="2.">the cost of nonhealth care services that a patient may be required to receive as a result of the treatment being provided for purposes of the clinical trial;</section><section prefix="3.">costs associated with managing the research associated with the clinical trial; or</section><section prefix="4.">costs that would not be covered under the patient's policy, plan, or contract for noninvestigational treatments.</section></section>
       </section>
     </section>
     <section prefix="(b)">This section applies to:<section prefix="(1)">insurers and nonprofit health service plans that provide hospital, medical, surgical, or pharmaceutical benefits to individuals or groups on an expense-incurred basis under a health insurance policy or contract issued or delivered in the State; and</section><section prefix="(2)">health maintenance organizations that provide hospital, medical, surgical, or pharmaceutical benefits to individuals or groups under contracts that are issued or delivered in the State.</section></section>

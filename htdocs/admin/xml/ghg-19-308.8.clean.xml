@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-308.8" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-308.8</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308.8</order_by>
   <text>
     <section prefix="(a)">A hospital may discharge a patient:<section prefix="(1)">Entirely;</section><section prefix="(2)">To another level of care, treatment, or services;</section><section prefix="(3)">To different health professionals; or</section><section prefix="(4)">To settings for continued services.</section></section>
     <section prefix="(b)">A hospital's process for transfer or discharge shall be based on a patient's assessed needs.</section>

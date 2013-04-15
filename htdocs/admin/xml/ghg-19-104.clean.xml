@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-104" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission shall consist of 15 members appointed by the Governor with the advice and consent of the Senate.</section>
-      <section prefix="(2)">Of the 15 members:<section prefix="(i)">Nine shall be individuals who do not have any connection with the management or policy of a health care provider or payor; and</section><section prefix="(ii)">Of the remaining six members:</section></section>
+      <section prefix="(2)">Of the 15 members:<section prefix="(i)">Nine shall be individuals who do not have any connection with the management or policy of a health care provider or payor; and</section><section prefix="(ii)">Of the remaining six members:<section prefix="1.">Two shall be physicians;</section><section prefix="2.">Two shall be payors, as defined in &#xA7; 19-132 of this subtitle;</section><section prefix="3.">One shall be a nursing home administrator in the State; and</section><section prefix="4.">One shall be a nonphysician health care practitioner.</section></section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">The term of a member is 4 years.</section>
@@ -19,6 +19,6 @@
       <section prefix="(5)">The Governor may remove a member for neglect of duty, incompetence, or misconduct.</section>
       <section prefix="(6)">A member may not serve more than two consecutive terms.</section>
     </section>
-    <section prefix="(c)">When appointing members to the Commission, the Governor shall:<section prefix="(1)">Assure that:<section prefix="(i)">At least five members are residents of different counties with a population of 300,000 or more; and</section><section prefix="(ii)">At least three members are residents of different counties with a population of less than 300,000, of which at least:</section></section><section prefix="(2)">To the extent practicable, assure geographic balance and promote racial, ethnic, and gender diversity in the Commission's membership.</section></section>
+    <section prefix="(c)">When appointing members to the Commission, the Governor shall:<section prefix="(1)">Assure that:<section prefix="(i)">At least five members are residents of different counties with a population of 300,000 or more; and</section><section prefix="(ii)">At least three members are residents of different counties with a population of less than 300,000, of which at least:<section prefix="1.">One shall be a resident of the Eastern Shore;</section><section prefix="2.">One shall be a resident of Allegany County, Garrett County, Washington County, Carroll County, or Frederick County; and</section><section prefix="3.">One shall be a resident of Southern Maryland; and</section></section></section><section prefix="(2)">To the extent practicable, assure geographic balance and promote racial, ethnic, and gender diversity in the Commission's membership.</section></section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-206" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, a written agreement to submit any existing controversy to arbitration or a provision in a written contract to submit to arbitration any controversy arising between the parties in the future is valid and enforceable, and is irrevocable, except upon grounds that exist at law or in equity for the revocation of a contract.</section>
     <section prefix="(b)">This subtitle does not apply to an arbitration agreement between employers and employees or between their respective representatives unless it is expressly provided in the agreement that this subtitle shall apply.</section>

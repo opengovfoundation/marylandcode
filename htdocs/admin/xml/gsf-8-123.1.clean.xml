@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-123.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-8-123.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123.1</order_by>
   <text>
     <section prefix="(a)">In accordance with the authority to issue capital appreciation bonds under &#xA7; 8-121 of this subtitle, the Board, in a resolution setting forth the terms and conditions of any State bond issue, may designate that all or a portion of the State bonds be issued as capital appreciation bonds.</section>
     <section prefix="(b)">The Board may sell the capital appreciation bonds at a negotiated sale if the Board determines that a negotiated sale will provide greater access to investors who are residents of the State of Maryland.</section>

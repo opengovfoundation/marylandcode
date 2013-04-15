@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-408" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">Publication expenses may not be paid from public funds.</section>
-    <section prefix="(b)">Publication expenses may be paid from:<section prefix="(1)">a campaign account of a campaign finance entity of the incumbent if the campaign finance entity complies with all other requirements of this title regarding expenditures and campaign material; or</section><section prefix="(2)">the personal funds of the incumbent or the spouse of the incumbent if, as to each issue:<section prefix="(i)">the incumbent has not filed a certificate of candidacy;</section><section prefix="(ii)">the legislative newsletter contains a notice that it is disseminated at the personal expense of the incumbent; and</section><section prefix="(iii)">within 10 days after the first mailing or distribution of the issue, the incumbent files a campaign finance report with the State Board that contains:</section></section></section>
+    <section prefix="(b)">Publication expenses may be paid from:<section prefix="(1)">a campaign account of a campaign finance entity of the incumbent if the campaign finance entity complies with all other requirements of this title regarding expenditures and campaign material; or</section><section prefix="(2)">the personal funds of the incumbent or the spouse of the incumbent if, as to each issue:<section prefix="(i)">the incumbent has not filed a certificate of candidacy;</section><section prefix="(ii)">the legislative newsletter contains a notice that it is disseminated at the personal expense of the incumbent; and</section><section prefix="(iii)">within 10 days after the first mailing or distribution of the issue, the incumbent files a campaign finance report with the State Board that contains:<section prefix="1.">a detailed list of publication expenses; and</section><section prefix="2.">an affidavit that no funds for the legislative newsletter have been solicited or received from any source to supplement the personal funds.</section></section></section></section>
   </text>
 </law>

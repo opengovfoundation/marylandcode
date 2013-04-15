@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-526" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-4-526</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>526</order_by>
   <text>
     <section prefix="(a)">A Program participant may make a request to any State or local agency to use the substitute address designated by the Secretary of State as the Program participant's address.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, when a Program participant has made a request to a State or local agency under subsection (a) of this section, the State or local agency shall use the substitute address designated by the Secretary of State as a Program participant's address.</section>

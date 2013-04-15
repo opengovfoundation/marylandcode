@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-305" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-10-305</section_number>
-  <catch_line/>
+  <catch_line>The governing body of Garrett County or of Washington County may prorate the county property tax on ...</catch_line>
+  <order_by>305</order_by>
   <text>The governing body of Garrett County or of Washington County may prorate the county property tax on personal property for the part of a taxable year during which a business actually does business in Garrett County or Washington County.</text>
 </law>

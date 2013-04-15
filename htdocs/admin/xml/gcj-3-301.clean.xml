@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">A court of equity or a court of law, including the District Court, may issue an attachment on a judgment or decree in lieu of any other execution.</section>
     <section prefix="(b)">A plaintiff may attach a debt due the defendant on a judgment or decree of a court of law or equity, including the District Court.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-206" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-12-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">In Caroline County a Class A beer, wine, or liquor licensee may not allow persons under the age of 18 to engage in pool, billiards, shuffleboard, or the playing of pinball or console machines, or in any other game of chance or skill in the licensed establishment unless those persons under 18 are accompanied by a parent or legal guardian.</section>
     <section prefix="(b)">A licensee, on indictment and conviction of a violation of this section is guilty of a misdemeanor and shall be subject to a fine of not less than $50 or imprisonment for not more than 30 days, or both.</section>

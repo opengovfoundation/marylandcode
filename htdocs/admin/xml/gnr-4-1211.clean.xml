@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1211" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-1211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1211</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In addition to any other penalty or fine provided in this title, a person who is authorized to catch striped bass or crabs under &#xA7; 4-701 of this title and who commits an offense established under paragraph (2) of this subsection may have the authorization to catch striped bass or crabs revoked in accordance with this section.</section>

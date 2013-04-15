@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (c), (d), and (e), a description of personal or real property is sufficient, whether or not it is specific, if it reasonably identifies what is described.</section>
     <section prefix="(b)">Except as otherwise provided in subsection (d), a description of collateral reasonably identifies the collateral if it identifies the collateral by:<section prefix="(1)">Specific listing;</section><section prefix="(2)">Category;</section><section prefix="(3)">Except as otherwise provided in subsection (e), a type of collateral defined in Titles 1 through 10 of this article;</section><section prefix="(4)">Quantity;</section><section prefix="(5)">Computational or allocational formula or procedure; or</section><section prefix="(6)">Except as otherwise provided in subsection (c), any other method, if the identity of the collateral is objectively determinable.</section></section>

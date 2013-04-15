@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-609" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-609</section_number>
-  <catch_line/>
+  <catch_line>If a covered employee or the dependents of a covered employee receive compensation or damages under ...</catch_line>
+  <order_by>609</order_by>
   <text>If a covered employee or the dependents of a covered employee receive compensation or damages under the law of another state, this title may not be construed to allow a total compensation for the same accidental personal injury or occupational disease that is greater than the total compensation provided under this title.</text>
 </law>

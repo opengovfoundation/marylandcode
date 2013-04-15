@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-526" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-526</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>526</order_by>
   <text>
     <section prefix="(a)">In this section, "Park and Planning Commission" means the Maryland-National Capital Park and Planning Commission.</section>
     <section prefix="(b)">The State Racing Commission shall issue a special thoroughbred racing license to the Park and Planning Commission to hold racing in 4 one-day race meetings at the Prince George's Equestrian Center.</section>

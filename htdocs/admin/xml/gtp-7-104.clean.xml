@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-104" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (c) of this section and in &#xA7;&#xA7; 7-202 and 7-215 of this title, property tax on wholly exempt property shall be abated for the taxable year that follows the date on which the property became exempt.</section>
     <section prefix="(b)">If an owner of property subject to an exemption on June 30 files an application for abatement on or before the following September 1 with the Department or the supervisor, the tax is abated for the taxable year.</section>

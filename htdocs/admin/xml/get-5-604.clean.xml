@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-604" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-5-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless bond is expressly excused by the will or by the written waiver of all interested persons, a person appointed as a personal representative in accordance with &#xA7; 5-603(a)(1) of this subtitle shall be required to give bond if the estate is established to have a gross value of $10,000 or more after the payment of expenses and allowances under &#xA7; 5-603(a)(2) of this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-703" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">In this section, "certified nurse practitioner" means a licensed registered nurse who has:<section prefix="(1)">completed a nurse practitioner program approved by the State Board of Nursing; and</section><section prefix="(2)">passed an examination approved by the State Board of Nursing.</section></section>
     <section prefix="(b)">Each insurer that proposes to issue, renew, amend, or reissue an individual, group, or blanket health insurance policy in the State that is written on an expense-incurred basis shall offer the option of providing benefits for expenses that arise from services rendered by a certified nurse practitioner.</section>

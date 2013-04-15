@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-212" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each policy of life insurance shall have the name of the beneficiary designated on the policy, or in the application or another form if attached to the policy, with a reservation of the right to designate or change the beneficiary after the policy is issued, unless the beneficiary is irrevocably designated.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-314" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-314</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>314</order_by>
   <text>
     <section prefix="(a)">Without being required to take any action to perfect a lien, a credit union has a lien and a right to a setoff on the shares and deposits of a member in any individual, multiple party, or other type of account, including any dividends or interest payable on those shares or deposits, to the extent of any delinquency or default of the member on:<section prefix="(1)">Any outstanding loan, whether or not matured, on which the member is liable to the credit union as maker, comaker, surety, or endorser; and</section><section prefix="(2)">Any dues, charges, fees, fines, or other amount payable by the member.</section></section>
     <section prefix="(b)">If a member resigns or is expelled, the credit union may cancel that member's shares and apply their withdrawal value against any amount owed to the credit union by the member.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">A partner may not with fraudulent intent:<section prefix="(1)">convert or appropriate to the partner's own use partnership money or property;</section><section prefix="(2)">make, or cause to be made, a false entry in partnership records of a partnership transaction; or</section><section prefix="(3)">fail to make or cause to be made an entry in partnership records to show the true state of a transaction:<section prefix="(i)">relating to partnership business; or</section><section prefix="(ii)">involving the use of partnership money or property.</section></section></section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 10 years or a fine not exceeding $5,000 or both.</section>

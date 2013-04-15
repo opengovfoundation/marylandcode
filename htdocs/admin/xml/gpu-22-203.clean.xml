@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-203" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-22-203</section_number>
-  <catch_line/>
+  <catch_line>Bonds issued under this subtitle are negotiable instruments under the laws of the State....</catch_line>
+  <order_by>203</order_by>
   <text>Bonds issued under this subtitle are negotiable instruments under the laws of the State.</text>
 </law>

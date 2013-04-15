@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-301" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-5-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, an individual shall be licensed by the Board before the individual may practice dietetics in the State.</section>
     <section prefix="(b)">The following individuals may practice dietetics without a license:<section prefix="(1)">A student or trainee, working under the supervision of a licensed dietitian-nutritionist while fulfilling an experience requirement or pursuing a course of study to meet requirements for licensure, for a limited period of time as determined by the Board;</section><section prefix="(2)">An individual employed by the United States government to practice dietetics, while practicing within the scope of that employment; and</section><section prefix="(3)">An individual who aids in the practice of dietetics, if the individual works under the supervision of a licensed dietitian-nutritionist or licensed physician.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-110" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-9-110</section_number>
-  <catch_line/>
+  <catch_line>No person having the right to establish a mechanics' lien waives the right by granting a credit, or ...</catch_line>
+  <order_by>110</order_by>
   <text>No person having the right to establish a mechanics' lien waives the right by granting a credit, or receiving a note or other security, unless it is received as payment or the lien right is expressly waived.</text>
 </law>

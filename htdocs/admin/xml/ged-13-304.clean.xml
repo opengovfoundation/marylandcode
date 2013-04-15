@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-304" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-13-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The government of the Medical System Corporation is vested in the Board of Directors.</section>
     <section prefix="(b)">The Board of Directors consists of 6 nonvoting members and not less than 22 and not more than 27 voting members appointed by the Governor.</section>

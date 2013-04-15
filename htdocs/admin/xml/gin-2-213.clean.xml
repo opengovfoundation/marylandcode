@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-213" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in this subsection, all hearings shall be open to the public in accordance with Article 41, &#xA7; 1-205 of the Code.</section>
@@ -14,7 +14,7 @@
       <section prefix="(4)">A hearing held by the Commissioner to evaluate the financial condition of an insurer under the risk based capital standards set out in Title 4, Subtitle 3 of this article is not required to be open to the public.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">The Commissioner shall allow any party to a hearing to:<section prefix="(i)">appear in person;</section><section prefix="(ii)">be represented:</section><section prefix="(iii)">be present while evidence is given;</section><section prefix="(iv)">have a reasonable opportunity to inspect all documentary evidence and to examine witnesses; and</section><section prefix="(v)">present evidence.</section></section>
+      <section prefix="(1)">The Commissioner shall allow any party to a hearing to:<section prefix="(i)">appear in person;</section><section prefix="(ii)">be represented:<section prefix="1.">by counsel; or</section><section prefix="2.">in the case of an insurer, by a designee of the insurer who:</section></section><section prefix="(iii)">be present while evidence is given;</section><section prefix="(iv)">have a reasonable opportunity to inspect all documentary evidence and to examine witnesses; and</section><section prefix="(v)">present evidence.</section></section>
       <section prefix="(2)">On request of a party, the Commissioner shall issue subpoenas to compel attendance of witnesses or production of evidence on behalf of the party.</section>
     </section>
     <section prefix="(c)">The Commissioner shall allow any person that was not an original party to a hearing to become a party by intervention if:<section prefix="(1)">the intervention is timely; and</section><section prefix="(2)">the financial interests of the person will be directly and immediately affected by an order of the Commissioner resulting from the hearing.</section></section>

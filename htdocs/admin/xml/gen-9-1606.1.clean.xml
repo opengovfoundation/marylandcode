@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1606.1" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1606.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1606.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"Lender" means a financial institution that:<section prefix="(i)">Is eligible to make commercial loans;</section><section prefix="(ii)">Agrees to receive linked deposits under this subtitle; and</section><section prefix="(iii)"/></section>
+      <section prefix="(2)">"Lender" means a financial institution that:<section prefix="(i)">Is eligible to make commercial loans;</section><section prefix="(ii)">Agrees to receive linked deposits under this subtitle; and</section><section prefix="(iii)"><section prefix="1.">Is a public depository of State funds insured by the Federal Deposit Insurance Corporation; or</section><section prefix="2.">Is an institution of the Farm Credit System organized under the Farm Credit Act of 1971, as amended.</section></section></section>
       <section prefix="(3)">"Linked deposit" means a deposit or investment that is placed by the Administration with a lender and earns income below the prevailing market rate for equivalent deposits or investments made with the lender at the time of the deposit or investment.</section>
       <section prefix="(4)">"Linked deposit loan" means a loan from a lender to a borrower that:<section prefix="(i)">Is used for the purposes of &#xA7; 9-1605(d)(6) or &#xA7; 9-1605.1(d)(7) of this subtitle; and</section><section prefix="(ii)">Is provided at an interest rate below the prevailing market rate to the same extent income earned on the linked deposit is below income paid on equivalent deposits.</section></section>
       <section prefix="(5)">"Linked Deposit Program" means a program established by the Administration whereby a linked deposit is placed with a lender based on the agreement of the lender to provide a linked deposit loan to a borrower.</section>

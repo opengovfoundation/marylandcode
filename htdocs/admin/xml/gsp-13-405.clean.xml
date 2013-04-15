@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-405" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-13-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">A unit that seeks to enter into a service contract that is not exempt under &#xA7; 13-403(c) or &#xA7; 13-404(b) of this subtitle shall submit to the Department the information required by this section.</section>
     <section prefix="(b)">The unit shall submit a demonstration that the unit has taken formal and positive steps to consider alternatives to the service contract, including reorganization, reevaluation of service, and reevaluation of performance.</section>

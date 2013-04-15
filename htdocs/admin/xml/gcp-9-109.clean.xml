@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-109" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-9-109</section_number>
-  <catch_line/>
+  <catch_line>A law enforcement officer or other person empowered to make the arrest under &#xA7; 9-108 of this title ...</catch_line>
+  <order_by>109</order_by>
   <text>A law enforcement officer or other person empowered to make the arrest under &#xA7; 9-108 of this title has the same authority in arresting the accused to command assistance as law enforcement officers have by law in the execution of any criminal process directed to them, with like penalties against those who refuse their assistance.</text>
 </law>

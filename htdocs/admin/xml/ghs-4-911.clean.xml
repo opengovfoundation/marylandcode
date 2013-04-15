@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-911" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-911</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>911</order_by>
   <text>
     <section prefix="(a)">To ensure that all areas of the State are served, the Department shall allocate at least annually among the counties the money appropriated for making Program loans under the Regular Rehabilitation Program.</section>
     <section prefix="(b)">When allocating money to a county, the Department shall consider:<section prefix="(1)">the number of families of limited income in the county;</section><section prefix="(2)">the need to rehabilitate buildings in the county;</section><section prefix="(3)">the capability of the county to administer a local rehabilitation program; and</section><section prefix="(4)">other standards that the Department considers relevant to ensure fair and equitable distribution of money among counties.</section></section>

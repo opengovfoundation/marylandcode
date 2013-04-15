@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-601" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-10-601</section_number>
-  <catch_line/>
+  <catch_line>Except as otherwise provided in this subtitle:...</catch_line>
+  <order_by>601</order_by>
   <text>Except as otherwise provided in this subtitle:<section prefix=""><section prefix="(1)">To the extent set forth in the partnership agreement, a partner is entitled to receive distributions from a limited partnership before his withdrawal and before the dissolution and winding up of the limited partnership; and</section><section prefix="(2)">To the extent set forth in the partnership agreement, a limited partner is entitled to receive distributions which constituted a return of any part of that limited partner's contribution before his withdrawal and before the winding up of the limited partnership.</section></section></text>
 </law>

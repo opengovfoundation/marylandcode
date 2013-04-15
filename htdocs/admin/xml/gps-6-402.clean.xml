@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-402" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-6-402</section_number>
-  <catch_line/>
+  <catch_line>On request of the chief of the Baltimore City Fire Department, the Commission and State Fire Marshal...</catch_line>
+  <order_by>402</order_by>
   <text>On request of the chief of the Baltimore City Fire Department, the Commission and State Fire Marshal shall provide any assistance necessary to:<section prefix=""><section prefix="(1)">enforce fire prevention regulations in Baltimore City; and</section><section prefix="(2)">investigate the cause or origin of a fire in Baltimore City.</section></section></text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-605" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-605</section_number>
-  <catch_line/>
+  <catch_line>If a person fails to pay property tax when required by this article, the person shall pay interest o...</catch_line>
+  <order_by>605</order_by>
   <text>If a person fails to pay property tax when required by this article, the person shall pay interest on the total tax liability on property for each month or fraction of the month from the date the property tax payment is required to be paid under Title 10 of this article to the date the tax is paid.</text>
 </law>

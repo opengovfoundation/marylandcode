@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-330" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-330</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>330</order_by>
   <text>
     <section prefix="(a)">At the time of administration of pertussis vaccine to an individual, the health care provider shall record in a permanent record to which the patient or the patient's parent or guardian shall have access on request:<section prefix="(1)">The date of each vaccination;</section><section prefix="(2)">The manufacturer and lot number of the vaccine used for each;</section><section prefix="(3)">Any other identifying information on the vaccine used; and</section><section prefix="(4)">The name and title of the health care provider.</section></section>
     <section prefix="(b)">Within 24 hours any health care provider who has administered pertussis vaccine to an individual and has reason to believe that the individual has had a major adverse reaction to the vaccine shall:<section prefix="(1)">Record all relevant information in the individual's permanent medical record; and</section><section prefix="(2)">Report the information, including the manufacturer's name and lot number, to the local health officer who shall immediately forward the information to the Department. On receipt of the information, the Department shall immediately notify the vaccine manufacturer.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-708" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-8-708</section_number>
-  <catch_line/>
+  <catch_line>An applicant for a license shall:...</catch_line>
+  <order_by>708</order_by>
   <text>An applicant for a license shall:<section prefix=""><section prefix="(1)">submit an application to the Commission in the form that the Commission provides;</section><section prefix="(2)">pay a nonrefundable application fee established through regulation;</section><section prefix="(3)">submit proof that each of its employees who provides mold remediation services is certified by an accreditation body as a microbial remediation supervisor or microbial remediation technician, whichever is applicable;</section><section prefix="(4)">submit proof of insurance as required by &#xA7; 8-706 of this subtitle; and</section><section prefix="(5)">provide any other information the Commission may require.</section></section></text>
 </law>

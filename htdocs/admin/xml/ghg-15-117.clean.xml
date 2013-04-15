@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-117" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">In this section, "leave of absence" includes:<section prefix="(1)">A visit with friends or relatives; and</section><section prefix="(2)">A leave to participate in a State approved therapeutic or rehabilitative program.</section></section>
     <section prefix="(b)">To ensure that a bed is reserved for a Program recipient who is on leave of absence from a nursing facility that has made a provider agreement with the Department, the facility shall receive payment for each day that the Program recipient is absent and a bed is reserved and made available for the return of that Program recipient.</section>

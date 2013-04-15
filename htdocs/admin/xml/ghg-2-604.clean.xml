@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-604" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-2-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
@@ -15,14 +15,18 @@
       <section prefix="(2)">A person filing an action under this section may seek:<section prefix="(i)">The penalties provided under &#xA7; 2-602(b) of this subtitle; and</section><section prefix="(ii)">Subject to the guidelines set forth in &#xA7; 2-605(a)(4) of this subtitle, court costs and attorney's fees.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The person shall serve on the State a copy of the complaint and a written disclosure of substantially all material evidence and information that the person possesses, in accordance with the provisions of Title 2 of the Maryland Rules for serving process on the State.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The complaint shall be filed in camera and shall remain under seal for at least 60 days.</section>
+          <section prefix="2.">The complaint may not be served on the defendant until the complaint is unsealed and the court orders the complaint served.</section>
+          <section prefix="3.">Within 60 days after the State receives the complaint and the material evidence and information, the State may elect to intervene and proceed with the action.</section>
+        </section>
       </section>
       <section prefix="(4)">
         <section prefix="(i)">For good cause shown, the State may move the court for extensions of the time during which the complaint remains under seal under paragraph (3)(ii)1 of this subsection.</section>
         <section prefix="(ii)">Any motions made under subparagraph (i) of this paragraph may be supported by affidavits or other submissions in camera.</section>
       </section>
       <section prefix="(5)">
-        <section prefix="(i)">The defendant may not be required to answer a complaint filed under this section until after the complaint is:</section>
+        <section prefix="(i)">The defendant may not be required to answer a complaint filed under this section until after the complaint is:<section prefix="1.">Unsealed and ordered by the court to be served; and</section><section prefix="2.">Served on the defendant in accordance with Title 2 of the Maryland Rules.</section></section>
         <section prefix="(ii)">When answering a complaint filed under this section, a defendant shall follow the time frames and other provisions for filing answers to a complaint as required under Title 2, Chapter 300 of the Maryland Rules.</section>
         <section prefix="(iii)">During the period in which the complaint is under seal, if the State's investigation reveals that the act, transaction, or occurrence that gave rise to the alleged violation of this subtitle is reasonably likely to be continuing, the State shall notify the defendant as soon as practicable without jeopardizing the course and conduct of the State's or the federal government's investigation of the violation, compromising the development of evidence, or violating any State or federal law.</section>
       </section>
@@ -38,10 +42,10 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">Notwithstanding the objections of the person initiating the action, the State may elect at any point to withdraw its intervention as a party to the action.</section>
-        <section prefix="(ii)">If the State elects to withdraw as a party to the action:</section>
+        <section prefix="(ii)">If the State elects to withdraw as a party to the action:<section prefix="1.">The State shall notify the court and the party initiating the action; and</section><section prefix="2.">The court shall dismiss the action.</section></section>
       </section>
       <section prefix="(4)">Notwithstanding the objections of the person initiating the action, if the court determines after a hearing that a proposed settlement is fair, adequate, and reasonable under the circumstances, the State may settle a civil action filed under this section.</section>
-      <section prefix="(5)">On motion of the State or the defendant or on the court's own motion, the court may impose limitations on the participation of the person initiating an action under this section if:<section prefix="(i)">The State shows that the person's unrestricted participation in the action would:</section><section prefix="(ii)">The defendant shows that unrestricted participation by the person initiating the action would harass the defendant or cause the defendant undue burden or unnecessary expense.</section></section>
+      <section prefix="(5)">On motion of the State or the defendant or on the court's own motion, the court may impose limitations on the participation of the person initiating an action under this section if:<section prefix="(i)">The State shows that the person's unrestricted participation in the action would:<section prefix="1.">Interfere with or unduly delay the State in its pursuit of the civil action; or</section><section prefix="2.">Be repetitious, irrelevant, or harassing to the defendant; or</section></section><section prefix="(ii)">The defendant shows that unrestricted participation by the person initiating the action would harass the defendant or cause the defendant undue burden or unnecessary expense.</section></section>
       <section prefix="(6)">Limitations imposed by the court under paragraph (5) of this subsection may include:<section prefix="(i)">A limitation on the number of witnesses the person may call to testify;</section><section prefix="(ii)">A limitation on the length of the testimony of witnesses called by the person;</section><section prefix="(iii)">A limitation on the person's cross-examination of witnesses; or</section><section prefix="(iv)">A limitation on the participation of the person in the litigation.</section></section>
     </section>
     <section prefix="(c)">
@@ -49,7 +53,7 @@
       <section prefix="(2)">If the State seeks an alternative remedy in another proceeding after intervening in a civil action filed under this section, the person initiating the action shall have the same rights in the alternative proceeding as the person would have had if the civil action had continued under this section.</section>
       <section prefix="(3)">
         <section prefix="(i)">A finding of fact or conclusion of law made in any alternative proceeding that has become final shall be conclusive on all parties to an action filed under this subtitle.</section>
-        <section prefix="(ii)">For purposes of subparagraph (i) of this paragraph, a finding or conclusion is final if:</section>
+        <section prefix="(ii)">For purposes of subparagraph (i) of this paragraph, a finding or conclusion is final if:<section prefix="1.">It has been finally determined on appeal to the appropriate court of the State;</section><section prefix="2.">All time for filing the appeal with respect to the finding or conclusion has expired; or</section><section prefix="3.">The finding or conclusion is not subject to judicial review.</section></section>
       </section>
     </section>
     <section prefix="(d)">

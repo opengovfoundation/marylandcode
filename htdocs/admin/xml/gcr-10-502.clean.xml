@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-502" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a person if:<section prefix="(1)">the person's previous lawful spouse has been absent from the person for a continuous period of 7 years; and</section><section prefix="(2)">the person does not know whether the person's previous lawful spouse is living at the time of the subsequent marriage ceremony.</section></section>
     <section prefix="(b)">While lawfully married to a living person, a person may not enter into a marriage ceremony with another.</section>

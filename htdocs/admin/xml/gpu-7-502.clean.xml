@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-502" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Except as required under subsection (b) of this section, the provisions of this subtitle may not be applied to a small rural electric cooperative that:<section prefix="(1)">has less than 10% of its distribution territory within the State;</section><section prefix="(2)">maintains its principal place of business outside the State; and</section><section prefix="(3)">is subject to, and conducts its operations within the State in compliance with, the laws of the state in which its principal place of business is located.</section></section>
     <section prefix="(b)">

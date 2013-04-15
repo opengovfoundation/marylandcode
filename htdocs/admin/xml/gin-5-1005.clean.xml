@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1005" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-1005</section_number>
-  <catch_line/>
+  <catch_line>The Commissioner may establish by regulation limits on the risk retained by an insurer for a subject...</catch_line>
+  <order_by>1005</order_by>
   <text>The Commissioner may establish by regulation limits on the risk retained by an insurer for a subject of financial guaranty insurance, including requirements for contingency reserves used in determining compliance with the applicable risk limits.</text>
 </law>

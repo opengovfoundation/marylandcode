@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-105" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-12-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">In consultation with the institutions and the Chancellor, the Board shall:<section prefix="(i)">Establish standards for funding based on differences in the size and mission of the constituent institutions;</section><section prefix="(ii)">Review, modify, as necessary, and approve consolidated budget requests for appropriations for the University System of Maryland with respect to:</section><section prefix="(iii)">Submit these requests for appropriations organized by constituent institutions to the Commission, Governor, and General Assembly.</section></section>
+      <section prefix="(1)">In consultation with the institutions and the Chancellor, the Board shall:<section prefix="(i)">Establish standards for funding based on differences in the size and mission of the constituent institutions;</section><section prefix="(ii)">Review, modify, as necessary, and approve consolidated budget requests for appropriations for the University System of Maryland with respect to:<section prefix="1.">The operating budget; and</section><section prefix="2.">The capital budget; and</section></section><section prefix="(iii)">Submit these requests for appropriations organized by constituent institutions to the Commission, Governor, and General Assembly.</section></section>
       <section prefix="(2)">After the Board submits the requests for appropriations to the Commission, Governor, and General Assembly, on a date set by the Governor, the President of the University of Maryland, College Park shall have the opportunity to meet with the Governor to present the institution's annual budget request and proposals for capital projects for the next fiscal year to:<section prefix="(i)">Discuss how the requests for appropriations submitted by the Board impacts the mission of the University of Maryland, College Park as the State's flagship institution; and</section><section prefix="(ii)">Recommend that the Governor approve or enhance the requests for appropriations submitted by the Board.</section></section>
     </section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-502" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">An individual on mandatory supervision remains in legal custody until the expiration of the individual's full term.</section>
     <section prefix="(b)">An individual on mandatory supervision is subject to:<section prefix="(1)">all laws, rules, regulations, and conditions that apply to parolees; and</section><section prefix="(2)">any special conditions established by a commissioner.</section></section>

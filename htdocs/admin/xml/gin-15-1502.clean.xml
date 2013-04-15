@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1502" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1502</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission shall conduct an evaluation of existing mandated health insurance services and make recommendations to the General Assembly regarding decision making criteria for reducing the number of mandates or the extent of coverage.</section>
-      <section prefix="(2)">The evaluation shall include:<section prefix="(i)">an assessment of the full cost of each existing mandated health insurance service as a percentage of the State's average annual wage and of premiums:</section><section prefix="(ii)">an assessment of the degree to which existing mandated health insurance services are covered in self-funded plans; and</section><section prefix="(iii)">a comparison of mandated health insurance services provided by the State with those provided in Delaware, the District of Columbia, Pennsylvania, and Virginia.</section></section>
+      <section prefix="(2)">The evaluation shall include:<section prefix="(i)">an assessment of the full cost of each existing mandated health insurance service as a percentage of the State's average annual wage and of premiums:<section prefix="1.">under a typical group and individual health benefit plan in the State;</section><section prefix="2.">under the State employee health benefit plan; and</section><section prefix="3.">under the Comprehensive Standard Health Benefit Plan;</section></section><section prefix="(ii)">an assessment of the degree to which existing mandated health insurance services are covered in self-funded plans; and</section><section prefix="(iii)">a comparison of mandated health insurance services provided by the State with those provided in Delaware, the District of Columbia, Pennsylvania, and Virginia.</section></section>
       <section prefix="(3)">The comparison described in paragraph (2)(iii) of this subsection shall include:<section prefix="(i)">the number of mandated health insurance services;</section><section prefix="(ii)">the type of mandated health insurance services;</section><section prefix="(iii)">the level and extent of coverage for each mandated health insurance service; and</section><section prefix="(iv)">the financial impact of differences in levels of coverage for each mandated health insurance service.</section></section>
       <section prefix="(4)">On or before January 1, 2004, and every 4 years thereafter, the Commission shall submit a report of its findings to the General Assembly, subject to &#xA7; 2-1246 of the State Government Article.</section>
     </section>

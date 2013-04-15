@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-404.5" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-404.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404.5</order_by>
   <text>
     <section prefix="(a)">In this section, "power booster system" means any device installed in a motor vehicle which allows liquid nitrous oxide to combine with gasoline for the purpose of increasing engine power.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a person may not operate on a highway a motor vehicle equipped with a power booster system.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-805" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">A mortgage broker may not receive any fee in the form of a note, mortgage, or other evidence of indebtedness.</section>
     <section prefix="(b)">Payment of the finder's fee to the mortgage broker out of the proceeds of the loan is not considered as interest to the lender if the finder's fee is not in excess of that permitted by this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-205.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-205.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -38,28 +38,37 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">If the Secretary finds that a state of nuisance exists but does not present an imminent danger to the healthy balance of an ecosystem, the Secretary shall serve a written notice to the person determined to have caused the state of nuisance and order the person to abate the state of nuisance within a time specified in the notice.</section>
-      <section prefix="(2)">The notice shall be served:<section prefix="(i)">On the person determined to have caused the state of nuisance; or</section><section prefix="(ii)">If the person determined to have caused the state of nuisance cannot be found, on the owner or occupant of the property:</section></section>
+      <section prefix="(2)">The notice shall be served:<section prefix="(i)">On the person determined to have caused the state of nuisance; or</section><section prefix="(ii)">If the person determined to have caused the state of nuisance cannot be found, on the owner or occupant of the property:<section prefix="1.">Where the state of nuisance exists; or</section><section prefix="2.">That must be entered to access or abate the state of nuisance.</section></section></section>
       <section prefix="(3)">If the person served with the notice under paragraph (2)(i) of this subsection fails to comply with the requirements of the notice or if the person complies but the state of nuisance is likely to recur on the same property, the Secretary may file a complaint in the circuit court for the county where the state of nuisance exists.</section>
       <section prefix="(4)">A complaint filed under paragraph (3) of this subsection may seek a court order requiring the person to:<section prefix="(i)">Comply with the requirements of the Secretary's abatement notice;</section><section prefix="(ii)">Abate the state of nuisance within a time specified in the order; or</section><section prefix="(iii)">Prevent the state of nuisance from recurring.</section></section>
       <section prefix="(5)">
         <section prefix="(i)">This paragraph applies to a person served with a notice under paragraph (2)(ii) of this subsection.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">If the person voluntarily abates the state of nuisance within the time specified in the notice, the Department shall reimburse all reasonable costs of abatement.</section>
+          <section prefix="2.">If the person consents, the Department may enter the property and, at the Department's expense, do any work and use any materials necessary to abate the state of nuisance.</section>
+        </section>
         <section prefix="(iii)">If the person does not voluntarily abate the state of nuisance within the time specified in the notice and refuses to allow the Department to enter on the property for the purpose of abating the state of nuisance, the Secretary may file a complaint in the circuit court for the county where the state of nuisance exists.</section>
-        <section prefix="(iv)">A complaint filed under subparagraph (iii) of this paragraph may seek a court order requiring the person to allow the Department to:</section>
-        <section prefix="(v)">If the Department abates a state of nuisance under this paragraph, the Department shall:</section>
+        <section prefix="(iv)">A complaint filed under subparagraph (iii) of this paragraph may seek a court order requiring the person to allow the Department to:<section prefix="1.">Enter on the property; and</section><section prefix="2.">At the expense of the Department, do any work and use any materials necessary to abate the state of nuisance.</section></section>
+        <section prefix="(v)">If the Department abates a state of nuisance under this paragraph, the Department shall:<section prefix="1.">Make reasonable efforts to repair any property damage caused by abatement activities; or</section><section prefix="2.">Reimburse the person for repair or replacement costs associated with damages caused by abatement activities.</section></section>
       </section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">If the Secretary determines that a state of nuisance exists that presents an imminent danger to the healthy balance of an ecosystem, the Secretary may summarily abate the state of nuisance.</section>
-      <section prefix="(2)">Before summarily abating a state of nuisance under this subsection, the Secretary shall, as appropriate:<section prefix="(i)">If the owner, tenant, or other occupant of the property where the state of nuisance exists is reasonably believed to have caused the state of nuisance, serve an abatement order on the owner, tenant, or other occupant;</section><section prefix="(ii)">If the property is unoccupied and the owner cannot be found, attach an abatement order to the property where the state of nuisance exists; or</section><section prefix="(iii)">If a person other than the property owner, occupant, or tenant is reasonably believed to have caused the state of nuisance:</section></section>
+      <section prefix="(2)">Before summarily abating a state of nuisance under this subsection, the Secretary shall, as appropriate:<section prefix="(i)">If the owner, tenant, or other occupant of the property where the state of nuisance exists is reasonably believed to have caused the state of nuisance, serve an abatement order on the owner, tenant, or other occupant;</section><section prefix="(ii)">If the property is unoccupied and the owner cannot be found, attach an abatement order to the property where the state of nuisance exists; or</section><section prefix="(iii)">If a person other than the property owner, occupant, or tenant is reasonably believed to have caused the state of nuisance:<section prefix="1.">Serve an abatement order on that person; and</section><section prefix="2."/></section></section>
       <section prefix="(3)">
-        <section prefix="(i)">An abatement order under this subsection shall require and state:</section>
+        <section prefix="(i)">An abatement order under this subsection shall require and state:<section prefix="1.">A time period within which the property owner, occupant, or tenant or any other person determined to have caused the state of nuisance shall abate the state of nuisance; and</section><section prefix="2.">To the best knowledge of the Department, the work and materials necessary to abate the state of nuisance.</section></section>
         <section prefix="(ii)">The time period within which to abate the state of nuisance or to commence abatement, as within the discretion of the Secretary, may not be less than 24 hours from the date and hour that the order is served.</section>
       </section>
       <section prefix="(4)">If the property owner, occupant, or tenant or any other person served with an abatement order under this subsection fails to abate or commence abatement of the state of nuisance within the time specified in the order, the Department may:<section prefix="(i)">Enter on the property; and</section><section prefix="(ii)">At the expense of the property owner, occupant, or tenant or any other person determined to have willfully or negligently caused the state of nuisance, do any work and use any materials necessary to abate the state of nuisance.</section></section>
       <section prefix="(5)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">As soon as the total cost of any abatement activities performed by the Department under this subsection has been determined, the Secretary shall provide a full statement of charges to any person determined to have willfully or negligently caused the state of nuisance.</section>
+          <section prefix="2.">If, within 90 days after the receipt of charges the person does not remit payment to the Secretary, the Secretary may file suit against the person in the county where the state of nuisance was abated.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">To the extent possible, the Department shall minimize property damage during abatement activities.</section>
+          <section prefix="2.">If the Department has not determined that the property owner, occupant, or tenant caused the state of nuisance, the Department shall:</section>
+        </section>
       </section>
     </section>
     <section prefix="(f)">All abatement activities shall be performed in accordance with criteria established by the Department.</section>

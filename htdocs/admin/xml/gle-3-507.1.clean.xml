@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-507.1" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-507.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507.1</order_by>
   <text>
     <section prefix="(a)">On receipt of a complaint for failure to pay wages that do not exceed $3,000, the Commissioner shall:<section prefix="(1)">send a copy of the complaint to the employer alleged to have failed to pay wages; and</section><section prefix="(2)">require a written response to the complaint within 15 days.</section></section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
       <section prefix="(5)">If a hearing is not requested, the order to pay wages shall become a final order of the Commissioner.</section>
       <section prefix="(6)">
         <section prefix="(i)">If a petition for review is not filed within 30 days of the issuance of the final order, the Commissioner may proceed in District Court of the county where the employer resides or has a place of business to enforce payment.</section>
-        <section prefix="(ii)">In a proceeding under this subsection, the Commissioner is entitled to judgment in the amount of the order to pay wages and any interest  due on a showing that:</section>
+        <section prefix="(ii)">In a proceeding under this subsection, the Commissioner is entitled to judgment in the amount of the order to pay wages and any interest  due on a showing that:<section prefix="1.">the order to pay wages and interest, if any, was assessed against the employer;</section><section prefix="2.">no appeal is pending;</section><section prefix="3.">the ordered wages and interest, if any, are wholly or partly unpaid; and</section><section prefix="4.">the employer was duly served with a copy of the order to pay wages and interest, if any, in accordance with this section.</section></section>
       </section>
     </section>
   </text>

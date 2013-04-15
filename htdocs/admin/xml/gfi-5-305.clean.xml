@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-305" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-305</section_number>
-  <catch_line/>
+  <catch_line>If a deposit in a banking institution is made by and in the name of a minor:...</catch_line>
+  <order_by>305</order_by>
   <text>If a deposit in a banking institution is made by and in the name of a minor:<section prefix=""><section prefix="(1)">The institution shall hold the money for the exclusive benefit of the minor or that minor's creditors;</section><section prefix="(2)">The minor may withdraw money from the account; and</section><section prefix="(3)">A receipt signed by the minor discharges the institution for the withdrawal.</section></section></text>
 </law>

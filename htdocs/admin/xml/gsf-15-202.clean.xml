@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-202" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-15-202</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not apply to a protest concerning:...</catch_line>
+  <order_by>202</order_by>
   <text>This subtitle does not apply to a protest concerning:<section prefix=""><section prefix="(1)">the formation of a procurement contract for architectural services or engineering services; or</section><section prefix="(2)">except to the extent authorized by regulation by the Board, any act or omission by a procurement agency under Title 14, Subtitle 6 of this article.</section></section></text>
 </law>

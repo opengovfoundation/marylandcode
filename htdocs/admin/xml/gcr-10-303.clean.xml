@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-303</section_number>
-  <catch_line/>
+  <catch_line>A person may not, by force or threat of force, obstruct or attempt to obstruct another in the free e...</catch_line>
+  <order_by>303</order_by>
   <text>A person may not, by force or threat of force, obstruct or attempt to obstruct another in the free exercise of that person's religious beliefs.</text>
 </law>

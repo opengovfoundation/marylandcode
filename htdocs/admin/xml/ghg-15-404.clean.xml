@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-404" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-404</section_number>
-  <catch_line/>
+  <catch_line>To qualify under the Program, a long-term care policy shall:...</catch_line>
+  <order_by>404</order_by>
   <text>To qualify under the Program, a long-term care policy shall:<section prefix=""><section prefix="(1)">Satisfy the requirements of &#xA7; 1917(b) of the Social Security Act and any applicable federal guidelines;</section><section prefix="(2)">Satisfy the requirements of Title 18 of the Insurance Article; and</section><section prefix="(3)">Alert the purchaser to the availability of consumer information and public education provided by the Commissioner under &#xA7; 15-406 of this subtitle in accordance with any applicable federal guidelines.</section></section></text>
 </law>

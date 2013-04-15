@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-211" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-12-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">The principal amount of bonds, interest payable on bonds, the transfer of bonds, and income from bonds, including profit made in the sale or transfer of bonds, are exempt from State and local taxes.</section>
     <section prefix="(b)">If a political subdivision leases as a lessor its property within a development district:<section prefix="(1)">the property shall be assessed and taxed in the same manner as privately owned property; and</section><section prefix="(2)">the lease shall require the lessee to pay taxes or payments in lieu of taxes on the assessed value of the entire property and not only on the assessed value of the leasehold interest.</section></section>

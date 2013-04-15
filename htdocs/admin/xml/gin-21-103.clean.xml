@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-103" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-21-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">A surety insurer that is removed by the District Court from the list of surety insurers eligible to post bonds with the court because that surety insurer failed to timely resolve or satisfy one or more bail bond forfeitures appearing on the District Court's list of absolute bond forfeitures in default shall be subject to the penalties under &#xA7; 4-113 of this article.</section>
     <section prefix="(b)">A surety insurer that is precluded or removed by a circuit court from the list of surety insurers eligible to post bonds with any circuit court because that surety insurer failed to timely resolve or satisfy one or more bail bond forfeiture judgments shall be subject to the penalties under &#xA7; 4-113 of this article.</section>

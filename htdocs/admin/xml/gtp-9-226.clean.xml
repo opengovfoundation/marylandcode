@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-226" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-226</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>226</order_by>
   <text>
     <section prefix="(a)">The governing body of a county may grant, by law, a property tax credit against the county property tax imposed on real property that is used for agricultural purposes and is subject to a current soil conservation and water quality plan approved by the county soil conservation district and, if eligible, that is subject to a nutrient management plan under Title 8, Subtitle 8 of the Agriculture Article.</section>
     <section prefix="(b)">

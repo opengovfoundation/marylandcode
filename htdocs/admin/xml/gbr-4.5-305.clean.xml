@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-305" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless renewed under this section, a registration or registration certificate expires on the second anniversary of its effective date.</section>
@@ -13,6 +13,6 @@
       <section prefix="(3)">Once expired, a registration or a registration certificate may not be renewed.</section>
     </section>
     <section prefix="(b)">At least 60 days before a registration or registration certificate expires, the Unit shall mail the registrant or registered sales representative, at the last known address of the registrant or registered sales representative:<section prefix="(1)">a renewal application form; and</section><section prefix="(2)">a notice that states:<section prefix="(i)">the date on which the current registration or registration certificate expires; and</section><section prefix="(ii)">the date by which the Unit must receive the renewal application for a renewal to be issued and mailed before the registration or registration certificate expires.</section></section></section>
-    <section prefix="(c)">The Unit shall renew the registration or registration certificate of each registrant or registered sales representative that:<section prefix="(1)">submits to the Unit a renewal application on the form provided by the Unit;</section><section prefix="(2)">would qualify for an initial registration or initial registration certificate;</section><section prefix="(3)"><section prefix="(i)">for renewal of a registration, pays to the Division a nonrefundable renewal fee based on the number of building permits for the construction of new homes issued to the registrant in the preceding calendar year as follows:</section><section prefix="(ii)">for renewal of a registration certificate, pays to the Division a nonrefundable renewal fee of $200; and</section></section><section prefix="(4)">is otherwise entitled to be registered.</section></section>
+    <section prefix="(c)">The Unit shall renew the registration or registration certificate of each registrant or registered sales representative that:<section prefix="(1)">submits to the Unit a renewal application on the form provided by the Unit;</section><section prefix="(2)">would qualify for an initial registration or initial registration certificate;</section><section prefix="(3)"><section prefix="(i)">for renewal of a registration, pays to the Division a nonrefundable renewal fee based on the number of building permits for the construction of new homes issued to the registrant in the preceding calendar year as follows:<section prefix="1.">10 or fewer new homes................................... $300; and</section><section prefix="2.">11 or more new homes....................................... $600; or</section></section><section prefix="(ii)">for renewal of a registration certificate, pays to the Division a nonrefundable renewal fee of $200; and</section></section><section prefix="(4)">is otherwise entitled to be registered.</section></section>
   </text>
 </law>

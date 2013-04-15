@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-618" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-618</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>618</order_by>
   <text>
     <section prefix="(a)">On termination of a license, a party in possession or control of information, copies, or other materials that are the property of the other party, or are subject to a contractual obligation to be delivered to that party on termination, shall use commercially reasonable efforts to deliver or hold them for disposal on instructions of that party. If any materials are jointly owned, the party in possession or control shall make them available to the joint owners.</section>
     <section prefix="(b)">Termination of a license ends all right under the license for the licensee to use or access the licensed information, informational rights, or copies. Continued use of the licensed copies or exercise of terminated rights is a breach of contract unless authorized by a term that survives termination.</section>

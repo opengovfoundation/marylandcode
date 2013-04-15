@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-708" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-708</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other provision of this subtitle, an inmate may not be allowed a deduction under...</catch_line>
+  <order_by>708</order_by>
   <text>Notwithstanding any other provision of this subtitle, an inmate may not be allowed a deduction under this subtitle of more than 20 days for a calendar month.</text>
 </law>

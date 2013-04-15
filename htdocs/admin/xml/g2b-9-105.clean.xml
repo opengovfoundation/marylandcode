@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-105" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-9-105</section_number>
-  <catch_line/>
+  <catch_line>No license under this article shall be issued for premises which do not conform to any requirements ...</catch_line>
+  <order_by>105</order_by>
   <text>No license under this article shall be issued for premises which do not conform to any requirements or specifications given elsewhere in this article.</text>
 </law>

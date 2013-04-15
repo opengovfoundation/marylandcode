@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-353.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-353.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>353.1</order_by>
   <text>
     <section prefix="(a)">If a foreign country or political subdivision that is a state does not or may not modify its order pursuant to its laws, a tribunal of this State may assume jurisdiction to modify the child support order and bind all individuals subject to the personal jurisdiction of the tribunal whether or not the consent to modification of a child support order otherwise required of the individual in accordance with &#xA7; 10-350 of this subtitle has been given or whether the individual seeking modification is a resident of this State or of the foreign country or political subdivision.</section>
     <section prefix="(b)">An order issued pursuant to this section is the controlling order.</section>

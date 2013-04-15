@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c1" order_by="" level="1"/>
-    <unit label="chapter" identifier="5" order_by="" level="2"/>
+    <unit label="article" identifier="c1" order_by="" level="1">I - Elective Franchise</unit>
   </structure>
   <section_number>c1-5</section_number>
-  <catch_line/>
+  <catch_line>It shall be the duty of the General Assembly to pass Laws to punish, with fine and imprisonment, any...</catch_line>
+  <order_by>5</order_by>
   <text>It shall be the duty of the General Assembly to pass Laws to punish, with fine and imprisonment, any person, who shall remove into any election district, or precinct of any ward of the City of Baltimore, not for the purpose of acquiring a bona fide residence therein, but for the purpose of voting at an approaching election, or, who shall vote in any election district, or ward, in which he does not reside, (except in the case provided for in this Article,) or shall, at the same election, vote in more than one election district, or precinct, or shall vote, or offer to vote, in any name not his own, or in place of any other person of the same name, or shall vote in any county in which he does not reside.</text>
 </law>

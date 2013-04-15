@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-204" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-26-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">An applicant for a license shall deposit with the Treasurer, who shall maintain in trust:<section prefix="(1)">registered United States government bonds with a market value at all times not less than $100,000 or, in the discretion of the Commissioner, a lower amount not less than $15,000;</section><section prefix="(2)">a corporate surety bond in the form that the Commissioner requires in a penal sum not less than $100,000 or, in the discretion of the Commissioner, a lower amount not less than $15,000; or</section><section prefix="(3)">a letter of credit in the form that the Commissioner requires in an amount not less than $100,000 or, in the discretion of the Commissioner, a lower amount not less than $15,000.</section></section>
     <section prefix="(b)">

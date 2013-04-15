@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-405" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person who has been lawfully arrested may not knowingly depart from custody without the authorization of a law enforcement or judicial officer.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">A person may not escape from:<section prefix="(i)">except as otherwise punishable under &#xA7; 9-404(b) of this subtitle, a detention center for juveniles or a facility for juveniles listed in &#xA7; 9-226(b) of the Human Services Article;</section><section prefix="(ii)">a place identified in a home detention order or agreement;</section><section prefix="(iii)">a place identified in a juvenile community detention order; or</section><section prefix="(iv)">a privately operated, hardware secure facility for juveniles committed to the Department of Juvenile Services.</section></section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">This subsection applies to a person who is:<section prefix="(i)">temporarily released from a place of confinement;</section><section prefix="(ii)">committed to a pretrial agency;</section><section prefix="(iii)">committed to home detention by:</section><section prefix="(iv)">committed to a home detention program administered by a county;</section><section prefix="(v)">committed to a private home detention monitoring agency as defined in &#xA7; 20-101 of the Business Occupations and Professions Article; or</section><section prefix="(vi)">ordered by a court to serve a term of custodial confinement as defined in &#xA7; 6-219 of the Criminal Procedure Article as a condition of a suspended sentence or probation before or after judgment.</section></section>
+      <section prefix="(1)">This subsection applies to a person who is:<section prefix="(i)">temporarily released from a place of confinement;</section><section prefix="(ii)">committed to a pretrial agency;</section><section prefix="(iii)">committed to home detention by:<section prefix="1.">the court; or</section><section prefix="2.">the Division of Correction under Title 3, Subtitle 4 of the Correctional Services Article;</section></section><section prefix="(iv)">committed to a home detention program administered by a county;</section><section prefix="(v)">committed to a private home detention monitoring agency as defined in &#xA7; 20-101 of the Business Occupations and Professions Article; or</section><section prefix="(vi)">ordered by a court to serve a term of custodial confinement as defined in &#xA7; 6-219 of the Criminal Procedure Article as a condition of a suspended sentence or probation before or after judgment.</section></section>
       <section prefix="(2)">A person may not knowingly:<section prefix="(i)">violate any restriction on movement imposed under the terms of a temporary release, pretrial commitment, custodial confinement, or home detention order or agreement;</section><section prefix="(ii)">fail to return to a place of confinement under the terms of a temporary release, pretrial commitment, custodial confinement, or home detention order or agreement; or</section><section prefix="(iii)">remove, block, deactivate, or otherwise tamper with a monitoring device required to be worn or carried by the person to track the person's location, including an ankle or wrist bracelet, global position satellite offender tracking technology, or comparable equipment or system.</section></section>
     </section>
     <section prefix="(c)">A person who violates this section is guilty of the misdemeanor of escape in the second degree and on conviction is subject to imprisonment not exceeding 3 years or a fine not exceeding $5,000 or both.</section>

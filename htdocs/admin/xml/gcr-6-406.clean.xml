@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-406" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">"Cultivated land" means land that has been cleared of its natural vegetation and is currently planted with a crop or orchard.</section>
     <section prefix="(b)">Unless a person has permission from the owner of cultivated land or an agent of the owner, a person may not enter on the cultivated land of another.</section>

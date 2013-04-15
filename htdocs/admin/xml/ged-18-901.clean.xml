@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-901" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">There is a program of fellowships for postgraduate work in the Graduate School of the University of Maryland, College Park known as the Judith A. Resnik Memorial Postgraduate Fellowship Program.</section>
     <section prefix="(b)">Each recipient of a fellowship awarded under this section:<section prefix="(1)">Shall be a graduate of a standard 4-year college course in an institution of higher education accredited by the Middle States Association of Colleges and Secondary Schools or an equivalent regional accrediting agency; and</section><section prefix="(2)">Shall be recommended for graduate study by the executive head of the institution from which he graduated.</section></section>

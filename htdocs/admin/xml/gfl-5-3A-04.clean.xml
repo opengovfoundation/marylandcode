@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3A-04" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3A-04</section_number>
-  <catch_line/>
+  <catch_line>This subtitle is related to and should be read in relation to Subtitle 5 of this title....</catch_line>
+  <order_by>04</order_by>
   <text>This subtitle is related to and should be read in relation to Subtitle 5 of this title.</text>
 </law>

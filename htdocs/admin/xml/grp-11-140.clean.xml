@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-140" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-140</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>140</order_by>
   <text>
     <section prefix="(a)">The intent of the General Assembly of Maryland is to facilitate the orderly development of condominiums in Maryland. The General Assembly recognizes, however, that the conversion of rental dwellings to condominiums can have an adverse impact on the availability of rental units, resulting in the displacement of tenants.</section>
     <section prefix="(b)">A county or incorporated municipality may, by legislative finding, recognize and declare that a rental housing emergency exists in all or part of its jurisdiction and has been caused by the conversion of rental housing to condominiums. The jurisdiction shall consider and make findings as to:<section prefix="(1)">The nature and incidence of condominium conversions;</section><section prefix="(2)">The resulting hardship to and displacement of tenants; and</section><section prefix="(3)">The scarcity of rental housing.  </section></section>

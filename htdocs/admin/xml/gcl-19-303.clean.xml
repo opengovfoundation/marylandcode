@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-19-303</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding an agreement to the contrary, and in addition to any other available legal remedies,...</catch_line>
+  <order_by>303</order_by>
   <text>Notwithstanding an agreement to the contrary, and in addition to any other available legal remedies, a person who suffers monetary loss due to a violation of this title or who refuses to accede to a proposal for an arrangement that, if consummated, would be in violation of this title may bring a civil action to enjoin further violations and to recover damages and the costs of the action, including reasonable attorney's fees.</text>
 </law>

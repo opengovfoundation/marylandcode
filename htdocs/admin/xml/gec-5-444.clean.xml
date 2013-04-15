@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-444" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-444</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>444</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Authority shall participate in financial assistance programs for energy projects provided by the federal Energy Security Act, P.L. 96-294.</section>

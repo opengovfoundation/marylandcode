@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-102" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-8-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">There is a Senator William H. Amoss Fire, Rescue, and Ambulance Fund.</section>
     <section prefix="(b)">The purposes of the Fund are to promote:<section prefix="(1)">the delivery of effective and high quality fire protection, rescue, and ambulance services in the State;</section><section prefix="(2)">increased financial support for fire, rescue, and ambulance companies by counties; and</section><section prefix="(3)">the continued financial viability of volunteer fire, rescue, and ambulance companies given the greatly increased costs of equipment.</section></section>

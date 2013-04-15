@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-701" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-701</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "term of confinement" means:...</catch_line>
+  <order_by>701</order_by>
   <text>In this subtitle, "term of confinement" means:<section prefix=""><section prefix="(1)">the length of the sentence, for a single sentence; or</section><section prefix="(2)">the period from the first day of the sentence that begins first through the last day of the sentence that ends last, for:<section prefix="(i)">concurrent sentences;</section><section prefix="(ii)">partially concurrent sentences;</section><section prefix="(iii)">consecutive sentences; or</section><section prefix="(iv)">a combination of concurrent and consecutive sentences.</section></section></section></text>
 </law>

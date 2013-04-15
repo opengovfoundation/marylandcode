@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-403" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">The Commissioner may:<section prefix="(1)">determine whether the premium rates of an insurer adequately cover the risks applicable to a workers' compensation insurance policy under Titles 9 and 10 of the Labor and Employment Article; and</section><section prefix="(2)">require the insurer to set premium rates that are adequate to cover those risks.</section></section>
     <section prefix="(b)">Each insurer shall set premium rates for workers' compensation insurance in accordance with the requirements of the Commissioner under subsection (a) of this section.</section>

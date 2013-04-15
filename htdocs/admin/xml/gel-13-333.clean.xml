@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-333" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-333</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>333</order_by>
   <text>
     <section prefix="(a)">An individual who, within the meaning of &#xA7; 13-327 of this subtitle, has failed to file a campaign finance report that is due from, or on behalf of, that individual, may not, until the individual corrects the failure to file:<section prefix="(1)">be deemed to be elected to a public or party office in this State;</section><section prefix="(2)">take the oath or otherwise assume the duties of the office; or</section><section prefix="(3)">receive any salary or compensation for the office.</section></section>
     <section prefix="(b)">An official of the State or any of its political subdivisions may not issue a commission or administer an oath of office to an individual until that official receives certification from the State Board that all campaign finance reports due under &#xA7; 13-304 of this subtitle from, or on behalf of, that individual have been filed.</section>

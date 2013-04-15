@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-805" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-13-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">All allocations of the Maryland State ceiling previously made during any calendar year shall automatically revert to the Secretary's reserve on October 1 of such calendar year except with respect to allocations for which:<section prefix="(1)">Bonds have been issued;</section><section prefix="(2)">With the approval of the issuer, a preliminary official statement has been distributed by the underwriters in connection with the public offering of any bonds; or</section><section prefix="(3)">The issuer has transferred its allocation to a State issuer under &#xA7; 13-803(c) of this subtitle.</section></section>
     <section prefix="(b)">All allocations of the Maryland State ceiling for bonds to be issued in a public offering which did not revert to the Secretary's reserve on October 1 because of subsection (a)(2) of this section shall revert to the Secretary's reserve on November 15 of the same year if the bonds are not issued on or before November 14 of such year.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">In this section, an acceptance materially alters an offer if it contains a term that materially conflicts with or varies a term of the offer or that adds a material term not contained in the offer.</section>
     <section prefix="(b)">Except as otherwise provided in &#xA7; 22-205 of this subtitle, a definite and seasonable expression of acceptance operates as an acceptance, even if the acceptance contains terms that vary from the terms of the offer, unless the acceptance materially alters the offer.</section>

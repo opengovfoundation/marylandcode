@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-215" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">On application of the Commissioner at any time, the court may issue ex parte an order that:<section prefix="(1)">directs the Commissioner to take possession and control of all or part of:<section prefix="(i)">the property, books, accounts, documents, and other records of an insurer; and</section><section prefix="(ii)">the premises that the insurer occupies for the transaction of its business; and</section></section><section prefix="(2)">enjoins the insurer and its officers, directors, stockholders, members, subscribers, agents, and all other persons from the transaction of its business without written consent of the Commissioner.</section></section>
     <section prefix="(b)">

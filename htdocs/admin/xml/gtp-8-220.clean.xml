@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-220" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">The General Assembly states that it is in the public interest to provide for the development of lands in a planned manner.</section>
     <section prefix="(b)">The development of lands in a planned manner is necessary to:<section prefix="(1)">obtain economic and environmental benefits;</section><section prefix="(2)">relieve economic pressures that result from the assessment of planned development land at levels inconsistent with planned development;</section><section prefix="(3)">aid the assembly of land for planned development land;</section><section prefix="(4)">facilitate cooperation among landowners; and</section><section prefix="(5)">permit holding of planned development land in an undeveloped status for orderly and staged improvement, particularly for the development of new communities.</section></section>

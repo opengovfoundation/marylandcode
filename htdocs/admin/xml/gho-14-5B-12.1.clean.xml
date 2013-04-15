@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-5B-12.1" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-5B-12.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>12.1</order_by>
   <text>
     <section prefix="(a)">A licensee shall notify the Board in writing of a change in name or address within 60 days after the change.</section>
     <section prefix="(b)">A licensee who fails to comply with subsection (a) of this section is subject to an administrative penalty of $100.</section>

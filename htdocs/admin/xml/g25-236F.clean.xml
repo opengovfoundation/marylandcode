@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="236F" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-236F</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>236F</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The health officer for Washington County or the health officer's designee may deliver a citation to a person believed to be committing a violation of law under Title 20, Subtitle 3 of the Health - General Article or a violation of a provision of the Code of Maryland Regulations.</section>

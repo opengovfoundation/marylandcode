@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-311" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">The Department shall certify an individual as eligible for benefits under the Program if the Department determines that:<section prefix="(1)">The individual has chronic kidney disease as defined in the Commission's regulations; and</section><section prefix="(2)">The individual meets the residency, citizenship, and other nonmedical eligibility requirements established by the Department.</section></section>
     <section prefix="(b)">

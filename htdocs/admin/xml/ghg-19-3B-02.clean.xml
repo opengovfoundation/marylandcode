@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-3B-02" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-3B-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">A freestanding ambulatory care facility may not operate in the State unless the Secretary has granted the facility a license.</section>
     <section prefix="(b)">The Secretary shall issue a license to an applicant that meets the requirements of this subtitle and all applicable regulations adopted by the Secretary.</section>

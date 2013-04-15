@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-218" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-218</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218</order_by>
   <text>
     <section prefix="(a)">Every emergency vehicle, in addition to any other equipment and distinctive markings required by this subtitle, shall be equipped with a siren, exhaust whistle, or bell capable of giving an audible signal.</section>
     <section prefix="(b)">
@@ -17,8 +17,11 @@
       <section prefix="(2)">Vehicles of the police department and other city, county, State, or federal law enforcement agencies may be equipped with and display red, white, or blue lights or signal devices.</section>
       <section prefix="(3)">
         <section prefix="(i)">Vehicles of city, county, State, or federal fire departments or duly constituted volunteer fire departments or rescue squads, or the Maryland Institute for Emergency Medical Services System, may be equipped with or display red and/or white lights or signal devices.</section>
-        <section prefix="(ii)">In each volunteer fire company, no more than five of the following officers may have their privately owned vehicles equipped with red lights or signal devices which may be displayed only while on route to or at the scene of an emergency:</section>
-        <section prefix="(iii)"/>
+        <section prefix="(ii)">In each volunteer fire company, no more than five of the following officers may have their privately owned vehicles equipped with red lights or signal devices which may be displayed only while on route to or at the scene of an emergency:<section prefix="1.">The fire chief or the highest ranking fireline officer;</section><section prefix="2.">One or more of the assistant chiefs or deputy chiefs, whichever rank is second in command; and</section><section prefix="3.">The emergency medical services commander.</section></section>
+        <section prefix="(iii)">
+          <section prefix="1.">The fire police of each volunteer fire company may have their privately owned vehicles equipped with red lights or signal devices designed to emit an oscillating, rotating, blinking, or other type of emission of light.</section>
+          <section prefix="2.">The lights or signal devices may be flashed or oscillated or otherwise used only while the vehicle is at the scene of an accident, flood, or other emergency to which the volunteer fire company is responding.</section>
+        </section>
       </section>
       <section prefix="(4)">Ambulances may be equipped with or display red and/or white lights or signal devices.</section>
       <section prefix="(5)">State vehicles used in response to oil or hazardous materials spills may be equipped with or display red and/or white lights or signal devices.</section>
@@ -33,8 +36,11 @@
       <section prefix="(10)">A stationary emergency vehicle serving as a mobile command unit may be equipped with or display a flashing, blinking, or oscillating green light or signal device to designate the vehicle as the command post.</section>
       <section prefix="(11)">The yellow or amber lights or signal devices permitted on vehicles under paragraph (6) of this subsection may be flashed or oscillated or otherwise used only in the course of official duties, to indicate to the public that the vehicle is a slow moving vehicle or otherwise is impeding traffic.</section>
       <section prefix="(12)">
-        <section prefix="(i)">An emergency vehicle of any foreign state may be equipped with any lights or signals:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">An emergency vehicle of any foreign state may be equipped with any lights or signals:<section prefix="1.">As provided by this subsection; or</section><section prefix="2.">As permitted by the state in which the vehicle is registered.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">The use of any lights or signals permitted under this paragraph is limited to an emergency vehicle, as defined in &#xA7; 11-118 of this article, responding to an emergency or pursuing a violator, and equipped with an audible signal as provided in this section.</section>
+          <section prefix="2.">Foreign vehicles, as defined in &#xA7; 11-124 of this article, which are privately owned by members of volunteer fire companies, ambulance or rescue squads, fire departments, and law enforcement agencies may be equipped with lights or signals as permitted by the state in which the vehicle is registered, but such lights or signals may be used while the vehicle is in this State only by those personnel and under the circumstances authorized under paragraph (3) of this subsection.</section>
+        </section>
         <section prefix="(iii)">In addition to the penalties provided in Title 27 of this article, any person convicted of a violation of this section may have his driving privileges suspended for a period of 30 days, and the registration of the vehicle may be suspended for a period of 30 days, notwithstanding that the owner of the vehicle may not be the operator at the time of the offense, unless the owner proves to the satisfaction of the Administration that he had no control over the use or display of a light or signal device and could not prevent the violation of this section.</section>
       </section>
     </section>

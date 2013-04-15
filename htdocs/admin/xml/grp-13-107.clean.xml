@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-107" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">In this section, "claimant" means a person who claims legal title to abandoned land for which a certificate of reservation for public use has been issued.</section>
     <section prefix="(b)">If abandoned land was patented prior to the issuance of a certificate of reservation for public use by a unit of State government, a claimant may file a written claim for legal title to the land with the unit of State government that reserved the land for public use.</section>

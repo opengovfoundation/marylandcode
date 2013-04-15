@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-106" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-3-106</section_number>
-  <catch_line/>
+  <catch_line>The clerk of the court shall record photographically any assignment of a mortgage with an attachment...</catch_line>
+  <order_by>106</order_by>
   <text>The clerk of the court shall record photographically any assignment of a mortgage with an attachment or rider affixed to it containing the names of the parties as they appear on the original mortgage and a reference to the book number and page number where the mortgage is recorded.</text>
 </law>

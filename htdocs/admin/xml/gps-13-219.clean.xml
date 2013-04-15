@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-219" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Military Department Center for Military History.</section>
     <section prefix="(b)">The Maryland Military Department Center for Military History consists of the following components:<section prefix="(1)">the Maryland Museum of Military History; and</section><section prefix="(2)">the Maryland Military Historical Research Center.</section></section>

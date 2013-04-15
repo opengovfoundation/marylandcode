@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-306" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">Unless a written protest is filed with the Secretary, a State adopted federal regulation takes effect in this State on the date that it becomes effective as a federal rule or regulation.</section>
     <section prefix="(b)">Any person who may be affected adversely by a State adopted federal regulation may:<section prefix="(1)">File a protest against the State adopted federal regulation not more than 30 days after its effective date; and</section><section prefix="(2)">Request a hearing.</section></section>

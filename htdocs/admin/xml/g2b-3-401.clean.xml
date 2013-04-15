@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-401" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-3-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class D beer license shall be issued by the license issuing authority of the county in which the place of business is located. The holder of the license may keep for sale and sell beer at retail at the place described in the license. The beer may be consumed on the premises or elsewhere, but a license may not be issued for any drugstore.</section>

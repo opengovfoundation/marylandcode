@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-603" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-6-603</section_number>
-  <catch_line/>
+  <catch_line>The purposes of the Commission are to:...</catch_line>
+  <order_by>603</order_by>
   <text>The purposes of the Commission are to:<section prefix=""><section prefix="(1)">raise awareness of the problems created when a child is raised without the presence of a responsible father;</section><section prefix="(2)">identify obstacles that impede or prevent the involvement of responsible fathers in the lives of their children; and</section><section prefix="(3)">identify strategies that encourage responsible fatherhood.</section></section></text>
 </law>

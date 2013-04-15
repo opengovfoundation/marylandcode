@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-318" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-4-318</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>318</order_by>
   <text>
     <section prefix="(a)">In this section, "Baltimore City school police officer" means any person who, when acting in an official capacity, is authorized by law to make arrests and who is a member of the Baltimore City School Police Force.</section>
     <section prefix="(b)">There is a Baltimore City School Police Force.</section>
@@ -14,7 +14,7 @@
       <section prefix="(1)">Except as provided in paragraph (3) of this subsection, a Baltimore City school police officer has all the powers of a law enforcement officer in the State.</section>
       <section prefix="(2)">
         <section prefix="(i)">A Baltimore City school police officer may act in an official capacity only on the premises of schools and any other property used for educational purposes owned, leased, or operated by, or under the control of the Baltimore City Board of School Commissioners.</section>
-        <section prefix="(ii)">A Baltimore City school police officer may not act in an official capacity on any other property unless:</section>
+        <section prefix="(ii)">A Baltimore City school police officer may not act in an official capacity on any other property unless:<section prefix="1.">Engaged in fresh pursuit of a suspected offender;</section><section prefix="2.">Requested or authorized to do so by the Police Commissioner of Baltimore City;</section><section prefix="3.">The exercise of power is necessary to facilitate the orderly flow of traffic to and from property owned, leased, operated by, or under the control of the Baltimore City School System; or</section><section prefix="4.">Ordered to do so by the Mayor of Baltimore City.</section></section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">Notwithstanding any other provision of law, a Baltimore City school police officer whose permanent or temporary assignment is at a school or on school property may carry a firearm on the premises of the school to which the officer is assigned before or after regular school hours on school days and on days other than school days.</section>

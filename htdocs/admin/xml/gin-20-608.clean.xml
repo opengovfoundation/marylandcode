@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-608" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">All money paid out by the Fund under this subtitle may be recovered by the Fund from the uninsured party at fault in any manner provided by law, including the Maryland Tax Refund Intercept Program.</section>
     <section prefix="(b)">A judgment that is assigned to or obtained by the Fund:<section prefix="(1)">is considered in its entirety as taken for the use of the State; and</section><section prefix="(2)">shall be indexed in the appropriate court records in the name of the State of Maryland, Maryland Automobile Insurance Fund.</section></section>

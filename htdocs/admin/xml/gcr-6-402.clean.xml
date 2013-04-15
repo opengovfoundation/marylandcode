@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
-    <section prefix="(a)">A person may not enter or trespass on property that is posted conspicuously against trespass by:<section prefix="(1)">signs placed where they reasonably may be seen; or</section><section prefix="(2)">paint marks that:<section prefix="(i)">conform with regulations that the Department of Natural Resources adopts under &#xA7; 5-209 of the Natural Resources Article; and</section><section prefix="(ii)">are made on trees or posts that are located:</section></section></section>
+    <section prefix="(a)">A person may not enter or trespass on property that is posted conspicuously against trespass by:<section prefix="(1)">signs placed where they reasonably may be seen; or</section><section prefix="(2)">paint marks that:<section prefix="(i)">conform with regulations that the Department of Natural Resources adopts under &#xA7; 5-209 of the Natural Resources Article; and</section><section prefix="(ii)">are made on trees or posts that are located:<section prefix="1.">at each road entrance to the property; and</section><section prefix="2.">adjacent to public roadways, public waterways, and other land adjoining the property.</section></section></section></section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to:<section prefix="(1)">for a first violation, imprisonment not exceeding 90 days or a fine not exceeding $500 or both;</section><section prefix="(2)">for a second violation occurring within 2 years after the first violation, imprisonment not exceeding 6 months or a fine not exceeding $1,000 or both; and</section><section prefix="(3)">for each subsequent violation occurring within 2 years after the preceding violation, imprisonment not exceeding 1 year or a fine not exceeding $2,500 or both.</section></section>
   </text>
 </law>

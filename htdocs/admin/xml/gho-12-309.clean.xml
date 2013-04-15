@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-309" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">Except as permitted in subsections (b) and (c) of this section, the Board may not renew the license and issue a certificate of renewal to any pharmacist until the pharmacist presents evidence of having completed 30 hours of approved continuing pharmaceutical education within the preceding 2 years.</section>
     <section prefix="(b)">The Board may renew the license and issue a certificate of renewal to a pharmacist who presents acceptable evidence that the pharmacist was unable to comply with subsection (a) of this section.</section>

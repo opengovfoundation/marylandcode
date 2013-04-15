@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c4" order_by="" level="1"/>
-    <unit label="chapter" identifier="21" order_by="" level="2"/>
+    <unit label="article" identifier="c4" order_by="" level="1">IV - Judiciary Department</unit>
   </structure>
   <section_number>c4-21</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>21</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of subsection (b) the General Assembly shall determine by law the number of judges of the circuit court in each county and circuit. These judges shall be selected in accordance with Sections 3 and 5 of this Article.</section>
     <section prefix="(b)">There shall be at least four circuit court judges resident in each circuit, and at least one circuit court judge shall be resident in each county. There shall be at least two such judges resident in Anne Arundel County, at least three resident in Baltimore County, at least four resident in Prince George's County, and at least five resident in Montgomery County.</section>

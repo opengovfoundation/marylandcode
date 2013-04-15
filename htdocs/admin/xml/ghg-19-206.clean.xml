@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-206" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">A majority of the full authorized membership of the Commission is a quorum. However, the Commission may not act on any matter unless at least 4 members in attendance concur.</section>
     <section prefix="(b)">The Commission shall meet at least 6 times a year, at the times and places that it determines.</section>

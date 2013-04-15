@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-223" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-6-223</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>223</order_by>
   <text>
     <section prefix="(a)">Except as otherwise prohibited by law, the Treasurer may invest or reinvest, in a deposit with a financial institution in the State, unexpended or surplus money over which the Treasurer has custody if:<section prefix="(1)">the deposit is interest bearing; and</section><section prefix="(2)">as provided for a depositary for State money:<section prefix="(i)">the financial institution provides collateral that has a market value that equals or exceeds the amount by which a deposit exceeds the deposit insurance; and</section><section prefix="(ii)">a custodian holds the collateral.</section></section></section>
     <section prefix="(b)">The Treasurer may sell, redeem, or exchange an investment or reinvestment made under this section.</section>

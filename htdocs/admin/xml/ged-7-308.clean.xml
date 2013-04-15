@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-308" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">A principal, assistant principal, or school security guard of a public school may make a reasonable search of a student on the school premises or on a school-sponsored trip if the searcher has a reasonable belief that the student has in the student's possession an item, the possession of which is a criminal offense under the laws of this State or a violation of any other State law or a rule or regulation of the county board.</section>
     <section prefix="(b)">

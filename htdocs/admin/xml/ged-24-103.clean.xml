@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-103" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-24-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The Education Coordinating Committee:<section prefix="(1)">Shall elect one of its members as its chairman; and</section><section prefix="(2)">May elect any other officer it requires.</section></section>
     <section prefix="(b)">The Committee:<section prefix="(1)">Shall meet at least 4 times a year;</section><section prefix="(2)">May meet at other times;</section><section prefix="(3)">May determine the time and place of its meetings; and</section><section prefix="(4)">May adopt rules for the conduct of its meetings.</section></section>

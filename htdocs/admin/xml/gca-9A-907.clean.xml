@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-907" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-907</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>907</order_by>
   <text>
     <section prefix="(a)">The Department shall require a partnership, limited liability company, limited partnership, corporation, or business trust to submit with the articles of merger a property certificate for each county where a merging partnership, limited liability company, limited partnership, corporation, or business trust other than the successor owns an interest in land.</section>
     <section prefix="(b)">A property certificate is not required with respect to any property in which the only interest owned by the merging partnership, limited liability company, limited partnership, corporation, or business trust is a security interest.</section>

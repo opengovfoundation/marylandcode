@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-710.2" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-710.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>710.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -15,7 +15,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">If an employer, association, or other private group arrangement offers health benefit plan coverage to employees or individuals only through a health maintenance organization, the health maintenance organization with which the employer, association, or other private group arrangement is contracting for the coverage shall offer, or contract with another carrier to offer, a point-of-service option to the employer, association, or other private group arrangement in conjunction with the health maintenance organization as an additional benefit for an employee or individual, at the employee's or individual's option, to accept or reject.</section>
-      <section prefix="(2)">When a health maintenance organization is the sole delivery system offered to employees by an employer, the health maintenance organization:<section prefix="(i)">Shall offer the employer a point-of-service option for the individual employee to accept or reject;</section><section prefix="(ii)">May not impose a minimum participation level on the point-of-service option; and</section><section prefix="(iii)">As part of the group enrollment application, shall provide to each employer a disclosure statement for each point-of-service option offered that conforms to regulations, for the point-of-service option required under paragraph (1) of this subsection, adopted by:</section></section>
+      <section prefix="(2)">When a health maintenance organization is the sole delivery system offered to employees by an employer, the health maintenance organization:<section prefix="(i)">Shall offer the employer a point-of-service option for the individual employee to accept or reject;</section><section prefix="(ii)">May not impose a minimum participation level on the point-of-service option; and</section><section prefix="(iii)">As part of the group enrollment application, shall provide to each employer a disclosure statement for each point-of-service option offered that conforms to regulations, for the point-of-service option required under paragraph (1) of this subsection, adopted by:<section prefix="1.">The Maryland Health Care Commission for the small group market; and</section><section prefix="2.">The Maryland Insurance Administration for the non-small group market.</section></section></section>
     </section>
     <section prefix="(c)">
       <section prefix="(1)">An employer, association, or other private group arrangement may require an employee or individual that accepts the additional coverage under a point-of-service option under subsection (b) of this section to be responsible for the payment of a premium over the amount of the premium for the coverage offered by the health maintenance organization.</section>

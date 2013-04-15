@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-675" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-675</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>675</order_by>
   <text>
     <section prefix="(a)">When a covered employee has received temporary total disability benefits continuously for 6 months, the insurer or self-insurer shall submit to the Commission a vocational rehabilitation progress report on the form that the Commission requires.</section>
     <section prefix="(b)">After submitting a report under subsection (a) of this section, the insurer or self-insurer shall submit further vocational rehabilitation progress reports to the Commission every 120 days or sooner as requested by the Commission.</section>

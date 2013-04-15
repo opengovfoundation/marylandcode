@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-303" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of the following 12 members:<section prefix="(i)">as an ex officio member, the Commissioner; and</section><section prefix="(ii)">11 voting members appointed by the Commissioner with the approval of the Secretary of Labor, Licensing, and Regulation.</section></section>

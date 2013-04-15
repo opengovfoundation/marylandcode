@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-801.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-801.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801.1</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">Each nutrient management plan shall be developed considering factors including:<section prefix="(i)">Levels of bioavailable nitrogen and phosphorus in the soil;</section><section prefix="(ii)">Levels of bioavailable nitrogen and phosphorus in all fertilizer materials to be applied;</section><section prefix="(iii)">The amount of nitrogen and phosphorus necessary to achieve the expected crop yield for the land that is the subject of the nutrient management plan, as determined by:</section><section prefix="(iv)">Soil erodibility and nutrient retention capacity;</section><section prefix="(v)"/><section prefix="(vi)">Existing best management practices.</section></section>
+      <section prefix="(1)">Each nutrient management plan shall be developed considering factors including:<section prefix="(i)">Levels of bioavailable nitrogen and phosphorus in the soil;</section><section prefix="(ii)">Levels of bioavailable nitrogen and phosphorus in all fertilizer materials to be applied;</section><section prefix="(iii)">The amount of nitrogen and phosphorus necessary to achieve the expected crop yield for the land that is the subject of the nutrient management plan, as determined by:<section prefix="1.">The field's actual yield record and soil productivity for that crop; or</section><section prefix="2.">If information concerning actual yield record and soil productivity for a crop is unavailable, relevant information concerning similar fields and soil;</section></section><section prefix="(iv)">Soil erodibility and nutrient retention capacity;</section><section prefix="(v)"><section prefix="1.">The best reasonable scientific methods accepted by the Department and the University of Maryland Cooperative Extension Service; or</section><section prefix="2.">Scientifically validated data for the development of a nutrient management plan as defined by the Department in regulation; and</section></section><section prefix="(vi)">Existing best management practices.</section></section>
       <section prefix="(2)">Each nutrient management plan shall provide flexibility for management decisions that may be required by conditions beyond the control of the farmer.</section>
     </section>
     <section prefix="(b)">

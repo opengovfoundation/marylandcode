@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-310" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person must obtain a certificate of qualification to act as a surplus lines broker before the person acts as a surplus lines broker in the State.</section>
     <section prefix="(b)">A person is not required to obtain a certificate of qualification to act as a surplus lines broker in the State if:<section prefix="(1)">the State is not the home state of the insured; and</section><section prefix="(2)">the surplus lines broker has obtained a license or other authorization from the home state of the insured.</section></section>

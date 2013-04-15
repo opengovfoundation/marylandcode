@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-219" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-15-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">Except to the extent a shorter period is prescribed by regulation governing differing site conditions, a contractor shall file a written notice of a claim relating to a procurement contract for construction within 30 days after the basis for the claim is known or should have been known.</section>
     <section prefix="(b)">Unless extended by the unit, within 90 days after submitting a notice of a contract claim under a procurement contract for construction, a contractor shall submit to the unit a written explanation that states:<section prefix="(1)">the amount of the contract claim;</section><section prefix="(2)">the facts on which the contract claim is based; and</section><section prefix="(3)">all relevant data and correspondence that may substantiate the contract claim.</section></section>

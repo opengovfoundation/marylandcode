@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1107" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-1107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1107</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the Secretary may not pay extended benefits to an individual for a week under an interstate claim submitted in another state under the Interstate Benefit Payment Plan unless an extended benefit period is in effect for that week in the other state as well as this State.</section>
     <section prefix="(b)">This section does not apply to the first 2 weeks for which extended benefits are payable under an interstate claim submitted under the Interstate Benefit Payment Plan to the individual from the extended benefit account established for the individual for the benefit year.</section>

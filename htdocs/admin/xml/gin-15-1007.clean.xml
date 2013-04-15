@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1007" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1007</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1007</order_by>
   <text>
     <section prefix="(a)">This section applies to insurers and nonprofit health service plans that propose to issue or deliver individual, group, or blanket health insurance policies or contracts or to administer health benefit programs that provide hospital, medical, or surgical benefits on an expense-incurred basis.</section>
     <section prefix="(b)">Each entity subject to this section shall provide to an insured individual who has filed a claim described in subsection (c) of this section an annual summary explanation of benefits that covers the preceding 12-month period.</section>

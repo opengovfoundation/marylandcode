@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-1024" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-20-1024</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1024</order_by>
   <text>
     <section prefix="(a)">During the period between the filing of a complaint and the filing of a charge or a dismissal by the Commission, the Commission, to the extent feasible, shall engage in conciliation with respect to the complaint.</section>
     <section prefix="(b)">

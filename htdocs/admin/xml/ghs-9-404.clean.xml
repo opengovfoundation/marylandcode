@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-404" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-9-404</section_number>
-  <catch_line/>
+  <catch_line>To provide community reinvestment assistance, the Board may:...</catch_line>
+  <order_by>404</order_by>
   <text>To provide community reinvestment assistance, the Board may:<section prefix=""><section prefix="(1)">invest in, purchase, make commitments to purchase, or take assignments from mortgage lenders of notes and mortgages evidencing mortgage loans;</section><section prefix="(2)">act as a guarantor or conduit for mortgage backed securities;</section><section prefix="(3)">make loans to recipients of community reinvestment assistance or to mortgage lenders;</section><section prefix="(4)">sell at public or private sale mortgages, loans, or other obligations held by the Fund;</section><section prefix="(5)">purchase, make, participate in making, or enter into commitments to purchase loans;</section><section prefix="(6)">package and sell loans; and</section><section prefix="(7)">do anything else authorized by the organizational documents of the Fund.</section></section></text>
 </law>

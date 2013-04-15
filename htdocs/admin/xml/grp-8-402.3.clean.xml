@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-402.3" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-402.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -34,8 +34,8 @@
     <section prefix="(e)">
       <section prefix="(1)">A ground lease holder seeking to create a lien under this section shall give written notice to:<section prefix="(i)">The leasehold tenant; and</section><section prefix="(ii)">Each mortgagee or trustee of the property whose lien is on record.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">Notice under this subsection shall be served on the leasehold tenant by:</section>
-        <section prefix="(ii)">If the ground lease holder is unable to serve the leasehold tenant under subparagraph (i) of this paragraph, notice under this subsection shall be given by:</section>
+        <section prefix="(i)">Notice under this subsection shall be served on the leasehold tenant by:<section prefix="1.">Certified mail, return receipt requested, addressed to the leasehold tenant or the leasehold tenant's successor in interest at the individual's current address; or</section><section prefix="2.">Personal delivery to the leasehold tenant or the leasehold tenant's successor in interest.</section></section>
+        <section prefix="(ii)">If the ground lease holder is unable to serve the leasehold tenant under subparagraph (i) of this paragraph, notice under this subsection shall be given by:<section prefix="1.">Mailing the notice to the leasehold tenant's last known address; and</section><section prefix="2.">Posting the notice in a conspicuous manner on the property on the door or other front part of the property by the ground lease holder in the presence of a competent witness.</section></section>
         <section prefix="(iii)">Notice to any mortgagee or trustee under this subsection shall be given by sending the notice by certified and first-class mail to the most current address for notices as set forth in the land records or, if no such address is contained in the land records, to the mortgagee's or trustee's current address.</section>
       </section>
       <section prefix="(3)">A notice under this subsection shall include:<section prefix="(i)">The name and address of the party seeking to create the lien;</section><section prefix="(ii)">A statement of intent to create a lien;</section><section prefix="(iii)">An identification of the ground lease;</section><section prefix="(iv)">A statement that the ground lease is registered with the State Department of Assessments and Taxation;</section><section prefix="(v)">The amount of ground rent alleged to be due;</section><section prefix="(vi)">A description of the property sufficient to identify the property;</section><section prefix="(vii)">A statement that the party to whom notice is given under this subsection has the right to object to the establishment of a lien by filing a complaint in the circuit court and the right to a hearing;</section><section prefix="(viii)">An explanation of the procedure to file a complaint and request a hearing; and</section><section prefix="(ix)">A statement that, unless the past due ground rent is paid or a complaint is filed under subsection (f) of this section within 45 days after the notice is served, a lien will be imposed on the property.</section></section>

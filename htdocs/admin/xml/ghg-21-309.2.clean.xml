@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-309.2" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-309.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309.2</order_by>
   <text>
     <section prefix="(a)">A county may establish a seasonal farmer's market producer sampling license to be required for a producer of a farm product to prepare and offer samples of the farm product for human consumption at a farmer's market or at a public festival or event.</section>
     <section prefix="(b)">A county seasonal farmer's market producer sampling license established under this section shall:<section prefix="(1)">Be valid at all farmer's markets in the county;</section><section prefix="(2)">Be valid at any public festival or event in the county;</section><section prefix="(3)">Be valid for the entire season for which it is issued; and</section><section prefix="(4)">Have a single fee as set by the county.</section></section>

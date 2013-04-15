@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-204" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-6-204</section_number>
-  <catch_line/>
+  <catch_line>Except as otherwise provided by this article, property tax is imposed for the taxable year....</catch_line>
+  <order_by>204</order_by>
   <text>Except as otherwise provided by this article, property tax is imposed for the taxable year.</text>
 </law>

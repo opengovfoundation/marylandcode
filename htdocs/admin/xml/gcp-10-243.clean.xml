@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-243" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-243</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>243</order_by>
   <text>
     <section prefix="(a)">Subject fingerprints or other approved forms of positive identification shall be submitted with all requests for criminal history records checks for noncriminal justice purposes.</section>
     <section prefix="(b)">Each request for a criminal history records check utilizing the national indices made under any approved state statute shall be submitted through that state's criminal history records repository. A state criminal history records repository shall process an interstate request for noncriminal justice purposes through the national indices only if such request is transmitted through another state criminal history records repository or the FBI.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1006" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-1006</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006</order_by>
   <text>
     <section prefix="(a)">A person may not operate any aircraft in this State:<section prefix="(1)">While under the influence of any intoxicating liquor, narcotic, or other habit forming drug; or</section><section prefix="(2)">In a careless or reckless manner that endangers the life or property of another.</section></section>
     <section prefix="(b)">In determining whether there has been careless or reckless operation of aircraft, the standards required by federal law governing aeronautics for safe operation of aircraft shall be considered.</section>

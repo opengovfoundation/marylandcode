@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-307" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">A person who has applied to register as an associate solicitor, professional solicitor, or fund-raising counsel may act as such unless and until the Circuit Court for Anne Arundel County or other court of competent jurisdiction orders the applicant to stop.</section>
     <section prefix="(b)">The Secretary of State has the burden of proof in any proceeding to restrain or enjoin a person from acting as an associate solicitor, professional solicitor, or fund-raising counsel.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-125" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-8-125</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>125</order_by>
   <text>
     <section prefix="(a)">In this section, "Fund" means the State and Local Facilities Loan Fund.</section>
     <section prefix="(b)">For bonds issued under &#xA7; 8-122 of this subtitle, the Comptroller shall establish:<section prefix="(1)">the State and Local Facilities Loan Fund;</section><section prefix="(2)">a premium and expense account in the Fund; and</section><section prefix="(3)">for accounting purposes only:<section prefix="(i)">a capital project account for each enabling act; and</section><section prefix="(ii)">separate subaccounts for each project included in enabling acts authorizing multiple projects.</section></section></section>

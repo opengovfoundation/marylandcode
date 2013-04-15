@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Unless the warranty is disclaimed or modified, a licensor that is a merchant with respect to computer programs of the kind warrants:<section prefix="(1)">To the end user that the computer program is fit for the ordinary purposes for which such computer programs are used;</section><section prefix="(2)">To the distributor that:<section prefix="(A)">The program is adequately packaged and labeled as the agreement requires; and</section><section prefix="(B)">In the case of multiple copies, the copies are within the variations permitted by the agreement, of even kind, quality, and quantity within each unit and among all units involved; and</section></section><section prefix="(3)">That the program conforms to any promises or affirmations of fact made on the container or label.</section></section>
     <section prefix="(b)">Unless disclaimed or modified, other implied warranties with respect to computer programs may arise from course of dealing or usage of trade.</section>

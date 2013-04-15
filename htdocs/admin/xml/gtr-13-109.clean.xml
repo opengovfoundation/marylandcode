@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-109" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Administration is not satisfied as to the ownership of the vehicle or that every security interest in it has been disclosed, the Administration may register the vehicle, but shall either:<section prefix="(i)">Withhold delivery of a certificate of title until the applicant presents documents reasonably sufficient to satisfy the Administration as to the applicant's ownership of the vehicle and that every security interest in it has been disclosed; or</section><section prefix="(ii)">As a condition to issuing and delivering a certificate of title, require the applicant to execute and file with the Administration a bond in the form that the Administration approves, either accompanied by a deposit of cash with the Administration or executed also by a person authorized to conduct a surety business in this State.</section></section>

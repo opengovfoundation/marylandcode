@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-904" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">A governmental unit may adopt a fee structure for:<section prefix="(1)">system products that will:<section prefix="(i)">make system products available at a cost consistent with the requirements of this subtitle; and</section><section prefix="(ii)">cover the cost of providing system products; and</section></section><section prefix="(2)">system services that:<section prefix="(i)">will cover the cost of providing system services, including a reasonable share of the overhead costs of the system; and</section><section prefix="(ii)">will not discriminate among purchasers of system services.</section></section></section>
     <section prefix="(b)">A governmental unit may sell system products to the general public for a fee that reasonably reflects the cost of creating, developing, and reproducing the product in whatever format is available.</section>

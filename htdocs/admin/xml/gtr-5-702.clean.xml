@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-702" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">The Administration shall adopt rules and regulations to govern the erection and maintenance of obstructions to air navigation.</section>
     <section prefix="(b)">These rules and regulations shall incorporate the Federal Aviation Administration obstruction standards except to the extent that, after public hearing, the Executive Director finds any part of the federal standards to be detrimental to the general public safety, the safety of persons operating, using, or traveling in aircraft, or the safety of persons and property on land or water.</section>

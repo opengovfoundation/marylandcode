@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-603" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">There is a Charles W. Riley Fire and Emergency Medical Services Tuition Reimbursement Program under this section.</section>
     <section prefix="(b)">As provided in the State budget, any career or volunteer firefighter or ambulance or rescue squad member who is a resident of Maryland shall receive partial or full and complete reimbursement by the Office for tuition costs not to exceed the resident tuition rates at the 4-year public institution of higher education within the University System of Maryland, other than the University of Maryland University College and University of Maryland, Baltimore, with the highest annual expenses for a full-time resident undergraduate, for courses credited toward a degree in fire service technology or emergency medical technology.</section>

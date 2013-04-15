@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-203" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-3-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">In this section, "net estate" means the property of the decedent passing by testate succession, without a deduction for State or federal estate or inheritance taxes, and reduced by:<section prefix="(1)">Funeral and administration expenses;</section><section prefix="(2)">Family allowances; and</section><section prefix="(3)">Enforceable claims and debts against the estate.</section></section>
     <section prefix="(b)">Instead of property left to the surviving spouse by will, the surviving spouse may elect to take a one-third share of the net estate if there is also a surviving issue, or a one-half share of the net estate if there is no surviving issue.</section>

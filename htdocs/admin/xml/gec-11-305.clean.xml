@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-305" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-11-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">An authority is a body politic and corporate and is an instrumentality of the State once the State Department of Assessments and Taxation accepts the articles of incorporation for record.</section>
     <section prefix="(b)">The exercise by an authority of a power under this subtitle is the performance of an essential governmental function.</section>

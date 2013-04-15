@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -30,7 +30,7 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">The requirements of this paragraph do not apply to units constructed, managed, operated, developed, or subsidized by a local housing authority established under Division II of the Housing and Community Development Article.</section>
-        <section prefix="(ii)">If the owner, operator, or manager of an apartment house, office building, or shopping center installs submeters during the term of a lease or agreement that includes the cost of gas or electricity consumed for the unit, the owner, operator, or manager shall:</section>
+        <section prefix="(ii)">If the owner, operator, or manager of an apartment house, office building, or shopping center installs submeters during the term of a lease or agreement that includes the cost of gas or electricity consumed for the unit, the owner, operator, or manager shall:<section prefix="1.">determine the amount of gas or electric costs saved by that unit; and</section><section prefix="2.">pass that amount on to the unit's occupant as a payment or reduction in rent.</section></section>
       </section>
       <section prefix="(4)">All submetering equipment under this section is subject to:<section prefix="(i)">the regulations and standards that the Commission adopts for the accuracy, testing, and record keeping of meters that gas companies or electric companies install; and</section><section prefix="(ii)">the meter requirements of &#xA7;&#xA7; 7-301 and 7-302 of this subtitle.</section></section>
     </section>

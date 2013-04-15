@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1009" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-1009</section_number>
-  <catch_line/>
+  <catch_line>// EFFECTIVE UNTIL JUNE 30, 2015 PER CHAPTERS 280 AND 281 OF 2011 //...</catch_line>
+  <order_by>1009</order_by>
   <text>// EFFECTIVE UNTIL JUNE 30, 2015 PER CHAPTERS 280 AND 281 OF 2011 //<section prefix="(a)">A registration issued under this subtitle expires on December 31 of each odd-numbered year unless the registration is renewed for a 2-year term as provided in subsection (b) of this section.</section><section prefix="(b)">On or before December 1 of the year of expiration, a registration may be renewed for a 2-year term if the registrant:<section prefix="(1)">Otherwise is entitled to be registered;</section><section prefix="(2)">Pays to the Commissioner the renewal fee established under &#xA7; 12-1006 of this subtitle; and</section><section prefix="(3)">Submits to the Commissioner a renewal application on the form that the Commissioner requires.</section></section></text>
 </law>

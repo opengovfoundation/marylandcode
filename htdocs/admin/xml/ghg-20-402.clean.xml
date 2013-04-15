@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-402" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, after an infant is born in an institution and before the infant leaves the delivery room of the institution, the institution shall perform at least one of the following infant identification procedures on all newborn infants:<section prefix="(1)">Cord blood sampling;</section><section prefix="(2)">Footprinting; or</section><section prefix="(3)">Any other procedure the Secretary deems equivalent and appropriate.</section></section>
     <section prefix="(b)">

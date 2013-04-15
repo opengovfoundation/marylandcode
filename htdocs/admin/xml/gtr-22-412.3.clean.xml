@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-412.3" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-412.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Motor vehicle" means a vehicle that is:</section>
+        <section prefix="(i)">"Motor vehicle" means a vehicle that is:<section prefix="1.">Registered or capable of being registered in this State as a Class A (passenger), Class E (truck), Class F (tractor), Class M (multipurpose), or Class P (passenger bus) vehicle; and</section><section prefix="2.">Required to be equipped with seat belts under federal motor vehicle safety standards contained in the Code of Federal Regulations.</section></section>
         <section prefix="(ii)">"Motor vehicle" does not include a Class L (historic) vehicle.</section>
       </section>
       <section prefix="(3)">"Outboard front seat" means a front seat position that is adjacent to a door of a motor vehicle.</section>

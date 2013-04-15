@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-204" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-9-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, an employee shall use holiday leave on the day the employee holiday occurs.</section>
     <section prefix="(b)">Except as otherwise provided in this subtitle:<section prefix="(1)">if the employee holiday occurs on a Saturday, an employee shall use holiday leave on the Friday immediately before the employee holiday; and</section><section prefix="(2)">if the employee holiday occurs on a Sunday, an employee shall use holiday leave on the Monday immediately following the employee holiday.</section></section>

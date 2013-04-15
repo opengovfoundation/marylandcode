@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-407" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-11-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall approve or deny each application for a license within 60 days after the date when the application is made and the fees are paid.</section>
     <section prefix="(b)">The Commissioner shall issue a license to any applicant who meets the requirements of this subtitle.</section>

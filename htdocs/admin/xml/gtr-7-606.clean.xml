@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-606" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-606</section_number>
-  <catch_line/>
+  <catch_line>If the Administration acquires existing transit facilities from a public or privately owned public u...</catch_line>
+  <order_by>606</order_by>
   <text>If the Administration acquires existing transit facilities from a public or privately owned public utility, whether by condemnation or otherwise, the Administration shall assume all existing labor contracts and pension obligations.</text>
 </law>

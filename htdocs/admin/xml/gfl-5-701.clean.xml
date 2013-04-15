@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-701" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in &#xA7; 5-705.1 of this subtitle, in this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Abuse" means:<section prefix="(1)">the physical or mental injury of a child by any parent or other person who has permanent or temporary care or custody or responsibility for supervision of a child, or by any household or family member, under circumstances that indicate that the child's health or welfare is harmed or at substantial risk of being harmed; or</section><section prefix="(2)">sexual abuse of a child, whether physical injuries are sustained or not.</section></section>
@@ -44,7 +44,7 @@
     <section prefix="(w)">"Ruled out" means a finding that abuse, neglect, or sexual abuse did not occur.</section>
     <section prefix="(x)">
       <section prefix="(1)">"Sexual abuse" means any act that involves sexual molestation or exploitation of a child by a parent or other person who has permanent or temporary care or custody or responsibility for supervision of a child, or by any household or family member.</section>
-      <section prefix="(2)">"Sexual abuse" includes:<section prefix="(i)">allowing or encouraging a child to engage in:</section><section prefix="(ii)">human trafficking;</section><section prefix="(iii)">incest;</section><section prefix="(iv)">rape;</section><section prefix="(v)">sexual offense in any degree;</section><section prefix="(vi)">sodomy; and</section><section prefix="(vii)">unnatural or perverted sexual practices.</section></section>
+      <section prefix="(2)">"Sexual abuse" includes:<section prefix="(i)">allowing or encouraging a child to engage in:<section prefix="1.">obscene photography, films, poses, or similar activity;</section><section prefix="2.">pornographic photography, films, poses, or similar activity; or</section><section prefix="3.">prostitution;</section></section><section prefix="(ii)">human trafficking;</section><section prefix="(iii)">incest;</section><section prefix="(iv)">rape;</section><section prefix="(v)">sexual offense in any degree;</section><section prefix="(vi)">sodomy; and</section><section prefix="(vii)">unnatural or perverted sexual practices.</section></section>
     </section>
     <section prefix="(y)">"Unsubstantiated" means a finding that there is an insufficient amount of evidence to support a finding of indicated or ruled out.</section>
   </text>

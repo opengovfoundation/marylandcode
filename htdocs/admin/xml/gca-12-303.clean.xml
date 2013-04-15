@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-303" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-12-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Except as provided in the governing instrument of a statutory trust, a beneficial owner shall have an undivided beneficial interest in the property of the statutory trust and shall share in the profits and losses of the statutory trust in the proportion of the entire undivided beneficial interest in the statutory trust owned by the beneficial owner.</section>
     <section prefix="(b)">

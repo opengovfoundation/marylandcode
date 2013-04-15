@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-208" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Enclosure" means a building, structure, aircraft, watercraft, or vehicle, and each:</section>
+        <section prefix="(i)">"Enclosure" means a building, structure, aircraft, watercraft, or vehicle, and each:<section prefix="1.">separately secured or occupied portion of it; and</section><section prefix="2.">structure appurtenant or connected to it.</section></section>
         <section prefix="(ii)">"Enclosure" includes a trailer and a sleeping car.</section>
       </section>
       <section prefix="(3)">"Research" means a studious and serious inquiry, examination, investigation, or experimentation designed to discover or accumulate data, theories, technologies, or applications for a governmental, scientific, educational, or proprietary purpose.</section>

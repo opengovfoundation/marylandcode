@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-305" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">The Secretary shall determine whether any plant infestation, plant infection or animal or human disease with a known or suspected arthropod vector exists which may be controlled or its spread retarded by aircraft dissemination of pesticides.</section>
     <section prefix="(b)">If the Secretary determines that an infestation, infection, or disease exists, he may control or retard its spread by aircraft dissemination of pesticides, notwithstanding any other provision of law.</section>

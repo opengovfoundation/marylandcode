@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-937.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-937.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>937.1</order_by>
   <text>
     <section prefix="(a)">In this section, "street rod" means a motor vehicle that:<section prefix="(1)">Is 25 years old or older; and</section><section prefix="(2)">Has been substantially altered from the manufacturer's original design.</section></section>
     <section prefix="(b)">Except as provided in subsection (e) of this section, if registered with the Administration under this section, every street rod is a Class N (street rod) vehicle.</section>

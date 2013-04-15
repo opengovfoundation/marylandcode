@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">In this title:<section prefix="(1)">"Payment order" means an instruction of a sender to a receiving bank, transmitted orally, electronically, or in writing, to pay, or to cause another bank to pay, a fixed or determinable amount of money to a beneficiary if:<section prefix="(i)">The instruction does not state a condition to payment to the beneficiary other than time of payment;</section><section prefix="(ii)">The receiving bank is to be reimbursed by debiting an account of, or otherwise receiving payment from, the sender; and</section><section prefix="(iii)">The instruction is transmitted by the sender directly to the receiving bank or to an agent, funds-transfer system, or communication system for transmittal to the receiving bank.</section></section><section prefix="(2)">"Beneficiary" means the person to be paid by the beneficiary's bank.</section><section prefix="(3)">"Beneficiary's bank" means the bank identified in a payment order in which an account of the beneficiary is to be credited pursuant to the order or which otherwise is to make payment to the beneficiary if the order does not provide for payment to an account.</section><section prefix="(4)">"Receiving bank" means the bank to which the sender's instruction is addressed.</section><section prefix="(5)">"Sender" means the person giving the instruction to the receiving bank.</section></section>
     <section prefix="(b)">If an instruction complying with subsection (a)(1) of this section is to make more than 1 payment to a beneficiary, the instruction is a separate payment order with respect to each payment.</section>

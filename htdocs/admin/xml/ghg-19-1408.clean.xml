@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-1408" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-1408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1408</order_by>
   <text>
     <section prefix="(a)">The Department shall make a site visit and conduct a full survey of each licensed nursing home at least two times per calendar year.</section>
     <section prefix="(b)">The Department may waive the requirements of subsection (a) of this section for a nursing home that, in the two most recent surveys of the nursing home conducted after October 1, 2000, has had no deficiencies that have the potential for minimum harm or greater.</section>

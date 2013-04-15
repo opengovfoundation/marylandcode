@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-506" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-11-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">If the defendant has waived his exemptions, the court shall enter the waiver on the docket and on the writ, but failure to make the entry does not affect the validity of the waiver.</section>
     <section prefix="(b)">The court may strike out or invalidate a waiver for sufficient reasons.</section>

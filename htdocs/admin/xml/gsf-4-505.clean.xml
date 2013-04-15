@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-505" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-4-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, money received from the auction or sale of any surplus personal property in excess of charges which might be imposed by the Department of General Services for conducting the auction or sale shall be deposited in the General Fund of the State. If the Department of Budget and Management approves, the money in excess of the service charge may be credited to the account of the unit of the State government that declared the property to be excess personal property.</section>
     <section prefix="(b)">Money received from the auction or sale of surplus personal property shall be deposited as follows:<section prefix="(1)">if the item was purchased from a special fund appropriation, the proceeds shall be deposited in the appropriate special fund;</section><section prefix="(2)">if the item was purchased with bond money, the proceeds shall be deposited in the Annuity Bond Fund; and</section><section prefix="(3)">if the item was purchased with federal money, the proceeds shall be disbursed in accordance with federal law.</section></section>

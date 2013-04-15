@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-317" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-8-317</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>317</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,7 +16,7 @@
       <section prefix="(6)">"Weighted enrollment growth" means the product of 0.2 times the change in the 4-year average annual full-time equivalent enrollment from the 3rd through the 6th prior school years to the 2nd through the 5th prior school years divided by the 4-year average annual full-time equivalent enrollment from the 3rd through the 6th prior school years.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Maryland School for the Blind shall receive an appropriation equal to or greater than the sum of:<section prefix="(i)">75% of the prior year appropriation multiplied by the product of:</section><section prefix="(ii)">25% of the prior year appropriation multiplied by the sum of the weighted enrollment growth plus one.</section></section>
+      <section prefix="(1)">Except as provided in paragraph (2) of this subsection and subsection (c) of this section, the Maryland School for the Blind shall receive an appropriation equal to or greater than the sum of:<section prefix="(i)">75% of the prior year appropriation multiplied by the product of:<section prefix="1.">The sum of the weighted enrollment growth plus one; and</section><section prefix="2.">The sum of the growth in the per pupil basic current expense figure plus one; and</section></section><section prefix="(ii)">25% of the prior year appropriation multiplied by the sum of the weighted enrollment growth plus one.</section></section>
       <section prefix="(2)">The minimum appropriation required under paragraph (1) of this subsection may be reduced to the extent reductions are made to the administrative expenses of the Maryland School for the Blind.</section>
     </section>
     <section prefix="(c)">The "prior year appropriation" used to calculate the fiscal year 2000 appropriation to the Maryland School for the Blind shall be $11,585,436.</section>

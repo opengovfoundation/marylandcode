@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-105" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-12-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">To accomplish one or more of the legislative purposes listed in &#xA7; 12-103(b) of this subtitle, the legislative body of a county or municipal corporation may adopt a resolution to create an industrial development authority in accordance with this subtitle.</section>
     <section prefix="(b)">A resolution adopted under subsection (a), (f), or (g) of this section:<section prefix="(1)">is administrative in nature;</section><section prefix="(2)">is not subject to referendum; and</section><section prefix="(3)">in a county or municipal corporation that has a publicly elected chief executive, is subject to approval by the chief executive.</section></section>

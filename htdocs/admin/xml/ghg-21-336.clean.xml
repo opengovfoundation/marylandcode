@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-336" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-336</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>336</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">In this section, "approved source" means a source of water that is:<section prefix="(i)">Sampled and found through laboratory analysis to comply with:</section><section prefix="(ii)">If applicable, constructed and inspected in accordance with regulations adopted by the Department of the Environment under &#xA7;&#xA7; 9-204, 9-1305, and 9-1306 of the Environment Article.</section></section>
+      <section prefix="(1)">In this section, "approved source" means a source of water that is:<section prefix="(i)">Sampled and found through laboratory analysis to comply with:<section prefix="1.">The microbiological standards adopted by the Department, with testing on a monthly basis; and</section><section prefix="2.">The chemical and radiological standards adopted by the Department, which shall meet or exceed the standards prescribed by the federal Food and Drug Administration, with testing annually for chemical analyses and once every 4 years for radiological analyses; and</section></section><section prefix="(ii)">If applicable, constructed and inspected in accordance with regulations adopted by the Department of the Environment under &#xA7;&#xA7; 9-204, 9-1305, and 9-1306 of the Environment Article.</section></section>
       <section prefix="(2)">"Approved source" includes:<section prefix="(i)">An artesian well;</section><section prefix="(ii)">A drilled well;</section><section prefix="(iii)">A glacier;</section><section prefix="(iv)">A public water supply;</section><section prefix="(v)">A spring; and</section><section prefix="(vi)">A source of mineral water that complies with the standards specified in paragraph (1) of this subsection but fails to meet the standards with respect to those properties of mineral water related to the limitations on chloride, iron, manganese, sulfate, total dissolved solids, zinc, or any other exemptions listed under 21 C.F.R. 165.110.</section></section>
       <section prefix="(3)">The Department may approve a source that does not meet standards regulated by the United States Environmental Protection Agency as a secondary standard if the bottler shows by analysis that a particular treatment used reduces the level of contaminants in the bottled water to a level below the maximum contaminant level.</section>
     </section>
@@ -22,12 +22,15 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">
-        <section prefix="(i)">A person who is licensed under this section shall submit to the Department the results of:</section>
+        <section prefix="(i)">A person who is licensed under this section shall submit to the Department the results of:<section prefix="1.">Annual chemical and radiological analyses of a representative sample of the person's source water and bottled water; and</section><section prefix="2.">A monthly microbiological analysis of a representative sample of the source water and bottled water.</section></section>
         <section prefix="(ii)">The analyses shall demonstrate that the source water and bottled water comply with the chemical, radiological, and microbiological standards adopted by the Department, which shall meet or exceed the standards prescribed by the federal Food and Drug Administration.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">Except as otherwise required by law, mineral water is not subject to the limitations on chloride, iron, manganese, sulfate, total dissolved solids, zinc, or any other exemptions listed under 21 C.F.R. 165.110.</section>
+          <section prefix="2.">Bottled water may not exceed:</section>
+        </section>
       </section>
       <section prefix="(2)">
-        <section prefix="(i)">Analyses required under this subsection may be performed by a laboratory certified by:</section>
+        <section prefix="(i)">Analyses required under this subsection may be performed by a laboratory certified by:<section prefix="1.">A state's Laboratory Certification Program in accordance with the United States Environmental Protection Agency's primacy conditions under the Agency's Public Water System Supervision Program; or</section><section prefix="2.">The United States Environmental Protection Agency.</section></section>
         <section prefix="(ii)">The Department shall accept analyses performed by any laboratory authorized under subparagraph (i) of this paragraph.</section>
       </section>
       <section prefix="(3)">A person licensed or registered under this section shall:<section prefix="(i)">For at least 2 years, maintain all inspection and sampling records at the person's principal place of business; and</section><section prefix="(ii)">Make inspection and sampling records available to the Department upon request.</section></section>

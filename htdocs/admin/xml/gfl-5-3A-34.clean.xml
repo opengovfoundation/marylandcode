@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3A-34" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3A-34</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>34</order_by>
   <text>
     <section prefix="(a)">In ruling on a petition for a child's adoption under this Part III of this subtitle, a court shall consider:<section prefix="(1)">all factors necessary to determine the child's best interests; and</section><section prefix="(2)">the report required under &#xA7; 5-3A-31 of this subtitle.</section></section>
     <section prefix="(b)">In ruling on an adoption petition under this Part III of this subtitle, a court may not deny the petition solely because the petitioner is single or unmarried.</section>

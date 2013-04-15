@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-138" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-138</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>138</order_by>
   <text>
     <section prefix="(a)">To the extent that funding is available in the State budget, the Department of Health and Mental Hygiene shall implement the Employed Persons with Disabilities Program by July 1, 2005.</section>
     <section prefix="(b)">The purpose of the Employed Persons with Disabilities Program is to encourage individuals with disabilities to seek or maintain employment.</section>

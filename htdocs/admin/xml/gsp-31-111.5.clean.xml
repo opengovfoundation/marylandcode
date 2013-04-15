@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-111.5" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-31-111.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111.5</order_by>
   <text>
     <section prefix="(a)">An individual who is an employee of the Town of Sykesville on the effective date shall receive eligibility service and creditable service in the Employees' Pension System equal to 75% of the individual's period of employment with the Town of Sykesville before the effective date as certified by the Town of Sykesville as of the effective date.</section>
     <section prefix="(b)">If an employee or former employee of the Town of Sykesville becomes a member of the Employees' Pension System at any time after the effective date, the employee may not receive service credit for employment with the Town of Sykesville before the effective date.</section>

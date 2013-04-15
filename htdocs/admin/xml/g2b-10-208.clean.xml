@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-208" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-10-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a license is refused, except as provided in this section, other applications may not be considered from the applicant or for the premises, as the case may be, for a period of six months. If a subsequent application by the same applicant or for the same premises is refused within the two-year period immediately following the date of the first refusal, then other applications may not be considered from the applicant or for the premises, as the case may be, until the two-year period has elapsed.</section>

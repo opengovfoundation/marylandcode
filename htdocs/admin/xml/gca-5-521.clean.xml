@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-521" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-521</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>521</order_by>
   <text>
     <section prefix="(a)">A member of a cooperative organized without capital stock and a holder of stock, whether common or preferred, is entitled to only one vote.</section>
     <section prefix="(b)">Voting by proxy is prohibited in any cooperative. Voting by mail is not voting by proxy.</section>

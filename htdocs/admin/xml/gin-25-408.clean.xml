@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-408" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-25-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall have the same powers over the Association as are granted under this article with respect to domestic insurers that are authorized insurers.</section>
     <section prefix="(b)">If the Commissioner determines that the rate structure for policies of essential property insurance and homeowner's insurance offered by or through the Association does not compete with the rate structure of the voluntary insurance market in the State, the Commissioner shall approve the rate structure.</section>

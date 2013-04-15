@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-138" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-138</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>138</order_by>
   <text>
     <section prefix="(a)">Upon request of the obligor, the court shall immediately authorize service of an earnings withholding order.</section>
     <section prefix="(b)">Notwithstanding any other provision of this Part III, a court may at any time issue an earnings withholding order, in a contempt or other proceeding, if:<section prefix="(1)">the recipient or the support enforcement agency has filed a petition that includes a request for an earnings withholding order; and</section><section prefix="(2)">the obligor is in arrears in support payments of more than 30 days.</section></section>

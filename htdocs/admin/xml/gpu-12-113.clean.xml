@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-113" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-12-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">In a hearing before the Authority for an alleged violation of this subtitle:<section prefix="(1)">all testimony shall be given under oath; and</section><section prefix="(2)">the proceedings shall be recorded.</section></section>
     <section prefix="(b)">The chair or a member of the Authority may administer the oath.</section>

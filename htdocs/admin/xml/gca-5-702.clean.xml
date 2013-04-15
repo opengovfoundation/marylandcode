@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-702" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">A charitable or religious Maryland nonstock corporation may petition a court of equity for a decree under &#xA7; 5-209 of this title if:<section prefix="(1)">The dissolution of the corporation involves provisions for disposition of assets under &#xA7; 5-208(b)(2) or (3) of this title; or</section><section prefix="(2)">A consolidation, merger, or transfer of assets of the corporation under &#xA7; 5-207 of this title involves similar provisions for the successor corporation.</section></section>
     <section prefix="(b)">The failure to petition a court of equity and obtain a decree does not affect the otherwise valid actions of the corporation in dissolution, consolidation, or merger, or in a transfer of assets.</section>

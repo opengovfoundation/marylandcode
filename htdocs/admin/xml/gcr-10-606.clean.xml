@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-606" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
     <section prefix="(a)">A person may not:<section prefix="(1)">intentionally mutilate, torture, cruelly beat, or cruelly kill an animal;</section><section prefix="(2)">cause, procure, or authorize an act prohibited under item (1) of this subsection; or</section><section prefix="(3)">except in the case of self-defense, intentionally inflict bodily harm, permanent disability, or death on an animal owned or used by a law enforcement unit.</section></section>
     <section prefix="(b)">

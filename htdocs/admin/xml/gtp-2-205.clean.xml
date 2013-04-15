@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-205" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-2-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">In this section, "taxing authority" means:<section prefix="(1)">the county council or board of county commissioners of a county;</section><section prefix="(2)">the City Council of Baltimore City; and</section><section prefix="(3)">the governing body of a municipal corporation.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">On or before February 14 of each year, the Department shall send each taxing authority:<section prefix="(i)">an estimate of the total assessment of all real property in the county or municipal corporation for the next taxable year; and</section><section prefix="(ii)">an estimate of the total assessment:</section></section>
+      <section prefix="(1)">On or before February 14 of each year, the Department shall send each taxing authority:<section prefix="(i)">an estimate of the total assessment of all real property in the county or municipal corporation for the next taxable year; and</section><section prefix="(ii)">an estimate of the total assessment:<section prefix="1.">of all new construction and improvements in the county or municipal corporation not assessed since the last date of finality; and</section><section prefix="2.">of all real property in the county or municipal corporation that may be deleted from the assessment records.</section></section></section>
       <section prefix="(2)">The Department shall notify each taxing authority of any change in the estimated assessment of all real property in the county or the municipal corporation that results from actions of a property tax assessment appeal board or the Maryland Tax Court.</section>
     </section>
     <section prefix="(c)">

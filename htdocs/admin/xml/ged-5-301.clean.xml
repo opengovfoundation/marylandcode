@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-301" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle, "Interagency Committee" means the Interagency Committee on School Construction established under &#xA7; 5-302 of this subtitle.</section>
     <section prefix="(b)">
       <section prefix="(1)">For the purposes of this section other than subsection (c), the Board of Public Works shall define by regulation what constitutes an eligible and ineligible public school construction or capital improvement cost.</section>
       <section prefix="(2)">
         <section prefix="(i)">The Board of Public Works shall include modular construction as an approved public school construction or capital cost.</section>
-        <section prefix="(ii)">The Board of Public Works, at the recommendation of the Interagency Committee on School Construction, shall adopt regulations that:</section>
+        <section prefix="(ii)">The Board of Public Works, at the recommendation of the Interagency Committee on School Construction, shall adopt regulations that:<section prefix="1.">Define modular construction; and</section><section prefix="2.">Establish the minimum specifications required for approval of modular construction as a public school construction or capital improvement cost.</section></section>
       </section>
       <section prefix="(3)">The cost of acquiring land may not be considered a construction or capital improvement cost and may not be paid by the State.</section>
     </section>

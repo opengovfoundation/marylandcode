@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-405" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-6-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">Any action, including one in the name of the State, brought by a next friend for the benefit of a minor may be settled by the next friend.</section>
     <section prefix="(b)">If the next friend is not a parent or person in loco parentis of the child, the settlement is not effective unless approved by the parent or other person responsible for the child.</section>

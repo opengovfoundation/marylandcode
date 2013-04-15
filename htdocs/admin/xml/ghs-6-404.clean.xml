@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-404" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-6-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For a contribution worth $500 or more in goods, money, or real property to an approved project, a business entity or an individual is entitled to a tax credit in the amount determined under subsection (b) of this section.</section>
@@ -19,7 +19,7 @@
     <section prefix="(c)">
       <section prefix="(1)">To qualify for a credit for a contribution under this section, before making a contribution, a business entity or an individual shall apply for and receive approval of the contribution from the Department.</section>
       <section prefix="(2)">Each application for approval of a contribution shall contain:<section prefix="(i)">the name of the approved project to which the contribution will be made;</section><section prefix="(ii)">the amount of the contribution; and</section><section prefix="(iii)">a certification by an independent and unrelated third party as to the value of any nonmonetary contribution included or, for new goods, an invoice or receipt certifying the contribution's net cost to the business entity or individual.</section></section>
-      <section prefix="(3)">The Department may not approve an application if it determines that:<section prefix="(i)">the maximum amount of contributions eligible for a tax credit for the project for the fiscal year will be exceeded by the sum of:</section><section prefix="(ii)">the applicant has overstated the value of a nonmonetary contribution.</section></section>
+      <section prefix="(3)">The Department may not approve an application if it determines that:<section prefix="(i)">the maximum amount of contributions eligible for a tax credit for the project for the fiscal year will be exceeded by the sum of:<section prefix="1.">the amount of the proposed contribution; and</section><section prefix="2.">the total amount of contributions previously approved for that project for the fiscal year; or</section></section><section prefix="(ii)">the applicant has overstated the value of a nonmonetary contribution.</section></section>
       <section prefix="(4)">On or before January 31 of each year, the Department shall report to the Department of Assessments and Taxation, the Comptroller, and the Maryland Insurance Administration the contributions that the Department has approved under this section in the preceding calendar year.</section>
     </section>
   </text>

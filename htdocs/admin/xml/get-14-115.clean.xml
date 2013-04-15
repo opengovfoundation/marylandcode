@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-115" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-14-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">In this section, "special needs trust" and "supplemental needs trust" include a trust funded by a trust beneficiary or by a third party.</section>
     <section prefix="(b)">It is the policy of the State to encourage the use of a special needs trust or supplemental needs trust by an individual of any age with disabilities to preserve funds to provide for the needs of the individual not met by public benefits and to enhance quality of life.</section>

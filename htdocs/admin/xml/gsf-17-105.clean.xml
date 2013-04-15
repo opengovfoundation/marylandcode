@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-105" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-17-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Security under this subtitle:<section prefix="(1)">if required by the State or a unit of the State government, shall be payable to "the State of Maryland"; or</section><section prefix="(2)">if required by any other public body, shall be payable to that public body.</section></section>
     <section prefix="(b)">The form of payment security or performance security shall be approved:<section prefix="(1)">for the State or a unit of the State government, by the Attorney General; and</section><section prefix="(2)">for any other public body, by its attorney.</section></section>

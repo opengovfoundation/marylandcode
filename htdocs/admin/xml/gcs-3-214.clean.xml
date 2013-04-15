@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-214" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The warden of a correctional facility or designee of the warden may issue a retake warrant for the apprehension and return of an escapee.</section>

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-306" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-10-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">The State Board, in consultation with the election directors of the local boards, shall specify and produce the following informational materials to be posted in each polling place:<section prefix="(i)">a specimen ballot for that precinct;</section><section prefix="(ii)">instructions relating to the availability of assistance to elderly and disabled voters;</section><section prefix="(iii)">information regarding the date of the election and the hours during which the polling places will be open;</section><section prefix="(iv)">instructions on how to vote, including how to cast a vote;</section><section prefix="(v)">instructions for mail-in registrants and first-time voters;</section><section prefix="(vi)">general information on voting rights under applicable federal and State laws and instructions on how to contact the appropriate local board if these rights are alleged to have been violated;</section><section prefix="(vii)">information regarding provisional voting, including:</section><section prefix="(viii)">general information on federal and State laws regarding prohibitions on acts of fraud and misrepresentation.</section></section>
+      <section prefix="(1)">The State Board, in consultation with the election directors of the local boards, shall specify and produce the following informational materials to be posted in each polling place:<section prefix="(i)">a specimen ballot for that precinct;</section><section prefix="(ii)">instructions relating to the availability of assistance to elderly and disabled voters;</section><section prefix="(iii)">information regarding the date of the election and the hours during which the polling places will be open;</section><section prefix="(iv)">instructions on how to vote, including how to cast a vote;</section><section prefix="(v)">instructions for mail-in registrants and first-time voters;</section><section prefix="(vi)">general information on voting rights under applicable federal and State laws and instructions on how to contact the appropriate local board if these rights are alleged to have been violated;</section><section prefix="(vii)">information regarding provisional voting, including:<section prefix="1.">information on the right of an individual to cast a provisional ballot;</section><section prefix="2.">how to fill out the provisional ballot application and cast the provisional ballot; and</section><section prefix="3.">the standards that will be applied in determining whether a provisional ballot will be counted; and</section></section><section prefix="(viii)">general information on federal and State laws regarding prohibitions on acts of fraud and misrepresentation.</section></section>
       <section prefix="(2)">A local board may produce other materials appropriate for the polling places in the county.</section>
     </section>
     <section prefix="(b)">Before the polls open, the election judges for each precinct shall post all information specified under subsection (a) of this section.</section>

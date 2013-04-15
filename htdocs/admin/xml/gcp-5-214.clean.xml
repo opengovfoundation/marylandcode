@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-214" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-5-214</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding Maryland Rule 4-217(g), after a defendant has appeared in person before the commissi...</catch_line>
+  <order_by>214</order_by>
   <text>Notwithstanding Maryland Rule 4-217(g), after a defendant has appeared in person before the commissioner or judge in a case, the defendant may post bond by means of electronic transmission or hand delivery of the relevant documentation without appearing before the commissioner or judge, if authorized by:<section prefix=""><section prefix="(1)">in the circuit court, the County Administrative Judge; and</section><section prefix="(2)">in the District Court, the Chief Judge of the District Court.</section></section></text>
 </law>

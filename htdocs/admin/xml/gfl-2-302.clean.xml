@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-302" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-2-302</section_number>
-  <catch_line/>
+  <catch_line>A person who violates any provision of this subtitle is guilty of a misdemeanor and on conviction is...</catch_line>
+  <order_by>302</order_by>
   <text>A person who violates any provision of this subtitle is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $250.</text>
 </law>

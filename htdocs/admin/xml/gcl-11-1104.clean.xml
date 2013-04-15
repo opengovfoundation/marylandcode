@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-1104" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">Before a distress sale, a person shall compile a complete and detailed record of the inventory that is to be sold at the distress sale, including:<section prefix="(1)">A description of each item;</section><section prefix="(2)">The approximate quantity of each item; and</section><section prefix="(3)">The regular price and the proposed sale price of each item.</section></section>
     <section prefix="(b)">The record of inventory required under subsection (a) of this section shall be open for inspection by the Division of Consumer Protection in the Office of the Attorney General at any time during normal business hours.</section>

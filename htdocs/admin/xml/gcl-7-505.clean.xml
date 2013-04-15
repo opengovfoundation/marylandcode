@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-505" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-505</section_number>
-  <catch_line/>
+  <catch_line>The indorsement of a tangible document of title issued by a bailee does not make the indorser liable...</catch_line>
+  <order_by>505</order_by>
   <text>The indorsement of a tangible document of title issued by a bailee does not make the indorser liable for any default by the bailee or previous indorsers.</text>
 </law>

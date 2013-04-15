@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-705" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-705</section_number>
-  <catch_line/>
+  <catch_line>A pension plan may not reduce a payment to an individual entitled to receive the payment because Soc...</catch_line>
+  <order_by>705</order_by>
   <text>A pension plan may not reduce a payment to an individual entitled to receive the payment because Social Security payments to that individual increase.</text>
 </law>

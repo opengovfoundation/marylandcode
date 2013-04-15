@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-302" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Real property is not subject to State property tax if the property:<section prefix="(1)">is owned by the American Association of Blood Banks, Incorporated; or</section><section prefix="(2)">is leased by the American Association of Blood Banks, Incorporated under a lease of 50 years or more.</section></section>
     <section prefix="(b)">The property tax exemption under this section only applies to that portion of the property that is necessary for and actually used exclusively for the charitable or educational purposes of the American Association of Blood Banks, Incorporated.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-209" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-9-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">Subject to subsections (b) through (k) of this section, delivery of a disclaimer may be effected by personal delivery, first-class mail, or any other method likely to result in its receipt.</section>
     <section prefix="(b)">In the case of an interest created under the law of intestate succession or an interest created by will, other than an interest in a testamentary trust:<section prefix="(1)">A disclaimer shall be delivered to the personal representative for the decedent's estate; or</section><section prefix="(2)">If there is no personal representative, it shall be filed with a court having jurisdiction to appoint the personal representative.</section></section>

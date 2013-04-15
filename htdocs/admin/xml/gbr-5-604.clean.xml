@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-604" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">A trustee appointed under this subtitle must be:<section prefix="(1)">a national banking association;</section><section prefix="(2)">a bank, as defined in the Maryland Uniform Fiduciaries Act;</section><section prefix="(3)">a savings bank insured by a unit of the federal government;</section><section prefix="(4)">a savings and loan association insured by a unit of the federal government; or</section><section prefix="(5)">a person who annually provides, with the trust report, the proof of a fidelity bond that meets the requirements of subsection (b) of this section from a recognized bonding institution authorized to do business in the State in an amount equal to the trust fund.</section></section>
     <section prefix="(b)">The fidelity bond provided under subsection (a)(5) of this section shall be:<section prefix="(1)">for the benefit of the trust account of the cemetery or its burial space owners or both;</section><section prefix="(2)">conditioned such that the applicant shall comply with all Maryland laws and regulations relating to trust accounts; and</section><section prefix="(3)">subject to the approval of the Director.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-204" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">This section applies to any water supply system, sewerage system, refuse disposal system that is for public use, or any refuse disposal system that is a solid waste acceptance facility as defined in &#xA7; 9-501(n) of this title if the solid waste acceptance facility is installed, altered, or extended after July 1, 1988.</section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
     <section prefix="(e)">An applicant for a permit shall:<section prefix="(1)">Submit to the Secretary an application that contains:<section prefix="(i)">The complete plans and specifications for the installation, alteration, or extension of the water supply system, sewerage system, or refuse disposal system;</section><section prefix="(ii)">For any application related to any solid waste acceptance facility in the areas of Baltimore City designated by the United States Post Office as zip code numbers 21225, 21226, and 21230, a groundwater and surface water impact analysis prepared at the expense of the applicant regarding the proposed installation, alteration, or extension; and</section><section prefix="(iii)">Any other information that the Secretary requires;</section></section><section prefix="(2)">Submit to the Secretary any material change in the plans and specifications, with the reason for the change; and</section><section prefix="(3)">Pay the permit fee set by the Department.</section></section>
     <section prefix="(f)">Results of any groundwater and surface water impact analysis required under subsection (e)(1)(ii) of this section may be a basis for the Secretary's denial of a permit.</section>
     <section prefix="(g)">
-      <section prefix="(1)">When a person applies for a permit and pays the fee under this section, the Secretary shall:<section prefix="(i)">Examine the application without delay; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">When a person applies for a permit and pays the fee under this section, the Secretary shall:<section prefix="(i)">Examine the application without delay; and</section><section prefix="(ii)"><section prefix="1.">Approve the application and issue the permit;</section><section prefix="2.">Disapprove the application; or</section><section prefix="3.">State the conditions under which the Secretary would approve the application.</section></section></section>
       <section prefix="(2)">The Secretary shall act within 30 working days after receiving an application and payment of fee for a permit under this section for a water distribution line or a sewage collection line.</section>
       <section prefix="(3)">If the Secretary does not act within the time set by paragraph (2) of this subsection:<section prefix="(i)">The application is approved automatically; and</section><section prefix="(ii)">The Secretary shall issue a permit for the work.</section></section>
     </section>
@@ -41,10 +41,10 @@
     <section prefix="(n)">
       <section prefix="(1)">In this subsection, "trade secret" has the meaning provided in &#xA7; 11-1201 of the Commercial Law Article.</section>
       <section prefix="(2)">The Department shall prepare an annual report identifying the amount of solid waste by weight or volume, disposed of in the State during the previous year.</section>
-      <section prefix="(3)">The report required under paragraph (2) of this subsection shall identify:<section prefix="(i)">The following solid waste categories:</section><section prefix="(ii)">The amount of solid waste disposed of in the State that is generated outside of the State;</section><section prefix="(iii)">The jurisdictions where the solid waste originated;</section><section prefix="(iv)">The amount of solid waste generated in the State that is transported outside of the State for disposal; and</section><section prefix="(v)">An estimate of the amount of solid waste managed or disposed of by:</section></section>
+      <section prefix="(3)">The report required under paragraph (2) of this subsection shall identify:<section prefix="(i)">The following solid waste categories:<section prefix="1.">Construction and demolition debris;</section><section prefix="2.">Incinerator ash;</section><section prefix="3.">Industrial waste;</section><section prefix="4.">Land clearing debris;</section><section prefix="5.">Municipal solid waste; and</section><section prefix="6.">Any other solid waste identified by the Department;</section></section><section prefix="(ii)">The amount of solid waste disposed of in the State that is generated outside of the State;</section><section prefix="(iii)">The jurisdictions where the solid waste originated;</section><section prefix="(iv)">The amount of solid waste generated in the State that is transported outside of the State for disposal; and</section><section prefix="(v)">An estimate of the amount of solid waste managed or disposed of by:<section prefix="1.">Recycling;</section><section prefix="2.">Composting;</section><section prefix="3.">Landfilling; and</section><section prefix="4.">Incineration.</section></section></section>
       <section prefix="(4)">
         <section prefix="(i)">All permitted solid waste acceptance facilities shall at least annually provide to the Department information that is necessary to prepare the report required under paragraph (2) of this subsection.</section>
-        <section prefix="(ii)">Under subparagraph (i) of this paragraph, a facility owner may provide the following information:</section>
+        <section prefix="(ii)">Under subparagraph (i) of this paragraph, a facility owner may provide the following information:<section prefix="1.">An accounting of the facility's economic benefits provided to the locality where the facility is located;</section><section prefix="2.">The value of disposal and recycling facilities provided to the locality at no cost or reduced cost;</section><section prefix="3.">Direct employment associated with the facility; and</section><section prefix="4.">Other economic benefits resulting from the facility during the preceding calendar year.</section></section>
       </section>
       <section prefix="(5)">Beginning September 1, 2000, the Department shall annually submit, in accordance with &#xA7; 2-1246 of the State Government Article, a report of the activities undertaken and the progress made in accordance with this section to:<section prefix="(i)">The House Environmental Matters Committee; and</section><section prefix="(ii)">The Senate Education, Health, and Environmental Affairs Committee.</section></section>
       <section prefix="(6)">A facility owner is not required to provide information under paragraph (4) of this subsection that is a trade secret.</section>

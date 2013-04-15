@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-101" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-20-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -23,7 +23,7 @@
     </section>
     <section prefix="(i)">
       <section prefix="(1)">"Residential child care program" means an entity that provides for children 24-hour per day care within a structured set of services and activities that are designed to achieve specific objectives relative to the needs of the children served and that include the provision of food, clothing, shelter, education, social services, health, mental health, recreation, or any combination of these services and activities.</section>
-      <section prefix="(2)">"Residential child care program" includes a program:<section prefix="(i)">Licensed by:</section><section prefix="(ii)">That is subject to the licensing regulations of the Governor's Office for Children governing the operations of residential child care programs.</section></section>
+      <section prefix="(2)">"Residential child care program" includes a program:<section prefix="(i)">Licensed by:<section prefix="1.">The Department of Health and Mental Hygiene;</section><section prefix="2.">The Department of Human Resources; or</section><section prefix="3.">The Department of Juvenile Services; and</section></section><section prefix="(ii)">That is subject to the licensing regulations of the Governor's Office for Children governing the operations of residential child care programs.</section></section>
     </section>
   </text>
 </law>

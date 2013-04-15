@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-925" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-925</section_number>
-  <catch_line/>
+  <catch_line>The provisions of this subtitle are severable, and if any of its provisions are held unconstitutiona...</catch_line>
+  <order_by>925</order_by>
   <text>The provisions of this subtitle are severable, and if any of its provisions are held unconstitutional by any court of competent jurisdiction, the decision of the court shall not affect or impair any of the remaining provisions.</text>
 </law>

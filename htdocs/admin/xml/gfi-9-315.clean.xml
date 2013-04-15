@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-315" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">The holder of a savings deposit account in a savings and loan association has the same claim priority in any distribution of assets on liquidation as a general creditor of the deposit association to the extent of the deposit account's withdrawal value.</section>
     <section prefix="(b)">In addition to subsection (a) of this section, the holder of a savings deposit account has the same rights as the owner of a savings share account, including any membership or voting rights and the right to share in any distribution of remaining assets on liquidation.</section>

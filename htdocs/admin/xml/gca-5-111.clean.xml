@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-111" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">A stockholder of a professional corporation may transfer or pledge stock, fractional stock, and rights or options to purchase stock of the corporation only to a qualified person.</section>
     <section prefix="(b)">A transfer of stock made in violation of subsection (a) of this section, except a transfer made by operation of law or by court judgment, is void.</section>

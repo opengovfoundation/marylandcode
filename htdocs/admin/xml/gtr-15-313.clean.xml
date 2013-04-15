@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-313" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">A dealer or an agent or employee of a dealer may not use any advertisement that is in any way false, deceptive, or misleading.</section>
     <section prefix="(b)">A dealer or an agent or employee of a dealer may not by any means advertise or offer to the public any vehicle without intent to sell it as advertised or offered.</section>

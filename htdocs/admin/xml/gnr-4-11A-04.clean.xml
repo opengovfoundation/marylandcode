@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-11A-04" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-11A-04</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>04</order_by>
   <text>
     <section prefix="(a)">In consultation with the Oyster Advisory Commission, the Department shall identify by regulation the public shellfish fishery area in the Chesapeake Bay based on commercial harvesting activity during the 3 years preceding June 1, 2009, any surveys conducted by the Department, and other quantitative data known or made available to the Department.</section>
     <section prefix="(b)">The public shellfish fishery area may not be leased for shellfish aquaculture.</section>

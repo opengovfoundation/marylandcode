@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-212" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-16-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">The reasonable value of the services rendered to an indigent individual in accordance with this title is a lien on real or personal property in which the indigent individual has or acquires an interest, except for the residence of the indigent individual.</section>
     <section prefix="(b)">To perfect the lien, the Public Defender shall submit to the court having jurisdiction in the matter an affidavit setting forth the services rendered to the indigent individual and their reasonable value.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-12-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Chief executive officer" means:<section prefix="(1)">for Baltimore City, the Mayor;</section><section prefix="(2)">for a charter county, the county executive or, if there is no county executive, the county council;</section><section prefix="(3)">for a code county, the county commissioners or county council;</section><section prefix="(4)">for a county commissioner county, the county commissioners; or</section><section prefix="(5)">for a municipal corporation, the legislative body established by municipal charter.</section></section>
@@ -23,7 +23,7 @@
     </section>
     <section prefix="(l)">"Proceeds" includes property derived directly or indirectly in connection with or as a result of a crime under the Controlled Dangerous Substances law.</section>
     <section prefix="(m)">
-      <section prefix="(1)">"Property" includes:<section prefix="(i)">real property and anything growing on or attached to real property;</section><section prefix="(ii)">tangible and intangible personal property, including:</section><section prefix="(iii)">an item, object, tool, substance, device, or weapon used in connection with a crime under the Controlled Dangerous Substances law; and</section><section prefix="(iv)">money.</section></section>
+      <section prefix="(1)">"Property" includes:<section prefix="(i)">real property and anything growing on or attached to real property;</section><section prefix="(ii)">tangible and intangible personal property, including:<section prefix="1.">securities;</section><section prefix="2.">negotiable and nonnegotiable instruments;</section><section prefix="3.">vehicles and conveyances of any type;</section><section prefix="4.">privileges;</section><section prefix="5.">interests;</section><section prefix="6.">claims; and</section><section prefix="7.">rights;</section></section><section prefix="(iii)">an item, object, tool, substance, device, or weapon used in connection with a crime under the Controlled Dangerous Substances law; and</section><section prefix="(iv)">money.</section></section>
       <section prefix="(2)">"Property" does not include:<section prefix="(i)">an item unlawfully in the possession of a person other than the owner when used in connection with a crime under the Controlled Dangerous Substances law; or</section><section prefix="(ii)">a lessor's interest in property subject to a bona fide lease, unless the forfeiting authority can show that the lessor participated in a crime under the Controlled Dangerous Substances law or that the property was the proceeds of a crime under the Controlled Dangerous Substances law.</section></section>
     </section>
     <section prefix="(n)">

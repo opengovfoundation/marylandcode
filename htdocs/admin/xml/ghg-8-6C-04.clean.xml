@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-6C-04" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-8-6C-04</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>04</order_by>
   <text>
     <section prefix="(a)">In this section, "county" includes Baltimore City.</section>
     <section prefix="(b)">A request for Partnership funding may be submitted to the Department by:<section prefix="(1)">The governing body of a county; or</section><section prefix="(2)">The governing body of more than one county.</section></section>
@@ -16,7 +16,7 @@
       <section prefix="(1)">After consulting with the Task Force to Study Increasing the Availability of Substance Abuse Programs, the Department shall award Partnership funding following the considerations in this section.</section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a county granted funding shall be responsible for one-half of the cost of the approved partnership.</section>
-        <section prefix="(ii)">The Department may award Partnership funding that results in a county being responsible for less than one-half of the cost of the approved partnership after considering:</section>
+        <section prefix="(ii)">The Department may award Partnership funding that results in a county being responsible for less than one-half of the cost of the approved partnership after considering:<section prefix="1.">The financial hardship of the participating county;</section><section prefix="2.">Prior contributions of funds for substance abuse treatment programs made by the participating county; or</section><section prefix="3.">Other relevant considerations deemed appropriate by the Department.</section></section>
       </section>
       <section prefix="(3)">A participating county:<section prefix="(i)">May use Partnership funds only to supplement levels of spending by the participating county on drug treatment programs; and</section><section prefix="(ii)">May not use Partnership funds to supplant spending by the participating county on drug treatment programs.</section></section>
     </section>

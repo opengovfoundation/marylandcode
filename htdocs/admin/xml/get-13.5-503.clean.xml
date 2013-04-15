@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13.5-503" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13.5-503</section_number>
-  <catch_line/>
+  <catch_line>This title applies to guardianship and protective proceedings beginning on or after October 1, 2010....</catch_line>
+  <order_by>503</order_by>
   <text>This title applies to guardianship and protective proceedings beginning on or after October 1, 2010.</text>
 </law>

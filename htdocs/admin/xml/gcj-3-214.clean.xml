@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-214" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">At an arbitration hearing, the parties have the right:<section prefix="(1)">To be heard;</section><section prefix="(2)">To present evidence material to the controversy; and</section><section prefix="(3)">To cross examine witnesses who appear at the hearing.</section></section>
     <section prefix="(b)">Arbitrators are not bound by the technical rules of evidence.</section>

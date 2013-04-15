@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-4B-05" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-4B-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">An individual who applies for search, contact, and reunion services shall execute a written agreement with a confidential intermediary concerning the provision of search, contact, and reunion services.</section>
     <section prefix="(b)">

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-312" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-3-312</section_number>
-  <catch_line/>
+  <catch_line>The Commissioner may delay the effective date of a regulation for not more than 90 days after public...</catch_line>
+  <order_by>312</order_by>
   <text>The Commissioner may delay the effective date of a regulation for not more than 90 days after publication of the notice of adoption, if the Commissioner finds that the delay is needed to ensure that each manufacturer, operator, or amusement owner of an amusement attraction affected by the regulation knows about and has an opportunity to familiarize employees with the requirements of the regulation.</text>
 </law>

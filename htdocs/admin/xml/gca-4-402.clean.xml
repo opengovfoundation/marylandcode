@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-402" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">The bylaws of a close corporation shall provide for an annual meeting of stockholders in accordance with Title 2 of this article, but the meeting need not be held unless requested by a stockholder.</section>
     <section prefix="(b)">A request for an annual meeting shall be in writing and delivered to the president or secretary of the corporation:<section prefix="(1)">At least 30 days before the date specified in the bylaws for the meeting; or</section><section prefix="(2)">If the bylaws specify a period during which the date for the meeting may be set, at least 30 days before the beginning of that period.</section></section>

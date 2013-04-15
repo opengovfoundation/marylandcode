@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-215" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">In this section, "Fund" means the Deep Creek Lake Recreation Maintenance and Management Fund.</section>
     <section prefix="(b)">There is a Deep Creek Lake Recreation Maintenance and Management Fund in the Department for the maintenance and management of the land, recreational facilities, and services that are related to Deep Creek Lake in Garrett County.</section>

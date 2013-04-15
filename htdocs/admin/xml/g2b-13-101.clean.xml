@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-101" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-13-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this section "alcohol awareness program" means a program:<section prefix="(1)">That:<section prefix="(i)">Is approved and certified by the State Comptroller; and</section><section prefix="(ii)">Has been issued an alcohol awareness program permit by the State Comptroller;</section></section><section prefix="(2)">That includes instruction on how alcohol affects a person's:<section prefix="(i)">Body; and</section><section prefix="(ii)">Behavior;</section></section><section prefix="(3)">That provides education on the dangers of drinking and driving; and</section><section prefix="(4)">That defines effective methods for:<section prefix="(i)">Serving customers to minimize the chance of intoxication;</section><section prefix="(ii)">Ceasing service before the customer becomes intoxicated; and</section><section prefix="(iii)">Determining if a customer is under the drinking age.</section></section></section>
     <section prefix="(b)">
@@ -15,10 +15,14 @@
     <section prefix="(c)">
       <section prefix="(1)">A holder of any class of retail alcoholic beverages license or an employee designated by the holder shall complete training in an approved alcohol awareness program. The training shall be valid for a period of 4 years, and the holder shall complete retraining in an approved program for each successive 4-year period.</section>
       <section prefix="(2)">
-        <section prefix="(i)">This paragraph applies only in the following jurisdictions:</section>
+        <section prefix="(i)">This paragraph applies only in the following jurisdictions:<section prefix="1.">Howard County;</section><section prefix="2.">Montgomery County;</section><section prefix="3.">Kent County;</section><section prefix="4.">Washington County;</section><section prefix="5.">Caroline County; and</section><section prefix="6.">Except as provided in subparagraph (ii) of this paragraph, Wicomico County.</section></section>
         <section prefix="(ii)">This paragraph does not apply to a licensee in Wicomico County with a Class C license.</section>
-        <section prefix="(iii)">The licensee or a person who is employed in a supervisory capacity designated by the licensee:</section>
-        <section prefix="(iv)"/>
+        <section prefix="(iii)">The licensee or a person who is employed in a supervisory capacity designated by the licensee:<section prefix="1.">Shall be certified by an approved alcohol awareness program; and</section><section prefix="2.">Except as otherwise provided in subparagraph (iv) of this paragraph, be present during the hours in which alcohol may be sold.</section></section>
+        <section prefix="(iv)">
+          <section prefix="1.">In Howard County, Kent County, Washington County, and Wicomico County, the person certified by an approved alcohol awareness program may be absent from the licensed premises for a bona fide personal or business reason or an emergency, if the absence lasts for not more than 2 hours.</section>
+          <section prefix="2.">In Caroline County, the person certified by an approved alcohol awareness program may be absent from the licensed premises for a bona fide emergency, if the absence lasts for not more than 2 hours.</section>
+          <section prefix="3.">The Board of License Commissioners shall require the licensee to keep a log book on the licensed premises that contains documentation of each temporary absence, the length of time of the absence, and the reason for the absence, in the form required by the Board of License Commissioners.</section>
+        </section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">This paragraph applies only in Harford County.</section>
@@ -39,7 +43,7 @@
         <section prefix="(ii)">An up-to-date valid certificate shall be presented to the proper authority upon request.</section>
       </section>
       <section prefix="(5)">
-        <section prefix="(i)">Within 5 days after a licensee, bottle club owner, or an employee of a licensee or bottle club owner is sent a certificate of completion, the program provider shall inform the appropriate local licensing board of:</section>
+        <section prefix="(i)">Within 5 days after a licensee, bottle club owner, or an employee of a licensee or bottle club owner is sent a certificate of completion, the program provider shall inform the appropriate local licensing board of:<section prefix="1.">The individual's name, address, and certification date; and</section><section prefix="2.">The name and address of the licensed establishment.</section></section>
         <section prefix="(ii)">Any program provider who violates the provisions of this subsection is subject to a decertification of the program by the State Comptroller.</section>
       </section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-204" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">It is the intent of the General Assembly to establish consolidated procedures and notice and hearing requirements for Title 5, Subtitles 5 and 9 and Titles 14, 15, and 16 of this article in order to ensure efficient review and consistent decision making.</section>
@@ -27,7 +27,7 @@
     <section prefix="(d)">Following the application review and comment period and within 30 calendar days after the close of the public informational hearing record, the Department shall issue, modify, or deny the permit or license unless extenuating circumstances justify an extension of time.</section>
     <section prefix="(e)">The Department shall mail notice of a decision to issue, modify, or deny a permit or license to the applicant and to those persons on the interested persons list.</section>
     <section prefix="(f)">
-      <section prefix="(1)">A final determination by the Department on the issuance, denial, renewal, or revision of any permit issued under Title 5, Subtitle 5 or Subtitle 9, &#xA7; 14-105, &#xA7; 14-508, &#xA7; 15-808, or &#xA7; 16-307 of this article is subject to judicial review at the request of any person that:<section prefix="(i)">Meets the threshold standing requirements under federal law; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">A final determination by the Department on the issuance, denial, renewal, or revision of any permit issued under Title 5, Subtitle 5 or Subtitle 9, &#xA7; 14-105, &#xA7; 14-508, &#xA7; 15-808, or &#xA7; 16-307 of this article is subject to judicial review at the request of any person that:<section prefix="(i)">Meets the threshold standing requirements under federal law; and</section><section prefix="(ii)"><section prefix="1.">Is the applicant; or</section><section prefix="2.">Participated in a public participation process through the submission of written or oral comments, unless an opportunity for public participation was not provided.</section></section></section>
       <section prefix="(2)">For permits listed under paragraph (1) of this subsection, a contested case hearing may not occur.</section>
     </section>
     <section prefix="(g)">A person petitioning for judicial review in accordance with this section shall file the petition in accordance with the Maryland Rules.</section>

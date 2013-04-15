@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-309" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) through (d) of this section, benefits under a policy of blanket health insurance are payable to the insured, beneficiaries designated by the insured, or estate of the insured.</section>
     <section prefix="(b)">If the insured is under the age of 18 years or is mentally incompetent, benefits under a policy of blanket health insurance may be made payable to the insured's parents, guardian, or other person who supports the insured.</section>

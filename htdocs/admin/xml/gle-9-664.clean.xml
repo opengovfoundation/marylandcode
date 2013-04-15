@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-664" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-664</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>664</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Commission finds that the employer or its insurer has failed, without good cause, to pay for treatment or services required by &#xA7; 9-660 of this Part IX of this subtitle within 45 days after the Commission, by order, finally approves the fee or charge for the treatment or services, the Commission may impose a fine on the employer or insurer, not exceeding 20% of the amount of the approved fee or charge.</section>

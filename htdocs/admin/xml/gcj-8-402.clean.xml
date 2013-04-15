@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-8-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Subject to the requirements of this section, a jury judge or, if a county's jury plan allows, its jury commissioner may disqualify, excuse, or exempt an individual who is summoned for jury service or reschedule jury service.</section>
     <section prefix="(b)">An individual may be disqualified only on the basis of information provided on a juror questionnaire or during an interview or other competent evidence.</section>

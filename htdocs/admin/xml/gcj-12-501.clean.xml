@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-501" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-12-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">A party may appeal to the Court of Special Appeals from a final judgment of an orphans' court.</section>
     <section prefix="(b)">However, if the final judgment was given or made in a summary proceeding, and on the testimony of witnesses, an appeal is not allowed under this section unless the party desiring to appeal immediately gives notice of the party's intention to appeal and requests that the testimony be reduced to writing.</section>

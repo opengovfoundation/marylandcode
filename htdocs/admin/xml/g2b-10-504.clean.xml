@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-504" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-10-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">Except in Baltimore County, on the tenth day after the holder of any license issued under this article has vacated, or been evicted from the premises for which the license was issued, the license shall expire unless an application for approval of a transfer to another location or assignment to another person pursuant to &#xA7; 10-503 of this article or an application pursuant to &#xA7; 10-506 of this article has been approved or is then pending. However, the State Comptroller or local licensing board, as the case may be, may postpone the expiration for an additional period not exceeding 20 days in any case to avoid undue hardship.</section>
     <section prefix="(b)">This section does not apply to the holder of any license whose premises have been acquired for public use.</section>
@@ -48,7 +48,7 @@
       <section prefix="(4)">After a hearing conducted on the extension request, on a finding that undue hardship currently exists causing the closing or cessation of business operations, the Board may grant an extension of the life of the license for a time period not to exceed 360 days as defined in paragraphs (3) and (5) of this subsection.</section>
       <section prefix="(5)">
         <section prefix="(i)">It is the intent of this subsection that the total time period for which a license may be deemed unexpired under paragraph (2) of this subsection is 180 days if no undue hardship extension is granted, and no more than 360 days if an undue hardship extension has been granted.</section>
-        <section prefix="(ii)">The time period begins at the earlier of the closing of the business or cessation of alcoholic beverages business, and shall be tolled only on the filing of an application or request described in paragraph (2) of this subsection, the expiration period to begin running again, cumulatively to the time period before the filing of the application or request, on the occurrence of the later to occur of the following events:</section>
+        <section prefix="(ii)">The time period begins at the earlier of the closing of the business or cessation of alcoholic beverages business, and shall be tolled only on the filing of an application or request described in paragraph (2) of this subsection, the expiration period to begin running again, cumulatively to the time period before the filing of the application or request, on the occurrence of the later to occur of the following events:<section prefix="1.">Final action of the Board granting or denying a request authorized by paragraph (3) of this subsection;</section><section prefix="2.">Final action of the Board denying an application described under paragraph (2)(i) or (ii) of this subsection; or</section><section prefix="3."/></section>
       </section>
       <section prefix="(6)">If an application or request to the Board described in paragraph (2) or (3) of this subsection is withdrawn, there shall be no tolling of the period for automatic expiration of the license and it shall be considered as if the application or request had not been filed.</section>
     </section>

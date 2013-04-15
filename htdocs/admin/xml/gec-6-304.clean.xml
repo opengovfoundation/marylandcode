@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-304" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-6-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A qualified business entity may claim a tax credit in the amount determined under this section.</section>
       <section prefix="(2)">A qualified business entity shall submit to the appropriate State units, with the tax return on which the credit is claimed, certification from the Department that the business entity has met the requirements of this subtitle and is eligible for the credit.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Except as provided in this section, the credit earned under this section:<section prefix="(i)">for qualified employees working in a facility not located in a revitalization area, is the lesser of:</section><section prefix="(ii)">for qualified employees working in a facility located in a revitalization area, is the lesser of:</section></section>
+      <section prefix="(1)">Except as provided in this section, the credit earned under this section:<section prefix="(i)">for qualified employees working in a facility not located in a revitalization area, is the lesser of:<section prefix="1.">$1,000 multiplied by the number of qualified employees employed by the qualified business entity during the credit year; and</section><section prefix="2.">2.5% of the wages paid by the qualified business entity during the credit year to the qualified employees; and</section></section><section prefix="(ii)">for qualified employees working in a facility located in a revitalization area, is the lesser of:<section prefix="1.">$1,500 multiplied by the number of qualified employees employed by the qualified business entity during the credit year; and</section><section prefix="2.">5% of the wages paid by the qualified business entity during the credit year to the qualified employees.</section></section></section>
       <section prefix="(2)">The credit earned by a qualified business entity under this subtitle may not exceed $1,000,000 for any credit year.</section>
     </section>
     <section prefix="(c)">

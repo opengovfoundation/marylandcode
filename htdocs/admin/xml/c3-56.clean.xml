@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c3" order_by="" level="1"/>
-    <unit label="chapter" identifier="56" order_by="" level="2"/>
+    <unit label="article" identifier="c3" order_by="" level="1">III - Legislative Department</unit>
   </structure>
   <section_number>c3-56</section_number>
-  <catch_line/>
+  <catch_line>The General Assembly shall have power to pass all such Laws as may be necessary and proper for carry...</catch_line>
+  <order_by>56</order_by>
   <text>The General Assembly shall have power to pass all such Laws as may be necessary and proper for carrying into execution the powers vested, by this Constitution, in any Department, or office of the Government, and the duties imposed upon them thereby.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-109" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">The parties in their agreement may choose the applicable law.</section>
     <section prefix="(b)">In the absence of an enforceable agreement on choice of law, the following rules determine which jurisdiction's law governs in all respects for purposes of contract law:<section prefix="(1)">An access contract or a contract providing for electronic delivery of a copy is governed by the law of the jurisdiction in which the licensor was located when the agreement was entered into.</section><section prefix="(2)">A mass market transaction is governed by the law of Maryland.</section><section prefix="(3)">In all other cases, the contract is governed by the law of the jurisdiction having the most significant relationship to the transaction.</section></section>

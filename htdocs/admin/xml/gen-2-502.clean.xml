@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-502" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">A petition for a temporary fuel variance shall be filed with the Department in the form the Department requires.</section>
-    <section prefix="(b)">The petition shall contain:<section prefix="(1)">The name, address, and telephone number of the petitioner and any other person who is authorized to receive notices on behalf of the petitioner;</section><section prefix="(2)">The type and location of the operations for which the temporary fuel variance is sought;</section><section prefix="(3)">An explanation of why the petitioner is unable to obtain the necessary required fuel; and</section><section prefix="(4)">A description of:<section prefix="(i)">The process that is causing emissions and the quantity and nature of existing emissions;</section><section prefix="(ii)">The specific variance sought, including:</section><section prefix="(iii)">The amount and type of:</section></section></section>
+    <section prefix="(b)">The petition shall contain:<section prefix="(1)">The name, address, and telephone number of the petitioner and any other person who is authorized to receive notices on behalf of the petitioner;</section><section prefix="(2)">The type and location of the operations for which the temporary fuel variance is sought;</section><section prefix="(3)">An explanation of why the petitioner is unable to obtain the necessary required fuel; and</section><section prefix="(4)">A description of:<section prefix="(i)">The process that is causing emissions and the quantity and nature of existing emissions;</section><section prefix="(ii)">The specific variance sought, including:<section prefix="1.">The starting and ending dates of the requested variance; and</section><section prefix="2.">The type, sulphur content, and quantity of the fuel that the petitioner proposes to use; and</section></section><section prefix="(iii)">The amount and type of:<section prefix="1.">The current fuel inventory of the petitioner; and</section><section prefix="2.">Any fuel reserves at any facility that is owned or operated by the petitioner.</section></section></section></section>
     <section prefix="(c)">The petitioner shall verify the information in the petition.</section>
   </text>
 </law>

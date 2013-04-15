@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-202.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-10-202.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202.1</order_by>
   <text>
     <section prefix="(a)">In this section, "revitalization district" means a district designated by resolution adopted by the Prince George's County Council and approved by the County Executive or designated by the governing body of a municipal corporation in Prince George's County.</section>
     <section prefix="(b)">

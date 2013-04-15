@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-803" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-803</section_number>
-  <catch_line/>
+  <catch_line>A public corporation or a private corporation that establishes, operates, and maintains a foreign tr...</catch_line>
+  <order_by>803</order_by>
   <text>A public corporation or a private corporation that establishes, operates, and maintains a foreign trade zone under this subtitle is subject to the conditions of the federal Foreign Trade Zones Act.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-206" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-206</section_number>
-  <catch_line/>
+  <catch_line>The Commission shall:...</catch_line>
+  <order_by>206</order_by>
   <text>The Commission shall:<section prefix=""><section prefix="(1)">evaluate information on the activities of parolees that the Division of Parole and Probation reports;</section><section prefix="(2)">issue warrants or delegate to the Director of the Division of Parole and Probation the authority to issue warrants to retake parolees who are charged with violating a condition of parole;</section><section prefix="(3)">review and make recommendations to the Governor:<section prefix="(i)">concerning parole of an inmate under a sentence of life imprisonment; and</section><section prefix="(ii)">if requested by the Governor, concerning a pardon, commutation of sentence, or other clemency;</section></section><section prefix="(4)">establish and modify general policy governing the conduct of parolees; and</section><section prefix="(5)">arrange for psychiatric or psychological examination of applicants for parole whenever the Commission believes that an examination will better enable it to decide on the advisability of parole and include the expense for the examination in its annual budget.</section></section></text>
 </law>

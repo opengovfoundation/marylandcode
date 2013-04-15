@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-503" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">An annuity contract may not be delivered or issued for delivery in the State on or after the operative date of this subtitle unless the annuity contract contains:<section prefix="(1)">each applicable provision of subsections (b) through (g) of this section; or</section><section prefix="(2)">corresponding provisions that the Commissioner believes are at least as favorable to the contract holder after payment of considerations under the annuity contract stops.</section></section>
     <section prefix="(b)">Each annuity contract shall contain a provision that when payment of considerations under the annuity contract stops or on the written request of the contract owner, the insurer will grant a paid-up annuity benefit on a plan stipulated in the annuity contract in compliance with &#xA7;&#xA7; 16-505 through 16-509 of this subtitle.</section>
@@ -13,7 +13,10 @@
       <section prefix="(1)">Each annuity contract shall contain a provision that if the annuity contract provides for a lump-sum settlement at maturity or at any other time, on surrender of the annuity contract on or before the start of annuity payments, the insurer will pay a cash surrender benefit in accordance with &#xA7;&#xA7; 16-505, 16-506, 16-508, and 16-509 of this subtitle instead of a paid-up annuity benefit.</section>
       <section prefix="(2)">
         <section prefix="(i)">The annuity contract may state that the insurer shall reserve the right to defer the payment of the cash surrender value for up to 6 months after demand for payment with surrender of the annuity contract.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Before making a deferment under subparagraph (i) of this paragraph, the insurer shall make a written request to the Commissioner to make the deferment under subparagraph (i) of this paragraph.</section>
+          <section prefix="2.">The request under subsubparagraph 1 of this subparagraph shall address the necessity of the deferral and the equitability to all policyholders of the deferral.</section>
+        </section>
         <section prefix="(iii)">After receiving written approval from the Commissioner on the request made under subparagraph (ii)1 of this paragraph, the insurer may defer the payment of the cash surrender value.</section>
       </section>
     </section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-503" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-9A-503</section_number>
-  <catch_line/>
+  <catch_line>Except as otherwise provided in this title, regardless of whether a person is engaged in the busines...</catch_line>
+  <order_by>503</order_by>
   <text>Except as otherwise provided in this title, regardless of whether a person is engaged in the business of providing heating, ventilation, air-conditioning, or refrigeration services, the person may not knowingly employ an individual to provide or assist in providing heating, ventilation, air-conditioning, or refrigeration services in the State unless the individual is licensed by the Board.</text>
 </law>

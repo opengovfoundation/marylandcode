@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-208" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(1)">An agreement modifying a lease contract needs no consideration to be binding.</section>
     <section prefix="(2)">A signed lease agreement that excludes modification or rescission except by a signed writing may not be otherwise modified or rescinded, but, in a consumer lease such a requirement on a form supplied by a lessor must be conspicuous.</section>

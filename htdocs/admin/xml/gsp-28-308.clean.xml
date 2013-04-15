@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="28-308" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-28-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">For the purpose of computing benefits under this title, creditable service consists of:<section prefix="(1)">eligibility service as adjusted under subsection (b) of this section; and</section><section prefix="(2)">credit for unused sick leave as provided in &#xA7; 20-206 of this article.</section></section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
       <section prefix="(3)">
         <section prefix="(i)">The Board of Trustees shall adopt regulations to determine for any fiscal year the amount of creditable service that equals the eligibility service for a member who has completed less than the normal hours of employment for the member's position.</section>
         <section prefix="(ii)">The normal hours of employment for a position equals the minimum number of hours to be completed by a full-time employee serving in the member's position.</section>
-        <section prefix="(iii)">The creditable service recognized for a fiscal year may not be less than the eligibility service for the member multiplied by a fraction, not to exceed one, that has:</section>
+        <section prefix="(iii)">The creditable service recognized for a fiscal year may not be less than the eligibility service for the member multiplied by a fraction, not to exceed one, that has:<section prefix="1.">as its numerator, the number of hours of employment as a member that the member has completed during that year; and</section><section prefix="2.">as its denominator, the normal number of hours for the member's position.</section></section>
       </section>
     </section>
   </text>

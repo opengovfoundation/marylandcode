@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-507" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-507</section_number>
-  <catch_line/>
+  <catch_line>If a financier does not become a licensee in connection with its financial accommodation contract, t...</catch_line>
+  <order_by>507</order_by>
   <text>If a financier does not become a licensee in connection with its financial accommodation contract, the following rules apply:<section prefix=""><section prefix="(1)">The financier does not receive the benefits or burdens of the license.</section><section prefix="(2)">The licensee's rights and obligations with respect to the information and informational rights are governed by:<section prefix="(A)">The license;</section><section prefix="(B)">Any rights of the licensor under other law; and</section><section prefix="(C)">To the extent not inconsistent with subparagraphs (A) and (B) of this paragraph, any financial accommodation contract between the financier and the licensee, which may add additional conditions to the licensee's right to use the licensed information or informational rights.</section></section></section></text>
 </law>

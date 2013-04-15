@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-509.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-509.1</section_number>
-  <catch_line/>
+  <catch_line>A final judgment in an action for personal injury protection coverage under a motor vehicle liabilit...</catch_line>
+  <order_by>509.1</order_by>
   <text>A final judgment in an action for personal injury protection coverage under a motor vehicle liability insurance policy does not preclude a subsequent action for uninsured or underinsured motorist coverage arising out of the same motor vehicle accident or occurrence.</text>
 </law>

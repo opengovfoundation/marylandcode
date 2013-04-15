@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-401" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">Except for unprotected birds and game birds hunted during open season, a person may not hunt, destroy, or possess in any manner any wild bird within the State whether killed in the State or in any other state, territory, or country.</section>
     <section prefix="(b)">Unless prohibited by federal law, this section does not prohibit a landowner or his agent from shooting hawks or owls when considered necessary to protect poultry or game birds or mammals on the landowner's property from destruction. In addition, this section does not prohibit the Department from controlling birds or mammals which have become obnoxious in nature or habit or are damaging wildlife on any lands in the State.</section>

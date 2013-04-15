@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-104" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-13-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">The bond required by this subtitle shall be:<section prefix="(1)">payable to the State;</section><section prefix="(2)">conditioned that the trading stamp company shall redeem its trading stamps whenever rightful holders present them for redemption; and</section><section prefix="(3)">executed by:<section prefix="(i)">the trading stamp company; and</section><section prefix="(ii)">a corporate surety qualified to do business in the State.</section></section></section>
     <section prefix="(b)">

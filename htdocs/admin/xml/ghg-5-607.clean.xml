@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-607" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-607</section_number>
-  <catch_line/>
+  <catch_line>A health care provider may treat a patient who is incapable of making an informed decision, without ...</catch_line>
+  <order_by>607</order_by>
   <text>A health care provider may treat a patient who is incapable of making an informed decision, without consent, if:<section prefix=""><section prefix="(1)">The treatment is of an emergency medical nature;</section><section prefix="(2)">A person who is authorized to give the consent is not available immediately; and</section><section prefix="(3)">The attending physician determines that:<section prefix="(i)">There is a substantial risk of death or immediate and serious harm to the patient; and</section><section prefix="(ii)">With a reasonable degree of medical certainty, the life or health of the patient would be affected adversely by delaying treatment to obtain consent.</section></section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-215" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">The Mayor and City Council of Baltimore City or the governing body of a county may grant, by law, a local supplement to the Homeowners Property Tax Credit Program provided under &#xA7; 9-104 of this title.</section>
     <section prefix="(b)">The county or Baltimore City may not obtain reimbursement under &#xA7; 9-104(t) of this title for the amount of the local supplement authorized under this section.</section>
@@ -16,8 +16,8 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, the local supplement authorized in accordance with subsection (a) of this section shall be subject to the provisions of the State Homeowners Property Tax Credit Program provided under &#xA7; 9-104 of this title.</section>
-      <section prefix="(2)">The Mayor and City Council of Baltimore City or the governing body of a county:<section prefix="(i)">may alter, by law, the following provisions for purposes of a local supplement granted under this section:</section><section prefix="(ii)">may provide, by law, for limitations on eligibility for a local supplement granted under this section in addition to the requirements for eligibility under &#xA7; 9-104 of this title.</section></section>
-      <section prefix="(3)">The additional eligibility criteria provided under paragraph (2)(ii) of this subsection may include:<section prefix="(i)">criteria limiting eligibility for a local supplement granted under this section to homeowners:</section><section prefix="(ii)">any combination of the criteria specified in item (i) of this paragraph; and</section><section prefix="(iii)">any additional criteria for eligibility that the Mayor and City Council of Baltimore City or the governing body of a county determine to be necessary or appropriate.</section></section>
+      <section prefix="(2)">The Mayor and City Council of Baltimore City or the governing body of a county:<section prefix="(i)">may alter, by law, the following provisions for purposes of a local supplement granted under this section:<section prefix="1.">the limitation on the assessed value of a dwelling taken into account in determining total real property tax under &#xA7; 9-104(a)(13) of this title;</section><section prefix="2.">the percentages and combined income levels specified under &#xA7; 9-104(h) of this title; and</section><section prefix="3.">the limitation on combined net worth of the homeowner under &#xA7; 9-104(k) of this title; and</section></section><section prefix="(ii)">may provide, by law, for limitations on eligibility for a local supplement granted under this section in addition to the requirements for eligibility under &#xA7; 9-104 of this title.</section></section>
+      <section prefix="(3)">The additional eligibility criteria provided under paragraph (2)(ii) of this subsection may include:<section prefix="(i)">criteria limiting eligibility for a local supplement granted under this section to homeowners:<section prefix="1.">who have reached a certain age;</section><section prefix="2.">who have resided in their dwellings for more than a certain number of years; or</section><section prefix="3.">whose assessments have increased more than a certain percentage over a certain period of time;</section></section><section prefix="(ii)">any combination of the criteria specified in item (i) of this paragraph; and</section><section prefix="(iii)">any additional criteria for eligibility that the Mayor and City Council of Baltimore City or the governing body of a county determine to be necessary or appropriate.</section></section>
     </section>
   </text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c3" order_by="" level="1"/>
-    <unit label="chapter" identifier="28" order_by="" level="2"/>
+    <unit label="article" identifier="c3" order_by="" level="1">III - Legislative Department</unit>
   </structure>
   <section_number>c3-28</section_number>
-  <catch_line/>
+  <catch_line>No bill, nor single group of bills placed on the "consent calendar," shall become a Law unless it be...</catch_line>
+  <order_by>28</order_by>
   <text>No bill, nor single group of bills placed on the "consent calendar," shall become a Law unless it be passed in each House by a majority of the whole number of members elected, and on its final passage, the yeas and nays be recorded, and on final passage of the bills placed on the "consent calendar" the yeas and nays on the entire group of bills be recorded. A resolution requiring the action of both Houses shall be passed in the same manner.</text>
 </law>

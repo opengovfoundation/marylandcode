@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-417" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-15-417</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>417</order_by>
   <text>
     <section prefix="(a)">This section applies only in Prince George's County.</section>
     <section prefix="(b)">
@@ -28,9 +28,12 @@
       </section>
       <section prefix="(2)">
         <section prefix="(i)">Each eligible, full-time, nonexempt employee, as described in the Prince George's County Labor Code, of the State's Attorney's office is subject to the Prince George's County personnel law.</section>
-        <section prefix="(ii)">Employees described in subparagraph (i) of this paragraph:</section>
+        <section prefix="(ii)">Employees described in subparagraph (i) of this paragraph:<section prefix="1.">may organize and bargain collectively; and</section><section prefix="2.">are subject to the Prince George's County Labor Code with regard to collective bargaining for compensation, including pension and fringe benefits, hours, and other terms and conditions of employment.</section></section>
         <section prefix="(iii)">The County Executive is the employer of an employee described in subparagraph (i) of this paragraph for the purpose of collective bargaining for hours and compensation, including pension and fringe benefits.</section>
-        <section prefix="(iv)"/>
+        <section prefix="(iv)">
+          <section prefix="1.">The State's Attorney is the employer of an employee described in subparagraph (i) of this paragraph for the purpose of collective bargaining for other terms and conditions of employment.</section>
+          <section prefix="2.">The funding required for a collective bargaining agreement negotiated by the State's Attorney under this subparagraph is subject to the approval of the County Executive.</section>
+        </section>
       </section>
     </section>
     <section prefix="(e)">

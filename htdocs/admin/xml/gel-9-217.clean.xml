@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-217" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-9-217</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>217</order_by>
   <text>
     <section prefix="(a)">A person may not use, distribute, possess, print, or reproduce a ballot other than as authorized in this article.</section>
     <section prefix="(b)">A person who violates the provisions of subsection (a) of this section shall be subject to the penalties provided in Title 16 of this article.</section>

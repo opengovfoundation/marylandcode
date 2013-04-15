@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-209" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">A warehouse has a lien against the bailor on the goods covered by a warehouse receipt or storage agreement or on the proceeds thereof in its possession for charges for storage or transportation, including demurrage and terminal charges, insurance, labor, or other charges, present or future, in relation to the goods, and for expenses necessary for preservation of the goods or reasonably incurred in their sale pursuant to law. If the person on whose account the goods are held is liable for similar charges or expenses in relation to other goods whenever deposited and it is stated in the warehouse receipt or storage agreement that a lien is claimed for charges and expenses in relation to other goods, the warehouse also has a lien against the goods covered by the warehouse receipt or storage agreement or on the proceeds thereof in its possession for those charges and expenses, whether or not the other goods have been delivered by the warehouse. However, as against a person to which a negotiable warehouse receipt is duly negotiated, a warehouse's lien is limited to charges in an amount or at a rate specified in the warehouse receipt or, if no charges are so specified, to a reasonable charge for storage of the specific goods covered by the receipt subsequent to the date of the receipt.</section>
     <section prefix="(b)">A warehouse may also reserve a security interest against the bailor for the maximum amount specified on the receipt for charges other than those specified in subsection (a), such as for money advanced and interest. The security interest is governed by Title 9.</section>

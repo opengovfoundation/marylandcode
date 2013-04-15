@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-4-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Antique firearm" means:<section prefix="(1)">a firearm, including a firearm with a matchlock, flintlock, percussion cap, or similar ignition system, manufactured before 1899; or</section><section prefix="(2)">a replica of a firearm described in item (1) of this subsection that:<section prefix="(i)">is not designed or redesigned to use rimfire or conventional centerfire fixed ammunition; or</section><section prefix="(ii)">uses rimfire or conventional centerfire fixed ammunition that is no longer manufactured in the United States and is not readily available in the ordinary channels of commercial trade.</section></section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-108.6" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-108.6</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108.6</order_by>
   <text>
     <section prefix="(a)">In order to establish, modify, or enforce a duty of support, the Administration may issue subpoenas to compel the production of documents and other tangible items.</section>
     <section prefix="(b)">A subpoena issued under subsection (a) of this section shall:<section prefix="(1)">specify the name and address of the person to be subpoenaed;</section><section prefix="(2)">describe the items to be produced with particularity; and</section><section prefix="(3)">include a return date for the subpoena.</section></section>

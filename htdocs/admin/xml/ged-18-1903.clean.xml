@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-1903" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-1903</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1903</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Prepaid College Trust.</section>
     <section prefix="(b)">The purpose of the Trust is to provide:<section prefix="(1)">A means for payment of the cost of tuition in advance of enrollment at an eligible institution of higher education; and</section><section prefix="(2)">An assurance to a beneficiary who enrolls at an eligible institution of higher education that the Board shall make every effort to invest the advance payments so that the prepaid contract will cover the average in-State tuition costs at public institutions of higher education in the State at the time that the benefits are exercised.</section></section>

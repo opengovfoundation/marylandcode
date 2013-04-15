@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-105" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-9-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Treasurer shall provide self-insurance for:<section prefix="(i)">loss of or damage to State motor vehicles;</section><section prefix="(ii)">loss of or damage to hulls of State vessels;</section><section prefix="(iii)">loss of or damage to State real property, to the extent that purchased insurance does not cover the loss or damage; and</section><section prefix="(iv)">loss as a result of a settlement or judgment to the extent that the Board of Public Works pays the loss under Title 12, Subtitle 5 of the State Government Article.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-116" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-116</section_number>
-  <catch_line/>
+  <catch_line>The Department shall reimburse skilled nursing facilities for services provided to indigent or medic...</catch_line>
+  <order_by>116</order_by>
   <text>The Department shall reimburse skilled nursing facilities for services provided to indigent or medically indigent patients under the age of 21 years.</text>
 </law>

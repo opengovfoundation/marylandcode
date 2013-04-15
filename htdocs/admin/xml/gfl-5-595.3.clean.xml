@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-595.3" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-595.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>595.3</order_by>
   <text>
     <section prefix="(a)">The State Department of Education shall designate appropriate representatives to participate in collective bargaining with the provider organization certified as the exclusive representative of family child care providers.</section>
     <section prefix="(b)">Except as otherwise provided in this Part XI of this subtitle, the parties shall adhere to the bargaining process set forth in &#xA7; 3-501 of the State Personnel and Pensions Article.</section>

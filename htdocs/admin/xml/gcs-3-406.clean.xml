@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-406" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-406</section_number>
-  <catch_line/>
+  <catch_line>While in the program, an inmate must remain in the inmate's approved dwelling except:...</catch_line>
+  <order_by>406</order_by>
   <text>While in the program, an inmate must remain in the inmate's approved dwelling except:<section prefix=""><section prefix="(1)">with the approval of the program administrator, to go directly to and from:<section prefix="(i)">the inmate's approved place of employment;</section><section prefix="(ii)">medical or mental health treatment; or</section><section prefix="(iii)">offices of the Department;</section></section><section prefix="(2)">as required by legitimate medical or other emergencies; or</section><section prefix="(3)">as otherwise allowed or directed by the program administrator.</section></section></text>
 </law>

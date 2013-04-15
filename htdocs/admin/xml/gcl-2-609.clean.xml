@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-609" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(1)">A contract for sale imposes an obligation on each party that the other's expectation of receiving due performance will not be impaired. When reasonable grounds for insecurity arise with respect to the performance of either party the other may in writing demand adequate assurance of due performance and until he receives such assurance may if commercially reasonable suspend any performance for which he has not already received the agreed return.</section>
     <section prefix="(2)">Between merchants the reasonableness of grounds for insecurity and the adequacy of any assurance offered shall be determined according to commercial standards.</section>

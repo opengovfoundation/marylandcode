@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-6-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">There is a Warrant Apprehension Unit in the Division of Parole and Probation.</section>
     <section prefix="(b)">The Director may authorize parole and probation employees of the Warrant Apprehension Unit to:<section prefix="(1)">execute warrants for the retaking of offenders;</section><section prefix="(2)">execute warrants for the arrest of probationers for whom a warrant is issued for an alleged violation of probation;</section><section prefix="(3)">obtain and execute search warrants as authorized under &#xA7; 6-109 of this subtitle; and</section><section prefix="(4)">arrest offenders in the program as authorized under &#xA7; 2-207 of the Criminal Procedure Article.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-626" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-626</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>626</order_by>
   <text>
     <section prefix="(a)">A court may order, at any time, an emergency evaluation under Part IV of this subtitle of an individual who has been arrested, if the court finds probable cause to believe that the individual has a mental disorder and the individual presents a danger to the life or safety of the individual or of others.</section>
     <section prefix="(b)">The court order for an emergency evaluation shall state the grounds.</section>

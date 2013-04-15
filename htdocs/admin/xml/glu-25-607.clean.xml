@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-607" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-25-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">The county planning board may purchase an easement on agricultural property in the county that is outside the metropolitan district but is in the regional district.</section>
     <section prefix="(b)">To further the purposes of the Program, the county planning board may expend any current money that is authorized under this division to be used to purchase easements in the county in the metropolitan district.</section>

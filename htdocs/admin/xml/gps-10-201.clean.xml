@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-201" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-10-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Only the State Fire Marshal may issue a license to operate a fireworks plant.</section>
@@ -23,7 +23,7 @@
       <section prefix="(3)">The State Fire Marshal shall revoke the license of a licensee who, within 5 years of committing a first violation, commits a third violation, of this subtitle or a regulation adopted by the State Fire Prevention Commission under this subtitle.</section>
       <section prefix="(4)">On suspending or revoking a license under this subsection, the State Fire Marshal shall:<section prefix="(i)">file and keep a statement of the nature of the violation that resulted in the suspension or revocation; and</section><section prefix="(ii)">provide a copy of the statement to the owner and the operator of the fireworks plant.</section></section>
       <section prefix="(5)">
-        <section prefix="(i)">If the State Fire Marshal suspends, revokes, or refuses to renew a license, the State Fire Marshal or designee of the State Fire Marshal shall:</section>
+        <section prefix="(i)">If the State Fire Marshal suspends, revokes, or refuses to renew a license, the State Fire Marshal or designee of the State Fire Marshal shall:<section prefix="1.">determine whether the continued presence of explosive composition within the fireworks plant constitutes a danger to public safety; and</section><section prefix="2.">if there is a finding of a danger to public safety, remove and dispose of the explosive composition.</section></section>
         <section prefix="(ii)">If the State Fire Marshal determines that the danger to public safety under subparagraph (i) of this paragraph is a clear and present danger, the State Fire Marshal or designee of the State Fire Marshal shall remove and dispose of the explosive composition even if an appeal is pending.</section>
       </section>
     </section>

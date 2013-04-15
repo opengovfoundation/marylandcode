@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-204" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">With the advice of the Advisory Council and after consultation with representatives of the cemetery industry, the Director shall adopt:<section prefix="(i)">rules and regulations to carry out this title; and</section><section prefix="(ii)">a code of ethics for engaging in the operation of a cemetery or crematory or providing burial goods.</section></section>
-      <section prefix="(2)">In conjunction with the State Board of Morticians and Funeral Directors, the Director shall:<section prefix="(i)">establish a process for regulating crematories that provides for:</section><section prefix="(ii)">adopt regulations that are identical to regulations adopted by the State Board of Morticians and Funeral Directors to:</section></section>
+      <section prefix="(2)">In conjunction with the State Board of Morticians and Funeral Directors, the Director shall:<section prefix="(i)">establish a process for regulating crematories that provides for:<section prefix="1.">registration of crematory operators or issuance of permits for operating crematories, and renewal;</section><section prefix="2.">applications, including certification of ownership and identification of individuals who will perform cremation;</section><section prefix="3.">registration and permit fees;</section><section prefix="4.">inspections and oversight;</section><section prefix="5.">grounds for discipline and penalties; and</section><section prefix="6.">complaints and hearings; and</section></section><section prefix="(ii)">adopt regulations that are identical to regulations adopted by the State Board of Morticians and Funeral Directors to:<section prefix="1.">implement item (i) of this paragraph; and</section><section prefix="2.">ensure public health and safety.</section></section></section>
     </section>
     <section prefix="(b)">Upon receipt of a written complaint, or at the discretion of the Director, the Director or the Director's designee may conduct an investigation and an inspection of the records and site of a registered cemeterian, registered crematory operator, registered seller, permit holder, or any other person subject to the registration or permit provisions of this title.</section>
     <section prefix="(c)">The Director may hold hearings on any matter covered by this title.</section>
@@ -20,7 +20,7 @@
     </section>
     <section prefix="(f)">
       <section prefix="(1)">The Director may sue in the name of the State to enforce any provision of this title by injunction.</section>
-      <section prefix="(2)">In seeking an injunction under this subsection, the Director is not required to:<section prefix="(i)">post bond; or</section><section prefix="(ii)">allege or prove either that:</section></section>
+      <section prefix="(2)">In seeking an injunction under this subsection, the Director is not required to:<section prefix="(i)">post bond; or</section><section prefix="(ii)">allege or prove either that:<section prefix="1.">an adequate remedy at law does not exist; or</section><section prefix="2.">substantial or irreparable damage would result from the continued violation of the provision.</section></section></section>
       <section prefix="(3)">The Director or staff may not be held personally liable for any action taken under this title in good faith and with reasonable grounds.</section>
     </section>
     <section prefix="(g)">The Director may issue a cease and desist order, if the Director finds a violation of this title.</section>

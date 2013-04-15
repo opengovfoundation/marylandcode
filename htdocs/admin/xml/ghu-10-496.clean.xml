@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-496" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-496</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>496</order_by>
   <text>
     <section prefix="(a)">A person may not maintain or operate a facility offering continuing care without having obtained an initial or renewal certificate of registration.</section>
     <section prefix="(b)">A person may not disseminate prohibited advertising or promotional materials.</section>

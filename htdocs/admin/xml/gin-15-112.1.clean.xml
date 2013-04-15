@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-112.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-112.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Carrier" means:</section>
+        <section prefix="(i)">"Carrier" means:<section prefix="1.">an insurer;</section><section prefix="2.">a nonprofit health service plan;</section><section prefix="3.">a health maintenance organization;</section><section prefix="4.">a dental plan organization;</section><section prefix="5.">a managed care organization; or</section><section prefix="6.">any other person that provides health benefit plans subject to regulation by the State.</section></section>
         <section prefix="(ii)">"Carrier" includes an entity that arranges a provider panel for a carrier.</section>
       </section>
       <section prefix="(3)">"Credentialing intermediary" means a person to whom a carrier has delegated credentialing or recredentialing authority and responsibility.</section>

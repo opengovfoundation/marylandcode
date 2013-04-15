@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-304" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-11-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Neither the fact that an application for registration under Subtitle 4 of this title or a registration statement or notice filing under Subtitle 5 of this title has been filed, nor the fact that a person or security is effectively registered constitutes a finding by the Commissioner that any document filed under this title is true, complete, and not misleading.</section>

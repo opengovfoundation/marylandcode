@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-103" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The Commission may purchase a municipally or privately owned water supply or sewer system if the Commission:<section prefix="(1)">extends its general water supply or sewer system to the municipally or privately owned water supply or sewer system and is ready to connect with the system; or</section><section prefix="(2)">considers the purchase to be expedient, advisable, and proper for the adequate operation of the system under the Commission's jurisdiction.</section></section>
     <section prefix="(b)">If the Commission and the owner of a municipally or privately owned water supply or sewer system fail to agree to the purchase price or conditions of purchase of the water or sewer system, the Commission may acquire the system by condemnation, as provided in this division.</section>

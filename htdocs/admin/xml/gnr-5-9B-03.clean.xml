@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-9B-03" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-9B-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">The sponsor shall submit applications to appropriate State and local units and consider any recommendations made regarding the applications.</section>
     <section prefix="(b)">An easement acquired under this subtitle is perpetual and may not be extinguished or released.</section>

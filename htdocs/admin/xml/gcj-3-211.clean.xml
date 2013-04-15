@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-211" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">If the arbitration agreement provides a method of appointment of arbitrators, this method shall be followed.</section>
     <section prefix="(b)">In the absence of a provision in the agreement, a party may file a petition with a court to appoint one or more arbitrators.</section>

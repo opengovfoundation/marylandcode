@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-307" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-23-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (b) of this section, in the year of retirement, a member of the Employees' Pension System may purchase credit for eligibility service of up to 10 years for periods of employment described in paragraph (3) of this subsection for which the member is not otherwise entitled to service credit.</section>
@@ -24,7 +24,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">A member of the Employees' Pension System who is employed by a member of the State Senate or House of Delegates for at least 130 days per year as a legislative employee before becoming a member is considered to have been a permanent part-time legislative employee.</section>
-      <section prefix="(2)">A member described in paragraph (1) of this subsection may purchase credit for eligibility service for that period of legislative employment by paying to the Board of Trustees:<section prefix="(i)">for a period of employment on or before December 31, 1979, the sum of:</section><section prefix="(ii)">for a period of employment on or after January 1, 1980, the sum of:</section></section>
+      <section prefix="(2)">A member described in paragraph (1) of this subsection may purchase credit for eligibility service for that period of legislative employment by paying to the Board of Trustees:<section prefix="(i)">for a period of employment on or before December 31, 1979, the sum of:<section prefix="1.">the amount that the member would have been required to contribute for that period of employment; and</section><section prefix="2.">interest on the member's contributions, compounded annually; and</section></section><section prefix="(ii)">for a period of employment on or after January 1, 1980, the sum of:<section prefix="1.">the amount that the member would have been required to contribute for that period of employment;</section><section prefix="2.">the amount that the State would have been required to contribute for the member for that period of employment; and</section><section prefix="3.">interest on the member's and State's contributions, compounded annually.</section></section></section>
       <section prefix="(3)">The rate of interest to be paid under this subsection is the average for the 5 years preceding the year of payment of the yearly rate of interest computed as the sum of the investment income and the realized gains and losses divided by the book value of the total investments.</section>
     </section>
   </text>

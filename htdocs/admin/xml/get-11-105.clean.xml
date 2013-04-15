@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-105" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-11-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">As used in this section, the words "death benefits" mean death benefits of any kind, including, but not limited to, proceeds of life insurance policies and payments under an employees' trust or contract purchased by a trust forming part of a pension, stock bonus, or profit-sharing plan, or under a retirement annuity contract.</section>
     <section prefix="(b)">Death benefits may be made payable to the trustee under a trust agreement, or declaration of trust in existence at the time of the death of the insured, employee, or annuitant. The death benefits shall be held and disposed of by the trustee in accordance with the terms of the trust as they appear in writing on the date of the death of the insured, employee, or annuitant. It is not necessary to the validity of a trust agreement or declaration of trust, whether revocable or irrevocable, that it have a trust corpus other than the right of the trustee to receive death benefits.</section>

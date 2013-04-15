@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-901" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Authority" means:<section prefix="(1)">A body politic and corporate that is created under this subtitle; or</section><section prefix="(2)">If that body is abolished, the unit that:<section prefix="(i)">Succeeds to the principal functions of that body; or</section><section prefix="(ii)">Is given by law the powers under this subtitle of the former body.</section></section></section>
@@ -16,7 +16,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">"Cost" means:<section prefix="(i)">The purchase price of a project; or</section><section prefix="(ii)">Any expense necessary or incident to financing, acquiring, improving, or constructing a project, or to placing a project in operation.</section></section>
-      <section prefix="(2)">"Cost" includes:<section prefix="(i)">Any obligation or expense that an authority incurs, before the authority issues a bond under this subtitle, to acquire, improve, or construct a project, including an obligation or expense for:</section><section prefix="(ii)">The cost of a project, including:</section></section>
+      <section prefix="(2)">"Cost" includes:<section prefix="(i)">Any obligation or expense that an authority incurs, before the authority issues a bond under this subtitle, to acquire, improve, or construct a project, including an obligation or expense for:<section prefix="1.">An engineering study;</section><section prefix="2.">An estimate of cost;</section><section prefix="3.">An estimate of revenue; or</section><section prefix="4.">Any other technical or professional service; and</section></section><section prefix="(ii)">The cost of a project, including:<section prefix="1.">Acquiring all of the stock of a corporation that owns the project;</section><section prefix="2.">Discharging the obligations of the corporation to vest title to all or part of the project in the authority;</section><section prefix="3.">Acquiring any real property, right, easement, franchise, permit, machinery, or equipment;</section><section prefix="4.">Any improvement;</section><section prefix="5.">Any finance charge;</section><section prefix="6.">Any interest charge before, during, or for 1 year after completion of construction of the project;</section><section prefix="7.">Any engineering or legal service, plan, specification, survey, estimate of cost, estimate of revenue, or other item necessary to determine the feasibility or practicability of acquiring, improving, or constructing the project; and</section><section prefix="8.">Any administrative expense.</section></section></section>
     </section>
     <section prefix="(f)">"Federal agency" means:<section prefix="(1)">The United States government; or</section><section prefix="(2)">Any agency of the United States government.</section></section>
     <section prefix="(g)">"Governing body" means the unit of a political subdivision that is authorized by law to enact laws for the political subdivision.</section>
@@ -26,7 +26,7 @@
     <section prefix="(k)">"Project" means all or part of any water system or sewerage system, or any combination of all or parts of water systems or sewerage systems, that is owned, constructed, or operated by an authority under this subtitle.</section>
     <section prefix="(l)">"Sewage" means water-carried waste that is created in and carried away or to be carried away from any private or public building.</section>
     <section prefix="(m)">
-      <section prefix="(1)">"Sewerage system" means:<section prefix="(i)">Any plant, system, facility, or property that can:</section><section prefix="(ii)">Any integral part of the plant, system, facility, or property.</section></section>
+      <section prefix="(1)">"Sewerage system" means:<section prefix="(i)">Any plant, system, facility, or property that can:<section prefix="1.">Carry sewage away;</section><section prefix="2.">Collect sewage;</section><section prefix="3.">Dispose of sewage;</section><section prefix="4.">Neutralize sewage; or</section><section prefix="5.">Prepare sewage for discharge; and</section></section><section prefix="(ii)">Any integral part of the plant, system, facility, or property.</section></section>
       <section prefix="(2)">"Sewerage system" includes the following parts of a sewerage system:<section prefix="(i)">An appurtenance.</section><section prefix="(ii)">A conduit.</section><section prefix="(iii)">A disposal field.</section><section prefix="(iv)">A drainage ditch.</section><section prefix="(v)">Any equipment.</section><section prefix="(vi)">A force main.</section><section prefix="(vii)">An intercepting sewer.</section><section prefix="(viii)">A lagoon.</section><section prefix="(ix)">A lateral sewer.</section><section prefix="(x)">An outfall sewer.</section><section prefix="(xi)">A pipeline.</section><section prefix="(xii)">A pumping station.</section><section prefix="(xiii)">A sewage treatment plant.</section><section prefix="(xiv)">A sewer pipe.</section><section prefix="(xv)">A surface water intercepting ditch.</section><section prefix="(xvi)">A trunk sewer.</section></section>
       <section prefix="(3)">"Sewerage system" includes any related property, property right, or franchise.</section>
     </section>

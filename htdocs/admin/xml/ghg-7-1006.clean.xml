@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1006" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-1006</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006</order_by>
   <text>
     <section prefix="(a)">In this section, "resource coordinator" means an independent professional staff person responsible for assisting in the development and review of an individual plan of habilitation designed to meet the individual's needs, preferences, desires, goals, and outcomes in the most integrated setting.</section>
     <section prefix="(b)">
@@ -26,7 +26,7 @@
         <section prefix="(iv)">On an annual basis and any other time requested by the individual, the treating professional and resource coordinator shall discuss with the individual the service needs of the individual, including identifying community-based Medicaid waiver services defined in &#xA7; 15-132 of this article, and any other services that may be appropriate.</section>
         <section prefix="(v)">The treating professional and resource coordinator shall use communication devices and techniques, including the use of sign language, as appropriate, to facilitate the involvement of the individual in the development of the written plan of habilitation.</section>
         <section prefix="(vi)">Subsequent to the initial written plan of habilitation for individuals in State residential centers, the written plan of habilitation shall include an annual update on the status and progress toward addressing and resolving the barriers identified in subparagraph (vii)4 of this paragraph.</section>
-        <section prefix="(vii)">The written plan of habilitation for individuals in State residential centers shall include:</section>
+        <section prefix="(vii)">The written plan of habilitation for individuals in State residential centers shall include:<section prefix="1.">The treating professional's recommendation on the most integrated setting appropriate to meet the individual's needs;</section><section prefix="2.">The resource coordinator's recommendation on the most integrated setting appropriate to meet the individual's needs;</section><section prefix="3.">A description of the services and supports, including residential, day, employment, and technology, that are required for the individual to receive services in the most integrated setting appropriate to meet the individual's needs; and</section><section prefix="4.">A listing of barriers that prevent an individual from receiving the supports and services required for the individual to live in the most integrated setting appropriate to meet the individual's needs, including community capacity or systems, if community services are determined to be the most integrated setting appropriate to meet the individual's needs.</section></section>
       </section>
       <section prefix="(2)">The treating professional and resource coordinator shall identify and report any rights violations as provided in &#xA7;&#xA7; 7-1002(b) and 7-1003(m) of this subtitle.</section>
       <section prefix="(3)">On or before December 1 of each year, each State residential center shall provide the information required under paragraph (1)(vi) and (vii) of this subsection to the Developmental Disabilities Administration and to the Department of Disabilities.</section>

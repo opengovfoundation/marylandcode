@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-262" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-262</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>262</order_by>
   <text>
     <section prefix="(a)">This section does not apply to the expiration, revocation, or modification of a sewage sludge utilization permit.</section>
     <section prefix="(b)">The Secretary may revoke or change any permit issued under this subtitle after the Secretary gives the permit holder notice of the proposed revocation or change.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-504" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">On application by a judgment creditor of a partner or of a partner's transferee, a court having jurisdiction may charge the transferable interest of the judgment debtor to satisfy the judgment. The court may appoint a receiver of the share of the distributions due or to become due to the judgment debtor in respect of the partnership and make all other orders, directions, accounts, and inquiries the judgment debtor might have made or which the circumstances of the case may require.</section>
     <section prefix="(b)">A charging order constitutes a lien on the judgment debtor's transferable interest in the partnership. The court may order a foreclosure of the interest subject to the charging order at any time. The purchaser at the foreclosure sale has the rights of a transferee.</section>

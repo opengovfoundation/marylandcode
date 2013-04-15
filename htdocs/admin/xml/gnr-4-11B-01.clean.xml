@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-11B-01" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-11B-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">There is a Seafood Marketing and Aquaculture Development Program and a Division of Market Development.</section>
     <section prefix="(b)">The Seafood Marketing and Aquaculture Development Program and Division of Market Development shall be part of the Department of Agriculture.</section>

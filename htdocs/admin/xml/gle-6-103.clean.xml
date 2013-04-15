@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-103" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-6-103</section_number>
-  <catch_line/>
+  <catch_line>Until determined otherwise from the owner or operator of an electric line that is above ground level...</catch_line>
+  <order_by>103</order_by>
   <text>Until determined otherwise from the owner or operator of an electric line that is above ground level, the electric line is presumed:<section prefix=""><section prefix="(1)">to be energized on and at all times after installation or erection; and</section><section prefix="(2)">to have a voltage of more than 750 volts.</section></section></text>
 </law>

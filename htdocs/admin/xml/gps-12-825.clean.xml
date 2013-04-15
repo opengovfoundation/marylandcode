@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-825" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-825</section_number>
-  <catch_line/>
+  <catch_line>The Board exercises its powers, duties, and functions subject to the authority of the Secretary....</catch_line>
+  <order_by>825</order_by>
   <text>The Board exercises its powers, duties, and functions subject to the authority of the Secretary.</text>
 </law>

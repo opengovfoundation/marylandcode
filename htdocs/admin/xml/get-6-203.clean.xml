@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-203" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-6-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">When two or more persons are appointed copersonal representatives, the concurrence of all is required on all acts connected with the administration and distribution of the estate.</section>
     <section prefix="(b)">The provisions of subsection (a) of this section do not apply if:<section prefix="(1)">The act involved is receiving or receipting for property due the estate;</section><section prefix="(2)">All personal representatives cannot readily be consulted in the time reasonably available for emergency action;</section><section prefix="(3)">A personal representative has validly delegated to a copersonal representative his power to act; or</section><section prefix="(4)">The will or a statute provides otherwise.</section></section>

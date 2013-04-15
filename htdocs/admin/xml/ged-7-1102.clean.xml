@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1102" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-1102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1102</order_by>
   <text>
     <section prefix="(a)">The State Superintendent shall appoint a task force to propose regulations to the State Board regarding student behavior intervention practices.</section>
     <section prefix="(b)">The task force shall consist of:<section prefix="(1)">Representatives of the Department;</section><section prefix="(2)">Representatives of local school systems, including teachers, administrators, school psychologists, and social workers;</section><section prefix="(3)">Representatives of advocacy communities;</section><section prefix="(4)">Representatives from nonpublic special education facilities; and</section><section prefix="(5)">Individuals with knowledge of and expertise in positive behavioral interventions.</section></section>

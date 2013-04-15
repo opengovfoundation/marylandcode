@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-604" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-604</section_number>
-  <catch_line/>
+  <catch_line>The Commissioner shall terminate the registration requirement for each insurer that demonstrates tha...</catch_line>
+  <order_by>604</order_by>
   <text>The Commissioner shall terminate the registration requirement for each insurer that demonstrates that it is no longer a member of an insurance holding company system.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1106" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-1106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1106</order_by>
   <text>
     <section prefix="(a)">There is a Statewide Public Health Component in the Program.</section>
     <section prefix="(b)">The purpose of the Statewide Public Health Component is to maximize the effectiveness of the anti-cancer initiatives in the State by authorizing the Department to take steps to ensure that the Program is implemented in a coordinated and integrated manner throughout the State.</section>

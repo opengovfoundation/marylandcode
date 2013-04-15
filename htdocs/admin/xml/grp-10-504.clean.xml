@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-504" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided under paragraph (4) of this subsection and in subsection (e) of this section, a custom home builder who receives consideration from a buyer in connection with the performance of a custom home contract shall place the consideration into an escrow account to the extent that the consideration is a payment in advance of the completion of the labor or the receipt of the materials for which the consideration is paid.</section>

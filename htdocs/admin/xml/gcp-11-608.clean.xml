@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-608" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">A judgment of restitution is a money judgment in favor of the person, governmental unit, or third-party payor to whom the restitution obligor has been ordered to pay restitution.</section>
     <section prefix="(b)">The judgment of restitution may be enforced by the person, governmental unit, or third-party payor to whom the restitution obligor has been ordered to pay restitution in the same manner as a money judgment in a civil action.</section>

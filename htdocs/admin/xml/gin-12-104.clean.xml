@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-104" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">A provision in an insurance contract or surety contract that sets a shorter time to bring an action under or on the insurance contract or surety contract than required by the law of the State when the insurance contract or surety contract is issued or delivered is against State public policy, illegal, and void.</section>
     <section prefix="(b)">If an insurance contract or surety contract contains a provision that is illegal under this section:<section prefix="(1)">a State court may not give effect to the provision; and</section><section prefix="(2)">a defense to liability under the insurance contract or surety contract may not be based upon the shorter limitation period.</section></section>

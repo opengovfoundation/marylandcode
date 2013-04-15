@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-805" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">From the date property tax on real property is due, liability for the tax and a 1st lien attaches to the real property in the amount of the property tax due on the real property.</section>
     <section prefix="(b)">From the date property tax on personal property is due, liability for the tax and a 1st lien attaches to the personal property in the amount of the property tax due on the personal property.</section>

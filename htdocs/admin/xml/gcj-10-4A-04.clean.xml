@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-4A-04" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-4A-04</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>04</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An investigative or law enforcement officer may require a provider of wire or electronic communication service to disclose the contents of wire or electronic communication that is in electronic storage in a wire or electronic communications system for 180 days or less, only in accordance with a search warrant issued by a court of competent jurisdiction.</section>
       <section prefix="(2)">An investigative or law enforcement officer may require a provider of wire or electronic communications services to disclose the contents of wire or electronic communication that has been in electronic storage in an electronic communications system for more than 180 days in accordance with the procedures provided under subsection (b) of this section.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">An investigative or law enforcement officer may require a provider of remote computing service to disclose the contents of wire or electronic communication to which this paragraph applies under paragraph (2) of this subsection:<section prefix="(i)">Without notice to the subscriber or customer, if the officer obtains a search warrant issued by a court of competent jurisdiction; or</section><section prefix="(ii)">With prior notice from the officer to the subscriber or customer, if the officer:</section></section>
+      <section prefix="(1)">An investigative or law enforcement officer may require a provider of remote computing service to disclose the contents of wire or electronic communication to which this paragraph applies under paragraph (2) of this subsection:<section prefix="(i)">Without notice to the subscriber or customer, if the officer obtains a search warrant issued by a court of competent jurisdiction; or</section><section prefix="(ii)">With prior notice from the officer to the subscriber or customer, if the officer:<section prefix="1.">Uses a grand jury subpoena; or</section><section prefix="2.">Obtains a court order requiring the disclosure under subsection (d) of this section.</section></section></section>
       <section prefix="(2)">Paragraph (1) of this subsection applies to any wire or electronic communication that is held or maintained on a remote computing service:<section prefix="(i)">On behalf of, and received by means of electronic transmission from, or created by means of computer processing of communications received by means of electronic transmission from, a subscriber or customer of the remote computing service; and</section><section prefix="(ii)">Solely for the purpose of providing storage or computer processing services to the subscriber or customer, if the provider is not authorized to access the contents of any communication for purposes of providing any services other than storage or computer processing.</section></section>
     </section>
     <section prefix="(c)">
@@ -22,7 +22,7 @@
       </section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a provider of electronic communications service or remote computing service may disclose a record or other information pertaining to a subscriber to or a customer of the service to any person other than an investigative or law enforcement officer.</section>
-        <section prefix="(ii)">A provider of electronic communications service or remote computing service shall disclose a record or other information pertaining to a subscriber to or a customer of the service to an investigative or law enforcement officer only if the officer:</section>
+        <section prefix="(ii)">A provider of electronic communications service or remote computing service shall disclose a record or other information pertaining to a subscriber to or a customer of the service to an investigative or law enforcement officer only if the officer:<section prefix="1.">Uses a subpoena issued by a court of competent jurisdiction, a State grand jury subpoena, or a subpoena authorized under &#xA7; 15-108 of the Criminal Procedure Article;</section><section prefix="2.">Obtains a warrant from a court of competent jurisdiction;</section><section prefix="3.">Obtains a court order requiring the disclosure under subsection (d) of this section; or</section><section prefix="4.">Has the consent of the subscriber or customer to the disclosure.</section></section>
       </section>
       <section prefix="(3)">An investigative or law enforcement officer receiving records or information under this subsection is not required to provide notice to a subscriber or customer.</section>
     </section>

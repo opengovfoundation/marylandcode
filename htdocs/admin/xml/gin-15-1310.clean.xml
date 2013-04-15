@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1310" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1310</order_by>
   <text>
     <section prefix="(a)">A carrier shall provide written certification of creditable coverage.</section>
     <section prefix="(b)">The certification of creditable coverage described in subsection (a) of this section shall be provided:<section prefix="(1)">automatically at the time an individual ceases to be covered under the health benefits plan or otherwise becomes covered under a COBRA continuation provision;</section><section prefix="(2)">in the case of an individual who becomes covered under a COBRA continuation provision, at the time the individual ceases to be covered under the provision; and</section><section prefix="(3)">on the request on behalf of an individual made not later than 24 months after the date of cessation of the coverage described in item (1) or (2) of this subsection, whichever is later.</section></section>

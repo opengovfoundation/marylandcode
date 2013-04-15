@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-308.6" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-308.6</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308.6</order_by>
   <text>
     <section prefix="(a)">The Secretary, in consultation with the Association of Maryland Hospitals and Health Systems and the Maryland Association of Hospital Security and Safety Directors, shall develop a uniform set of emergency security codes for hospitals.</section>
     <section prefix="(b)">The Secretary shall adopt regulations to implement the uniform set of emergency security codes.</section>

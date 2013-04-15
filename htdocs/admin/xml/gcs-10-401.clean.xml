@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-401</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "committee" means a citizens' advisory committee established under this subtitle....</catch_line>
+  <order_by>401</order_by>
   <text>In this subtitle, "committee" means a citizens' advisory committee established under this subtitle.</text>
 </law>

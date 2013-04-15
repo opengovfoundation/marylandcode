@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-725" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-725</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>725</order_by>
   <text>
     <section prefix="(a)">A health maintenance organization may not cancel the enrollment of a member or refuse to transfer a member from a group to an individual basis because of age, sex, race, or health status.</section>
     <section prefix="(b)">A health maintenance organization may cancel a contract with a member who violates any published policy of the health maintenance organization that has been approved by the Commissioner and the Department under their joint internal procedures.</section>

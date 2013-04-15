@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-803" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (f) of this section, notwithstanding any provision in the charter or the bylaws of a corporation, before the first annual meeting of stockholders after a corporation elects to be subject to this subtitle, the board of directors shall designate by resolution, from among its members, directors to serve as class I directors, class II directors, and class III directors.</section>

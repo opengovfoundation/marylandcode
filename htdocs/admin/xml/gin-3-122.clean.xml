@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-122" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, the provisions of the Corporations and Associations Article on the consolidation, merger, and share exchange of stock corporations apply to the consolidations, mergers, and share exchanges of domestic stock insurers and domestic and foreign stock insurers.</section>
     <section prefix="(b)">The articles of consolidation, merger, or share exchange of stock insurers must be submitted to the Commissioner for examination and approval before the articles may be accepted for record by the Department of Assessments and Taxation.</section>

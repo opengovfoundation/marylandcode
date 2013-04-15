@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-210" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">In this section, "business" means receiving funds or making loans.</section>
     <section prefix="(b)">A savings and loan association forfeits its charter for nonuse if it:<section prefix="(1)">Has not begun business within 180 days of the acceptance for record of its articles of incorporation, except that the Division Director may grant one extension of not more than 180 days; or</section><section prefix="(2)">After beginning business, does not engage actively in business during any continuous period of 180 days.</section></section>

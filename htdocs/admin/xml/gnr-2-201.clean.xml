@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-201" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-2-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Geological Survey in the Department.</section>
     <section prefix="(b)">The Governor, with the advice of the Secretary, shall appoint the Director of the Survey. The Director shall hold office under and subject to the provisions of &#xA7; 1-101(d) of this article. He shall be a person with executive ability, and special training and experience in handling problems in the fields of geology and water resources.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-104" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-11-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">The Secretary or a designee of the Secretary is this State's Compact Administrator of the Interstate Compact on Mental Health.</section>
     <section prefix="(b)">Acting jointly with compact administrators in other party states, the Compact Administrator may adopt rules and regulations to carry out the terms of the Compact effectively.</section>

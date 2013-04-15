@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-102.3" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-12-102.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This section applies to administrative contests of withholdings from an employee's earnings made by an employer for the purpose of complying with this title.</section>
@@ -20,7 +20,7 @@
     <section prefix="(e)">
       <section prefix="(1)">
         <section prefix="(i)">An employee may appeal the Administration's decision to the Office of Administrative Hearings by filing a written request for a hearing with the Administration or the Office of Administrative Hearings.</section>
-        <section prefix="(ii)">The request for a hearing shall be made:</section>
+        <section prefix="(ii)">The request for a hearing shall be made:<section prefix="1.">on a form provided by the Administration; and</section><section prefix="2.">within 15 days after receiving the written results of the Administration's investigation.</section></section>
       </section>
       <section prefix="(2)">The only issues that may be contested in an administrative hearing are:<section prefix="(i)">the identity of the employee;</section><section prefix="(ii)">whether there is an underlying court order requiring the employee to provide health insurance coverage for the employee's child;</section><section prefix="(iii)">that the amount of the withholding exceeds the limits of the federal Consumer Credit Protection Act; and</section><section prefix="(iv)">that the child for whom health insurance coverage is sought is emancipated.</section></section>
       <section prefix="(3)">An appeal under this section shall be conducted in accordance with Title 10, Subtitle 2 of the State Government Article.</section>

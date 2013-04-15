@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-107" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-21-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section and Subtitle 2 of this title, the Commission may adopt a plan that identifies and designates sites, structures and their appurtenances and environmental settings, or districts that have historical, archaeological, architectural, or cultural value.</section>
     <section prefix="(b)">The criteria used for making an identification or designation under subsection (a) of this section may not be inconsistent with the criteria applicable to the Maryland Historical Trust under &#xA7; 5A-323 of the State Finance and Procurement Article.</section>

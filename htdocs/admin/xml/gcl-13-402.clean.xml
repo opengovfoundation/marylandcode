@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-13-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Division determines that there are reasonable grounds to believe that a violation has occurred, it shall, except as provided in paragraph (2), attempt to conciliate the matter by methods of conference and persuasion with all interested parties and any representatives which they may choose to assist them.</section>

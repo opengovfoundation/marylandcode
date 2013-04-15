@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-905" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"Manufacturer" means a person that:<section prefix="(1)">Produces a product;</section><section prefix="(2)">For a multicomponent product, produces or assembles the final product; or</section><section prefix="(3)">Serves as an importer or domestic distributor of a product produced outside of the United States.</section></section>

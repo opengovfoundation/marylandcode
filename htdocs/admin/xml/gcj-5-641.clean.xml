@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-641" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-641</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>641</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person who leaves an unharmed newborn with a responsible adult within 10 days after the birth of the newborn, as determined within a reasonable degree of medical certainty, and does not express an intent to return for the newborn shall be immune from civil liability or criminal prosecution for the act.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-603" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An entity shall register with the Commissioner as a discount medical plan organization before a discount medical plan established by that entity is sold, marketed, or solicited in the State.</section>

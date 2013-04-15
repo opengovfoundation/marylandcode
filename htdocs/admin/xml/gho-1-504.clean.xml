@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-504" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-1-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">Any employee who is subject to a personnel action in violation of &#xA7; 1-502 of this subtitle may institute a civil action in the county where:<section prefix="(1)">The alleged violation occurred;</section><section prefix="(2)">The employee resides; or</section><section prefix="(3)">The employer maintains its principal offices in the State.</section></section>
     <section prefix="(b)">The action shall be brought within 1 year after the alleged violation of &#xA7; 1-502 of this subtitle occurred, or within 1 year after the employee first became aware of the alleged violation of &#xA7; 1-502 of this subtitle.</section>

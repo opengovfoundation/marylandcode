@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1007.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1007.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1007.1</order_by>
   <text>
     <section prefix="(a)">In this section, "binder" means a binder or other temporary contract of insurance as provided under &#xA7; 12-106 of the Insurance Article.</section>
     <section prefix="(b)">A credit grantor shall comply with this section if the credit grantor:<section prefix="(1)">Makes any loan secured by a first lien on any interest in owner-occupied residential real property; and</section><section prefix="(2)">As a condition of making the loan, requires the consumer borrower to purchase property insurance or credit loss insurance.</section></section>

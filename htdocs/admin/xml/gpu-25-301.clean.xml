@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-301" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">For each service connection under &#xA7; 23-202 of this article, the Commission shall set a connection charge that the Commission determines to be reasonable.</section>
     <section prefix="(b)">Subject to a yearly revision by the Commission:<section prefix="(1)">for connections of the sizes and classes for which the average cost reasonably may be ascertained, the connection charge shall be uniform throughout the sanitary district; and</section><section prefix="(2)">for all other connections, the connection charge shall be the actual cost.</section></section>

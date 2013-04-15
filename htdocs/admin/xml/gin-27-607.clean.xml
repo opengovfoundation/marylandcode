@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-607" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">This section applies only to policies of personal insurance and insurance issued under the Maryland Property Insurance Availability Act or any similar act instituted to ensure the availability of property insurance.</section>
     <section prefix="(b)">At least 45 days prior to the renewal date of a policy subject to this section, the insurer shall send a notice to the named insured and the insurance producer, if any, by first-class mail stating both the amount of the renewal policy premium and the amount of the expiring policy premium.</section>

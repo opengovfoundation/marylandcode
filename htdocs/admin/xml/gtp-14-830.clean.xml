@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-830" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-830</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>830</order_by>
   <text>
     <section prefix="(a)">The owner of any property sold under the provisions of this subtitle shall have the right, during the period of redemption, to continue in possession of, and to exercise all rights of ownership over the property until the right of redemption has been finally foreclosed under the provisions of this subtitle.</section>
     <section prefix="(b)">The holder of any certificate of sale may apply to the circuit court for the county in which the property is located for the appointment of a receiver of the property covered by the certificate, in accordance with the usual provisions of the laws and of rules and practice of the circuit courts that relate to receivers.</section>

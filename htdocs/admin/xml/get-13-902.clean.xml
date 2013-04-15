@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-902" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-902</section_number>
-  <catch_line/>
+  <catch_line>Except as otherwise provided in this subtitle, the provisions of this title concerning a guardian of...</catch_line>
+  <order_by>902</order_by>
   <text>Except as otherwise provided in this subtitle, the provisions of this title concerning a guardian of the person or property of a minor shall apply to standby guardians.</text>
 </law>

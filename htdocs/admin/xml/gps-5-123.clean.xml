@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-123" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-123</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123</order_by>
   <text>
     <section prefix="(a)">A licensee may not sell, rent, or transfer a regulated firearm until after 7 days following the time a firearm application is executed by the firearm applicant, in triplicate, and the original is forwarded by the prospective seller or transferor to the Secretary.</section>
     <section prefix="(b)">A licensee shall complete the sale, rental, or transfer of a regulated firearm within 90 days after the firearm application was stamped by the Secretary as not being disapproved.</section>

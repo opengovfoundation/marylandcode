@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-1301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">As applied to a request to return any person within the purview of this subtitle to or from the District of Columbia, the words "executive authority", "Governor", and "chief magistrate" respectively include the chief judge of the Superior Court of the District of Columbia and other authority.</section>

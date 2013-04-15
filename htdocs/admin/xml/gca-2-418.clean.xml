@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-418" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-418</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>418</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,14 +13,14 @@
       <section prefix="(3)">"Director" means any person who is or was a director of a corporation and any person who, while a director of a corporation, is or was serving at the request of the corporation as a director, officer, partner, trustee, employee, or agent of another foreign or domestic corporation, partnership, joint venture, trust, limited liability company, other enterprise, or employee benefit plan.</section>
       <section prefix="(4)">"Expenses" include attorney's fees.</section>
       <section prefix="(5)">
-        <section prefix="(i)">"Official capacity" means:</section>
+        <section prefix="(i)">"Official capacity" means:<section prefix="1.">When used with respect to a director, the office of director in the corporation; and</section><section prefix="2.">When used with respect to a person other than a director as contemplated in subsection (j) of this section, the elective or appointive office in the corporation held by the officer, or the employment or agency relationship undertaken by the employee or agent in behalf of the corporation.</section></section>
         <section prefix="(ii)">"Official capacity" does not include service for any other foreign or domestic corporation or any partnership, joint venture, trust, other enterprise, or employee benefit plan.</section>
       </section>
       <section prefix="(6)">"Party" includes a person who was, is, or is threatened to be made a named defendant or respondent in a proceeding.</section>
       <section prefix="(7)">"Proceeding" means any threatened, pending or completed action, suit or proceeding, whether civil, criminal, administrative, or investigative.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">A corporation may indemnify any director made a party to any proceeding by reason of service in that capacity unless it is established that:<section prefix="(i)">The act or omission of the director was material to the matter giving rise to the proceeding; and</section><section prefix="(ii)">The director actually received an improper personal benefit in money, property, or services; or</section><section prefix="(iii)">In the case of any criminal proceeding, the director had reasonable cause to believe that the act or omission was unlawful.</section></section>
+      <section prefix="(1)">A corporation may indemnify any director made a party to any proceeding by reason of service in that capacity unless it is established that:<section prefix="(i)">The act or omission of the director was material to the matter giving rise to the proceeding; and<section prefix="1.">Was committed in bad faith; or</section><section prefix="2.">Was the result of active and deliberate dishonesty; or</section></section><section prefix="(ii)">The director actually received an improper personal benefit in money, property, or services; or</section><section prefix="(iii)">In the case of any criminal proceeding, the director had reasonable cause to believe that the act or omission was unlawful.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Indemnification may be against judgments, penalties, fines, settlements, and reasonable expenses actually incurred by the director in connection with the proceeding.</section>
         <section prefix="(ii)">However, if the proceeding was one by or in the right of the corporation, indemnification may not be made in respect of any proceeding in which the director shall have been adjudged to be liable to the corporation.</section>

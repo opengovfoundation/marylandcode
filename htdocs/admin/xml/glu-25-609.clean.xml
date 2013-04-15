@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-609" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-25-609</section_number>
-  <catch_line/>
+  <catch_line>Title 10, Subtitle 2 of the State Government Article does not apply to this subtitle....</catch_line>
+  <order_by>609</order_by>
   <text>Title 10, Subtitle 2 of the State Government Article does not apply to this subtitle.</text>
 </law>

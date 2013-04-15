@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-509" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any individual who is 18 years of age or older may decide the disposition of the individual's own body after that individual's death without the predeath or post-death consent of another person by executing a document that expresses the individual's wishes regarding disposition of the body or by entering into a pre-need contract.</section>

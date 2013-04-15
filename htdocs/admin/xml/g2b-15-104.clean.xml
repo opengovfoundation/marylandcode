@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-104" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-15-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In Carroll County, the Board of County Commissioners shall appoint three persons, designating one of them as chairman, who shall constitute the Board of License Commissioners for said county; the first member of the Board to be appointed for one, two and three year terms, respectively and their successors thereafter for terms of three years each. The Board shall meet at least once a month.</section>
@@ -27,8 +27,16 @@
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">In Charles County, the Board of County Commissioners shall appoint five persons, who constitute the Board of License Commissioners for the county.</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Each member of the Board shall be a registered voter of the county.</section>
+          <section prefix="2.">Of the Board members, at least one member shall be appointed from each of the County Commissioner districts, and one member shall be appointed at large.</section>
+          <section prefix="3.">Preferably, at least one of the Board members shall have some familiarity or experience with the alcoholic beverages industry prior to the time of appointment.</section>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">Each member of the Board serves a term of 4 years, except that the initial term of one member authorized on October 1, 1993 shall be for 2 years.</section>
+          <section prefix="2.">A member may not serve more than two consecutive terms.</section>
+          <section prefix="3.">The terms of members are staggered as required by the terms provided for members on October 1, 1993.</section>
+        </section>
         <section prefix="(iv)">The Board annually shall elect one of its members as chairman. A person may serve no more than 2 consecutive years as chairman.</section>
         <section prefix="(v)">Three members of the Board constitute a quorum for transacting business. At least three members who are present at the hearing concerning an alcoholic beverages license must concur in the approval, denial, revocation, suspension, or reclassification of that license.</section>
         <section prefix="(vi)">The Board shall meet at least once a month.</section>

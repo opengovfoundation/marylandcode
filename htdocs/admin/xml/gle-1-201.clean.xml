@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-201" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-1-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">A requirement in this article that a document be under oath means that the document shall be supported by a signed statement made under the penalties of perjury that the contents of the document are true to the best of the knowledge, information, and belief of the individual making the statement.</section>
     <section prefix="(b)">The oath or affirmation shall be made:<section prefix="(1)">before an individual authorized to administer oaths, who shall certify in writing to have administered the oath or taken the affirmation; or</section><section prefix="(2)">by a signed statement that:<section prefix="(i)">is in the document or attached to and made part of the document; and</section><section prefix="(ii)">is made expressly under the penalties for perjury.</section></section></section>

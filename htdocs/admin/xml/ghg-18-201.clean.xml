@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-201" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">A physician with reason to suspect that a patient under the physician's care has a condition or an infectious or contagious disease, except human immunodeficiency virus or acquired immunodeficiency syndrome, that endangers public health and that has been designated by the Secretary as reportable shall submit immediately a report to the health officer for the county where the physician cares for that patient.</section>
     <section prefix="(b)">The report shall:<section prefix="(1)">Contain the information and be in a format specified or approved by the Secretary; and</section><section prefix="(2)">Be transmitted as directed by the Secretary.</section></section>

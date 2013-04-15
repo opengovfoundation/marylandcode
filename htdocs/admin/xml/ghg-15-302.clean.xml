@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-302" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall monitor applications to determine whether employers and employees have voluntarily terminated coverage under an employer sponsored health benefit plan that included dependent coverage in order to participate in the Maryland Children's Health Program established under &#xA7;&#xA7; 15-301 and 15-301.1 of this subtitle.</section>

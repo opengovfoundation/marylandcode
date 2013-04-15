@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-812" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-812</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>812</order_by>
   <text>
     <section prefix="(a)">A certificate is valid for the period indicated on the certificate.</section>
     <section prefix="(b)">Each elevator unit in the State shall have a periodic annual inspection by a State inspector as provided for in &#xA7; 12-809(a)(6) of this subtitle or by a third-party qualified elevator inspector as provided for in &#xA7; 12-809(d) of this subtitle.</section>

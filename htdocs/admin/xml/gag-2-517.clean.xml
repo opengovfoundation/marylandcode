@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-517" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-517</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>517</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Maryland Agricultural Land Preservation Foundation shall establish a Critical Farms Program that is separate and independent from the requirements of the Maryland Agricultural Land Preservation Program established under this subtitle.</section>
@@ -15,7 +15,7 @@
       <section prefix="(1)">The Foundation, with county approval, shall determine if a property qualifies for the Critical Farms Program in accordance with the criteria developed under paragraph (2) of this subsection.</section>
       <section prefix="(2)">
         <section prefix="(i)">The Foundation, in consultation with the Department of Planning, shall develop criteria for counties to consider when determining whether a property qualifies for the Program.</section>
-        <section prefix="(ii)">The criteria shall include:</section>
+        <section prefix="(ii)">The criteria shall include:<section prefix="1.">The qualifying strategic characteristics of the property, including location and productivity;</section><section prefix="2.">The circumstances creating the risk of the property being sold for nonagricultural purposes;</section><section prefix="3.">When applicable, the characteristics of the purchaser of strategic farmland seeking assistance from the Program;</section><section prefix="4.">The consistency of the proposed acquisition with county goals and priorities and, if applicable, the county's priority preservation area; and</section><section prefix="5.">Evaluation of the property as a priority easement acquisition.</section></section>
       </section>
     </section>
     <section prefix="(c)">

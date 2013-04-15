@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-829" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-829</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>829</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person shall post the security required under &#xA7; 13-825 of this subtitle within 5 days after the date on which the notice is mailed under &#xA7; 13-827 of this subtitle.</section>
     <section prefix="(b)">If a hearing is held under &#xA7; 13-828 of this subtitle, a person shall post the security within 15 days after the date on which the notice of the tax collector's final determination is mailed.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-107" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any provision of this article or other law that specifies the content of policies, the Commissioner may approve and insurers may issue simplified policies of insurance that provide broad coverage of all or various combinations of risks.</section>
     <section prefix="(b)">The Commissioner shall adopt regulations that:<section prefix="(1)">specify the standards that must be met by insurers for issuing simplified policies; and</section><section prefix="(2)">ensure protections to policyholders and claimants that are not less favorable than protections to which they would be entitled under a substantially similar policy that is not subject to this section.</section></section>

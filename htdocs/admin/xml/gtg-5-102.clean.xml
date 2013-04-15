@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-102" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-5-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 5-104 of this subtitle, a tax is imposed on any alcoholic beverage in the State.</section>
     <section prefix="(b)">A tax is imposed on each person who sells or consigns an alcoholic beverage in the State from a jurisdiction outside the State, if the Comptroller finds that, in connection with the solicitation, sale, and distribution of alcoholic beverages, the jurisdiction:<section prefix="(1)">requires a tax, assessment, or charge that is greater for alcoholic beverages consigned from a Maryland licensee or permit holder than the amount required for alcoholic beverages consigned from a licensee or permit holder in another jurisdiction; and</section><section prefix="(2)">discriminates in fact against the licensee or permit holder of the State.</section></section>

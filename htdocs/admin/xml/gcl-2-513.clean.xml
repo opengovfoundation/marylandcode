@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-513" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-513</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>513</order_by>
   <text>
     <section prefix="(1)">Unless otherwise agreed and subject to subsection (3), where goods are tendered or delivered or identified to the contract for sale, the buyer has a right before payment or acceptance to inspect them at any reasonable place and time and in any reasonable manner. When the seller is required or authorized to send the goods to the buyer, the inspection may be after their arrival.</section>
     <section prefix="(2)">Expenses of inspection must be borne by the buyer but may be recovered from the seller if the goods do not conform and are rejected.</section>

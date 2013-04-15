@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-202.1" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-10-202.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202.1</order_by>
   <text>
     <section prefix="(a)">If any certificate filed with the Department under this article contains any typographical error, error of transcription, or other technical error or has been defectively executed, the document may be corrected by the filing of a certificate of correction.</section>
     <section prefix="(b)">A certificate of correction shall set forth:<section prefix="(1)">The title of the document being corrected;</section><section prefix="(2)">The name of each party to the document being corrected;</section><section prefix="(3)">The date that the document being corrected was filed; and</section><section prefix="(4)">The provision in the document as previously filed and as corrected and, if execution of the document was defective, the manner in which it was defective.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1001" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Technology Academy in the Department.</section>
     <section prefix="(b)">The purpose of the Academy is to:<section prefix="(1)">Provide intensive learning opportunities for teachers in the State each year on how to use technology to significantly impact student learning; and</section><section prefix="(2)">Promote the overall improvement of public schools in the State.</section></section>

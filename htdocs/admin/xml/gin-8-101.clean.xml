@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-101" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Control", "controlling", "controlled by", or "under common control with" means the direct or indirect possession of the power to direct or cause the direction of the management and policies of a person, through ownership of voting securities or of securities convertible into voting securities, by contract other than a commercial contract for goods or nonmanagement services, or otherwise, whether or not the power is exercised or sought to be exercised.</section>

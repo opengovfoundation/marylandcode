@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-348" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-348</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>348</order_by>
   <text>
     <section prefix="(a)">Grants or loans may be awarded under this section to any State or local governmental entity responsible by law for the provision of sewerage systems to finance the construction of sewerage systems needed to improve water quality whether or not the project is eligible for construction grant assistance under the Federal Clean Water Act.</section>
     <section prefix="(b)">Projects which may receive financial assistance under this section include those providing for:<section prefix="(1)">Chlorine removal;</section><section prefix="(2)">Nitrogen removal;</section><section prefix="(3)">Phosphorus removal when in conjunction with a nitrogen removal cost-share grant; or</section><section prefix="(4)">Wastewater collection or treatment otherwise undertaken to correct existing special water quality needs or an extraordinary public health problem.</section></section>

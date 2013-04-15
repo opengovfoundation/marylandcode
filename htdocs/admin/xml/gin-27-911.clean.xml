@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-911" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-911</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>911</order_by>
   <text>
     <section prefix="(a)">Each authorized insurer doing business in the State shall accept and honor each request by a policyholder for a change of insurance producer of record within 30 working days after receipt of the request unless the policyholder withdraws the request in writing.</section>
     <section prefix="(b)">The new insurance producer of record must have a current appointment and contract with the authorized insurer before the change of insurance producer of record will be effective.</section>

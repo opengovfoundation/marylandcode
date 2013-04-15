@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-201.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-3-201.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in this subsection, a person may not possess, sell, donate, or distribute any biological product that is usable for the treatment or prevention of a disease transmissible to a human being.</section>
-      <section prefix="(2)">This subsection does not apply to:<section prefix="(i)">A physician licensed to practice in this State;</section><section prefix="(ii)">A veterinarian licensed to practice in this State;</section><section prefix="(iii)">A person who sells or distributes a biological product to a physician or veterinarian licensed to practice in this State;</section><section prefix="(iv)">A person employed by the Department of Health and Mental Hygiene who possesses the biological product under an official program that is being conducted by that Department;</section><section prefix="(v)">A person who, while engaged in the service of a bona fide product laboratory, performs research or an investigation of or about a biological product;</section><section prefix="(vi)">The following products used for immunizing animals: leptospirosis vaccines and bacterins, staphylococcus bacterins and toxoids, streptococcus bacterins and toxoids, newcastle disease vaccine, erysipelas vaccines and bacterins, tetanus toxoids and such other products as may by regulation be granted exception; or</section><section prefix="(vii)">Any other person to whom the Secretary grants an exception that is based on a finding:</section></section>
+      <section prefix="(2)">This subsection does not apply to:<section prefix="(i)">A physician licensed to practice in this State;</section><section prefix="(ii)">A veterinarian licensed to practice in this State;</section><section prefix="(iii)">A person who sells or distributes a biological product to a physician or veterinarian licensed to practice in this State;</section><section prefix="(iv)">A person employed by the Department of Health and Mental Hygiene who possesses the biological product under an official program that is being conducted by that Department;</section><section prefix="(v)">A person who, while engaged in the service of a bona fide product laboratory, performs research or an investigation of or about a biological product;</section><section prefix="(vi)">The following products used for immunizing animals: leptospirosis vaccines and bacterins, staphylococcus bacterins and toxoids, streptococcus bacterins and toxoids, newcastle disease vaccine, erysipelas vaccines and bacterins, tetanus toxoids and such other products as may by regulation be granted exception; or</section><section prefix="(vii)">Any other person to whom the Secretary grants an exception that is based on a finding:<section prefix="1.">That there is a need; and</section><section prefix="2.">That the exception would not impose a serious health hazard.</section></section></section>
     </section>
     <section prefix="(b)">Except as authorized by the Secretary, a person may not possess, sell, donate, or distribute any biological product that is designated by the Secretary for use in a current government program for the control of animal disease.</section>
   </text>

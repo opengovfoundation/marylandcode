@@ -1,20 +1,27 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1815" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-1815</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1815</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">Except as otherwise authorized in a local jurisdiction, in accordance with the procedures set forth in subparagraph (ii) of this paragraph, a local authority may obtain access to and enter a property in order to identify or verify a suspected violation, restrain a development activity, or issue a citation if the local authority has probable cause to believe that a violation of this subtitle or the local program has occurred, is occurring, or will occur.</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">A local authority shall make a reasonable effort to contact a property owner before obtaining access to or entering the property.</section>
+          <section prefix="2.">If entry is denied, the local authority may seek an injunction to enter the property to pursue an enforcement action.</section>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">A local authority that identifies a violation of this subtitle or of the local program shall take enforcement action.</section>
+          <section prefix="2.">The local authority shall require appropriate restoration and mitigation as necessary to offset adverse impacts to the critical area resulting from the violation.</section>
+          <section prefix="3."/>
+        </section>
       </section>
       <section prefix="(2)">
-        <section prefix="(i)">A person who violates a provision of an order, permit, plan, local program, this subtitle, or regulations adopted, approved, or issued under the authority of this subtitle shall be:</section>
+        <section prefix="(i)">A person who violates a provision of an order, permit, plan, local program, this subtitle, or regulations adopted, approved, or issued under the authority of this subtitle shall be:<section prefix="1.">Subject to prosecution or suit in circuit court or District Court by the chairman or local authorities, who may invoke the sanctions and remedies afforded by State or local law;</section><section prefix="2.">Guilty of a misdemeanor; and</section><section prefix="3.">On conviction in a court of competent jurisdiction, subject to a fine not exceeding $10,000 or imprisonment not exceeding 90 days or both, with costs imposed in the discretion of the court.</section></section>
         <section prefix="(ii)">A criminal prosecution or a suit for a civil penalty for violation of a provision of an order, permit, plan, local program, this subtitle, or regulations adopted, approved, or issued under the authority of this subtitle shall be instituted within 3 years after the Commission or the local authorities in fact knew or reasonably should have known of the violation.</section>
       </section>
       <section prefix="(3)">A local authority may request:<section prefix="(i)">Assistance from the Commission in an enforcement action; or</section><section prefix="(ii)">That the chairman refer an enforcement action to the Attorney General.</section></section>

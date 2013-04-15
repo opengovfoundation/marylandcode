@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1104" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">The Department is authorized to promulgate and enforce any rules and regulations necessary for the administration of this subtitle.</section>
     <section prefix="(b)">The Department may enter into cooperative projects with other states or governmental bodies in order to carry out the purposes of this subtitle.</section>

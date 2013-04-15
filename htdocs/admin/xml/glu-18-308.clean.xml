@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-308" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Montgomery County Council shall impose against all of the property assessed for the purposes of county taxation an annual tax of:<section prefix="(i)">not less than 0.4 cents or more than 1.2 cents on each $100 of assessed valuation of real property; and</section><section prefix="(ii)">not less than 1 cent or more than 3 cents on each $100 of assessed valuation of personal property and operating real property described in &#xA7; 8-109(c) of the Tax - Property Article.</section></section>

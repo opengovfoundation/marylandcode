@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-505" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">A person who sells a fine print in violation of this subtitle is liable to the purchaser, on tender by the purchaser of the print, for its purchase price, with interest from the date of payment of the purchase price.</section>
     <section prefix="(b)">A person who sells a fine print in willfull violation of this subtitle is liable to the purchaser, on tender by the purchaser of the print, for an amount equal to three times the sum of the purchase price and interest from the date of payment of the purchase price.</section>

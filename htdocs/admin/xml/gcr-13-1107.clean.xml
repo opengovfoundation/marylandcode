@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1107" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1107</section_number>
-  <catch_line/>
+  <catch_line>The gaming permit shall include:...</catch_line>
+  <order_by>1107</order_by>
   <text>The gaming permit shall include:<section prefix=""><section prefix="(1)">the name of the fundraising organization;</section><section prefix="(2)">the nature of the approved gaming event;</section><section prefix="(3)">the dates, times, and location of the approved gaming event;</section><section prefix="(4)">the gaming devices to be operated at the gaming event; and</section><section prefix="(5)">the name of the representative responsible for the approved gaming event.</section></section></text>
 </law>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-107" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board may not approve a contract to construct or renovate a State correctional facility for the Department, if the construction or renovation will provide more than 3,400 beds in the Jessup area of Anne Arundel and Howard counties.</section>
-      <section prefix="(2)">The total number of beds shall be computed as follows:<section prefix="(i)">Jessup Pre-Release Unit (including new drug unit)184;</section><section prefix="(ii)">Patuxent Institution640;</section><section prefix="(iii)">Maryland Correctional Institution for Women249;</section><section prefix="(iv)">Brockbridge Correctional Facility515;</section><section prefix="(v)">House of Correction, for renovation or replacements (512+500+400+400)1,812; and</section><section prefix="(vi)"/></section>
+      <section prefix="(2)">The total number of beds shall be computed as follows:<section prefix="(i)">Jessup Pre-Release Unit (including new drug unit)184;</section><section prefix="(ii)">Patuxent Institution640;</section><section prefix="(iii)">Maryland Correctional Institution for Women249;</section><section prefix="(iv)">Brockbridge Correctional Facility515;</section><section prefix="(v)">House of Correction, for renovation or replacements (512+500+400+400)1,812; and</section><section prefix="(vi)"><section prefix="Total">3,400.</section></section></section>
     </section>
     <section prefix="(b)">The limitation established under this section does not apply to a community adult rehabilitation center.</section>
   </text>

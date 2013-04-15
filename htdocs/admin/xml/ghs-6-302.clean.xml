@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-302" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-6-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">A business qualifies as a small business if the number of its employees and the amount of its annual receipts do not exceed limits that the Department sets by regulation.</section>
     <section prefix="(b)">The limits that the Department sets may not be less restrictive than those that the federal Small Business Administration sets.</section>

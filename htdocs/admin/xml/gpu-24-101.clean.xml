@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-101" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-24-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person shall obtain a permit from the Commission before the person may engage in plumbing, waterworks, or sewer construction in a building or on private property in the sanitary district or areas of Prince George's County that are not in the sanitary district.</section>

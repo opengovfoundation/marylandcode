@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-302" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-17-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">To qualify for a license, an applicant shall meet the requirements of this section and any regulations adopted under this section.</section>
     <section prefix="(b)">If the applicant is an entity, the entity shall appoint a member of the entity as the representative member to make the application on behalf of the entity.</section>

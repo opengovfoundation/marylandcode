@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-204" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-15-204</section_number>
-  <catch_line/>
+  <catch_line>// EFFECTIVE UNTIL SEPTEMBER 30, 2013 PER CHAPTER 426 OF 2012 //...</catch_line>
+  <order_by>204</order_by>
   <text>// EFFECTIVE UNTIL SEPTEMBER 30, 2013 PER CHAPTER 426 OF 2012 //<section prefix=""><section prefix="(1)">evaluates the results of the Program through June 30 of that year; and</section><section prefix="(2)">makes appropriate recommendations.</section></section></text>
 </law>

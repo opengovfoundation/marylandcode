@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-201" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">There is a Bureau of Mines, established as part of the Department.</section>
     <section prefix="(b)">The main office of the Bureau shall be located in either Garrett County or Allegany County. The Director of the Bureau, with the approval of the Secretary, shall select the location.</section>

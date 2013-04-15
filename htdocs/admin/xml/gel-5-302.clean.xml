@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-302" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">A certificate of candidacy shall be filed under oath on the prescribed form.</section>
     <section prefix="(b)">The certificate of candidacy shall be filed with the State Board if the candidacy is for:<section prefix="(1)">an office to be voted upon by the voters of the entire State;</section><section prefix="(2)">the General Assembly of Maryland;</section><section prefix="(3)">Representative in Congress;</section><section prefix="(4)">the office of judge of the circuit court for a county; or</section><section prefix="(5)">an office of elected delegate to a presidential national convention provided for under Title 8, Subtitle 5 of this article.</section></section>

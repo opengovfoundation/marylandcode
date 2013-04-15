@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-218" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-218</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218</order_by>
   <text>
     <section prefix="(a)">The Authority may authorize the issuance of federally tax-exempt or federally taxable revenue bonds by resolution.</section>
     <section prefix="(b)">The Authority may issue revenue bonds:<section prefix="(1)">to pay any part of the cost of developments or projects;</section><section prefix="(2)">to fund a deficit in accordance with subsection (i) of this section;</section><section prefix="(3)">to pay the cost of improvements of developments or projects in accordance with subsection (j) of this section;</section><section prefix="(4)">to refund outstanding bonds issued under this subtitle; and</section><section prefix="(5)">for any other purpose set forth in this subtitle.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-110" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">The Administration shall:<section prefix="(1)">Establish qualifications for the safe operation of the various classes, types, sizes, or combinations of vehicles; and</section><section prefix="(2)">Examine each applicant to determine the applicant's qualifications for the license class applied for.</section></section>
     <section prefix="(b)">Except as otherwise provided in this title, the Administration shall examine each applicant for an original driver's license or for a class of driver's license higher than that which the applicant currently holds.</section>

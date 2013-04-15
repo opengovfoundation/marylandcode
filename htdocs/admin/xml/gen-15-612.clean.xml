@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-612" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-612</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>612</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">After receiving notification that an application for a permit has been approved, but before commencing deep mining operations, the operator shall file a bond with the Department.</section>

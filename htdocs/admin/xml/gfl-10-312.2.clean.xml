@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-312.2" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-312.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312.2</order_by>
   <text>
     <section prefix="(a)">A tribunal of this State issuing a spousal support order consistent with the law of this State has continuing, exclusive jurisdiction to modify the spousal support order throughout the existence of the support obligation.</section>
     <section prefix="(b)">A tribunal of this State may not modify a spousal support order issued by a tribunal of another state if the state has continuing, exclusive jurisdiction over the spousal support order under the law of that state.</section>

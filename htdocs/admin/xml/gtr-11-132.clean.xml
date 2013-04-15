@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-132" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-132</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>132</order_by>
   <text>
     <section prefix="(a)">"Manufacturer" means a person in the business of constructing or assembling vehicles of a type required to be registered under Title 13 of this article.</section>
     <section prefix="(b)">"Manufacturer" includes the first-stage manufacturer and the second-stage manufacturer of a two-stage vehicle, as these terms are defined in &#xA7; 13-113.2 of this article.</section>

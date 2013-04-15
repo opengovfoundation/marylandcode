@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-808.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-808.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>808.1</order_by>
   <text>
     <section prefix="(a)">After notice and a hearing, the Commissioner may assess a civil penalty against a banking institution that the Commissioner determines has:<section prefix="(1)">Violated a cease and desist order issued by the Commissioner under &#xA7; 5-808 of this subtitle; or</section><section prefix="(2)">Engaged in:<section prefix="(i)">An unsafe or unsound banking practice; or</section><section prefix="(ii)">A practice that is injurious to the public interest.</section></section></section>
     <section prefix="(b)">The civil penalty may not exceed:<section prefix="(1)">$1,000 per violation; and</section><section prefix="(2)">$1,000 per violation for each day that the violation continues.</section></section>

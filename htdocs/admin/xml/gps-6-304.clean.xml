@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-304" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-6-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A county or municipal corporation of the State may designate a fire marshal or appropriate fire official to serve as assistant State fire marshal to carry out this title, including issuing orders, in that county or municipal corporation.</section>
@@ -17,7 +17,7 @@
       <section prefix="(2)">The State Fire Marshal may administer an examination based on NFPA Standard 1031 before designating an individual as an assistant State fire marshal.</section>
     </section>
     <section prefix="(c)">
-      <section prefix="(1)">The State Fire Marshal may designate as a special assistant State fire marshal:<section prefix="(i)">a law enforcement officer involved in arson investigations;</section><section prefix="(ii)">any other suitable individual who meets the standards established under this section; or</section><section prefix="(iii)">on the advice of an assistant State fire marshal, a member of a fire department if:</section></section>
+      <section prefix="(1)">The State Fire Marshal may designate as a special assistant State fire marshal:<section prefix="(i)">a law enforcement officer involved in arson investigations;</section><section prefix="(ii)">any other suitable individual who meets the standards established under this section; or</section><section prefix="(iii)">on the advice of an assistant State fire marshal, a member of a fire department if:<section prefix="1.">the designee is a full-time employee of the fire department;</section><section prefix="2.">the designee performs fire inspections or fire investigations for the fire department; and</section><section prefix="3.">the fire department is organized and operates in the State.</section></section></section>
       <section prefix="(2)">A special assistant State fire marshal serves at the pleasure of the State Fire Marshal.</section>
       <section prefix="(3)">A special assistant State fire marshal may not receive compensation from the State.</section>
       <section prefix="(4)">Each special assistant State fire marshal shall assist the State Fire Marshal in carrying out the duties of the State Fire Marshal under this title.</section>

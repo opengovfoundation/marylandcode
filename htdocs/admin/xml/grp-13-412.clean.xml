@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-412" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-412</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If an objection by a person claiming ownership under &#xA7; 13-401(2) of this subtitle is sustained under &#xA7; 13-408(a)(2) of this subtitle, then, within 60 days after entry of the final judgment sustaining the objection, the objector may apply under the previously returned certificate of survey for a patent for any of the vacant land which is described in the certificate of survey and to which the objection was sustained.</section>

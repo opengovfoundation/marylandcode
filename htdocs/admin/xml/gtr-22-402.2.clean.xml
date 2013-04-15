@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-402.2" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-402.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402.2</order_by>
   <text>
     <section prefix="(a)">In this section, "dealer" has the meaning stated in &#xA7; 15-101 of this article.</section>
     <section prefix="(b)">A dealer may not sell or offer for sale a vehicle on which an exhaust emission control, gasoline tank filler inlet, or crankcase ventilation device described under &#xA7; 22-402.1 of this subtitle is removed or altered.</section>

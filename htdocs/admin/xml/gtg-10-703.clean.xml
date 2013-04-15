@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-703" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a resident may claim a credit only against the State income tax for a taxable year in the amount determined under subsection (c) of this section for State tax on income paid to another state for the year.</section>
     <section prefix="(b)">A credit under subsection (a) of this section is not allowed to:<section prefix="(1)">a resident other than a fiduciary, if the laws of the other state allow the resident a credit for State income tax paid to this State;</section><section prefix="(2)">a resident fiduciary, if the fiduciary claims, and the other state allows, a credit for State income tax paid to this State;</section><section prefix="(3)">a resident for less than the full taxable year for tax on income that is paid to another state during residency in that state; or</section><section prefix="(4)">a nonresident.</section></section>

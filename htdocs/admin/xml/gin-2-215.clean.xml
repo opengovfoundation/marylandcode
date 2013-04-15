@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-215" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">An appeal under this subtitle may be taken only from:<section prefix="(1)">an order resulting from a hearing;</section><section prefix="(2)">a refusal by the Commissioner to grant a hearing; or</section><section prefix="(3)">a decision issued under &#xA7; 15-10A-04 of this article.</section></section>
     <section prefix="(b)">An appeal under this subtitle may be taken by:<section prefix="(1)">a party to the hearing;</section><section prefix="(2)">an aggrieved person whose financial interests are directly affected by the order resulting from a hearing or refusal to grant a hearing; or</section><section prefix="(3)">a party to the decision issued under &#xA7; 15-10A-04 of this article.</section></section>

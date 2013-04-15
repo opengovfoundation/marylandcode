@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-106" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-6-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">Each person subject to taxation under this subtitle shall make a declaration of its estimated tax if the person's total tax for the current taxable year reasonably is expected to exceed $1,000.</section>
     <section prefix="(b)">A person required to make a declaration of estimated tax shall:<section prefix="(1)">file with the Commissioner:<section prefix="(i)">an initial declaration of estimated tax on or before April 15 of the taxable year; and</section><section prefix="(ii)">a quarterly estimated tax report on or before June 15, September 15, and December 15 after filing the initial declaration; and</section></section><section prefix="(2)">pay to the Commissioner at least 25% of the tax estimated for the full taxable year with the initial declaration for that year and with each quarterly report for that year.</section></section>

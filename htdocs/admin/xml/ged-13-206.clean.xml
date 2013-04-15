@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-206" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-13-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">In cases of appeal to an arbitrator, each party is responsible for any expense incurred in the preparation and presentation of its own case and for any record or transcript it may desire.</section>
     <section prefix="(b)">Upon the formal or informal initiation of a grievance an employee designated as a grievance procedure representative shall not suffer any loss of pay for investigating, processing or testifying in any step of the grievance procedure. Release time from normal work schedules is to be granted all witnesses to attend grievance hearings. Expenses incurred in connection with attendance by employees at grievance hearings shall be borne by the employee's department.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-221" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-221</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221</order_by>
   <text>
     <section prefix="(a)">A final decision or order in a contested case that is adverse to a party shall be in writing or stated on the record.</section>
     <section prefix="(b)">

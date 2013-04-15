@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-608" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">A Maryland resident who possesses a current year or prior year hunting license may apply to the Department to license riparian shoreline for the purpose of establishing an offshore blind site.</section>
-    <section prefix="(b)">An applicant for a license shall:<section prefix="(1)">Submit to the Department:<section prefix="(i)">An application on a form provided by the Department; and</section><section prefix="(ii)">A signed statement that:</section></section><section prefix="(2)">Pay to the Department an application fee of $20 for each license requested.</section></section>
+    <section prefix="(b)">An applicant for a license shall:<section prefix="(1)">Submit to the Department:<section prefix="(i)">An application on a form provided by the Department; and</section><section prefix="(ii)">A signed statement that:<section prefix="1.">The location of the blind site is at least 125 yards from all other previously licensed riparian shoreline; and</section><section prefix="2.">The offshore blind site complies with all other pertinent laws and regulations; and</section></section></section><section prefix="(2)">Pay to the Department an application fee of $20 for each license requested.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">The completed application shall be submitted to Department regional service centers or other designated local sites on days designated by the Department.</section>
       <section prefix="(2)">The Department shall establish and adequately staff a site in each county where licensing occurs.</section>

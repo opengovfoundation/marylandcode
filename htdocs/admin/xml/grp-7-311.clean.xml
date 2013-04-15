@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-311" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">This section applies to a contract for the sale or transfer of a residence in default that is included in a foreclosure consulting contract or arranged by a foreclosure consultant.</section>
     <section prefix="(b)">In addition to any other requirement under law, the purchaser of a residence in default shall provide the homeowner with a document entitled "Notice to Homeowner".</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-4-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 4-301(b)(2), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), and (25) of this subtitle, the District Court does not have jurisdiction to try a criminal case charging the commission of a felony.</section>
     <section prefix="(b)">Except as provided in &#xA7; 4-303 of this subtitle, the District Court does not have criminal jurisdiction to try a case in which a juvenile court has exclusive original jurisdiction.</section>
@@ -14,14 +14,14 @@
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, the jurisdiction of the District Court is concurrent with that of the circuit court in a criminal case:<section prefix="(i)">In which the penalty may be confinement for 3 years or more or a fine of $2,500 or more; or</section><section prefix="(ii)">That is a felony, as provided in &#xA7; 4-301(b)(2), (6), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (18), (19), (20), (21), (22), (23), (24), and (25) of this subtitle.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a circuit court does not have jurisdiction to try a case charging a violation of &#xA7; 5-601 or &#xA7; 5-620 of the Criminal Law Article.</section>
-        <section prefix="(ii)">A circuit court does have jurisdiction to try a case charging a violation of &#xA7; 5-601 or &#xA7; 5-620 of the Criminal Law Article if the defendant:</section>
+        <section prefix="(ii)">A circuit court does have jurisdiction to try a case charging a violation of &#xA7; 5-601 or &#xA7; 5-620 of the Criminal Law Article if the defendant:<section prefix="1.">Properly demands a jury trial;</section><section prefix="2.">Appeals as provided by law from a final judgment entered in the District Court; or</section><section prefix="3.">Is charged with another offense arising out of the same circumstances that is within a circuit court's jurisdiction.</section></section>
       </section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">The District Court is deprived of jurisdiction if a defendant is entitled to and demands a jury trial at any time prior to trial in the District Court.</section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, unless the penalty for the offense with which the defendant is charged permits imprisonment for a period in excess of 90 days, a defendant is not entitled to a jury trial in a criminal case.</section>
-        <section prefix="(ii)">Notwithstanding the provisions of subparagraph (i) of this paragraph, the presiding judge of the District Court may deny a defendant a jury trial if:</section>
+        <section prefix="(ii)">Notwithstanding the provisions of subparagraph (i) of this paragraph, the presiding judge of the District Court may deny a defendant a jury trial if:<section prefix="1.">The prosecutor recommends in open court that the judge not impose a penalty of imprisonment for a period in excess of 90 days, regardless of the permissible statutory or common law maximum;</section><section prefix="2.">The judge agrees not to impose a penalty of imprisonment for a period in excess of 90 days; and</section><section prefix="3.">The judge agrees not to increase the defendant's bond if an appeal is noted.</section></section>
         <section prefix="(iii)">The State may not demand a jury trial.</section>
       </section>
     </section>

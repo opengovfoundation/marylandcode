@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-903" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-903</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>903</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each fund is a special continuing, nonlapsing fund.</section>
       <section prefix="(2)">
-        <section prefix="(i)">Each fund consists of:</section>
+        <section prefix="(i)">Each fund consists of:<section prefix="1.">profits derived from the sale of goods through the commissary operation and telephone and vending machine commissions; and</section><section prefix="2.">subject to subparagraph (ii) of this paragraph, money received from other sources.</section></section>
         <section prefix="(ii)">Money from the General Fund of the State or county, including any federal funds, may not be transferred by budget amendment or otherwise to a fund.</section>
       </section>
       <section prefix="(3)">

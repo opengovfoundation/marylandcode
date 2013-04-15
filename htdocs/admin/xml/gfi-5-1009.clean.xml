@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1009" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-1009</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1009</order_by>
   <text>
     <section prefix="(a)">Subject to &#xA7; 5-1012 of this subtitle, the Commissioner shall have the power to examine every branch of an other-state bank located in this State for the same purposes and to the same extent as the Commissioner may examine a branch of a banking institution.</section>
     <section prefix="(b)">The Commissioner may enter into agreements with bank supervisory agencies regarding the scope, timing, coordination, and frequency of examinations and other supervisory matters, including the sharing of information obtained through examination of other-state banks that maintain branches in this State.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-402" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">If a notice and demand for a return is made under &#xA7; 13-303 of this title and the person or governmental unit fails to file the return, the tax collector shall:<section prefix="(1)">except as otherwise provided in this section:<section prefix="(i)">compute the tax by using the best information in the possession of the tax collector; and</section><section prefix="(ii)">assess the tax due;</section></section><section prefix="(2)">for financial institution franchise tax:<section prefix="(i)">estimate net earnings by using the best information in the possession of the tax collector; and</section><section prefix="(ii)">assess a tax not exceeding twice the tax due on the estimated net earnings;</section></section><section prefix="(3)">for income tax:<section prefix="(i)">estimate income by using the best information in the possession of the tax collector; and</section><section prefix="(ii)">assess a tax not exceeding twice the tax due on the estimated income;</section></section><section prefix="(4)">for motor carrier tax:<section prefix="(i)">compute the tax by using a miles per gallon factor based on the use, in the State, of 40 gallons of motor fuel for each commercial motor vehicle in the person's fleet on each day during the period for which the return is not filed; and</section><section prefix="(ii)">assess the tax due; and</section></section><section prefix="(5)">for public service company franchise tax:<section prefix="(i)">estimate gross receipts from the best information in the possession of the tax collector; and</section><section prefix="(ii)">assess the tax due on the estimated gross receipts.</section></section></section>
     <section prefix="(b)">A credit shall be allowed against any sales and use tax that would otherwise be assessed under this section for any amount of sales and use tax that the tax collector determines the person who failed to file the return overpaid on or before the date the amount assessed was due.</section>

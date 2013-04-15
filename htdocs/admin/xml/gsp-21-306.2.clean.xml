@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-306.2" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-306.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each fiscal year, on behalf of its employees who are members of the Correctional Officers' Retirement System, a participating governmental unit shall pay an amount equal to or greater than the product of multiplying:<section prefix="(i)">the aggregate annual earnable compensation of those members; and</section><section prefix="(ii)">the sum of the normal contribution rate and the accrued liability contribution rate, as determined under this section.</section></section>
@@ -44,8 +44,8 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">As of June 30 of each fiscal year, the actuary shall determine the active participant funding ratio for the participating governmental units as provided in this section.</section>
-        <section prefix="(ii)">The active participant funding ratio shall be a fraction, not to exceed 1, that has:</section>
-        <section prefix="(iii)">The assets to the credit of the participating governmental units as of the valuation date shall be increased by the sum of the outstanding balances of:</section>
+        <section prefix="(ii)">The active participant funding ratio shall be a fraction, not to exceed 1, that has:<section prefix="1.">as its numerator, the assets to the credit of the participating governmental units in the accumulation fund and the annuity savings fund of the Correctional Officers' Retirement System as adjusted under subparagraph (iii) of this paragraph, decreased by the sum of the actuarial liabilities allocable to retirees of the Correctional Officers' Retirement System who retired from the service of the participating governmental unit and the designated beneficiaries of those retirees, former members of the Correctional Officers' Retirement System who are eligible for a vested allowance who separated from employment with the participating governmental unit, and members of the Correctional Officers' Retirement System who separated from employment with the participating governmental unit but who may become eligible to receive prior eligibility service credit under &#xA7; 25-306.1 of this article; and</section><section prefix="2.">as its denominator, the actuarial liabilities that are allocable to the employees of the participating governmental units who are members of the Correctional Officers' Retirement System.</section></section>
+        <section prefix="(iii)">The assets to the credit of the participating governmental units as of the valuation date shall be increased by the sum of the outstanding balances of:<section prefix="1.">the special accrued liability attributable to the participating governmental units under subsection (d) of this section; and</section><section prefix="2.">the withdrawal liability attributable to the participating governmental units under paragraph (5) of this subsection.</section></section>
       </section>
       <section prefix="(4)">
         <section prefix="(i)">The assets that are allocable to the employees of a participating governmental unit who elect to withdraw from the Correctional Officers' Retirement System shall be computed by the actuary as provided in this paragraph.</section>
@@ -57,7 +57,7 @@
         <section prefix="(ii)">The actuary shall multiply the complement of the active participant funding ratio for the fiscal year preceding the effective date of withdrawal of the participating governmental unit by the actuarial liability allocable to the employees of the participating governmental unit who elect to remain members of the Correctional Officers' Retirement System.</section>
         <section prefix="(iii)">The amount determined under subparagraph (ii) of this paragraph may not be less than zero.</section>
         <section prefix="(iv)">Except as provided in subparagraph (v) of this paragraph, the annual withdrawal liability contribution of a participating governmental unit shall be the annual payment that is sufficient to liquidate, over not more than 25 years, the withdrawal liability contribution by means of annual payments that increase each year based on the actuarial assumptions adopted by the Board of Trustees on the recommendation of the actuary.</section>
-        <section prefix="(v)">Subject to the approval of the Board of Trustees and the actuary's concurrence, a participating governmental unit may:</section>
+        <section prefix="(v)">Subject to the approval of the Board of Trustees and the actuary's concurrence, a participating governmental unit may:<section prefix="1.">liquidate the withdrawal liability contribution by means of level annual payments or over a term of less than 25 years; or</section><section prefix="2.">prepay all or a portion of the withdrawal liability contribution.</section></section>
       </section>
     </section>
   </text>

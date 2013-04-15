@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-503" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a raffle or other game of chance that a charitable organization holds in a county under the laws applicable to the county.</section>
     <section prefix="(b)">
-      <section prefix="(1)">If a person, in connection with a written charitable solicitation, offers a contest, sweepstakes, or other promotion, the person shall disclose in writing to each offeree:<section prefix="(i)">the manufacturer's suggested retail price or comparable retail price of each prize offered;</section><section prefix="(ii)">the conditions to be met to receive a prize; and</section><section prefix="(iii)">that to receive the prize offered in the promotion the offeree may not be required to:</section></section>
-      <section prefix="(2)">If the contest, sweepstakes, or other promotion involves awarding prizes by chance, the person shall also disclose in writing to each offeree:<section prefix="(i)">the exact number of prizes offered in each category;</section><section prefix="(ii)">how to get a list of winners, if a prize with a retail price or monetary value of more than $100 is offered;</section><section prefix="(iii)">whether each prize offered will be awarded;</section><section prefix="(iv)">the date when winners will be determined; and</section><section prefix="(v)"/></section>
+      <section prefix="(1)">If a person, in connection with a written charitable solicitation, offers a contest, sweepstakes, or other promotion, the person shall disclose in writing to each offeree:<section prefix="(i)">the manufacturer's suggested retail price or comparable retail price of each prize offered;</section><section prefix="(ii)">the conditions to be met to receive a prize; and</section><section prefix="(iii)">that to receive the prize offered in the promotion the offeree may not be required to:<section prefix="1.">buy goods or services;</section><section prefix="2.">pay money; or</section><section prefix="3.">submit to a promotion.</section></section></section>
+      <section prefix="(2)">If the contest, sweepstakes, or other promotion involves awarding prizes by chance, the person shall also disclose in writing to each offeree:<section prefix="(i)">the exact number of prizes offered in each category;</section><section prefix="(ii)">how to get a list of winners, if a prize with a retail price or monetary value of more than $100 is offered;</section><section prefix="(iii)">whether each prize offered will be awarded;</section><section prefix="(iv)">the date when winners will be determined; and</section><section prefix="(v)"><section prefix="1.">the odds of winning each prize, if they can be calculated in advance; or</section><section prefix="2.">that the odds of winning will be determined by the number of entries, if the odds cannot be calculated in advance.</section></section></section>
     </section>
     <section prefix="(c)">Each disclosure required under this section shall appear on the first page of the prize notification document.</section>
   </text>

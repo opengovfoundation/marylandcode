@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-306" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-18-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">The Board shall issue a license to any applicant who meets the requirements of this title.</section>
     <section prefix="(b)">The Board shall include on each license that the Board issues:<section prefix="(1)">The full name of the licensed psychologist;</section><section prefix="(2)">The dates of issuance and expiration;</section><section prefix="(3)">A serial number;</section><section prefix="(4)">The signatures of the chairman and the vice chairman of the Board; and</section><section prefix="(5)">The seal of the Board.</section></section>

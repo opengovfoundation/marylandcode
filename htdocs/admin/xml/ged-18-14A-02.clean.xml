@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-14A-02" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-14A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">Funds for the Early College Access Grant Program shall be allocated by the Commission to an institution of higher education based on the number of dually enrolled students receiving credit for courses completed at the institution.</section>
     <section prefix="(b)">Funds for the Early College Access Grant Program shall be as provided in the annual budget of the Commission by the Governor.</section>

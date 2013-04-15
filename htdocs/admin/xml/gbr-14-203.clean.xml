@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-203" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to an offer to sell or sale of a franchise if:<section prefix="(1)">the franchisee must pay a franchise fee of more than $100; and</section><section prefix="(2)"><section prefix="(i)">the offeree or franchisee is a resident of the State;</section><section prefix="(ii)">the franchised business will be or is operated in the State;</section><section prefix="(iii)">the offer to sell is made in the State; or</section><section prefix="(iv)">the offer to buy is accepted in the State.</section></section></section>
     <section prefix="(b)">

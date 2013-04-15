@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-123.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-123.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Humane method" means:</section>
+        <section prefix="(i)">"Humane method" means:<section prefix="1.">A method by which livestock are rendered insensible to pain, by a single blow or gunshot, or by an electrical, chemical, or other rapid and effective means, before being shackled, hoisted, thrown, cast, or cut; or</section><section prefix="2.">Ritual slaughter.</section></section>
         <section prefix="(ii)">"Humane method" does not include the use of a manually operated hammer, sledge, or poleax during a slaughtering operation.</section>
       </section>
       <section prefix="(3)">

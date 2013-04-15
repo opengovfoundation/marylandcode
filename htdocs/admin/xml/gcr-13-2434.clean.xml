@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2434" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2434</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2434</order_by>
   <text>
     <section prefix="(a)">Before the agency takes action under &#xA7; 13-2433(a) of this subtitle, it shall give the person against whom the action is contemplated the opportunity for a hearing.</section>
     <section prefix="(b)">If a hearing is requested, the county commissioners shall:<section prefix="(1)">give notice and hold the hearing in accordance with Title 10, Subtitle 2 of the State Government Article; or</section><section prefix="(2)">delegate to the Office of Administrative Hearings the authority to hold the hearing.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-303" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-10-303</section_number>
-  <catch_line/>
+  <catch_line>In addition to any other penalty provided by law, a person is guilty of a misdemeanor and on convict...</catch_line>
+  <order_by>303</order_by>
   <text>In addition to any other penalty provided by law, a person is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $100 or imprisonment not exceeding 30 days or both, if the person:<section prefix=""><section prefix="(1)">Interferes with the Secretary or a representative of the Secretary summarily abating a nuisance under &#xA7; 10-203 of this title; or</section><section prefix="(2)">Refuses to allow the Secretary or a representative of the Secretary to enter on any property for the purpose of summarily abating a nuisance under &#xA7; 10-203 of this title.</section></section></text>
 </law>

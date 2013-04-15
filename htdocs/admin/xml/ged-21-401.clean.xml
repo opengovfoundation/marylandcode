@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-401" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-21-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Community rehabilitation program" means a work oriented place or facility operated on a nonprofit basis that is operated principally to provide:<section prefix="(1)">Suitable work, training, or retraining to individuals with disabilities who because of a disability cannot find gainful employment elsewhere; or</section><section prefix="(2)">Gainful employment to individuals with severe disabilities.</section></section>

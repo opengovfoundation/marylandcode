@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-234" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-234</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>234</order_by>
   <text>
     <section prefix="(a)">If a register fails to account for and remit money as required under &#xA7; 7-233 of this subtitle, then 30 days after the failure, the Comptroller shall notify the Attorney General to put the register's bond in suit for the use of the State.</section>
     <section prefix="(b)">In a suit under this section, the State shall recover:<section prefix="(1)">the amount that seems to be due; and</section><section prefix="(2)">interest, at the rate of 10% a year, from the date that the amount was payable.</section></section>

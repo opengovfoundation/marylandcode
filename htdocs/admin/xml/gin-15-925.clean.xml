@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-925" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-925</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>925</order_by>
   <text>
     <section prefix="(a)">When soliciting the sale of a health insurance policy, a carrier or insurance producer may not knowingly offer a Medicare supplement policy to an individual not eligible for Medicare.</section>
     <section prefix="(b)">A carrier or insurance producer may only sell or offer to sell a Medicare supplement policy to an individual eligible for Medicaid benefits in accordance with the provisions of 42 U.S.C. &#xA7; 1395ss and this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-901" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Local long-term care ombudsman entity" means an entity designated by the State Long-Term Care Ombudsman to assist in carrying out the duties of the Program.</section>

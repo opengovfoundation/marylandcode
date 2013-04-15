@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-407" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">An operator of a vehicle or vessel who gets motor fuel for transport from a marine terminal, pipeline tank farm, place of manufacture, refinery, or other type of bulk storage shall:<section prefix="(1)">have a copy of the loading ticket or manifest; and</section><section prefix="(2)">deliver a copy of the loading ticket or manifest to the buyer or consignee of the motor fuel at the time of delivery.</section></section>
     <section prefix="(b)">A loading ticket or manifest shall accompany each conveyance that leaves a place of loading.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-211" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-3-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">With the approval of the Board of Public Works, the Department may borrow money in anticipation of its receipt of current revenues and evidence the borrowing by issuing its revenue anticipation notes.</section>
     <section prefix="(b)">The revenue anticipation notes shall be payable, as to both principal and interest, only from current revenues when received and deposited in the Transportation Trust Fund, subject to the prior use and application of the revenues to meet the debt service on all outstanding and unpaid bonds payable from the revenues in the Transportation Trust Fund and to pay all funds due to the political subdivisions of this State.</section>

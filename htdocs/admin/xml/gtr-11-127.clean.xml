@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-127" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-127</section_number>
-  <catch_line/>
+  <catch_line>"Highway" means:...</catch_line>
+  <order_by>127</order_by>
   <text>"Highway" means:<section prefix=""><section prefix="(1)">The entire width between the boundary lines of any way or thoroughfare of which any part is used by the public for vehicular travel, whether or not the way or thoroughfare has been dedicated to the public and accepted by any proper authority; and</section><section prefix="(2)">For purposes of the application of State laws, the entire width between the boundary lines of any way or thoroughfare used for purposes of vehicular travel on any property owned, leased, or controlled by the United States government and located in the State.</section></section></text>
 </law>

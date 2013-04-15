@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-201" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-6-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this article, the State may impose State property tax on the assessment of property that is subject to the State property tax.</section>
     <section prefix="(b)">The Mayor and City Council of Baltimore City or the governing body of a county is not required to pass any law to incorporate the State property tax in the property tax bill or to collect the State property tax.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-207" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-24-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">It is the public policy of the State that gifts, donations, bequests, private endowments, and private grants may be received by the Commission.</section>
     <section prefix="(b)">
@@ -16,7 +16,7 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">Sections 15-501 through 15-504 of the State Government Article do not bar an official or employee of the Commission from becoming a director or official of an independent foundation organized to foster fund-raising and provide related services for the benefit of the Commission.</section>
-        <section prefix="(ii)">An official or employee of the Commission who serves as a director or official of an independent foundation organized to foster fund-raising and provide related services for the benefit of the Commission:</section>
+        <section prefix="(ii)">An official or employee of the Commission who serves as a director or official of an independent foundation organized to foster fund-raising and provide related services for the benefit of the Commission:<section prefix="1.">May not be compensated by the foundation; and</section><section prefix="2.">May be reimbursed for bona fide expenses incurred in the performance of activities undertaken on behalf of the foundation as authorized by the board of directors of that foundation.</section></section>
       </section>
       <section prefix="(4)">
         <section prefix="(i)">The Commission may not accept funds from an affiliated foundation unless the fiscal affairs of the affiliated foundation are audited annually by an independent certified public accountant.</section>

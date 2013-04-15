@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-703" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-13-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">Except as authorized under this title, a private detective agency may not provide any person with a badge or a certification card or other document indicating that any individual is a private detective.</section>
     <section prefix="(b)">A certified private detective may not lend the private detective's certification card or badge to another person or allow another person to use or display the card or badge.</section>

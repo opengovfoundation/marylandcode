@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-302" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Group health insurance is health insurance issued to persons specified in this section to cover the groups of individuals described in this section, with or without their dependents or family members, or to cover their dependents or family members.</section>
     <section prefix="(b)">
       <section prefix="(1)">
-        <section prefix="(i)">In this subsection, "employee" may include:</section>
+        <section prefix="(i)">In this subsection, "employee" may include:<section prefix="1.">an officer or manager of the employer;</section><section prefix="2.">a sole proprietor if the employer is a sole proprietorship;</section><section prefix="3.">a partner if the employer is a partnership;</section><section prefix="4.">an officer, manager, or employee of a corporation that is an affiliate or subsidiary of the employer;</section><section prefix="5.">a sole proprietor, partner, or employee of a sole proprietorship or partnership if the businesses of the employer and sole proprietorship or partnership are under common control through stock ownership, contract, or otherwise;</section><section prefix="6.">a retired employee;</section><section prefix="7.">an elected or appointed official of a public body, but only if the policy is issued to insure employees of the public body; and</section><section prefix="8.">a trustee of the fund, employee of the trustee, or both if the duties of the trustee or employee are connected principally with the trusteeship.</section></section>
         <section prefix="(ii)">"Employee" does not include a director of a corporate employer unless the director is otherwise eligible as an employee of the corporation by performing services other than the usual duties of a director.</section>
       </section>
       <section prefix="(2)">A policy of group health insurance may be issued to an employer or the trustees of a fund established by an employer to cover employees of the employer for the benefit of persons other than the employer.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-205" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">A person may not place, maintain, or display on or in view of any highway any unauthorized sign, signal, marking, or device that purports to be, is an imitation of, or resembles a traffic control device or a railroad sign or signal.</section>
     <section prefix="(b)">A person may not place, maintain, or display on or in view of any highway any unauthorized sign, signal, marking, or device that attempts to direct the movement of traffic.</section>

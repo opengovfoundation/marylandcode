@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-302" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-14-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The Secretary of Budget and Management shall provide forms for initiating and processing grievances.</section>
     <section prefix="(b)">The three steps in the grievance proceeding are:<section prefix="(1)">The initiation of a grievance proceeding;</section><section prefix="(2)">An appeal to the President; and</section><section prefix="(3)">An appeal to the Secretary of Budget and Management.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-219" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">An individual who has care, custody, or control of a minor child may not desert the child:<section prefix="(1)">with the intent that the child become a public charge; or</section><section prefix="(2)">without providing for the child's support for at least 3 years by a responsible individual or a licensed child care facility.</section></section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $100 or imprisonment not exceeding 1 year.</section>

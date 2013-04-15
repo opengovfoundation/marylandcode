@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-212" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-9-212</section_number>
-  <catch_line/>
+  <catch_line>Any lot of agricultural, vegetable, herb, flower, tree, or shrub seed not in compliance with the pro...</catch_line>
+  <order_by>212</order_by>
   <text>Any lot of agricultural, vegetable, herb, flower, tree, or shrub seed not in compliance with the provisions of this subtitle shall be subject to seizure on complaint of the Secretary to a court in the county in which the seed is located. If the court finds the seed is in violation of this subtitle and orders the condemnation of the seed, it shall be denatured, processed, destroyed, relabeled, or otherwise disposed of in compliance with the laws of the State. However, the court may not order this disposition without first giving the claimant an opportunity to apply to the court for the release of the seed or for permission to process or relabel it to bring it into compliance with this subtitle.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-107" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-8-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">A county, municipality, or board of health may not adopt or enforce an ordinance, rule, or regulation that is inconsistent with this title or any rule or regulation adopted under this title.</section>
     <section prefix="(b)">This title does not limit the power of a county, a municipality, or a board of health to adopt ordinances, rules, or regulations that are consistent with this title and the rules and regulations adopted under this title.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-319" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-319</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>319</order_by>
   <text>
     <section prefix="(a)">The Commission shall establish and administer a grant program for supplemental services and supports for students with disabilities in community colleges.</section>
     <section prefix="(b)">The Commission, in cooperation with the Department of Disabilities, shall:<section prefix="(1)">Establish a competitive review process for the awarding of grants to community colleges; and</section><section prefix="(2)">Adopt any other guidelines or regulations necessary for the administration of this section.</section></section>

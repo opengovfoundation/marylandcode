@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-112" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-14-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">A trust may be created to provide for the care of an animal alive during the lifetime of the settlor.</section>
     <section prefix="(b)">A trust authorized by this section terminates:<section prefix="(1)">If created to provide for the care of one animal alive during the lifetime of the settlor, on the death of the animal; or</section><section prefix="(2)">If created to provide for the care of more than one animal alive during the lifetime of the settlor, on the death of the last surviving animal.</section></section>

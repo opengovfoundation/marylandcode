@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-836" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-836</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>836</order_by>
   <text>
     <section prefix="(a)">The plaintiff in any action to foreclose the right of redemption shall be the holder of the certificate of sale.</section>
     <section prefix="(b)">
@@ -13,10 +13,10 @@
       <section prefix="(2)">The plaintiff may choose not to include as a defendant any of the persons enumerated in paragraph (1) of this subsection. However, the rights of any person not included as a defendant are not affected by the proceedings.</section>
       <section prefix="(3)">Subject to the provisions of paragraph (4) of this subsection, it is not necessary to name as defendant any other person that has or claims to have any right, title, interest, claim, lien or equity of redemption in the property sold by the collector. Any of these persons are included as defendants by the designation "all persons that have or claim to have any interest in property ..... (giving a description of the property in substantially the same form as the description that appears on the Collector's certificate of tax sale)." Any of these persons may be designated throughout the proceeding by the above designation and the cause may proceed against them by publication under order of court as provided in this subtitle.</section>
       <section prefix="(4)">
-        <section prefix="(i)">Notwithstanding the provisions of paragraph (3) of this subsection, the plaintiff shall send written notice of the proceeding to:</section>
-        <section prefix="(ii)">The notice under this subsection shall:</section>
-        <section prefix="(iii)">The plaintiff shall file in the action:</section>
-        <section prefix="(iv)">Notwithstanding any other provisions of this subsection, the plaintiff shall send written notice of the proceeding to any tenant of the subject property whose occupancy of the property is reasonably ascertainable by the plaintiff, whether or not the tenant's identity is known:</section>
+        <section prefix="(i)">Notwithstanding the provisions of paragraph (3) of this subsection, the plaintiff shall send written notice of the proceeding to:<section prefix="1.">all persons having a recorded interest, claim, or lien, including a judgment, who have not been made a defendant in the proceeding, and, if the subject property is the common areas owned by or legally dedicated to a homeowners association, to the homeowners association governing the property, at the last reasonably ascertainable address; and</section><section prefix="2.">each tenant of the subject property whose identity is known to the plaintiff, at the tenant's last reasonably ascertainable address.</section></section>
+        <section prefix="(ii)">The notice under this subsection shall:<section prefix="1.">be sent by certified mail, postage prepaid, return receipt requested, bearing a postmark from the United States Postal Service; and</section><section prefix="2.">be accompanied by a copy of the complaint.</section></section>
+        <section prefix="(iii)">The plaintiff shall file in the action:<section prefix="1.">the return receipt from the notice; or</section><section prefix="2.">an affidavit that:</section></section>
+        <section prefix="(iv)">Notwithstanding any other provisions of this subsection, the plaintiff shall send written notice of the proceeding to any tenant of the subject property whose occupancy of the property is reasonably ascertainable by the plaintiff, whether or not the tenant's identity is known:<section prefix="1.">by first-class mail, postage prepaid, bearing a postmark from the United States Postal Service addressed to the tenant by name if the identity of the tenant is known to the plaintiff, and addressed to "occupant" if the identity of the tenant is not known;</section><section prefix="2.">to each separately leased area of the property that the plaintiff can reasonably ascertain is occupied;</section><section prefix="3.">in an envelope prominently marked on the outside with the following phrase "Notice of Action to Foreclose"; and</section><section prefix="4.">accompanied by a copy of the complaint.</section></section>
         <section prefix="(v)">A notice to tenants under this paragraph shall include the following statement in conspicuous, bold-faced print:</section>
       </section>
       <section prefix="(5)">If the filing under paragraph (4)(iii) of this subsection is made before final ratification of the sale, failure of a holder of a subordinate interest or a tenant to receive the notice does not invalidate the sale.</section>
@@ -24,7 +24,7 @@
       <section prefix="(7)">
         <section prefix="(i)">Subject to subparagraphs (ii) and (iii) of this paragraph, after issuance of the judgment foreclosing right of redemption and at least 30 days before taking possession of the property, the plaintiff shall give any tenant of the property written notice of the plaintiff's intention to obtain possession of the property and that the tenant must vacate the property within 30 days after the notice.</section>
         <section prefix="(ii)">During the 30-day period immediately following issuance of the judgment foreclosing the right of redemption, the plaintiff may apply for, process, and obtain, but not execute upon, a writ for possession of the property.</section>
-        <section prefix="(iii)">The notice shall be sent:</section>
+        <section prefix="(iii)">The notice shall be sent:<section prefix="1.">by first-class mail, postage prepaid, bearing a postmark from the United States Postal Service addressed to the tenant by name if the identity of the tenant is known to the plaintiff, and addressed to "occupant" if the identity of the tenant is not known;</section><section prefix="2.">to each separately leased area of the property that the plaintiff can reasonably ascertain is occupied; and</section><section prefix="3.">in an envelope prominently marked on the outside with the following phrase "Notice of Taking Possession of Property".</section></section>
       </section>
     </section>
   </text>

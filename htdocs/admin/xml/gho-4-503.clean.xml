@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-503" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">A licensed dentist may not advertise:<section prefix="(1)">To guarantee any dental work;</section><section prefix="(2)">Making an undifferentiated claim to do dental work painlessly;</section><section prefix="(3)">To do dental work in a superior manner; or</section><section prefix="(4)">Falsely or in a manner that tends to deceive or mislead the public.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">A licensed dentist may not:<section prefix="(i)">Use the designation "Dental Surgeon" on a sign that bears the name of the licensee; or</section><section prefix="(ii)">Include a specialty designation in a card, letterhead, sign, telephone directory listing, or other printed matter that bears the name of the licensee, unless:</section></section>
+      <section prefix="(1)">A licensed dentist may not:<section prefix="(i)">Use the designation "Dental Surgeon" on a sign that bears the name of the licensee; or</section><section prefix="(ii)">Include a specialty designation in a card, letterhead, sign, telephone directory listing, or other printed matter that bears the name of the licensee, unless:<section prefix="1.">The licensee is identified by the Board as a specialist in the designated field under &#xA7; 4-504 of this subtitle; and</section><section prefix="2.">The language used to refer to the specialty is approved by the Board.</section></section></section>
       <section prefix="(2)">A licensed dentist may use the designations "Dr.", "dentist", "D.D.S.", or "D.M.D." on a sign that bears the licensee's name.</section>
     </section>
     <section prefix="(c)">A person who is not a licensed dentist may not solicit or advertise to the general public in any manner that the person alters, constructs, duplicates, repairs, or supplies a dental appliance.</section>

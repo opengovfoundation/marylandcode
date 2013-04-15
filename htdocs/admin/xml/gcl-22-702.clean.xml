@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-702" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">A claim or right arising out of a breach of contract may be discharged in whole or part without consideration by a waiver in a record to which the party making the waiver agrees after breach, such as by manifesting assent, or which the party making the waiver authenticates and delivers to the other party.</section>
     <section prefix="(b)">A party that accepts a performance with knowledge that the performance constitutes a breach of contract and, within a reasonable time after acceptance, does not notify the other party of the breach waives all remedies for the breach, unless acceptance was made on the reasonable assumption that the breach would be cured and it has not been seasonably cured. However, a party that seasonably notifies the other party of a reservation of rights does not waive the rights reserved.</section>

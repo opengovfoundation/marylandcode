@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-205" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-20-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A certifying agency shall determine bona fide minority group membership based on an individual's claim that the individual is:<section prefix="(i)">a member of a minority group; and</section><section prefix="(ii)">regarded as a member by that minority community.</section></section>
@@ -15,13 +15,13 @@
       <section prefix="(1)">To be eligible for certification as a minority business enterprise and participation in a minority business enterprise utilization program under &#xA7; 20-203 or &#xA7; 20-204 of this subtitle, a business shall meet the standards under this subsection.</section>
       <section prefix="(2)">
         <section prefix="(i)">A minority business enterprise shall be an independent business.</section>
-        <section prefix="(ii)">A certifying agency shall determine whether a business is independent by considering:</section>
+        <section prefix="(ii)">A certifying agency shall determine whether a business is independent by considering:<section prefix="1.">the date the business was established;</section><section prefix="2.">the adequacy of the resources of the business for the work required under the contract;</section><section prefix="3.">the degree to which financial, equipment leasing, and other relationships with nonminority businesses vary from industry practice; and</section><section prefix="4.">any other relevant factor.</section></section>
       </section>
       <section prefix="(3)">A minority owner shall have real, substantial, and continuing ownership and control of the business that goes beyond the pro forma ownership of the business as reflected in the ownership documents.</section>
       <section prefix="(4)">A minority owner shall have the customary incidents of ownership and share in the risks and profits commensurate with the ownership interests in the business as demonstrated by an examination of the substance rather than the form of the arrangements.</section>
       <section prefix="(5)">Recognition of the business as a separate entity for tax or corporate purposes is not necessarily sufficient for certification as a minority business enterprise.</section>
       <section prefix="(6)">
-        <section prefix="(i)">A minority owner shall have the power to:</section>
+        <section prefix="(i)">A minority owner shall have the power to:<section prefix="1.">direct or cause the direction of the management and policies of the business; and</section><section prefix="2.">make the day-to-day and major decisions on matters of management, policy, and operations for the business.</section></section>
         <section prefix="(ii)">The business may not be subject to a formal or informal restriction, including a bylaw, partnership agreement, or charter requirement for cumulative voting rights, that prevents a minority owner from making a business decision without the cooperation or vote of an owner who is not a minority.</section>
       </section>
       <section prefix="(7)">

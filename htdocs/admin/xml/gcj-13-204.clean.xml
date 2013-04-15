@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-13-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">The State Reporter, under the direction and supervision of the Court of Appeals, shall let the necessary contracts for publishing the Maryland Reports, containing opinions of the Court of Appeals, and the Maryland Appellate Reports, containing opinions of the Court of Special Appeals. The contracts may be awarded on the terms and conditions the State Reporter deems necessary.</section>
     <section prefix="(b)">The publisher shall deliver to the State Reporter copies of the Maryland Reports and Maryland Appellate Reports, including advance reports, in the number and with the binding specified in the contracts.</section>

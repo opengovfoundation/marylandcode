@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="9G" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-9G</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>9G</order_by>
   <text>
     <section prefix="(a)">The County Commissioners of Calvert County, by ordinance, may fix and impose a building excise tax on any building construction within Calvert County.</section>
     <section prefix="(b)">The County Commissioners shall specify in the ordinance the types of building construction subject to the building excise tax.</section>

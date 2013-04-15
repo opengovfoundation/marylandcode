@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-405" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Secretary shall submit to the Governor:<section prefix="(i)">each application for appointment of a railroad police officer received under this subtitle;</section><section prefix="(ii)">a recommendation on denying or granting the application; and</section><section prefix="(iii)">the reasons for the recommendation.</section></section>

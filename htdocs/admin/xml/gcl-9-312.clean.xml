@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-312" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">A security interest in chattel paper, negotiable documents, instruments, or investment property may be perfected by filing.</section>
     <section prefix="(b)">Except as otherwise provided in &#xA7; 9-315(c) and (d) for proceeds:<section prefix="(1)">A security interest in a deposit account may be perfected only by control under &#xA7; 9-314;</section><section prefix="(2)">Except as otherwise provided in &#xA7; 9-308(d), a security interest in a letter-of-credit right may be perfected only by control under &#xA7; 9-314; and</section><section prefix="(3)">A security interest in money may be perfected only by the secured party's taking possession under &#xA7; 9-313.</section></section>

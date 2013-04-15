@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-602" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">To implement the purposes of this subtitle, the Secretary may provide up to 50 percent of the costs necessary to maintain drainage outlet systems constructed under the provisions of Article 25, &#xA7;&#xA7; 52 through 95 and 169 through 218 of the Code.</section>
     <section prefix="(b)">Maintenance of drainage outlet systems is limited to the control of vegetation and the removal of channel obstructions and placement of debris. Maintenance does not include major channel reconstruction or realignment or the removal of trees exceeding four inches in diameter at breast height.</section>

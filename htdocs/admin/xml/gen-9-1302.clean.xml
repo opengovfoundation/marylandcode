@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1302" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1302</section_number>
-  <catch_line/>
+  <catch_line>A well is considered to be abandoned if:...</catch_line>
+  <order_by>1302</order_by>
   <text>A well is considered to be abandoned if:<section prefix=""><section prefix="(1)">It is in such a state of disrepair that its continued use for the purpose of obtaining ground water is impracticable; or</section><section prefix="(2)">It has been disconnected permanently from any water supply system or irrigation system.</section></section></text>
 </law>

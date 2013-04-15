@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-106" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">The Director, after consultation with the Secretary of Natural Resources, the Secretary of the Environment, the Director of Planning, and the municipalities affected, shall determine appropriate boundaries for water supply service regions, wastewater purification service regions, and solid waste disposal service regions. Service regions shall be based upon needs set forth in, and provide integration of, approved State-county master plans for water and sewerage or solid waste disposal, adopted pursuant to the Environment Article, but also may take account of other plans and studies.</section>
     <section prefix="(b)">As soon as possible after the determination of appropriate boundaries, the Director, after consultation with the municipalities affected, shall establish priorities for designating water supply service regions, wastewater purification service regions, and solid waste disposal service regions and formally designate the regions.</section>

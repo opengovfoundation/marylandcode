@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-104" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">The Secretary shall carry out and enforce the provisions of this article.</section>
     <section prefix="(b)">The Secretary may call upon any sheriff, deputy sheriff, and any law enforcement officer of any county, for information and assistance to carry out and enforce the provisions of this article and the departmental rules and regulations. Every officer shall obey and observe every order and instruction he receives from the Secretary concerning the enforcement of any provision of this article and the departmental rules and regulations within his respective jurisdiction. Each officer shall be paid as for the performance of similar duties under existing laws.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-116" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to subsections (b) and (c) of this section, the Commissioner shall require an insurance producer to receive continuing education as a condition of renewing the license of the insurance producer.</section>
@@ -13,10 +13,10 @@
         <section prefix="(i)">The Commissioner may not require an individual who holds a license to receive more than 24 hours of continuing education per renewal period.</section>
         <section prefix="(ii)">If the individual holds a title insurance producer license, the Commissioner may not require the insurance producer to receive more than 16 hours of continuing education per renewal period.</section>
         <section prefix="(iii)">If an insurance producer has held a license for 25 or more consecutive years as of October 1, 2008, the Commissioner may not require the insurance producer to receive more than 8 hours of continuing education per renewal period.</section>
-        <section prefix="(iv)">The Commissioner may not require an insurance producer to receive more than 16 hours of continuing education in a renewal period if the insurance producer is also a licensed funeral director or licensed mortician who:</section>
+        <section prefix="(iv)">The Commissioner may not require an insurance producer to receive more than 16 hours of continuing education in a renewal period if the insurance producer is also a licensed funeral director or licensed mortician who:<section prefix="1.">sells only life insurance policies or annuity contracts that fund a pre-need contract as defined in &#xA7; 7-101 of the Health Occupations Article; and</section><section prefix="2.">is not a viatical settlement broker as defined in &#xA7; 8-601 of this article.</section></section>
         <section prefix="(v)">Of the required hours of continuing education per renewal period required under subparagraphs (i), (ii), (iii), and (iv) of this paragraph, at least 3 hours shall relate directly to ethics.</section>
       </section>
-      <section prefix="(3)">Subject to paragraph (4) of this subsection, an insurance producer may satisfy the continuing education requirements of this subsection by submitting to the Commissioner or Commissioner's designee:<section prefix="(i)">proof that the insurance producer has completed the required hours of continuing education for the applicable renewal period; or</section><section prefix="(ii)">proof that the insurance producer has completed at least 8 hours of continuing education for the applicable renewal period and an affidavit that, over the previous 25 consecutive years, the insurance producer continually:</section></section>
+      <section prefix="(3)">Subject to paragraph (4) of this subsection, an insurance producer may satisfy the continuing education requirements of this subsection by submitting to the Commissioner or Commissioner's designee:<section prefix="(i)">proof that the insurance producer has completed the required hours of continuing education for the applicable renewal period; or</section><section prefix="(ii)">proof that the insurance producer has completed at least 8 hours of continuing education for the applicable renewal period and an affidavit that, over the previous 25 consecutive years, the insurance producer continually:<section prefix="1.">has held a license in the State; and</section><section prefix="2.">has been employed in the selling of insurance in the State.</section></section></section>
       <section prefix="(4)">
         <section prefix="(i)">To increase the level of education of insurance producers, an insurance producer shall obtain continuing education in the kind or subdivision of insurance for which the insurance producer has received a license.</section>
         <section prefix="(ii)">Each insurance producer who possesses a license to sell health insurance and who sells long-term care insurance shall receive continuing education that directly relates to long-term care insurance.</section>

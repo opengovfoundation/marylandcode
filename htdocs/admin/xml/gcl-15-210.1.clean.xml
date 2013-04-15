@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-210.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-210.1</section_number>
-  <catch_line/>
+  <catch_line>A conveyance is not fraudulent as to a creditor if, conducted in accordance with applicable law, the...</catch_line>
+  <order_by>210.1</order_by>
   <text>A conveyance is not fraudulent as to a creditor if, conducted in accordance with applicable law, the conveyance results from:<section prefix=""><section prefix="(1)">A foreclosure sale;</section><section prefix="(2)">A sale to enforce a statutory lien;</section><section prefix="(3)">A judicial sale; or</section><section prefix="(4)">A sale of property under levy.</section></section></text>
 </law>

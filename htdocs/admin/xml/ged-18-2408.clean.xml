@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-2408" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-2408</section_number>
-  <catch_line/>
+  <catch_line>Funds for the Program shall be as provided in the State budget....</catch_line>
+  <order_by>2408</order_by>
   <text>Funds for the Program shall be as provided in the State budget.</text>
 </law>

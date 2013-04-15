@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1204" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-1204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the provisions of this subtitle, the Administration shall establish a homeowners assistance pilot program for existing residentially occupied real property in those communities and neighborhoods identified by the Administration as being situated entirely or in part within the 65 LDN noise contour as established by the most recently adopted airport noise zone.</section>

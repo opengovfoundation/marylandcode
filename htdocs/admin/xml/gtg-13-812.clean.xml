@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-812" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-812</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>812</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -15,7 +15,7 @@
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">The Comptroller may send notice of a tax lien to any financial institution that the Comptroller reasonably believes holds property subject to a tax lien.</section>
-        <section prefix="(ii)">The notice to be sent under this paragraph shall be provided by:</section>
+        <section prefix="(ii)">The notice to be sent under this paragraph shall be provided by:<section prefix="1.">first-class mail, under the postmark of the United States Postal Service, at the address designated for this purpose by the financial institution or, if no address has been designated, to the principal office of the financial institution;</section><section prefix="2.">an electronic format agreed on by the Comptroller and the financial institution; or</section><section prefix="3.">any other reasonable manner as agreed on by the Comptroller and the financial institution.</section></section>
       </section>
       <section prefix="(2)">The notice to be sent by the Comptroller to a financial institution under paragraph (1) of this subsection shall contain:<section prefix="(i)">the name of the obligor;</section><section prefix="(ii)">the amount of the tax lien;</section><section prefix="(iii)">the last known address of the obligor;</section><section prefix="(iv)">the Social Security number or federal employer identification number of the obligor; and</section><section prefix="(v)">a notice to immediately seize and attach from one or more accounts held by the financial institution in the name of the obligor an aggregate amount equal to the lesser of the amounts in all accounts or the amount of the tax lien.</section></section>
     </section>

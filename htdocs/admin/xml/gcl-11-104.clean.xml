@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-104</section_number>
-  <catch_line/>
+  <catch_line>If any violation or possible violation of this subtitle comes to the attention of any officer or any...</catch_line>
+  <order_by>104</order_by>
   <text>If any violation or possible violation of this subtitle comes to the attention of any officer or any department, board, commission, bureau, division, office or other agency of the Executive Branch of the State government or of any political subdivision of the State, that officer or the chief administrative officer of the department, board, commission, bureau, division, office or other agency, as the case may be, shall submit promptly a written report of the violation or possible violation to the Attorney General. The report shall contain a full statement of the facts and circumstances regarding the violation or possible violation, including the names and addresses of all persons who have or may have knowledge or information with respect to it, and shall be accompanied by copies of any documents pertinent to the violation or possible violation that are in the possession or control of the person making the report.</text>
 </law>

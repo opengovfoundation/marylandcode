@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="1" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1</order_by>
   <text>
     <section prefix="(a)">In this article the following words have the meanings indicated.</section>
     <section prefix="(b)">"Charter county" means a county that has adopted home rule under Article XI-A of the Maryland Constitution.</section>

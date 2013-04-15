@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-804" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-11-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">The court shall stay enforcement of the foreign judgment until an appeal is concluded, the time for appeal expires, or a stay of execution expires or is vacated if the judgment debtor:<section prefix="(1)">Shows the court that an appeal from the foreign judgment is pending or will be taken, or that a stay of execution has been granted; and</section><section prefix="(2)">Proves that the judgment debtor has furnished the security for the satisfaction of the judgment required by the state in which it was rendered.</section></section>
     <section prefix="(b)">If the judgment debtor shows the court any ground on which enforcement of a judgment of the court of this State would be stayed, the court shall stay enforcement of the foreign judgment for an appropriate period, and require the same security for satisfaction of the judgment that is required in this State.</section>

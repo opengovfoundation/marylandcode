@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-513" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-513</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>513</order_by>
   <text>
     <section prefix="(a)">An amount received as interest, whether determined at a fixed, variable, or floating rate, on an obligation to pay money to the trustee, including an amount received as consideration for prepaying principal, must be allocated to income without any provision for amortization of premium.</section>
     <section prefix="(b)">A trustee shall allocate to principal an amount received from the sale, redemption, or other disposition of an obligation to pay money to the trustee more than 1 year after it is purchased or acquired by the trustee, including an obligation whose purchase price or value when it is acquired is less than its value at maturity. If the obligation matures within 1 year after it is purchased or acquired by the trustee, an amount received in excess of its purchase price or its value when acquired by the trust must be allocated to income.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-301" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-12-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A retail dealer may not employ any solicitor or salesman for the purpose of soliciting, outside of the licensed place of business, orders for the sale of any alcoholic beverages within this State.</section>
@@ -19,7 +19,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">This subsection applies only in Montgomery County.</section>
-      <section prefix="(2)">An alcoholic beverages licensee may not make an off-site retail delivery of alcoholic beverages unless:<section prefix="(i)">The deliverer is at least:</section><section prefix="(ii)">The person taking possession of the delivery provides the deliverer with written certification supported by documentary proof that the person is of legal age to purchase alcoholic beverages. Certification shall be in the form set forth in &#xA7; 12-109(1) of this article.</section></section>
+      <section prefix="(2)">An alcoholic beverages licensee may not make an off-site retail delivery of alcoholic beverages unless:<section prefix="(i)">The deliverer is at least:<section prefix="1.">21 years old; or</section><section prefix="2.">18 years old and is accompanied by a supervisor who is at least 21 years old; and</section></section><section prefix="(ii)">The person taking possession of the delivery provides the deliverer with written certification supported by documentary proof that the person is of legal age to purchase alcoholic beverages. Certification shall be in the form set forth in &#xA7; 12-109(1) of this article.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">Each certification executed under this subsection shall be retained by the licensee for at least 1 year.</section>
         <section prefix="(ii)">The certifications shall be available for examination during regular business hours by an authorized representative of the Board of License Commissioners.</section>
@@ -28,7 +28,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">This subsection applies only in Garrett County.</section>
-      <section prefix="(2)">The Board of License Commissioners may issue a delivery option that entitles an alcoholic beverages licensee or an authorized employee of the licensee to make an off-site retail delivery of alcoholic beverages if:<section prefix="(i)">The deliverer is at least 21 years old and certified by an approved alcohol awareness program;</section><section prefix="(ii)">The deliverer and purchaser endorse a delivery form that the Board of License Commissioners approves certifying that:</section></section>
+      <section prefix="(2)">The Board of License Commissioners may issue a delivery option that entitles an alcoholic beverages licensee or an authorized employee of the licensee to make an off-site retail delivery of alcoholic beverages if:<section prefix="(i)">The deliverer is at least 21 years old and certified by an approved alcohol awareness program;</section><section prefix="(ii)">The deliverer and purchaser endorse a delivery form that the Board of License Commissioners approves certifying that:<section prefix="1.">The person who receives the delivery claims to be at least 21 years old, and the claim is supported by documentary proof;</section><section prefix="2.">The person who receives the delivery knows that it is a criminal offense for alcoholic beverages to be furnished to a person under the age of 21 years; and</section><section prefix="3.">The deliverer examined the purchaser's identification.</section></section></section>
       <section prefix="(3)">Each delivery form endorsed under paragraph (2)(ii) of this subsection shall be submitted to the Board of License Commissioners on or before the 10th day of the following month.</section>
       <section prefix="(4)">
         <section prefix="(i)">The annual fee for a delivery option is $150.</section>

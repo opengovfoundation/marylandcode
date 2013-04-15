@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-220" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a facility if a local obligation that finances the facility is a private activity bond under &#xA7; 141 of the Internal Revenue Code, for which an allocation under &#xA7; 146 of the Internal Revenue Code is required.</section>
     <section prefix="(b)">

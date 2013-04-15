@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-403" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-17-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person who violates any provision of this title or any regulation adopted under this title is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $10,000 or imprisonment not exceeding 1 year or both.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1605" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-1605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1605</order_by>
   <text>
     <section prefix="(a)">Upon receipt of notice that the forest stand delineation is complete and correct, the applicant shall submit to the State or local authority a proposed forest conservation plan for the site.</section>
     <section prefix="(b)">The forest conservation plan shall be developed by a licensed forester, licensed landscape architect, or other qualified professionals that may be approved by the State or a local authority.</section>

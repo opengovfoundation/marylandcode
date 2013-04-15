@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-527" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-527</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>527</order_by>
   <text>
     <section prefix="(a)">A tax required to be paid by a trustee based on receipts allocated to income shall be paid from income.</section>
     <section prefix="(b)">A tax required to be paid by a trustee based on receipts allocated to principal shall be paid from principal, even if the tax is called an income tax by the taxing authority.</section>

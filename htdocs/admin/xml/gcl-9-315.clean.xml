@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-315" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title and in &#xA7; 2-403(2) of this article:<section prefix="(1)">A security interest or agricultural lien continues in collateral notwithstanding sale, lease, license, exchange, or other disposition thereof unless the secured party authorized the disposition free of the security interest or agricultural lien; and</section><section prefix="(2)">A security interest attaches to any identifiable proceeds of collateral.</section></section>
     <section prefix="(b)">Proceeds that are commingled with other property are identifiable proceeds:<section prefix="(1)">If the proceeds are goods, to the extent provided by &#xA7; 9-336; and</section><section prefix="(2)">If the proceeds are not goods, to the extent that the secured party identifies the proceeds by a method of tracing, including application of equitable principles, that is permitted under law other than this article with respect to commingled property of the type involved.</section></section>

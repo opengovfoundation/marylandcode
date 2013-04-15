@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-309" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">In addition to the modifications under &#xA7;&#xA7; 10-307 and 10-308 of this subtitle, the amounts under this section are subtracted from federal taxable income to determine Maryland modified income of a public service company engaged in an electric or gas business if the public service company was subject to the public service company franchise tax on December 31, 1999.</section>
     <section prefix="(b)">The gain or loss realized by a public service company on the sale, retirement, or other taxable disposition or transfer of assets used in its electric or gas business shall be adjusted in an amount equal to the difference between the adjusted basis of the assets as recorded on the books of the public service company and the adjusted basis of the assets for federal income tax purposes calculated as of January 1, 2000.</section>

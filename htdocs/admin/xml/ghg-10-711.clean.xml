@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-711" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-711</section_number>
-  <catch_line/>
+  <catch_line>On request, the administrative head of each facility shall give to the Director or a representative ...</catch_line>
+  <order_by>711</order_by>
   <text>On request, the administrative head of each facility shall give to the Director or a representative of the Director:<section prefix=""><section prefix="(1)">Any information that the administrative head has about an individual in the facility;</section><section prefix="(2)">Access to the individual; and</section><section prefix="(3)">Access to any part of the facility.</section></section></text>
 </law>

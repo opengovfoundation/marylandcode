@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-501" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-3-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Clerk of the Circuit Court for Montgomery County shall:<section prefix="(i)">Assign to each parcel of real property in the county an individual parcel identifier, numerical or otherwise; and</section><section prefix="(ii)">Record by parcel identifier in a parcel index any instrument or reference to an instrument presented for recording after June 30, 1981.</section></section>
@@ -14,7 +14,7 @@
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">Except as provided by subparagraph (ii) of this paragraph, all interests created after June 30, 1981 that are enforceable against real property, shall be recorded in the land records by serial number (liber or folio, or other number as the Clerk determines) and by parcel identifier.</section>
-        <section prefix="(ii)">The provisions of this subsection do not apply to:</section>
+        <section prefix="(ii)">The provisions of this subsection do not apply to:<section prefix="1.">Contracts for conveyance of real property;</section><section prefix="2.">Leases not required to be recorded under &#xA7; 3-101(c) or (d) of this title;</section><section prefix="3.">Liens of judgment created by &#xA7; 11-402 of the Courts and Judicial Proceedings Article, and other actions in law or equity which constitute a claim against or encumbrance upon the property;</section><section prefix="4.">Liens arising from nonpayment of real property taxes; and</section><section prefix="5.">Claims of the United States not subjected by federal law to the recording requirements of this State.</section></section>
       </section>
       <section prefix="(2)">An instrument may not be recorded after June 30, 1981 unless it is legible and contains:<section prefix="(i)">The parcel identifier;</section><section prefix="(ii)">The county tax account number for the parcel, if any, and if it is different from the parcel identifier;</section><section prefix="(iii)">The record legal description of the boundaries of the parcel;</section><section prefix="(iv)">The street address of the parcel, if any;</section><section prefix="(v)">The full name and address of each party to that instrument and the nature of the party's interest; and</section><section prefix="(vi)">The name of any title insurer insuring the instrument.</section></section>
       <section prefix="(3)">An instrument is not rendered invalid by failure to comply with the requirements of this section.</section>

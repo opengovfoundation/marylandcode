@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-19-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title, unless the context requires otherwise, the following words have the meanings indicated.</section>
     <section prefix="(b)">"Contract" means a written or oral contract or agreement between a dealer and a wholesaler, manufacturer, or distributor by which:<section prefix="(1)">The dealer is granted the right to sell or distribute goods or services; or</section><section prefix="(2)">The dealer is granted the right to use a trade name, trademark, service mark, logo type, or advertising or other commercial symbol.</section></section>

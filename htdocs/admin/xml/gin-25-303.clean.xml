@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-303" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-25-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">In this section, "service company" means a person that provides services that are not provided by the administrator, including:<section prefix="(1)">claims adjustment;</section><section prefix="(2)">safety engineering;</section><section prefix="(3)">compilation of statistics and the preparation of premium, loss, and tax reports;</section><section prefix="(4)">preparation of other required self-insurance reports;</section><section prefix="(5)">development of members' assessments and fees; and</section><section prefix="(6)">administration of a claim fund.</section></section>
     <section prefix="(b)">The Commissioner shall adopt regulations to carry out this subtitle.</section>

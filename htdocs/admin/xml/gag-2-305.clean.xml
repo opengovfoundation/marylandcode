@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-305" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">In this section, "animal control facility" means a humane society, as defined in &#xA7; 10-601 of the Criminal Law Article, or a county or municipal designated animal shelter.</section>
     <section prefix="(b)">The Board, on terms and conditions satisfactory to the Board, may issue a license to an animal control facility to allow the animal control facility to administer drugs needed to sedate, euthanize, or sedate and euthanize animals.</section>

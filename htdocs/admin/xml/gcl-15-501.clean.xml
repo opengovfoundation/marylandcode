@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-501" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">It is unlawful for a creditor who is a citizen of the State to assign or transfer a claim against a resident of the State:<section prefix="(1)">For the purpose of having the claim collected by attachment in a court outside the State; or</section><section prefix="(2)">With the intent to deprive the debtor of his rights under the laws of the State which exempt his wages or property from execution.</section></section>
     <section prefix="(b)">The provisions of this section do not apply if the creditor, the debtor, or the person owing the money to be attached is not within the jurisdiction of the courts of this State.</section>

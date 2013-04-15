@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="30-205" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-30-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Under the program, the State and the participating employees shall contribute, to the extent required, toward the purchase of annuity contracts.</section>
     <section prefix="(b)">A participating employee may elect to make contributions to no more than two designated companies under the program for the same payroll period, if the Board of Trustees determines that the election of more than one designated company is administratively feasible.</section>

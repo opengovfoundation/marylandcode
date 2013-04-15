@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-803" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">By January 1, 1982 the Department, after consultation with and consideration of recommendations submitted by subdivisions and the Department of Agriculture and the Department of Planning, shall designate a priority list of watersheds for the purpose of flood control planning and management and establish a schedule for completion of studies of these watersheds.</section>
     <section prefix="(b)">
@@ -39,7 +39,7 @@
       </section>
       <section prefix="(6)">
         <section prefix="(i)">The amount of any grant made by the Department for a flood control and watershed management capital project which involves only nonfederal funds and meets the criteria of this subtitle shall be matched by a minimum amount of 25% of project costs in local government or private funds.</section>
-        <section prefix="(ii)">For a flood control and watershed management capital project which involves federal funding and meets the criteria of this subtitle:</section>
+        <section prefix="(ii)">For a flood control and watershed management capital project which involves federal funding and meets the criteria of this subtitle:<section prefix="1.">The Department may provide up to 50% of the nonfederal share of the project funding; and</section><section prefix="2.">Local government or private funds shall provide not less than 50% of the nonfederal share of the project funding.</section></section>
       </section>
       <section prefix="(7)">To receive a grant, the subdivision must participate in the national flood insurance program.</section>
       <section prefix="(8)">Before making a grant, the Department, in cooperation with the Department of Planning, shall review the flood control and watershed management operations of the applicant subdivision to assure that the flood control and watershed management operations are in compliance with this subtitle.</section>

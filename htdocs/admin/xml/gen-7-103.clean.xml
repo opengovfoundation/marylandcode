@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-103" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">A person shall hold a facility permit before the person may own, establish, operate, or maintain a facility in the State that transfers quantities of a single hazardous material that meets or exceeds 100,000 pounds in weight at any time during a calendar year.</section>
     <section prefix="(b)">Any hazardous material or storage tank regulated under Title 4 of this article is exempt from the requirements of this subtitle.</section>

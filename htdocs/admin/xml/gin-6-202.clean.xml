@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-202" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-6-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall collect the fraud prevention fee.</section>
     <section prefix="(b)">The total amount of the fraud prevention fee collected by the Commissioner shall be deposited in the Insurance Regulation Fund as provided in &#xA7; 2-505 of this article.</section>

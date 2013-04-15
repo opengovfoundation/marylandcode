@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-205" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-4-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">A political party in the State may not incorporate under the general laws of the State providing for the formation of a corporation.</section>
     <section prefix="(b)">Unless it is the party State central committee, an organization may not represent that it is the official organization or governing body of any political party.</section>

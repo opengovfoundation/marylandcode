@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-904" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the chief financial officer for the county shall pay out money from each fund as approved in the county budget.</section>
     <section prefix="(b)">The chief financial officer for Dorchester County or the managing official of the local correctional facility as designated by Dorchester County shall pay out money from the fund as approved in the county budget.</section>

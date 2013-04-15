@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-851" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-851</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>851</order_by>
   <text>
     <section prefix="(a)">The Department may audit, through a spot check or other investigation, the verification of work performed pursuant to &#xA7; 6-819(g) of this subtitle.</section>
     <section prefix="(b)">If the Department, through audits conducted within 30 days of receipt of verification of work performed pursuant to &#xA7; 6-819(g) of this subtitle, finds that the condition of the affected property does not comport with the work that was verified by the same contractor or supervisor, an owner of a property for which work was verified by that contractor or supervisor within the previous year shall be required to have that property inspected and treated as necessary to satisfy the modified risk reduction standard under &#xA7; 6-819 of this subtitle.</section>

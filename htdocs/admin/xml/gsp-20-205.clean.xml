@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-205" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-20-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">This section applies only to an individual who on or before June 30, 2011, is a member of:<section prefix="(1)">the Employees' Pension System;</section><section prefix="(2)">the Local Fire and Police System;</section><section prefix="(3)">the Law Enforcement Officers' Pension System; or</section><section prefix="(4)">the Teachers' Pension System.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">In this subsection, "break in service" means a period of employment in which the member's employer did not:<section prefix="(i)">deduct the member contributions from the compensation of the member; or</section><section prefix="(ii)">report the hours worked by the member.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">For the purpose of computing benefits under this Division II, the average final compensation of a member equals the average annual earnable compensation of the member, adjusted as provided in this section, during the 3 consecutive years that provide the highest average earnable compensation.</section>
-        <section prefix="(ii)">If the member experienced any break in service during the 3 consecutive years that provide the member's highest average earnable compensation, the Board of Trustees:</section>
+        <section prefix="(ii)">If the member experienced any break in service during the 3 consecutive years that provide the member's highest average earnable compensation, the Board of Trustees:<section prefix="1.">may not include in the computation of average final compensation the period of months of the breaks in service, that otherwise would be included in the computation; and</section><section prefix="2.">in order to generate the highest average earnable compensation for the member, shall extend the 3-year period by an equal number of months immediately preceding or following that period.</section></section>
       </section>
     </section>
     <section prefix="(c)">

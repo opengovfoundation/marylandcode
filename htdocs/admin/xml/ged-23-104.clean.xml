@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-104" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-23-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">In addition to the other powers granted and duties imposed by this article, the State Board has the powers and duties set forth in this section.</section>
     <section prefix="(b)">The State Board shall exercise general direction and control of library development in this State and may:<section prefix="(1)">Adopt rules and regulations necessary to administer this title;</section><section prefix="(2)">After considering the recommendations of the Advisory Council on Libraries, establish library policies and procedures for the statewide system of libraries;</section><section prefix="(3)">Consider the library needs of this State and recommend to the Governor and the General Assembly desirable legislation; and</section><section prefix="(4)">With the approval of the Governor, accept, administer, and spend any appropriation, gift, or grant for library purposes from the federal government or from any other person.</section></section>

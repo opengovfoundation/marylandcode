@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-604" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-604</section_number>
-  <catch_line/>
+  <catch_line>The clerk of each district and circuit court shall:...</catch_line>
+  <order_by>604</order_by>
   <text>The clerk of each district and circuit court shall:<section prefix=""><section prefix="(1)">Report to the Board each conviction of or entry of a plea of guilty or nolo contendere by a dentist or a dental hygienist for any felony or crime involving moral turpitude; and</section><section prefix="(2)">Submit the report within 10 working days of the conviction or entry of the plea.</section></section></text>
 </law>

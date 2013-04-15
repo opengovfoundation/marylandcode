@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-106" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-12-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, if a grievant fails to appeal a decision in accordance with this title to the next step in the grievance procedure, the grievant is considered to have accepted the decision.</section>
     <section prefix="(b)">Except as otherwise provided in this title, a failure to decide a grievance at any step in the grievance procedure in accordance with this title is considered a denial from which an appeal may be made.</section>

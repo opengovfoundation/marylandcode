@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-230" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-230</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>230</order_by>
   <text>
     <section prefix="(a)">This section may not be construed to abridge otherwise existing legal rights, including the right to resist a petition for liquidation, other delinquency proceedings, or other orders.</section>
     <section prefix="(b)">In a delinquency proceeding or in an investigation preliminary to the delinquency proceeding, an officer, manager, director, trustee, owner, employee, or agent of an insurer, another person with authority over any part of the affairs of the insurer, or a person that exercises control directly or indirectly over an activity of the insurer through a holding company or other affiliate of the insurer shall:<section prefix="(1)">reply promptly in writing to an inquiry from the Commissioner in which the Commissioner requests a written reply;</section><section prefix="(2)">make available to the Commissioner any accounts, books, documents, information, records, or property of or relating to the insurer that is in the control, custody, or possession of the person; and</section><section prefix="(3)">otherwise cooperate with the Commissioner.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-209" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-209</section_number>
-  <catch_line/>
+  <catch_line>Each State political subdivision, by appropriate action of its respective legislative body, may appo...</catch_line>
+  <order_by>209</order_by>
   <text>Each State political subdivision, by appropriate action of its respective legislative body, may appoint a subcommittee to cooperate with, and work under, the guidance and control of the trustees of the Trust to further the objectives of the Trust at the local level.</text>
 </law>

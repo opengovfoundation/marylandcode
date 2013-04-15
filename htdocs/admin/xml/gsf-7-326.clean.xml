@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-326" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-326</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>326</order_by>
   <text>
     <section prefix="(a)">In this section, "Fund" means the Public School Construction Fund.</section>
     <section prefix="(b)">The Fund is a continuing, nonlapsing fund which is not subject to &#xA7; 7-302 of this subtitle.</section>

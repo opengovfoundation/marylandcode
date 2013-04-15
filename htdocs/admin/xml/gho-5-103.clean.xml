@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-103" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-5-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">This title does not limit the right of an individual to practice a health occupation that the individual is authorized to practice under this article.</section>
     <section prefix="(b)">This title does not limit the right of an individual or group to provide services and information related to nonmedical nutrition while:<section prefix="(1)">Employed by or operating a health, weight loss, or fitness program;</section><section prefix="(2)">Employed by or operating a health food store;</section><section prefix="(3)">Employed by or operating a business that sells health products including dietary supplements, food, or food materials, or provides nonmedical nutritional information or distributes nutritional literature; or</section><section prefix="(4)">Conducting classes or disseminating information related to nonmedical nutrition.</section></section>

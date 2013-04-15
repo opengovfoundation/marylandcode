@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-219" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-7-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">This section applies if a protected action involves substantial rehabilitation or reconstruction that does not allow continued occupancy of a unit because of danger to the health and safety of the household.</section>
     <section prefix="(b)">
@@ -28,7 +28,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">In accordance with the schedule of fair market rents of the United States Department of Housing and Urban Development in effect on the moving date, within 15 days after that date, the owner shall pay compensation equivalent to 3 months' rent for a unit of comparable size and quality to each designated household eligible under this subsection.</section>
-      <section prefix="(2)">A designated household is eligible for compensation under this subsection if it:<section prefix="(i)">is current in its rent payments and has not violated any other material term of its lease;</section><section prefix="(ii)">includes an individual described under &#xA7; 7-213(1) of this subtitle and:</section><section prefix="(iii)">otherwise qualifies for an extended lease but is required to vacate its unit under subsection (c)(2) of this section.</section></section>
+      <section prefix="(2)">A designated household is eligible for compensation under this subsection if it:<section prefix="(i)">is current in its rent payments and has not violated any other material term of its lease;</section><section prefix="(ii)">includes an individual described under &#xA7; 7-213(1) of this subtitle and:<section prefix="1.">does not have an extended lease; or</section><section prefix="2.">cannot have an extended lease because the number of assisted units set aside under &#xA7; 7-214(b) of this subtitle is less than the number of qualified households; or</section></section><section prefix="(iii)">otherwise qualifies for an extended lease but is required to vacate its unit under subsection (c)(2) of this section.</section></section>
     </section>
   </text>
 </law>

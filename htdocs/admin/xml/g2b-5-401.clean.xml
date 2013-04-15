@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-401" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-5-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class D beer and light wine license shall be issued by the license issuing authority of the county in which the place of business is located. The license authorizes its holder to keep for sale and to sell beer and light wines at retail, at the place described in the license, for consumption on the premises or elsewhere. The license may not be issued for any drugstore.</section>

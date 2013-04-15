@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">An assignment of wages is not valid unless:<section prefix="(1)">The assignment is:<section prefix="(i)">In writing;</section><section prefix="(ii)">Signed and acknowledged by the assignor before a notary public in and for the county where he resides; and</section><section prefix="(iii)">Entered the same day on the docket of the court by the clerk; and</section></section><section prefix="(2)">Within three days from the execution and acknowledgment of the assignment, a copy of the assignment with the certificate of acknowledgment is served on the assignor's employer in the same manner as the Maryland Rules provide for service of a summons.</section></section>
     <section prefix="(b)">An assignment of wages by a married person is not valid unless also executed and acknowledged by the assignor's spouse in the manner required by subsection (a) of this section.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-302" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The adult members of a church may form a religious corporation as provided in this part.</section>
     <section prefix="(b)">The members shall:<section prefix="(1)">Elect at least four individuals to act as trustees in the name of and on behalf of the church; and</section><section prefix="(2)">Prepare a plan of the church.</section></section>

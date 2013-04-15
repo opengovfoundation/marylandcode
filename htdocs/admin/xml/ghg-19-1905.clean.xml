@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-1905" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-1905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1905</order_by>
   <text>
     <section prefix="(a)">As part of the application process for a criminal history records check, an eligible employee shall complete and sign a disclosure statement.</section>
     <section prefix="(b)">The Department or its designee shall mail an acknowledged receipt of the application with a disclosure statement from an eligible employee within 3 days after receipt of the application to:<section prefix="(1)">The adult dependent care program seeking to hire the eligible employee; and</section><section prefix="(2)">The eligible employee.</section></section>

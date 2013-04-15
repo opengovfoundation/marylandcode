@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11B-103" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11B-103</section_number>
-  <catch_line/>
+  <catch_line>Except as expressly provided in this title, the provisions of this title may not be varied by agreem...</catch_line>
+  <order_by>103</order_by>
   <text>Except as expressly provided in this title, the provisions of this title may not be varied by agreement, and rights conferred by this title may not be waived. A declarant or vendor may not act under a power of attorney or use any other device to evade the requirements, limitations, or prohibitions of this title.</text>
 </law>

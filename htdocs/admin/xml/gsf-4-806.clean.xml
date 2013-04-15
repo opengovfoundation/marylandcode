@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-806" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-4-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">So that it can audit and evaluate competing design proposals, the Department, in cooperation with the Maryland Energy Administration, shall set standards for energy performance indices.</section>
     <section prefix="(b)">As experience develops on the energy performance achieved in State buildings, the energy performance indices will serve as a measure of building performance with respect to energy consumption.</section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">
       <section prefix="(1)">
         <section prefix="(i)">Except as provided in subsection (f) of this section, by December 31, 2007, each State agency shall conduct an analysis on each of the buildings under its jurisdiction of its gas and electric consumption and the cost of this consumption under the direction of the Maryland Energy Administration and in coordination with the Department of General Services.</section>
-        <section prefix="(ii)">The analysis required in subparagraph (i) of this paragraph shall include an examination of methods to achieve energy and costs savings, including:</section>
+        <section prefix="(ii)">The analysis required in subparagraph (i) of this paragraph shall include an examination of methods to achieve energy and costs savings, including:<section prefix="1.">the installation of more efficient lighting systems, including relamping;</section><section prefix="2.">the installation of more efficient heating and cooling systems;</section><section prefix="3.">the installation of water conservation devices;</section><section prefix="4.">weatherization; and</section><section prefix="5.">modification of lighting, heating, and cooling practices such as turning off lights when not in use and better thermostatic controls.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">By July 1, 2008, each State agency shall upgrade its energy conservation plan developed in consultation with the Maryland Energy Administration and the Department of General Services to achieve the energy performance standards set under subsection (c) of this section.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-324" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-324</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>324</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, campaign finance reports required to be filed with the State Board shall be submitted using an electronic storage medium, and in a format, that the State Board approves.</section>

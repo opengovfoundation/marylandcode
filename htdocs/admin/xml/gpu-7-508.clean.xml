@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-508" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-508</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>508</order_by>
   <text>
     <section prefix="(a)">An electric company may transfer any of its generation facilities or generation assets to an affiliate.</section>
     <section prefix="(b)">The transfer of a generation facility or generation asset to an affiliate may not affect or restrict the Commission's determination of the value of a generation asset for purposes of transition costs or benefits under &#xA7; 7-513(b) of this subtitle.</section>

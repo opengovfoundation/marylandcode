@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-237" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-9-237</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>237</order_by>
   <text>
     <section prefix="(a)">The Department shall adopt regulations that set standards for juvenile detention facilities operated by the Department and by private agencies under contract with the Department.</section>
     <section prefix="(b)">The standards shall reflect the following central purposes of juvenile detention:<section prefix="(1)">to protect the public;</section><section prefix="(2)">to provide a safe, humane, and caring environment for children; and</section><section prefix="(3)">to provide access to required services for children.</section></section>

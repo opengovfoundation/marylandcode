@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-110" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">All common profits shall be disbursed to the unit owners, be credited to their assessments for common expenses in proportion to their percentage interests in common profits and common expenses, or be used for any other purpose as the council of unit owners decides.</section>
     <section prefix="(b)">
@@ -29,7 +29,7 @@
     <section prefix="(f)">
       <section prefix="(1)">This subsection does not limit or affect the priority of any lien, secured interest, or other encumbrance with priority that is held by or for the benefit of, purchased by, assigned to, or securing any indebtedness to:<section prefix="(i)">The State or any county or municipal corporation in the State;</section><section prefix="(ii)">Any unit of State government or the government of any county or municipal corporation in the State; or</section><section prefix="(iii)">An instrumentality of the State or any county or municipal corporation in the State.</section></section>
       <section prefix="(2)">In the case of a foreclosure of a mortgage or deed of trust on a unit in a condominium, a portion of the condominium's liens on the unit, as prescribed in paragraph (3) of this subsection, shall have priority over a claim of the holder of a first mortgage or a first deed of trust that is recorded against the unit on or after October 1, 2011.</section>
-      <section prefix="(3)">The portion of the condominium's liens that has priority under paragraph (2) of this subsection:<section prefix="(i)">Shall consist solely of not more than 4 months, or the equivalent of 4 months, of unpaid regular assessments for common expenses that are levied by the condominium in accordance with the requirements of the declaration or bylaws of the condominium;</section><section prefix="(ii)">May not include:</section><section prefix="(iii)">May not exceed a maximum of $1,200.</section></section>
+      <section prefix="(3)">The portion of the condominium's liens that has priority under paragraph (2) of this subsection:<section prefix="(i)">Shall consist solely of not more than 4 months, or the equivalent of 4 months, of unpaid regular assessments for common expenses that are levied by the condominium in accordance with the requirements of the declaration or bylaws of the condominium;</section><section prefix="(ii)">May not include:<section prefix="1.">Interest;</section><section prefix="2.">Costs of collection;</section><section prefix="3.">Late charges;</section><section prefix="4.">Fines;</section><section prefix="5.">Attorney's fees;</section><section prefix="6.">Special assessments; or</section><section prefix="7.">Any other costs or sums due under the declaration or bylaws of the condominium or as provided under any contract, law, or court order; and</section></section><section prefix="(iii)">May not exceed a maximum of $1,200.</section></section>
       <section prefix="(4)">
         <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, at the request of the holder of a first mortgage or first deed of trust on a unit in a condominium, the governing body shall provide to the holder written information about the portion of any lien filed under the Maryland Contract Lien Act that has priority as prescribed under paragraph (3) of this subsection, including information that is sufficient to allow the holder to determine the basis for the portion of the lien that has priority.</section>
         <section prefix="(ii)">At the time of making a request under subparagraph (i) of this paragraph, the holder shall provide the governing body of the condominium with the written contact information of the holder.</section>

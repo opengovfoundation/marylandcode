@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1107" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-1107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1107</order_by>
   <text>
     <section prefix="(a)">If a person is convicted of violating any provision of this title and the violation causes or results in the injury, death, or destruction of any wildlife, including a protected species of animal, in addition to any other penalty provided in this title, the court may order the person to pay restitution to the State for the resource value of the wildlife, as determined by the court, taking into account regulations adopted by the Department under subsection (b) of this section.</section>
     <section prefix="(b)">The Department, by regulation, shall establish a schedule of resource values for individual species or describe a system that a court may use in determining the resource value for the species. The Department may use, but not be limited to, known values to actually replace lost species or the Department may ascribe to a species a value which the individual wildlife or plant provides to the greater public good for the citizens of Maryland.</section>

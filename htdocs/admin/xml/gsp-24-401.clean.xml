@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-401" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-24-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">This paragraph applies to an individual who is a member on or before June 30, 2011.</section>
-        <section prefix="(ii)">A member may retire with a normal service retirement allowance if:</section>
+        <section prefix="(ii)">A member may retire with a normal service retirement allowance if:<section prefix="1.">on or before the date of retirement, the member:</section><section prefix="2.">the member completes and submits a written application to the Board of Trustees, on the form that the Board of Trustees provides, stating the date when the member desires to retire.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">This paragraph applies to an individual who becomes a member on or after July 1, 2011.</section>
-        <section prefix="(ii)">A member may retire with a normal service retirement allowance if:</section>
+        <section prefix="(ii)">A member may retire with a normal service retirement allowance if:<section prefix="1.">on or before the date of retirement, the member:</section><section prefix="2.">the member completes and submits a written application to the Board of Trustees, on the form that the Board of Trustees provides, stating the date when the member desires to retire.</section></section>
       </section>
     </section>
     <section prefix="(b)">
@@ -32,7 +32,11 @@
       <section prefix="(3)">
         <section prefix="(i)">In this paragraph, "zero-adjustment fiscal year" means any fiscal year when the allowance adjustment as provided in paragraph (2) of this subsection is less than the allowance adjustment paid for the preceding fiscal year.</section>
         <section prefix="(ii)">For any fiscal year, the allowance adjustment may not be less than the allowance adjustment paid for the preceding fiscal year.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">This subparagraph applies only to a fiscal year that is not a zero-adjustment fiscal year.</section>
+          <section prefix="2.">Subject to subsubparagraph 3 of this subparagraph:</section>
+          <section prefix="3.">If the amount of the reduction required for any fiscal year under subsubparagraph 2 of this subparagraph exceeds the difference between the allowance adjustment as provided in paragraph (2) of this subsection for the fiscal year and the allowance adjustment  paid in the preceding fiscal year, the excess shall be deducted in future fiscal years, subject to subparagraph (ii) of this paragraph, until the difference is fully recovered.</section>
+        </section>
       </section>
     </section>
   </text>

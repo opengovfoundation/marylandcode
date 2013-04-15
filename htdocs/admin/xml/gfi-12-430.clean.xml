@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-430" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-430</section_number>
-  <catch_line/>
+  <catch_line>Any person who knowingly and willfully violates any provision of this subtitle is guilty of a felony...</catch_line>
+  <order_by>430</order_by>
   <text>Any person who knowingly and willfully violates any provision of this subtitle is guilty of a felony and on conviction is subject to a fine not exceeding $1,000 for the first violation and not exceeding $5,000 for each subsequent violation or imprisonment not exceeding 5 years or both.</text>
 </law>

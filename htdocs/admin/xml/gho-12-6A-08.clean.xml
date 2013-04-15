@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-6A-08" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-6A-08</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>08</order_by>
   <text>
     <section prefix="(a)">The physician shall maintain complete patient records with respect to the therapy management contract.</section>
     <section prefix="(b)">The licensed physician's patient record shall be fully updated in writing by the licensed pharmacist in a timely manner, as provided in the physician-pharmacist agreement.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-801" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-801</section_number>
-  <catch_line/>
+  <catch_line>Where title to property or its devolution depends upon priority of death and there is no sufficient ...</catch_line>
+  <order_by>801</order_by>
   <text>Where title to property or its devolution depends upon priority of death and there is no sufficient evidence that the persons have died otherwise than simultaneously, the property of each person shall be disposed of as if he had survived, except as provided otherwise in this subtitle.</text>
 </law>

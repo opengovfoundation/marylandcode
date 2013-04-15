@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-404" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">The Department shall:<section prefix="(1)">administer the Program;</section><section prefix="(2)">adopt policies to ensure that rental property is made available to low-income elderly households; and</section><section prefix="(3)">use federal and State programs to help carry out the Program.</section></section>
     <section prefix="(b)">The Department shall set income guidelines by considering:<section prefix="(1)">the median income for the area;</section><section prefix="(2)">the minimum income needed to afford available standard rental units in the area; and</section><section prefix="(3)">any other factor the Department considers relevant.</section></section>

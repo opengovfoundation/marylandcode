@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-406" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-3-406</section_number>
-  <catch_line/>
+  <catch_line>The Program shall provide business assistance services that:...</catch_line>
+  <order_by>406</order_by>
   <text>The Program shall provide business assistance services that:<section prefix=""><section prefix="(1)">determine whether the employer's specific needs are best met by training, other types of assistance, or a combination of services;</section><section prefix="(2)">identify the availability of existing training programs that may be adapted to meet the employer's needs;</section><section prefix="(3)">identify the resources the employer may provide to support the training, including:<section prefix="(i)">equipment;</section><section prefix="(ii)">facilities; and</section><section prefix="(iii)">materials;</section></section><section prefix="(4)">identify or develop appropriate curricula; and</section><section prefix="(5)">determine the most cost-effective approach to meeting training needs.</section></section></text>
 </law>

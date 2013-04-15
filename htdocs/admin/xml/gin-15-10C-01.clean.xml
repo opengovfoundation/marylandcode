@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-10C-01" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-10C-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Board" means the State Board of Physicians established under Title 14 of the Health Occupations Article.</section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">"Department" means the Department of Health and Mental Hygiene.</section>
     <section prefix="(e)">"Health maintenance organization" has the meaning stated in &#xA7; 19-701 of the Health - General Article.</section>
     <section prefix="(f)">
-      <section prefix="(1)">"Medical director" means a physician employed by or under contract with a health maintenance organization who is responsible for:<section prefix="(i)">the establishment or maintenance of the policies and procedures at the health maintenance organization for:</section><section prefix="(ii)">compliance with the quality assurance and utilization management policies and procedures of the health maintenance organization; and</section><section prefix="(iii)">oversight of utilization review decisions of private review agents employed by or under contract with the health maintenance organization.</section></section>
+      <section prefix="(1)">"Medical director" means a physician employed by or under contract with a health maintenance organization who is responsible for:<section prefix="(i)">the establishment or maintenance of the policies and procedures at the health maintenance organization for:<section prefix="1.">quality assurance; and</section><section prefix="2.">utilization management;</section></section><section prefix="(ii)">compliance with the quality assurance and utilization management policies and procedures of the health maintenance organization; and</section><section prefix="(iii)">oversight of utilization review decisions of private review agents employed by or under contract with the health maintenance organization.</section></section>
       <section prefix="(2)">"Medical director" includes an associate medical director or an assistant medical director, as defined by the Commissioner by regulation.</section>
     </section>
   </text>

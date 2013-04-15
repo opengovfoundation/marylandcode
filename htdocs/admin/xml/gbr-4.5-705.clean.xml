@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-705" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">Subject to this subtitle a claimant may recover compensation from the Guaranty Fund for an actual loss that results from an act or omission by a registrant as found by the Division or a court of competent jurisdiction.</section>
     <section prefix="(b)">Before submitting a claim to the Guaranty Fund, a consumer shall:<section prefix="(1)">send a registrant a written notice describing the alleged defect or other claim for which the consumer intends to seek recovery; and</section><section prefix="(2)">permit the registrant access, during regular business hours, to the consumer's property to inspect, determine the cause of, and remedy the alleged defect or other claim within a reasonable period of time.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">
-        <section prefix="(i)">If a consumer has a new home warranty security plan, the consumer may also seek recovery from the Guaranty Fund if the consumer has first:</section>
+        <section prefix="(i)">If a consumer has a new home warranty security plan, the consumer may also seek recovery from the Guaranty Fund if the consumer has first:<section prefix="1.">filed a claim with the new home warranty security plan; and</section><section prefix="2.">exhausted the plan's claim process.</section></section>
         <section prefix="(ii)">A consumer seeking recovery under subparagraph (i) of this paragraph may not receive more than one recovery for the same actual loss.</section>
       </section>
       <section prefix="(2)">A claimant who has also filed a claim with a new home warranty security plan shall include with the claim against the Guaranty Fund:<section prefix="(i)">a copy or description of the claim filed with the new home warranty security plan;</section><section prefix="(ii)">any documents submitted by the claimant in support of the warranty claim, including engineering or inspection reports;</section><section prefix="(iii)">any documents submitted on behalf of the home builder or warranty plan in connection with the warranty claim, including engineering or inspection reports;</section><section prefix="(iv)">disclosure of any recoveries received in connection with the warranty claim; and</section><section prefix="(v)">if all or part of the warranty claim was denied, a copy of the denial.</section></section>

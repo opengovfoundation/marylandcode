@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-338.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-338.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>338.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Body fluids" means:</section>
+        <section prefix="(i)">"Body fluids" means:<section prefix="1.">Any fluid containing visible blood, semen, or vaginal secretions; or</section><section prefix="2.">Cerebrospinal fluid, synovial, or amniotic fluid.</section></section>
         <section prefix="(ii)">"Body fluid" does not include saliva, stool, nasal secretions, sputum, tears, urine, or vomitus.</section>
       </section>
       <section prefix="(3)">"Exposure" means as between a patient and a health care provider:<section prefix="(i)">Percutaneous contact with blood or body fluids;</section><section prefix="(ii)">Mucocutaneous contact with blood or body fluids;</section><section prefix="(iii)">Open wound, including dermatitis, exudative lesions, or chapped skin, contact with blood or body fluids for a prolonged period; or</section><section prefix="(iv)">Intact skin contact with large amounts of blood or body fluids for a prolonged period.</section></section>
       <section prefix="(4)">"Health care facility" means a facility or office where health or medical care is provided to patients by a health care provider, including:<section prefix="(i)">A health care facility as defined in &#xA7; 19-114(d)(1) of this article;</section><section prefix="(ii)">A facility operated by the Department or a health officer;</section><section prefix="(iii)">The office of a health care provider; or</section><section prefix="(iv)">A medical laboratory.</section></section>
       <section prefix="(5)">
-        <section prefix="(i)">"Health care provider" means a person who is licensed, certified, or otherwise authorized under the Health Occupations Article to provide health or medical care in:</section>
+        <section prefix="(i)">"Health care provider" means a person who is licensed, certified, or otherwise authorized under the Health Occupations Article to provide health or medical care in:<section prefix="1.">The ordinary course of business or practice of a profession; or</section><section prefix="2.">In an approved education or training program.</section></section>
         <section prefix="(ii)">"Health care provider" includes any agent or employee of a health care facility.</section>
         <section prefix="(iii)">"Health care provider" does not include any individual who is eligible to receive notification under the provisions of &#xA7; 18-213 of this title, including any law enforcement officer or any member of any fire department, ambulance company, or rescue squad.</section>
       </section>

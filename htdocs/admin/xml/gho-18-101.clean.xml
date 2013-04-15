@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-101" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-18-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Board" means the State Board of Examiners of Psychologists.</section>
     <section prefix="(c)">
-      <section prefix="(1)">"Doctoral degree in psychology" means:<section prefix="(i)">A degree received from a program that at the time the degree was awarded:</section><section prefix="(ii)">A doctoral degree in psychology that the Council for the National Register of Health Service Providers in Psychology determines meets its criteria for a doctoral degree in psychology, if the degree was received from a doctoral program in psychology that:</section></section>
+      <section prefix="(1)">"Doctoral degree in psychology" means:<section prefix="(i)">A degree received from a program that at the time the degree was awarded:<section prefix="1.">Is accredited by the American Psychological Association or the Canadian Psychological Association; or</section><section prefix="2.">Is listed in the designated doctoral programs in psychology published by the Council for the National Register of Health Service Providers in Psychology; or</section></section><section prefix="(ii)">A doctoral degree in psychology that the Council for the National Register of Health Service Providers in Psychology determines meets its criteria for a doctoral degree in psychology, if the degree was received from a doctoral program in psychology that:<section prefix="1.">Is located outside the United States and Canada;</section><section prefix="2.">Is currently accredited or designated in accordance with paragraph (1)(i) of this subsection, but was not accredited or designated at the time the degree was awarded;</section><section prefix="3.">Was completed prior to 1981 for United States programs;</section><section prefix="4.">Was completed prior to 1988 for Canadian programs; or</section><section prefix="5.">Is no longer in existence.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">A determination by the Council under paragraph (1)(ii) of this subsection that a doctoral degree in psychology meets its criteria shall be considered by the Board as prima facie evidence that the degree meets those criteria.</section>
         <section prefix="(ii)">In determining whether the degree in psychology meets the criteria described in paragraph (1)(ii) of this subsection and subparagraph (i) of this paragraph, the Board may consider the completion of postdoctoral course work in psychology, not to exceed 9 semester hours.</section>

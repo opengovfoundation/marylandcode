@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-505" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">An action pursuant to this subtitle shall be brought in the circuit court where the alleged condition, activity, or failure complained of is occurring, has occurred, or is likely to occur.</section>
     <section prefix="(b)">If the plaintiff is a person other than the State, an action does not lie under this subtitle unless the plaintiff, at least 30 days prior to the commencement of the action, has delivered a sufficient written notice of the alleged condition, activity, or failure to the agency of the State or its political subdivision responsible for initiating or instituting some official action as a result of the alleged condition, activity, or failure. A copy of the notice shall be simultaneously delivered to the Attorney General.</section>

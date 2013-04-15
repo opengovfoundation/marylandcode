@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-204" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-13-204</section_number>
-  <catch_line/>
+  <catch_line>The consideration payable shall be described in:...</catch_line>
+  <order_by>204</order_by>
   <text>The consideration payable shall be described in:<section prefix=""><section prefix="(1)">the recitals or the acknowledgment of the instrument of writing; or</section><section prefix="(2)">a statement under oath that accompanies the instrument of writing and that is signed by a party to the instrument or by an agent of a party.</section></section></text>
 </law>

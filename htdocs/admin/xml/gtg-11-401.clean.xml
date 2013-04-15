@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-401" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">A vendor is a trustee for the State and is liable for the collection of the sales and use tax for and on account of the State.</section>
     <section prefix="(b)">A vendor has the same rights to collect the sales and use tax from a buyer and the same rights regarding the nonpayment of the sales and use tax by a buyer that the vendor would have if the sales and use tax were a part of the purchase price of the tangible personal property or taxable service at the time of the sale.</section>

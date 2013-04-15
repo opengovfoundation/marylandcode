@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-302" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">If the Commission determines that it is feasible, reasonable, and economical, the Commission may place in a separate class a water or sanitary sewer connection that is made to a water or sewer line installed in a street, road, alley, or right-of-way that has not been paved or otherwise improved to avoid the necessity of replacing pavement or street improvements on installation of the connection.</section>
     <section prefix="(b)">

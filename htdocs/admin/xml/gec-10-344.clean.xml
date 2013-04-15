@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-344" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-344</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>344</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Maryland Health Care Commission shall notify in writing:<section prefix="(i)">the Authority and the Health Services Cost Review Commission when a hospital files a written notice of intent to close under &#xA7; 19-120(l) of the Health - General Article; and</section><section prefix="(ii)">the Authority when a petition for delicensure of a hospital is filed with the Secretary of Health and Mental Hygiene under &#xA7; 19-325 of the Health - General Article.</section></section>

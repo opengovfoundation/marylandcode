@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The express terms of an agreement and any course of performance, course of dealing, or usage of trade must be construed whenever reasonable as consistent with each other. However, if that construction is unreasonable:<section prefix="(1)">Express terms prevail over course of performance, course of dealing, and usage of trade;</section><section prefix="(2)">Course of performance prevails over course of dealing and usage of trade; and</section><section prefix="(3)">Course of dealing prevails over usage of trade.</section></section>
     <section prefix="(b)">An applicable usage of trade in the place where any part of performance is to occur must be used in interpreting the agreement as to that part of the performance.</section>

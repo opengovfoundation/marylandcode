@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-305" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-6-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">In this section, "tax setoff" means:<section prefix="(1)">the difference between the general county property tax rate and the property tax rate that is set for assessments of property in a municipal corporation; or</section><section prefix="(2)">a payment to a municipal corporation to aid the municipal corporation in funding services or programs that are similar to county services or programs.</section></section>
     <section prefix="(b)">This section applies only in:<section prefix="(1)">Allegany County;</section><section prefix="(2)">Anne Arundel County;</section><section prefix="(3)">Baltimore County;</section><section prefix="(4)">Frederick County;</section><section prefix="(5)">Garrett County;</section><section prefix="(6)">Harford County;</section><section prefix="(7)">Howard County;</section><section prefix="(8)">Montgomery County; and</section><section prefix="(9)">Prince George's County.</section></section>
@@ -15,7 +15,7 @@
     <section prefix="(f)">
       <section prefix="(1)">At least 180 days before the date that the annual county budget is required to be approved, any municipal corporation in the county that desires that a tax setoff be provided shall submit to the county a proposal that states the desired level of property tax setoff for the next fiscal year.</section>
       <section prefix="(2)">
-        <section prefix="(i)">A request submitted under paragraph (1) of this subsection shall be accompanied by:</section>
+        <section prefix="(i)">A request submitted under paragraph (1) of this subsection shall be accompanied by:<section prefix="1.">a description of the scope and nature of the services or programs provided by the municipal corporation instead of similar services or programs provided by the county; and</section><section prefix="2.">financial records and other documentation regarding municipal revenues and expenditures.</section></section>
         <section prefix="(ii)">The materials submitted under subparagraph (i) of this paragraph shall provide sufficient detail for an assessment of the similar services or programs.</section>
       </section>
       <section prefix="(3)">After receiving a proposal from a municipal corporation requesting a tax setoff under this subsection, the governing body of the county shall promptly submit to the municipal corporation financial records and other documentation regarding county revenues and expenditures.</section>

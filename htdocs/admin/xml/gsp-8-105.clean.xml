@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-105" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-8-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">This section applies only to the Standard Pay Plan.</section>
     <section prefix="(b)">With the approval of the Governor, the Secretary may amend the Standard Pay Plan to increase pay rates for specific classes to:<section prefix="(1)">recruit or retain competent personnel; or</section><section prefix="(2)">ensure that pay rates adequately compensate for the effort, knowledge, responsibility, skills, and working conditions of employees in the class.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-334" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-334</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>334</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each religious corporation subject to this part may adopt bylaws to govern its corporate and temporal affairs, including the qualifications of voters at congregational meetings and the establishment of a minimum voting age of not less than 16.</section>

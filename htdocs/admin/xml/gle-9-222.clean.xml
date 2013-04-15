@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-222" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-222</section_number>
-  <catch_line/>
+  <catch_line>An individual is not a covered employee if the individual:...</catch_line>
+  <order_by>222</order_by>
   <text>An individual is not a covered employee if the individual:<section prefix=""><section prefix="(1)">is a licensed real estate salesperson or a licensed associate real estate broker;</section><section prefix="(2)">is affiliated with a licensed real estate broker under a written agreement;</section><section prefix="(3)">is compensated solely on a commission basis; and</section><section prefix="(4)">for federal tax purposes, qualifies as an independent contractor.</section></section></text>
 </law>

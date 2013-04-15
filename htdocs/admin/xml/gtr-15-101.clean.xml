@@ -1,19 +1,22 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-101" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Administration funds" means any payment or other money which is:<section prefix="(1)">Paid to a person licensed under Subtitle 2, 3, 4, or 6 of this title; and</section><section prefix="(2)">Owed to the Administration for payment of taxes or fees.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">"Dealer" means, except as provided in paragraph (3) of this subsection, a dealer in vehicles of a type required to be registered under Title 13 of this article.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Dealer" includes:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">"Dealer" includes:<section prefix="1.">A person who is in the business of buying, selling, or exchanging vehicles, including a person who during any 12-month period offers to sell three or more of these vehicles, the ownership of which was acquired for resale purposes; and</section><section prefix="2.">For the purposes of &#xA7;&#xA7; 15-301 through 15-315, inclusive, of this title, any person who sells vehicles, whether or not that person acquired the vehicles for personal or business use, if the vehicles are displayed at a fixed location used principally for the purpose of selling vehicles on a regular basis.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">For the purposes of subparagraph (i)1 of this paragraph, a person who offers to sell three or more vehicles during any 12-month period is presumed to have acquired the vehicles for resale purposes.</section>
+          <section prefix="2.">The vehicle owner has the burden of rebutting the presumption established under sub-subparagraph 1 of this subparagraph by a preponderance of the evidence.</section>
+        </section>
       </section>
       <section prefix="(3)">"Dealer" does not include:<section prefix="(i)">A public official who sells or disposes of vehicles in the performance of his official duties;</section><section prefix="(ii)">An insurance company, finance company, bank, or other lending institution licensed or otherwise authorized to do business in this State that, to save it from loss, sells or disposes of vehicles under a contractual right and in the regular course of its business;</section><section prefix="(iii)">A licensed auctioneer acting on behalf of a seller, secured party or owner and where title does not pass to the auctioneer and the auction is not for the purpose of avoiding the provisions of this title;</section><section prefix="(iv)">A receiver, trustee, personal representative, or other person appointed by or acting under the authority of any court;</section><section prefix="(v)">Either a manufacturer or distributor who sells or distributes vehicles to licensed dealers or a person employed by a manufacturer or distributor to promote the sale of the vehicles of the manufacturer or distributor, if that manufacturer, distributor, or person does not sell vehicles to retail buyers;</section><section prefix="(vi)">A person who sells or disposes of vehicles acquired and used for personal or business use and not for the purpose of avoiding the provisions of this title, if that person is not engaged in buying, selling, or exchanging vehicles as a business;</section><section prefix="(vii)">An automotive dismantler and recycler who during the normal course of business acquires a salvage vehicle and transfers the vehicle on a salvage certificate. However, if the automotive dismantler and recycler rebuilds and sells more than 5 vehicles during a 12-month period to a person other than another automotive dismantler and recycler or licensed dealer, the automotive dismantler and recycler must be licensed as a dealer under &#xA7; 15-302 of this title;</section><section prefix="(viii)">A person engaged in the leasing of motor vehicles under leases not intended as security; or</section><section prefix="(ix)">A religious, charitable, or volunteer organization exempt from taxation under &#xA7; 501(c) of the Internal Revenue Code, the Department of Human Resources, or a local department of social services transferring a vehicle under &#xA7; 13-810 of this article.</section></section>
     </section>
@@ -22,7 +25,7 @@
     <section prefix="(f)">"Two-stage vehicle" means a two-stage vehicle, as defined in &#xA7; 13-113.2 of this article, that is of a type required to be registered under Title 13 of this article.</section>
     <section prefix="(g)">
       <section prefix="(1)">"Vehicle salesman" means, except as provided in paragraph (2) of this subsection, any individual who:<section prefix="(i)">For a commission or other compensation, under any form of agreement or arrangement with a dealer, buys, sells, or exchanges or negotiates or attempts to negotiate a sale or exchange of an interest in a vehicle of a type required to be registered under Title 13 of this article; or</section><section prefix="(ii)">Induces or attempts to induce any other person to buy or exchange an interest in a vehicle of a type required to be registered under Title 13 of this article and receives or expects to receive a commission or other compensation from either the seller or the buyer of the vehicle.</section></section>
-      <section prefix="(2)">"Vehicle salesman" does not include:<section prefix="(i)">A person described in subsection (c)(3) of this section;</section><section prefix="(ii)">An individual acting as a representative of a person described in subsection (c)(3) of this section;</section><section prefix="(iii)">A person who:</section><section prefix="(iv)">A person engaged in the leasing of vehicles under leases not intended as security.</section></section>
+      <section prefix="(2)">"Vehicle salesman" does not include:<section prefix="(i)">A person described in subsection (c)(3) of this section;</section><section prefix="(ii)">An individual acting as a representative of a person described in subsection (c)(3) of this section;</section><section prefix="(iii)">A person who:<section prefix="1.">Is compensated for arranging for the leasing of a vehicle for a period exceeding 180 days; and</section><section prefix="2.">As an incidental step in the consummation of the lease, induces or arranges for the sale of a vehicle from a licensed dealer to another person, who in turn leases the vehicle to a lessee under a lease not intended as a security; or</section></section><section prefix="(iv)">A person engaged in the leasing of vehicles under leases not intended as security.</section></section>
     </section>
   </text>
 </law>

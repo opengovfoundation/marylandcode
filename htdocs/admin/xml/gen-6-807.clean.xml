@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-807" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">There is a Lead Poisoning Prevention Commission in the Department.</section>
     <section prefix="(b)">
       <section prefix="(1)">The Commission consists of 19 members.</section>
-      <section prefix="(2)">Of the 19 members:<section prefix="(i)">One shall be a member of the Senate of Maryland, appointed by the President of the Senate;</section><section prefix="(ii)">One shall be a member of the Maryland House of Delegates, appointed by the Speaker of the House; and</section><section prefix="(iii)">17 shall be appointed by the Governor as follows:</section></section>
+      <section prefix="(2)">Of the 19 members:<section prefix="(i)">One shall be a member of the Senate of Maryland, appointed by the President of the Senate;</section><section prefix="(ii)">One shall be a member of the Maryland House of Delegates, appointed by the Speaker of the House; and</section><section prefix="(iii)">17 shall be appointed by the Governor as follows:<section prefix="1.">The Secretary or the Secretary's designee;</section><section prefix="2.">The Secretary of Health and Mental Hygiene or the Secretary's designee;</section><section prefix="3.">The Secretary of Housing and Community Development or the Secretary's designee;</section><section prefix="4.">The Maryland Insurance Commissioner or the Commissioner's designee;</section><section prefix="5.">The Director of the Early Childhood Development Division, State Department of Education, or the Director's designee;</section><section prefix="6.">A representative of local government;</section><section prefix="7.">A representative from an insurer that offers premises liability coverage in the State;</section><section prefix="8.">A representative of a financial institution that makes loans secured by rental property;</section><section prefix="9.">A representative of owners of rental property located in Baltimore City built before 1950;</section><section prefix="10.">A representative of owners of rental property located outside Baltimore City built before 1950;</section><section prefix="11.">A representative of owners of rental property built after 1949;</section><section prefix="12.">A representative of a child health or youth advocacy group;</section><section prefix="13.">A health care provider;</section><section prefix="14.">A child advocate;</section><section prefix="15.">A parent of a lead poisoned child;</section><section prefix="16.">A lead hazard identification professional; and</section><section prefix="17.">A representative of child care providers.</section></section></section>
       <section prefix="(3)">In appointing members to the Commission, the Governor shall give due consideration to appointing members representing geographically diverse jurisdictions across the State.</section>
     </section>
     <section prefix="(c)">

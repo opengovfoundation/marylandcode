@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-602" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-602</section_number>
-  <catch_line/>
+  <catch_line>It is the intent of the General Assembly that each animal in the State be protected from intentional...</catch_line>
+  <order_by>602</order_by>
   <text>It is the intent of the General Assembly that each animal in the State be protected from intentional cruelty, including animals that are:<section prefix=""><section prefix="(1)">privately owned;</section><section prefix="(2)">strays;</section><section prefix="(3)">domesticated;</section><section prefix="(4)">feral;</section><section prefix="(5)">farm animals;</section><section prefix="(6)">corporately or institutionally owned; or</section><section prefix="(7)">used in privately, locally, State, or federally funded scientific or medical activities.</section></section></text>
 </law>

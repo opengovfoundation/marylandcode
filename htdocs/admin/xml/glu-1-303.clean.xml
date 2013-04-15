@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-303" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-1-303</section_number>
-  <catch_line/>
+  <catch_line>Except as provided in &#xA7; 1-304 of this subtitle, when a provision in a statute listed under &#xA7; 1-302...</catch_line>
+  <order_by>303</order_by>
   <text>Except as provided in &#xA7; 1-304 of this subtitle, when a provision in a statute listed under &#xA7; 1-302 of this subtitle requires an action to be "consistent with" or have "consistency with" a comprehensive plan, the term shall mean an action taken that will further, and not be contrary to, the following items in the plan:<section prefix=""><section prefix="(1)">policies;</section><section prefix="(2)">timing of the implementation of the plan;</section><section prefix="(3)">timing of development;</section><section prefix="(4)">timing of rezoning;</section><section prefix="(5)">development patterns;</section><section prefix="(6)">land uses; and</section><section prefix="(7)">densities or intensities.</section></section></text>
 </law>

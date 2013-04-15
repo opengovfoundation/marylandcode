@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-113" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-14-113</section_number>
-  <catch_line/>
+  <catch_line>The State Prosecutor shall meet and confer regularly with the Attorney General and the State's Attor...</catch_line>
+  <order_by>113</order_by>
   <text>The State Prosecutor shall meet and confer regularly with the Attorney General and the State's Attorneys.</text>
 </law>

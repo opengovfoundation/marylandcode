@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-527" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-527</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>527</order_by>
   <text>
     <section prefix="(a)">The qualified rate order shall set forth the rate stabilization costs to be recovered and the period over which the nonbypassable qualified rate stabilization charges shall be recovered.</section>
     <section prefix="(b)">The recovery period may not exceed 12 years.</section>

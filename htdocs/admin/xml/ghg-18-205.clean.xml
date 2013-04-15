@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-205" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">In this section, "clinical material" means:<section prefix="(1)">An organism isolated from a clinical specimen;</section><section prefix="(2)">Material derived or prepared from a clinical specimen in which evidence of a communicable disease has been identified or detected; or</section><section prefix="(3)">If the organism or material described in subparagraph (i) or (ii) of this paragraph is not available, material from an individual that has already been obtained by the medical laboratory, in the following order of preference:<section prefix="(i)">A patient specimen;</section><section prefix="(ii)">Microbial genetic material; or</section><section prefix="(iii)">Other laboratory material.</section></section></section>
     <section prefix="(b)">

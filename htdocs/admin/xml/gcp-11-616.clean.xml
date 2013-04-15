@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-616" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-616</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>616</order_by>
   <text>
     <section prefix="(a)">The Division or the Department of Juvenile Services:<section prefix="(1)">in addition to other actions authorized under Part I of this subtitle, may refer an overdue restitution account for collection to the Central Collection Unit; and</section><section prefix="(2)">if probation or other supervision is terminated and restitution is still owed, shall refer the overdue restitution account for collection to the Central Collection Unit.</section></section>
     <section prefix="(b)">Subject to subsection (c) of this section, the Central Collection Unit may:<section prefix="(1)">collect overdue restitution in accordance with Title 3, Subtitle 3 of the State Finance and Procurement Article; and</section><section prefix="(2)">certify a restitution obligor who is in arrears on restitution payments exceeding $30 under the judgment of restitution to:<section prefix="(i)">the Comptroller for income tax refund interception in accordance with Title 13, Subtitle 9, Part III of the Tax - General Article; and</section><section prefix="(ii)">the State Lottery Agency for State lottery prize interception in accordance with &#xA7; 11-618 of this subtitle.</section></section></section>
@@ -15,7 +15,7 @@
     </section>
     <section prefix="(d)">If complete restitution and interest have been paid or a judgment of restitution has been compromised and settled as provided in subsection (c) of this section, the Division, the Department of Juvenile Services, or the Central Collection Unit immediately shall notify:<section prefix="(1)">the court that issued the judgment by filing the statement as provided under &#xA7; 11-608(c) of this subtitle that the judgment has been satisfied; and</section><section prefix="(2)">the last known employer of a restitution obligor to terminate an earnings withholding order issued under &#xA7; 11-617 of this subtitle.</section></section>
     <section prefix="(e)">
-      <section prefix="(1)">Restitution is overdue if the restitution or a restitution payment is not paid:<section prefix="(i)">by the date that the court orders; or</section><section prefix="(ii)">if no date is ordered, by the later of:</section></section>
+      <section prefix="(1)">Restitution is overdue if the restitution or a restitution payment is not paid:<section prefix="(i)">by the date that the court orders; or</section><section prefix="(ii)">if no date is ordered, by the later of:<section prefix="1.">the date the Division or the Department of Juvenile Services directs the restitution obligor to pay restitution or make a restitution payment; or</section><section prefix="2.">30 days after the court enters a judgment of restitution.</section></section></section>
       <section prefix="(2)">If restitution is overdue, the amount of the arrearage is the amount of restitution ordered and any interest allowed by law, minus any amount previously paid or received under the judgment of restitution.</section>
     </section>
   </text>

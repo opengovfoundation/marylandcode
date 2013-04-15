@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-509" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">If the substance of a duty imposed upon a securities intermediary by &#xA7;&#xA7; 8-504 through 8-508 of this subtitle is the subject of other statute, regulation, or rule, compliance with that statute, regulation, or rule satisfies the duty.</section>
     <section prefix="(b)">To the extent that specific standards for the performance of the duties of a securities intermediary or the exercise of the rights of an entitlement holder are not specified by other statute, regulation, or rule or by agreement between the securities intermediary and entitlement holder, the securities intermediary shall perform its duties and the entitlement holder shall exercise its rights in a commercially reasonable manner.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-829" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-829</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>829</order_by>
   <text>
     <section prefix="(a)">In this Part IV the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
     </section>
     <section prefix="(c)">
       <section prefix="(1)">
-        <section prefix="(i)">"Applicant" means an individual or business entity that is:</section>
+        <section prefix="(i)">"Applicant" means an individual or business entity that is:<section prefix="1.">a title owner or contract purchaser of land that is the subject of an application;</section><section prefix="2.">a trustee that has an interest in land that is the subject of an application, excluding trustees described in a mortgage or deed of trust; or</section><section prefix="3.">a holder of 5 percent or greater interest in a business entity that has an interest in land that is the subject of an application but only if:</section></section>
         <section prefix="(ii)">Where the applicant is a corporation, the term also includes the directors and officers of the corporation which actually holds title to the land, or is a contract purchaser of the land, which is the subject of an application, but does not include the directors and officers of any entity which does not hold title to, or is not the contract purchaser of, land which is the subject of an application.</section>
       </section>
       <section prefix="(2)">"Applicant" includes any business entity in which a person described in paragraph (1) of this subsection holds a 5 percent or greater interest.</section>

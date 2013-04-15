@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-209" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-6-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A public service company shall list in its annual report the name and address of:<section prefix="(i)">each principal officer, director, trustee, or partner of the public service company and its parent; and</section><section prefix="(ii)">each individual exercising functions similar to that of a director, trustee, or partner on behalf of the public service company and its parent.</section></section>

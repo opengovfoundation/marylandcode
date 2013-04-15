@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-203" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission shall:<section prefix="(i)">impose an environmental surcharge per kilowatt hour of electricity distributed to retail electric customers within the State; and</section><section prefix="(ii)">authorize each electric company to add the full amount of the surcharge to its customers' bills.</section></section>

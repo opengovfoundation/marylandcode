@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-110" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-14-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">The State Prosecutor has all the powers and duties of a State's Attorney, including the use of a grand jury in any county, when the State Prosecutor:<section prefix="(1)">investigates a case under &#xA7; 14-107 of this title; or</section><section prefix="(2)">prosecutes a case under &#xA7; 14-109 of this title.</section></section>
     <section prefix="(b)">

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-708.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-708.1</section_number>
-  <catch_line/>
+  <catch_line>The Board shall:...</catch_line>
+  <order_by>708.1</order_by>
   <text>The Board shall:<section prefix=""><section prefix="(1)">Carry out the licensing, inspection, and enforcement provisions of this subtitle;</section><section prefix="(2)">Advise the Department regarding matters affecting the horse industry in the State;</section><section prefix="(3)">Support research related to equine health and related issues;</section><section prefix="(4)">Promote the development and use of horses in the State;</section><section prefix="(5)">Create public awareness of the value of equine activities as they relate to the preservation of green space and agricultural land; and</section><section prefix="(6)">Develop and disseminate information concerning the equine industry, including the history and tradition of breeding and the role of horses in recreational activities.</section></section></text>
 </law>

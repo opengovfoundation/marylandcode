@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1102" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-1102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1102</order_by>
   <text>
     <section prefix="(a)">A person may not redeposit in an unconfined manner dredged material from Baltimore Harbor into or onto any portion of the water or bottomland of the Chesapeake Bay or of the tidewater portions of any of the Chesapeake Bay's tributaries outside of Baltimore Harbor. However, the dredged material may be redeposited in contained areas approved by the Department.</section>
     <section prefix="(b)">A person may not redeposit in an unconfined manner Baltimore County tributary dredged material into or onto any portion of the water or bottomland of the Chesapeake Bay or of the tidewater portions of any of the Chesapeake Bay's tributaries within 5 miles of the Hart-Miller-Pleasure Island chain in Baltimore County.</section>

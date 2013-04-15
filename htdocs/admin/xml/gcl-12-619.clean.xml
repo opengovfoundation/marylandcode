@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-619" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-619</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>619</order_by>
   <text>
     <section prefix="(a)">The holder of an installment sale agreement on which the finance charge is computed in advance may:<section prefix="(1)">By agreement with the buyer, extend the scheduled due date or defer the scheduled payment of all or part of the installments payable under it; and</section><section prefix="(2)">Charge the buyer an extension or deferral charge.</section></section>
     <section prefix="(b)">The extension or deferral charge may not exceed an amount equal to 1 percent per month of the amount extended or deferred for the period of extension or deferral.</section>

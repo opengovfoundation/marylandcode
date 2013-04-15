@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-603" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">If tender of payment of an obligation to pay an instrument is made to a person entitled to enforce the instrument, the effect of tender is governed by principles of law applicable to tender of payment under a simple contract.</section>
     <section prefix="(b)">If tender of payment of an obligation to pay an instrument is made to a person entitled to enforce the instrument and the tender is refused, there is discharge, to the extent of the amount of the tender, of the obligation of an indorser or accommodation party having a right of recourse with respect to the obligation to which the tender relates.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-245" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-245</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>245</order_by>
   <text>
     <section prefix="(a)">The Department shall establish a schedule for the inspection of each controlled hazardous substance facility based on:<section prefix="(1)">The size of the facility;</section><section prefix="(2)">The amount of hazardous waste handled by the facility;</section><section prefix="(3)">The nature of the waste handled by the facility; and</section><section prefix="(4)">The record of compliance by the facility with this subtitle and the regulations adopted under this subtitle.</section></section>
     <section prefix="(b)">

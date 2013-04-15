@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-220" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">In addition to any other penalty provided by the provisions of this title, the Secretary may revoke or suspend any recreational license issued to any person under this title.</section>
     <section prefix="(b)">The Secretary may adopt regulations that list the criteria for a suspension of a person's entitlement to engage in an activity or activities that are licensed or permitted under this title.</section>
@@ -16,8 +16,8 @@
       <section prefix="(4)">The Department shall initiate any proceeding to suspend a license under this section not later than 6 months after the time for filing an appeal of the third conviction under paragraph (2)(ii) of this subsection has passed.</section>
       <section prefix="(5)">
         <section prefix="(i)">Before the suspension of a license under this section, the Department shall notify the licensee in writing of the licensee's right to a hearing on request.</section>
-        <section prefix="(ii)">If a licensee submits a written request for a hearing to the Department within 30 days after the date that the notice required under this paragraph is mailed, the Department shall:</section>
-        <section prefix="(iii)">The Department may suspend a recreational license issued under this title without a hearing if:</section>
+        <section prefix="(ii)">If a licensee submits a written request for a hearing to the Department within 30 days after the date that the notice required under this paragraph is mailed, the Department shall:<section prefix="1.">Hold a hearing after providing at least 10 days' notice to the licensee; and</section><section prefix="2.">Conduct the hearing in accordance with Title 10, Subtitle 2 of the State Government Article.</section></section>
+        <section prefix="(iii)">The Department may suspend a recreational license issued under this title without a hearing if:<section prefix="1.">The licensee does not submit a written request for a hearing; or</section><section prefix="2.">The licensee fails to appear for a scheduled hearing for which the Department provided notice.</section></section>
       </section>
     </section>
   </text>

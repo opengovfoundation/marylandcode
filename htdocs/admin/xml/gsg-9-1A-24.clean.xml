@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1A-24" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9-1A-24</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>24</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the Commission shall ensure that a video lottery operation licensee complies with the requirements of this section as a condition of holding the video lottery operation license.</section>
     <section prefix="(b)">
@@ -32,7 +32,7 @@
       <section prefix="(1)">A video lottery operation licensee may not, directly or indirectly, interfere with, hinder, obstruct, impede, or take any action to delay the implementation or establishment of a video lottery facility by any other licensee or applicant for a video lottery operation license awarded or issued under this subtitle.</section>
       <section prefix="(2)">
         <section prefix="(i)">The Commission shall adopt regulations, to the fullest extent allowed by the first amendment of the Constitution of the United States, to carry out the provisions of this subsection.</section>
-        <section prefix="(ii)">The regulations adopted under this subsection shall include provisions:</section>
+        <section prefix="(ii)">The regulations adopted under this subsection shall include provisions:<section prefix="1.">that expressly prohibit:</section><section prefix="2.">that prohibit, as unlawful indirect conduct, activity:</section><section prefix="3.">that allow the Commission to impose sanctions and penalties in accordance with &#xA7; 9-1A-25 of this subtitle if a licensee knowingly violates paragraph (1) of this subsection.</section></section>
       </section>
     </section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-305" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="a.">Only the states of Pennsylvania, West Virginia, Delaware, and Maryland are eligible to become parties to this compact.</section>
     <section prefix="b.">An eligible state may become a party state by legislative enactment of this compact or by executive order of the Governor adopting this compact; provided, however, a state becoming a party state by executive order shall cease to be a party state upon adjournment of the first general session of its legislature convened thereafter, unless the legislature shall have enacted this compact before such adjournment.</section>

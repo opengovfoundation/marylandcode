@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-814" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-814</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>814</order_by>
   <text>
     <section prefix="(a)">When an inspection by a State inspector discloses that an elevator unit is in unsafe condition so that its continued operation will violate the Safety Code, or any other regulation adopted by the Commissioner under Part II of this subtitle, a citation may be issued and penalties may be assessed in accordance with &#xA7;&#xA7; 12-814.2 and 12-814.3 of this subtitle.</section>
     <section prefix="(b)">

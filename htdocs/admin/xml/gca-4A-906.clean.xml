@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-906" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-906</section_number>
-  <catch_line/>
+  <catch_line>On the winding up and termination of a limited liability company, the assets shall be distributed as...</catch_line>
+  <order_by>906</order_by>
   <text>On the winding up and termination of a limited liability company, the assets shall be distributed as follows:<section prefix=""><section prefix="(1)">To creditors, including members who are creditors, to the extent permitted by law, in satisfaction of the liabilities of the limited liability company; and</section><section prefix="(2)">Unless otherwise agreed, to the members in proportion to their respective capital contribution values, after the capital contribution values are adjusted by:<section prefix="(i)">Adding to the members' capital contribution values their respective shares of the profits of the limited liability company; and</section><section prefix="(ii)">Deducting from the members' capital contribution values their respective shares of the losses of the limited liability company and all distributions previously received by the members.</section></section></section></text>
 </law>

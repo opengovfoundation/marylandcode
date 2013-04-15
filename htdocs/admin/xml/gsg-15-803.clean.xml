@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-803" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">Subject to &#xA7; 15-209 of this title, each county and each municipal corporation shall enact provisions to govern the public ethics of local officials relating to:<section prefix="(1)">conflicts of interest;</section><section prefix="(2)">financial disclosure; and</section><section prefix="(3)">lobbying.</section></section>
     <section prefix="(b)">Each local ethics commission or appropriate entity shall certify to the Ethics Commission that the county or municipal corporation is in compliance with the requirements for elected local officials of this Part I on or before October 1 of each year.</section>

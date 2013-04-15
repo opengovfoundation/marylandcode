@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1811" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-1811</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1811</order_by>
   <text>
     <section prefix="(a)">Rental units developed under this subtitle shall remain affordable as workforce housing for a period of at least 25 years.</section>
     <section prefix="(b)">If an original buyer of a homeownership workforce housing unit developed through the Program transfers title to the unit at any time, the original buyer shall pay to the Department 100% of the combined amount of Program funds and qualifying local government matching funds used to develop the unit.</section>

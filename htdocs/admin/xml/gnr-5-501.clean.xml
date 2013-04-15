@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-501" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following terms have the meanings indicated.</section>
     <section prefix="(b)">"Cutting operation" means the cutting of timber for commercial purposes from five acres or more of land on which loblolly pine (Pinus taeda), shortleaf pine (Pinus echinata), or pond pine (Pinus serotina), singly or together occur and constitute 25 percent or more of the live trees on each acre.</section>

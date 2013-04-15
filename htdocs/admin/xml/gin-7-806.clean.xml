@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-806" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, when an order for liquidation, conservation, or rehabilitation of a domestic insurer is entered, the receiver appointed under the order may recover for the domestic insurer the following distributions and payments made within 1 year before the petition for liquidation, conservation, or rehabilitation was filed:<section prefix="(i)">from any parent corporation, holding company, affiliate, or person that otherwise controlled the domestic insurer, the amount of distributions, other than distributions of shares of the same class of stock, paid by the domestic insurer on its capital stock; and</section><section prefix="(ii)">any payment in the form of a bonus, termination settlement, or extraordinary lump sum salary adjustment made by the domestic insurer or its subsidiaries to a director, officer, or employee.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-706" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, a license is effective until it is:<section prefix="(1)">surrendered by the licensee; or</section><section prefix="(2)">revoked for cause by the Comptroller.</section></section>
     <section prefix="(b)">

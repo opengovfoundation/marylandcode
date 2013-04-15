@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-207" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">Each pest control consultant, pest control applicator, or public agency applicator shall obtain an annual certificate indicating competence in one or more established categories from the Secretary. Each private applicator shall obtain a certificate which shall require periodic renewal as determined by the Secretary.</section>
     <section prefix="(b)">Each application for a certificate by a pest control consultant or pest control applicator shall be accompanied by a $75 certificate fee plus $25 for each category in excess of one. Each application for a private applicator certificate shall be accompanied by a fee of $7.</section>

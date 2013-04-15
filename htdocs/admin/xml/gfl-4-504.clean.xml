@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-504" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-4-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">A petitioner may seek relief from abuse by filing with a court, or with a commissioner under the circumstances specified in &#xA7; 4-504.1(a) of this subtitle, a petition that alleges abuse of any person eligible for relief by the respondent.</section>
     <section prefix="(b)">
-      <section prefix="(1)">The petition shall:<section prefix="(i)">be under oath; and</section><section prefix="(ii)">include any information known to the petitioner of:</section></section>
+      <section prefix="(1)">The petition shall:<section prefix="(i)">be under oath; and</section><section prefix="(ii)">include any information known to the petitioner of:<section prefix="1.">the nature and extent of the abuse for which the relief is being sought, including information known to the petitioner concerning previous injury resulting from abuse by the respondent;</section><section prefix="2.">each previous action between the parties in any court;</section><section prefix="3.">each pending action between the parties in any court;</section><section prefix="4.">the whereabouts of the respondent, if known;</section><section prefix="5.">if financial relief is requested, information known to the petitioner regarding the financial resources of the respondent; and</section><section prefix="6.">in a case of alleged child abuse or alleged abuse of a vulnerable adult, the whereabouts of the child or vulnerable adult and any other information relating to the abuse of the child or vulnerable adult.</section></section></section>
       <section prefix="(2)">If the petition states that disclosure of the address of a person eligible for relief would risk further abuse of a person eligible for relief, or reveal the confidential address of a shelter for domestic violence victims, that address may be omitted from all documents filed with a commissioner or filed with, or transferred to, a court. If disclosure is necessary to determine jurisdiction or consider any venue issue, it shall be made orally and in camera and may not be disclosed to the respondent.</section>
     </section>
     <section prefix="(c)">The petitioner may not be required to pay a filing fee or costs for the issuance or service of:<section prefix="(1)">an interim protective order;</section><section prefix="(2)">a temporary protective order;</section><section prefix="(3)">a final protective order; or</section><section prefix="(4)">a witness subpoena.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-2-302</section_number>
-  <catch_line/>
+  <catch_line>When a court or jury finds a person guilty of murder, the court or jury shall state in the verdict w...</catch_line>
+  <order_by>302</order_by>
   <text>When a court or jury finds a person guilty of murder, the court or jury shall state in the verdict whether the person is guilty of murder in the first degree or murder in the second degree.</text>
 </law>

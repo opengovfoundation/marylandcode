@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-308" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-308</section_number>
-  <catch_line/>
+  <catch_line>Nothing in this subtitle may be construed to infringe on the speech of a religious leader or other i...</catch_line>
+  <order_by>308</order_by>
   <text>Nothing in this subtitle may be construed to infringe on the speech of a religious leader or other individual during peaceable activity intended to express the leader's or individual's religious beliefs or convictions.</text>
 </law>

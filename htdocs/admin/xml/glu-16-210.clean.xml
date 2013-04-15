@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-210" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-16-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">A mediator may be used in the collective bargaining process whenever:<section prefix="(1)">the Commission and the employee organization agree to mediation; or</section><section prefix="(2)">an impasse results, and the Commission or the employee organization requests mediation.</section></section>
     <section prefix="(b)">

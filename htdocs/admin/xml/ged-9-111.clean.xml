@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-111" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-9-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If, with the approval of the State Superintendent, a county board determines that a school site or building no longer is needed for school purposes and after the county commissioners or county council have provided the required notice under &#xA7; 4-115 of this article, the county board shall inform the public charter schools in the county that the school site or building is available for occupation and use by a public charter school on the terms determined by the county board.</section>

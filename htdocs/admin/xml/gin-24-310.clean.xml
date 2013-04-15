@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-310" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-24-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">Consistent with minority business purchasing standards applicable to units of State government under the State Finance and Procurement Article and consistent with the fiduciary duties of the Board, the Board shall attempt to use to the greatest extent feasible minority business enterprises to provide brokerage and investment management services to the Board.</section>
     <section prefix="(b)">For purposes of this section, brokerage and investment management services shall include services relating to all allocated asset classes.</section>

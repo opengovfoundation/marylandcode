@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-323" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-323</section_number>
-  <catch_line/>
+  <catch_line>If the goods of a third party are distrained on and sold under an action of distress, the third part...</catch_line>
+  <order_by>323</order_by>
   <text>If the goods of a third party are distrained on and sold under an action of distress, the third party has a right of action against the tenant for damages for any loss sustained by the third party as a result of the levy and sale of the third party's goods under distress. The action for damages may be brought before the court before which the original action was brought, regardless of any monetary limitation of the civil jurisdiction of the court. If the action for damages is brought in any other court, only a certified copy of the record in the original court need be filed as evidence of the proceedings.</text>
 </law>

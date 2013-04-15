@@ -1,15 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-305" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Except as otherwise provided in this section, a dealer who acquires a precious metal object shall keep it in the county where the dealer holds a license from the time of acquisition until at least 18 days after submitting a copy of a record of its acquisition under &#xA7; 12-304 of this subtitle.</section>
+          <section prefix="2.">Notwithstanding subparagraph (ii) of this paragraph, the 18-day holding period established under this subparagraph applies to a precious metal object that:</section>
+        </section>
         <section prefix="(ii)">A dealer who holds a license in Prince George's County and who acquires a precious metal object, other than a pawned precious metal object described in subparagraph (i)2 of this paragraph, shall keep it in Prince George's County from the time of acquisition until at least 30 days after submitting a copy of a record of its acquisition under &#xA7; 12-304 of this subtitle.</section>
       </section>
       <section prefix="(2)">A dealer who acquires a precious metal object at an event which takes place at a location other than the dealer's fixed business address shall place the object and a record of its acquisition at a location in accordance with subsection (d)(1) or (2) of this section by the next business day after acquiring the object.</section>

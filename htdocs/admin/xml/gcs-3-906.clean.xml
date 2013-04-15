@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-906" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-906</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>906</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall:<section prefix="(1)">provide a suitable and efficient place, enclosed from public view, in which an execution may be carried out;</section><section prefix="(2)">provide all of the materials that are necessary to perform the execution; and</section><section prefix="(3)">subject to subsection (c) of this section, select the individuals to perform the execution.</section></section>
     <section prefix="(b)">The Commissioner or the Commissioner's designee shall supervise the execution.</section>

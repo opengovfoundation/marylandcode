@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-125" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-125</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>125</order_by>
   <text>
     <section prefix="(a)">An approved firearm application is valid only for the purchase, rental, or transfer of the regulated firearm listed in the firearm application.</section>
     <section prefix="(b)">A licensee or other person may not sell, rent, or transfer a regulated firearm to a firearm applicant whose firearm application is placed on hold because of an open disposition of criminal proceedings against the firearm applicant or disapproved, unless the hold or disapproval has been subsequently withdrawn by the Secretary or overruled by a court in accordance with &#xA7; 5-127 of this subtitle.</section>

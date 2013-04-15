@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-3A-07" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-16-3A-07</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>07</order_by>
   <text>
     <section prefix="(a)">Unless a license is renewed for a 2-year term as provided in this section, the license expires on a staggered basis as determined by the Secretary.</section>
     <section prefix="(b)">At least 1 month before a license expires, the Commission shall mail to the licensee, at the last known address of the licensee:<section prefix="(1)">a renewal application form; and</section><section prefix="(2)">a notice that states:<section prefix="(i)">the date on which the current license expires; and</section><section prefix="(ii)">the amount of the renewal fee.</section></section></section>
@@ -17,7 +17,7 @@
       <section prefix="(3)">If a license expires on or before September 30, 2013, a licensee is not required to fulfill the continuing professional competency requirements.</section>
       <section prefix="(4)">If a license expires between October 1, 2013, and September 30, 2014, a licensee is required to fulfill 50% of the continuing professional competency requirements as provided in the regulations adopted by the Commission under this subsection.</section>
       <section prefix="(5)">If a license expires on or after October 1, 2014, a licensee is required to fulfill the full continuing professional competency requirements as provided in the regulations adopted by the Commission under this subsection.</section>
-      <section prefix="(6)">Educational hours from a continuing professional competency course satisfy the requirement of paragraph (1) of this subsection if:<section prefix="(i)">the course is offered by:</section><section prefix="(ii)">the Commission determines that the course increases the licensee's knowledge of the provision of home inspection services, including one or more components of an existing residential building.</section></section>
+      <section prefix="(6)">Educational hours from a continuing professional competency course satisfy the requirement of paragraph (1) of this subsection if:<section prefix="(i)">the course is offered by:<section prefix="1.">the American Society of Home Inspectors;</section><section prefix="2.">the National Association of Home Inspectors; or</section><section prefix="3.">any other provider approved by the Commission; and</section></section><section prefix="(ii)">the Commission determines that the course increases the licensee's knowledge of the provision of home inspection services, including one or more components of an existing residential building.</section></section>
     </section>
   </text>
 </law>

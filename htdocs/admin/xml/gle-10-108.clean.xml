@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-108" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-10-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">The State has no interest in the assets of the Fund.</section>
     <section prefix="(b)">All revenues, money, and assets of the Fund belong solely to the Fund and are held by the Fund in trust for the policyholders, injured workers and their families, and creditors of the Fund.</section>

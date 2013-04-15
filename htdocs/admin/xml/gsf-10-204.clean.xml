@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-10-204</section_number>
-  <catch_line/>
+  <catch_line>By regulation, the Board may require that any proposed contract, contract renewal, or change order, ...</catch_line>
+  <order_by>204</order_by>
   <text>By regulation, the Board may require that any proposed contract, contract renewal, or change order, of a designated class or monetary value, of any unit of the Executive Branch be brought to the Board for consideration and approval before execution.</text>
 </law>

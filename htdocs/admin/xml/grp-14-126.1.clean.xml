@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-126.1" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-126.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>126.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -20,9 +20,9 @@
     <section prefix="(c)">At the time of a foreclosure sale of residential property, the person responsible for conducting the foreclosure shall obtain from the foreclosure purchaser a written acknowledgment of the requirements of this section.</section>
     <section prefix="(d)">
       <section prefix="(1)">Within 30 days after a foreclosure sale of residential property, a foreclosure purchaser shall submit an initial registration to the Foreclosed Property Registry.</section>
-      <section prefix="(2)">The initial registration shall:<section prefix="(i)">Be in the form the Department requires; and</section><section prefix="(ii)">Contain the following information:</section></section>
+      <section prefix="(2)">The initial registration shall:<section prefix="(i)">Be in the form the Department requires; and</section><section prefix="(ii)">Contain the following information:<section prefix="1.">The name, telephone number, and address of the foreclosure purchaser;</section><section prefix="2.">The street address of the property that is the subject of the foreclosure sale;</section><section prefix="3.">The date of the foreclosure sale;</section><section prefix="4.">Whether the property is a single-family or multifamily property;</section><section prefix="5.">The name and address of the person, including a substitute purchaser, who is authorized to accept legal service for the foreclosure purchaser;</section><section prefix="6.">To the best of the foreclosure purchaser's knowledge at the time of registration:</section><section prefix="7.">Whether the foreclosure purchaser has possession of the property.</section></section></section>
       <section prefix="(3)">Within 30 days after a deed transferring title to the residential property has been recorded, the foreclosure purchaser shall submit a final registration to the Foreclosed Property Registry.</section>
-      <section prefix="(4)">The final registration shall:<section prefix="(i)">Be in the form the Department requires; and</section><section prefix="(ii)">Contain the following information as of the date of final registration:</section></section>
+      <section prefix="(4)">The final registration shall:<section prefix="(i)">Be in the form the Department requires; and</section><section prefix="(ii)">Contain the following information as of the date of final registration:<section prefix="1.">The name, telephone number, and address of the owner on the deed;</section><section prefix="2.">The date of the ratification of the sale; and</section><section prefix="3.">The date the deed was recorded.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">The filing fees for registering a residential property are:<section prefix="(i)">$50 for an initial registration filed within the time period required under subsection (d)(1) of this section; and</section><section prefix="(ii)">$100 for an initial registration filed after the time period required under subsection (d)(1) of this section.</section></section>
@@ -33,8 +33,8 @@
     <section prefix="(f)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, a local jurisdiction that, in accordance with any applicable building code or local ordinance, abates a nuisance on a residential property registered under this section or takes action to maintain a residential property registered under this section may collect the cost associated with the abatement or other action as a charge included on the residential property's property tax bill. 	</section>
       <section prefix="(2)">
-        <section prefix="(i)">The cost associated with an abatement or other action taken under paragraph (1) of this subsection may not be included as a charge on the residential property's property tax bill unless the local jurisdiction provides advance written notice in accordance with subparagraph (ii) of this paragraph to:</section>
-        <section prefix="(ii)">The notice described in subparagraph (i) of this paragraph shall:</section>
+        <section prefix="(i)">The cost associated with an abatement or other action taken under paragraph (1) of this subsection may not be included as a charge on the residential property's property tax bill unless the local jurisdiction provides advance written notice in accordance with subparagraph (ii) of this paragraph to:<section prefix="1.">The person identified in the registry who is authorized to accept legal service for the foreclosure purchaser; and</section><section prefix="2.">The person identified in the registry who is responsible for the maintenance of the property.</section></section>
+        <section prefix="(ii)">The notice described in subparagraph (i) of this paragraph shall:<section prefix="1.">Describe the intended abatement or other action the local jurisdiction intends to take; and</section><section prefix="2.">Be provided:</section></section>
       </section>
     </section>
     <section prefix="(g)">

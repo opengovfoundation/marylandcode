@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-908" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-908</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>908</order_by>
   <text>
     <section prefix="(a)">Any properly accredited person desiring to assist the Department in the control of wildlife injurious to agriculture or other interests, or to provide care and treatment of sick or injured wildlife for rehabilitation and release back to the wild, shall first obtain a wildlife cooperator permit from the Secretary.</section>
     <section prefix="(b)">

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-236" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-236</section_number>
-  <catch_line/>
+  <catch_line>An entity that at any time during an election cycle derives the majority of its operating funds from...</catch_line>
+  <order_by>236</order_by>
   <text>An entity that at any time during an election cycle derives the majority of its operating funds from the State may not make a contribution to any campaign finance entity during that election cycle.</text>
 </law>

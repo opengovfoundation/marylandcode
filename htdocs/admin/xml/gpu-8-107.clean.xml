@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-107" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the owner of timber growing along a telegraph or telephone line is not subject to an action for damages if:<section prefix="(1)">the telegraph or telephone line prevents the owner of the timber from cutting and felling the timber; and</section><section prefix="(2)">in cutting or felling the timber, the owner damages the telegraph or telephone line.</section></section>
     <section prefix="(b)">An owner of timber is subject to an action for damages if, in cutting and felling the timber, the owner willfully and intentionally injures the telegraph or telephone line.</section>

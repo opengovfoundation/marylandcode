@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-323" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-323</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>323</order_by>
   <text>
     <section prefix="(a)">In this section, "group home" means a foster home, emergency shelter, or family type residential facility for children that is:<section prefix="(1)">Sponsored by a public or private agency; and</section><section prefix="(2)">Supervised by foster parents, house parents, or counselors.</section></section>
     <section prefix="(b)">Any group home is exempt from any regulation governing food service facilities that is adopted by the Department or a local government, if the group home:<section prefix="(1)">At no time has more than 14 residents including house parents and supervisory, professional, and custodial staff members; and</section><section prefix="(2)">Has among its resident children only children placed in the group home by a court, a licensed child placement agency, or a government agency, including a local department of social services.</section></section>

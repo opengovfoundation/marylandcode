@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-249" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-249</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>249</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -17,7 +17,7 @@
       <section prefix="(4)">"Commercial marina" means a marina that leases at least 20% of its slips to commercial fishing vessels.</section>
       <section prefix="(5)">"Commercial marine repair facility" means a marine repair facility that derives at least 20% of its gross receipts from charges for the repair and maintenance of commercial fishing vessels.</section>
       <section prefix="(6)">
-        <section prefix="(i)">"Commercial waterfront property" means real property that:</section>
+        <section prefix="(i)">"Commercial waterfront property" means real property that:<section prefix="1.">is adjacent to the tidal waters of the State;</section><section prefix="2.">is used primarily for a commercial fish operation or as a commercial marina or commercial marine repair facility; and</section><section prefix="3.">for the most recent 3-year period, has produced an average annual gross income of at least $1,000.</section></section>
         <section prefix="(ii)">"Commercial waterfront property" includes land that is adjacent to or under improvements used primarily for a commercial fish operation or as a commercial marina or commercial marine repair facility.</section>
       </section>
     </section>

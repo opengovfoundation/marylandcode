@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-406" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">A person, on the person's own behalf or on behalf of another, who receives, accepts, or takes in trust from another a warehouse or elevator receipt, bill of lading, or document giving, or purporting to give, title to, or the right to possession of, goods, wares, merchandise, or other personal property, subject to a written contract expressing the terms and conditions of the trust, may not fail to fulfill in good faith the terms and conditions of the trust.</section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment not less than 1 year and not exceeding 10 years or a fine not less than $500 and not exceeding $5,000 or both.</section>

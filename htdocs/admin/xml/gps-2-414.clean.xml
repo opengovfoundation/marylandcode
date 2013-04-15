@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-414" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-414</section_number>
-  <catch_line/>
+  <catch_line>Employment of an employee of the Department ends on the death, retirement, resignation, or terminati...</catch_line>
+  <order_by>414</order_by>
   <text>Employment of an employee of the Department ends on the death, retirement, resignation, or termination of the employee.</text>
 </law>

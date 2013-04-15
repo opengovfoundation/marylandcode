@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-211" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-211</section_number>
-  <catch_line/>
+  <catch_line>An officer or employee of the Department may not be required to testify in any suit, action, or othe...</catch_line>
+  <order_by>211</order_by>
   <text>An officer or employee of the Department may not be required to testify in any suit, action, or other proceeding that involves aircraft, either:<section prefix=""><section prefix="(1)">With respect to any fact ascertained in or information gained by reason of his official capacity; or</section><section prefix="(2)">As an expert witness.</section></section></text>
 </law>

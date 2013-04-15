@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-308" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (c) and (d) of this section, the governing body of each county shall establish a mental health advisory committee.</section>
     <section prefix="(b)">The purpose of a mental health advisory committee shall be to serve as advocate for a comprehensive mental health system for persons of all ages.</section>

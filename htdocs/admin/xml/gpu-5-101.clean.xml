@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-101" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">After providing notice and an opportunity for interested parties to be heard, the Commission may adopt regulations that prescribe standards for safe, adequate, reasonable, and proper service for any class of public service company or gas master meter operator.</section>
     <section prefix="(b)">The standards adopted under subsection (a) of this section shall best promote, in the opinion of the Commission, the security or convenience of:<section prefix="(1)">the public;</section><section prefix="(2)">those employed in furnishing services; and</section><section prefix="(3)">those to whom services are rendered.</section></section>

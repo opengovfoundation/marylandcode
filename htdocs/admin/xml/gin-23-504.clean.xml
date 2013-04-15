@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-504" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-504</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise authorized by law, a person may not charge, take, receive from, reserve, or impose ...</catch_line>
+  <order_by>504</order_by>
   <text>Unless otherwise authorized by law, a person may not charge, take, receive from, reserve, or impose on an insured or prospective insured greater charges than those allowed by this title.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-7-303</section_number>
-  <catch_line/>
+  <catch_line>An individual who is licensed to practice forestry in another state or country may practice forestry...</catch_line>
+  <order_by>303</order_by>
   <text>An individual who is licensed to practice forestry in another state or country may practice forestry in this State without a license if:<section prefix=""><section prefix="(1)">the state or country in which the individual is licensed waives the license requirements for licensees of this State to a similar extent as this State waives the license requirements for individuals licensed in that state or country;</section><section prefix="(2)">the individual submits to the Board evidence that the individual is licensed in the other state or country; and</section><section prefix="(3)">the individual:<section prefix="(i)">is not a resident of this State and does not maintain a place of business in this State; or</section><section prefix="(ii)">has become a resident of this State within the preceding 6 months.</section></section></section></text>
 </law>

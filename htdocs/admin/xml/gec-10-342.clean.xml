@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-342" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-342</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>342</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds that the failure to provide for the payment of public obligations of a closed or delicensed hospital could seriously impair the ability of health care facilities and State and local governments to secure subsequent financing through the issuance of tax-exempt bonds.</section>
     <section prefix="(b)">The purpose of this part is to preserve the access of health care facilities in the State to adequate financing through a program that facilitates the refinancing and payment of public obligations of a closed or delicensed hospital.</section>

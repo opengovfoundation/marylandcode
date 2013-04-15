@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16.5-217" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16.5-217</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>217</order_by>
   <text>
     <section prefix="(a)">This section applies to a person who is engaged in the business of selling or distributing other tobacco products.</section>
     <section prefix="(b)">

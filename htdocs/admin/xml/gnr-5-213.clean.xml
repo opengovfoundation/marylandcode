@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-213" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-213</section_number>
-  <catch_line/>
+  <catch_line>An item lost or abandoned within a State forest, park, or wildlife management area and unclaimed for...</catch_line>
+  <order_by>213</order_by>
   <text>An item lost or abandoned within a State forest, park, or wildlife management area and unclaimed for one year becomes the property of the State, and the Secretary may dispose of the item in the best interest of the State.</text>
 </law>

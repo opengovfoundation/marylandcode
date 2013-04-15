@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-111" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-19-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">The provisions of this title, being necessary for the welfare of the State and its inhabitants, shall be liberally construed to effect the purposes thereof.</section>
     <section prefix="(b)">The provisions of this title are severable, and if any of such provisions shall be held unconstitutional by any court of competent jurisdiction, the decision of such court shall not affect or impair any of the remaining provisions.</section>

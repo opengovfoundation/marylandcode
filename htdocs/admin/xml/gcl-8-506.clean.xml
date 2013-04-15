@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-506" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-506</section_number>
-  <catch_line/>
+  <catch_line>A securities intermediary shall exercise rights with respect to a financial asset if directed to do ...</catch_line>
+  <order_by>506</order_by>
   <text>A securities intermediary shall exercise rights with respect to a financial asset if directed to do so by an entitlement holder. A securities intermediary satisfies the duty if:<section prefix=""><section prefix="(1)">The securities intermediary acts with respect to the duty as agreed upon by the entitlement holder and the securities intermediary; or</section><section prefix="(2)">In the absence of agreement, the securities intermediary either places the entitlement holder in a position to exercise the rights directly or exercises due care in accordance with reasonable commercial standards to follow the direction of the entitlement holder.</section></section></text>
 </law>

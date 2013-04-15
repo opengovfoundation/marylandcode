@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-307" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-11-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">If a board of canvassers determines that there appears to be an error in the documents or records produced at the polling place following an election, then it immediately shall investigate the matter to ascertain whether the records or documents are correct.</section>
     <section prefix="(b)">The board of canvassers may correct a document or record only in accordance with the regulations of the State Board.</section>

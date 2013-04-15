@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-609" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">A correctional facility in the Division shall maintain a reserve financial account and a spending financial account for each inmate in the correctional facility.</section>
     <section prefix="(b)">The accounts of an inmate may be charged for:<section prefix="(1)">the reasonable value of any State property that the inmate:<section prefix="(i)">willfully or maliciously destroys; or</section><section prefix="(ii)">destroys as the result of gross negligence; or</section></section><section prefix="(2)">any fees assessed under &#xA7; 2-118 of this article.</section></section>

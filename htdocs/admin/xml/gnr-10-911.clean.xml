@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-911" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-911</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>911</order_by>
   <text>
     <section prefix="(a)">In addition to any other penalty provided by the provisions of this title, the Secretary may revoke or suspend any license, permit, or certificate issued to any person pursuant to this subtitle if the Secretary finds the person or a guest of the person has violated:<section prefix="(1)">The terms and conditions of the license, permit, or certificate;</section><section prefix="(2)">Any regulation adopted to implement this subtitle; or</section><section prefix="(3)">Any State or federal wildlife law or regulation.</section></section>
     <section prefix="(b)">Any wildlife for which a license or permit is required under this subtitle and for which a license or permit is not obtained shall be considered a nuisance and contraband and is subject to seizure by any authorized law enforcement officer.</section>

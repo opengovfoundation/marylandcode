@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-202.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-202.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202.1</order_by>
   <text>
     <section prefix="(a)">In this section, "institution" includes:<section prefix="(1)">A hospital;</section><section prefix="(2)">A nursing home;</section><section prefix="(3)">A hospice facility;</section><section prefix="(4)">A medical clinic in a correctional facility;</section><section prefix="(5)">An inpatient psychiatric facility; and</section><section prefix="(6)">An inpatient drug rehabilitation facility.</section></section>
     <section prefix="(b)">When an institution has an individual in the care of the institution with a diagnosis of human immunodeficiency virus or acquired immunodeficiency syndrome according to the current definition published in the morbidity and mortality weekly report by the Centers for Disease Control and Prevention, a clinical or infection control practitioner shall submit a report within 48 hours to the health officer for the county where the institution is located.</section>

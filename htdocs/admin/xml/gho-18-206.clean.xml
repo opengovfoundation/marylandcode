@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-206" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-18-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">In addition to the powers set forth elsewhere in this title, the Board may adopt rules and regulations to carry out the provisions of this title.</section>
-    <section prefix="(b)">In addition to the duties set forth elsewhere in this title, the Board shall:<section prefix="(1)">Establish procedures for receiving and investigating complaints, including:<section prefix="(i)">Providing notice to the licensed psychologist that a complaint has been filed against the licensed psychologist and forwarding a copy of the complaint to the licensed psychologist within 120 days of receipt of the complaint, unless the Board:</section><section prefix="(ii)">Notifying, at least every 3 months, the licensed psychologist and the complainant as to the status of any outstanding complaint;</section></section><section prefix="(2)">Submit an annual report of its activities to the Secretary as soon as practicable after the end of each fiscal year; and</section><section prefix="(3)">Adopt an official seal.</section></section>
+    <section prefix="(b)">In addition to the duties set forth elsewhere in this title, the Board shall:<section prefix="(1)">Establish procedures for receiving and investigating complaints, including:<section prefix="(i)">Providing notice to the licensed psychologist that a complaint has been filed against the licensed psychologist and forwarding a copy of the complaint to the licensed psychologist within 120 days of receipt of the complaint, unless the Board:<section prefix="1.">Makes an affirmative determination that the disclosure would prejudice the investigation of the complaint and notifies the licensee of the determination; or</section><section prefix="2.">Disposes of the complaint within 120 days of the date of receipt of the complaint; and</section></section><section prefix="(ii)">Notifying, at least every 3 months, the licensed psychologist and the complainant as to the status of any outstanding complaint;</section></section><section prefix="(2)">Submit an annual report of its activities to the Secretary as soon as practicable after the end of each fiscal year; and</section><section prefix="(3)">Adopt an official seal.</section></section>
   </text>
 </law>

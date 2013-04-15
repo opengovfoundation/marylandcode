@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-810" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-810</section_number>
-  <catch_line/>
+  <catch_line>Meetings of the Committee and subcommittees shall be closed to the public and not subject to Title 1...</catch_line>
+  <order_by>810</order_by>
   <text>Meetings of the Committee and subcommittees shall be closed to the public and not subject to Title 10, Subtitle 5 of the State Government Article.</text>
 </law>

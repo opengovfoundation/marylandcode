@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-1004" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-1004</section_number>
-  <catch_line/>
+  <catch_line>A foreign limited liability company may register with the Department under any name, whether or not ...</catch_line>
+  <order_by>1004</order_by>
   <text>A foreign limited liability company may register with the Department under any name, whether or not it is the name under which it is registered in its state of organization, as provided under Title 1, Subtitle 5 of this article.</text>
 </law>

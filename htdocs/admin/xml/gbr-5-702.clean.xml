@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-702" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">This subtitle does not apply to:<section prefix="(1)">the sale of burial space;</section><section prefix="(2)">a preneed contract made by an individual in connection with practicing funeral direction or practicing mortuary science, as those practices are defined in and regulated by the Health Occupations Article; or</section><section prefix="(3)">the preneed sale of burial goods or services by a private family cemetery that does not conduct public sales of burial goods or services.</section></section>
     <section prefix="(b)">This subtitle does not allow a person, directly or indirectly, through an agent or otherwise, to practice funeral direction or practice mortuary science, unless the person is licensed to practice funeral direction or practice mortuary science under the Health Occupations Article.</section>

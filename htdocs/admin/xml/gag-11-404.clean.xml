@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-404" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-404</section_number>
-  <catch_line/>
+  <catch_line>A purchaser or hauler shall be responsible for all appropriate records pertaining to the weights, me...</catch_line>
+  <order_by>404</order_by>
   <text>A purchaser or hauler shall be responsible for all appropriate records pertaining to the weights, measures, samples, and tests which may be used as a basis for payment for milk or other fluid dairy products.</text>
 </law>

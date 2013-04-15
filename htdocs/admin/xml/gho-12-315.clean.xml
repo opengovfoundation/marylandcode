@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-315" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in the Administrative Procedure Act, before the Board takes any action under &#xA7; 12-313 of this subtitle or &#xA7; 12-6B-09 of this title, it shall give the individual against whom the action is contemplated an opportunity for a hearing before the Board.</section>
     <section prefix="(b)">The Board shall give notice and hold the hearing in accordance with the Administrative Procedure Act.</section>

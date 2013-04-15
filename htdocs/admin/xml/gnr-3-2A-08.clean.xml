@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-08" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-2A-08</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>08</order_by>
   <text>
     <section prefix="(a)">A land trust may, with the approval of the Trust, subsequently sell or transfer the acquired property to a third party.</section>
     <section prefix="(b)">As a condition of the grant, the Trust may require the dedication of a conservation easement on or reversionary interest in the property in favor of the Trust.</section>

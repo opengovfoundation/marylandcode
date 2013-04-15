@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-240" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-240</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>240</order_by>
   <text>
     <section prefix="(a)">If no conventional heating and cooling system exists in a building, a solar energy or geothermal heating and cooling system shall be assessed to the owner of the real property on which it is located at not more than the value of a conventional system.</section>
     <section prefix="(b)">If a solar energy or geothermal heating and cooling system is installed in addition to a conventional system in a building, the combined system may be assessed to the owner of the real property on which it is located at not more than the value of the conventional system.</section>

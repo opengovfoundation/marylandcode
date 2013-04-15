@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1207" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1207</order_by>
   <text>
     <section prefix="(a)">A consumer reporting agency shall make the disclosures required under &#xA7; 14-1206(a) of this subtitle during normal business hours and on reasonable notice.</section>
     <section prefix="(b)">The disclosures required under &#xA7; 14-1206(a) of this subtitle shall be made to the consumer:<section prefix="(1)">In person if he appears in person and furnishes proper identification;</section><section prefix="(2)">By telephone if he has made a written request, with proper identification, for telephone disclosure and the toll charge, if any, for the telephone call is prepaid by or charged directly to the consumer; or</section><section prefix="(3)">In writing if the consumer makes a written request and furnishes proper identification.</section></section>

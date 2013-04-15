@@ -1,22 +1,22 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-219" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Reforestation" means the stocking or restocking of an area with forest tree species.</section>
-        <section prefix="(ii)">"Reforestation" includes:</section>
+        <section prefix="(ii)">"Reforestation" includes:<section prefix="1.">Site preparation by mechanical operation, application of herbicides, or prescribed burning;</section><section prefix="2.">Tree planting;</section><section prefix="3.">Release of seedlings from competing vegetation;</section><section prefix="4.">Animal damage control of seedlings; and</section><section prefix="5.">Other activities that the Secretary requires.</section></section>
         <section prefix="(iii)">"Reforestation" does not include the growing of Christmas or ornamental trees.</section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">"Timber stand improvement" means any precommercial cultural operation made to improve the composition, constitution, condition, and increment of a timber stand.</section>
-        <section prefix="(ii)">"Timber stand improvement" includes tree removal, girdling, poisoning, and pruning activities that:</section>
+        <section prefix="(ii)">"Timber stand improvement" includes tree removal, girdling, poisoning, and pruning activities that:<section prefix="1.">Are not done only to help regeneration; and</section><section prefix="2.">Do not result in immediately salable forest products.</section></section>
       </section>
     </section>
     <section prefix="(b)">A person who owns or leases 10 to 500 acres of land may apply for reforestation or timber stand improvement certification under this section if the land is:<section prefix="(1)">Capable of growing more than 20 cubic feet of wood per acre per year; and</section><section prefix="(2)">Available for the application of scientific forest management practices for the primary purpose of growing and harvesting forest tree species.</section></section>

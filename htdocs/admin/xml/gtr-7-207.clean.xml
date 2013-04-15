@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-207" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">The Administration shall establish and maintain a police force to provide protection for its patrons, personnel, and all railroad facilities and transit facilities owned, leased, or operated upon, by, or under the control of the Administration. The police force is charged with the responsibility of enforcing the applicable laws, ordinances and regulations of the State and political subdivisions and the rules and regulations of the Administration.</section>
     <section prefix="(b)">

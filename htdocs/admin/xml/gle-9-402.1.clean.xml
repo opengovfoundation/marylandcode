@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-402.1" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-402.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402.1</order_by>
   <text>
     <section prefix="(a)">In this section, "knowingly" means having actual knowledge, deliberate ignorance, or reckless disregard for the truth.</section>
     <section prefix="(b)">An employer may not fail to properly classify an individual as an employee.</section>

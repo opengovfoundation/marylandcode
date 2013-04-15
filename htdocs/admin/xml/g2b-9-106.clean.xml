@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-106" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-9-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">A license to sell alcoholic beverages may not be issued by a license issuing authority for a county to a minor without a special order of a judge.</section>
     <section prefix="(b)">A judge may pass a special order to issue to a minor a license to sell alcoholic beverages only on the recommendation of at least 10 residents of the district where the license will be operative.</section>

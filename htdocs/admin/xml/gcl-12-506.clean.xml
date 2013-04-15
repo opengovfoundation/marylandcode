@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-506" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">In an open end account:<section prefix="(1)">The finance charge may not exceed 1.5 percent a month on that part of the outstanding balance not exceeding $700;</section><section prefix="(2)">The finance charge may not exceed 1 percent per month on that part of the outstanding balance exceeding $700;</section><section prefix="(3)">Notwithstanding the provisions of paragraphs (1) and (2) of this subsection, the finance charge may not exceed 2 percent per month on that part of the outstanding balance originating on or after July 1, 1982;</section><section prefix="(4)">Including a credit card plan that provides for sales, cash advances, or both, the buyer or borrower may not be required to pay a membership fee for the privilege of participating in the plan;</section><section prefix="(5)">If made at a rate pursuant to paragraph (3) of this subsection, the seller or holder may not contract for, charge, or receive any compounded interest or compounded finance charge; and</section><section prefix="(6)">A seller or financial institution may assess either, but not both:<section prefix="(i)">A finance charge equal to the rate of interest charged on past due accounts as provided in the agreement; or</section><section prefix="(ii)">A late payment charge.</section></section></section>
     <section prefix="(b)">In an open end account, if a finance charge is applied to all outstanding balances within a range not exceeding $10, the finance charge may be computed on the basis of the median amount within the range.</section>

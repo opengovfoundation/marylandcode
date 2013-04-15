@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-1003" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided, the provisions of this subtitle supersede any inconsistent provisions of any other State or local law that conflicts with this subtitle to the extent of the conflict.</section>
     <section prefix="(b)">This subtitle does not limit the authority of the managing official to regulate the competent and efficient operation and management of a county correctional facility by any reasonable means including transfer and reassignment if:<section prefix="(1)">that action is not punitive in nature; and</section><section prefix="(2)">the managing official determines that action to be in the best interests of the internal management of the correctional facility.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-415" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-415</section_number>
-  <catch_line/>
+  <catch_line>If a violation of any provision of this subtitle has occurred and the existence of the violation has...</catch_line>
+  <order_by>415</order_by>
   <text>If a violation of any provision of this subtitle has occurred and the existence of the violation has been finally determined, the Department shall promptly issue an order requiring the correction of each violation found to have occurred, and the Department shall secure compliance with the provisions of the order. If the terms of the order are violated or if the violation has not been corrected within the time specified in the order, the violation shall be referred to the Attorney General, who, in addition to any other action taken or which he elects to take against the violator, shall take appropriate legal action to require correction of the violation. This section does not prevent the Attorney General or the Department from taking action against the violator before the expiration of the time limitations or schedules in the order.</text>
 </law>

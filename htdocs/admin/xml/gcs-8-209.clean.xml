@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-209" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-8-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">An individual may not be given or accept a probationary or permanent appointment as a correctional officer, correctional supervisor, or correctional administrator unless the individual satisfactorily meets minimum qualifications established by the Commission.</section>
     <section prefix="(b)">A probationary appointment as a correctional officer, correctional supervisor, or correctional administrator may be made for no more than 1 year for the purpose of enabling the individual seeking permanent appointment to take a training course prescribed by the Commission.</section>

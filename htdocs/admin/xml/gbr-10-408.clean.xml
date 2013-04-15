@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-408" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-408</section_number>
-  <catch_line/>
+  <catch_line>Each petroleum transporter:...</catch_line>
+  <order_by>408</order_by>
   <text>Each petroleum transporter:<section prefix=""><section prefix="(1)">shall keep for inspection a manufacturer's certificate of origin that shows the measured calibration by pots or compartments for each vehicle that meets the definition of a conveyance; or</section><section prefix="(2)">if such a certificate is unavailable, shall get and keep for inspection at the request of the Comptroller a certificate from a governmental unit or professional engineer.</section></section></text>
 </law>

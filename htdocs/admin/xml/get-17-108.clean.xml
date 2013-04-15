@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-108" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">A power of attorney executed in this State is valid and enforceable as to persons dealing with the agent.</section>
     <section prefix="(b)">A power of attorney executed other than in this State is valid and enforceable in this State as to persons dealing with the agent if, when the power of attorney was executed, the execution complied with:<section prefix="(1)">The law of the jurisdiction that determines the meaning and effect of the power of attorney; or</section><section prefix="(2)">The requirements for a military power of attorney in accordance with 10 U.S.C. &#xA7; 1044b.</section></section>

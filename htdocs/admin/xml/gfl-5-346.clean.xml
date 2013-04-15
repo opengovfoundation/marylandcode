@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-346" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-346</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>346</order_by>
   <text>
     <section prefix="(a)">Within 5 days after a petition for adoption of a child is filed under this Part IV of this subtitle with a juvenile court, the clerk shall send a copy of the petition, with the notice of filing that was attached to the petition, to:<section prefix="(1)">the local department; and</section><section prefix="(2)">the child's last attorney of record in the guardianship case.</section></section>
     <section prefix="(b)">Notice under this section shall be by first-class mail.</section>

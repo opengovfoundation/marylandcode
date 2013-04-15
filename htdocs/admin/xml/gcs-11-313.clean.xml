@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-313" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">If a center is operated by a county in accordance with &#xA7; 11-311(a) of this subtitle and the county is a charter county, the director and any assistant director shall be appointed and removed by the chief executive officer of the county government with the advice of the community advisory board and the advice and consent of the Commissioner.</section>
     <section prefix="(b)">Except as provided in subsection (e) of this section, if a center is operated by a county in accordance with &#xA7; 11-311(a) of this subtitle and the county is not a charter county subject to Article XI-A of the Maryland Constitution, the director and any assistant director shall be appointed and removed by the county commissioners with the advice of the community advisory board and the advice and consent of the Commissioner.</section>

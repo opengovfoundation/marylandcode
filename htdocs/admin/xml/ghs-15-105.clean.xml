@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-105" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-15-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">In addition to the powers listed elsewhere in this Division II and any powers given by local law, the Baltimore Authority within its area of operation may:<section prefix="(1)">make mortgage loans;</section><section prefix="(2)">make rent subsidy payments to or for persons of eligible income;</section><section prefix="(3)">make construction loans and long-term mortgage loans to any person to produce housing for persons of eligible income; and</section><section prefix="(4)">purchase and insure mortgages secured by housing for persons of eligible income.</section></section>
     <section prefix="(b)">Not more than 80% of the residents of a housing project may have incomes above the levels for persons of eligible income.</section>

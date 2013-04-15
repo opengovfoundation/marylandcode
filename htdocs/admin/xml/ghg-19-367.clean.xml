@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-367" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-367</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>367</order_by>
   <text>
     <section prefix="(a)">Either party aggrieved by the decision of the hearings office shall have the right to appeal that decision.</section>
     <section prefix="(b)">A related institution subject to a sanction shall have the right to appeal a decision by the Secretary that the hazardous condition has not been corrected or that inadequate progress has been made toward correcting the hazardous condition.</section>

@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-508" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-508</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>508</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Commitment unit" means a unit that a court orders to retain custody of a defendant or a child respondent and that receives a notification request form under &#xA7; 11-104(f)(1) or (g) of this title.</section>
       <section prefix="(3)">"Release from confinement" means work release, home detention, or other administrative or statutorily authorized release of a defendant or child respondent from a confinement facility.</section>
-      <section prefix="(4)">"Witness" means a person who:<section prefix="(i)">knows of facts relating to a crime of violence or conspiracy or solicitation to commit a crime of violence; and</section><section prefix="(ii)"/></section>
+      <section prefix="(4)">"Witness" means a person who:<section prefix="(i)">knows of facts relating to a crime of violence or conspiracy or solicitation to commit a crime of violence; and</section><section prefix="(ii)"><section prefix="1.">makes a declaration under oath that is received as evidence for any purpose; or</section><section prefix="2.">has been served with a subpoena issued under the authority of a court of this or any other state or of the United States.</section></section></section>
     </section>
     <section prefix="(b)">This section applies to a victim or victim's representative who has submitted a notification request form under &#xA7; 11-104 of this title.</section>
     <section prefix="(c)">This section applies if a witness requests in writing that a commitment unit notify the witness in writing of the release from confinement of a defendant or child respondent.</section>

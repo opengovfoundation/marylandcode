@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-211" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">In this section, "carrier" means:<section prefix="(1)">an insurer; or</section><section prefix="(2)">a nonprofit health service plan.</section></section>
     <section prefix="(b)">A disability insurance policy may not be sold, delivered, or issued for delivery in the State by a carrier if the policy contains a clause that purports to reserve sole discretion to the carrier to interpret the terms of the policy or to provide standards of interpretation or review that are inconsistent with the laws of the State.</section>

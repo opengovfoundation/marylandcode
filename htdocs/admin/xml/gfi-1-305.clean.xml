@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-305" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-1-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Any officer, employee, agent, or director of a fiduciary institution who knowingly and willfully discloses financial records in violation of this subtitle is guilty of a misdemeanor and on conviction is subject to a fine of not more than $1,000.</section>
     <section prefix="(b)">Any person who knowingly and willfully induces or attempts to induce an officer, employee, agent, or director of a fiduciary institution to disclose financial records in violation of this subtitle is guilty of a misdemeanor and on conviction is subject to a fine of not more than $1,000.</section>

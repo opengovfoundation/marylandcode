@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-411" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-411</section_number>
-  <catch_line/>
+  <catch_line>This part does not apply to a drug or substance that is legally possessed by an individual under a w...</catch_line>
+  <order_by>411</order_by>
   <text>This part does not apply to a drug or substance that is legally possessed by an individual under a written prescription issued by a person authorized by law and designated by the managing official to prescribe inmate medication.</text>
 </law>

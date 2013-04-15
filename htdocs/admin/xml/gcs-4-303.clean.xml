@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-4-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to &#xA7; 4-305 of this subtitle, inmates transferred to the Institution for treatment are eligible for the work release and leave of absence programs provided for in &#xA7;&#xA7; 3-801 through 3-806 and 3-808 through 3-811 of this article.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-404.2" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-11-404.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404.2</order_by>
   <text>
     <section prefix="(a)">In this section, "refer" means that a therapeutically certified optometrist:<section prefix="(1)">Informs the patient that the patient should see an ophthalmologist and give the ophthalmologist an opportunity to physically examine the patient; and</section><section prefix="(2)">Refrains from rendering further treatment for the specific condition that is the basis for the referral until the patient has been physically examined by an ophthalmologist.</section></section>
     <section prefix="(b)">
@@ -17,12 +17,12 @@
       <section prefix="(6)">A therapeutically certified optometrist may dispense a topical therapeutic pharmaceutical agent listed in paragraph (1) of this subsection only if:<section prefix="(i)">No charge is imposed for the therapeutic pharmaceutical agent or for dispensing the agent; and</section><section prefix="(ii)">The amount dispensed does not exceed a 72-hour supply, except that if the minimum available quantity for dispensing is greater than a 72-hour supply, the minimum available quantity may be dispensed.</section></section>
     </section>
     <section prefix="(c)">
-      <section prefix="(1)">A therapeutically certified optometrist may administer and prescribe topical therapeutic pharmaceutical agents for glaucoma only:<section prefix="(i)">For patients with primary open-angle glaucoma;</section><section prefix="(ii)">After the optometrist refers the patient to an ophthalmologist; and</section><section prefix="(iii)">After the ophthalmologist and optometrist jointly and promptly develop a written individualized treatment plan that is signed by the ophthalmologist and optometrist and includes:</section></section>
+      <section prefix="(1)">A therapeutically certified optometrist may administer and prescribe topical therapeutic pharmaceutical agents for glaucoma only:<section prefix="(i)">For patients with primary open-angle glaucoma;</section><section prefix="(ii)">After the optometrist refers the patient to an ophthalmologist; and</section><section prefix="(iii)">After the ophthalmologist and optometrist jointly and promptly develop a written individualized treatment plan that is signed by the ophthalmologist and optometrist and includes:<section prefix="1.">All tests and examinations that led to the diagnosis;</section><section prefix="2.">An initial schedule of all tests and examinations necessary to treat the patient's condition;</section><section prefix="3.">A medication plan;</section><section prefix="4.">A target intraocular pressure; and</section><section prefix="5.">Criteria for surgical intervention by the ophthalmologist.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">A treatment plan developed under this subsection may be modified only after both the optometrist and the ophthalmologist consult together and consent to the modification.</section>
         <section prefix="(ii)">Each modification shall be noted in the optometric record of the patient.</section>
       </section>
-      <section prefix="(3)">A therapeutically certified optometrist who treats a patient with primary open-angle glaucoma in accordance with this section:<section prefix="(i)">Shall refer the patient to an ophthalmologist at least once a year after the initial mandatory referral under paragraph (1) of this subsection;</section><section prefix="(ii)">May continue to render treatment under the joint treatment plan until the patient is examined by an ophthalmologist;</section><section prefix="(iii)">Shall consult with an ophthalmologist if:</section><section prefix="(iv)">May perform and evaluate visual field tests, nerve fiber layer photos, and optic disc photos. The tests or photos shall be provided to an ophthalmologist for review by the ophthalmologist.</section></section>
+      <section prefix="(3)">A therapeutically certified optometrist who treats a patient with primary open-angle glaucoma in accordance with this section:<section prefix="(i)">Shall refer the patient to an ophthalmologist at least once a year after the initial mandatory referral under paragraph (1) of this subsection;</section><section prefix="(ii)">May continue to render treatment under the joint treatment plan until the patient is examined by an ophthalmologist;</section><section prefix="(iii)">Shall consult with an ophthalmologist if:<section prefix="1.">The patient does not have the expected response to treatment;</section><section prefix="2.">The target intraocular pressure is not reached; or</section><section prefix="3.">There is worsening in a patient's visual field or optic nerve head; and</section></section><section prefix="(iv)">May perform and evaluate visual field tests, nerve fiber layer photos, and optic disc photos. The tests or photos shall be provided to an ophthalmologist for review by the ophthalmologist.</section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">Except as provided in paragraphs (2) and (3) of this subsection, a therapeutically certified optometrist may not administer or prescribe any oral pharmaceutical agent for any purpose.</section>

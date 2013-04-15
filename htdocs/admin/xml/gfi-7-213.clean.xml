@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-213" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-7-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">This section applies notwithstanding any other provision of law.</section>
     <section prefix="(b)">A credit union share guaranty corporation and the Commissioner may exchange information, including information obtained during an examination, about a participating credit union or a credit union that is applying for participation in the credit union share guaranty corporation.</section>

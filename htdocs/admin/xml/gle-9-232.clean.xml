@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-232" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-232</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>232</order_by>
   <text>
     <section prefix="(a)">Each regularly enrolled volunteer member or trainee of the Maryland Emergency Management Agency established under the Maryland Emergency Management Agency Act is a covered employee.</section>
     <section prefix="(b)">For the purposes of this title, the State is the employer of each individual who is a covered employee under this section.</section>

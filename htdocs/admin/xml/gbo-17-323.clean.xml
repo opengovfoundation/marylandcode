@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-323" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-17-323</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>323</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this section, the Commission shall commence proceedings under &#xA7; 17-322 of this subtitle on a complaint made to the Commission by a member of the Commission or any other person.</section>
     <section prefix="(b)">
@@ -19,7 +19,7 @@
       <section prefix="(3)">
         <section prefix="(i)">If a complaint is dismissed under paragraph (2) of this subsection, within 30 days from the date of the dismissal any member of the Commission may file an exception to the decision.</section>
         <section prefix="(ii)">If an exception is filed with the Commission under subparagraph (i) of this paragraph, the Commission shall set a hearing on the matter by the full Commission on whether the complaint satisfies the requirements of paragraph (1) of this subsection. If the Commission determines that the complaint is satisfactory, the matter shall be referred for an investigation.</section>
-        <section prefix="(iii)">If an exception is not filed within the time allowed under subparagraph (i) of this paragraph:</section>
+        <section prefix="(iii)">If an exception is not filed within the time allowed under subparagraph (i) of this paragraph:<section prefix="1.">the decision of the Commission is final; and</section><section prefix="2.">any party aggrieved by the decision may take a judicial appeal as provided in &#xA7; 17-329 of this subtitle.</section></section>
       </section>
     </section>
     <section prefix="(d)">

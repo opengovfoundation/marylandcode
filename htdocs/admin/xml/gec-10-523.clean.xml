@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-523" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-523</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>523</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Corporation may receive annual funding through an appropriation in the State budget.</section>
       <section prefix="(2)">The Corporation may also receive money for projects included in the budgets of State units.</section>
       <section prefix="(3)">
-        <section prefix="(i)">To assist the Corporation in complying with subsection (c) of this section, the Governor shall include each year in the State budget bill an appropriation to the Corporation for rural business development and assistance as follows:</section>
+        <section prefix="(i)">To assist the Corporation in complying with subsection (c) of this section, the Governor shall include each year in the State budget bill an appropriation to the Corporation for rural business development and assistance as follows:<section prefix="1.">for fiscal year 2011, $2,750,000;</section><section prefix="2.">for fiscal year 2012, $2,750,000;</section><section prefix="3.">for fiscal year 2013, $2,875,000;</section><section prefix="4.">for fiscal year 2014, $2,875,000; and</section><section prefix="5.">for each of the fiscal years 2015 through 2020, $4,000,000.</section></section>
         <section prefix="(ii)">In addition to any money provided under subparagraph (i) of this paragraph, the Governor may include each year in the State budget bill an appropriation to the Corporation in an amount not exceeding $5,000,000 for rural land acquisition and easement programs, including programs to assist young and beginning farmers.</section>
       </section>
     </section>

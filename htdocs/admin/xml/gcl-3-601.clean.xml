@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-601" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">The obligation of a party to pay the instrument is discharged as stated in this title or by an act or agreement with the party which would discharge an obligation to pay money under a simple contract.</section>
     <section prefix="(b)">Discharge of the obligation of a party is not effective against a person acquiring rights of a holder in due course of the instrument without notice of the discharge.</section>

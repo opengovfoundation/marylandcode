@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-405" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-405</section_number>
-  <catch_line/>
+  <catch_line>The Authority may appoint subcommittees and use the services of existing State and local units....</catch_line>
+  <order_by>405</order_by>
   <text>The Authority may appoint subcommittees and use the services of existing State and local units.</text>
 </law>

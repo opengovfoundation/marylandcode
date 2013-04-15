@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-306" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-3-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this section, the Board may issue a license by reciprocity to practice architecture in the State to an individual who:<section prefix="(1)">is licensed to practice architecture in another state or country; or</section><section prefix="(2)">is certified by the Council under subsection (c) of this section.</section></section>
     <section prefix="(b)">The Board may issue a license by reciprocity under this section for an applicant who is licensed to practice architecture in another state or country only if the applicant:<section prefix="(1)">is of good character and reputation;</section><section prefix="(2)">pays to the Board:<section prefix="(i)">a nonrefundable application fee set by the Board; and</section><section prefix="(ii)">a license fee set by the Board; and</section></section><section prefix="(3)">provides adequate evidence that:<section prefix="(i)">the applicant became licensed in the other state or country after meeting, in that or any other state or country, requirements that were at least equivalent to those then required by the laws of this State; or</section><section prefix="(ii)">at the time of application for a license by reciprocity under this section, the applicant meets the requirements currently required by the laws of this State.</section></section></section>
-    <section prefix="(c)">The Board may issue a license by reciprocity under this section for an applicant who is certified by the Council only if:<section prefix="(1)">the applicant:<section prefix="(i)">is of good character and reputation; and</section><section prefix="(ii)">pays to the Board:</section></section><section prefix="(2)">the Board receives from the Council a certified copy of its certificate for the applicant that certifies that the applicant is licensed to practice architecture in another state or country.</section></section>
+    <section prefix="(c)">The Board may issue a license by reciprocity under this section for an applicant who is certified by the Council only if:<section prefix="(1)">the applicant:<section prefix="(i)">is of good character and reputation; and</section><section prefix="(ii)">pays to the Board:<section prefix="1.">a nonrefundable application fee set by the Board; and</section><section prefix="2.">a license fee set by the Board; and</section></section></section><section prefix="(2)">the Board receives from the Council a certified copy of its certificate for the applicant that certifies that the applicant is licensed to practice architecture in another state or country.</section></section>
     <section prefix="(d)">An architect who is granted a license by reciprocity by the Board may not be required to maintain licensure in any other state or country as a condition of maintaining the license granted by the Board.</section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-304" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The Attorney General or a State's Attorney may sue to enjoin, wholly or partly, the activities of a multilevel distribution company that violate this subtitle.</section>
     <section prefix="(b)">At least 10 days before seeking injunctive relief, the Attorney General or State's Attorney shall send written notice of the alleged violation by certified mail to the principal place of business of the multilevel distribution company.</section>

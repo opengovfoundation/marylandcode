@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-108" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-108</section_number>
-  <catch_line/>
+  <catch_line>In any report issued under this title, the Department may:...</catch_line>
+  <order_by>108</order_by>
   <text>In any report issued under this title, the Department may:<section prefix=""><section prefix="(1)">Include recommendations for statutory and budgetary proposals to:<section prefix="(i)">Promote public awareness of the benefits of conserving fisheries and wildlife in the State; and</section><section prefix="(ii)">Reduce the incidence of violations of State conservation laws; and</section></section><section prefix="(2)">Submit the report to the Governor and, subject to &#xA7; 2-1246 of the State Government Article, the General Assembly.</section></section></text>
 </law>

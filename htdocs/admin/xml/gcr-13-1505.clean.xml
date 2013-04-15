@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1505" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1505</order_by>
   <text>
     <section prefix="(a)">A members-only instant bingo license is valid for 3 months.</section>
     <section prefix="(b)">The sheriff may not issue to a single organization in 1 calendar year more than four licenses for members-only instant bingo.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-12-201</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "lottery device" means a policy, certificate, or other thing by which a person pro...</catch_line>
+  <order_by>201</order_by>
   <text>In this subtitle, "lottery device" means a policy, certificate, or other thing by which a person promises or guarantees that a number, character, ticket, or certificate will, when an event or contingency occurs, entitle the purchaser or holder to receive money, property, or evidence of debt.</text>
 </law>

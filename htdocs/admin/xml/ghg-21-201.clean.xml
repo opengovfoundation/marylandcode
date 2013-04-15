@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-201" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Counterfeit drug" means a drug that:<section prefix="(1)">Bears, or the container or labeling of which bears, without authorization, the trademark, trade name, imprint, symbol, or any other identifying mark, or any likeness of any of these markings, of a manufacturer, processor, packer, or distributor other than the one who, in fact, manufactured, processed, packed, or distributed the drug; and</section><section prefix="(2)">By use of these markings falsely purports or is represented to be the product of, or to have been packed or distributed by, the other drug manufacturer, processor, packer, or distributor.</section></section>

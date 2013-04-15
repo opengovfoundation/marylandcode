@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-106" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) and (c) of this section or otherwise by law, all information and documents that are filed with the Commissioner in compliance with the requirements of this title or that are reported to, obtained by, or otherwise disclosed to the Commissioner or any other person in the course of an examination or investigation made under this title:<section prefix="(1)">are confidential material;</section><section prefix="(2)">are not subject to subpoena; and</section><section prefix="(3)">may not be made public by the Commissioner, the National Association of Insurance Commissioners, or any other person.</section></section>
     <section prefix="(b)">Material that otherwise is confidential under subsection (a) of this section may be made public by any person to whom the insurer to which the material relates gives prior written consent.</section>

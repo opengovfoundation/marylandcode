@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-7-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">For the purposes of this title, an allegation of error is finally litigated when:<section prefix="(1)">an appellate court of the State decides on the merits of the allegation:<section prefix="(i)">on direct appeal; or</section><section prefix="(ii)">on any consideration of an application for leave to appeal filed under &#xA7; 7-109 of this subtitle; or</section></section><section prefix="(2)">a court of original jurisdiction, after a full and fair hearing, decides on the merits of the allegation in a petition for a writ of habeas corpus or a writ of error coram nobis, unless the decision on the merits of the petition is clearly erroneous.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">
-        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, an allegation of error is waived when a petitioner could have made but intelligently and knowingly failed to make the allegation:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, an allegation of error is waived when a petitioner could have made but intelligently and knowingly failed to make the allegation:<section prefix="1.">before trial;</section><section prefix="2.">at trial;</section><section prefix="3.">on direct appeal, whether or not the petitioner took an appeal;</section><section prefix="4.">in an application for leave to appeal a conviction based on a guilty plea;</section><section prefix="5.">in a habeas corpus or coram nobis proceeding began by the petitioner;</section><section prefix="6.">in a prior petition under this subtitle; or</section><section prefix="7.">in any other proceeding that the petitioner began.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">Failure to make an allegation of error shall be excused if special circumstances exist.</section>
+          <section prefix="2.">The petitioner has the burden of proving that special circumstances exist.</section>
+        </section>
       </section>
       <section prefix="(2)">When a petitioner could have made an allegation of error at a proceeding set forth in paragraph (1)(i) of this subsection but did not make an allegation of error, there is a rebuttable presumption that the petitioner intelligently and knowingly failed to make the allegation.</section>
     </section>

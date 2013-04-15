@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-308" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">The Commissioner:<section prefix="(1)">shall notify the Corporation of the existence of an insolvent insurer not later than 3 days after the Commissioner receives notice of the determination of insolvency; and</section><section prefix="(2)">on request of the Board of Directors, shall provide the Corporation with a statement of the net direct written premiums of each member insurer.</section></section>
     <section prefix="(b)">

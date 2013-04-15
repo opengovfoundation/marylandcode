@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-103" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-4-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">In setting just and reasonable rates under this title, the Commission may not discourage the use of employee stock ownership plans by public service companies by denying to the public service companies the full benefits of investment tax credits provided in connection with these plans by the Internal Revenue Code.</section>
     <section prefix="(b)">A public service company may not charge off lobbying expenses against its ratepayers.</section>

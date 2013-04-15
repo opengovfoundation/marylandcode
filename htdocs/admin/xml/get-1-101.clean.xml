@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-101" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-1-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In the estates of decedents law the following words have the meanings indicated.</section>
     <section prefix="(b)">"Administrative probate" is defined in &#xA7; 5-301 of this article.</section>
@@ -31,7 +31,7 @@
     <section prefix="(s)">"Register" is defined in &#xA7; 2-201 of this article.</section>
     <section prefix="(t)">"Representation" is defined in &#xA7; 1-210 of this title.</section>
     <section prefix="(u)">"Special administrator" means an administrator appointed as provided in &#xA7; 6-401 of this article.</section>
-    <section prefix="(v)">"Trust company" means an institution that is authorized to exercise trust or fiduciary powers and that:<section prefix="(1)">Is organized under the laws of this State as a State bank, trust company, or savings bank; or</section><section prefix="(2)">Is organized under the laws of the United States and:<section prefix="(i)">Has its principal office in this State; or</section><section prefix="(ii)"/><section prefix="(iii)"/></section><section prefix="(3)">Is organized under the laws of another state as a bank, trust company, or savings bank and:<section prefix="(i)"/><section prefix="(ii)"/></section></section>
+    <section prefix="(v)">"Trust company" means an institution that is authorized to exercise trust or fiduciary powers and that:<section prefix="(1)">Is organized under the laws of this State as a State bank, trust company, or savings bank; or</section><section prefix="(2)">Is organized under the laws of the United States and:<section prefix="(i)">Has its principal office in this State; or</section><section prefix="(ii)"><section prefix="1.">Has an office in this State that is not its principal office; and</section><section prefix="2.">Meets the definition of a trust institution under 12 U.S.C. &#xA7; 1841(c)(2)(D); or</section></section><section prefix="(iii)"><section prefix="1.">Has an office in this State that is not its principal office; and</section><section prefix="2.">Accepts deposits at its office in this State; or</section></section></section><section prefix="(3)">Is organized under the laws of another state as a bank, trust company, or savings bank and:<section prefix="(i)"><section prefix="1.">Has an office in this State that is not its principal office;</section><section prefix="2.">Meets the definition of a trust institution under 12 U.S.C. &#xA7; 1841(c)(2)(D); and</section><section prefix="3.">Is a direct or indirect subsidiary of a bank holding company that has a direct or indirect bank, trust company, or savings bank subsidiary that has an office in this State at which deposits are accepted; or</section></section><section prefix="(ii)"><section prefix="1.">Has an office in this State that is not its principal office; and</section><section prefix="2.">Accepts deposits at its office in this State.</section></section></section></section>
     <section prefix="(w)">
       <section prefix="(1)">"Will" means a written instrument which is executed in the form prescribed by &#xA7;&#xA7; 4-102 through 4-104 of this article, and has not been revoked in a manner provided by &#xA7; 4-105 of this article.</section>
       <section prefix="(2)">"Will" includes a codicil.</section>

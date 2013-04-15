@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-312" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">An administrator shall maintain adequate books and records about each plan administered by the administrator:<section prefix="(1)">in accordance with prudent standards of record keeping; and</section><section prefix="(2)">for the duration of the agreement required by &#xA7; 8-311 of this subtitle.</section></section>
     <section prefix="(b)">Subject to any restrictions in the agreement required by &#xA7; 8-311 of this subtitle on the proprietary rights of the parties in the books and records, the plan sponsor or insurer has the right to reasonable access to the books and records that is sufficient to allow the plan sponsor or insurer to fulfill its contractual obligations to the plan participants and beneficiaries.</section>

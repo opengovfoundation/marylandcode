@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-710" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-710</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>710</order_by>
   <text>
     <section prefix="(a)">Each minor who is being cared for or treated in a residential, State facility shall be placed in a unit for minors and may not be placed in a unit where adults are placed, unless the individual plan of treatment for the minor provides otherwise.</section>
     <section prefix="(b)">A person, on behalf of the minor, may file a petition in the circuit court for the county where the facility is located, to compel compliance with this section.</section>

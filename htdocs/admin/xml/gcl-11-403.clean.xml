@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-403</section_number>
-  <catch_line/>
+  <catch_line>For the purposes of this subtitle, if an item of merchandise is advertised, offered for sale, or sol...</catch_line>
+  <order_by>403</order_by>
   <text>For the purposes of this subtitle, if an item of merchandise is advertised, offered for sale, or sold with any other item at a combined price, or is advertised, offered as a gift, or given with the sale of any other item, all of the items are considered to be advertised, offered for sale, or sold. The cost to the retailer or the cost to the wholesaler, as the case may be, of each item is governed by &#xA7; 11-401(b) and (c), respectively, of this subtitle.</text>
 </law>

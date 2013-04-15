@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-209" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-1-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">Each board shall assess each applicant for a license or a renewal of a license a fee established in accordance with the provisions of &#xA7; 19-111 of the Health - General Article.</section>
     <section prefix="(b)">Each board shall transfer the fees assessed under this subsection to the Maryland Health Care Commission Fund on a quarterly basis.</section>

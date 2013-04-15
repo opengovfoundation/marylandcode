@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-420" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-420</section_number>
-  <catch_line/>
+  <catch_line>The Department shall establish a separate season for hunting deer with muzzle loading firearms....</catch_line>
+  <order_by>420</order_by>
   <text>The Department shall establish a separate season for hunting deer with muzzle loading firearms.</text>
 </law>

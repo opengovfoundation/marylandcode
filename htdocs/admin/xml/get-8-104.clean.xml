@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-104" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-8-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Claims against an estate of a decedent may be presented as provided in this section.</section>
     <section prefix="(b)">The claimant may deliver or mail to the personal representative a verified written statement of the claim indicating its basis, the name and address of the claimant, and the amount claimed. If the claim is not yet due, the date when it will become due shall be stated. If the claim is contingent, the nature of the contingency shall be stated. If the claim is secured, the security shall be described. The failure of the claimant to comply with the provisions of this section or with the reasonable requests of the personal representative for additional information may be a basis for disallowance of a claim in the discretion of the court.</section>

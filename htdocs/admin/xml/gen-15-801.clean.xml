@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-801" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Affected land" means the land from which the mineral is removed by surface mining, and all other land area in which the natural land surface has been disturbed as a result of or incidental to the surface mining activities of the permittee, including private ways and roads appurtenant to the area, land excavations, workings, refuse piles, spoil piles, and tailings.</section>

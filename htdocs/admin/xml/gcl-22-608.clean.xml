@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-608" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in &#xA7;&#xA7; 22-603 and 22-604 of this subtitle, if performance requires delivery of a copy, the following rules apply:<section prefix="(1)">Except as otherwise provided in this section, the party receiving the copy has a right before payment or acceptance to inspect the copy at a reasonable place and time and in a reasonable manner to determine conformance to the contract.</section><section prefix="(2)">The party making the inspection shall bear the expenses of inspection.</section><section prefix="(3)">A place or method of inspection or an acceptance standard fixed by the parties is presumed to be exclusive. However, the fixing of a place, method, or standard does not postpone identification to the contract or shift the place for delivery, passage of title, or risk of loss. If compliance with the place or method becomes impossible, inspection must be made as provided in this section unless the place or method fixed by the parties was an indispensable condition the failure of which avoids the contract.</section><section prefix="(4)">A party's right to inspect is subject to existing obligations of confidentiality.</section></section>
     <section prefix="(b)">If a right to inspect exists under subsection (a) of this section but the agreement is inconsistent with an opportunity to inspect before payment, the party does not have a right to inspect before payment.</section>

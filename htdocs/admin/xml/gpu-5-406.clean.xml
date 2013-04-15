@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-406" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-5-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A railroad company may change the location or grade of any portion of its road if the company finds the change is necessary for any reasonable cause, including to avoid:<section prefix="(i)">inconvenience to public travel;</section><section prefix="(ii)">dangerous or difficult curves or grades; or</section><section prefix="(iii)">unsafe or unsubstantial grounds or foundations.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-709" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-709</section_number>
-  <catch_line/>
+  <catch_line>Except as otherwise provided in this subtitle, a license may not be transferred....</catch_line>
+  <order_by>709</order_by>
   <text>Except as otherwise provided in this subtitle, a license may not be transferred.</text>
 </law>

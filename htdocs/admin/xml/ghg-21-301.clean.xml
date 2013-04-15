@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -21,7 +21,7 @@
     <section prefix="(g)">
       <section prefix="(1)">"Food processing plant" means any place used for, or in connection with, the commercial manufacturing, preparing, processing, packaging, canning, freezing, storing, distributing, labeling, or holding of food or drink for human consumption.</section>
       <section prefix="(2)">"Food processing plant" includes:<section prefix="(i)">A bakery plant;</section><section prefix="(ii)">A cannery;</section><section prefix="(iii)">A confectionery plant;</section><section prefix="(iv)">A crab meat picking plant;</section><section prefix="(v)">A food manufacturing plant;</section><section prefix="(vi)">A food warehouse or distribution center;</section><section prefix="(vii)">A frozen food processing plant;</section><section prefix="(viii)">An ice manufacturing plant;</section><section prefix="(ix)">A shellfish plant;</section><section prefix="(x)">A soft drink manufacturing plant; or</section><section prefix="(xi)">A bottled water plant.</section></section>
-      <section prefix="(3)">"Food processing plant" does not include:<section prefix="(i)">A warehouse or distribution center that:</section><section prefix="(ii)">A cottage food business.</section></section>
+      <section prefix="(3)">"Food processing plant" does not include:<section prefix="(i)">A warehouse or distribution center that:<section prefix="1.">Does not process food; and</section><section prefix="2.">Stores only sealed containers of whole bean, ground or instant coffee, leaf or instant teas, nondairy dehydrated whiteners, sugar, or sugar-free sweeteners; or</section></section><section prefix="(ii)">A cottage food business.</section></section>
     </section>
     <section prefix="(h)">
       <section prefix="(1)">"Food service facility" means:<section prefix="(i)">A place where food or drink is prepared for sale or service on the premises or elsewhere; or</section><section prefix="(ii)">Any operation where food is served to or provided for the public, with or without charge.</section></section>

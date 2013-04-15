@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-102" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">A minor has the same capacity as an adult to consent to medical or dental treatment if the minor:<section prefix="(1)">Is married;</section><section prefix="(2)">Is the parent of a child; or</section><section prefix="(3)"><section prefix="(i)">Is living separate and apart from the minor's parent, parents, or guardian, whether with or without consent of the minor's parent, parents, or guardian; and</section><section prefix="(ii)">Is self-supporting, regardless of the source of the minor's income.</section></section></section>
     <section prefix="(b)">A minor has the same capacity as an adult to consent to medical treatment if, in the judgment of the attending physician, the life or health of the minor would be affected adversely by delaying treatment to obtain the consent of another individual.</section>

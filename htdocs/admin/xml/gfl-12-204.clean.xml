@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-204" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-12-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The basic child support obligation shall be determined in accordance with the schedule of basic child support obligations in subsection (e) of this section. The basic child support obligation shall be divided between the parents in proportion to their adjusted actual incomes.</section>
@@ -24,7 +24,7 @@
     <section prefix="(f)">The adjusted basic child support obligation shall be determined by multiplying the basic child support obligation by one and one-half.</section>
     <section prefix="(g)">
       <section prefix="(1)">Subject to paragraphs (2) and (3) of this subsection, actual child care expenses incurred on behalf of a child due to employment or job search of either parent shall be added to the basic obligation and shall be divided between the parents in proportion to their adjusted actual incomes.</section>
-      <section prefix="(2)">Child care expenses shall be:<section prefix="(i)">determined by actual family experience, unless the court determines that the actual family experience is not in the best interest of the child; or</section><section prefix="(ii)">if there is no actual family experience or if the court determines that actual family experience is not in the best interest of the child:</section></section>
+      <section prefix="(2)">Child care expenses shall be:<section prefix="(i)">determined by actual family experience, unless the court determines that the actual family experience is not in the best interest of the child; or</section><section prefix="(ii)">if there is no actual family experience or if the court determines that actual family experience is not in the best interest of the child:<section prefix="1.">the level required to provide quality care from a licensed source; or</section><section prefix="2.">if the obligee chooses quality child care with an actual cost of an amount less than the level required to provide quality care from a licensed source, the actual cost of the child care expense.</section></section></section>
       <section prefix="(3)">Additional child care expenses may be considered if a child has special needs.</section>
     </section>
     <section prefix="(h)">

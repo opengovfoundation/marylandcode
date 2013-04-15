@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-803" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">If a winning ticket is not redeemed within 1 year, the licensee into whose betting pool the bet was placed shall pay the amount needed to redeem the ticket to the Commission to be credited to the Special Fund under Subtitle 4 of this title.</section>
     <section prefix="(b)">Every year for the preceding calendar year, each licensee shall:<section prefix="(1)">report to the Commission the amount payable to the Commission under this section; and</section><section prefix="(2)">pay that amount to the Commission.</section></section>

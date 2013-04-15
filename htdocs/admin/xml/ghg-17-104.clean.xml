@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-104" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-17-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Mutual aid agreement" means a written agreement between a public health laboratory in the State and a public health laboratory operated by another state to establish and carry out a plan to assist each other in providing temporary testing services to alleviate an emergency at one of the laboratories.</section>
-      <section prefix="(3)">"Public health laboratory" means a laboratory operated by a state government to provide:<section prefix="(i)">Consulting and regulatory support of infectious disease, epidemiology, environmental, and regulatory public health programs; and</section><section prefix="(ii)">Tests or examinations in connection with:</section></section>
+      <section prefix="(3)">"Public health laboratory" means a laboratory operated by a state government to provide:<section prefix="(i)">Consulting and regulatory support of infectious disease, epidemiology, environmental, and regulatory public health programs; and</section><section prefix="(ii)">Tests or examinations in connection with:<section prefix="1.">The diagnosis and control of human diseases;</section><section prefix="2.">The assessment of human health, nutritional, or medical conditions; or</section><section prefix="3.">The environment.</section></section></section>
     </section>
     <section prefix="(b)">This section shall be liberally construed to promote its purpose of providing aid during an emergency at a public health laboratory.</section>
     <section prefix="(c)">
@@ -18,7 +18,7 @@
       <section prefix="(2)">A public health laboratory operated by another state that enters into a mutual aid agreement shall provide written documentation of the statutory authority required for that state to meet the responsibilities set forth in the agreement.</section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a mutual aid agreement shall provide that the party requesting assistance under the agreement shall indemnify and hold harmless the public health laboratory that provides assistance and its authorized personnel from any claim by a third party for property damage, personal injury, or wrongful death that arises out of activities, including travel, that are authorized by the agreement.</section>
-        <section prefix="(ii)">The party that requests assistance need not indemnify the party that provides assistance if:</section>
+        <section prefix="(ii)">The party that requests assistance need not indemnify the party that provides assistance if:<section prefix="1.">The party that provides assistance does not cooperate in defending against a claim made by a third party;</section><section prefix="2.">The claim by a third party arises out of a malicious or grossly negligent act of the party that provides assistance; or</section><section prefix="3.">The claim by a third party arises out of an act that is outside of the scope of the duties under the agreement of the party that provides assistance.</section></section>
       </section>
       <section prefix="(4)">A mutual aid agreement shall provide that each party to the agreement shall waive any claim against any other parties to the agreement if the claim arises out of the activities of a party that are within the scope of the agreement and that are performed without malice or gross negligence.</section>
     </section>

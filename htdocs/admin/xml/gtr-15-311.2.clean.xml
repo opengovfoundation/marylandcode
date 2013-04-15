@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-311.2" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-311.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For the purposes of this section, the term "mechanical repair contract" means any agreement or contract sold by a licensed vehicle dealer under which a specified provider agrees to perform over a fixed period of time, for a specific duration and for a specific identifiable price, services relating to the maintenance or repair of a motor vehicle, provided that the purchase of the contract is optional to the purchaser.</section>

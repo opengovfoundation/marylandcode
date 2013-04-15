@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-103" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-14-103</section_number>
-  <catch_line/>
+  <catch_line>This title does not apply to:...</catch_line>
+  <order_by>103</order_by>
   <text>This title does not apply to:<section prefix=""><section prefix="(1)">the abuse of a patient in a mental health facility, under Title 10 of the Health - General Article;</section><section prefix="(2)">the abuse of a patient in a facility for individuals with an intellectual disability under Title 7 of the Health - General Article;</section><section prefix="(3)">the abuse of a patient in a nursing home under Title 19 of the Health - General Article; or</section><section prefix="(4)">the abuse of a patient in a hospital under Title 19 of the Health - General Article.</section></section></text>
 </law>

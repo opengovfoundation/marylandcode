@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-348" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-348</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>348</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, a juvenile court shall rule on the adoption petition under this Part IV of this subtitle promptly but no later than 180 days after the petition is filed.</section>
     <section prefix="(b)">A juvenile court may not enter an order for adoption of a child under this Part IV of this subtitle before the later of:<section prefix="(1)">30 days after the birth of the child; or</section><section prefix="(2)">10 days after the notice is served under &#xA7; 5-346 of this subtitle.</section></section>

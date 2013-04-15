@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1406" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1406</order_by>
   <text>
     <section prefix="(a)">A carrier may not establish rules for eligibility of an individual to enroll under a group health benefit plan based on any health status-related factor.</section>
     <section prefix="(b)">Subsection (a) of this section does not:<section prefix="(1)">require a carrier to provide particular benefits other than those provided under the terms of the particular health benefit plan; or</section><section prefix="(2)">prevent a carrier from establishing limitations or restrictions on the amount, level, extent, or nature of the benefits or coverage for similarly situated individuals enrolled in the health benefit plan.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-205" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The provisions of &#xA7; 4-204 of this subtitle do not apply to the construction activities of State or federal agencies.</section>
     <section prefix="(b)">After July 1, 1984, a State or federal agency may not undertake any land clearing, soil movement, or construction activity involving soil movement unless the agency has submitted and obtained approval of a stormwater management plan from the Department.</section>

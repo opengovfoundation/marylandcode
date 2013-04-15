@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-210" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-10-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">If on or before September 1 of a taxable year the Department has not notified a county or municipal corporation of any particular personal property assessment, or any operating property assessment, the Mayor and City Council of Baltimore City or the governing body of the county or of the municipal corporation may authorize, by law, the payment of estimated property tax under subsection (b) of this section.</section>
     <section prefix="(b)">

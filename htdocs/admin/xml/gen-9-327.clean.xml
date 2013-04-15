@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-327" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-327</section_number>
-  <catch_line/>
+  <catch_line>The Department may refuse to issue a discharge permit if:...</catch_line>
+  <order_by>327</order_by>
   <text>The Department may refuse to issue a discharge permit if:<section prefix=""><section prefix="(1)">The applicant fails or refuses to allow any representative of the Department to inspect the proposed permit site;</section><section prefix="(2)">The Department finds that issuance of the permit would violate any State or federal law or any rule or regulation adopted under any State or federal law; or</section><section prefix="(3)">The applicant fails or refuses to pay the permit fee assessed under &#xA7; 9-325(c) of this subtitle.</section></section></text>
 </law>

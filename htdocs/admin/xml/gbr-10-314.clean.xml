@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-314" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-314</section_number>
-  <catch_line/>
+  <catch_line>Each supplier of motor fuel to a retail service station dealer shall ensure that the motor fuel meet...</catch_line>
+  <order_by>314</order_by>
   <text>Each supplier of motor fuel to a retail service station dealer shall ensure that the motor fuel meets specifications set by the Comptroller.</text>
 </law>

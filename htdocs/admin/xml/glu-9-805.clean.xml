@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-805" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-9-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">Subject to subsections (b) and (c) of this section, the subdivision regulations may provide for the reservation of property for traffic, recreation, or other public purposes.</section>
     <section prefix="(b)">A reservation of property under subsection (a) of this section may not continue for longer than 3 years without the written approval of all persons with a legal or equitable interest in the property.</section>

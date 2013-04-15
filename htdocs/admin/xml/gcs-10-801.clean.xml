@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-801" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this section:<section prefix="(1)">"contraband" means any item, material, substance, or other thing of value that:<section prefix="(i)">is not authorized for inmate possession by the Commissioner of Correction, the Director of Patuxent Institution, the Commissioner of Pretrial Detention and Services, or the warden of a State correctional facility; or</section><section prefix="(ii)">is brought into a State correctional facility in a manner prohibited by the Commissioner of Correction, the Director of Patuxent Institution, the Commissioner of Pretrial Detention and Services, or the warden of a State correctional facility.</section></section><section prefix="(2)">"contraband" includes any other property defined in regulations by the Commissioner of Correction, the Director of Patuxent Institution, or the Commissioner of Pretrial Detention and Services.</section></section>
     <section prefix="(b)">
@@ -21,7 +21,7 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">Property confiscated as contraband may be subject to forfeiture.</section>
-        <section prefix="(ii)">Property may not be forfeited under subparagraph (i) of this paragraph, unless, prior to forfeiture, the State correctional facility provides notice to the inmate:</section>
+        <section prefix="(ii)">Property may not be forfeited under subparagraph (i) of this paragraph, unless, prior to forfeiture, the State correctional facility provides notice to the inmate:<section prefix="1.">that the property has been confiscated; and</section><section prefix="2.">of the right to a hearing on the issue of forfeiture.</section></section>
         <section prefix="(iii)">A hearing on a disciplinary infraction may include the adjudication of any issue of forfeiture of confiscated property.</section>
       </section>
     </section>

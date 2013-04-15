@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1605" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-2-1605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1605</order_by>
   <text>
     <section prefix="(a)">An investigating committee shall have the chairman and vice chairman who:<section prefix="(1)">are appointed by the resolution that establishes the investigating committee; or</section><section prefix="(2)">if the resolution does not appoint these officers, are elected by affirmative vote of a majority of all of the members of the investigating committee.</section></section>
     <section prefix="(b)">The rules of an investigating committee shall provide for the selection of a presiding officer to act if the chairman and the vice chairman are absent or unable to act.</section>

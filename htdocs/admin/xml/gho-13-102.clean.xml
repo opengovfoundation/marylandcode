@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-102" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-13-102</section_number>
-  <catch_line/>
+  <catch_line>Except as specifically provided in this title, this title does not limit the right of:...</catch_line>
+  <order_by>102</order_by>
   <text>Except as specifically provided in this title, this title does not limit the right of:<section prefix=""><section prefix="(1)">An individual to practice a health occupation that the individual is authorized to practice under this article;</section><section prefix="(2)">A chiropractor to practice physical therapy if the chiropractor is authorized to practice physical therapy under Title 3 of this article;</section><section prefix="(3)">An individual to provide nonmedical services while:<section prefix="(i)">Practicing cosmetology; or</section><section prefix="(ii)">Operating a health club; or</section></section><section prefix="(4)">A health club to advertise as a health club.</section></section></text>
 </law>

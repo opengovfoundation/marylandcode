@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-712.5" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-712.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>712.5</order_by>
   <text>
     <section prefix="(a)">A health maintenance organization shall reimburse a hospital emergency facility and provider, less any applicable co-payments, for medically necessary services provided to a member or subscriber of the health maintenance organization if the health maintenance organization authorized, directed, referred, or otherwise allowed the member or subscriber to use the emergency facility and the medically necessary services are related to the condition for which the member was allowed to use the emergency facility.</section>
     <section prefix="(b)">A health maintenance organization shall reimburse a hospital emergency facility and provider, less any applicable co-payments, for medically necessary services that relate to the condition presented and that are provided by the provider in the emergency facility to a member or subscriber of the health maintenance organization if the health maintenance organization fails to provide 24-hour access in accordance with the standards of quality of care required under &#xA7; 19-705.1(b)(1)(ii) of this subtitle.</section>

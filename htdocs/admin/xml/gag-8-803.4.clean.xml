@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-803.4" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-803.4</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803.4</order_by>
   <text>
     <section prefix="(a)">In this section, "fertilizer" means a commercial fertilizer and specialty fertilizer.</section>
     <section prefix="(b)">
@@ -25,14 +25,14 @@
     <section prefix="(f)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, a professional fertilizer applicator may not apply fertilizer containing nitrogen to turf:<section prefix="(i)">At an application rate of more than 0.7 pounds per 1,000 feet of water-soluble nitrogen; and</section><section prefix="(ii)">At an application rate of more than 0.9 pounds per 1,000 square feet of total nitrogen.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">Subject to subparagraphs (ii) and (iii) of this paragraph, a professional fertilizer applicator may apply an enhanced efficiency fertilizer:</section>
+        <section prefix="(i)">Subject to subparagraphs (ii) and (iii) of this paragraph, a professional fertilizer applicator may apply an enhanced efficiency fertilizer:<section prefix="1.">At an annual application rate of no more than 2.5 pounds per 1,000 square feet of nitrogen; and</section><section prefix="2.">That has a release rate of no more than 0.7 pounds per 1,000 square feet of total nitrogen per month.</section></section>
         <section prefix="(ii)">The annual total application rate of an enhanced efficiency fertilizer may not exceed 80% of the annual recommended rate for total nitrogen established by the University of Maryland.</section>
         <section prefix="(iii)">An enhanced efficiency fertilizer may not be applied after November 15 or before March 1 of each calendar year.</section>
       </section>
     </section>
     <section prefix="(g)">
       <section prefix="(1)">Except as provided in paragraphs (2) and (4) of this subsection, a professional fertilizer applicator may not apply fertilizer containing phosphorus to turf.</section>
-      <section prefix="(2)">A professional fertilizer applicator may apply organic or natural organic fertilizer containing phosphorus to turf when:<section prefix="(i)"/><section prefix="(ii)"/></section>
+      <section prefix="(2)">A professional fertilizer applicator may apply organic or natural organic fertilizer containing phosphorus to turf when:<section prefix="(i)"><section prefix="1.">A soil test performed no more than 3 years before the fertilizer application indicates a low or medium level of phosphorus; and</section><section prefix="2.">The fertilizer is applied at a rate recommended by the University of Maryland; and</section></section><section prefix="(ii)"><section prefix="1.">Beginning October 1, 2013, a soil test performed no more than 3 years before the fertilizer application indicates a low or medium level of phosphorus; and</section><section prefix="2.">A low phosphorus fertilizer, as defined under &#xA7; 6-201 of this article, that is an organic or natural organic fertilizer is applied at a rate recommended by the University of Maryland.</section></section></section>
       <section prefix="(3)">Paragraph (2) of this subsection does not authorize a professional fertilizer applicator to apply fertilizer containing phosphorus when a soil test indicates an optimum or excessive level of phosphorus.</section>
       <section prefix="(4)">A professional fertilizer applicator may apply fertilizer to turf containing phosphorus if the professional fertilizer applicator:<section prefix="(i)">Determines that the fertilizer is necessary for the specific soils and target vegetation in accordance with a soil test performed no more than 3 years before the fertilizer application, provided the application complies with the recommendations established by the University of Maryland;</section><section prefix="(ii)">Is establishing vegetation for the first time, such as after land disturbance, provided the application complies with the recommendations established by the University of Maryland; or</section><section prefix="(iii)">Is reestablishing or repairing a turf area.</section></section>
     </section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-806" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-806</section_number>
-  <catch_line/>
+  <catch_line>The Department, the Attorney General, and the State's Attorney for a county may apply to the appropr...</catch_line>
+  <order_by>806</order_by>
   <text>The Department, the Attorney General, and the State's Attorney for a county may apply to the appropriate court for a temporary or permanent injunction to restrain a person from violating this title:<section prefix=""><section prefix="(1)">whether or not an adequate remedy at law exists;</section><section prefix="(2)">in addition to the other remedies provided by this title; and</section><section prefix="(3)">notwithstanding any other law.</section></section></text>
 </law>

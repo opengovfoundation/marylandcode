@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-203" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-14-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">If sufficient money is not available at the time to satisfy an award made against this State or an officer or unit of this State, the affected unit or officer shall report the outstanding award to the State Comptroller.</section>
     <section prefix="(b)">The Comptroller shall:<section prefix="(1)">keep an accounting of all outstanding awards; and</section><section prefix="(2)">report that accounting annually to the Governor.</section></section>

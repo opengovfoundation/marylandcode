@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-319" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4-319</section_number>
-  <catch_line/>
+  <catch_line>A building or other structure that is used or intended to be used, wholly or partly, for a contest s...</catch_line>
+  <order_by>319</order_by>
   <text>A building or other structure that is used or intended to be used, wholly or partly, for a contest shall be ventilated properly and have fire exits and escapes in conformance with local law.</text>
 </law>

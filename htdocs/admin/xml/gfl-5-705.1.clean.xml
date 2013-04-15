@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-705.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-705.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705.1</order_by>
   <text>
     <section prefix="(a)">In this section, "local department" means a department of social services for a county in this State.</section>
     <section prefix="(b)">The following provisions of this subtitle shall apply to the reporting of suspected abuse or neglect under this section:<section prefix="(1)">except as provided in subsection (a) of this section, the definitions set forth in &#xA7; 5-701 of this subtitle;</section><section prefix="(2)">the provisions relating to the confidentiality of reports specified in &#xA7; 5-707(a)(1) and (2) of this subtitle; and</section><section prefix="(3)">the provisions relating to immunity from civil liability or criminal penalty specified in &#xA7; 5-708 of this subtitle.</section></section>

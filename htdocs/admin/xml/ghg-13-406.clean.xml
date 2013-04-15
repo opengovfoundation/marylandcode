@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-406" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">Twelve members of the State Advisory Council are a quorum.</section>
     <section prefix="(b)">The State Advisory Council shall meet:<section prefix="(1)">Regularly at the times and places that it determines; and</section><section prefix="(2)">At the call of:<section prefix="(i)">The Governor;</section><section prefix="(ii)">The Secretary; or</section><section prefix="(iii)">The Chairman.</section></section></section>

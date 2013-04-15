@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-505" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-505</section_number>
-  <catch_line/>
+  <catch_line>The holder of a power of attorney may not cancel an insurance contract because a delinquency and col...</catch_line>
+  <order_by>505</order_by>
   <text>The holder of a power of attorney may not cancel an insurance contract because a delinquency and collection charge under &#xA7; 23-306 of this title has not been paid.</text>
 </law>

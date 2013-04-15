@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-625" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-625</section_number>
-  <catch_line/>
+  <catch_line>Before accepting an advance directive into the Registry, the Department shall review and verify that...</catch_line>
+  <order_by>625</order_by>
   <text>Before accepting an advance directive into the Registry, the Department shall review and verify that the advance directive includes:<section prefix=""><section prefix="(1)">The signature of the declarant;</section><section prefix="(2)">The date on which the advance directive was signed by the declarant; and</section><section prefix="(3)">The signature of two witnesses as provided in &#xA7; 5-602(c) of this subtitle.</section></section></text>
 </law>

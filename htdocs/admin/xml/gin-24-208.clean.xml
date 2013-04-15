@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-208" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-24-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">The directors of the Society may establish membership fees in amounts they consider reasonable, to be paid by the members of the Society.</section>
     <section prefix="(b)">Each physician who paid the special one-time tax imposed by former Article 48A, &#xA7; 552(b) of the Code shall be credited with the amount of the tax paid against the liability of the physician for the membership fee.</section>

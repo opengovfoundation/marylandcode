@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-835" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-835</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>835</order_by>
   <text>
     <section prefix="(a)">A licensed elevator contractor shall respond as necessary to ensure public safety if:<section prefix="(1)">an emergency exists in the State because of disaster, act of God, or work stoppage; and</section><section prefix="(2)">the number of licensed elevator mechanics in the State is insufficient to cope with the emergency.</section></section>
     <section prefix="(b)">Within 5 business days after beginning work that requires an elevator mechanic license, an individual certified by a licensed elevator contractor to have an acceptable combination of documented experience and education to perform elevator work without direct and immediate supervision shall seek an emergency elevator mechanic license from the Board.</section>

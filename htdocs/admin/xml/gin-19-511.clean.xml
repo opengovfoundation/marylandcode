@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-511" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(a)">If an injured person receives a written offer from a motor vehicle insurance liability insurer or that insurer's authorized agent to settle a claim for bodily injury or death, and the amount of the settlement offer, in combination with any other settlements arising out of the same occurrence, would exhaust the bodily injury or death limits of the applicable liability insurance policies, bonds, and securities, the injured person shall send by certified mail, to any insurer that provides uninsured motorist coverage for the bodily injury or death, a copy of the liability insurer's written settlement offer.</section>
     <section prefix="(b)">Within 60 days after receipt of the notice required under subsection (a) of this section, the uninsured motorist insurer shall send to the injured person:<section prefix="(1)">written consent to acceptance of the settlement offer and to the execution of releases; or</section><section prefix="(2)">written refusal to consent to acceptance of the settlement offer.</section></section>

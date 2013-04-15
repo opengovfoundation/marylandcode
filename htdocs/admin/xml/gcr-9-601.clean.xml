@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-601" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this section, "emergency" means a circumstance in which:<section prefix="(1)">an individual is or is reasonably believed by the person transmitting the communication to be in imminent danger of death or serious bodily harm; or</section><section prefix="(2)">property is in imminent danger of damage or destruction.</section></section>
     <section prefix="(b)">A person may not:<section prefix="(1)">knowingly, intentionally, or recklessly interrupt, disrupt, impede, or otherwise interfere with the transmission of a two-way radio communication made:<section prefix="(i)">to inform or inquire about an emergency; and</section><section prefix="(ii)">on a frequency commonly used or monitored by an emergency services organization; or</section></section><section prefix="(2)">transmit false information about an emergency on a two-way radio frequency commonly used or monitored by an emergency services organization.</section></section>

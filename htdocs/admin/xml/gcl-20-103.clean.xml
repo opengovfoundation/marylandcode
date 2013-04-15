@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-20-103</section_number>
-  <catch_line/>
+  <catch_line>Nothing in this title shall validate a transaction that is actually or constructively fraudulent....</catch_line>
+  <order_by>103</order_by>
   <text>Nothing in this title shall validate a transaction that is actually or constructively fraudulent.</text>
 </law>

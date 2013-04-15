@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-203" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Comptroller shall:<section prefix="(1)">cause to be printed or otherwise prepared, in the form required by law or usage, blank licenses of each kind authorized by law; and</section><section prefix="(2)">deliver to the clerks the number and kind of blank licenses that they need.</section></section>
     <section prefix="(b)">

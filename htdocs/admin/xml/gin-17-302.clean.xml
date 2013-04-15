@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-302" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Each policy of group life insurance shall contain a provision that the policyholder is entitled to a grace period of 31 days for payment of any premium due except the first premium.</section>
     <section prefix="(b)">The death benefit coverage continues in force during the grace period unless the policyholder has given the insurer written notice of discontinuance before the date of discontinuance and in accordance with the terms of the policy.</section>

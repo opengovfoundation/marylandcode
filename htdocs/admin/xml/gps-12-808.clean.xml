@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-808" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-808</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>808</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, each elevator unit owned or to be operated shall be registered with the Commissioner at least 60 days before its planned completion and before it is placed in service.</section>
     <section prefix="(b)">

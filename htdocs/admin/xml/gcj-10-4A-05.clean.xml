@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-4A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-4A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A subpoena or court order issued under &#xA7; 10-4A-04 of this subtitle may include a requirement that the service provider to whom the request is directed create a backup copy of the contents of the electronic communications sought in order to preserve those communications. Without notifying the subscriber or customer of the subpoena or court order, the service provider shall create a backup copy as soon as practicable consistent with the provider's regular business practices and shall confirm to the governmental entity that the backup copy has been made. The service provider shall create a backup copy under this subsection within 24 hours after the day on which the service provider receives the subpoena or court order.</section>

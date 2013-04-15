@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-520" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-520</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>520</order_by>
   <text>
     <section prefix="(a)">Within 60 days after an application for a license is received, the Secretary shall:<section prefix="(1)">Have an investigation made of the application; and</section><section prefix="(2)">Give the governing body for the county where the private group home is to be located notice of:<section prefix="(i)">The filing of the application; and</section><section prefix="(ii)">The findings of the investigation.</section></section></section>
     <section prefix="(b)">

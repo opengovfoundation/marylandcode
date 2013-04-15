@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-664" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-664</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>664</order_by>
   <text>
     <section prefix="(a)">An independent system may be constructed in accordance with this section:<section prefix="(1)">By a member county at its own expense; or</section><section prefix="(2)">By and at the expense of the owners of property that will be served by the independent system.</section></section>
     <section prefix="(b)">A person or member county may construct an independent system only if:<section prefix="(1)">The independent system will serve an area that is not served by a project or a municipal system; and</section><section prefix="(2)">The sanitary commission approves.</section></section>

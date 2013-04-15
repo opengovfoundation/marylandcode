@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-406" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-406</section_number>
-  <catch_line/>
+  <catch_line>Compliance with this subtitle shall be determined in light of the facts and circumstances existing a...</catch_line>
+  <order_by>406</order_by>
   <text>Compliance with this subtitle shall be determined in light of the facts and circumstances existing at the time a decision is made or action is taken. </text>
 </law>

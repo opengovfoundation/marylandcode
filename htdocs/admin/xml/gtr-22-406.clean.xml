@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-406" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">"Safety glass" means:<section prefix="(1)">Any glass product that is so made or treated as substantially to prevent the glass from shattering and flying when struck or broken; or</section><section prefix="(2)">Any similar or other product that the Administration approves.</section></section>
     <section prefix="(b)">A person may not drive on any highway in this State any motor vehicle manufactured or assembled after June 1, 1937, and registered in this State, unless the vehicle is equipped with safety glass wherever glass is used in the motor vehicle in doors, windows, windshields, and wings.</section>
@@ -24,8 +24,8 @@
       <section prefix="(3)">A person may not install on a window of a vehicle any window tinting material that does not comply with the light transmittance requirements specified in paragraph (1) of this subsection.</section>
       <section prefix="(4)">
         <section prefix="(i)">A person who must be protected from the sun for medical reasons is exempt from the provisions of paragraph (1) of this subsection if the owner has, in the vehicle at the time the vehicle is stopped by a police officer, a written certification that details the owner's medical need for tinted windows, from a physician licensed to practice medicine in the State.</section>
-        <section prefix="(ii)">This subsection does not apply to tinting materials that:</section>
-        <section prefix="(iii)">Nothing in this subsection may be construed to:</section>
+        <section prefix="(ii)">This subsection does not apply to tinting materials that:<section prefix="1.">Are affixed in such a manner so as to be easily removed; and</section><section prefix="2.">Are being used to protect a child less than 10 years of age from the sun.</section></section>
+        <section prefix="(iii)">Nothing in this subsection may be construed to:<section prefix="1.">Allow any tinting materials to be added to the windshield of a vehicle below the AS1 line or below 5 inches from the top of the windshield; or</section><section prefix="2.">Alter or restrict the authority of the Administrator to adopt regulations regarding vehicle windows, except with respect to the light transmittance requirements specified in this section.</section></section>
       </section>
     </section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-10B-17" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-10B-17</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>17</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, this section does not apply to:<section prefix="(i)">a private review agent referring an individual to a health care provider or facility that participates in a health maintenance organization;</section><section prefix="(ii)">a preferred provider organization network of participating health care providers or facilities to which the individual would otherwise be referred as part of the individual's membership or insurance contract; or</section><section prefix="(iii)">an employee assistance program referring an individual to a network of participating health care providers or facilities in accordance with a contract with the individual's employer or labor union to provide comprehensive mental health and substance abuse services.</section></section>

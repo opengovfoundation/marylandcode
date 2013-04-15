@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-903" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-903</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>903</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The governing body of any county may apply for assistance to establish a mental health program under Part I of this subtitle.</section>

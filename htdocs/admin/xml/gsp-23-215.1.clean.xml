@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-215.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-23-215.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215.1</order_by>
   <text>
-    <section prefix="(a)">This section applies to a member who:<section prefix="(1)">on or before June 30, 2011, is subject to the Alternate Contributory Pension Selection;</section><section prefix="(2)"><section prefix="(i)">is separated from employment for 4 years or less; or</section><section prefix="(ii)"/></section><section prefix="(3)">does not withdraw the member's accumulated contributions; and</section><section prefix="(4)">does not become a retiree.</section></section>
+    <section prefix="(a)">This section applies to a member who:<section prefix="(1)">on or before June 30, 2011, is subject to the Alternate Contributory Pension Selection;</section><section prefix="(2)"><section prefix="(i)">is separated from employment for 4 years or less; or</section><section prefix="(ii)"><section prefix="1.">is separated from employment for more than 4 years for military service that meets the requirements of the federal Uniformed Services Employment and Reemployment Rights Act; and</section><section prefix="2.">resumes employment within 1 year of leaving military service in a position that is included in the Employees' Pension System or Teachers' Pension System;</section></section></section><section prefix="(3)">does not withdraw the member's accumulated contributions; and</section><section prefix="(4)">does not become a retiree.</section></section>
     <section prefix="(b)">A member described in subsection (a) of this section who on or before June 30, 2016, resumes employment and is rehired into a position that is included in the Employees' Pension System or Teachers' Pension System, shall resume participation in the Alternate Contributory Pension Selection.</section>
     <section prefix="(c)">On or before October 1, 2012, and each October 1 through October 1, 2016, the Board of Trustees shall submit a report in accordance with &#xA7; 2-1246 of the State Government Article to the Joint Committee on Pensions that provides the number of members described under subsection (a) of this section who were:<section prefix="(1)">rehired in the preceding fiscal year into a position included in the Employees' Pension System or Teachers' Pension System; and</section><section prefix="(2)">participating in the Alternate Contributory Pension Selection.</section></section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-701" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">The State Board shall require each county board to provide in each elementary school a free and reduced price breakfast, unless the school is exempted under &#xA7; 7-702 of this subtitle.</section>
     <section prefix="(b)">The free and reduced price breakfast required to be provided under this section shall meet the standards of the United States Department of Agriculture.</section>

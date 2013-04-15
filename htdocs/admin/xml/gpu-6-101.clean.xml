@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-101" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-6-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection applies only to corporations that operate in Maryland.</section>
@@ -22,7 +22,7 @@
       <section prefix="(2)">In this subsection, a company controlling a public service company is deemed a public service company of the same class as the controlled public service company.</section>
       <section prefix="(3)">Without prior authorization of the Commission, a public service company may not take, hold, or acquire any part of the capital stock of a public service company that:<section prefix="(i)">operates in Maryland; and</section><section prefix="(ii)">is of the same class as the acquiring company.</section></section>
       <section prefix="(4)">
-        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a stock corporation may not take, hold, or acquire more than 10% of the total capital stock of a public service company that operates in Maryland unless:</section>
+        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, a stock corporation may not take, hold, or acquire more than 10% of the total capital stock of a public service company that operates in Maryland unless:<section prefix="1.">the stock is acquired as collateral security; and</section><section prefix="2.">the Commission approves the acquisition.</section></section>
         <section prefix="(ii)">The Commission may authorize a public service company of the same class to take, hold, or acquire more than 10% of the total capital stock of a public service company that operates in Maryland.</section>
       </section>
       <section prefix="(5)">A public service company may not be a party to a violation of this subsection.</section>

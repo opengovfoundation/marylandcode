@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-310" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">All RBC reports and RBC plans related to any domestic insurer or foreign insurer that are filed with the Commissioner:<section prefix="(1)">constitute confidential commercial information that might be damaging to the insurer if made available to the insurer's competitors;</section><section prefix="(2)">shall be kept confidential by the Commissioner; and</section><section prefix="(3)">may not be made public or be subject to subpoena, other than by the Commissioner and then only for the purpose of enforcement actions taken by the Commissioner under this subtitle or any other provision of this article.</section></section>
     <section prefix="(b)">The provisions of this section apply to:<section prefix="(1)">RBC reports, to the extent the information in the RBC report is not required to be set forth in a publicly available annual statement schedule; and</section><section prefix="(2)">RBC plans, including the results or report of any examination or analysis of an insurer performed in connection with any RBC plan and any corrective order issued by the Commissioner pursuant to the examination or analysis.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-424" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-424</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>424</order_by>
   <text>
     <section prefix="(a)">A loan guarantee of the principal of or interest on any commercial loan or obligation to finance the eligible cost of a project under this subtitle may only be made if the applicant certifies that it is unable to obtain on reasonable terms sufficient credit to finance its actual needs without the guarantee and if the Board of Public Works determines that there is a reasonable assurance of repayment of the loan obligation.</section>
     <section prefix="(b)">A loan guarantee may not exceed $500,000 for each project or part of a project in any calendar year unless the Board of Public Works determines that extraordinary circumstances exist.</section>

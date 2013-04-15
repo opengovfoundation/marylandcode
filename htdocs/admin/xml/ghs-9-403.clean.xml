@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-9-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">An application for community reinvestment assistance shall be made to the Department of Housing and Community Development, to the Department of Business and Economic Development, to an entity contributing to the Fund, or, if the Board allows, directly to the Fund.</section>
     <section prefix="(b)">The Department of Housing and Community Development and the Department of Business and Economic Development may provide technical assistance in the underwriting or review of a loan for which an application has been submitted.</section>

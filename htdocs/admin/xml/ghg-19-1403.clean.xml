@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-1403" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-1403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1403</order_by>
   <text>
     <section prefix="(a)">If a civil money penalty is proposed, the Secretary shall issue an order which shall state the basis on which the order is made, the deficiency or deficiencies on which the order is based, the amount of civil money penalties to be imposed, and the manner in which the amount of civil money penalties imposed was calculated.</section>
     <section prefix="(b)">An order issued pursuant to subsection (a) of this section shall be void unless issued within 60 days of the inspection or reinspection at which the deficiency is identified.</section>

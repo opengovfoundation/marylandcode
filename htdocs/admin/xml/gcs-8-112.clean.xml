@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-112" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-8-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission shall:<section prefix="(i)">advise the Secretary regarding all minimum mandatory standards and approved standards for State and local correctional facilities;</section><section prefix="(ii)">consult and coordinate with national bodies promulgating correctional standards to provide reasonable compatibility between the State standards and nationally established standards; and</section><section prefix="(iii)">consult and cooperate with other units of the State and local jurisdictions concerning correctional standards.</section></section>

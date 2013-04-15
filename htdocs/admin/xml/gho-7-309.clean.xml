@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-309" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-7-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided by law, a corporation may not operate a mortuary science business and the Board may not issue a license to or list any corporation as licensed to operate a mortuary science business.</section>
     <section prefix="(b)">The Board may renew only the license of a corporation that:<section prefix="(1)">On June 1, 1945, held a license issued by this State;</section><section prefix="(2)">Has been renewed continuously since that date;</section><section prefix="(3)">Submits an application on a form required by the Board; and</section><section prefix="(4)">Pays a fee set by the Board.</section></section>

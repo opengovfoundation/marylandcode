@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="1A" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-1A</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1A</order_by>
   <text>
     <section prefix="(a)">Unless otherwise specifically provided by the laws of Maryland, a county governed by county commissioners and organized according to the provisions of this article, and every officer, department, agency, board, commission, or other unit of county government may not raise the defense of sovereign immunity in the courts of this State in an action in contract based upon a written contract executed on behalf of the county, or its department, agency, board, commission, or unit by an official or employee acting within the scope of his authority.</section>
     <section prefix="(b)">In any action in contract described under subsection (a) of this section, the county, or its officer, department, agency, board, commission, or other unit of government shall have the immunity from liability described under &#xA7; 5-508(a) of the Courts and Judicial Proceedings Article.</section>

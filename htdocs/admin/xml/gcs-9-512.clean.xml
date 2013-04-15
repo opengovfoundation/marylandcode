@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-512" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">For each inmate assigned to and employed by the State Highway Administration or a county or municipal corporation, respectively, under &#xA7; 9-509 or &#xA7; 9-511 of this subtitle, the State Highway Administration, county, or municipal corporation shall pay to the Division of Correction the daily sum agreed on with the Division of Correction for each day that the inmate is employed.</section>
     <section prefix="(b)">

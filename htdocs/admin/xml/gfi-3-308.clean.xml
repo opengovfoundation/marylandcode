@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-308" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">The board of directors of a commercial bank may not declare a stock dividend unless its surplus, after the increase in capital stock, is equal to at least 20 percent of the outstanding capital stock as increased.</section>
     <section prefix="(b)">If the surplus of the commercial bank, after the increase in capital stock, is less than 100 percent of its capital stock as increased, the commercial bank annually shall transfer to surplus at least 10 percent of its net earnings until the surplus is 100 percent of its capital stock as increased.</section>

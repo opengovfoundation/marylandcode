@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-1A-02" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-1A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">In addition to any tax imposed under &#xA7; 11-102 of this title, except as provided in subsection (b) of this section, a tax is imposed on the use, in the State, of electricity that is not delivered by a public service company.</section>
     <section prefix="(b)">The special use tax on electricity does not apply to the use of:<section prefix="(1)">electricity that is:<section prefix="(i)">used for residential purposes; or</section><section prefix="(ii)">used exclusively for emergency back-up generation; or</section></section><section prefix="(2)">on-site generated electricity.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c3" order_by="" level="1"/>
-    <unit label="chapter" identifier="4" order_by="" level="2"/>
+    <unit label="article" identifier="c3" order_by="" level="1">III - Legislative Department</unit>
   </structure>
   <section_number>c3-4</section_number>
-  <catch_line/>
+  <catch_line>Each legislative district shall consist of adjoining territory, be compact in form, and of substanti...</catch_line>
+  <order_by>4</order_by>
   <text>Each legislative district shall consist of adjoining territory, be compact in form, and of substantially equal population. Due regard shall be given to natural boundaries and the boundaries of political subdivisions.</text>
 </law>

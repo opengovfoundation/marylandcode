@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-305" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Each county board shall keep:<section prefix="(1)">All money for the construction of public school buildings and public school facilities and the purchase of land for public schools in a separate account from that used for current expenses; and</section><section prefix="(2)">A separate and independent accounting system for all public school construction money.</section></section>
     <section prefix="(b)">

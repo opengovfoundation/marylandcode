@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-346" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-346</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>346</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -27,7 +27,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">A facility shall keep the accounts of its residents separate from the accounts of the facility.</section>
-      <section prefix="(2)">A facility that is operated by a person other than a State, county, or municipal agency shall:<section prefix="(i)">Establish a separate account with a bank in the name of each resident who entrusts more than $100 to the facility; and</section><section prefix="(ii)">Deposit other money that the facility is required to deposit, in either:</section></section>
+      <section prefix="(2)">A facility that is operated by a person other than a State, county, or municipal agency shall:<section prefix="(i)">Establish a separate account with a bank in the name of each resident who entrusts more than $100 to the facility; and</section><section prefix="(ii)">Deposit other money that the facility is required to deposit, in either:<section prefix="1.">A separate account in the name of the resident; or</section><section prefix="2.">An account that is designated "General Fund of the Participating Residents of the (name of facility)".</section></section></section>
       <section prefix="(3)">If the facility is operated by a State, county, or municipal agency, the facility may establish any required accounts with a bank or with the State, county, or municipal treasurer.</section>
     </section>
     <section prefix="(f)">
@@ -41,14 +41,14 @@
     </section>
     <section prefix="(h)">A facility may:<section prefix="(1)">Include in its operating costs the cost of establishing and servicing accounts for private, State, and federally funded residents; and</section><section prefix="(2)">Recover the cost through a daily or monthly charge for care or as provided in rules or regulations that the Secretary of Health and Human Services adopts under the Social Security Act.</section></section>
     <section prefix="(i)">
-      <section prefix="(1)">A facility:<section prefix="(i)">Shall make an accounting of money of a resident to the resident or personal representative of the resident; and</section><section prefix="(ii)">In accordance with Department rules and regulations:</section></section>
-      <section prefix="(2)">Each facility that, under the rules and regulations of the Department, is a comprehensive care facility or an extended care facility shall:<section prefix="(i)">Have a monthly accounting available for inspection; and</section><section prefix="(ii)">Provide a quarterly statement on money of a resident:</section></section>
+      <section prefix="(1)">A facility:<section prefix="(i)">Shall make an accounting of money of a resident to the resident or personal representative of the resident; and</section><section prefix="(ii)">In accordance with Department rules and regulations:<section prefix="1.">Shall keep, at the facility, records of all transactions with money of residents; and</section><section prefix="2.">Shall be subject to audit.</section></section></section>
+      <section prefix="(2)">Each facility that, under the rules and regulations of the Department, is a comprehensive care facility or an extended care facility shall:<section prefix="(i)">Have a monthly accounting available for inspection; and</section><section prefix="(ii)">Provide a quarterly statement on money of a resident:<section prefix="1.">To the resident; or</section><section prefix="2.">To a person exercising the right of the resident under &#xA7; 19-344(r) of this subtitle.</section></section></section>
     </section>
     <section prefix="(j)">
       <section prefix="(1)">If a facility discharges a resident, the facility shall:<section prefix="(i)">Return, on demand, the money of the resident that the facility has in possession to the resident or a designee of the resident if the resident or designee signs a receipt; and</section><section prefix="(ii)">Make the money of the resident in an account with a bank or the State, county, or municipal treasurer available to the resident or designee within 3 banking days.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">This paragraph does not apply to a resident who is transferred temporarily to an acute care facility.</section>
-        <section prefix="(ii)">If a facility discharges a resident and the facility is the representative payee of the resident, the facility shall:</section>
+        <section prefix="(ii)">If a facility discharges a resident and the facility is the representative payee of the resident, the facility shall:<section prefix="1.">Promptly seek designation of a new representative payee; and</section><section prefix="2.">Transfer all money of the resident to the new representative payee.</section></section>
       </section>
     </section>
     <section prefix="(k)">
@@ -65,7 +65,7 @@
       <section prefix="(2)">
         <section prefix="(i)">A person may make a written or oral complaint if the person believes that there has been an abuse of funds.</section>
         <section prefix="(ii)">The complaint shall set forth each reason for the belief that there has been an abuse of funds and any facts that the complainant has to support the complaint.</section>
-        <section prefix="(iii)">The complaint shall be made:</section>
+        <section prefix="(iii)">The complaint shall be made:<section prefix="1.">To the local department of social services for the county where the facility is located; or</section><section prefix="2.">If the patient is 65 years old or older, to the Secretary of Aging.</section></section>
       </section>
       <section prefix="(3)">The recipient of the complaint shall:<section prefix="(i)">Immediately give the administrator of the facility written notice of the complaint, unless the administrator is the alleged abuser and the recipient believes that the notice would affect an investigation adversely;</section><section prefix="(ii)">Investigate the complaint, as appropriate; and</section><section prefix="(iii)">Give the alleged abuser specific notice of the alleged abuse and an opportunity to reply to the charges stated in the complaint.</section></section>
       <section prefix="(4)">On request of the Secretary of Aging or the local department of social services, a State's Attorney shall help in the investigation.</section>

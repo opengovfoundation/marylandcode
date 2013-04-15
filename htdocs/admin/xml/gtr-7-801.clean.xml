@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-801" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-801</section_number>
-  <catch_line/>
+  <catch_line>Anne Arundel County, Calvert County, Carroll County, Frederick County, Garrett County, Howard County...</catch_line>
+  <order_by>801</order_by>
   <text>Anne Arundel County, Calvert County, Carroll County, Frederick County, Garrett County, Howard County, and Montgomery County may:<section prefix=""><section prefix="(1)">Levy and collect taxes for:<section prefix="(i)">The organization, operation, and maintenance of public transportation services; and</section><section prefix="(ii)">The purchase, sale, construction, maintenance, and operation of all real and personal property necessary or incidental to public transportation services; and</section></section><section prefix="(2)">Establish, modify, amend, and abolish special taxing areas for public transportation services.</section></section></text>
 </law>

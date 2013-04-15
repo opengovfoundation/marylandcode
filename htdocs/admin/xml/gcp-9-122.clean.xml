@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-122" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-9-122</section_number>
-  <catch_line/>
+  <catch_line>Whenever the Governor demands a person charged with crime or with escaping from confinement or break...</catch_line>
+  <order_by>122</order_by>
   <text>Whenever the Governor demands a person charged with crime or with escaping from confinement or breaking the terms of bail, probation, or parole in this State from the executive authority of any other state, the Governor shall issue a warrant under the seal of this State to an agent, commanding the agent to receive the person so charged and convey the person to the proper officer of the county in which the crime was committed.</text>
 </law>

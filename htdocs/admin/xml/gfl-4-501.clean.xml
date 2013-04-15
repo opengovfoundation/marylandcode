@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-501" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-4-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -30,7 +30,7 @@
     </section>
     <section prefix="(o)">
       <section prefix="(1)">"Petitioner" means an individual who files a petition.</section>
-      <section prefix="(2)">"Petitioner" includes:<section prefix="(i)">a person eligible for relief; or</section><section prefix="(ii)">the following persons who may seek relief from abuse on behalf of a minor or vulnerable adult:</section></section>
+      <section prefix="(2)">"Petitioner" includes:<section prefix="(i)">a person eligible for relief; or</section><section prefix="(ii)">the following persons who may seek relief from abuse on behalf of a minor or vulnerable adult:<section prefix="1.">the State's Attorney for the county where the child or vulnerable adult lives, or, if different, where the abuse is alleged to have taken place;</section><section prefix="2.">the department of social services that has jurisdiction in the county where the child or vulnerable adult lives, or, if different, where the abuse is alleged to have taken place;</section><section prefix="3.">a person related to the child or vulnerable adult by blood, marriage, or adoption; or</section><section prefix="4.">an adult who resides in the home.</section></section></section>
     </section>
     <section prefix="(p)">"Residence" includes the yard, grounds, outbuildings, and common areas surrounding the residence.</section>
     <section prefix="(q)">"Respondent" means the person alleged in the petition to have committed the abuse.</section>

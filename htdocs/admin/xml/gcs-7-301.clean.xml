@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in this section, the Commission shall request that the Division of Parole and Probation make an investigation for inmates in a local correctional facility and the Division of Correction make an investigation for inmates in a State correctional facility that will enable the Commission to determine the advisability of granting parole to an inmate who:<section prefix="(i)">has been sentenced under the laws of the State to serve a term of 6 months or more in a correctional facility; and</section><section prefix="(ii)">has served in confinement one-fourth of the inmate's aggregate sentence.</section></section>
@@ -16,8 +16,8 @@
     <section prefix="(b)">Except as provided in subsection (c) of this section, if an inmate has been sentenced to a term of imprisonment during which the inmate is eligible for parole and a term of imprisonment during which the inmate is not eligible for parole, the inmate is not eligible for parole consideration under subsection (a) of this section until the inmate has served the greater of:<section prefix="(1)">one-fourth of the inmate's aggregate sentence; or</section><section prefix="(2)">a period equal to the term during which the inmate is not eligible for parole.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">
-        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, an inmate who has been sentenced to the Division of Correction after being convicted of a violent crime committed on or after October 1, 1994, is not eligible for parole until the inmate has served the greater of:</section>
-        <section prefix="(ii)">An inmate who has been sentenced to the Division of Correction after being convicted of a violent crime committed on or after October 1, 1994, and who has been sentenced to more than one term of imprisonment, including a term during which the inmate is eligible for parole and a term during which the inmate is not eligible for parole, is not eligible for parole until the inmate has served the greater of:</section>
+        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, an inmate who has been sentenced to the Division of Correction after being convicted of a violent crime committed on or after October 1, 1994, is not eligible for parole until the inmate has served the greater of:<section prefix="1.">one-half of the inmate's aggregate sentence for violent crimes; or</section><section prefix="2.">one-fourth of the inmate's total aggregate sentence.</section></section>
+        <section prefix="(ii)">An inmate who has been sentenced to the Division of Correction after being convicted of a violent crime committed on or after October 1, 1994, and who has been sentenced to more than one term of imprisonment, including a term during which the inmate is eligible for parole and a term during which the inmate is not eligible for parole, is not eligible for parole until the inmate has served the greater of:<section prefix="1.">one-half of the inmate's aggregate sentence for violent crimes;</section><section prefix="2.">one-fourth of the inmate's total aggregate sentence; or</section><section prefix="3.">a period equal to the term during which the inmate is not eligible for parole.</section></section>
       </section>
       <section prefix="(2)">An inmate who is serving a term of imprisonment for a violent crime committed on or after October 1, 1994, shall receive an administrative review of the inmate's progress in the correctional facility after the inmate has served the greater of:<section prefix="(i)">one-fourth of the inmate's aggregate sentence; or</section><section prefix="(ii)">if the inmate is serving a term of imprisonment that includes a mandatory term during which the inmate is not eligible for parole, a period equal to the term during which the inmate is not eligible for parole.</section></section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-404" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">Unless the warranty is disclaimed or modified, a merchant that, in a special relationship of reliance with a licensee, collects, compiles, processes, provides, or transmits informational content warrants to that licensee that there is no inaccuracy in the informational content caused by the merchant's failure to perform with reasonable care.</section>
     <section prefix="(b)">A warranty does not arise under subsection (a) of this section with respect to:<section prefix="(1)">Published informational content; or</section><section prefix="(2)">A person that acts as a conduit or provides no more than editorial services in collecting, compiling, distributing, processing, providing, or transmitting informational content that under the circumstances can be identified as that of a third person.</section></section>

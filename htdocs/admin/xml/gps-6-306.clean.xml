@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-306" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-6-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to Title 10, Subtitle 2 of the Criminal Procedure Article, a fire department or rescue squad of the State or a political subdivision of the State, a volunteer fire company or rescue squad, or an ambulance service licensed under &#xA7; 13-515 of the Education Article may request the State Fire Marshal or other authorized agency that has access to the Criminal Justice Information System Central Repository in the Department of Public Safety and Correctional Services to conduct an initial criminal history records check on an applicant for employment or appointment as a volunteer or career firefighter, rescue squad member, or paramedic.</section>

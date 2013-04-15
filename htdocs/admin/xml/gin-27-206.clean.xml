@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-206" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-206</section_number>
-  <catch_line/>
+  <catch_line>A person may not enter into an agreement to commit, or by concerted action commit, an act of boycott...</catch_line>
+  <order_by>206</order_by>
   <text>A person may not enter into an agreement to commit, or by concerted action commit, an act of boycott, coercion, or intimidation that results in or tends to result in unreasonable restraint of or monopoly in the business of insurance.</text>
 </law>

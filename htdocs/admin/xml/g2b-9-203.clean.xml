@@ -1,24 +1,31 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-203" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-9-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">This section applies only in Anne Arundel County.</section>
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">The Board of License Commissioners may restrict any specified area within the county to the existing number of licenses in that area or to any other number of licenses it deems appropriate.</section>
         <section prefix="(ii)">Before any specified area is restricted, the Board shall conduct a hearing on the proposed restricted area. The hearing shall be advertised in the manner required for the issuance of a new license. After testimony is taken for and against the restriction of licenses in a specified area, the Board may prohibit the issuance of additional licenses, or fix the number of licenses to be permitted in that area, and shall determine the limits of that area.</section>
-        <section prefix="(iii)">The Board may restrict the number of licenses or prohibit additional licenses in any specified area, when, in the opinion of the Board, the area has:</section>
+        <section prefix="(iii)">The Board may restrict the number of licenses or prohibit additional licenses in any specified area, when, in the opinion of the Board, the area has:<section prefix="1.">Sufficient licensed premises for the accommodation of the public;</section><section prefix="2.">Become saturated with licensed premises to the extent that special policing is required and traffic hazards are created; or</section><section prefix="3.">Changed character so that the existing number of licensed premises is inconsistent with present usage of the area and an increase in the number of licensed premises located within the area will unduly disturb the peace of its residents.</section></section>
         <section prefix="(iv)">A specified area may be restricted by the Board for any period between one and four years. At the end of the period fixed by the Board, the restrictions shall terminate and be of no further effect, unless the Board conducts another hearing and further restricts the number of licenses as provided in this section.</section>
       </section>
       <section prefix="(2)">The Board shall conduct a hearing on restricting the number of licenses or prohibiting additional licenses in any specified area upon the receipt of a petition requesting the restriction or prohibition and designating the specific area to be restricted. The petition shall be signed by at least 25 persons who are property owners and registered voters of the precinct in which the proposed restricted area is located.</section>
       <section prefix="(3)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">In this paragraph the following words have the meanings indicated.</section>
+          <section prefix="2.">"Overserved district" means an assessment district in the county in which the ratio of off-sale licenses per person is less than one per 4,000 persons.</section>
+          <section prefix="3.">"Underserved district" means an assessment district in the county in which the ratio of off-sale licenses per person is more than one per 4,000 persons.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">The Board may issue a Class A, Class B, or Class D (off-sale) license based on its determination as to whether the license is necessary for the accommodation of the public.</section>
+          <section prefix="2.">In determining whether a Class A, Class B, or Class D (off-sale) license is necessary for the accommodation of the public, the Board may, but is not required to, consider whether the premises to which the license would apply is located in an underserved district or an overserved district.</section>
+        </section>
       </section>
     </section>
     <section prefix="(c)">

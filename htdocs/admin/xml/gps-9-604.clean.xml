@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-604" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-604</section_number>
-  <catch_line/>
+  <catch_line>A fire investigator who receives information under this subtitle shall keep the information confiden...</catch_line>
+  <order_by>604</order_by>
   <text>A fire investigator who receives information under this subtitle shall keep the information confidential until the release of the information is required in accordance with a civil or criminal proceeding.</text>
 </law>

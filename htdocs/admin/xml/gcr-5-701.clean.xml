@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-701" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">Sections 5-701 through 5-704 of this subtitle apply to:<section prefix="(1)">the sale of prescription drugs by a manufacturer, wholesale distributor, retail pharmacist, or jobber to a person not legally qualified or authorized to purchase and hold prescription drugs for use or resale; and</section><section prefix="(2)">an authorized provider's assistant who is not licensed to administer prescription drugs.</section></section>
     <section prefix="(b)">A person may not dispense a prescription drug except:<section prefix="(1)">on an authorized provider's:<section prefix="(i)">written prescription; or</section><section prefix="(ii)">oral prescription that the pharmacist reduces to writing and files; or</section></section><section prefix="(2)">by refilling a written or oral prescription that is authorized:<section prefix="(i)">by the authorized provider in the original prescription; or</section><section prefix="(ii)">by oral direction that the pharmacist reduces to writing and files.</section></section></section>

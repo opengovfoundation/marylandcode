@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2114" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2114</order_by>
   <text>
     <section prefix="(a)">All proceeds from a gaming device shall be used solely for the legitimate charitable, benevolent, or tax-exempt purposes of the qualified organization.</section>
     <section prefix="(b)">Proceeds from the operation of a gaming device may not be used to benefit personally any member of the qualified organization.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-218" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-1-218</section_number>
-  <catch_line/>
+  <catch_line>Each health occupations board authorized to issue a license or certificate under this article shall ...</catch_line>
+  <order_by>218</order_by>
   <text>Each health occupations board authorized to issue a license or certificate under this article shall collect racial and ethnic information about the applicant as part of the board's licensing, certifying, or renewal process.</text>
 </law>

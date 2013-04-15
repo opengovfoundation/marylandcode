@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-302" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Adjutant General may appoint:<section prefix="(i)">a chief of State operations;</section><section prefix="(ii)">an executive officer;</section><section prefix="(iii)">an administrative officer;</section><section prefix="(iv)">the directors of military installations, procurement, military support to civil authorities, State personnel, finance, and veterans affairs;</section><section prefix="(v)">the site managers for military reservations; and</section><section prefix="(vi)">a grants administrator.</section></section>

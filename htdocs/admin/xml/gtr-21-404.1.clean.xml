@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-404.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-404.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404.1</order_by>
   <text>
     <section prefix="(a)">The driver of a vehicle about to enter or cross any other part of a highway from a crossover, whether or not sign posted, shall yield the right-of-way to any other vehicle approaching on that part of the highway.</section>
     <section prefix="(b)">The approach to and method of making a left turn at a crossover shall be made as required by &#xA7; 21-601(b) and (c) of this title.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-113" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">No livestock carcass, part of it, meat, or meat food product may be admitted into any official establishment unless it has been prepared only under inspection pursuant to this subtitle or the Federal Meat Inspection Act or imported in compliance with the federal act.</section>
     <section prefix="(b)">The Secretary by rule or regulation may prescribe the conditions under which any carcass, part of it, any meat food product, meat, wildlife, and any other material is allowed to enter any official establishment to assure that these articles enter inspected establishments pursuant to the provisions of this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-101" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-17-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Alcohol and drug counseling" means assisting an individual, family, or group through the client-counselor relationship:<section prefix="(1)">To develop understanding of intrapersonal and interpersonal substance abuse problems;</section><section prefix="(2)">To define goals relating to substance abuse;</section><section prefix="(3)">To make decisions relating to substance abuse;</section><section prefix="(4)">To plan a course of action reflecting the needs, interests, and abilities of the individual, family, or group relating to substance abuse; and</section><section prefix="(5)">To use informational and community substance abuse resources relating to personal, social, emotional, educational, and vocational development and adjustment.</section></section>

@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-307" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Donation" means the gift or transfer, or promise of gift or transfer, of money or other thing of value to a person that is made for the purpose of furthering electioneering communications.</section>
       <section prefix="(3)">
-        <section prefix="(i)">"Electioneering communication" means a broadcast, cable, or satellite communication that:</section>
-        <section prefix="(ii)">"Electioneering communication" does not include:</section>
-        <section prefix="(iii)">For purposes of this paragraph, "clearly identified" means:</section>
+        <section prefix="(i)">"Electioneering communication" means a broadcast, cable, or satellite communication that:<section prefix="1.">refers to a clearly identified candidate or ballot issue;</section><section prefix="2.">is made within 60 days of an election day on which the candidate or ballot issue is on the ballot;</section><section prefix="3.">is capable of being received by 50,000 or more individuals in the constituency where the candidate or ballot issue is on the ballot; and</section><section prefix="4.">is not made in coordination with, or at the request or suggestion of, a candidate, a campaign finance entity of a candidate, an agent of a candidate, or a ballot issue committee.</section></section>
+        <section prefix="(ii)">"Electioneering communication" does not include:<section prefix="1.">an independent expenditure;</section><section prefix="2.">a news story, a commentary, or an editorial disseminated by a broadcasting station, including a cable television operator, programmer, or producer, or satellite television or radio provider that is not controlled by a candidate or political party;</section><section prefix="3.">a candidate debate or forum; or</section><section prefix="4.">a communication that proposes a commercial transaction.</section></section>
+        <section prefix="(iii)">For purposes of this paragraph, "clearly identified" means:<section prefix="1.">the name of a candidate appears;</section><section prefix="2.">a photograph or drawing of a candidate appears; or</section><section prefix="3.">the identity of a candidate or ballot issue is apparent by unambiguous reference.</section></section>
       </section>
       <section prefix="(4)">
         <section prefix="(i)">"Person" includes an individual, a partnership, a committee, an association, a corporation, a labor organization, or any other organization or group of persons.</section>

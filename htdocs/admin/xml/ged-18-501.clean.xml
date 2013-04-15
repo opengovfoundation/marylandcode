@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-501" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">There is a program of Delegate Scholarships in this State that are awarded under this subtitle.</section>
-    <section prefix="(b)">A scholarship awarded under this subtitle may be used at:<section prefix="(1)">An eligible institution for a program of undergraduate, graduate, or professional studies;</section><section prefix="(2)">An accredited undergraduate, graduate, or professional institution outside the State, if:<section prefix="(i)">The applicant will be studying in an academic area that is not available in this State; or</section><section prefix="(ii)"/></section><section prefix="(3)">A private career school within the State that is approved by the Maryland Higher Education Commission under &#xA7; 11-202 of this article and that is accredited by a national accrediting association that is approved by the United States Department of Education.</section></section>
+    <section prefix="(b)">A scholarship awarded under this subtitle may be used at:<section prefix="(1)">An eligible institution for a program of undergraduate, graduate, or professional studies;</section><section prefix="(2)">An accredited undergraduate, graduate, or professional institution outside the State, if:<section prefix="(i)">The applicant will be studying in an academic area that is not available in this State; or</section><section prefix="(ii)"><section prefix="1.">The applicant is disabled;</section><section prefix="2.">The applicant will be studying at an institution outside the State that makes special provisions for disabled students; and</section><section prefix="3.">Comparable special provisions are not available to that student at an institution in the State; and</section></section></section><section prefix="(3)">A private career school within the State that is approved by the Maryland Higher Education Commission under &#xA7; 11-202 of this article and that is accredited by a national accrediting association that is approved by the United States Department of Education.</section></section>
     <section prefix="(c)">Moneys appropriated to the Commission for scholarships awarded under this section that are not used by the end of the fiscal year shall be retained by the Commission for use by the awarding Delegate in the Delegate Scholarship Program during subsequent fiscal years.</section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-214" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(1)">Words or conduct relevant to the creation of an express warranty and words or conduct tending to negate or limit a warranty must be construed wherever reasonable as consistent with each other; but, subject to the provisions of &#xA7; 2A-202 on parol or extrinsic evidence, negation or limitation is inoperative to the extent that the construction is unreasonable.</section>
     <section prefix="(2)">Subject to subsection (3), to exclude or modify the implied warranty of merchantability or any part of it, the language must mention "merchantability", be by a writing, and be conspicuous. Subject to subsection (3), to exclude or modify any implied warranty of fitness, the exclusion must be by a writing and be conspicuous. Language to exclude all implied warranties of fitness is sufficient if it is in writing, conspicuous and states, for example, "There is no warranty that the goods will be fit for a particular purpose."</section>

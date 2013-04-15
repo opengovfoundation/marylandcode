@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-302" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-3-302</section_number>
-  <catch_line/>
+  <catch_line>To implement the plan, the planning commission shall periodically recommend to the appropriate publi...</catch_line>
+  <order_by>302</order_by>
   <text>To implement the plan, the planning commission shall periodically recommend to the appropriate public officials:<section prefix=""><section prefix="(1)">programs for public structures, improvements, and land acquisitions; and</section><section prefix="(2)">financing programs.</section></section></text>
 </law>

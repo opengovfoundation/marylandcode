@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-504" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">Each beneficiary described in &#xA7; 15-503(3) of this subtitle is entitled to receive a portion of the net income equal to the beneficiary's fractional interest in undistributed principal assets, using values as of the distribution date. If a fiduciary makes more than one distribution of assets to beneficiaries to whom this section applies, each beneficiary, including one who does not receive part of the distribution, is entitled, as of each distribution date, to the net income the fiduciary has received after the date of death or terminating event or earlier distribution date but has not distributed as of the current distribution date.</section>
     <section prefix="(b)">In determining a beneficiary's share of net income, the following rules apply:<section prefix="(1)">The beneficiary is entitled to receive a portion of the net income equal to the beneficiary's fractional interest in the undistributed principal assets immediately before the distribution date, including assets that later may be sold to meet principal obligations.</section><section prefix="(2)">The beneficiary's fractional interest in the undistributed principal assets shall be calculated without regard to property specifically given to a beneficiary and property required to pay pecuniary amounts not in trust.</section><section prefix="(3)">The beneficiary's fractional interest in the undistributed principal assets shall be calculated on the basis of the aggregate value of those assets as of the distribution date without reducing the value by any unpaid principal obligation.</section><section prefix="(4)">The distribution date for purposes of this section may be the date as of which the fiduciary calculates the value of the assets if that date is reasonably near the date on which assets are actually distributed.</section></section>

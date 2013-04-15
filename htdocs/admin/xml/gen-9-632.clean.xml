@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-632" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-632</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>632</order_by>
   <text>
     <section prefix="(a)">For the purposes of carrying out this subtitle, each district has, in addition to the powers provided elsewhere in this subtitle, the powers set forth in Part IV of this subtitle.</section>
     <section prefix="(b)">Except as otherwise provided in this subtitle, a district has all of the powers, privileges, and immunities granted to Maryland corporations under the Maryland General Corporation Law.</section>

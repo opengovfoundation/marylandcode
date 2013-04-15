@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-801" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-801</section_number>
-  <catch_line/>
+  <catch_line>This title may be cited as the Maryland Home Builder Registration Act....</catch_line>
+  <order_by>801</order_by>
   <text>This title may be cited as the Maryland Home Builder Registration Act.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-322" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-17-322</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>322</order_by>
   <text>
     <section prefix="(a)">At reasonable times and on reasonable notice, the Administrator may examine the records of any person if there is reason to believe that the person has failed to report property that should have been reported under this title. The Administrator may not examine the records of any person regarding abandoned property after 5 years from the date the person filed the report with the Administrator covering the period of time during which the property allegedly became abandoned, unless the Administrator finds that the person acted fraudulently or with gross negligence with respect to the report.</section>
     <section prefix="(b)">If any person refuses to permit the examination of records, the Administrator may issue a subpoena to compel the person to testify and produce records. The subpoena shall be served by the sheriff of the county where the person resides or may be found. The person shall be entitled to the same per diem and mileage as witnesses appearing in a circuit court of the State, which shall be paid by the State.</section>

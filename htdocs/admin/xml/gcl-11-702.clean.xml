@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-702" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-702</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not apply to any:...</catch_line>
+  <order_by>702</order_by>
   <text>This subtitle does not apply to any:<section prefix=""><section prefix="(1)">Television or radio broadcasting station which broadcasts an advertisement;</section><section prefix="(2)">Publisher or printer of a newspaper, magazine, or other form of printed advertisement who publishes or prints an advertisement; or</section><section prefix="(3)">Publisher, printer, or distributor, including a telephone company or directory provider, of an advertisement or telephone listing in a telephone directory.</section></section></text>
 </law>

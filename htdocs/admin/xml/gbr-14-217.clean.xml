@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-217" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-217</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>217</order_by>
   <text>
     <section prefix="(a)">If the Commissioner finds that it is necessary and appropriate for the protection of prospective franchisees or subfranchisors because a franchisor has not made adequate financial arrangements to fulfill the franchisor's obligations under an offering, the Commissioner may require the franchisor to escrow franchise fees or other money paid by a franchisee or subfranchisor until the obligations have been satisfied.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-311" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-2-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">Each licensee shall display the license conspicuously in the office or place of employment of the licensee.</section>
     <section prefix="(b)">If a licensee has more than one place of business, the licensee shall notify the Board of the address the Board may use to send notices and other correspondence.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1105" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-1105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1105</order_by>
   <text>
     <section prefix="(a)">The weekly amount of extended benefits payable for a week of total unemployment during an individual's eligibility period is equal to the amount of regular benefits, including allowances for dependents, payable to the individual for a week of total unemployment during the applicable benefit year.</section>
     <section prefix="(b)">The total amount of extended benefits payable to an eligible individual for the applicable benefit year of the individual may not be less than the lesser of:<section prefix="(1)">50% of the total amount of regular benefits, including allowances for dependents, payable to the individual during that benefit year;</section><section prefix="(2)">13 times the average weekly benefit amount of the individual; or</section><section prefix="(3)">39 times the average weekly benefit amount of the individual, reduced by the amount of regular benefits paid or deemed paid to the individual during that benefit year.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-210" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-6-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On request of the Treasurer, a depositary for State money shall submit to the Treasurer or a designee of the Treasurer a report that states:<section prefix="(i)">the total amount of State money on deposit with the depositary;</section><section prefix="(ii)">the total amount of collateral and deposit insurance for the money; and</section><section prefix="(iii)">the market value of the collateral for the money.</section></section>

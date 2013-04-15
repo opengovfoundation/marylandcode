@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-11C-01" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-11C-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">There is a Seafood Program Management Team to be administered by the Maryland Cooperative Extension.</section>
     <section prefix="(b)">The Team shall:<section prefix="(1)">Establish and monitor a grant program for the implementation of appropriate projects that support the economic health of the Maryland seafood industry;</section><section prefix="(2)">Prioritize, select for funding, and oversee seafood industry projects under a rapid response structure; and</section><section prefix="(3)">Examine new technologies, equipment, raw and value-added products, feasibility studies, and market development and cost control strategies.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-103" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">A child who is 16 years old or older and who is subject to a custody order or decree may file a petition to change custody.</section>
     <section prefix="(b)">A petitioner under this section may file the proceeding in the petitioner's own name and need not proceed by guardian or next friend.</section>

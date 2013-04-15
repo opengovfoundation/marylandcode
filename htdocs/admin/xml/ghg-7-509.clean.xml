@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-509" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">In this section, "respite care" means care that is made available for an individual with an intellectual disability in a State residential center to provide relief for the person with whom the individual ordinarily lives.</section>
     <section prefix="(b)">Under regulations that the Department adopts, each State residential center shall reserve at least 2 percent, but not more than 4 percent, of its total beds for respite care.</section>

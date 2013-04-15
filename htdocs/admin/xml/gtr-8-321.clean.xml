@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-321" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-321</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>321</order_by>
   <text>
     <section prefix="(a)">The plats and estimates prepared by the Administration require approval by a resolution of the Commission.</section>
     <section prefix="(b)">If the plats and estimates are approved by the Commission:<section prefix="(1)">The Chairman of the Commission shall sign the cover sheet of each set of plats; and</section><section prefix="(2)">A set of plats and its signed cover sheet shall be filed for record with:<section prefix="(i)">The secretary of the Commission; and</section><section prefix="(ii)">The State Archives.</section></section></section>

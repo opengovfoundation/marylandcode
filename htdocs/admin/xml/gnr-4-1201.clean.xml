@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1201" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-1201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1201</order_by>
   <text>
     <section prefix="(a)">Except as otherwise specifically provided in this title, a person who violates any provision of this title is guilty of a misdemeanor and, upon conviction, is subject to a fine not exceeding $1,000, with costs imposed in the discretion of the court.</section>
     <section prefix="(b)">Unless another penalty is specifically provided elsewhere in this title, any person found guilty of a second or subsequent violation of any provision of this title is subject to a fine not exceeding $2,000, or imprisonment not exceeding one year, or both, with costs imposed in the discretion of the court. For the purpose of this subsection, a second or subsequent violation is one which has occurred within two years of any prior violation of this title.</section>

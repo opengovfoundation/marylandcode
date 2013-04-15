@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-120" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">A privilege applicable to communications between an individual rendering professional services and the person receiving the services recognized under the law of this State is not affected by this subtitle.</section>
     <section prefix="(b)">The privilege under this section applies to a domestic or foreign professional corporation and to its employees in all situations in which it applies to communications between an individual rendering professional services on behalf of the corporation and the person receiving the services.</section>

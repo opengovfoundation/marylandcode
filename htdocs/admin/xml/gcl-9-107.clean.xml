@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-107" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-107</section_number>
-  <catch_line/>
+  <catch_line>A secured party has control of a letter-of-credit right to the extent of any right to payment or per...</catch_line>
+  <order_by>107</order_by>
   <text>A secured party has control of a letter-of-credit right to the extent of any right to payment or performance by the issuer or any nominated person if the issuer or nominated person has consented to an assignment of proceeds of the letter of credit under &#xA7; 5-114(c) of this article or otherwise applicable law or practice.</text>
 </law>

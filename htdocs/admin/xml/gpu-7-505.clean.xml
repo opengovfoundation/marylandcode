@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-505" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In assessing and approving each electric company's restructuring plan, and overseeing the transition process and regulation of the restructured electric industry, the Commission shall provide that the transition to a competitive electricity supply and electricity supply services market shall be orderly, maintain electric system reliability, and ensure compliance with federal and State environmental regulations, be fair to customers, electric company investors, customers of municipal electric utilities, electric companies, and electricity suppliers, and provide economic benefits to all customer classes.</section>
@@ -16,12 +16,12 @@
       <section prefix="(2)">The Commission shall order a universal service program, to be made available on a statewide basis, to benefit low-income customers, in accordance with &#xA7; 7-512.1 of this subtitle.</section>
       <section prefix="(3)">The Commission shall order an electric company to adopt policies and practices reasonably designed to prevent:<section prefix="(i)">discrimination against a person, locality, or particular class of service or giving undue or unreasonable preference in favor of the electric company's own electricity supply, other services, divisions, or affiliates, if any; and</section><section prefix="(ii)">any other forms of self-dealing or practices that could result in noncompetitive electricity prices to customers.</section></section>
       <section prefix="(4)">
-        <section prefix="(i)">The Commission shall, by regulation or order, require each electric company and electricity supplier to provide adequate and accurate information to each customer on the available electric services of the electric company or electricity supplier, including disclosure, every 6 months, of a uniform common set of information about:</section>
+        <section prefix="(i)">The Commission shall, by regulation or order, require each electric company and electricity supplier to provide adequate and accurate information to each customer on the available electric services of the electric company or electricity supplier, including disclosure, every 6 months, of a uniform common set of information about:<section prefix="1.">the fuel mix of the electricity purchased by customers, including categories of electricity from coal, natural gas, nuclear, oil, hydroelectric, solar, biomass, wind, and other resources, or disclosure of a regional fuel mix average; and</section><section prefix="2.">the emissions, on a pound per megawatt-hour basis, of pollutants identified by the Commission, or disclosure of a regional fuel mix average.</section></section>
         <section prefix="(ii)">The Commission may require an electric company or an electricity supplier to provide documentation supporting the disclosures required under subparagraph (i) of this paragraph.</section>
       </section>
       <section prefix="(5)">
         <section prefix="(i)">The Commission shall, by regulation or order, require the unbundling of electric company rates, charges, and services into standardized categories determined by the Commission.</section>
-        <section prefix="(ii)">The Commission shall, by regulation or order, require that customers' bills for electricity service indicate charges for:</section>
+        <section prefix="(ii)">The Commission shall, by regulation or order, require that customers' bills for electricity service indicate charges for:<section prefix="1.">distribution and transmission;</section><section prefix="2.">transition charge or credit;</section><section prefix="3.">universal service program charges;</section><section prefix="4.">customer charges;</section><section prefix="5.">taxes; and</section><section prefix="6.">other charges identified by the Commission.</section></section>
       </section>
       <section prefix="(6)">The Commission shall issue orders or regulations to prevent an electric company and an electricity supplier from disclosing a retail electric customer's billing, payment, and credit information without the retail electric customer's consent, except as allowed by the Commission for bill collection or credit rating reporting purposes.</section>
       <section prefix="(7)">An electricity supplier may not engage in marketing, advertising, or trade practices that are unfair, false, misleading, or deceptive.</section>
@@ -29,7 +29,7 @@
       <section prefix="(9)">In connection with &#xA7; 7-513 of this subtitle, the Commission may not require an electric company to divest itself of a generation asset or prohibit an electric company from divesting itself voluntarily of a generation asset.</section>
       <section prefix="(10)">
         <section prefix="(i)">On or before July 1, 2000, the Commission shall issue orders or adopt regulations reasonably designed to ensure the creation of competitive electricity supply and electricity supply services markets, with appropriate customer safeguards.</section>
-        <section prefix="(ii)">On or before July 1, 2000, the Commission shall require:</section>
+        <section prefix="(ii)">On or before July 1, 2000, the Commission shall require:<section prefix="1.">an appropriate code of conduct between the electric company and an affiliate providing electricity supply and electricity supply services in the State;</section><section prefix="2.">access by electricity suppliers and customers to the electric company's transmission and distribution system on a nondiscriminatory basis;</section><section prefix="3.">appropriate complaint and enforcement procedures; and</section><section prefix="4.">any other safeguards deemed necessary by the Commission to ensure the creation and maintenance of a competitive electricity supply and electricity supply services market.</section></section>
         <section prefix="(iii)">On or before July 1, 2000, the Commission shall require, among other factors, functional, operational, structural, or legal separation between the electric company's regulated businesses and its nonregulated businesses or nonregulated affiliates.</section>
       </section>
       <section prefix="(11)">Nothing in this title may be construed as preventing the application of State and federal consumer protection and antitrust laws to electric companies and their affiliates, and to electricity suppliers.</section>
@@ -48,12 +48,16 @@
       <section prefix="(1)">The Commission shall cap, for 4 years after initial implementation of customer choice in the electric company's distribution territory, the total of the rates of an electric company charged to a retail electric customer at the actual level of the rates in effect or authorized by the Commission on the date immediately preceding the initial implementation of customer choice in the electric company's distribution territory.</section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, the cap required under paragraph (1) of this subsection does not apply to the recovery of costs added after January 1, 2000, in accordance with &#xA7; 7-512(c) of this subtitle.</section>
-        <section prefix="(ii)">The cap required under paragraph (1) of this subsection applies to the recovery of:</section>
+        <section prefix="(ii)">The cap required under paragraph (1) of this subsection applies to the recovery of:<section prefix="1.">any transition costs under &#xA7; 7-513 of this subtitle;</section><section prefix="2.">any costs included in rates on January 1, 2000, in accordance with &#xA7; 7-512(c) of this subtitle; and</section><section prefix="3.">costs for the universal service program established under &#xA7; 7-512.1 of this subtitle.</section></section>
       </section>
       <section prefix="(3)">As part of a settlement, the Commission may approve a cap for a different time period or an alternative price protection plan that the Commission determines is equally protective of ratepayers.</section>
       <section prefix="(4)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)">In achieving the rate reduction required under subparagraph (i) of this paragraph, the Commission shall consider:</section>
+        <section prefix="(i)">
+          <section prefix="1.">Subject to the provisions of paragraph (5) of this subsection, the Commission shall reduce residential rates for each investor-owned electric company by an amount between 3% and 7.5% of base rates, as measured on June 30, 1999.</section>
+          <section prefix="2.">The reduction required under subsubparagraph 1 of this subparagraph shall begin on the initial implementation date and remain in effect for 4 years.</section>
+          <section prefix="3.">The Commission shall determine the allocation of the rate reduction among the generation, transmission, and distribution residential rate components.</section>
+        </section>
+        <section prefix="(ii)">In achieving the rate reduction required under subparagraph (i) of this paragraph, the Commission shall consider:<section prefix="1.">the expiration of any surcharge;</section><section prefix="2.">changes in the electric company's tax liability;</section><section prefix="3.">cost of service determinations ordered by the Commission;</section><section prefix="4.">net transition costs or benefits;</section><section prefix="5.">the effect on the competitive electricity supply market;</section><section prefix="6.">whether the rate reduction and rate cap will unduly impair the electric company's financial condition;</section><section prefix="7.">the costs associated with the universal service program; and</section><section prefix="8.">the interests of the public, including shareholders of the electric company.</section></section>
         <section prefix="(iii)">The Commission may, within the parameters provided in subparagraph (i) of this paragraph, increase or decrease the actual rate reduction required.</section>
         <section prefix="(iv)">The Commission may allow the recovery of any extraordinary costs based on the circumstances of an individual electric company if the Commission determines that the action is necessary and in the public interest.</section>
         <section prefix="(v)">In determining the rate reduction required under subparagraph (i) of this paragraph, the Commission may not increase rates for nonresidential customers.</section>

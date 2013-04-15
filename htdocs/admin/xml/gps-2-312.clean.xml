@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-312" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the Secretary shall charge a fee of $5 per fingerprint card to each individual who requests that the individual be fingerprinted.</section>
     <section prefix="(b)">A fee may not be charged to an individual who is:<section prefix="(1)">fingerprinted as a matter of procedure in a law enforcement action;</section><section prefix="(2)">required to have fingerprints retaken because of any fault or error by the Department during the preparation of the fingerprint card; or</section><section prefix="(3)">otherwise declared by the Secretary to be exempt from this section.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-304" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">On reasonable apprehension that an energy emergency exists, the Governor may proclaim a state of emergency.</section>
     <section prefix="(b)">Notwithstanding any other provision or limitation of State or local law, if the Governor proclaims a state of emergency under this section, in addition to any other order, rule, or regulation promulgated under this subtitle, the Governor may promulgate orders, rules, or regulations to:<section prefix="(1)">establish and implement programs, controls, standards, priorities, and quotas for the allocation, conservation, and consumption of energy resources;</section><section prefix="(2)">suspend and modify existing standards and requirements affecting or affected by the use of energy resources, including those that relate to air quality control, the type and composition of various energy resources, the production and distribution of energy resources, and the hours and days during which public buildings and commercial and industrial establishments are authorized or required to remain open; and</section><section prefix="(3)">establish and implement regional programs and agreements to coordinate the energy resource programs and actions of the State with those of the federal government and of other states and localities.</section></section>
@@ -15,7 +15,12 @@
       <section prefix="(2)">Before promulgating an order, rule, or regulation under this section, the Governor shall submit the order, rule, or regulation to the Committee for approval or rejection.</section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, if the Committee fails to take action on the order, rule, or regulation within 7 days after its submission, the order, rule, or regulation takes effect as promulgated by the Governor.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">If because of extraordinary circumstances it is not feasible to secure the prior approval of the Committee, an order, rule, or regulation takes effect immediately.</section>
+          <section prefix="2.">Within 2 days after it takes effect, the order, rule, or regulation shall be communicated to the chairman of the Committee.</section>
+          <section prefix="3.">The full Committee shall be convened within 5 days after the order, rule, or regulation is communicated to the chairman.</section>
+          <section prefix="4.">The order, rule, or regulation is subject to disapproval by the full Committee.</section>
+        </section>
       </section>
       <section prefix="(4)">All records of orders, rules, regulations, and Committee meetings are open to the public.</section>
     </section>

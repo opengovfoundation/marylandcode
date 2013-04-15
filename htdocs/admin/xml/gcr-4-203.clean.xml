@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-4-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (b) of this section, a person may not:<section prefix="(i)">wear, carry, or transport a handgun, whether concealed or open, on or about the person;</section><section prefix="(ii)">wear, carry, or knowingly transport a handgun, whether concealed or open, in a vehicle traveling on a road or parking lot generally used by the public, highway, waterway, or airway of the State;</section><section prefix="(iii)">violate item (i) or (ii) of this paragraph while on public school property in the State; or</section><section prefix="(iv)">violate item (i) or (ii) of this paragraph with the deliberate purpose of injuring or killing another person.</section></section>
@@ -16,11 +16,11 @@
       <section prefix="(1)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to the penalties provided in this subsection.</section>
       <section prefix="(2)">If the person has not previously been convicted under this section, &#xA7; 4-204 of this subtitle, or &#xA7; 4-101 or &#xA7; 4-102 of this title:<section prefix="(i)">except as provided in item (ii) of this paragraph, the person is subject to imprisonment for not less than 30 days and not exceeding 3 years or a fine of not less than $250 and not exceeding $2,500 or both; or</section><section prefix="(ii)">if the person violates subsection (a)(1)(iii) of this section, the person shall be sentenced to imprisonment for not less than 90 days.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">If the person has previously been convicted once under this section, &#xA7; 4-204 of this subtitle, or &#xA7; 4-101 or &#xA7; 4-102 of this title:</section>
+        <section prefix="(i)">If the person has previously been convicted once under this section, &#xA7; 4-204 of this subtitle, or &#xA7; 4-101 or &#xA7; 4-102 of this title:<section prefix="1.">except as provided in item 2 of this subparagraph, the person is subject to imprisonment for not less than 1 year and not exceeding 10 years; or</section><section prefix="2.">if the person violates subsection (a)(1)(iii) of this section, the person is subject to imprisonment for not less than 3 years and not exceeding 10 years.</section></section>
         <section prefix="(ii)">The court may not impose less than the applicable minimum sentence provided under subparagraph (i) of this paragraph.</section>
       </section>
       <section prefix="(4)">
-        <section prefix="(i)">If the person has previously been convicted more than once under this section, &#xA7; 4-204 of this subtitle, or &#xA7; 4-101 or &#xA7; 4-102 of this title, or of any combination of these crimes:</section>
+        <section prefix="(i)">If the person has previously been convicted more than once under this section, &#xA7; 4-204 of this subtitle, or &#xA7; 4-101 or &#xA7; 4-102 of this title, or of any combination of these crimes:<section prefix="1.">except as provided in item 2 of this subparagraph, the person is subject to imprisonment for not less than 3 years and not exceeding 10 years; or</section><section prefix="2.">A. if the person violates subsection (a)(1)(iii) of this section, the person is subject to imprisonment for not less than 5 years and not exceeding 10 years; or</section></section>
         <section prefix="(ii)">The court may not impose less than the applicable minimum sentence provided under subparagraph (i) of this paragraph.</section>
       </section>
     </section>

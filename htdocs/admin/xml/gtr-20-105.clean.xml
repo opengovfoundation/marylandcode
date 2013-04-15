@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-105" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-20-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">The driver of each vehicle involved in an accident that results in damage to an unattended vehicle or other unattended property immediately shall stop the vehicle as close as possible to the scene of the accident, without obstructing traffic more than necessary.</section>
     <section prefix="(b)">Subject to the provisions of subsection (c) of this section, the driver of each vehicle involved in an accident that results in damage to an unattended vehicle or other unattended property shall attempt to locate the driver, owner, or person in charge of the damaged vehicle or other property and notify him of:<section prefix="(1)">His name and address;</section><section prefix="(2)">The registration number of the vehicle he is driving; and</section><section prefix="(3)">The name and address of the owner of that vehicle.</section></section>

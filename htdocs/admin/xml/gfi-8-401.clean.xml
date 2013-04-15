@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-401" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-8-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">The Division Director may issue orders:<section prefix="(1)">To compel a savings and loan association or related entity to comply with its charter or bylaws, any applicable law, or any rule or regulation;</section><section prefix="(2)">To direct a savings and loan association or related entity to cease and desist from any unsafe or unsound business practice including, but not limited to, unsound or unsafe interest rates, any practice injurious to the public interest, or any violation of State law or regulation relating to savings and loan associations; or</section><section prefix="(3)">To direct a savings and loan association or related entity to remove any officer, director, or employee who has participated in or consented to any violation of law, regulation, or order relating to savings and loan associations, any unsafe or unsound business practice in the operation of the association, any insider loan not authorized by &#xA7; 9-307 of this article, or any repeated violation of the association's charter or bylaws.</section></section>
     <section prefix="(b)">An order issued by the Division Director under this section to a savings and loan association, or related entity shall:<section prefix="(1)">Be in writing and signed by the Division Director;</section><section prefix="(2)">State the alleged violation in detail and the facts that constitute the violation;</section><section prefix="(3)">Direct the association or related entity to discontinue the violation or to take the ordered remedial action; and</section><section prefix="(4)">State that the association or related entity has a right to a hearing with respect to matters set forth in the order if it submits a request for hearing within 20 days of the date of the order.</section></section>
@@ -14,7 +14,7 @@
     <section prefix="(e)">
       <section prefix="(1)">
         <section prefix="(i)">In addition to an order issued under subsection (a) of this section, the Division Director may issue an emergency order with respect to any matter set forth in subsection (a) of this section if the Division Director determines that the protection of depositors, members, or stockholders of the association or the protection of the public requires immediate corrective action.</section>
-        <section prefix="(ii)">Emergency orders shall:</section>
+        <section prefix="(ii)">Emergency orders shall:<section prefix="1.">Be effective on receipt;</section><section prefix="2.">Specify the charges and a hearing date within 30 days; and</section><section prefix="3.">Notify the recipient that, upon application, a hearing to abate the order will be scheduled within 10 days.</section></section>
       </section>
       <section prefix="(2)">By its terms, an emergency order may be continued in effect until the effective date of a final order.</section>
     </section>

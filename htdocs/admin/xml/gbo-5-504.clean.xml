@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-504" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-5-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">The Board shall issue a beauty salon permit to each applicant who meets the requirements of this subtitle.</section>
     <section prefix="(b)">A beauty salon permit for the limited practice of cosmetology shall specify the limited cosmetology services for which the permit is issued.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-308.2" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-308.2</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other provision of law, a nonresident may hunt snow geese in this State without ...</catch_line>
+  <order_by>308.2</order_by>
   <text>Notwithstanding any other provision of law, a nonresident may hunt snow geese in this State without a resident or nonresident Maryland hunting license if:<section prefix=""><section prefix="(1)">The nonresident possesses a valid hunting license from the nonresident's home state;</section><section prefix="(2)">The nonresident purchases a Maryland migratory game bird stamp; and</section><section prefix="(3)">The nonresident's home state allows a Maryland resident to hunt snow geese without a nonresident hunting license from the home state in accordance with the following conditions:<section prefix="(i)">The Maryland resident must possess a valid Maryland hunting license; and</section><section prefix="(ii)">The Maryland resident must purchase a migratory waterfowl stamp from the home state.</section></section></section></text>
 </law>

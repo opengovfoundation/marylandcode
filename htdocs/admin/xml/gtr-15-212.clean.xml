@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-212" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">In this section, "motor home" means a motor vehicle that:<section prefix="(1)">Is designed to provide temporary living quarters, built into as an integral part of, or permanently attached to, a self-propelled motor vehicle chassis or van; and</section><section prefix="(2)">Contains permanently installed independent life support systems which provide at least four of the following facilities:<section prefix="(i)">Cooking;</section><section prefix="(ii)">Refrigeration or ice box;</section><section prefix="(iii)">Self-contained toilet;</section><section prefix="(iv)">Heating, air-conditioning, or both;</section><section prefix="(v)">A potable water supply system including a faucet and sink;</section><section prefix="(vi)">Separate 110-125 volt electrical power supply; or</section><section prefix="(vii)">An LP gas supply.</section></section></section>
     <section prefix="(b)">In addition to the other grounds specified in Subtitle 1 of this title for refusal, suspension, or revocation of a license, the Administration may refuse to grant a license under this subtitle to any person and may suspend, revoke, or refuse to renew the license of any person if it finds that the person has:<section prefix="(1)">Made any material misrepresentation in transferring a vehicle or truck component part to a dealer or distributor;</section><section prefix="(2)">Failed to comply with any written warranty agreement; or</section><section prefix="(3)">Failed to reasonably compensate any franchised dealer who does work under:<section prefix="(i)">The vehicle preparation and delivery obligations of the dealer; or</section><section prefix="(ii)">Any outstanding express or implied new vehicle or truck component parts warranty.</section></section></section>
@@ -14,14 +14,14 @@
       <section prefix="(2)">Notwithstanding paragraph (1) of this subsection and except as provided in paragraph (3) of this subsection, a licensee may not compensate its dealers for work performed under any warranty under subsection (b)(3)(ii) of this section in an amount that is less than the average amount charged by the dealer to retail customers for nonwarranty work of like kind during the preceding 12 months as long as this amount is reasonable.</section>
       <section prefix="(3)">The provisions of paragraph (2) of this subsection do not apply to travel trailers or parts of systems, fixtures, appliances, furnishings, accessories, and features of motor homes that are not manufactured by the manufacturer of the motor home as a part of the unit.</section>
       <section prefix="(4)">
-        <section prefix="(i)">A claim filed under this section by a dealer with a manufacturer or distributor shall be:</section>
+        <section prefix="(i)">A claim filed under this section by a dealer with a manufacturer or distributor shall be:<section prefix="1.">In the manner and form prescribed by the manufacturer or distributor; and</section><section prefix="2.">Approved or disapproved within 30 days of receipt.</section></section>
         <section prefix="(ii)">A claim not approved or disapproved within 30 days of receipt shall be deemed approved.</section>
         <section prefix="(iii)">Payment of or credit issued on a claim filed under this section shall be made within 30 days of approval.</section>
       </section>
       <section prefix="(5)">A dealer's failure to comply with the specific requirements of the manufacturer or distributor for processing a claim may not constitute grounds for denial of the claim or reduction of the amount of compensation paid to the dealer if the dealer presents reasonable documentation or other evidence to substantiate the claim.</section>
       <section prefix="(6)">
         <section prefix="(i)">If a claim filed under this section is shown by the manufacturer or distributor to be false or unsubstantiated, the manufacturer or distributor may charge back the claim within 9 months from the date the claim was paid or credit issued.</section>
-        <section prefix="(ii)">This paragraph does not limit the right of a manufacturer or distributor to:</section>
+        <section prefix="(ii)">This paragraph does not limit the right of a manufacturer or distributor to:<section prefix="1.">Conduct an audit of any claim filed under this section; or</section><section prefix="2.">Charge back for any claim that is proven to be fraudulent.</section></section>
         <section prefix="(iii)">An audit under this paragraph shall be conducted according to generally accepted accounting principles.</section>
       </section>
     </section>

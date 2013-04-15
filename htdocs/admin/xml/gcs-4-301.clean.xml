@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-4-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Director may request that the Commissioner refer an inmate to the Institution for evaluation as to whether the inmate is an eligible person if the inmate:<section prefix="(i)">is serving a sentence of imprisonment following conviction of a crime;</section><section prefix="(ii)">has more than 3 years remaining to serve on a sentence;</section><section prefix="(iii)">has not been evaluated by or confined at the Institution within the preceding 3 years;</section><section prefix="(iv)">is not disqualified from being an eligible person under &#xA7; 4-101(e)(2) of this title; and</section><section prefix="(v)">meets the eligibility criteria that the Secretary establishes under &#xA7; 4-208(b) of this title.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1120" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1120</order_by>
   <text>
     <section prefix="(a)">A person may not drive a motor vehicle on any highway or on any private property that is used by the public in general in this State while the person is wearing over or in both ears earplugs.</section>
     <section prefix="(b)">A person may not drive a motor vehicle on any highway or on any private property that is used by the public in general in this State while the person is wearing over or in both ears a headset.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1701" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-1701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1701</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board of Public Works shall adopt regulations establishing procedures and standards for awarding any oil or natural gas lease for production or reserve under lands or waters of the State.</section>

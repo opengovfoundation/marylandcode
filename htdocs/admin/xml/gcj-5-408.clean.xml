@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-408" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Credit agreement" means a covenant, promise, undertaking, commitment, or other agreement by a financial institution to:</section>
+        <section prefix="(i)">"Credit agreement" means a covenant, promise, undertaking, commitment, or other agreement by a financial institution to:<section prefix="1.">Lend money;</section><section prefix="2.">Forbear from repayment of money, goods, or things in action;</section><section prefix="3.">Forbear from collecting or exercising any right to collect a debt; or</section><section prefix="4.">Otherwise extend credit.</section></section>
         <section prefix="(ii)">"Credit agreement" includes agreeing to take or to not take certain actions by a financial institution in connection with an existing or prospective credit agreement.</section>
       </section>
       <section prefix="(3)">"Financial institution" means:<section prefix="(i)">A bank;</section><section prefix="(ii)">A trust company;</section><section prefix="(iii)">A savings bank;</section><section prefix="(iv)">A savings and loan association; or</section><section prefix="(v)">An affiliate or subsidiary of a bank, trust company, savings bank, or savings and loan association.</section></section>

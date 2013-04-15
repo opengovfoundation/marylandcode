@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-833" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-833</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>833</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, unless a license is renewed for a 2-year term as provided in this section, the license expires on the second anniversary of its effective date.</section>

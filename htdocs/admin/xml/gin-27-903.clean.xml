@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-903" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-903</section_number>
-  <catch_line/>
+  <catch_line>An insurer that submits to its policyholder a notice of initial or renewal premium due shall indicat...</catch_line>
+  <order_by>903</order_by>
   <text>An insurer that submits to its policyholder a notice of initial or renewal premium due shall indicate the kind of insurance coverage for which the policyholder is being charged.</text>
 </law>

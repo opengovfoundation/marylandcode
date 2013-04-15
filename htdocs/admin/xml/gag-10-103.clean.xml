@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-103" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-103</section_number>
-  <catch_line/>
+  <catch_line>No association, meeting, or activity undertaken in pursuance of the provisions of this article and i...</catch_line>
+  <order_by>103</order_by>
   <text>No association, meeting, or activity undertaken in pursuance of the provisions of this article and intended to benefit all of the producers, handlers, and processors of a particular agricultural commodity shall be deemed illegal or in restraint of trade.</text>
 </law>

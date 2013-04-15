@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-521" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-521</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>521</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Management Council shall:<section prefix="(i)">advise Maryland Correctional Enterprises on its specific proposals to establish new industries and improve the quality and quantity of job training programs; and</section><section prefix="(ii)">recommend the establishment and maintenance of industrial plants and service centers to be used for implementing the programs developed by the Commissioner and Chief Executive Officer under &#xA7; 3-511 of this subtitle.</section></section>

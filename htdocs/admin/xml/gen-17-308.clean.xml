@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-308" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-17-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">The Secretary shall adopt regulations to stagger the terms of the licenses.</section>
     <section prefix="(b)">A license expires on the date the Secretary sets, in accordance with subsection (a) of this section.</section>
@@ -14,7 +14,7 @@
     <section prefix="(e)">
       <section prefix="(1)">A licensee shall complete 12 hours of continuing education instruction covering marine contractor subject matter approved by the Board.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The Board shall approve the substance and form of a continuing education course if the course is:</section>
+        <section prefix="(i)">The Board shall approve the substance and form of a continuing education course if the course is:<section prefix="1.">Offered by a qualified instructor; or</section><section prefix="2.">Conducted by an educational institution approved by the Board.</section></section>
         <section prefix="(ii)">The licensee is responsible for the cost of any continuing education course.</section>
       </section>
     </section>

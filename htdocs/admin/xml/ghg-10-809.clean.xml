@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-809" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-809</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>809</order_by>
   <text>
     <section prefix="(a)">Whenever a release of an individual from a facility is planned, the administrative head of the facility or a designee of the administrative head, with the consent of the individual, shall notify the parent or next of kin about the proposed release. In the case of a minor child or an individual who is assigned a legal guardian, the parent of the minor child or the legal guardian of the individual shall be notified of any planned release.</section>
     <section prefix="(b)">
@@ -18,7 +18,7 @@
       <section prefix="(1)">In this subsection, "aftercare services" means services:<section prefix="(i)">For individuals who no longer receive inpatient services for a mental disorder; and</section><section prefix="(ii)">That enhance the opportunity to maintain a mentally ill individual in the community and to assist in the prevention of homelessness.</section></section>
       <section prefix="(2)">"Aftercare services" include:<section prefix="(i)">Medical care;</section><section prefix="(ii)">Psychiatric care;</section><section prefix="(iii)">Vocational and social rehabilitation;</section><section prefix="(iv)">Supportive housing; or</section><section prefix="(v)">Case management services.</section></section>
       <section prefix="(3)">The aftercare plan shall be prepared in collaboration with community programs and government agencies that are to provide aftercare services to the individual after release.</section>
-      <section prefix="(4)">The aftercare plan shall include:<section prefix="(i)">Diagnoses, including existing psychiatric, somatic, and dental diagnoses;</section><section prefix="(ii)">Treatment initiated;</section><section prefix="(iii)">Medications prescribed, their dosage schedules, the amount of each medication given to the individual on release, and the information necessary to help the individual to obtain the prescribed medication in the community in accordance with the aftercare plan;</section><section prefix="(iv)">Date of release;</section><section prefix="(v)">Location of community placement;</section><section prefix="(vi)">Plan for continuing treatment; and</section><section prefix="(vii)">List of referrals indicated, including:</section></section>
+      <section prefix="(4)">The aftercare plan shall include:<section prefix="(i)">Diagnoses, including existing psychiatric, somatic, and dental diagnoses;</section><section prefix="(ii)">Treatment initiated;</section><section prefix="(iii)">Medications prescribed, their dosage schedules, the amount of each medication given to the individual on release, and the information necessary to help the individual to obtain the prescribed medication in the community in accordance with the aftercare plan;</section><section prefix="(iv)">Date of release;</section><section prefix="(v)">Location of community placement;</section><section prefix="(vi)">Plan for continuing treatment; and</section><section prefix="(vii)">List of referrals indicated, including:<section prefix="1.">Public social services;</section><section prefix="2.">Legal aid;</section><section prefix="3.">Educational services;</section><section prefix="4.">Vocational services; and</section><section prefix="5.">Medical treatment other than mental health services.</section></section></section>
       <section prefix="(5)">The Secretary shall periodically review selected aftercare plans and make a determination if the services included in the aftercare plans are meeting the needs of the particular individuals.</section>
       <section prefix="(6)">The Secretary shall designate an existing employee within the Department whose primary function is to help coordinate the Department's programs and services aimed at the prevention of homelessness to mentally ill individuals.</section>
     </section>

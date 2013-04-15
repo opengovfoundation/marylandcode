@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-603" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-603</section_number>
-  <catch_line/>
+  <catch_line>Unless an act that changes the State income tax rate provides otherwise, if the rate changes on a da...</catch_line>
+  <order_by>603</order_by>
   <text>Unless an act that changes the State income tax rate provides otherwise, if the rate changes on a date other than the 1st day of the taxable year of a person, the person shall compute State income tax using the tax rate that applies to each part of the year.</text>
 </law>

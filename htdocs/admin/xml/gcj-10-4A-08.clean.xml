@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-4A-08" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-4A-08</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>08</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 10-4A-04(e) of this subtitle, a provider of electronic communication service, subscriber, or customer aggrieved by a knowing or intentional violation of this subtitle may recover appropriate relief in a civil action against the person or entity that engaged in the violation.</section>
     <section prefix="(b)">In a civil action under this section, appropriate relief includes:<section prefix="(1)">Appropriate preliminary and other equitable or declaratory relief;</section><section prefix="(2)">Damages under subsection (c) of this section; and</section><section prefix="(3)">A reasonable attorney's fee and other litigation costs reasonably incurred.</section></section>

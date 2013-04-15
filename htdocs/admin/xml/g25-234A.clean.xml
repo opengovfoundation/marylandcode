@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="234A" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-234A</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>234A</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "floating home" means any vessel, whether self-propelled or not, that:<section prefix="(i)">Is used, designated, or occupied as a dwelling unit or place of business or for any private or social club; and</section><section prefix="(ii)">Has a volume coefficient that is greater than 3,000 square feet, which is based on the ratio of the habitable space of the vessel measured in cubic feet and the draft of the vessel measured in feet of depth.</section></section>

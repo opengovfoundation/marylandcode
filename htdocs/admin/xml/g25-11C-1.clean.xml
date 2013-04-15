@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="11C-1" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-11C-1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1</order_by>
   <text>
     <section prefix="(a)">The County Commissioners of Dorchester County may adopt regulations concerning the maintenance and operation of public docks, piers, wharves, and harbor facilities owned or leased by the county.</section>
     <section prefix="(b)">The regulations authorized under this section may include provisions for permits, berths, mooring, swimming, trash disposal and removal, and sunken vessels.</section>

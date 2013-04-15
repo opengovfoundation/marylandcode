@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-303" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, this section governs the overtaking and passing of vehicles going in the same direction.</section>
     <section prefix="(b)">The driver of a vehicle overtaking another vehicle that is going in the same direction shall pass to the left of the overtaken vehicle at a safe distance.</section>

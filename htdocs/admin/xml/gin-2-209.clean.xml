@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-209" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">The Commissioner or an examiner shall make a complete report of each examination made under &#xA7; 2-205 of this subtitle or &#xA7; 23-207, &#xA7; 15-10B-19, or &#xA7; 15-10B-20 of this article.</section>
     <section prefix="(b)">An examination report shall contain only facts:<section prefix="(1)">from the books, records, or documents of the person being examined; or</section><section prefix="(2)">determined from statements of individuals about the person's affairs.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">At least 30 days before adopting a proposed examination report, the Commissioner shall provide a copy of the proposed report to the person that was examined.</section>
-      <section prefix="(2)">If the person requests a hearing in writing within the 30-day period, the Commissioner:<section prefix="(i)">shall grant a hearing on the proposed report; and</section><section prefix="(ii)">may not adopt the proposed report until after:</section></section>
+      <section prefix="(2)">If the person requests a hearing in writing within the 30-day period, the Commissioner:<section prefix="(i)">shall grant a hearing on the proposed report; and</section><section prefix="(ii)">may not adopt the proposed report until after:<section prefix="1.">the hearing is held; and</section><section prefix="2.">any modifications of the report that the Commissioner considers proper are made.</section></section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">After an examination report is adopted by the Commissioner, the examination report is admissible as evidence of the facts contained in it in any action brought by the Commissioner against the person examined or an officer or insurance producer of the person.</section>
@@ -28,7 +28,7 @@
     <section prefix="(h)">
       <section prefix="(1)">Provided that the recipient agrees to maintain the confidentiality and privileged status of the document, material, or information, the Commissioner may share a document, material, or information, including a document, material, or information that is confidential and privileged under subsection (g) of this section, with:<section prefix="(i)">other State, federal, or international regulatory agencies;</section><section prefix="(ii)">the National Association of Insurance Commissioners or its affiliates or subsidiaries; or</section><section prefix="(iii)">State, federal, or international law enforcement authorities.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">The Commissioner may receive a document, material, or information, including a document, material, or information that is confidential and privileged, from:</section>
+        <section prefix="(i)">The Commissioner may receive a document, material, or information, including a document, material, or information that is confidential and privileged, from:<section prefix="1.">other State, federal, or international regulatory agencies;</section><section prefix="2.">the National Association of Insurance Commissioners or its affiliates or subsidiaries; or</section><section prefix="3.">State, federal, or international law enforcement authorities.</section></section>
         <section prefix="(ii)">The Commissioner shall maintain as confidential and privileged any document, material, or information received under this paragraph with notice or the understanding that it is confidential or privileged under the laws of the jurisdiction that is the source of the document, material, or information.</section>
       </section>
       <section prefix="(3)">The Commissioner may enter into agreements governing the sharing and use of information consistent with this subsection.</section>

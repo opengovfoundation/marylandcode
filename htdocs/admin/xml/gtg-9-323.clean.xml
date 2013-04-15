@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-323" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-9-323</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>323</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a license or an exemption certificate expires on the first May 31 after its effective date.</section>
     <section prefix="(b)">A Class "G-Temporary" license expires on the earlier of:<section prefix="(1)">termination of the contract for which the license was issued; or</section><section prefix="(2)">the first May 31 after its effective date.</section></section>

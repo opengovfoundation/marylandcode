@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-401" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The National Guard consists of:<section prefix="(i)">the units of the organized militia allocated to the State by the United States Department of Defense that are supported wholly or partly by federal funds; and</section><section prefix="(ii)">individuals transferred with the approval of the Governor to the National Guard by federal authorities to complete a reserve service obligation imposed by federal law.</section></section>

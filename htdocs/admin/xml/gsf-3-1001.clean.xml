@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1001" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-3-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Agency" means an entity of the Executive Branch of State government.</section>
@@ -15,7 +15,7 @@
     <section prefix="(f)">"Objective" means a specific and measurable short-term target for achievement of an agency's goals and includes a description of the desired results and a target date for accomplishment.</section>
     <section prefix="(g)">
       <section prefix="(1)">"Performance measure" means a quantitative or qualitative indicator used to assess whether an agency is meeting its goals and objectives.</section>
-      <section prefix="(2)">"Performance measure" includes the following:<section prefix="(i)">an efficiency measure that quantifies the relationship between measures of the inputs used to produce goods or services and the measures of the outputs of these activities;</section><section prefix="(ii)">an input measure that quantifies the amount of resources used to provide goods and services;</section><section prefix="(iii)">an outcome measure that quantifies the results an agency achieves or the benefits citizens receive from an agency's activities;</section><section prefix="(iv)">an output measure that quantifies the amount of goods and services produced by the agency; and</section><section prefix="(v)">a quality measure that quantifies or describes:</section></section>
+      <section prefix="(2)">"Performance measure" includes the following:<section prefix="(i)">an efficiency measure that quantifies the relationship between measures of the inputs used to produce goods or services and the measures of the outputs of these activities;</section><section prefix="(ii)">an input measure that quantifies the amount of resources used to provide goods and services;</section><section prefix="(iii)">an outcome measure that quantifies the results an agency achieves or the benefits citizens receive from an agency's activities;</section><section prefix="(iv)">an output measure that quantifies the amount of goods and services produced by the agency; and</section><section prefix="(v)">a quality measure that quantifies or describes:<section prefix="1.">the effectiveness of the agency in meeting agency objectives;</section><section prefix="2.">aspects of the satisfaction that customers may or may not have with State goods or services; or</section><section prefix="3.">how State goods or services compare to some external or internal standard.</section></section></section>
     </section>
     <section prefix="(h)">"State comprehensive plan" means a statement of goals which serve as a broad directive for improving or making more cost effective State resources and services. The plan shall include no more than 10 statewide goals and 50 to 100 performance measures that describe the statewide progress towards its goals.</section>
     <section prefix="(i)">"StateStat" means the accountability process described in &#xA7; 3-1003(b) of this subtitle.</section>

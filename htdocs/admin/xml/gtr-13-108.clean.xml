@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-108" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, when the Administration issues a certificate of title of a vehicle, it shall deliver the certificate of title by mailing it to the owner of the vehicle.</section>
     <section prefix="(b)">Notwithstanding subsection (a) of this section, where a vehicle has been repossessed by a lessor, lender, or credit grantor, the lessor, lender, or credit grantor or a title service agent on behalf of the lessor, lender, or credit grantor may request delivery by hand at a facility of the Administration of the certificate of title of the repossessed vehicle or a duplicate of the certificate of title.</section>

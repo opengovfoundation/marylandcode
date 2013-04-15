@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-1402" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-1402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1402</order_by>
   <text>
     <section prefix="(a)">This subtitle does not apply in Baltimore City or Allegany, Howard, and Montgomery counties.</section>
     <section prefix="(b)">This subtitle does not apply to an outdoor musical festival held in:<section prefix="(1)">Carroll County by a college or public school; or</section><section prefix="(2)">Kent County by a not for profit agricultural, charitable, civic, fraternal, religious, social welfare, or war veterans' organization operating in Kent County.</section></section>

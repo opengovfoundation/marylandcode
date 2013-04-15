@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1410" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1410</section_number>
-  <catch_line/>
+  <catch_line>A vehicle may not be driven on any Authority highway if the vehicle or its load exceeds the maximum ...</catch_line>
+  <order_by>1410</order_by>
   <text>A vehicle may not be driven on any Authority highway if the vehicle or its load exceeds the maximum weight, width, or height permitted by the regulations of the Maryland Transportation Authority for that Authority highway. </text>
 </law>

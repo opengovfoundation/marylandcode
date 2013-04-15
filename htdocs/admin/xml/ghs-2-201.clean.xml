@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-201" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-2-201</section_number>
-  <catch_line/>
+  <catch_line>The Department consists of:...</catch_line>
+  <order_by>201</order_by>
   <text>The Department consists of:<section prefix=""><section prefix="(1)">the Division of Credit Assurance;</section><section prefix="(2)">the Division of Development Finance;</section><section prefix="(3)">the Division of Neighborhood Revitalization;</section><section prefix="(4)">the Community Development Administration;</section><section prefix="(5)">the Community Legacy Program;</section><section prefix="(6)">the Housing Finance Review Committee;</section><section prefix="(7)">the Lead Hazard Advisory Committee;</section><section prefix="(8)">the Maryland Housing Fund;</section><section prefix="(9)">the Neighborhood Business Development Program; and</section><section prefix="(10)">any other governmental unit that under law is a part of the Department.</section></section></text>
 </law>

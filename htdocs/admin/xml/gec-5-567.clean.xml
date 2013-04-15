@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-567" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-567</section_number>
-  <catch_line/>
+  <catch_line>The Authority may:...</catch_line>
+  <order_by>567</order_by>
   <text>The Authority may:<section prefix=""><section prefix="(1)">prescribe or approve the form of and terms and conditions in applications, guaranty agreements, or any other documents entered into by the Authority, principals, or sureties under the Program;</section><section prefix="(2)">acquire or take assignments of documents executed, obtained, or delivered in connection with any assistance the Authority provides under the Program;</section><section prefix="(3)">set and collect premiums, fees, charges, costs, and expenses in connection with any assistance the Authority provides under the Program;</section><section prefix="(4)">adopt regulations to carry out the Program; and</section><section prefix="(5)">do anything necessary or convenient to carry out its powers and the purposes of the Program.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-1003" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">Any county, municipal corporation, or nonprofit organization sponsoring a project involving work specified in &#xA7; 24-1002 of this subtitle may apply to the Secretary for a State grant to be applied toward the cost of that project.</section>
     <section prefix="(b)">On approval of a project and the project plans by the Department, the Secretary shall promptly report the application to the Board of Public Works, together with the Secretary's recommendation that the Board make funds available as provided in this subtitle.</section>

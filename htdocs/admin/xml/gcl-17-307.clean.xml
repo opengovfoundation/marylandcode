@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-17-307</section_number>
-  <catch_line/>
+  <catch_line>All intangible personal property held for the owner by any court, public corporation, public authori...</catch_line>
+  <order_by>307</order_by>
   <text>All intangible personal property held for the owner by any court, public corporation, public authority, or public officer of this State or any political subdivision of it that has remained unclaimed by the owner for more than 3 years is presumed abandoned.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-804" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">In addition to the information required under &#xA7; 15-102 of this title, each application for a license shall include:<section prefix="(1)">The name and business address of the drivers' school by whom the applicant is or will be employed; or</section><section prefix="(2)">A statement that the applicant himself is licensed to conduct a drivers' school.</section></section>
     <section prefix="(b)">

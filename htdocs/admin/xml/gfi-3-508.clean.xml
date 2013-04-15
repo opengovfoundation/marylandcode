@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-508" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-508</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>508</order_by>
   <text>
     <section prefix="(a)">A copy of the fund plan and any amendments to it shall be filed at the principal banking office of the trust company, where it shall be available during regular business hours for inspection by any cofiduciary or person who has an interest in a participating account.</section>
     <section prefix="(b)">On a reasonable request, a copy of the fund plan shall be provided to any cofiduciary or person who has an interest in a participating account.</section>

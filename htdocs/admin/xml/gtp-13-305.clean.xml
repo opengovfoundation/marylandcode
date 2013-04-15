@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-305" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-13-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">An instrument of writing is not subject to the agricultural land transfer tax, if property tax on the land has been paid for 5 full consecutive taxable years before the transfer on the basis of an assessment other than the farm or agricultural use assessment under &#xA7; 8-209 of this article.</section>
     <section prefix="(b)">If the amount of agricultural land transferred is not greater than the applicable residential minimum zoning size in effect at the time of transfer, an instrument of writing for the residential use of the owner of the agricultural land or the owner's immediate family is not subject to the agricultural land transfer tax.</section>
@@ -13,7 +13,7 @@
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, an instrument of writing that transfers title to agricultural land that is eligible for farm or agricultural use assessment under &#xA7; 8-209 of this article is not subject to the agricultural land transfer tax if the transferee:<section prefix="(i)">files with the supervisor before the transfer a declaration of intent to farm the agricultural land that specifies that all of the transferred agricultural land will remain in farm or agricultural use for at least 5 full consecutive taxable years; and</section><section prefix="(ii)">applies for farm or agricultural use assessment under &#xA7; 8-209 of this article for the land that is transferred.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">If there is a failure to comply with a declaration of intent filed under paragraph (1) of this subsection including the building of nonagricultural improvements or nonagricultural site improvements or there is a failure to qualify for the farm or agricultural use assessment under &#xA7; 8-209 of this article during the time that a declaration of intent is in effect, the agricultural land transfer tax, plus penalty, is due on that portion of the land that fails to comply with the declaration of intent or to qualify for farm or agricultural use.</section>
-        <section prefix="(ii)">The tax and penalty due under this subsection are a lien on the agricultural land that was transferred. The tax and penalty are due on the earlier of:</section>
+        <section prefix="(ii)">The tax and penalty due under this subsection are a lien on the agricultural land that was transferred. The tax and penalty are due on the earlier of:<section prefix="1.">the next date on which property tax on the agricultural land is due under &#xA7; 10-102 of this article; or</section><section prefix="2.">the date of the next transfer of any part of the agricultural land.</section></section>
       </section>
       <section prefix="(3)">For the purpose of paragraph (2) of this subsection, the supervisor shall calculate the amount of the agricultural land transfer tax due by:<section prefix="(i)">determining the fair market value of the land subject to the tax as of the most recent July 1 and providing the property owner with a notice of that value, which the property owner may appeal as provided by &#xA7; 8-404 of this article;</section><section prefix="(ii)">multiplying the fair market value of the land subject to the tax by the rate of tax provided under &#xA7; 13-303 of this subtitle; and</section><section prefix="(iii)">adding to the tax calculated under subparagraph (ii) of this paragraph a penalty in the amount of 10% of the tax due.</section></section>
     </section>

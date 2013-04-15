@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-306" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">This section applies only to St. Mary's College of Maryland.</section>
     <section prefix="(b)">At the end of a fiscal year, the unencumbered balance of each appropriation from the General Fund, including an amount received as reimbursement of statewide indirect costs, to the Board or any of these institutions reverts to the General Fund of the State.</section>

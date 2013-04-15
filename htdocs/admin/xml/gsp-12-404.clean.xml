@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-404" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-12-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">An appointing authority, the head of a principal unit, or the Secretary may consolidate multiple grievances filed by one employee and process the grievances in a single proceeding.</section>
     <section prefix="(b)">If the grievants agree, an appointing authority, the head of a principal unit, or the Secretary may consolidate similar grievances and process the grievances together in a single proceeding.</section>

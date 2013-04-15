@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-311" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-8-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">Any person who has a deaf or blind child under his control and who violates any provision of &#xA7; 8-302 of this subtitle is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $5 for each offense.</section>
     <section prefix="(b)">Any person who induces or attempts to induce a deaf or blind child to absent himself unlawfully from school, or who employs or harbors a deaf or blind child who is absent unlawfully from school, while the school is in session, is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $50 for each offense.</section>

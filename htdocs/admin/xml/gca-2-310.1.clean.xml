@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-310.1" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-310.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310.1</order_by>
   <text>
     <section prefix="(a)">This section applies only to a corporation registered as an open-end company under the Investment Company Act of 1940.</section>
     <section prefix="(b)">Subject to the provisions of &#xA7; 2-311 of this subtitle, if authorized by its board of directors, a corporation may redeem shares of its stock from any stockholder if the corporation's charter expressly provides for the redemption of shares of its stock from any stockholder.</section>
     <section prefix="(c)">
-      <section prefix="(1)">Subject to the provisions of &#xA7; 2-311 of this subtitle, unless prohibited by its charter, in the case of a corporation whose charter does not expressly provide for the redemption of shares of its stock, the corporation may redeem shares of its stock from any stockholder if:<section prefix="(i)">The aggregate net asset value of the shares to be redeemed from the stockholder is, as of the date of the redemption, $1,000 or less; and</section><section prefix="(ii)">Written notice of the redemption to the stockholder of record:</section></section>
+      <section prefix="(1)">Subject to the provisions of &#xA7; 2-311 of this subtitle, unless prohibited by its charter, in the case of a corporation whose charter does not expressly provide for the redemption of shares of its stock, the corporation may redeem shares of its stock from any stockholder if:<section prefix="(i)">The aggregate net asset value of the shares to be redeemed from the stockholder is, as of the date of the redemption, $1,000 or less; and</section><section prefix="(ii)">Written notice of the redemption to the stockholder of record:<section prefix="1.">Is mailed first-class to the stockholder's last known address of record;</section><section prefix="2.">States that all of the shares will be redeemed; and</section><section prefix="3.">Establishes a date for the redemption which is at least 45 days from the date of the notice.</section></section></section>
       <section prefix="(2)">The price to be paid for shares redeemed under this subsection shall be the aggregate net asset value of the shares at the close of business on the date of the redemption.</section>
       <section prefix="(3)">If certificates representing the shares to be redeemed under this subsection have been issued and are not surrendered for cancellation on the date of redemption:<section prefix="(i)">The corporation may withhold payment for the redeemed shares until the certificates are surrendered for cancellation; and</section><section prefix="(ii)">Except for the right to receive payment of the redemption price, the stockholder shall cease to have any rights as a stockholder of the corporation on the date of redemption.</section></section>
       <section prefix="(4)">If the aggregate net asset value of the shares to be redeemed under this subsection should increase to an amount greater than $1,000 between the date of the notice of redemption and the date of the redemption, then the notice of redemption shall have no further force or effect.</section>

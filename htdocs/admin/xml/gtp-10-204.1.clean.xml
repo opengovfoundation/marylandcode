@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-10-204.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204.1</order_by>
   <text>
     <section prefix="(a)">Notwithstanding Subtitle 1 of this title, the governing body of Montgomery County may authorize, by law, a payment deferral of the county property tax for residential real property occupied as the principal residence of the owner.</section>
     <section prefix="(b)">An owner is eligible for a payment deferral under subsection (a) of this section if the owner or at least 1 of the owners:<section prefix="(1)">has resided in the dwelling for a period of at least 5 consecutive years; and</section><section prefix="(2)">meets the income eligibility requirements determined under subsection (c) of this section.</section></section>

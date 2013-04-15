@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-226" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-226</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>226</order_by>
   <text>
     <section prefix="(a)">If the Commission considers a further investigation necessary or desirable to authenticate information in a report that a facility files under this subtitle, the Commission may make any necessary further examination of the records or accounts of the facility, in accordance with the rules or regulations of the Commission.</section>
     <section prefix="(b)">The examination under this section may include a full or partial audit of the records or accounts of the facility that is:<section prefix="(1)">Provided by the facility; or</section><section prefix="(2)">Performed by:<section prefix="(i)">The staff of the Commission;</section><section prefix="(ii)">A third party for the Commission; or</section><section prefix="(iii)">The Legislative Auditor.</section></section></section>

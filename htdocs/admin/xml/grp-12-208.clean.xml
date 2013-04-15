@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-208" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-12-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of law, if a displacing agency acquires any interest in real property, the displacing agency shall acquire at least an equal interest in all buildings, structures, or other improvements, located on the real property acquired which it requires to be removed from the real property or which it determines will be adversely affected by the use to which the real property will be put.</section>
     <section prefix="(b)">

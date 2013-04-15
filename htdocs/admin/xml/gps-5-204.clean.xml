@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-204" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">In this section, "adjacent state" means Delaware, Pennsylvania, Virginia, or West Virginia.</section>
     <section prefix="(b)">If a resident of this State is eligible to purchase a rifle or shotgun under the laws of an adjacent state, the resident may purchase a rifle or shotgun from a federally licensed gun dealer in the adjacent state.</section>

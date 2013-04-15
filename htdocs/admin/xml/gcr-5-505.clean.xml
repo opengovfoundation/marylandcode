@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-505" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">A controlled dangerous substance listed in Schedule V may not be distributed or dispensed except for a medical purpose.</section>
     <section prefix="(b)">When dispensing the controlled dangerous substance, an authorized provider shall securely affix to the container, in addition to any other label already there, a label with:<section prefix="(1)">the dispenser's name, signature, and registry number;</section><section prefix="(2)">the date on which the controlled dangerous substance is dispensed; and</section><section prefix="(3)">the purchaser's name.</section></section>

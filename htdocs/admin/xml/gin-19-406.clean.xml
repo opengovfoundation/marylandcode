@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-406" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">Except for a cancellation for nonpayment of premium, an insurer may not cancel or refuse to renew a workers' compensation insurance policy before its expiration unless, at least 30 days before the date of cancellation or nonrenewal, the insurer:<section prefix="(1)">serves on the employer, by personal service or certified mail addressed to the last known address of the employer, a notice of intention to cancel or nonrenew the policy; and</section><section prefix="(2)">files a copy of the notice with the State Workers' Compensation Commission's designee.</section></section>
     <section prefix="(b)">Notice under this section may be given:<section prefix="(1)">if the employer is a corporation, to an agent or officer of the corporation on whom legal process may be served; and</section><section prefix="(2)">if the employer is a partnership, to a partner.</section></section>

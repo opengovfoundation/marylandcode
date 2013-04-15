@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-507" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In addition to or instead of any other civil or criminal remedy provided by law, on a determination that a licensed wholesaler has violated &#xA7; 16-504(c) or &#xA7; 16-506(a) of this subtitle or any regulation adopted under this subtitle, the Comptroller may revoke or suspend the license of any licensed wholesaler in the manner provided under &#xA7;&#xA7; 16-211 and 16-212 of this title.</section>

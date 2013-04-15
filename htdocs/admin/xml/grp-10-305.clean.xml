@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-305" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">If a person willfully and knowingly fails to obtain and maintain a corporate surety bond or irrevocable letter of credit or to hold sums of money in an escrow account as required under this subtitle, the person is guilty of a felony and, on conviction, shall make restitution to the purchaser as determined by the court, and be subject to a fine not exceeding $10,000 or imprisonment not exceeding 15 years or both.</section>
     <section prefix="(b)">In addition to any other penalty or relief afforded by law or equity, any conduct that fails to comply with this subtitle is an unfair or deceptive trade practice within the meaning of Title 13 of the Commercial Law Article and is subject to all of the provisions of that title except &#xA7; 13-411 of the Commercial Law Article.</section>

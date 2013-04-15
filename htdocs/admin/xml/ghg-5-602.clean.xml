@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-602" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">Any competent individual may, at any time, make a written or electronic advance directive regarding the provision of health care to that individual, or the withholding or withdrawal of health care from that individual.</section>
     <section prefix="(b)">

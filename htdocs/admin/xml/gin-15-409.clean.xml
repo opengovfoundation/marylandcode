@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-409" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Change in status" means the termination of the insured's employment other than for cause.</section>
-        <section prefix="(ii)">"Change in status" includes:</section>
+        <section prefix="(ii)">"Change in status" includes:<section prefix="1.">involuntary termination of the insured's employment other than for cause; and</section><section prefix="2.">voluntary termination of the insured's employment by the insured employee.</section></section>
       </section>
       <section prefix="(3)">"Group contract" means:<section prefix="(i)">an insurance contract or policy that is issued or delivered in the State to the employer of the insured by an insurer or nonprofit health service plan and that provides group hospital, medical, or surgical benefits to the employees of the employer on an expense-incurred basis; or</section><section prefix="(ii)">a contract between the employer of an insured and a health maintenance organization certified under Title 19, Subtitle 7 of the Health - General Article that provides group hospital, medical, or surgical benefits to the employees of the employer.</section></section>
       <section prefix="(4)">"Insured" means an employee who is a resident of the State and covered under a current or predecessor group contract with the same employer for at least 3 months before the change in status.</section>

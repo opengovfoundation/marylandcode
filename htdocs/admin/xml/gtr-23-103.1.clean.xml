@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-103.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-23-103.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103.1</order_by>
   <text>
     <section prefix="(a)">On receipt of an application and a $15 nonrefundable fee to take the inspection mechanic exam, the Division shall:<section prefix="(1)">Administer an exam to each mechanic applicant; and</section><section prefix="(2)">If the applicant is determined to be qualified, register the mechanic to conduct vehicle inspections.</section></section>
     <section prefix="(b)">The Division may establish standards by rule or regulation for the testing, qualifying, and registering of inspection station mechanics.</section>

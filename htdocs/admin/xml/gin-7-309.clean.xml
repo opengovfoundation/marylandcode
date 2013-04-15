@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-309" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-309</section_number>
-  <catch_line/>
+  <catch_line>A person violates this title if:...</catch_line>
+  <order_by>309</order_by>
   <text>A person violates this title if:<section prefix=""><section prefix="(1)">the person fails to file the statement required by this subtitle; or</section><section prefix="(2)">the person, without the Commissioner's approval during the 60-day period under &#xA7; 7-306(a) of this subtitle, or after the Commissioner's disapproval, makes or attempts to make an acquisition of actual or presumed control of or a merger with a domestic insurer or insurance holding company controlling a domestic insurer.</section></section></text>
 </law>

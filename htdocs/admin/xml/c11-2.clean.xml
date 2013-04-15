@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c11" order_by="" level="1"/>
-    <unit label="chapter" identifier="2" order_by="" level="2"/>
+    <unit label="article" identifier="c11" order_by="" level="1">XI - City of Baltimore</unit>
   </structure>
   <section_number>c11-2</section_number>
-  <catch_line/>
+  <catch_line>The City Council of Baltimore shall consist of Two Branches, one of which shall be called the First ...</catch_line>
+  <order_by>2</order_by>
   <text>The City Council of Baltimore shall consist of Two Branches, one of which shall be called the First Branch, and the other the Second Branch; and each shall consist of such number of members, having such qualification, receiving such compensation, performing such duties, possessing such powers, holding such terms of office, and elected in such manner, as are now, or may hereafter be prescribed by Law.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-301" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-16-301</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not apply to:...</catch_line>
+  <order_by>301</order_by>
   <text>This subtitle does not apply to:<section prefix=""><section prefix="(1)">an attorney in the General Counsel's office;</section><section prefix="(2)">an employee who assists or acts in a confidential capacity for an individual who formulates, determines, or carries out management policies in the field of labor-management relations;</section><section prefix="(3)">a Montgomery Commission merit system employee during the employee's initial probationary period; or</section><section prefix="(4)">a supervisor, as defined in &#xA7; 2(11) of the National Labor Relations Act, 29 U.S.C. &#xA7; 152(11).</section></section></text>
 </law>

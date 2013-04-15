@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-505" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-16-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">The county planning board shall employ full-time park employees under the Commission's merit system, as provided in Subtitle 1 of this title.</section>
     <section prefix="(b)">Full-time park employees shall receive the same employment benefits that other employees receive under the Commission's merit system, including:<section prefix="(1)">annual leave;</section><section prefix="(2)">sick leave;</section><section prefix="(3)">health benefits; and</section><section prefix="(4)">retirement benefits.</section></section>

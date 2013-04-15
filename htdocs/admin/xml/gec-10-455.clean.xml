@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-455" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-455</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>455</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Innovation Initiative.</section>
     <section prefix="(b)">The Initiative consists of the following participating members:<section prefix="(1)">one official of State government not affiliated with Maryland higher education, or the official's designee, appointed by the Governor;</section><section prefix="(2)">two individuals from the private sector not affiliated with Maryland higher education with experience in commercializing technology in the State, one appointed by the President of the Senate, and one appointed by the Speaker of the House of Delegates; and</section><section prefix="(3)">subject to subsection (c) of this section, the following members appointed by the respective universities:<section prefix="(i)">one representative of the Johns Hopkins University;</section><section prefix="(ii)">one representative of Morgan State University;</section><section prefix="(iii)">one representative of University of Maryland, Baltimore;</section><section prefix="(iv)">one representative of University of Maryland Baltimore County; and</section><section prefix="(v)">one representative of University of Maryland, College Park.</section></section></section>
@@ -13,8 +13,8 @@
       <section prefix="(1)">Subject to paragraph (2) of this subsection, only the universities listed under subsection (b)(3) of this section may qualify for participation in the Initiative.</section>
       <section prefix="(2)">To qualify for participation in the Initiative, a university shall provide, as specified in paragraph (3) of this subsection, a contribution annually to the Initiative to carry out the purposes set forth under this part.</section>
       <section prefix="(3)">
-        <section prefix="(i)">To qualify for participation in the Initiative, the following universities shall pay an annual contribution of at least $200,000:</section>
-        <section prefix="(ii)">To qualify for participation in the Initiative, the following universities shall pay an annual contribution of at least $100,000:</section>
+        <section prefix="(i)">To qualify for participation in the Initiative, the following universities shall pay an annual contribution of at least $200,000:<section prefix="1.">Johns Hopkins University;</section><section prefix="2.">University of Maryland, Baltimore; and</section><section prefix="3.">University of Maryland, College Park.</section></section>
+        <section prefix="(ii)">To qualify for participation in the Initiative, the following universities shall pay an annual contribution of at least $100,000:<section prefix="1.">Morgan State University; and</section><section prefix="2.">University of Maryland Baltimore County.</section></section>
       </section>
       <section prefix="(4)">A university listed under subsection (b)(3) of this section may elect to withdraw as a participating member for future years on providing 60 days' written notice to the Chair or Executive Director of the Initiative.</section>
     </section>

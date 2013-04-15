@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-402" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Every motor vehicle with an internal combustion engine shall be equipped with an exhaust muffler system in good working order and in constant operation to prevent excessive or unusual noise, and no person may use a muffler cutout, bypass, or similar device on a motor vehicle on a highway. Noise levels in excess of those adopted by the Administrator under &#xA7; 22-601 of this title are excessive.</section>
     <section prefix="(b)">A person may not use on the exhaust or "tail pipe" of a motor vehicle any extension or other device to cause excessive or unusual noise.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-207" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "dwelling" means:<section prefix="(i)">a newly constructed or substantially rehabilitated single dwelling unit that is unsold or unrented; or</section><section prefix="(ii)">newly constructed or substantially rehabilitated commercial property that is unsold or unrented.</section></section>

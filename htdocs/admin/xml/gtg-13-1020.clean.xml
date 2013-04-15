@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1020" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-1020</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1020</order_by>
   <text>
     <section prefix="(a)">A person who violates any provision of Title 5 of this article for which there is no sanction provided, except suspension or revocation of a license or permit, is guilty of a misdemeanor and, on conviction, is subject to a fine not exceeding $1,000 or imprisonment not exceeding 2 years or both.</section>
     <section prefix="(b)">A person who violates any provision of Title 6 of this article for which there is no sanction provided is guilty of a misdemeanor and, on conviction, is subject to a fine not exceeding $100.</section>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-219" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless registration of an offer of a franchise is renewed for a 1-year term as provided in this section, the registration expires on the first anniversary of its effective date.</section>
       <section prefix="(2)">However, the Commissioner by regulation or order may set a different term of registration.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Before registration expires, the registrant periodically may renew it for an additional 1-year term, if the registrant:<section prefix="(i)">at least 15 business days before the expiration of registration files with the Commissioner:</section><section prefix="(ii)">otherwise is entitled to be registered; and</section><section prefix="(iii)">pays a renewal fee of $250.</section></section>
+      <section prefix="(1)">Before registration expires, the registrant periodically may renew it for an additional 1-year term, if the registrant:<section prefix="(i)">at least 15 business days before the expiration of registration files with the Commissioner:<section prefix="1.">a renewal application on the form that the Commissioner provides; and</section><section prefix="2.">a prospectus;</section></section><section prefix="(ii)">otherwise is entitled to be registered; and</section><section prefix="(iii)">pays a renewal fee of $250.</section></section>
       <section prefix="(2)">The registrant shall sign and verify the renewal application.</section>
       <section prefix="(3)">The Commissioner by order may allow a registrant to submit a renewal application after the 15th business day before expiration of the registration.</section>
     </section>

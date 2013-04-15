@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-208" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">Before a court enters judgment in a proceeding in any court in which the defendant fails to appear:<section prefix="(i)">the plaintiff shall file in the court an affidavit that sets forth facts that show that the defendant is not a person in emergency management service or person suffering injury or damage; or</section><section prefix="(ii)">if the plaintiff is unable to file an affidavit in accordance with item (i) of this paragraph, the plaintiff shall file an affidavit that states that:</section></section>
+      <section prefix="(1)">Before a court enters judgment in a proceeding in any court in which the defendant fails to appear:<section prefix="(i)">the plaintiff shall file in the court an affidavit that sets forth facts that show that the defendant is not a person in emergency management service or person suffering injury or damage; or</section><section prefix="(ii)">if the plaintiff is unable to file an affidavit in accordance with item (i) of this paragraph, the plaintiff shall file an affidavit that states that:<section prefix="1.">the defendant is a person in emergency management service or person suffering injury or damage; or</section><section prefix="2.">the plaintiff is unable to determine whether the defendant is a person in emergency management service or person suffering injury or damage.</section></section></section>
       <section prefix="(2)">If the plaintiff does not file an affidavit in accordance with paragraph (1)(i) of this subsection, judgment may not be entered until the court:<section prefix="(i)">orders entry of the judgment; and</section><section prefix="(ii)">appoints an attorney to represent the defendant in accordance with paragraph (3) of this subsection.</section></section>
       <section prefix="(3)">The court on motion shall appoint an attorney to represent the defendant and to protect the defendant's interests, if the defendant is a person in emergency management service or person suffering injury or damage.</section>
       <section prefix="(4)">Unless the court finds that the defendant is not a person in emergency management service or person suffering injury or damage, the court before entering judgment may require that the plaintiff file a bond approved by the court to indemnify the defendant against any loss or damage that the defendant may suffer because of the judgment if all or part of the judgment is later set aside.</section>
@@ -19,7 +19,7 @@
       <section prefix="(2)">An attorney appointed under this subsection may not waive any right of the person for whom the attorney is appointed or bind the person by the attorney's acts.</section>
     </section>
     <section prefix="(c)">
-      <section prefix="(1)">Not later than 90 days after a defendant ceased to be a person in emergency management service or person suffering injury or damage, the defendant or legal representative of the defendant may file with the court that entered a judgment against the defendant in a proceeding subject to this section a motion to open the judgment against the defendant if:<section prefix="(i)">the judgment was entered during the period that the defendant was, or within 30 days after the defendant ceased to be, a person in emergency management service or person suffering injury or damage; and</section><section prefix="(ii)">the court finds that the defendant:</section></section>
+      <section prefix="(1)">Not later than 90 days after a defendant ceased to be a person in emergency management service or person suffering injury or damage, the defendant or legal representative of the defendant may file with the court that entered a judgment against the defendant in a proceeding subject to this section a motion to open the judgment against the defendant if:<section prefix="(i)">the judgment was entered during the period that the defendant was, or within 30 days after the defendant ceased to be, a person in emergency management service or person suffering injury or damage; and</section><section prefix="(ii)">the court finds that the defendant:<section prefix="1.">was prejudiced in defending against the action because the person was a person in emergency management service or person suffering injury or damage; and</section><section prefix="2.">has a meritorious or legal defense against all or part of the action in which the judgment was entered.</section></section></section>
       <section prefix="(2)">Vacating, setting aside, or reversing a judgment because of this subtitle does not impair any right or title acquired by a bona fide purchaser for value under the judgment.</section>
     </section>
     <section prefix="(d)">

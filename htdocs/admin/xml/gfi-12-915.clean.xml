@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-915" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-915</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>915</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A licensee shall give the Commissioner written notice of any change in the information required to be included in the licensee's application under &#xA7; 12-908(b)(1) and (2) of this subtitle at least 30 days before the change is effective.</section>

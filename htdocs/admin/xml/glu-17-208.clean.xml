@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-208" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-17-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A violation of a regulation under &#xA7; 17-207 of this subtitle is a Commission infraction unless the violation is declared by law to be a crime.</section>
       <section prefix="(2)">
         <section prefix="(i)">A Commission infraction is a civil offense.</section>
-        <section prefix="(ii)">The adjudication of a Commission infraction:</section>
+        <section prefix="(ii)">The adjudication of a Commission infraction:<section prefix="1.">is not a criminal conviction; and</section><section prefix="2.">does not impose any of the civil disabilities ordinarily imposed by a criminal conviction.</section></section>
       </section>
     </section>
     <section prefix="(b)">

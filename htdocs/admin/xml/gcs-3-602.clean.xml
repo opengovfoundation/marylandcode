@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-602" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, the contents of a case record maintained under &#xA7; 3-601 of this subtitle may not be disclosed.</section>
     <section prefix="(b)">The contents of a case record may be disclosed:<section prefix="(1)">if the record is necessary to ensure proper medical treatment, to a provider of medical services to the inmate;</section><section prefix="(2)">to the inmate's attorney;</section><section prefix="(3)">to a person authorized by a court order;</section><section prefix="(4)">to a person expressly authorized by law;</section><section prefix="(5)">to a judge of a State court;</section><section prefix="(6)">to a State's Attorney;</section><section prefix="(7)">to an employee of any State unit or a federal or local law enforcement unit, if disclosure is in furtherance of the employee's lawful duties; and</section><section prefix="(8)">on written request, to a person who has written authorization for the disclosure from the inmate.</section></section>

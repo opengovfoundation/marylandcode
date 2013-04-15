@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1104" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">Beginning in fiscal year 2004 and biennially thereafter, the Department shall conduct a Biennial Cancer Study.</section>
     <section prefix="(b)">The Biennial Cancer Study shall:<section prefix="(1)">Measure the same factors that are set forth in &#xA7; 13-1103(d) of this subtitle; and</section><section prefix="(2)">Use the same methodology or model that is used to conduct the Baseline Cancer Study.</section></section>

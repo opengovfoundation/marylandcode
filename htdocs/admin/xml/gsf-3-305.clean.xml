@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-305" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-3-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, the Central Collection Unit shall pay the net proceeds of collections into the State Treasury.</section>
     <section prefix="(b)">If the funds of a unit of the State government are not part of the State Treasury, the Central Collection Unit shall deliver to the Treasurer the net proceeds of collection on a debt or claim that was due to the unit of the State government for its account.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3A-33" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3A-33</section_number>
-  <catch_line/>
+  <catch_line>A court may not enter an order for adoption under this subtitle until 30 days after entry of a guard...</catch_line>
+  <order_by>33</order_by>
   <text>A court may not enter an order for adoption under this subtitle until 30 days after entry of a guardianship order under this subtitle.</text>
 </law>

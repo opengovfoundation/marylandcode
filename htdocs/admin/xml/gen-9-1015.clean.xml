@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1015" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1015</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1015</order_by>
   <text>
     <section prefix="(a)">If a water quality laboratory located outside of this State examines any of the public drinking water of this State, the results of that examination may not be accepted by this State unless the water quality laboratory is certified under this subtitle.</section>
     <section prefix="(b)">A person who operates a water quality laboratory in another state and who wishes to have the water quality laboratory certified in this State shall:<section prefix="(1)">Submit to the Department, on the form that the Department requires, an application for certification of the water quality laboratory;</section><section prefix="(2)">Show to the satisfaction of the Department that the water quality laboratory meets at least the minimum standards and qualifications adopted by the Department under this subtitle for water quality laboratories in this State; and</section><section prefix="(3)">Pay to the Department the application fee set by the Department.</section></section>

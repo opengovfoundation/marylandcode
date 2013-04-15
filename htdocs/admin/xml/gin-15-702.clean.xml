@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-702" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">This section applies to each self-funded group insurance plan that:<section prefix="(1)"><section prefix="(i)">is formed by an order, society, or association that is incorporated or has a main office in the State; or</section><section prefix="(ii)">covers individuals who reside or work in the State; and</section></section><section prefix="(2)">is issued, renewed, amended, or reissued on or after July 1, 1972.</section></section>
     <section prefix="(b)">Notwithstanding any other provision of a self-funded group insurance plan subject to this section, if the plan provides for reimbursement for a service that is within the lawful scope of practice of a physician, dentist, or podiatrist, the plan may not prohibit a person covered by the plan from being reimbursed for the service regardless of whether the service is performed by a physician, dentist, or podiatrist.</section>

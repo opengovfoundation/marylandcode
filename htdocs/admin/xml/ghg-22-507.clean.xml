@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-507" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">The Secretary may collect, report, and illustrate the results of any investigation by the Department that relates to hazardous material.</section>
     <section prefix="(b)">The Secretary may:<section prefix="(1)">Publish summaries of judgments, decrees, or court orders issued under this subtitle; and</section><section prefix="(2)">If there is an imminent danger to public health, publish information about any hazardous material.</section></section>

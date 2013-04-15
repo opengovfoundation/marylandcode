@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1308" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1308</section_number>
-  <catch_line/>
+  <catch_line>On completion of the drilling of any well, the well driller shall file a final report with the Depar...</catch_line>
+  <order_by>1308</order_by>
   <text>On completion of the drilling of any well, the well driller shall file a final report with the Department. The report shall include:<section prefix=""><section prefix="(1)">The log of each well;</section><section prefix="(2)">The size and depth of each well;</section><section prefix="(3)">The diameters and lengths of casing and screen installed;</section><section prefix="(4)">The static and pumping levels;</section><section prefix="(5)">The yield of each well; and</section><section prefix="(6)">Any other information relating to the construction or operation of the well that the Department requires.</section></section></text>
 </law>

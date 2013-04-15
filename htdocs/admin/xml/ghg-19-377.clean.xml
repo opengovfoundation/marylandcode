@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-377" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-377</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>377</order_by>
   <text>
     <section prefix="(a)">In this section, "safe patient lifting" means the use of mechanical lifting devices by hospital employees, instead of manual lifting, to lift, transfer, and reposition patients.</section>
     <section prefix="(b)">On or before December 1, 2007, each hospital shall establish a safe patient lifting committee with equal membership from management and employees.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-661" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-661</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>661</order_by>
   <text>
     <section prefix="(a)">The employer or its insurer shall repair or replace an artificial eye, limb, tooth or other prosthetic appliance or eyeglasses damaged or destroyed because of an accident during the course of employment.</section>
     <section prefix="(b)">If the employer or its insurer fails to make a repair or replacement required under subsection (a) of this section, the covered employee may make the repair or replacement at the expense of the employer or its insurer.</section>

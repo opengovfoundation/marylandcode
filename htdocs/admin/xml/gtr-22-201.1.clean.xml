@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-201.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-201.1</section_number>
-  <catch_line/>
+  <catch_line>Every vehicle on a highway in this State, at any time when, due to insufficient light or unfavorable...</catch_line>
+  <order_by>201.1</order_by>
   <text>Every vehicle on a highway in this State, at any time when, due to insufficient light or unfavorable atmospheric conditions, persons and vehicles on the highway are not clearly discernible at a distance of 1,000 feet ahead, shall display lighted lamps and illuminating devices as respectively required in this subtitle for different classes of vehicles, subject to exceptions with respect to parked vehicles, and further that stoplights, turn signals, and other signaling devices shall be lighted as prescribed for the use of these devices.</text>
 </law>

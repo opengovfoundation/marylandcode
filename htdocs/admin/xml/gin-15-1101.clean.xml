@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1101" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1101</order_by>
   <text>
     <section prefix="(a)">Each nonprofit health service plan that issues or delivers a hospital insurance policy in the State shall offer a catastrophic health insurance policy.</section>
     <section prefix="(b)">The catastrophic health insurance policy shall provide full coverage for the reasonable cost of necessary health care incurred by the insured up to $1,000,000.</section>

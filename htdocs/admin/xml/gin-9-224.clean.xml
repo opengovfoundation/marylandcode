@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-224" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-224</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>224</order_by>
   <text>
     <section prefix="(a)">In this section, "association" means:<section prefix="(1)">the Property and Casualty Insurance Guaranty Corporation;</section><section prefix="(2)">the Life and Health Insurance Guaranty Corporation; or</section><section prefix="(3)">a similar organization in another state.</section></section>
     <section prefix="(b)">Within 120 days after a court of the State makes a final determination that an insurer is an impaired insurer, the Commissioner as receiver shall apply to the court for approval of a proposal to disperse to the association entitled to disbursements unsecured assets out of the marshalled assets of the impaired insurer as those assets become available.</section>

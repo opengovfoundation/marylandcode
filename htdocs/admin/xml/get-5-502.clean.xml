@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-502" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-5-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Any foreign personal representative may exercise in Maryland all powers of his office, and may sue and be sued in Maryland, subject to any statute or rule relating to nonresidents.</section>
     <section prefix="(b)">A foreign personal representative has the same power to sell, mortgage, lease, convey, or otherwise transfer or assign real property or an interest in the property which is located in Maryland as a Maryland personal representative has with respect to real property and an interest in the property.</section>

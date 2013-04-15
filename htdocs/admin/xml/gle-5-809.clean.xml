@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-809" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-809</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>809</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For the purpose of this subsection, a violation is considered to be a serious violation if there is a substantial probability that death or serious physical harm could result from a condition that exists or a practice, means, method, operation, or process that has been adopted or is in use, unless the employer did not and with the exercise of reasonable diligence could not know of the violation.</section>

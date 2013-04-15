@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -23,7 +23,7 @@
     <section prefix="(h)">"Engage in the operation of a cemetery" means owning, controlling, or managing a cemetery, including performing activities necessary for:<section prefix="(1)">the establishment, improvement, care, preservation, or embellishment of a cemetery;</section><section prefix="(2)">interment; and</section><section prefix="(3)">the providing of burial space or burial goods.</section></section>
     <section prefix="(i)">
       <section prefix="(1)">"Engage in the operation of a crematory" means controlling or managing a crematory.</section>
-      <section prefix="(2)">"Engage in the operation of a crematory" does not include:<section prefix="(i)">the practice of funeral direction or the practice of mortuary science; or</section><section prefix="(ii)"/></section>
+      <section prefix="(2)">"Engage in the operation of a crematory" does not include:<section prefix="(i)">the practice of funeral direction or the practice of mortuary science; or</section><section prefix="(ii)"><section prefix="1.">assistance in making decisions and filling out forms that are not directly related to cremation;</section><section prefix="2.">obtaining vital statistics, signatures, and other information necessary to complete a death certificate;</section><section prefix="3.">transportation of a body to the place of disposition; or</section><section prefix="4.">any other services regarding the disposition of a body that are not directly related to cremation.</section></section></section>
     </section>
     <section prefix="(j)">"Funeral establishment" means a building, structure, or premises from which the business of funeral directing or embalming is conducted.</section>
     <section prefix="(k)">

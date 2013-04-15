@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-688" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-688</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>688</order_by>
   <text>
     <section prefix="(a)">In the manner that the sanitary commission determines to be in the best interest of the district and the member counties, a district may sell bonds issued under this subtitle:<section prefix="(1)">At public or private sale; and</section><section prefix="(2)">At a price that meets the requirements of this section.</section></section>
     <section prefix="(b)">The district may not sell bonds at a price so low that the effective rate of interest is greater than the rate of interest that the sanitary commission has determined for the bonds.</section>

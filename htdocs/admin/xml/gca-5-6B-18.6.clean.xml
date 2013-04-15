@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-6B-18.6" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-6B-18.6</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>18.6</order_by>
   <text>
     <section prefix="(a)">In this section, "fidelity insurance" includes a fidelity bond.</section>
     <section prefix="(b)">This section does not apply to a cooperative housing corporation:<section prefix="(1)">That has four or fewer members; and</section><section prefix="(2)">For which 3 months' worth of gross common charges is less than $2,500.</section></section>

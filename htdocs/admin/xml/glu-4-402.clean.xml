@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-402" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-4-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the circuit court shall review the decision of a board of appeals or a hearing examiner under this subtitle on the record transmitted by the board of appeals or hearing examiner, and not de novo.</section>
     <section prefix="(b)">

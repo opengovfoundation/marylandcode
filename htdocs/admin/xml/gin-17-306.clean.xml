@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-306" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-306</section_number>
-  <catch_line/>
+  <catch_line>Each policy of group life insurance shall contain a provision that:...</catch_line>
+  <order_by>306</order_by>
   <text>Each policy of group life insurance shall contain a provision that:<section prefix=""><section prefix="(1)">specifies that an equitable adjustment of premiums or benefits or both will be made if the age of an insured is misstated; and</section><section prefix="(2)">clearly states the method of adjustment to be used.</section></section></text>
 </law>

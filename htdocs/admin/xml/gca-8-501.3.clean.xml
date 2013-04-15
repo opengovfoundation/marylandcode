@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-501.3" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-8-501.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501.3</order_by>
   <text>
     <section prefix="(a)">A complete restatement of the declaration of trust may be submitted for approval in the manner required for an amendment of the declaration of trust to a meeting of the real estate investment trust's shareholders or trustees.</section>
     <section prefix="(b)">If the restatement is submitted for approval in the manner required for an amendment to the declaration of trust, any amendments to the declaration of trust approved at the meeting may be included in the restatement.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2505" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2505</order_by>
   <text>
     <section prefix="(a)">If a seller violates any provision of this subtitle, the buyer may cancel the sale by notifying the seller, in any manner and by any means, of the buyer's intention to cancel.</section>
     <section prefix="(b)">If a seller fails to refund all payments in the time required, after the purchase complies with the requirements of the notice of cancellation a purchaser is entitled to payment of an additional 1 percent for each month or part of a month that the refund is not paid.</section>

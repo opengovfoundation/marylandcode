@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-522" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-522</section_number>
-  <catch_line/>
+  <catch_line>The Fund consists of:...</catch_line>
+  <order_by>522</order_by>
   <text>The Fund consists of:<section prefix=""><section prefix="(1)">premiums for guaranteeing loans under &#xA7; 5-525(a) of this subtitle;</section><section prefix="(2)">premiums for guaranteeing equity investments under &#xA7; 5-525(b) of this subtitle;</section><section prefix="(3)">repayments of principal of and interest on direct loans made under &#xA7; 5-525(c) of this subtitle;</section><section prefix="(4)">proceeds from the sale, disposition, lease, or rental of collateral for direct loans or loan guaranties made under &#xA7; 5-525 of this subtitle; and</section><section prefix="(5)">all other receipts of the Authority under this part.</section></section></text>
 </law>

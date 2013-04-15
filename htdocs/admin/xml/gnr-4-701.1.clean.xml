@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-701.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-701.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701.1</order_by>
   <text>
     <section prefix="(a)">This section applies to a person who does not qualify for a license required under Subtitle 2, Subtitle 7, Subtitle 8, Subtitle 9, or Subtitle 10 of this title, except for a seafood dealer license or a seafood landing license, to be licensed to guide fishing parties or to catch, sell, buy, process, transport, export, or otherwise deal in fish caught in tidal waters.</section>
     <section prefix="(b)">Except as provided under subsection (h) of this section, the Department may issue an apprenticeship permit to authorize a person to gain practical experience in the presence of a tidal fish licensee regarding commercial fishing activities.</section>
@@ -21,7 +21,7 @@
     <section prefix="(f)">The Department shall issue a tidal fish license or authorization in accordance with &#xA7; 4-701(h) of this subtitle to persons who have completed the criteria established in subsection (g) or (h) of this section.</section>
     <section prefix="(g)">
       <section prefix="(1)">
-        <section prefix="(i)">The practical experience of a permittee shall consist of:</section>
+        <section prefix="(i)">The practical experience of a permittee shall consist of:<section prefix="1.">For each commercial fishing activity authorized under &#xA7; 4-701(d)(2)(ii) of this subtitle, 150 days of experience in the fishing activity applied for;</section><section prefix="2.">For multiple fishing activities under &#xA7; 4-701(d)(2)(ii) of this subtitle and an unlimited tidal fish authorization, 180 days of experience in at least two commercial fishing activities; and</section><section prefix="3.">For the purposes of subparagraph (ii) of this paragraph, at least 60 days of practical experience spent in separate commercial fishing activities.</section></section>
         <section prefix="(ii)">A permittee shall obtain the practical experience required under this subsection within 10 years before applying for a license or an authorization under subsection (f) of this section.</section>
       </section>
       <section prefix="(2)">Except as provided in paragraph (6) of this subsection, the practical experience shall be documented by the permittee on the forms provided by the Department and submitted to the Department on a monthly basis when engaging in practical experience. The forms shall include:<section prefix="(i)">Number of days spent gaining practical experience under the presence of a tidal fish licensee;</section><section prefix="(ii)">Particular fishing activities;</section><section prefix="(iii)">The signature of a tidal fish licensee certifying that the recorded information regarding the practical experience in fishing activities is true and correct; and</section><section prefix="(iv)">Copies of appropriate income tax forms documenting the permittee's compensated employment in the presence of a tidal fish licensee.</section></section>
@@ -32,9 +32,9 @@
       <section prefix="(4)">An applicant shall be issued an apprenticeship permit in accordance with subsection (e)(4) of this section.</section>
       <section prefix="(5)">An applicant may be credited with the completed requirements that were accrued and documented in accordance with paragraph (2) or (6) of this subsection before being issued an apprenticeship permit.</section>
       <section prefix="(6)">
-        <section prefix="(i)">This paragraph shall apply only to an individual who:</section>
-        <section prefix="(ii)">Practical experience shall be documented by:</section>
-        <section prefix="(iii)">For an individual who served as a crew member to a tidal fish licensee or person that holds a commercial fishing license issued by another state or the federal government, practical fishing experience shall be documented by:</section>
+        <section prefix="(i)">This paragraph shall apply only to an individual who:<section prefix="1.">Served as a crew member to a tidal fish licensee or a person that holds a commercial fishing license issued by another state or the federal government;</section><section prefix="2.">Held a Maryland Provisional Chesapeake Bay Charter Boat Permit in accordance with &#xA7; 4-210.2 of this title;</section><section prefix="3.">Held a tidal fish license and has not permanently transferred a tidal fish license within the past 24 months in accordance with &#xA7; 4-701(j) of this subtitle;</section><section prefix="4.">Held a temporary transfer of a tidal fish license;</section><section prefix="5.">Harvested fish from the waters of the Exclusive Economic Zone and landed the fish in the State;</section><section prefix="6.">Holds a commercial fishing license issued by another state or the federal government; or</section><section prefix="7.">Held a commercial fishing license issued by another state or the federal government.</section></section>
+        <section prefix="(ii)">Practical experience shall be documented by:<section prefix="1.">Stating the number of days spent engaged in a particular fishing activity up to the minimum number of days required under paragraph (1) of this subsection on forms and in a manner provided by the Department; and</section><section prefix="2.">Any fishing activity reports required by the State, by another state, or by the federal government.</section></section>
+        <section prefix="(iii)">For an individual who served as a crew member to a tidal fish licensee or person that holds a commercial fishing license issued by another state or the federal government, practical fishing experience shall be documented by:<section prefix="1.">Stating the number of days spent serving as a crew member engaged in a particular fishing activity up to the minimum number of days required under paragraph (1) of this subsection, certified in writing by the tidal fish licensee or person that holds a commercial fishing license issued by another state or the federal government on forms provided by the Department; and</section><section prefix="2.">Any fishing activity reports of the tidal fish licensee required by the State, another state, or by the federal government.</section></section>
       </section>
       <section prefix="(7)">In addition to practical experience, before a license may be issued to a permittee, the permittee shall complete an 8-hour program approved by the Department concerning commercial fishing activities.</section>
     </section>

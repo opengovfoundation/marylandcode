@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-12B-02" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-12B-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">Each person who sells health club services in this State shall register with the Division on forms the Division provides. The person shall furnish the full name and address of each business location where health club services are sold as well as any other registration information the Division deems appropriate.</section>
     <section prefix="(b)">
       <section prefix="(1)">Each person who registers under this subtitle shall pay a registration fee at the time of registration.</section>
       <section prefix="(2)">On September 1 of each year following the initial registration, each registered person shall pay a renewal fee to the Division.</section>
-      <section prefix="(3)">The fees for registration and renewal required under this subsection shall be set by the Division:<section prefix="(i)">In an amount not exceeding $1,200 for a person who is required to purchase a surety bond or file an irrevocable letter of credit or cash under subsection (e) of this section;</section><section prefix="(ii)">In an amount not exceeding $300 for a person who:</section><section prefix="(iii)">In an amount not exceeding $75 for a person who:</section></section>
+      <section prefix="(3)">The fees for registration and renewal required under this subsection shall be set by the Division:<section prefix="(i)">In an amount not exceeding $1,200 for a person who is required to purchase a surety bond or file an irrevocable letter of credit or cash under subsection (e) of this section;</section><section prefix="(ii)">In an amount not exceeding $300 for a person who:<section prefix="1.">Is exempt from the requirement to purchase a surety bond or file an irrevocable letter of credit or cash under subsection (e) of this section; and</section><section prefix="2.">Does not meet the requirements of item (iii) of this paragraph; and</section></section><section prefix="(iii)">In an amount not exceeding $75 for a person who:<section prefix="1.">Is exempt from the requirement to purchase a surety bond or file an irrevocable letter of credit or cash under subsection (e) of this section;</section><section prefix="2.">Does not charge an initiation fee or other fee that is not identified as a payment for specified future services;</section><section prefix="3.">Does not contractually obligate a buyer of health club services to pay in advance of the date the services are provided to the buyer; and</section><section prefix="4.">Does not collect from a buyer of health club services any payment in advance of the date the services are provided to the buyer.</section></section></section>
       <section prefix="(4)">The fees collected under this subsection may only be used for the administration and enforcement of this subtitle.</section>
     </section>
     <section prefix="(c)">At least one member of the board of directors of each seller of health club services in this State shall be a resident of a county where a club of the seller is located and shall serve as a resident agent for receipt of service of process.</section>
@@ -23,7 +23,7 @@
         <section prefix="(iii)">The report shall be submitted at the time of initial registration and updated at each renewal under subsection (b) of this section.</section>
       </section>
       <section prefix="(2)">
-        <section prefix="(i)">The amount of the bond shall be increased, or may be decreased, as necessary to take into account changes in the health club facility's outstanding liabilities to members in the following cases, whichever comes first:</section>
+        <section prefix="(i)">The amount of the bond shall be increased, or may be decreased, as necessary to take into account changes in the health club facility's outstanding liabilities to members in the following cases, whichever comes first:<section prefix="1.">When the health club facility's outstanding liabilities to members increase or decrease by $10,000; or</section><section prefix="2.">On a quarterly basis.</section></section>
         <section prefix="(ii)">If a registrant's outstanding liabilities to the members exceed the amount of the bond, and the registrant has failed to increase the bond, then the registrant shall immediately stop selling health club services agreements and shall refrain from selling health club services agreements until the requirements of this subsection have been satisfied.</section>
       </section>
       <section prefix="(3)">

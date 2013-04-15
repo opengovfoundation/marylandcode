@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-402" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">In addition to any other charges authorized under this division, the Commission may impose a system development charge that shall be paid by an applicant for new service.</section>
     <section prefix="(b)">The system development charge shall be paid as follows:<section prefix="(1)">for residential properties:<section prefix="(i)">50% at the time the plumbing permit application is filed; and</section><section prefix="(ii)">50% within 12 months after the earlier of the date on which a plumbing permit application is filed or on transfer of title to the property; and</section></section><section prefix="(2)">for other properties, 100% at the time the plumbing permit application is filed.</section></section>

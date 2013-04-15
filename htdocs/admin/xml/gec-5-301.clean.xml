@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-301" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Aquaculture project" means a project that encourages innovation, expansion, and modernization of the seafood processing industry or aquaculture industry.</section>
@@ -19,7 +19,7 @@
     <section prefix="(g)">"Authority" means the Maryland Economic Development Assistance Authority.</section>
     <section prefix="(h)">"Brownfields Revitalization Incentive Program" means the program in the Department that provides financial assistance from the Fund for the redevelopment of qualified brownfields sites, as provided in Part VI of this subtitle.</section>
     <section prefix="(i)">
-      <section prefix="(1)">"Brownfields site" means a property that:<section prefix="(i)">is located in a county or municipal corporation that elects to participate in the Brownfields Revitalization Incentive Program in accordance with &#xA7; 5-336 of this subtitle; and</section><section prefix="(ii)">is:</section></section>
+      <section prefix="(1)">"Brownfields site" means a property that:<section prefix="(i)">is located in a county or municipal corporation that elects to participate in the Brownfields Revitalization Incentive Program in accordance with &#xA7; 5-336 of this subtitle; and</section><section prefix="(ii)">is:<section prefix="1.">an eligible property, as defined in &#xA7; 7-501 of the Environment Article, that is owned or operated by an inculpable person, as defined in &#xA7; 7-501 of the Environment Article; or</section><section prefix="2.">a property where there is a release, discharge, or threatened release of oil, as defined in &#xA7; 4-401 of the Environment Article, that is subject to Title 4 of the Environment Article.</section></section></section>
       <section prefix="(2)">"Brownfields site" does not include property that is owned or operated by:<section prefix="(i)">a responsible person as defined in &#xA7; 7-201 of the Environment Article; or</section><section prefix="(ii)">a person responsible for the discharge, as defined in &#xA7; 4-401 of the Environment Article.</section></section>
     </section>
     <section prefix="(j)">"Child care facility" means a facility that is required to be licensed as a child care center under Title 5, Subtitle 5, Part VII of the Family Law Article.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-206" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-6-206</section_number>
-  <catch_line/>
+  <catch_line>The Treasurer may not designate a financial institution or a foreign institution as a depositary unl...</catch_line>
+  <order_by>206</order_by>
   <text>The Treasurer may not designate a financial institution or a foreign institution as a depositary unless the Governor approves the designation.</text>
 </law>

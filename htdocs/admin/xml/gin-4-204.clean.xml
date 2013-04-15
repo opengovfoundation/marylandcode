@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-204" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person may not accept for publication or printing in a newspaper, magazine, or other periodical, or for broadcast on radio or television in the State, an advertisement or other notice that directly or indirectly solicits business for or sets forth the advantages of doing business with an insurer, insurance producer, or other person, unless the person that will publish or broadcast the advertisement or notice has a certificate issued by the Commissioner stating that the insurer, insurance producer, or other person named in the certificate is authorized to transact insurance business in the State.</section>

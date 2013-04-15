@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-101" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">The fiscal year for the State and its officers and units begins on July 1 of a calendar year and ends on June 30 of the next calendar year.</section>
     <section prefix="(b)">Each officer and unit of the State government shall use the fiscal year for:<section prefix="(1)">appropriating money;</section><section prefix="(2)">authorizing expenditures;</section><section prefix="(3)">keeping records;</section><section prefix="(4)">balancing books and accounts; and</section><section prefix="(5)">making reports.</section></section>

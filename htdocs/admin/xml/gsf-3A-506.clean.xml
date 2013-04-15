@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="3A-506" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-3A-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">The programs under &#xA7; 3A-504(a) of this subtitle and &#xA7; 3A-602(a) of this title shall be funded as provided in the State budget.</section>
     <section prefix="(b)">
@@ -25,7 +25,10 @@
       <section prefix="(1)">The Secretary shall annually certify to the Public Service Commission the costs of the programs under &#xA7; 3A-504(a) of this subtitle and &#xA7; 3A-602(a) of this title to be paid by the Universal Service Trust Fund for the following fiscal year.</section>
       <section prefix="(2)">
         <section prefix="(i)">	The Public Service Commission shall determine the surcharge for the following fiscal year necessary to fund the programs under &#xA7; 3A-504(a) of this subtitle and &#xA7; 3A-602(a) of this title.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">In accordance with subsection (c)(2) and subsubparagraph 2 of this subparagraph, the Public Service Commission shall set the surcharge for the following fiscal year at an amount that is no higher than necessary to generate sufficient revenues to fund the costs of the programs for the following fiscal year, as certified under paragraph (1) of this subsection.</section>
+          <section prefix="2.">In setting the surcharge under subsubparagraph 1 of this subparagraph, the Public Service Commission shall take into account whether the surcharge may be adjusted as a result of any uncommitted funds in the Universal Service Trust Fund at the end of the fiscal year that may be used to fund the costs of the programs for the following fiscal year.</section>
+        </section>
       </section>
       <section prefix="(3)">The Secretary shall, on 60 days' notice, direct the affected communications companies to add the surcharge determined by the Public Service Commission under paragraph (2) of this subsection to all current bills rendered for communications service in the State.</section>
     </section>

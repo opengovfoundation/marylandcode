@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-105.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-105.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105.1</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (c) of this section, in a criminal case or juvenile proceeding involving theft of a motor vehicle under &#xA7; 7-104 or &#xA7; 7-105 of this subtitle, an affidavit sworn to in open court by the lawful owner of the motor vehicle may be introduced thereafter as substantive evidence that the motor vehicle was taken from the lawful owner and operated, used, or possessed without the lawful owner's authorization.</section>
     <section prefix="(b)">The affidavit shall:<section prefix="(1)">be given under oath subject to the penalty of perjury; and</section><section prefix="(2)">be attached to a copy of the certificate of title of the motor vehicle.</section></section>

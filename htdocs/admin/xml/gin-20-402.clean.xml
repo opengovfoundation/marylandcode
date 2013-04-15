@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-402" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">The Association consists of all insurers except for the Fund that are licensed to write on a direct basis motor vehicle liability insurance or motor vehicle physical damage insurance in the State.</section>
     <section prefix="(b)">As a condition of its authority to write motor vehicle liability insurance or motor vehicle physical damage insurance in the State, an insurer must be and remain an Association member.</section>

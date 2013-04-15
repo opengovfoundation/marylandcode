@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-306" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-17-306</section_number>
-  <catch_line/>
+  <catch_line>The Maryland Higher Education Commission shall:...</catch_line>
+  <order_by>306</order_by>
   <text>The Maryland Higher Education Commission shall:<section prefix=""><section prefix="(1)">Adopt regulations necessary for the administration of this subtitle; and</section><section prefix="(2)">Submit to the Governor and, in accordance with &#xA7; 2-1246 of the State Government Article, to the General Assembly an annual report summarizing the total amount of funds pledged by eligible private donors and total amount of funds raised.</section></section></text>
 </law>

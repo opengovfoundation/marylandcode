@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-703" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">A security interest that is enforceable immediately before this title takes effect and would have priority over the rights of a person that becomes a lien creditor at that time is a perfected security interest under this title if, when this title takes effect, the applicable requirements for enforceability and perfection under this title are satisfied without further action.</section>
     <section prefix="(b)">Except as otherwise provided in &#xA7; 9-705, if, immediately before this title takes effect, a security interest is enforceable and would have priority over the rights of a person that becomes a lien creditor at that time, but the applicable requirements for enforceability or perfection under this title are not satisfied when this title takes effect, the security interest:<section prefix="(1)">Is a perfected security interest for one year after this title takes effect;</section><section prefix="(2)">Remains enforceable thereafter only if the security interest becomes enforceable under &#xA7; 9-203 before the year expires; and</section><section prefix="(3)">Remains perfected thereafter only if the applicable requirements for perfection under this title are satisfied before the year expires.</section></section>

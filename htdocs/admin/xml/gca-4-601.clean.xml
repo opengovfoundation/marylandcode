@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-601" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4-601</section_number>
-  <catch_line/>
+  <catch_line>A consolidation, merger, share exchange, or transfer of assets of a close corporation shall be made ...</catch_line>
+  <order_by>601</order_by>
   <text>A consolidation, merger, share exchange, or transfer of assets of a close corporation shall be made in accordance with the provisions of Title 3 of this article. However, approval of a proposed consolidation or merger, a transfer of its assets, or an acquisition of its stock in a share exchange requires the affirmative vote of every stockholder of the corporation.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-205" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">A certificate of qualification expires on the first June 30 after its effective date unless it is renewed as provided in this section.</section>
     <section prefix="(b)">Before a certificate of qualification expires, the holder of the certificate of qualification may renew it for an additional 1-year term, if the holder:<section prefix="(1)">otherwise is entitled to a certificate of qualification; and</section><section prefix="(2)">pays to the Commissioner the renewal fee required by &#xA7; 2-112 of this article.</section></section>

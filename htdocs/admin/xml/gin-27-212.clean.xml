@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-212" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">This section does not apply to life insurance, health insurance, and annuities.</section>
     <section prefix="(b)">Except to the extent provided for in an applicable filing with the Commissioner as provided by law, an insurer, employee or representative of an insurer or insurance producer may not pay, allow, give, or offer to pay, allow, or give directly or indirectly as an inducement to insurance or after insurance has become effective:<section prefix="(1)">a rebate, discount, abatement, credit, or reduction of the premium stated in the policy;</section><section prefix="(2)">a special favor or advantage in the dividends or other benefits to accrue on the policy; or</section><section prefix="(3)">any valuable consideration or other inducement not specified in the policy.</section></section>

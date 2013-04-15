@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-208" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If, under a power contained in the charter, the board of directors classifies or reclassifies any unissued stock by setting or changing the preferences, conversion or other rights, voting powers, restrictions, limitations as to dividends, qualifications, or terms or conditions of redemption, the board shall file articles supplementary for record with the Department.</section>

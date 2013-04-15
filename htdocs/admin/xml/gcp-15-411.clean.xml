@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-411" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-15-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">This section applies only in Frederick County.</section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
     </section>
     <section prefix="(c)">
       <section prefix="(1)">
-        <section prefix="(i)">The State's Attorney may appoint two deputy State's Attorneys who shall:</section>
+        <section prefix="(i)">The State's Attorney may appoint two deputy State's Attorneys who shall:<section prefix="1.">serve at the pleasure of the State's Attorney; and</section><section prefix="2.">under the direction of the State's Attorney, present cases to the grand jury and perform other necessary duties in relation to the grand jury and the operation of the office.</section></section>
         <section prefix="(ii)">Subject to the approval of the county commissioners, the State's Attorney shall set the salary of each deputy State's Attorney.</section>
       </section>
       <section prefix="(2)">The State's Attorney may appoint the number of full-time and part-time assistant State's Attorneys that are approved by the county commissioners and who:<section prefix="(i)">serve at the pleasure of the State's Attorney;</section><section prefix="(ii)">receive the compensation that the county commissioners approve; and</section><section prefix="(iii)">have the same legal powers that the State's Attorney has to present cases to the grand jury and perform other necessary duties in relation to the grand jury and the operation of the office.</section></section>

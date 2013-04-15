@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-516" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-516</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>516</order_by>
   <text>
     <section prefix="(1)">A lessee must pay rent for any goods accepted in accordance with the lease contract, with due allowance for goods rightfully rejected or not delivered.</section>
     <section prefix="(2)">A lessee's acceptance of goods precludes rejection of the goods accepted. In the case of a finance lease, other than a consumer lease in which the supplier assisted in the preparation of the lease contract or participated in negotiating the terms of the lease contract with the lessor, if made with knowledge of a nonconformity, acceptance cannot be revoked because of it. In any other case, if made with knowledge of a nonconformity, acceptance cannot be revoked because of it unless the acceptance was on the reasonable assumption that the nonconformity would be seasonably cured. Acceptance does not of itself impair any other remedy provided by this title or the lease agreement for nonconformity.</section>

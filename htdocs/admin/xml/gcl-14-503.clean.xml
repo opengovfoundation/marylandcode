@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly publish or distribute any catalog, prospectus, or circular which offers for sale a fine print unless it clearly and conspicuously discloses all information required by &#xA7; 14-504 of this subtitle.</section>
     <section prefix="(b)">A person may not knowingly sell at retail or wholesale any fine print unless a written invoice, receipt for the purchase price, or certificate furnished to the purchaser clearly and conspicuously discloses all information required by &#xA7; 14-504 of this subtitle.</section>

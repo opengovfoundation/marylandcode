@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-314" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-314</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>314</order_by>
   <text>
     <section prefix="(a)">A person who holds a permit may not wear, carry, or transport a handgun while the person is under the influence of alcohol or drugs.</section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 1 year or a fine not exceeding $1,000 or both.</section>

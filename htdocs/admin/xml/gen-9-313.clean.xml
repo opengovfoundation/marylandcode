@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-313" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">The Department may adopt rules and regulations to carry out the provisions of this subtitle.</section>
     <section prefix="(b)">In adopting any rule or regulation under this subtitle, the Department shall consider:<section prefix="(1)">Existing physical conditions;</section><section prefix="(2)">The character of the area involved, including surrounding land uses;</section><section prefix="(3)">Priority ranking of waters as to effluent limits;</section><section prefix="(4)">Zoning;</section><section prefix="(5)">The nature of the existing receiving body of water;</section><section prefix="(6)">The technical feasibility of measuring or reducing the particular type of water pollution;</section><section prefix="(7)">The economic reasonableness of measuring or reducing the particular type of water pollution; and</section><section prefix="(8)">The purposes of this subtitle.</section></section>

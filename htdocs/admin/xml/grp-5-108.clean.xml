@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-108" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-5-108</section_number>
-  <catch_line/>
+  <catch_line>Nothing in this title may be construed as negating any additional requirement of this article for th...</catch_line>
+  <order_by>108</order_by>
   <text>Nothing in this title may be construed as negating any additional requirement of this article for the effective granting of estates or interests in land.</text>
 </law>

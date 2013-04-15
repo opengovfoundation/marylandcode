@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-111" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall keep records of official transactions, examinations, investigations, and proceedings of the Commissioner.</section>
     <section prefix="(b)">Except as otherwise provided in this article for particular records or insurance filings, the records of the Commissioner and insurance filings in the office of the Commissioner are open to public inspection.</section>

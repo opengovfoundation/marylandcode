@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1008" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-1008</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1008</order_by>
   <text>
     <section prefix="(a)">A banking institution that establishes a branch in another state may exercise at that branch all powers and rights permitted to banks in that state unless the Commissioner determines that the exercise of a power or right would threaten the safety and soundness of the banking institution.</section>
     <section prefix="(b)">An other-state bank that establishes a branch in this State may exercise at the branch all powers and rights permitted to banking institutions in this State notwithstanding any other law of this State to the contrary, unless that bank's home state regulator determines that the exercise of a power or right would threaten the safety and soundness of the other-state bank.</section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12.5-202" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12.5-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The owner of a business or the owner's designee shall apply on behalf of the business for a license under this subtitle.</section>
     <section prefix="(b)">
-      <section prefix="(1)">An applicant for a license shall:<section prefix="(i)">submit to the Secretary an application on the form that the Secretary provides;</section><section prefix="(ii)">submit a passport-size photograph, taken within 6 months immediately preceding the date of the filing of the application, of each of the following individuals:</section><section prefix="(iii)">provide any other documents or information required by this section or required by the Secretary; and</section><section prefix="(iv)">pay to the Secretary an application fee set by the Secretary.</section></section>
+      <section prefix="(1)">An applicant for a license shall:<section prefix="(i)">submit to the Secretary an application on the form that the Secretary provides;</section><section prefix="(ii)">submit a passport-size photograph, taken within 6 months immediately preceding the date of the filing of the application, of each of the following individuals:<section prefix="1.">the owner of the business; and</section><section prefix="2.">each employee of the applicant;</section></section><section prefix="(iii)">provide any other documents or information required by this section or required by the Secretary; and</section><section prefix="(iv)">pay to the Secretary an application fee set by the Secretary.</section></section>
       <section prefix="(2)">The application fee is nonrefundable.</section>
     </section>
     <section prefix="(c)">The applicant owner or designee shall sign the application under oath.</section>

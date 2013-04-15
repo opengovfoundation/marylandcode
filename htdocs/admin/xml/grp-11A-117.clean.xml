@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11A-117" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11A-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">Sections 10-201, 10-202, and 10-203 of this article apply to all sales by developers under this title. For purposes of this section, a newly constructed unit means a newly constructed or converted unit.</section>
     <section prefix="(b)">In addition to the implied warranties set forth in &#xA7; 10-203 of this article, there is an implied warranty on every time-share unit from the developer to a purchaser that the developer will correct any defects in materials or workmanship in the construction of walls, ceilings, floors, and heating and air conditioning systems in the unit. The warranty on the unit commences with the transfer of either title or use to the unit and extends to each time-share owner for a period of 1 year. In addition, a developer shall warrant to a purchaser of a time-share that any existing use of the time-share unit that will continue does not violate applicable law or the project instrument.</section>
@@ -17,7 +17,7 @@
       <section prefix="(1)">A suit for enforcement of a warranty may be brought by a time-share owner or by the association. If any warranty is breached, the court may award legal or equitable relief, or both.</section>
       <section prefix="(2)">Notice of a defect shall be given within the warranty period and suit for enforcement shall be brought within 1 year of the end of the warranty period.</section>
       <section prefix="(3)">
-        <section prefix="(i)">Except as provided in subparagraph (ii), a cause of action for breach of warranty, regardless of the purchaser's lack of knowledge of the breach, accrues, unless extended by agreement:</section>
+        <section prefix="(i)">Except as provided in subparagraph (ii), a cause of action for breach of warranty, regardless of the purchaser's lack of knowledge of the breach, accrues, unless extended by agreement:<section prefix="1.">As to a unit, 6 months after the time the unit is first occupied by a purchaser; and</section><section prefix="2.">As to other improvements, at the time each is completed.</section></section>
         <section prefix="(ii)">If a warranty explicitly extends to future performance or duration of any improvement or component of the time-share project, the cause of action accrues at the time the breach is discovered or at the end of the period for which the warranty explicitly extends, whichever is earlier.</section>
       </section>
     </section>

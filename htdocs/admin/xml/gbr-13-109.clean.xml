@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-109" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-13-109</section_number>
-  <catch_line/>
+  <catch_line>While doing business as a trading stamp company in the State, a trading stamp company may not:...</catch_line>
+  <order_by>109</order_by>
   <text>While doing business as a trading stamp company in the State, a trading stamp company may not:<section prefix=""><section prefix="(1)">commit fraud;</section><section prefix="(2)">make a false representation; or</section><section prefix="(3)">use a lottery.</section></section></text>
 </law>

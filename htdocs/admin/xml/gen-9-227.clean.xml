@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-227" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-227</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>227</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Infectious waste" means any waste that comes from a hospital, laboratory, or other health care facility as defined in &#xA7; 19-114 of the Health - General Article and that is known or suspected to be contaminated with organisms capable of producing disease or infection in humans.</section>
-        <section prefix="(ii)">"Infectious waste" includes:</section>
+        <section prefix="(ii)">"Infectious waste" includes:<section prefix="1.">Contaminated disposable equipment, instruments, and utensils;</section><section prefix="2.">Contaminated needles, scalpels, and razor blades;</section><section prefix="3.">Human tissues and organs that result from surgery, obstetrics, or autopsy;</section><section prefix="4.">Feces, urine, vomitus, and suctionings;</section><section prefix="5.">Live vaccines for human use;</section><section prefix="6.">Blood and blood products; and</section><section prefix="7.">Laboratory specimens, such as tissues, blood elements, excreta, and secretions.</section></section>
       </section>
     </section>
     <section prefix="(b)">A hospital, laboratory, or other health care facility as defined in &#xA7; 19-114 of the Health - General Article may not dispose of infectious waste, or cause infectious waste to be disposed of, in a landfill system in this State.</section>

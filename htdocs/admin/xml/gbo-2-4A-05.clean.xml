@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-4A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-2-4A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">Prior to conducting a peer review, an individual must be approved by the Board.</section>
     <section prefix="(b)">In order to receive approval from the Board, a peer reviewer shall:<section prefix="(1)">have and maintain an active license as a certified public accountant in this or any other state;</section><section prefix="(2)">possess a level of knowledge of applicable professional standards acceptable to the Board;</section><section prefix="(3)">possess at least 5 years recent experience in the practice of public accounting;</section><section prefix="(4)">have received a passing report on the most recent peer review of the prospective peer reviewer; and</section><section prefix="(5)">complete an appropriate training course as determined by the Board.</section></section>

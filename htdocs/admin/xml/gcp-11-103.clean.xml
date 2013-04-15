@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "violent crime" means:<section prefix="(i)">a crime of violence;</section><section prefix="(ii)">a delinquent act that would be a crime of violence if committed by an adult; or</section><section prefix="(iii)">except as provided in paragraph (2) of this subsection, a crime or delinquent act involving, causing, or resulting in death or serious bodily injury.</section></section>

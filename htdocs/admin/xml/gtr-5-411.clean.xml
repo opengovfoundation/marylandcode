@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-411" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">The Administration may accept, receive, receipt for, disburse, and spend any federal or other public or private money made available to accomplish, wholly or partly, any of the purposes of this subtitle.</section>
     <section prefix="(b)">All federal money accepted under this section shall be accepted and spent by the Administration on the terms and conditions that the federal government requires.</section>

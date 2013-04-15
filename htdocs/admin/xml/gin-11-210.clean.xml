@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-210" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-210</section_number>
-  <catch_line/>
+  <catch_line>On written application of the insured that states its reasons for requesting the rate, filed with an...</catch_line>
+  <order_by>210</order_by>
   <text>On written application of the insured that states its reasons for requesting the rate, filed with and approved by the Commissioner, a rate in excess of that provided by a filing otherwise applicable may be used on a specific risk.</text>
 </law>

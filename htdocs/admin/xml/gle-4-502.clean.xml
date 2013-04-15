@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-502" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-502</section_number>
-  <catch_line/>
+  <catch_line>Each employer covered by this subtitle shall have the authority to enact a local law or ordinance to...</catch_line>
+  <order_by>502</order_by>
   <text>Each employer covered by this subtitle shall have the authority to enact a local law or ordinance to permit voluntary collective bargaining between the employer and any employee organization that the employer has recognized as an exclusive representative of its employees.</text>
 </law>

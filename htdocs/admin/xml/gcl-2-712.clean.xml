@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-712" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-712</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>712</order_by>
   <text>
     <section prefix="(1)">After a breach within the preceding section the buyer may "cover" by making in good faith and without unreasonable delay any reasonable purchase of or contract to purchase goods in substitution for those due from the seller.</section>
     <section prefix="(2)">The buyer may recover from the seller as damages the difference between the cost of cover and the contract price together with any incidental or consequential damages as hereinafter defined (&#xA7; 2-715), but less expenses saved in consequence of the seller's breach.</section>

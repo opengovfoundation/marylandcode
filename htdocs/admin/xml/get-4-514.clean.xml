@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-514" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-4-514</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>514</order_by>
   <text>
     <section prefix="(a)">A person that acts in accordance with this subtitle or with the applicable anatomical gift law of another state, or attempts in good faith to do so, is not liable for the act in a civil action, a criminal prosecution, or an administrative proceeding.</section>
     <section prefix="(b)">A person making an anatomical gift or the donor's estate is not liable for any injury or damage that results from the making or use of the gift.</section>

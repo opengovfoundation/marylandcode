@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-203" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -75,15 +75,18 @@
     <section prefix="(i)">
       <section prefix="(1)">Under this subsection, a landlord:<section prefix="(i)">May not require the tenant to purchase a surety bond; and</section><section prefix="(ii)">Is not required to consent to the tenant's purchase of a surety bond.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">Instead of paying all or part of a security deposit to a landlord under this section, a tenant may purchase a surety bond to protect the landlord against:</section>
+        <section prefix="(i)">Instead of paying all or part of a security deposit to a landlord under this section, a tenant may purchase a surety bond to protect the landlord against:<section prefix="1.">Nonpayment of rent;</section><section prefix="2.">Damage due to breach of lease; or</section><section prefix="3.">Damage caused by the tenant or the tenant's family, agents, employees, guests or invitees in excess of ordinary wear and tear to the leased premises, common areas, major appliances, or furnishings owned by the landlord.</section></section>
         <section prefix="(ii)">A surety shall refund to a tenant any premium or other charge paid by the tenant in connection with a surety bond if, after the tenant purchases a surety bond, the landlord refuses to accept the surety bond or the tenant does not enter into a lease with the landlord.</section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">The amount of a surety bond purchased instead of a security deposit may not exceed two months' rent per dwelling unit.</section>
         <section prefix="(ii)">If a tenant purchases a surety bond and provides a security deposit in accordance with this section, the aggregate amount of both the surety bond and security deposit may not exceed two months' rent per dwelling unit.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">If a landlord consents to a surety bond but requires the surety bond to be in an amount in excess of two months' rent, the tenant may recover up to three times the extra amount charged for the surety bond, plus reasonable attorney's fees.</section>
+          <section prefix="2.">If a landlord consents to both a surety bond and a security deposit but requires the surety bond and the security deposit to be in an aggregate amount in excess of two months' rent, the tenant may recover up to three times the extra amount charged for the surety bond, plus reasonable attorney's fees.</section>
+        </section>
       </section>
-      <section prefix="(4)">Before a tenant purchases a surety bond instead of paying all or part of a security deposit, a surety shall disclose in writing to the tenant that:<section prefix="(i)">Payment for a surety bond is nonrefundable;</section><section prefix="(ii)">The surety bond is not insurance for the tenant;</section><section prefix="(iii)">The surety bond is being purchased to protect the landlord against loss due to nonpayment of rent, breach of lease, or damages caused by the tenant;</section><section prefix="(iv)">The tenant may be required to reimburse the surety for amounts the surety paid to the landlord;</section><section prefix="(v)">Even after a tenant purchases a surety bond, the tenant is responsible for payment of:</section><section prefix="(vi)">The tenant has the right to pay the damages directly to the landlord or require the landlord to use the tenant's security deposit, if any, before the landlord makes a claim against the surety bond; and</section><section prefix="(vii)">If the surety fails to comply with the requirements of this paragraph, the surety forfeits the right to make any claim against the tenant under the surety bond.</section></section>
+      <section prefix="(4)">Before a tenant purchases a surety bond instead of paying all or part of a security deposit, a surety shall disclose in writing to the tenant that:<section prefix="(i)">Payment for a surety bond is nonrefundable;</section><section prefix="(ii)">The surety bond is not insurance for the tenant;</section><section prefix="(iii)">The surety bond is being purchased to protect the landlord against loss due to nonpayment of rent, breach of lease, or damages caused by the tenant;</section><section prefix="(iv)">The tenant may be required to reimburse the surety for amounts the surety paid to the landlord;</section><section prefix="(v)">Even after a tenant purchases a surety bond, the tenant is responsible for payment of:<section prefix="1.">All unpaid rent;</section><section prefix="2.">Damage due to breach of lease; and</section><section prefix="3.">Damage by the tenant or the tenant's family, agents, employees, guests, or invitees in excess of ordinary wear and tear to the leased premises, common areas, major appliances, or furnishings owned by the landlord;</section></section><section prefix="(vi)">The tenant has the right to pay the damages directly to the landlord or require the landlord to use the tenant's security deposit, if any, before the landlord makes a claim against the surety bond; and</section><section prefix="(vii)">If the surety fails to comply with the requirements of this paragraph, the surety forfeits the right to make any claim against the tenant under the surety bond.</section></section>
       <section prefix="(5)">
         <section prefix="(i)">A tenant who purchases a surety bond in accordance with this subsection has the right to have the dwelling unit inspected by the landlord in the tenant's presence for the purpose of making a written list of the damages that exist at the commencement of the tenancy, if the tenant requests an inspection by certified mail within 15 days of the tenant's occupancy.</section>
         <section prefix="(ii)">A tenant who provides a surety bond under this subsection shall have all the rights provided under subsection (f)(1)(ii) through (v) of this section.</section>
@@ -91,7 +94,7 @@
         <section prefix="(iv)">A tenant shall be advised in writing of all of the tenant's rights under this subsection prior to the purchase of a surety bond.</section>
       </section>
       <section prefix="(6)">
-        <section prefix="(i)">A surety bond may be used to pay claims by a landlord for:</section>
+        <section prefix="(i)">A surety bond may be used to pay claims by a landlord for:<section prefix="1.">Unpaid rent;</section><section prefix="2.">Damage due to breach of lease; or</section><section prefix="3.">Damage by the tenant or the tenant's family, agents, employees, guests, or invitees in excess of ordinary wear and tear to the leased premises, common areas, major appliances, or furnishings owned by the landlord.</section></section>
         <section prefix="(ii)">A surety bond does not represent liquidated damages and may not be used as payment to a landlord for breach of the rental agreement, except in the amount that the landlord is actually damaged by the breach.</section>
         <section prefix="(iii)">Except as provided in subparagraphs (i) and (ii) of this paragraph, a surety may not, directly or indirectly, make any other payment to a landlord.</section>
       </section>
@@ -106,7 +109,7 @@
       </section>
       <section prefix="(10)">In any proceeding brought by the surety against the tenant on a surety bond under this subsection:<section prefix="(i)">The tenant shall retain all rights and defenses otherwise available in a proceeding between a tenant and a landlord under this section; and</section><section prefix="(ii)">Damages may only be awarded to the surety to the extent that the tenant would have been liable to the landlord under this section.</section></section>
       <section prefix="(11)">
-        <section prefix="(i)">If a landlord's interest in the leased premises is sold or transferred, the new landlord shall accept the tenant's surety bond and may not require:</section>
+        <section prefix="(i)">If a landlord's interest in the leased premises is sold or transferred, the new landlord shall accept the tenant's surety bond and may not require:<section prefix="1.">During the current lease term, an additional security deposit from the tenant; or</section><section prefix="2.">At any lease renewal, a surety bond or a security deposit from the tenant that, in addition to any existing surety bond or security deposit, is in an aggregate amount in excess of two months' rent per dwelling unit.</section></section>
         <section prefix="(ii)">If the aggregate amount described in subparagraph (i)2 of this paragraph is in excess of two months' rent, the tenant may recover up to three times the extra amount charged, plus reasonable attorney's fees.</section>
       </section>
       <section prefix="(12)">

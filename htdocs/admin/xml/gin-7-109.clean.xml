@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-109" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-109</section_number>
-  <catch_line/>
+  <catch_line>All laws and parts of laws of the State that are inconsistent with this title are superseded to the ...</catch_line>
+  <order_by>109</order_by>
   <text>All laws and parts of laws of the State that are inconsistent with this title are superseded to the extent of the inconsistency.</text>
 </law>

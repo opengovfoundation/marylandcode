@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-606" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
     <section prefix="(a)">A credit union may make a loan to a member that is secured by real or leasehold property in accordance with written real estate lending policies established by the board as provided in this section.</section>
     <section prefix="(b)">A loan under this section shall be:<section prefix="(1)">Secured by a deed of trust or mortgage on real or leasehold property; and</section><section prefix="(2)">Amortized over a period of 30 years or less.</section></section>

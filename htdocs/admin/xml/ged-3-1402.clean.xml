@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1402" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-1402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1402</order_by>
   <text>
     <section prefix="(a)">The State Board may remove a member of the county board for any of the following reasons:<section prefix="(1)">Immorality;</section><section prefix="(2)">Misconduct in office;</section><section prefix="(3)">Incompetency;</section><section prefix="(4)">Willful neglect of duty; or</section><section prefix="(5)">Failure to attend, without good cause:<section prefix="(i)">At least 75% of the scheduled meetings of the board in any 1 calendar year; or</section><section prefix="(ii)">Three consecutive scheduled meetings of the board.</section></section></section>
     <section prefix="(b)">Before removing a member, the State Board shall send the member a copy of the charges against the member and give the member an opportunity within 10 days to request a hearing.</section>

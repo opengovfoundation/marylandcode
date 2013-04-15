@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-310" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-13-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">This section does not apply to nonprofit organizations.</section>
     <section prefix="(b)">A person who sells reserved seat tickets for an athletic, recreational, cultural, or entertainment event shall display prominently at the ticket-sale location a seating plan which clearly shows the location of every reserved seat and every physical obstruction to the viewing of the event.</section>

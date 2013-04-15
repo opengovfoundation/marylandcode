@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-9-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">The court which issued an execution on a forfeited recognizance for a witness who failed to appear may discharge the witness from execution upon motion showing good and sufficient cause for the failure.</section>
     <section prefix="(b)">This section does not apply in a case if capital punishment may be involved.</section>

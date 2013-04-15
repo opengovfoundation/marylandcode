@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-605" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-25-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">The county planning board and the District shall adopt regulations to carry out this subtitle.</section>
     <section prefix="(b)">The regulations shall:<section prefix="(1)">establish an application process for the Program;</section><section prefix="(2)">establish criteria for assigning priorities to applications for easements to purchase;</section><section prefix="(3)">establish a process for negotiating the purchase of easements;</section><section prefix="(4)">allow the District to procure any appraisals necessary for valuation of each easement; and</section><section prefix="(5)">specify a method for appraising and valuing easements to encourage landowners to participate in the Program and maximize the acreage for easements to be purchased.</section></section>

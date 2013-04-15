@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-102" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-102</section_number>
-  <catch_line/>
+  <catch_line>With the purpose of assisting another individual to commit or attempt to commit suicide, an individu...</catch_line>
+  <order_by>102</order_by>
   <text>With the purpose of assisting another individual to commit or attempt to commit suicide, an individual may not:<section prefix=""><section prefix="(1)">by coercion, duress, or deception, knowingly cause another individual to commit suicide or attempt to commit suicide;</section><section prefix="(2)">knowingly provide the physical means by which another individual commits or attempts to commit suicide with knowledge of that individual's intent to use the physical means to commit suicide; or</section><section prefix="(3)">knowingly participate in a physical act by which another individual commits or attempts to commit suicide.</section></section></text>
 </law>

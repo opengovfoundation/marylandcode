@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">A person may not open or review an expunged record or disclose to another person any information from that record without a court order from:<section prefix="(1)">the court that ordered the record expunged; or</section><section prefix="(2)">the District Court that has venue in the case of a police record expunged under &#xA7; 10-103 of this subtitle.</section></section>
     <section prefix="(b)">A court may order the opening or review of an expunged record or the disclosure of information from that record:<section prefix="(1)">after notice to the person whom the record concerns, a hearing, and the showing of good cause; or</section><section prefix="(2)">on an ex parte order, as provided in subsection (c) of this section.</section></section>

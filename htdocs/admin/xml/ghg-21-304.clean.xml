@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-304" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall adopt rules and regulations necessary to carry out the provisions of this subtitle.</section>
-      <section prefix="(2)">For excluded organizations, the Department:<section prefix="(i)">Shall adopt separate regulations that establish minimum standards that:</section><section prefix="(ii)">May adopt separate regulations that establish a licensing system, with appropriate standards, that excluded organizations may voluntarily choose to submit to as a nonrescindable alternative to regulation under item (i) of this paragraph.</section></section>
+      <section prefix="(2)">For excluded organizations, the Department:<section prefix="(i)">Shall adopt separate regulations that establish minimum standards that:<section prefix="1.">Ensure food integrity and safety;</section><section prefix="2.">Preserve public health; and</section><section prefix="3.">Control foodborne illnesses; and</section></section><section prefix="(ii)">May adopt separate regulations that establish a licensing system, with appropriate standards, that excluded organizations may voluntarily choose to submit to as a nonrescindable alternative to regulation under item (i) of this paragraph.</section></section>
     </section>
     <section prefix="(b)">Except as provided in subsection (e) of this section, a political subdivision may not adopt a law, ordinance, rule, or regulation that establishes a standard that is less stringent than rules and regulations adopted under this subtitle.</section>
     <section prefix="(c)">Except as otherwise provided in this section, this subtitle does not limit the power of a home rule or charter county or Baltimore City to adopt and enforce laws, ordinances, and regulations that are consistent with the purposes of this subtitle, including the power to adopt local licensing and enforcement procedures.</section>
@@ -17,7 +17,7 @@
       <section prefix="(1)">
         <section prefix="(i)">In this subsection the following words have the meanings indicated.</section>
         <section prefix="(ii)">"Farmer's market" means a public market in the State where producers of raw agricultural products sell the products directly to the public.</section>
-        <section prefix="(iii)">"Raw agricultural product" includes:</section>
+        <section prefix="(iii)">"Raw agricultural product" includes:<section prefix="1.">Whole, unprocessed grains, flowers, herbs, nuts, fruits, and vegetables supplied directly from the farm on which they were produced; and</section><section prefix="2.">Any agricultural products the Department identifies in regulation.</section></section>
       </section>
       <section prefix="(2)">A local jurisdiction may not require a license for the sale of raw agricultural products at a farmer's market or at a public festival or event.</section>
     </section>

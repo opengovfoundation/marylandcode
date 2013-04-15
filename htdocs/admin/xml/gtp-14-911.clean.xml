@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-911" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-911</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>911</order_by>
   <text>
     <section prefix="(a)">A refund claim shall be approved or denied:<section prefix="(1)">under &#xA7; 14-904 of this subtitle, by the Comptroller;</section><section prefix="(2)">under &#xA7; 14-905 of this subtitle, by the appropriate collector; or</section><section prefix="(3)">except as provided in subsection (b) of this section, under &#xA7; 14-907 or &#xA7; 14-908 of this subtitle, by the Department, clerk, or the Director of Finance that collected the tax.</section></section>
     <section prefix="(b)">If a refund claim made under &#xA7; 14-907 or &#xA7; 14-908 of this subtitle is not allowed and is not denied on or before 6 months from the date the refund claim is submitted, the person submitting the claim may treat the claim as denied.</section>

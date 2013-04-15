@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-229" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-229</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>229</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Administration purchases a local obligation, the procedures and requirements for the issuance or sale of the local obligation shall be as provided in &#xA7;&#xA7; 4-230 through 4-233 of this subtitle.</section>

@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-201" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-7-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subtitle does not apply to a special appointment position in the skilled service or professional service.</section>
       <section prefix="(2)">
-        <section prefix="(i)">This subtitle does not apply to the recruitment for or the appointment to a position in the skilled service or professional service if the appointing authority:</section>
+        <section prefix="(i)">This subtitle does not apply to the recruitment for or the appointment to a position in the skilled service or professional service if the appointing authority:<section prefix="1.">decides to recruit for the position under &#xA7; 7-203(2) of this subtitle;</section><section prefix="2.">demonstrates that the position, based on the position description, is difficult to fill;</section><section prefix="3.">demonstrates that the recruitment must occur in a timely manner; and</section><section prefix="4.">notifies the Department of the recruitment.</section></section>
         <section prefix="(ii)">A recruitment and appointment under this paragraph shall occur in accordance with regulations adopted by the Department.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">The Department shall adopt regulations to implement this paragraph.</section>
+          <section prefix="2.">The regulations adopted under this subparagraph shall provide, at a minimum, that for positions designated as special appointments on January 1, 2009, an appointing authority shall retain the same recruitment authority that the appointing authority possessed on January 1, 2009.</section>
+        </section>
       </section>
     </section>
     <section prefix="(b)">Each unit shall fill vacant skilled service and professional service positions in accordance with a position selection plan.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-206" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-4-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A law enforcement officer may make an inquiry and conduct a limited search of a person under paragraph (2) of this subsection if the officer, in light of the officer's observations, information, and experience, reasonably believes that:<section prefix="(i)">the person may be wearing, carrying, or transporting a handgun in violation of &#xA7; 4-203 of this subtitle;</section><section prefix="(ii)">because the person possesses a handgun, the person is or presently may be dangerous to the officer or to others;</section><section prefix="(iii)">under the circumstances, it is impracticable to obtain a search warrant; and</section><section prefix="(iv)">to protect the officer or others, swift measures are necessary to discover whether the person is wearing, carrying, or transporting a handgun.</section></section>

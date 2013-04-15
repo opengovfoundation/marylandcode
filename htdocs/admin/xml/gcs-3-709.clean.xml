@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-709" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-709</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>709</order_by>
   <text>
     <section prefix="(a)">If an inmate violates the applicable rules of discipline, the Division may revoke a portion or all of the diminution credits awarded under &#xA7;&#xA7; 3-704 (good conduct) and 3-707 (special projects) of this subtitle according to the nature and frequency of the violation.</section>
     <section prefix="(b)">This section does not affect the diminution credits awarded under &#xA7;&#xA7; 3-705 (work tasks) and 3-706 (education) of this subtitle.</section>

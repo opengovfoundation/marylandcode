@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-312" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-312</section_number>
-  <catch_line/>
+  <catch_line>In Part III of this subtitle, "public health veterinarian" means the veterinarian whom the Secretary...</catch_line>
+  <order_by>312</order_by>
   <text>In Part III of this subtitle, "public health veterinarian" means the veterinarian whom the Secretary designates as responsible for the veterinary public health program of the Department.</text>
 </law>

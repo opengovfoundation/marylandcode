@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-3801" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-3801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>3801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Consumer" means an individual who, individually or in conjunction with another individual, is solicited for, applies for, or receives a refund anticipation loan or refund anticipation check.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-102.4" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-102.4</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102.4</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each managed care organization shall be actuarially sound.</section>
@@ -15,7 +15,7 @@
       </section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">In consultation with the Secretary, the Insurance Commissioner may adjust the initial surplus requirement for a managed care organization that is not licensed as a health maintenance organization. In determining whether to make an adjustment under this paragraph, the Commissioner shall consider:<section prefix="(i)">The proposed capitation level that would be received by the managed care organization under a contract with the Department under this subtitle;</section><section prefix="(ii)">The proposed range of benefits to be provided under a contract with the Department under this subtitle;</section><section prefix="(iii)">The existence of any commitment by the Secretary to designate funds over and above the proposed capitation where the designated funds:</section><section prefix="(iv)">The availability of the money held in trust by the Secretary to pay claims in case of impairment or insolvency of the managed care organization.</section></section>
+      <section prefix="(1)">In consultation with the Secretary, the Insurance Commissioner may adjust the initial surplus requirement for a managed care organization that is not licensed as a health maintenance organization. In determining whether to make an adjustment under this paragraph, the Commissioner shall consider:<section prefix="(i)">The proposed capitation level that would be received by the managed care organization under a contract with the Department under this subtitle;</section><section prefix="(ii)">The proposed range of benefits to be provided under a contract with the Department under this subtitle;</section><section prefix="(iii)">The existence of any commitment by the Secretary to designate funds over and above the proposed capitation where the designated funds:<section prefix="1.">Are equivalent to the difference between the requirements of &#xA7; 19-710 of this article and any lower requirements determined by the Commissioner under this subparagraph; and</section><section prefix="2.">Would be available in case of the impairment or insolvency of the managed care organization; and</section></section><section prefix="(iv)">The availability of the money held in trust by the Secretary to pay claims in case of impairment or insolvency of the managed care organization.</section></section>
       <section prefix="(2)">Notwithstanding subsection (a)(2)(ii) of this section, a managed care organization shall have an initial surplus that exceeds liabilities by at least $1,250,000. If a managed care organization has an initial surplus that is at least $1,250,000 but less than $1,500,000, prior to approval, the Department shall designate funds under paragraph (1)(iii) of this subsection sufficient to provide an initial surplus of at least $1,500,000.</section>
     </section>
     <section prefix="(c)">
@@ -25,7 +25,10 @@
       </section>
       <section prefix="(2)">
         <section prefix="(i)">For the protection of the managed care organization's enrollees and creditors, the applicant shall deposit and maintain in trust with the State Treasurer $100,000 in cash or government securities of the type described in &#xA7; 5-701(b) of the Insurance Article.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The deposits shall be accepted and held in trust by the State Treasurer in accordance with the provisions of Title 5, Subtitle 7 of the Insurance Article.</section>
+          <section prefix="2.">For the purpose of applying this subparagraph, a managed care organization shall be treated as an insurer.</section>
+        </section>
       </section>
     </section>
     <section prefix="(d)">Each managed care organization shall comply with risk based capital standards in accordance with regulations adopted by the Insurance Commissioner under &#xA7; 4-311 of the Insurance Article.</section>

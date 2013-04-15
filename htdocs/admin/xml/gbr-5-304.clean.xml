@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-304" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Each applicant designated as the responsible party shall demonstrate the financial stability of the business with which the applicant is affiliated by providing the Director with a financial statement or other reports required under subsection (e) of this section with the application for registration.</section>
     <section prefix="(b)">If the business is a cemetery that sells burial goods and is an existing business, the financial statement shall:<section prefix="(1)">be on the form that the Director requires;</section><section prefix="(2)">contain a statement by a certified public accountant retained by the business, detailing the assets and liabilities of the cemetery for the last fiscal year; and</section><section prefix="(3)">contain a review by the certified public accountant as to the financial stability of the cemetery.</section></section>

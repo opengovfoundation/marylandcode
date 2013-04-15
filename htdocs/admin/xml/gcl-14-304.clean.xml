@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-304</section_number>
-  <catch_line/>
+  <catch_line>Any person who violates any provision of this subtitle is liable to the person affected by the viola...</catch_line>
+  <order_by>304</order_by>
   <text>Any person who violates any provision of this subtitle is liable to the person affected by the violation for all damages proximately caused by the violation and for reasonable attorney fees incurred by the person damaged.</text>
 </law>

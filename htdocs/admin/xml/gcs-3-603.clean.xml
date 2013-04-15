@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-603" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-603</section_number>
-  <catch_line/>
+  <catch_line>The managing official of a correctional facility shall present a copy of an inmate's case record mai...</catch_line>
+  <order_by>603</order_by>
   <text>The managing official of a correctional facility shall present a copy of an inmate's case record maintained under &#xA7; 3-601 of this subtitle, or a summary of the record, to the Maryland Parole Commission:<section prefix=""><section prefix="(1)">by the time the inmate becomes eligible for parole; and</section><section prefix="(2)">at other times on request.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-346" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-346</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>346</order_by>
   <text>
     <section prefix="(a)">Except as provided in this part, the Department may set the terms and conditions for child care special loans.</section>
     <section prefix="(b)">The term of a child care special loan may not exceed 10 years.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-605" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">In this section, "automatic restraint" means a program, code, device, or similar electronic or physical limitation the intended purpose of which is to restrict use of information.</section>
     <section prefix="(b)">A party entitled to enforce a limitation on use of information may include an automatic restraint in the information or a copy of it and use that restraint if:<section prefix="(1)">A conspicuous term of the agreement authorizes use of the restraint;</section><section prefix="(2)">The restraint prevents a use that is inconsistent with the agreement;</section><section prefix="(3)">The restraint prevents use after expiration of the stated duration of the contract or a stated number of uses; or</section><section prefix="(4)">The restraint prevents use after the contract terminates, other than on expiration of a stated duration or number of uses, and the licensor gives reasonable notice to the licensee before further use is prevented.</section></section>

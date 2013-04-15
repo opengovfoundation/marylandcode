@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-505" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, any action required or permitted to be taken at a meeting of the stockholders may be taken without a meeting if a unanimous consent which sets forth the action is:<section prefix="(1)">Given in writing or by electronic transmission by each stockholder entitled to vote on the matter; and</section><section prefix="(2)">Filed in paper or electronic form with the records of stockholders meetings.</section></section>
     <section prefix="(b)">

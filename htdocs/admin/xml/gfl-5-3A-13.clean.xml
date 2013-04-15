@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3A-13" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3A-13</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>13</order_by>
   <text>
     <section prefix="(a)">Only a child placement agency may petition for guardianship under this subtitle.</section>
     <section prefix="(b)">A court may grant guardianship under this subtitle only for a minor.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-314" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-314</section_number>
-  <catch_line/>
+  <catch_line>All notices by the Commissioner to an insurer that may result in regulatory action under this subtit...</catch_line>
+  <order_by>314</order_by>
   <text>All notices by the Commissioner to an insurer that may result in regulatory action under this subtitle shall be effective:<section prefix=""><section prefix="(1)">if transmitted by registered or certified mail, on the date of mailing; or</section><section prefix="(2)">if transmitted by any other means, on the date of receipt of notice by the insurer.</section></section></text>
 </law>

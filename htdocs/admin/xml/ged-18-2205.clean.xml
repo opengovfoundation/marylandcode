@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-2205" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-2205</section_number>
-  <catch_line/>
+  <catch_line>The annual scholarship award shall be in the amount of:...</catch_line>
+  <order_by>2205</order_by>
   <text>The annual scholarship award shall be in the amount of:<section prefix=""><section prefix="(1)">$2,000 for a full-time undergraduate student, or $1,000 for a part-time undergraduate student, enrolled at a 2-year eligible institution;</section><section prefix="(2)">$5,000 for a full-time undergraduate or graduate student enrolled in a 4-year eligible institution; or</section><section prefix="(3)">$2,500 for a part-time undergraduate or graduate student enrolled at a 4-year eligible institution.</section></section></text>
 </law>

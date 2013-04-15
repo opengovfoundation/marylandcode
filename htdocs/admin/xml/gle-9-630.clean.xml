@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-630" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-630</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>630</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, if a covered employee is given an award or a combination of awards resulting from 1 accidental personal injury or occupational disease for 250 weeks or more under &#xA7; 9-627 of this subtitle:<section prefix="(i)">the Commission shall increase the award or awards by one-third the number of weeks in the award or awards, computed to the nearest whole number; and</section><section prefix="(ii)">the employer or its insurer shall pay the covered employee weekly compensation that equals two-thirds of the average weekly wage of the covered employee, but does not exceed 75% of the State average weekly wage.</section></section>

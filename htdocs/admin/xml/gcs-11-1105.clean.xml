@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-1105" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-1105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1105</order_by>
   <text>
     <section prefix="(a)">The investigation or interrogation by an internal investigation unit of a correctional officer for a reason that may lead to disciplinary action, demotion, or dismissal shall be conducted in accordance with this section.</section>
     <section prefix="(b)">For purposes of this section, the investigating officer or interrogating officer shall be a member of the Sheriff's Office.</section>
@@ -53,7 +53,7 @@
       <section prefix="(2)">The correctional officer's counsel or representative need not be present during the actual administration of a polygraph examination by a certified polygrapher if:<section prefix="(i)">the questions to be asked are reviewed with the correctional officer or the counsel or representative before the administration of the examination;</section><section prefix="(ii)">the counsel or representative is allowed to observe the administration of the examination; and</section><section prefix="(iii)">a copy of the final report of the examination by the certified polygrapher is made available to the correctional officer or the counsel or representative within a reasonable time, not exceeding 10 days, after completion of the examination.</section></section>
     </section>
     <section prefix="(m)">
-      <section prefix="(1)">On completion of an investigation and at least 10 days before a hearing, the correctional officer under investigation shall be:<section prefix="(i)">notified of the name of each witness and of each charge and specification against the correctional officer; and</section><section prefix="(ii)">provided with a copy of the investigatory file and any exculpatory information, if the correctional officer and the correctional officer's representative agree to:</section></section>
+      <section prefix="(1)">On completion of an investigation and at least 10 days before a hearing, the correctional officer under investigation shall be:<section prefix="(i)">notified of the name of each witness and of each charge and specification against the correctional officer; and</section><section prefix="(ii)">provided with a copy of the investigatory file and any exculpatory information, if the correctional officer and the correctional officer's representative agree to:<section prefix="1.">execute a confidentiality agreement with the Sheriff's Office not to disclose any material contained in the investigatory file and exculpatory information for any purpose other than to defend the correctional officer; and</section><section prefix="2.">pay a reasonable charge for the cost of reproducing the material.</section></section></section>
       <section prefix="(2)">The Sheriff's Office may exclude from the exculpatory information provided to a correctional officer under this subsection:<section prefix="(i)">the identity of confidential sources;</section><section prefix="(ii)">nonexculpatory information; and</section><section prefix="(iii)">recommendations as to charges, disposition, or punishment.</section></section>
     </section>
     <section prefix="(n)">

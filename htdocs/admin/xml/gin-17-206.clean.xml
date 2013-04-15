@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-206" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-17-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Subject to the requirements of this section, a policy may be issued to a creditor or its parent holding company or to a trustee or trustees or agent designated by two or more creditors, which creditor, holding company, affiliate, trustee, trustees, or agent shall be deemed the policyholder, to insure debtors of the creditor, or creditors.</section>
     <section prefix="(b)">

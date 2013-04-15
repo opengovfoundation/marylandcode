@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-209" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-10-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">The University System of Maryland shall provide through its various campuses and programs a continuum of educational services, including undergraduate education, graduate education, professional programs, and research.</section>
     <section prefix="(b)">The goal of the University System of Maryland is to achieve and sustain national eminence with each component fulfilling a distinct and complementary mission.</section>

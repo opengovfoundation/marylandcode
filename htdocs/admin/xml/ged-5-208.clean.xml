@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-208" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -14,14 +14,14 @@
       <section prefix="(4)">"LEP" means limited English proficiency.</section>
       <section prefix="(5)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, "LEP enrollment count" means the number of students with limited English proficiency for the prior fiscal year.</section>
-        <section prefix="(ii)">For fiscal year 2004, "LEP enrollment count" means the greater of:</section>
+        <section prefix="(ii)">For fiscal year 2004, "LEP enrollment count" means the greater of:<section prefix="1.">The number of students with limited English proficiency for the prior fiscal year; or</section><section prefix="2.">The number of students with limited English proficiency for the second prior fiscal year.</section></section>
       </section>
       <section prefix="(6)">"LEP per pupil amount" means 99% of the annual per pupil foundation amount calculated under &#xA7; 5-202 of this subtitle multiplied by the State share of LEP funding.</section>
       <section prefix="(7)">"Limited English proficiency" means non-English or limited English proficiency under the reporting requirements established by the Department for the Maryland School Performance Program.</section>
       <section prefix="(8)">"Local wealth per pupil" means a county's wealth divided by the county's full-time equivalent enrollment.</section>
       <section prefix="(9)">"State share of LEP funding" means:<section prefix="(i)">0.29 in fiscal year 2004;</section><section prefix="(ii)">0.37 in fiscal year 2005;</section><section prefix="(iii)">0.41 in fiscal year 2006;</section><section prefix="(iv)">0.46 in fiscal year 2007; and</section><section prefix="(v)">0.50 in fiscal year 2008 and each fiscal year thereafter.</section></section>
       <section prefix="(10)">"Statewide wealth per pupil" means the sum of the wealth of all counties divided by the statewide full-time equivalent enrollment.</section>
-      <section prefix="(11)">"Tier I LEP funding" means:<section prefix="(i)">For fiscal year 2008 and each fiscal year thereafter, $0; and</section><section prefix="(ii)">For fiscal years 2004 through 2007, the result obtained by multiplying $1,350 by the statewide LEP enrollment count, and multiplying this product by:</section></section>
+      <section prefix="(11)">"Tier I LEP funding" means:<section prefix="(i)">For fiscal year 2008 and each fiscal year thereafter, $0; and</section><section prefix="(ii)">For fiscal years 2004 through 2007, the result obtained by multiplying $1,350 by the statewide LEP enrollment count, and multiplying this product by:<section prefix="1.">1.0 for fiscal year 2004;</section><section prefix="2.">0.75 for fiscal year 2005;</section><section prefix="3.">0.50 for fiscal year 2006; and</section><section prefix="4.">0.25 for fiscal year 2007.</section></section></section>
       <section prefix="(12)">"Tier II LEP funding" means the difference between aggregate State funding for the LEP formula and Tier I LEP funding.</section>
       <section prefix="(13)">"Tier II LEP per pupil amount" means the result obtained by dividing Tier II LEP funding by the statewide LEP enrollment count.</section>
       <section prefix="(14)">"Wealth" has the meaning stated in &#xA7; 5-202 of this subtitle.</section>

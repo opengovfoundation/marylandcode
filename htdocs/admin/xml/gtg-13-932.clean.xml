@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-932" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-932</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>932</order_by>
   <text>
     <section prefix="(a)">A certification by a federal official to the Comptroller shall include:<section prefix="(1)">the full name and address of the person and any other names known to be used by the person;</section><section prefix="(2)">the Social Security number or federal tax identification number;</section><section prefix="(3)">the amount of the nontax liability; and</section><section prefix="(4)">a statement that the debt is past due and legally enforceable in the amount certified and that there are no legal barriers to collection by offset.</section></section>
     <section prefix="(b)">The Comptroller shall determine if a person for whom a certification is received is due a refund of Maryland tax or a vendor payment.</section>

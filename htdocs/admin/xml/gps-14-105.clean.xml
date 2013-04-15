@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-105" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">There is an Emergency Management Advisory Council.</section>
     <section prefix="(b)">The Council consists of the members that the Governor designates, including:<section prefix="(1)">fair and reasonable representation for local government;</section><section prefix="(2)">representation for organizations that represent volunteer firefighters and rescue squads; and</section><section prefix="(3)">representation from manufacturing, utilities, and communications industries.</section></section>

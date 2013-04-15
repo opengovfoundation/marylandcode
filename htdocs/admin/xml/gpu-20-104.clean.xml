@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-104" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-20-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">The Commission shall provide an opportunity for a hearing before proceeding with the design or construction of a water supply or sanitary sewer system.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, the Commission:<section prefix="(1)">shall advertise in newspapers and technical media that the Commission considers appropriate for bids or proposals for design or construction services for any part of a water supply or sanitary sewer system; and</section><section prefix="(2)">may readvertise any part of the services needed if the Commission considers the prices quoted in response to a prior advertisement to be unreasonable.</section></section>

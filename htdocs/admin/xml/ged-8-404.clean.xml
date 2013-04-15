@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-404" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-8-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">The State Board shall adopt, as regulations, standards for the identification, evaluation, educational placement, and the provision of a free appropriate public education of each child in this State who has begun the school year under the age of 21 and is found to need special education and related services, whether or not the child is receiving nonduplicative services from another governmental agency.</section>
     <section prefix="(b)">Before these standards are adopted, the State Board shall consult with public and private agencies and persons who are concerned with and knowledgeable about the educational needs of children with disabilities who require special education and related services.</section>

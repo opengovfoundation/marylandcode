@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-203" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-5-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">A planning commission may authorize an administrative officer to approve subdivision plats and site plans under &#xA7; 5-202 of this subtitle in accordance with nondiscretionary criteria adopted and specified by local law.</section>
     <section prefix="(b)">The administrative officer shall approve a plat by indicating an approval in writing on the plat.</section>

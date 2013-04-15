@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-212.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-212.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212.1</order_by>
   <text>
     <section prefix="(a)">Upon the filing of a claim, a manufacturer, factory branch, or distributor shall compensate a dealer for any incentive or reimbursement program sponsored by the manufacturer, factory branch, or distributor, under the terms of which the dealer is eligible for compensation.</section>
     <section prefix="(b)">
@@ -22,7 +22,7 @@
     <section prefix="(e)">
       <section prefix="(1)">This subsection applies only to an incentive payment, a reimbursement payment, cash, a gift, or a thing of value earned by an employee of a dealer on or after May 1, 2009.</section>
       <section prefix="(2)">
-        <section prefix="(i)">An incentive payment, a reimbursement payment, cash, a gift, or a thing of value to be given by a manufacturer, distributor, or factory branch to an employee of a dealer may be given:</section>
+        <section prefix="(i)">An incentive payment, a reimbursement payment, cash, a gift, or a thing of value to be given by a manufacturer, distributor, or factory branch to an employee of a dealer may be given:<section prefix="1.">Directly to the employee; or</section><section prefix="2.">To the dealer to be distributed to the employee.</section></section>
         <section prefix="(ii)">An incentive payment, a reimbursement payment, or cash given to a dealer for distribution to an employee under this paragraph shall be distributed to the employee as part of the payroll process after the appropriate payroll deductions have been made by the dealer.</section>
       </section>
       <section prefix="(3)">A manufacturer, distributor, or factory branch shall make information available to a dealer about any incentive payment, reimbursement payment, cash, gift, or thing of value totaling more than $200 in a calendar year that is given directly to an employee of the dealer.</section>

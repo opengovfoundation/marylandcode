@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-206" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -28,7 +28,7 @@
       <section prefix="(2)">Medical information requested under this section shall be only as intrusive as necessary and used for the purpose of:<section prefix="(i)">Assuring the quality of the data reported;</section><section prefix="(ii)">Providing information or services to a child's family;</section><section prefix="(iii)">Conducting an epidemiological investigation related to a birth defect; or</section><section prefix="(iv)">Conducting the Department's research into the causes of birth defects.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The release of medical information obtained in accordance with this section to the Department is not a violation of the confidential relationship between a health care provider and a patient.</section>
-        <section prefix="(ii)">A health care provider who discloses medical records to the Department under this section:</section>
+        <section prefix="(ii)">A health care provider who discloses medical records to the Department under this section:<section prefix="1.">Is not liable in any suit for civil damages for the disclosure of the medical records;</section><section prefix="2.">Is not subject to disciplinary action by any licensing or disciplining authority for disclosure of confidential information; and</section><section prefix="3.">May not be subject to any criminal penalties.</section></section>
       </section>
       <section prefix="(4)">The medical information obtained by the Department under this section is not subject to subpoena, discovery, or introduction into evidence in any administrative, civil, or criminal proceeding.</section>
     </section>
@@ -37,7 +37,7 @@
       <section prefix="(1)">The Department shall assure that information is prepared and periodically updated on:<section prefix="(i)">Birth defects; and</section><section prefix="(ii)">Public and private services for children with birth defects.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">The Secretary shall appoint a committee to determine the information required under paragraph (1) of this subsection.</section>
-        <section prefix="(ii)">The committee shall consist of:</section>
+        <section prefix="(ii)">The committee shall consist of:<section prefix="1.">Physicians;</section><section prefix="2.">Educators;</section><section prefix="3.">Social service specialists;</section><section prefix="4.">Representatives of the Department;</section><section prefix="5.">Representatives of the Department of Human Resources;</section><section prefix="6.">Representatives of the State Department of Education; and</section><section prefix="7.">Parents or guardians of children with birth defects.</section></section>
       </section>
       <section prefix="(3)">The information provided under this subsection shall be distributed to each hospital and made available to parents or guardians of children with birth defects by the child's physician before the child is discharged from the hospital and with an explanation, to the extent possible, of the birth defect to the parents or guardians.</section>
       <section prefix="(4)">

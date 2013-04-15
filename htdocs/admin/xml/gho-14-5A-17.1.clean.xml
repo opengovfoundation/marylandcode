@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-5A-17.1" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-5A-17.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>17.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any person aggrieved by a final decision of the Board under this subtitle may not appeal to the Secretary or Board of Review but may take a direct judicial appeal.</section>

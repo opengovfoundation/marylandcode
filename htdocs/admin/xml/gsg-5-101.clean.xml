@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-101" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">There is a Treasurer of the State, as provided in Article VI, &#xA7; 1 of the Maryland Constitution.</section>
     <section prefix="(b)">
@@ -29,7 +29,7 @@
         <section prefix="(ii)">Before ballots are distributed, the Reading Clerk shall read the letter of recommendation, if any, from the joint committee for which provision is made in subsection (c) of this section. Once read, the joint session shall immediately proceed with the balloting. Nominating speeches may not be made from the floor.</section>
         <section prefix="(iii)">The casting of ballots for the appointment of the Treasurer shall be by secret ballot.</section>
         <section prefix="(iv)">Ballots shall be distributed by representatives of the Office of the Secretary of the Senate and of the Chief Clerk of the House of Delegates. The Secretary of the Senate shall open each ballot and hand it to the Chief Clerk of the House, who shall announce for whom the vote is cast.</section>
-        <section prefix="(v)">The counting of ballots shall be observed by:</section>
+        <section prefix="(v)">The counting of ballots shall be observed by:<section prefix="1.">the Majority Leader of the Senate;</section><section prefix="2.">the Minority Leader of the Senate;</section><section prefix="3.">the Majority Leader of the House of Delegates;</section><section prefix="4.">the Minority Leader of the House of Delegates; and</section><section prefix="5.">any other member of either chamber so designated by the President of the Senate or the Speaker of the House.</section></section>
       </section>
       <section prefix="(4)">The Rules of the House of Delegates, as adopted for the session at which the State Treasurer is appointed, shall govern the proceedings of the joint session or sessions. The members of the General Assembly, sitting jointly, shall determine any other procedure necessary for the casting of ballots for the appointment of the Treasurer.</section>
     </section>

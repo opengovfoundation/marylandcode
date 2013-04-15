@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1011" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-1011</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1011</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">When the amount of the Fund equals at least $5,000,000, the payment of assessments by employers and insurers is suspended.</section>

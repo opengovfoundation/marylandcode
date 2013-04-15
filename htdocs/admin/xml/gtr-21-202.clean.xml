@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-202" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except for special pedestrian signals that carry a legend, where traffic is controlled by traffic control signals that show different colored lights or colored lighted arrows, whether successively one at a time or in combination, only the colors green, red, and yellow may be used.</section>
@@ -21,8 +21,8 @@
       <section prefix="(2)">Unless otherwise directed by a pedestrian control signal as provided in &#xA7; 21-203 of this subtitle, a pedestrian facing a steady yellow signal is warned that there is not enough time to cross the roadway before a red signal is shown, and a pedestrian may not then start to cross the roadway.</section>
     </section>
     <section prefix="(h)">
-      <section prefix="(1)">Vehicular traffic facing a steady circular red signal alone:<section prefix="(i)">Shall stop at the near side of the intersection:</section><section prefix="(ii)">Except as provided in subsections (i), (j), and (k) of this section, shall remain stopped until a signal to proceed is shown.</section></section>
-      <section prefix="(2)">Vehicular traffic facing a steady red arrow signal:<section prefix="(i)">May not enter the intersection to make the movement indicated by the arrow;</section><section prefix="(ii)">Unless entering the intersection to make a movement permitted by another signal, shall stop at the near side of the intersection:</section><section prefix="(iii)">Except as provided in subsections (i), (j), and (k) of this section, shall remain stopped until a signal permitting the movement is shown.</section></section>
+      <section prefix="(1)">Vehicular traffic facing a steady circular red signal alone:<section prefix="(i)">Shall stop at the near side of the intersection:<section prefix="1.">At a clearly marked stop line;</section><section prefix="2.">If there is no clearly marked stop line, before entering any crosswalk; or</section><section prefix="3.">If there is no crosswalk, before entering the intersection; and</section></section><section prefix="(ii)">Except as provided in subsections (i), (j), and (k) of this section, shall remain stopped until a signal to proceed is shown.</section></section>
+      <section prefix="(2)">Vehicular traffic facing a steady red arrow signal:<section prefix="(i)">May not enter the intersection to make the movement indicated by the arrow;</section><section prefix="(ii)">Unless entering the intersection to make a movement permitted by another signal, shall stop at the near side of the intersection:<section prefix="1.">At a clearly marked stop line;</section><section prefix="2.">If there is no clearly marked stop line, before entering any crosswalk; or</section><section prefix="3.">If there is no crosswalk, before entering the intersection; and</section></section><section prefix="(iii)">Except as provided in subsections (i), (j), and (k) of this section, shall remain stopped until a signal permitting the movement is shown.</section></section>
     </section>
     <section prefix="(i)">Unless a sign prohibiting a turn is in place, vehicular traffic facing a steady red signal, after stopping as required by subsection (h) of this section, cautiously may enter the intersection and make:<section prefix="(1)">A right turn; or</section><section prefix="(2)">A left turn from a one-way street onto a one-way street.</section></section>
     <section prefix="(j)">If a sign permitting any other turn is in place, vehicular traffic facing a steady red signal, after stopping as required by subsection (h) of this section, cautiously may enter the intersection and make the turn indicated by the sign.</section>

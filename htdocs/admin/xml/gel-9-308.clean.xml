@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-308" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-9-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">A voter who requires assistance in casting an absentee ballot by reason of disability, inability to write, or inability to read the ballot may be assisted by any individual other than:<section prefix="(1)">a candidate who is on that ballot;</section><section prefix="(2)">the voter's employer or an agent of the employer; or</section><section prefix="(3)">an officer or agent of the voter's union.</section></section>
     <section prefix="(b)">An individual rendering assistance under this section shall execute a certification as prescribed by the State Board and included in the instructions under &#xA7; 9-309 of this subtitle.</section>

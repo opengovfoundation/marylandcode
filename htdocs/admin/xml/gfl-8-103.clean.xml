@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-103" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-8-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The court may modify any provision of a deed, agreement, or settlement with respect to the care, custody, education, or support of any minor child of the spouses, if the modification would be in the best interests of the child.</section>
     <section prefix="(b)">The court may modify any provision of a deed, agreement, or settlement with respect to spousal support executed on or after January 1, 1976, regardless of how the provision is stated, unless there is a provision that specifically states that the provisions with respect to spousal support are not subject to any court modification.</section>

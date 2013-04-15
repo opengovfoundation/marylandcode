@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Before ordering a test under &#xA7; 11-110 of this subtitle and subject to the provisions of subsection (d) of this section, the court shall hold a hearing at which both the victim or victim's representative and the person charged with a prohibited exposure have the right to be present.</section>

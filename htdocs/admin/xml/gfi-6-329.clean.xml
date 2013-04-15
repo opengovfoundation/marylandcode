@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-329" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-329</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>329</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this section, the directors may be elected exclusively by mail ballot or electronically in accordance with regulations adopted by the Commissioner, if:<section prefix="(1)">The board of the credit union, by resolution posted conspicuously at the principal office of the credit union at least 90 days before the annual meeting of the members of the credit union, authorizes the election of directors exclusively by mail ballot or electronically; or</section><section prefix="(2)"><section prefix="(i)">The bylaws provide for the election of directors exclusively by mail ballot or electronically; and</section><section prefix="(ii)">Notice of the election and the annual meeting is posted conspicuously at the principal office of the credit union at least 90 days before the date of the annual meeting.</section></section></section>
     <section prefix="(b)">
@@ -17,8 +17,8 @@
     <section prefix="(c)">
       <section prefix="(1)">
         <section prefix="(i)">The lesser of 1 percent or 500 of the members in good standing, but in any case no less than 20, may nominate candidates for directorships by signing a petition.</section>
-        <section prefix="(ii)">Each page of the petition shall include:</section>
-        <section prefix="(iii)">Each petition shall contain:</section>
+        <section prefix="(ii)">Each page of the petition shall include:<section prefix="1.">The name of the credit union; and</section><section prefix="2.">The name of the nominee.</section></section>
+        <section prefix="(iii)">Each petition shall contain:<section prefix="1.">The printed or typed names, signatures, date, and account numbers of those members in good standing signing the petition; and</section><section prefix="2.">A certificate by each nominee that the nominee agrees to permit the nomination and, if elected, to accept the office.</section></section>
         <section prefix="(iv)">The nominating committee shall determine the validity of any petition.</section>
       </section>
       <section prefix="(2)">Petitioners shall file their nomination with the secretary of the credit union at least 55 days before the annual meeting.</section>
@@ -26,7 +26,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">When only one member is nominated for a position to be filled, the chairman may:<section prefix="(i)">Take a voice vote; or</section><section prefix="(ii)">Declare the nominee elected by general consent or acclamation at the annual meeting.</section></section>
-      <section prefix="(2)">If the nominations of the nominating committee and any petitioners provide more than one nominee for each directorship to be filled, the secretary:<section prefix="(i)">For an election of directors conducted by mail ballot, shall mail to each member in good standing, at least 20 days before the annual meeting:</section><section prefix="(ii)">For an election of directors conducted electronically, shall provide the information and identification form required under item (i) of this paragraph as provided in regulations adopted by the Commissioner.</section></section>
+      <section prefix="(2)">If the nominations of the nominating committee and any petitioners provide more than one nominee for each directorship to be filled, the secretary:<section prefix="(i)">For an election of directors conducted by mail ballot, shall mail to each member in good standing, at least 20 days before the annual meeting:<section prefix="1.">A printed ballot, clearly identified as a ballot, on which appears the name of each nominee, in alphabetical order, and on which, in the form that the board approves, may appear after a nominee's name:</section><section prefix="2.">A postage prepaid and preaddressed envelope clearly marked with instructions to place the completed ballot and the identification form in the envelope and seal the envelope; and</section><section prefix="3.">An identification form to be completed to include the name, address, signature, and credit union account number of the voter; and</section></section><section prefix="(ii)">For an election of directors conducted electronically, shall provide the information and identification form required under item (i) of this paragraph as provided in regulations adopted by the Commissioner.</section></section>
       <section prefix="(3)">One form may be printed or provided electronically that represents a combined ballot and identification form.</section>
     </section>
     <section prefix="(e)">The board shall appoint the tellers of the election.</section>

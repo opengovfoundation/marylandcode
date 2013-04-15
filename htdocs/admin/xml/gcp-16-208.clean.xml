@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-208" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-16-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the authority and supervision of the Public Defender, each district public defender shall maintain a confidential list of private attorneys available to be appointed as attorneys for indigent individuals eligible for representation under this title.</section>
-      <section prefix="(2)">Each attorney on the list shall be:<section prefix="(i)">admitted to practice law in the State; and</section><section prefix="(ii)">placed on various panels in accordance with qualification criteria that the Public Defender sets forth, based on:</section></section>
+      <section prefix="(2)">Each attorney on the list shall be:<section prefix="(i)">admitted to practice law in the State; and</section><section prefix="(ii)">placed on various panels in accordance with qualification criteria that the Public Defender sets forth, based on:<section prefix="1.">the nature and complexity of the offense requiring representation;</section><section prefix="2.">the trial or appellate experience of the attorney; and</section><section prefix="3.">any other factor necessary to ensure competent representation.</section></section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">Except in cases in which an attorney in the Office provides representation, the district public defender, subject to the supervision of the Public Defender, shall appoint an attorney from an appropriate panel to represent an indigent individual.</section>

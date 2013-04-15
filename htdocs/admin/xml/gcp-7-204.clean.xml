@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-7-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The date for a hearing on a petition filed in a case in which a sentence of death has been imposed shall:<section prefix="(i)">be set within 30 days after the day on which the petition is filed; and</section><section prefix="(ii)">occur within 90 days after the day the petition is filed.</section></section>

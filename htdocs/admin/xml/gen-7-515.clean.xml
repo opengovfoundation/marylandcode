@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-515" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-515</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>515</order_by>
   <text>
     <section prefix="(a)">The provisions of &#xA7;&#xA7; 7-256 through 7-268 of this title shall be used and shall apply to enforce violations of:<section prefix="(1)">This subtitle; or</section><section prefix="(2)">Any regulation adopted under this subtitle.</section></section>
     <section prefix="(b)">Any action taken by the Department under this subtitle at a site under active enforcement may not:<section prefix="(1)">Negate the terms and conditions of any outstanding active enforcement order, decree, judgment, permit, or other document that addresses environmental contamination at the site; or</section><section prefix="(2)">Relieve any person who is the subject of an active enforcement action from liability for penalties under the enforcement action.</section></section>

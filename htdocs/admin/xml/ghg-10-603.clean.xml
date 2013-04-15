@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-603" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">This section does not apply to an individual who is:<section prefix="(1)">Transferred from a facility of another state to a State facility under the Interstate Compact on Mental Health; or</section><section prefix="(2)">Admitted after an emergency evaluation under Part IV of this subtitle.</section></section>
     <section prefix="(b)">In addition to the other requirements of this subtitle, a State facility or a Veterans' Administration hospital may admit an individual who is 65 years old or older only if a geriatric evaluation team determines that there is no available, less restrictive form of care or treatment that is adequate for the needs of the individual.</section>

@@ -1,23 +1,26 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1220" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-2-1220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1220</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subsection, "unit" includes each State department, agency, unit, and program, including each clerk of court and each register of wills.</section>
       <section prefix="(2)">
         <section prefix="(i)">At least once every 3 years, the Office of Legislative Audits shall conduct a fiscal/compliance audit of each unit of the State government, except for units in the Legislative Branch.</section>
-        <section prefix="(ii)">In determining the audit schedule for a unit, the Office of Legislative Audits shall take into consideration:</section>
+        <section prefix="(ii)">In determining the audit schedule for a unit, the Office of Legislative Audits shall take into consideration:<section prefix="1.">the materiality and risk of the unit's fiscal activities with respect to the State's fiscal activities;</section><section prefix="2.">the complexity of the unit's fiscal structure; and</section><section prefix="3.">the nature and extent of audit findings in the unit's prior audit reports.</section></section>
         <section prefix="(iii)">Each agency or program may be audited separately or as part of a larger organizational unit of State government.</section>
       </section>
       <section prefix="(3)">Performance audits or financial statement audits shall be conducted when authorized by the Legislative Auditor, when directed by the Joint Audit Committee or the Executive Director, or when otherwise required by law.</section>
       <section prefix="(4)">
         <section prefix="(i)">In addition to the audits required under paragraph (2) of this subsection, the Office of Legislative Audits may conduct a review when the objectives of the work to be performed can be satisfactorily fulfilled without conducting an audit as prescribed in &#xA7; 2-1221 of this subtitle.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The Office of Legislative Audits has the authority to conduct a separate investigation of an act or allegation of fraud, waste, or abuse in the obligation, expenditure, receipt, or use of State resources.</section>
+          <section prefix="2.">The Legislative Auditor shall determine whether an investigation shall be conducted in conjunction with an audit undertaken in accordance with this subsection or separately.</section>
+        </section>
       </section>
       <section prefix="(5)">If, on request of the Comptroller, the Joint Audit Committee so directs, the Office of Legislative Audits shall audit or review a claim that has been presented to the Comptroller for payment of an expenditure or disbursement and that is alleged to have been made by or for an officer or unit of the State government.</section>
       <section prefix="(6)">The Office of Legislative Audits shall conduct an audit or review to determine the accuracy of information about or procedures of a unit of the State government, as directed by the Joint Audit Committee or the Executive Director.</section>

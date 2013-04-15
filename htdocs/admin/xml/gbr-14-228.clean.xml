@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-228" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-228</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>228</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, a person may not offer to sell, through advertisement or otherwise, or sell a franchise in the State unless the offer of the franchise has been registered under this subtitle.</section>
     <section prefix="(b)">A person who willfully sells a franchise knowingly violating this section is guilty of a felony and, on conviction, is subject for each violation to a fine not exceeding $10,000 or imprisonment not exceeding 5 years or both.</section>

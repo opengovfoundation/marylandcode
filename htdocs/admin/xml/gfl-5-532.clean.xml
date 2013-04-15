@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-532" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-532</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>532</order_by>
   <text>
     <section prefix="(a)">The Administration shall adopt rules and regulations to carry out the child welfare services and foster care programs under this subtitle.</section>
     <section prefix="(b)">The regulations shall authorize the Administration to:<section prefix="(1)">conduct a background check of child support arrearages on an applicant for foster home approval who is also a biological or adoptive parent; and</section><section prefix="(2)">consider any child support arrearage in determining whether to approve or disapprove the application.</section></section>

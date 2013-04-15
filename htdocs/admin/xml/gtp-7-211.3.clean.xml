@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-211.3" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-211.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"Federal enclave property" means real property improvements or an interest in real property improvements:<section prefix="(i)">that are located within the defined boundaries of federally owned land where:</section><section prefix="(ii)">that are either:</section><section prefix="(iii)">that are not otherwise exempt under this title or any other provision of law.</section><section prefix="(iv)">"Federal enclave property" does not include any property owned by the United States Department of Veterans Affairs that is leased to a person through an enhanced use lease.</section></section>
+      <section prefix="(2)">"Federal enclave property" means real property improvements or an interest in real property improvements:<section prefix="(i)">that are located within the defined boundaries of federally owned land where:<section prefix="1.">the federal jurisdiction would preclude taxation by the State; and</section><section prefix="2.">the federal government has waived its immunity from State property taxation by law or other form of consent;</section></section><section prefix="(ii)">that are either:<section prefix="1.">owned by a person other than the federal government; or</section><section prefix="2.">held by a person that is taxable under &#xA7; 6-102(e) of this article; and</section></section><section prefix="(iii)">that are not otherwise exempt under this title or any other provision of law.</section><section prefix="(iv)">"Federal enclave property" does not include any property owned by the United States Department of Veterans Affairs that is leased to a person through an enhanced use lease.</section></section>
       <section prefix="(3)">"Local jurisdiction" means a county and, where appropriate, a municipal corporation in which federal enclave property is located.</section>
       <section prefix="(4)">"Private developer" means a person, other than the federal government or an agency thereof, that owns federal enclave property or holds an interest or privilege under &#xA7; 6-102(e) of this article in federal enclave property.</section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-701" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-8-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly have or attempt to have an individual unlawfully or improperly adjudicated to be a drug or alcohol abuser or to have an alcohol or drug dependence under Subtitle 5 of this title.</section>
     <section prefix="(b)">A person who violates any provision of this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $1,000 or imprisonment not exceeding 3 years or both.</section>

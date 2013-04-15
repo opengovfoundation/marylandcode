@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-208" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Within 72 hours after a birth occurs in an institution, or en route to the institution, the administrative head of the institution or a designee of the administrative head shall:<section prefix="(i)">Prepare, on the form that the Secretary provides, a certificate of birth;</section><section prefix="(ii)">Secure each signature that is required on the certificate; and</section><section prefix="(iii)">File the certificate.</section></section>
@@ -25,13 +25,13 @@
       <section prefix="(1)">Each parent shall provide his or her own Social Security number on the form provided by the Secretary under this section.</section>
       <section prefix="(2)">
         <section prefix="(i)">If the father is not available to provide his Social Security number on the form provided under paragraph (1) of this subsection, the father shall provide his Social Security number on a form provided by the Secretary for this purpose.</section>
-        <section prefix="(ii)">The form provided under this paragraph shall:</section>
+        <section prefix="(ii)">The form provided under this paragraph shall:<section prefix="1.">State that the form is for the purpose of providing the Social Security numbers of parents, to be included on the portion of the form that remains in the official birth record;</section><section prefix="2.">Contain a specific reference to this subtitle; and</section><section prefix="3.">State that the father's Social Security number shall be provided under penalty of perjury.</section></section>
       </section>
       <section prefix="(3)">The Social Security number as provided by each parent shall be recorded on the portion of the form provided by the Secretary which remains in the official birth record.</section>
       <section prefix="(4)">The Social Security numbers of the parents may not appear on the portion of the birth certificate issued as proof of birth.</section>
       <section prefix="(5)">
         <section prefix="(i)">The Secretary shall permit disclosure of the Social Security numbers of the parents only to the Child Support Enforcement Administration of the Department of Human Resources.</section>
-        <section prefix="(ii)">The Child Support Enforcement Administration may use the Social Security numbers of the parents to:</section>
+        <section prefix="(ii)">The Child Support Enforcement Administration may use the Social Security numbers of the parents to:<section prefix="1.">Locate a parent;</section><section prefix="2.">Establish paternity; and</section><section prefix="3.">Establish and enforce a child support order under Title 10, Subtitle 1 of the Family Law Article.</section></section>
       </section>
     </section>
     <section prefix="(g)">If, under subsection (f)(1) of this section, the father's Social Security number is not entered on the form provided by the Secretary:<section prefix="(1)">Upon adjudication of paternity, the court shall order the father to provide his Social Security number to the clerk of court; and</section><section prefix="(2)">The clerk of court shall send the father's Social Security number to the Secretary, as provided under &#xA7; 4-211(f) of this subtitle.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-326" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-9-326</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>326</order_by>
   <text>
     <section prefix="(a)">To obtain proper identification of a person who receives, buys, sells, or uses motor fuel, the Comptroller may:<section prefix="(1)">require information necessary to assign an identification number to the person; and</section><section prefix="(2)">assign a license or other identification number to the person.</section></section>
     <section prefix="(b)">A person required to file a return or other document under this subtitle shall include the identification number of the person filing and of each other person listed in the other document.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">A license grants:<section prefix="(1)">The contractual rights that are expressly described; and</section><section prefix="(2)">A contractual right to use any informational rights within the licensor's control at the time of contracting which are necessary in the ordinary course to exercise the expressly described rights.</section></section>
     <section prefix="(b)">If a license expressly limits use of the information or informational rights, use in any other manner is a breach of contract. In all other cases, a license contains an implied limitation that the licensee will not use the information or informational rights otherwise than as described in subsection (a) of this section. However, use inconsistent with this implied limitation is not a breach if it is permitted under applicable law in the absence of the implied limitation.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-104" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-104</section_number>
-  <catch_line/>
+  <catch_line>The income tax does not apply to the income of:...</catch_line>
+  <order_by>104</order_by>
   <text>The income tax does not apply to the income of:<section prefix=""><section prefix="(1)">a common trust fund, as defined in &#xA7; 3-501(b) of the Financial Institutions Article;</section><section prefix="(2)">except as provided in &#xA7;&#xA7; 10-101(e)(3) and 10-304(2) of this title, an organization that is exempt from taxation under &#xA7; 408(e)(1) or &#xA7; 501 of the Internal Revenue Code;</section><section prefix="(3)">a financial institution that is subject to the financial institution franchise tax;</section><section prefix="(4)">a person subject to taxation under Title 6 of the Insurance Article;</section><section prefix="(5)">except as provided in &#xA7; 10-102.1 of this subtitle, a partnership, as defined in &#xA7; 761 of the Internal Revenue Code;</section><section prefix="(6)">except as provided in &#xA7; 10-102.1 of this subtitle and &#xA7; 10-304(3) of this title, an S corporation;</section><section prefix="(7)">except as provided in &#xA7; 10-304(4) of this title, an investment conduit or a special exempt entity; or</section><section prefix="(8)">except as provided in &#xA7; 10-102.1 of this subtitle, a limited liability company as defined under Title 4A of the Corporations and Associations Article to the extent that the company is taxable as a partnership, as defined in &#xA7; 761 of the Internal Revenue Code.</section></section></text>
 </law>

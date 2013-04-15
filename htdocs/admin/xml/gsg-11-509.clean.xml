@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-509" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-11-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">If a joint hearing is to be held, the local government that approved the request for the joint hearing shall set the time, date, and place of the hearing, as provided in this section.</section>
     <section prefix="(b)">The joint hearing shall be held in the county where the local government is located.</section>

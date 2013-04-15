@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-246" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-246</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>246</order_by>
   <text>
     <section prefix="(a)">Administration of this Compact shall not interfere with the management and control of the Director of the FBI over the FBI's collection and dissemination of criminal history records and the advisory function of the FBI's Advisory Policy Board (APB) chartered under the Federal Advisory Committee Act (5 U.S.C. App.) for all purposes other than noncriminal justice.</section>
     <section prefix="(b)">Nothing in this Compact shall require the FBI to obligate or expend funds beyond those appropriated to the FBI.</section>

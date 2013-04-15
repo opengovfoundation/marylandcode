@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-901" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following terms have the meanings indicated.</section>
     <section prefix="(b)">"Annual program" means a schedule of acquisition or development for one fiscal year.</section>
     <section prefix="(c)">
       <section prefix="(1)">"Capital renewal", except as provided in subsection (l)(5) of this section, means renewal of a capital project for which an improvement is necessary to ensure the physical integrity of:<section prefix="(i)">A facility;</section><section prefix="(ii)">Fixed equipment; or</section><section prefix="(iii)">An existing physical improvement.</section></section>
-      <section prefix="(2)">"Capital renewal" does not include:<section prefix="(i)">Preventive, routine, or operational maintenance projects instituted to ensure:</section><section prefix="(ii)">Preventive, routine, or operational road maintenance projects except for those park or recreation area road maintenance projects identified in the Governor's operating budget or the consolidated capital budget.</section></section>
+      <section prefix="(2)">"Capital renewal" does not include:<section prefix="(i)">Preventive, routine, or operational maintenance projects instituted to ensure:<section prefix="1.">The aesthetic appeal of a project;</section><section prefix="2.">The general daily upkeep of a project; or</section><section prefix="3.">The maintenance of grounds surrounding a project; or</section></section><section prefix="(ii)">Preventive, routine, or operational road maintenance projects except for those park or recreation area road maintenance projects identified in the Governor's operating budget or the consolidated capital budget.</section></section>
     </section>
     <section prefix="(d)">"Funds available under this program" means the proceeds of Program Open Space and the annual apportionment of allocation of the Land and Water Conservation Fund to the State by the United States Department of Interior, National Park Service.</section>
     <section prefix="(e)">"Governmental agency" means the Department of Recreation and Parks of a local governing body which currently provides or is charged by the local governing body with providing public outdoor recreation and open space areas.</section>

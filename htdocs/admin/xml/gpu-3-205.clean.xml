@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-205" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-3-205</section_number>
-  <catch_line/>
+  <catch_line>The Commission may, on terms it considers appropriate, stay the enforcement of a regulation or order...</catch_line>
+  <order_by>205</order_by>
   <text>The Commission may, on terms it considers appropriate, stay the enforcement of a regulation or order that is the subject of a proceeding for review under this subtitle.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c2" order_by="" level="1"/>
-    <unit label="chapter" identifier="15" order_by="" level="2"/>
+    <unit label="article" identifier="c2" order_by="" level="1">II - Executive Departments</unit>
   </structure>
   <section_number>c2-15</section_number>
-  <catch_line/>
+  <catch_line>The Governor may suspend or arrest any military officer of the State for disobedience of orders, or ...</catch_line>
+  <order_by>15</order_by>
   <text>The Governor may suspend or arrest any military officer of the State for disobedience of orders, or other military offense; and may remove him in pursuance of the sentence of a Court-Martial; and may remove for incompetency, or misconduct, all civil officers who received appointment from the Executive for a term of years.</text>
 </law>

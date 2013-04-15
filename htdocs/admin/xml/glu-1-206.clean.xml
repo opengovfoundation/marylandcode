@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-206" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-1-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subsection, "planning commission" includes a planning commission or board established under:<section prefix="(i)">Title 2 of this article;</section><section prefix="(ii)">Division II of this article; or</section><section prefix="(iii)">Article 25A of the Code.</section></section>

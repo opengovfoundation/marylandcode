@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-212" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">Except as provided for the Housing Opportunities Commission of Montgomery County under &#xA7; 25-204(d)(2) of this subtitle, when the State or a county or municipality, or a unit of the State or a county, acquires property for public use that is subject to a benefit charge imposed under this subtitle, the benefit charge shall be paid and extinguished by payment to the Commission of a sum calculated in accordance with &#xA7; 25-211 of this subtitle.</section>
     <section prefix="(b)">When property is acquired without eminent domain, the Commission shall be paid the amount necessary to extinguish the benefit charge before the deed evidencing the transfer may be recorded in the land records of the county in which the property is located.</section>

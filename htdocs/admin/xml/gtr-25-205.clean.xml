@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-205" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-25-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">This section applies if:<section prefix="(1)">The identity of the last registered owner of an abandoned vehicle cannot be determined;</section><section prefix="(2)">The registration of the vehicle gives no address for the owner;</section><section prefix="(3)">It is impossible to determine with reasonable certainty the identity and address of each secured party; or</section><section prefix="(4)">The certified mail notice required by &#xA7; 25-204 of this subtitle is returned as undeliverable.</section></section>
     <section prefix="(b)">Under one of the conditions described in subsection (a) of this section, a police department that takes an abandoned vehicle into custody shall give the required notice by posting a notice complying with the provisions of subsection (c) of this section in the circuit court of the county where the abandoned vehicle was found.</section>

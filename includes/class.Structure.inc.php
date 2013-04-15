@@ -520,7 +520,7 @@ class Structure
 		// sorting (hence the order_by field), but it's a great deal better than an unsorted list.
 		$sql = 'SELECT id, structure_id, section AS section_number, catch_line
 				FROM laws
-				WHERE structure_id='.$db->escape($this->id).' AND repealed="n"
+				WHERE structure_id='.$db->escape($this->id).'
 				ORDER BY order_by, section';
 		
 		// Execute the query.

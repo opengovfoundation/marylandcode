@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-752" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-752</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>752</order_by>
   <text>
     <section prefix="(a)">Subject to any applicable provisions of this section, a municipal corporation or a county that owns or operates a transit system or in which a transit system operates or a transit operator may enter into an agreement to construct, operate, and maintain bus passenger shelters on a State right-of-way.</section>
     <section prefix="(b)">An agreement under this section may allow commercial advertising signs to be displayed on bus passenger shelters consistent with applicable State, local, and federal law.</section>

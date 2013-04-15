@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-701" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">If a partner is dissociated from a partnership without resulting in a dissolution and winding up of the partnership business under &#xA7; 9A-801 of this title, the partnership shall cause the dissociated partner's interest in the partnership to be purchased for a buyout price determined pursuant to subsection (b) of this section.</section>
     <section prefix="(b)">The buyout price of a dissociated partner's interest is the amount that would have been distributable to the dissociating partner under &#xA7; 9A-807(b) of this title if, on the date of dissociation, the assets of the partnership were sold at a price equal to the greater of the liquidation value or the value based on a sale of the entire business as a going concern without the dissociated partner and the partnership were wound up as of that date. Interest must be paid from the date of dissociation to the date of payment.</section>

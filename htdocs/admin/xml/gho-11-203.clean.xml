@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-203" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-11-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">From among its members, the Board every 2 years shall elect a president, a secretary, and a treasurer.</section>
     <section prefix="(b)">The Board shall determine:<section prefix="(1)">The manner of election of officers; and</section><section prefix="(2)">The duties of each officer.</section></section>

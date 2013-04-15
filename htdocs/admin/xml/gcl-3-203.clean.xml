@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">An instrument is transferred when it is delivered by a person other than its issuer for the purpose of giving to the person receiving delivery the right to enforce the instrument.</section>
     <section prefix="(b)">Transfer of an instrument, whether or not the transfer is a negotiation, vests in the transferee any right of the transferor to enforce the instrument, including any right as a holder in due course, but the transferee cannot acquire rights of a holder in due course by a transfer, directly or indirectly, from a holder in due course if the transferee engaged in fraud or illegality affecting the instrument.</section>

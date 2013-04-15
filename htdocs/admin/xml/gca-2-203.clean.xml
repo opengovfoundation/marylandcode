@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-203" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">Before the issuance of stock or convertible securities, the board of directors shall adopt a resolution that:<section prefix="(1)">Authorizes the issuance;</section><section prefix="(2)">Sets the minimum consideration for the stock or convertible securities or a formula for its determination; and</section><section prefix="(3)">Fairly describes any consideration other than money.</section></section>
     <section prefix="(b)">In the absence of actual fraud in the transaction, the minimum consideration stated in the charter or determined by the board of directors in its resolution is conclusive for all purposes.</section>

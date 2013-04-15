@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-502" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each employer:<section prefix="(i)">shall set regular pay periods; and</section><section prefix="(ii)">except as provided in paragraph (2) of this subsection, shall pay each employee at least once in every 2 weeks or twice in each month.</section></section>

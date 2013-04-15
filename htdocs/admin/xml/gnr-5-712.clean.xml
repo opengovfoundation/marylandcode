@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-712" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-712</section_number>
-  <catch_line/>
+  <catch_line>Compliance with the provisions of Part II of this subtitle is not a bar to recovery of any damage fo...</catch_line>
+  <order_by>712</order_by>
   <text>Compliance with the provisions of Part II of this subtitle is not a bar to recovery of any damage for which any complying person would or might otherwise be liable.</text>
 </law>

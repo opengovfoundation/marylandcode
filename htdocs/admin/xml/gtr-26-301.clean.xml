@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-301" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-26-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle, "officer" means a police officer or a person other than a police officer who is authorized to issue a citation for a violation of an ordinance or regulation that is adopted under this section.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, any State agency authorized by law and any political subdivision of this State may adopt ordinances or regulations that:<section prefix="(1)">Regulate the parking of vehicles;</section><section prefix="(2)">Provide for the impounding of vehicles parked in violation of the ordinances or regulations;</section><section prefix="(3)">Regulate the towing of vehicles from publicly owned and privately owned parking lots; and</section><section prefix="(4)">Provide for the issuance of a citation by an officer for a violation of an ordinance or regulation that is adopted under this section.</section></section>

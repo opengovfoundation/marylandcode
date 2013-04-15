@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-606" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
     <section prefix="(1)">Acceptance of goods occurs when the buyer<section prefix="(a)">After a reasonable opportunity to inspect the goods signifies to the seller that the goods are conforming or that he will take or retain them in spite of their nonconformity; or</section><section prefix="(b)">Fails to make an effective rejection (subsection (1) of &#xA7; 2-602), but such acceptance does not occur until the buyer has had a reasonable opportunity to inspect them; or</section><section prefix="(c)">Does any act inconsistent with the seller's ownership; but if such act is wrongful as against the seller it is an acceptance only if ratified by him.</section></section>
     <section prefix="(2)">Acceptance of a part of any commercial unit is acceptance of that entire unit.</section>

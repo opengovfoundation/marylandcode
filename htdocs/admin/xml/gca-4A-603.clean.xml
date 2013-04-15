@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-603" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">Unless otherwise agreed:<section prefix="(1)">Only an economic interest in a limited liability company may be assigned; and</section><section prefix="(2)">An economic interest is wholly or partly assignable.</section></section>
     <section prefix="(b)">An assignment of an economic interest in a limited liability company does not:<section prefix="(1)">Dissolve the limited liability company; or</section><section prefix="(2)">Entitle the assignee to:<section prefix="(i)">Become a member; or</section><section prefix="(ii)">Exercise any rights of a member, including the noneconomic interest of the assignor.</section></section></section>

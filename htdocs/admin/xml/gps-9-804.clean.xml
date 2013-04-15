@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-804" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">A fire official shall give written notice to the occupant of premises where combustible material has accumulated to remove the combustible material from the premises within 48 hours after receipt of the notice, if after an inspection made under this subtitle, the fire official determines that the accumulation of combustible material increases the danger of fire to:<section prefix="(1)">the premises where the combustible material has accumulated; or</section><section prefix="(2)">adjacent property.</section></section>
     <section prefix="(b)">

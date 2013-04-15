@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-604" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-604</section_number>
-  <catch_line/>
+  <catch_line>Funds appropriated for the subsidized or free feeding program shall be used to reimburse each county...</catch_line>
+  <order_by>604</order_by>
   <text>Funds appropriated for the subsidized or free feeding program shall be used to reimburse each county board for the difference between costs and all available reimbursements and other funds, including the amounts paid by children.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-201" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-22-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">This subtitle shall be liberally construed to carry out its purposes.</section>
     <section prefix="(b)">The purpose of this subtitle is to authorize the Commission to issue bonds in a manner that provides flexibility without imposing additional debt burdens on the assessable tax base of the sanitary district, so as to yield overall savings to the residents of the sanitary district.</section>

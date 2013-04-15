@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-401" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">With the assistance of the county health department, each county board shall provide:<section prefix="(1)">Adequate school health services;</section><section prefix="(2)">Instruction in health education, including the importance of physical activity in maintaining good health; and</section><section prefix="(3)">A healthful school environment.</section></section>
     <section prefix="(b)">The Department of Education and the Department of Health and Mental Hygiene jointly shall:<section prefix="(1)">Develop public standards and guidelines for school health programs; and</section><section prefix="(2)">Offer assistance to the county boards and county health departments in their implementation.</section></section>

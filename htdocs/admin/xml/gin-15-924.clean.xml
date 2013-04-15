@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-924" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-924</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>924</order_by>
   <text>
     <section prefix="(a)">Solicitation of the sale of a health insurance policy proposed to be issued to an individual eligible for Medicare may be made only in accordance with this section and &#xA7; 15-925 of this subtitle.</section>
     <section prefix="(b)">

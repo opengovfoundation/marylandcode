@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-304" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The Board may:<section prefix="(1)">Adopt rules and regulations to effectuate this subtitle;</section><section prefix="(2)">Engage additional employees for professional, clerical, and special work as necessary and as provided in the State budget;</section><section prefix="(3)">Subpoena any witness to take his testimony;</section><section prefix="(4)">Require production of books, papers, records, and other documentary evidence, and examine them in relation to any matter which the Board may investigate or hear; and</section><section prefix="(5)">Establish reasonable standards for the practice of veterinary medicine, including conduct and ethics.</section></section>
     <section prefix="(b)">Members or their designated inspectors may enter veterinary facilities at any reasonable hour to enforce the Board rules and regulations.</section>

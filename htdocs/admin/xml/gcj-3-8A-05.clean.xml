@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-8A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-8A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">If a person is alleged to be delinquent, the age of the person at the time the alleged delinquent act was committed controls the determination of jurisdiction under this subtitle.</section>
     <section prefix="(b)">If a person is alleged to have committed an act under &#xA7; 3-8A-19.1(b) of this subtitle, the age of the person at the time the alleged act was committed controls the determination of jurisdiction under this subtitle.</section>

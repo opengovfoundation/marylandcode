@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-211" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">Subject to policies established by the Commissioner, each warden or administrator is in direct charge of the correctional facility to which the warden or administrator is appointed.</section>
     <section prefix="(b)">The warden or administrator shall:<section prefix="(1)">supervise the government, discipline, and policy of the correctional facility;</section><section prefix="(2)">direct the administering of punishment prescribed by the Commissioner under &#xA7; 3-205(b)(1) of this subtitle; and</section><section prefix="(3)">enforce the regulations and directives of the Division.</section></section>

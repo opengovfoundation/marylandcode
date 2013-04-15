@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-302" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-2-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The State Superintendent shall be appointed by the State Board for a term of 4 years beginning on July 1 after his appointment and serves until a successor is appointed and qualifies.</section>
     <section prefix="(b)">The State Board shall fix his salary and pay it from the appropriation for the expenses and maintenance of the Department.</section>

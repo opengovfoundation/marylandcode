@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-706" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">A judgment creditor or other claimant of an insurer may not levy on any of the cash or government securities held on deposit under this subtitle for the protection of the insurer's policyholders and creditors.</section>
     <section prefix="(b)">A judgment creditor or other claimant of an insurer may levy on a deposit required under Title 6, Subtitle 3 of this article if allowed by the notice of the Commissioner requiring the deposit to be made.</section>

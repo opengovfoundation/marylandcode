@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-809" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-809</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>809</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each insurer that issues or delivers individual health insurance policies in the State that are written on an expense-incurred basis shall offer benefits for hospice care services to its insureds.</section>

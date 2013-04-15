@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-106" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-12-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">In accordance with regulations adopted by the State Board, the local board shall:<section prefix="(1)">conduct the recount and certify the official result of the election or question which is the subject of the recount; and</section><section prefix="(2)">ensure the public's ability to be present while the recount is conducted.</section></section>
     <section prefix="(b)">The State Board shall monitor and support the work of any local board conducting a recount to ensure compliance with this subtitle.</section>

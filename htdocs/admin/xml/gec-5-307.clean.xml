@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-307" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">The members of the Authority may act concurrently in their capacities as members of the Authority and of the Maryland Industrial Development Financing Authority.</section>
     <section prefix="(b)">The members of the Authority shall carry out the powers and duties of the Authority under this subtitle whether acting:<section prefix="(1)">concurrently as members of the Authority and the Maryland Industrial Development Financing Authority; or</section><section prefix="(2)">as members of either authority alone.</section></section>

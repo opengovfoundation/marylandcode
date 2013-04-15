@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-7-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Board" means the State Board of Foresters.</section>
     <section prefix="(c)">
       <section prefix="(1)">Notwithstanding &#xA7; 5-101 of the Natural Resources Article, "forestry" means the application, for compensation, of scientific techniques to the planting, conservation, protection, and management of trees and related resources for their continuing use, whether found in large numbers and areas commonly known as forests, woodlands, and woodlots or in small groupings and individual trees in suburban and urban settings.</section>
       <section prefix="(2)">"Forestry" includes:<section prefix="(i)">consultation, investigation, evaluation, or planning of any forestry activity that is described under paragraph (1) of this subsection; or</section><section prefix="(ii)">having responsibility for any forestry activity that is described under paragraph (1) of this subsection.</section></section>
-      <section prefix="(3)">"Forestry" does not include:<section prefix="(i)">the services of a tree expert, as defined under &#xA7; 5-415(c) of the Natural Resources Article;</section><section prefix="(ii)">practices and services generally provided by:</section><section prefix="(iii)">the cutting, hauling, handling, or processing of forest products.</section></section>
+      <section prefix="(3)">"Forestry" does not include:<section prefix="(i)">the services of a tree expert, as defined under &#xA7; 5-415(c) of the Natural Resources Article;</section><section prefix="(ii)">practices and services generally provided by:<section prefix="1.">an arboriculturist;</section><section prefix="2.">a gardener;</section><section prefix="3.">a horticulturist;</section><section prefix="4.">a landscape contractor;</section><section prefix="5.">a landscape gardener;</section><section prefix="6.">a nurseryman; or</section><section prefix="7.">an orchardist; or</section></section><section prefix="(iii)">the cutting, hauling, handling, or processing of forest products.</section></section>
     </section>
     <section prefix="(d)">"License" means, unless the context requires otherwise, a license issued by the Board to practice forestry.</section>
     <section prefix="(e)">"Licensed forester" means, unless the context requires otherwise, an individual who is licensed by the Board to practice forestry.</section>

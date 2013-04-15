@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-515" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-515</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>515</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the provisions of paragraph (2) of this subsection, this subtitle does not prohibit an agency of the State or of a county or other governmental authority from acquiring by condemnation land which is under an agricultural preservation easement held by the Foundation or a county agricultural land preservation program if such acquisition is for a public purpose.</section>
       <section prefix="(2)">
-        <section prefix="(i)">In this paragraph, "economic or residential development" does not include:</section>
+        <section prefix="(i)">In this paragraph, "economic or residential development" does not include:<section prefix="1.">Roads;</section><section prefix="2.">Water lines or pipelines;</section><section prefix="3.">Sewer lines or pipelines;</section><section prefix="4.">Power transmission lines or natural gas pipelines; or</section><section prefix="5.">Stormwater or drainage facilities.</section></section>
         <section prefix="(ii)">If the purpose of the condemnation of land under a Foundation easement is either for economic or residential development or parkland, the acquisition of the land shall be subject to approval by the Board of Public Works after review and recommendation of the Foundation.</section>
-        <section prefix="(iii)">The condemning authority shall demonstrate that:</section>
+        <section prefix="(iii)">The condemning authority shall demonstrate that:<section prefix="1.">A greater public purpose exists than that served by the Foundation easement; and</section><section prefix="2.">There is no reasonable alternative site.</section></section>
       </section>
     </section>
     <section prefix="(b)">In the event of condemnation of land under an agricultural preservation easement, the condemning authority, whether State or county, shall pay:<section prefix="(1)">To the landowner the full amount to which the landowner would be entitled if the land was not under easement, less any amount paid to the landowner by the Foundation or a county agricultural land preservation program for the easement; and</section><section prefix="(2)">To the Maryland Agricultural Land Preservation Fund or a county agricultural land preservation program, an amount equal to any amount paid by the Foundation or the county agricultural land preservation program for the easement.</section></section>

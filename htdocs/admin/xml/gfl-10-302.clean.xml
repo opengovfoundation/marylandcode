@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-302" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-302</section_number>
-  <catch_line/>
+  <catch_line>The circuit courts, and the Administration, in the context of an affidavit of support, are the tribu...</catch_line>
+  <order_by>302</order_by>
   <text>The circuit courts, and the Administration, in the context of an affidavit of support, are the tribunals of this State.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-311.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-311.1</section_number>
-  <catch_line/>
+  <catch_line>A person shall register with the Secretary each business location where that person is operating as ...</catch_line>
+  <order_by>311.1</order_by>
   <text>A person shall register with the Secretary each business location where that person is operating as either a packer or distributor.</text>
 </law>

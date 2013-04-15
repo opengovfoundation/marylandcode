@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-704" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">The Department, in consultation with the Department of State Police, shall audit a facility, through an inspection or other investigation, to verify the analysis submitted in accordance with &#xA7; 7-702(c)(2) of this subtitle.</section>
     <section prefix="(b)">If the Department, through an audit, finds that the facility is not in compliance with the hazardous material security standards of this subtitle, the Department shall refer the violation to the Department of State Police for enforcement.</section>

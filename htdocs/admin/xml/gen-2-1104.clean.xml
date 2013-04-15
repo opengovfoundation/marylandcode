@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1104" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, the Administration may not title or register, under Title 13 of the Transportation Article, a new motor vehicle that is subject to the provisions of this subtitle if the motor vehicle does not comply with the provisions of this subtitle or any regulation adopted under this subtitle.</section>
     <section prefix="(b)">Except as otherwise provided in this subtitle, a person may not transfer or attempt to transfer a motor vehicle or motor vehicle engine that is subject to the provisions of this subtitle if the vehicle or engine does not comply with the program.</section>

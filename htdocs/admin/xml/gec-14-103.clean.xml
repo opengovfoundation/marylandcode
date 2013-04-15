@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-103" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-14-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The Department shall attempt to use to the greatest extent feasible minority business enterprises to provide brokerage and investment management services for any fund established under this article consistent with minority business purchasing standards applicable to units of State government under the State Finance and Procurement Article and consistent with the fiduciary duties of the Department.</section>
     <section prefix="(b)">For purposes of this subsection, brokerage and investment management services shall include services relating to all allocated asset classes.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-117" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-6-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">The Department shall develop guidelines for the establishment of comprehensive induction programs for new teachers employed by hard-to-staff schools, as that term is defined by the Department.</section>
     <section prefix="(b)">The guidelines shall include provisions concerning the following:<section prefix="(1)">Mentoring;</section><section prefix="(2)">Professional development training and support;</section><section prefix="(3)">Eligibility criteria for teachers to participate in the program; and</section><section prefix="(4)">The standards to determine which schools are considered hard-to-staff schools.</section></section>

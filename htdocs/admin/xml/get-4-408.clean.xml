@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-408" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-4-408</section_number>
-  <catch_line/>
+  <catch_line>Unless a contrary intent is expressly indicated in the will, a legacy passes to the legatee the enti...</catch_line>
+  <order_by>408</order_by>
   <text>Unless a contrary intent is expressly indicated in the will, a legacy passes to the legatee the entire interest of the testator in the property which is the subject of the legacy.</text>
 </law>

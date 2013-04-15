@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-207" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-1-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">In this section, "planning commission" includes a planning commission or board established under:<section prefix="(1)">Title 2 of this article;</section><section prefix="(2)">Division II of this article; or</section><section prefix="(3)">Article 25A of the Code.</section></section>
     <section prefix="(b)">On or before July 1 of each year, a planning commission shall prepare, adopt, and file an annual report for the previous calendar year with the legislative body.</section>

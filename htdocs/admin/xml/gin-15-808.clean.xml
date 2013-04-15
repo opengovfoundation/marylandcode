@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-808" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-808</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>808</order_by>
   <text>
     <section prefix="(a)">In this section, "home health care" means the continued care and treatment of a covered individual if:<section prefix="(1)">institutionalization of the individual would have been required if home health care was not provided; and</section><section prefix="(2)">the individual's physician establishes and approves in writing the plan of treatment covering the home health care service.</section></section>
     <section prefix="(b)">This section applies to each individual, group, or blanket health insurance policy that is issued or delivered in the State by an insurer or nonprofit health service plan.</section>

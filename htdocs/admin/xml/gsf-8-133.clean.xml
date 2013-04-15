@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-133" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-8-133</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>133</order_by>
   <text>
     <section prefix="(a)">The source of payment for the principal of and interest on each State bond that is sold as part of a State and local facilities loan shall be as provided in the enabling act under which the State bond is issued.</section>
     <section prefix="(b)">This section does not affect any exemption from taxation provided by law.</section>

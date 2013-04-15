@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-202" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-202</section_number>
-  <catch_line/>
+  <catch_line>Except as expressly provided otherwise in this subtitle, this subtitle applies to foreign reciprocal...</catch_line>
+  <order_by>202</order_by>
   <text>Except as expressly provided otherwise in this subtitle, this subtitle applies to foreign reciprocal insurers and to domestic reciprocal insurers.</text>
 </law>

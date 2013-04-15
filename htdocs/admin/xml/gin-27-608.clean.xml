@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-608" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This section applies to:<section prefix="(i)">policies of commercial insurance; and</section><section prefix="(ii)">policies of workers' compensation insurance.</section></section>
-      <section prefix="(2)">This section does not apply to policies:<section prefix="(i)">issued to exempt commercial policyholders, as defined in &#xA7; 11-206(j) of this article; or</section><section prefix="(ii)">for which the renewal policy premium is:</section></section>
+      <section prefix="(2)">This section does not apply to policies:<section prefix="(i)">issued to exempt commercial policyholders, as defined in &#xA7; 11-206(j) of this article; or</section><section prefix="(ii)">for which the renewal policy premium is:<section prefix="1.">in excess of $1,000; and</section><section prefix="2.">an increase over the expiring policy premium of the lesser of 3% or $300.</section></section></section>
     </section>
     <section prefix="(b)">Unless an insurer has given notice of its intention not to renew a policy subject to this section, if the insurer seeks to increase the renewal policy premium, the insurer shall send a notice to the named insured and insurance producer, if any, not less than 45 days prior to the renewal date of the policy.</section>
     <section prefix="(c)">Subject to subsection (d) of this section, a notice under this section shall include:<section prefix="(1)">both the expiring policy premium and the renewal policy premium; and</section><section prefix="(2)">the telephone number for the insurer or insurance producer, if any, together with a statement that the insured may call to request additional information about the premium increase.</section></section>
@@ -19,6 +19,6 @@
     </section>
     <section prefix="(e)">The requirements of this section do not apply to the extent that the premium increase results from:<section prefix="(1)">an increase in the units of exposure;</section><section prefix="(2)">the application of an experience rating plan;</section><section prefix="(3)">the application of a retrospective rating plan;</section><section prefix="(4)">a change made by the insured that increases the insurer's exposure; or</section><section prefix="(5)">an audit of the insured.</section></section>
     <section prefix="(f)">A notice required by this section shall be sent by first-class mail and may be sent together with the renewal policy.</section>
-    <section prefix="(g)">An insurer shall be considered to have met the notice requirement of this section if, not less than 45 days before the effective date of the renewal policy, the insurer has sent:<section prefix="(1)"><section prefix="(i)">to the named insured, a renewal policy that includes the renewal policy premium; and</section><section prefix="(ii)">to the independent insurance producer, if any:</section></section><section prefix="(2)">to the named insured and insurance producer, if any, a written notice of renewal or continuation of coverage that includes the renewal or continuation premium; or</section><section prefix="(3)">to the named insured and insurance producer, if any, a renewal offer that includes a reasonable estimate of the renewal policy premium.</section></section>
+    <section prefix="(g)">An insurer shall be considered to have met the notice requirement of this section if, not less than 45 days before the effective date of the renewal policy, the insurer has sent:<section prefix="(1)"><section prefix="(i)">to the named insured, a renewal policy that includes the renewal policy premium; and</section><section prefix="(ii)">to the independent insurance producer, if any:<section prefix="1.">a copy of the renewal policy that includes the renewal policy premium through postal or electronic mail; or</section><section prefix="2.">at the same time as the insurer sends the renewal policy to the insured, a notice of the availability of the renewal policy through the insurer's online electronic system;</section></section></section><section prefix="(2)">to the named insured and insurance producer, if any, a written notice of renewal or continuation of coverage that includes the renewal or continuation premium; or</section><section prefix="(3)">to the named insured and insurance producer, if any, a renewal offer that includes a reasonable estimate of the renewal policy premium.</section></section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Subject to the notice and hearing provisions of &#xA7; 5-308 of this subtitle, the Department may deny a registration to any applicant, suspend or revoke a registration, or refuse to renew a registration if the Department finds that the applicant or registrant:<section prefix="(1)">has materially falsified an application filed in accordance with or required by this title;</section><section prefix="(2)">has been convicted of a crime under federal law or the law of any state relating to a controlled dangerous substance;</section><section prefix="(3)">has had federal registration suspended or revoked and may no longer manufacture, distribute, or dispense a controlled dangerous substance; or</section><section prefix="(4)">has violated this title.</section></section>
     <section prefix="(b)">The Department may limit revocation or suspension of a registration to the particular controlled dangerous substance for which grounds for revocation or suspension exist.</section>

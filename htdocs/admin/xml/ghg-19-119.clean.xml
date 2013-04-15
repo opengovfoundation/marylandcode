@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-119" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-119</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>119</order_by>
   <text>
     <section prefix="(a)">The Commission shall develop and adopt an institution-specific plan to guide possible capacity reduction.</section>
     <section prefix="(b)">The institution-specific plan shall address:<section prefix="(1)">Accurate bed count data for licensed beds and staffed and operated beds;</section><section prefix="(2)">Cost data associated with all hospital beds and associated services on a hospital-specific basis;</section><section prefix="(3)">Migration patterns and current and future projected population data;</section><section prefix="(4)">Accessibility and availability of beds;</section><section prefix="(5)">Quality of care;</section><section prefix="(6)">Current health care needs, as well as growth trends for such needs, for the area served by each hospital;</section><section prefix="(7)">Hospitals in high growth areas; and</section><section prefix="(8)">Utilization.</section></section>

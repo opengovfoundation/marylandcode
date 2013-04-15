@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-308.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-308.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308.1</order_by>
   <text>
     <section prefix="(a)">On or before September 30 of the renewal year, a person whose third party administrator's registration has expired may reinstate the expired registration by:<section prefix="(1)">filing with the Commissioner the appropriate reinstatement application;</section><section prefix="(2)">paying to the Commissioner the applicable reinstatement fee required under subsection (b) of this section; and</section><section prefix="(3)">complying with the bond requirement of &#xA7; 8-306 of this subtitle.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">The fee for a reinstatement under this section shall be:<section prefix="(i)">the amount charged for a full renewal period for the type of registration held by the person seeking the reinstatement; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">The fee for a reinstatement under this section shall be:<section prefix="(i)">the amount charged for a full renewal period for the type of registration held by the person seeking the reinstatement; and</section><section prefix="(ii)"><section prefix="1.">$25 for reinstatement during the period from July 1 through July 31;</section><section prefix="2.">$50 for reinstatement during the period from August 1 through August 31; and</section><section prefix="3.">$75 for reinstatement during the period from September 1 through September 30.</section></section></section>
       <section prefix="(2)">The Commissioner may limit the reinstatement fee to the amount of the renewal fee in cases where the reinstatement applicant did not make timely renewal because of temporary incapacity, hospitalization, or other hardship.</section>
     </section>
     <section prefix="(c)">A person whose third party administrator's registration has expired is prohibited from acting as a third party administrator until the effective date of reinstatement of the registration.</section>

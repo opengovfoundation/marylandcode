@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1101" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-1101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Discounted present value" means the fair present value of future payments, as determined by discounting payments to the present using the most recently published applicable federal rate for determining the present value of an annuity, as issued by the United States Internal Revenue Service.</section>

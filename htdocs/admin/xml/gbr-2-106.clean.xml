@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-106" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-2-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">There is a Licensing Testing Fund for the Department.</section>
     <section prefix="(b)">The Secretary shall ensure that each unit in the Department that collects fees for a licensing examination given by a national testing association pays all of the fees into the Licensing Testing Fund.</section>

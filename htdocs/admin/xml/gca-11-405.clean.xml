@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-405" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-11-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">A broker-dealer, agent, investment adviser, or investment adviser representative may obtain an initial registration by filing with the Commissioner, or any entity the Commissioner designates by rule or order, an application together with a consent to service of process under &#xA7; 11-802(a) of this title. The application shall contain whatever information the Commissioner by rule or order requires.</section>
     <section prefix="(b)">

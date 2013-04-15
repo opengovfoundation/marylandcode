@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-210" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the Commission may:<section prefix="(1)">adopt regulations and conditions to govern racing and betting on racing in the State; and</section><section prefix="(2)">approve or disapprove:<section prefix="(i)">prices that a licensee may set for admission to a race, a service performed, or an article sold at a track; and</section><section prefix="(ii)">the size of the purse, reward, or stake to be offered at a race.</section></section></section>
     <section prefix="(b)">The Commission may not adopt regulations that allow:<section prefix="(1)">racing a breed of horse not now authorized by law; or</section><section prefix="(2)">holding currently unauthorized:<section prefix="(i)">intertrack betting;</section><section prefix="(ii)">off-track betting; or</section><section prefix="(iii)">telephone betting other than telephone account betting.</section></section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-317" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-317</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>317</order_by>
   <text>
     <section prefix="(a)">A claim based on any of the following may be asserted against the custodial property by proceeding against the custodian in the custodial capacity, whether or not the custodian or the minor is personally liable:<section prefix="(1)">On a contract entered into by a custodian acting in a custodial capacity;</section><section prefix="(2)">For an obligation arising from the ownership or control of custodial property; or</section><section prefix="(3)">On a tort committed during the custodianship.</section></section>
     <section prefix="(b)">A custodian is not personally liable:<section prefix="(1)">On a contract properly entered into in the custodial capacity unless the custodian fails to reveal that capacity and to identify the custodianship in the contract; or</section><section prefix="(2)">For an obligation arising from control of custodial property or for a tort committed during the custodianship unless the custodian is personally at fault.</section></section>

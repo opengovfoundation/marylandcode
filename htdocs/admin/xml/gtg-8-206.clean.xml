@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-206" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-8-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">In computing taxable net earnings, a financial institution with net earnings derived outside the State shall allocate its net earnings, in the manner that the Department requires, based on the gross volume of the transactions of the financial institution inside and outside the State.</section>
     <section prefix="(b)">In computing taxable net earnings, a financial institution shall include only that part of interest derived from the trade or business, in this State, of the subsidiaries of the financial institution, if the financial institution is a holding company because its only activities are to:<section prefix="(1)">maintain and manage intangible investments; and</section><section prefix="(2)">collect and distribute income from intangible investments.</section></section>

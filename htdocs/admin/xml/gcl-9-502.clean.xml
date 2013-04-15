@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-502" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b), a financing statement is sufficient only if it:<section prefix="(1)">Provides the name of the debtor;</section><section prefix="(2)">Provides the name of the secured party or a representative of the secured party; and</section><section prefix="(3)">Indicates the collateral covered by the financing statement.</section></section>
     <section prefix="(b)">Except as otherwise provided in &#xA7; 9-501(b), to be sufficient, a financing statement that covers as-extracted collateral or timber to be cut, or which is filed as a fixture filing and covers goods that are or are to become fixtures, must satisfy subsection (a) and also:<section prefix="(1)">Indicate that it covers this type of collateral;</section><section prefix="(2)">Indicate that it is to be recorded in the land records;</section><section prefix="(3)">Provide a description of the real property to which the collateral is related; and</section><section prefix="(4)">If the debtor does not have an interest of record in the real property, provide the name of a record owner.</section></section>

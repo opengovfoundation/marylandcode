@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-6-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a cause of action at law, whether real, personal, or mixed, survives the death of either party.</section>
     <section prefix="(b)">A cause of action for slander abates upon the death of either party unless an appeal has been taken from a judgment entered in favor of the plaintiff.</section>

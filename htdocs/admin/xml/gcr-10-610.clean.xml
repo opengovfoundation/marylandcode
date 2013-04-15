@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-610" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-610</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>610</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a person giving away an animal:<section prefix="(1)">as an agricultural project;</section><section prefix="(2)">for conservation purposes; or</section><section prefix="(3)">that is intended for slaughter.</section></section>
     <section prefix="(b)">Without the approval of the Secretary of Agriculture, a person may not give away a live animal as:<section prefix="(1)">a prize for, or inducement to enter, a contest, game, or other competition;</section><section prefix="(2)">an inducement to enter a place of amusement; or</section><section prefix="(3)">an incentive to make a business agreement if the offer is to attract trade.</section></section>

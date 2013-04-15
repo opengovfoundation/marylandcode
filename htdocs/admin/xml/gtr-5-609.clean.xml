@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-609" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">If an airport owned by a political subdivision is located wholly or partly outside of the political subdivision, the adoption of airport zoning regulations under this subtitle is subject to this section.</section>
     <section prefix="(b)">Before any airport zoning regulation or amendment adopted under this section is effective, it shall be submitted to and approved by:<section prefix="(1)">The governing body of each other political subdivision in which any part of the airport is located; or</section><section prefix="(2)">If one is created under &#xA7; 5-605 of this subtitle, a joint board of the political subdivisions in which any part of the airport is located.</section></section>

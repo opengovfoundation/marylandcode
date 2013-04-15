@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">If any warranty provided for in this subtitle is breached, the court may award legal or equitable relief, or both, as justice requires.</section>
     <section prefix="(b)">Unless an express warranty specifies a longer period of time, the warranties provided for in this subtitle expire:<section prefix="(1)">In the case of a dwelling completed at the time of the delivery of the deed to the original purchaser, one year after the delivery or after the taking of possession by the original purchaser, whichever occurs first;</section><section prefix="(2)">In the case of a dwelling not completed at the time of delivery of the deed to the original purchaser, one year after the date of the completion or taking of possession by the original purchaser, whichever occurs first; and</section><section prefix="(3)">In the case of structural defects, two years after the date of completion, delivery, or taking possession, whichever occurs first.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1902" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-9-1902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1902</order_by>
   <text>
     <section prefix="(a)">In this section, "public facilities" means schools, roads, water, wastewater, and stormwater management facilities, and other infrastructure supported by the federal, State, or local government for public purposes.</section>
     <section prefix="(b)">In addition to the authority granted in Title 7, Subtitle 1 of this article, the county commissioners may provide by local law for the provision and financing of adequate public facilities concurrently with the need for those facilities.</section>

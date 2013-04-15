@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-108" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-18-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">In this section, "rental vehicle company" means a person that rents a motor vehicle to a consumer.</section>
     <section prefix="(b)">A rental vehicle company may charge a consumer a separately stated fee to recover the following costs incurred by the rental vehicle company:<section prefix="(1)">Any portion of the rental vehicle company's titling and registration costs incurred under Title 13 of this article for its fleet of rental vehicles;</section><section prefix="(2)">Any concession fees paid to a government owned or operated:<section prefix="(i)">Airport; or</section><section prefix="(ii)">Other entity;</section></section><section prefix="(3)">Any consolidated facility fees imposed by a government owned or operated entity to pay for the use of the facility by the rental vehicle company or otherwise related to the use of the facility; or</section><section prefix="(4)">Any other fee or charge imposed by a governmental entity.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-111" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">If a certificate of title is lost, the owner or the legal representative of the owner named in the certificate, as shown by the records of the Administration, promptly shall apply for and, after furnishing information satisfactory to the Administration and payment of the required fee, obtain a duplicate certificate of title.</section>
     <section prefix="(b)">If a certificate of title is stolen, the owner or the legal representative of the owner named in the certificate, as shown by the records of the Administration, promptly shall apply for and, after furnishing information satisfactory to the Administration and payment of the required fee, obtain a duplicate certificate of title.</section>

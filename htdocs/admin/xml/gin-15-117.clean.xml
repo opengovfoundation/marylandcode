@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-117" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">This section applies to insurers and nonprofit health service plans that issue or deliver individual hospital or major medical insurance policies or group or blanket health insurance policies in the State.</section>
     <section prefix="(b)">An entity subject to this section, by contract or in any other manner, may not require a health care provider to indemnify the entity or hold the entity harmless from a coverage decision or negligent act of the entity.</section>

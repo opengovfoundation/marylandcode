@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-310" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-15-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">In reviewing an application for licensure or in investigating an allegation brought under &#xA7; 15-314 of this subtitle, the Committee may request the Board to direct, or the Board on its own initiative may direct the physician assistant to submit to an appropriate examination.</section>
     <section prefix="(b)">In return for the privilege given to the physician assistant to perform delegated medical acts in the State, the physician assistant is deemed to have:<section prefix="(1)">Consented to submit to an examination under this section, if requested by the Board in writing; and</section><section prefix="(2)">Waived any claim of privilege as to the testimony or examination reports.</section></section>

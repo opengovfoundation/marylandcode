@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-103.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-103.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103.1</order_by>
   <text>
     <section prefix="(a)">The Secretary may establish a farm quarantine and issue appropriate orders necessary to control or restrict the use of farmland, crops, livestock, poultry, or a farm product existing on a farm that:<section prefix="(1)">Has been exposed to or contaminated by a radiological or chemical toxic material or agent; or</section><section prefix="(2)">Is infected or infested with a disease, pest, or pathogen.</section></section>
     <section prefix="(b)">Before establishing a quarantine for a farm, the Secretary shall consult with the Governor, the Secretary of Health and Mental Hygiene, and the Secretary of the Environment on issues of human health and the environment.</section>

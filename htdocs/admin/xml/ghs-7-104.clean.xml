@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-104" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-7-104</section_number>
-  <catch_line/>
+  <catch_line>A household qualifies as an assisted household if its gross annual income does not exceed:...</catch_line>
+  <order_by>104</order_by>
   <text>A household qualifies as an assisted household if its gross annual income does not exceed:<section prefix=""><section prefix="(1)">upper income limits imposed by any federal, State, or local government program providing financial assistance to the assisted project; or</section><section prefix="(2)">upper income limits that the Secretary establishes, which may vary for a particular project or a particular area of the State to the extent necessary to achieve the purposes of this title.</section></section></text>
 </law>

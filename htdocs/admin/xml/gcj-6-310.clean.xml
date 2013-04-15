@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-310" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-6-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">In this section, "administrator" includes the sheriff, director, superintendent, warden, or other officer in charge of a local detention center.</section>
     <section prefix="(b)">The administrator may designate employees of the local detention center to serve a criminal summons, warrant, or charging document.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-701" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the driver of a vehicle approaches a railroad grade crossing under any of the circumstances stated in paragraph (2) of this subsection, the driver:<section prefix="(i)">Shall stop within 50 feet but not less than 15 feet from the nearest rail in the crossing; and</section><section prefix="(ii)">May not proceed until he can do so safely.</section></section>

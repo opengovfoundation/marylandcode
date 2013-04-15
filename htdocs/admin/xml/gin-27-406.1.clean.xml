@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-406.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-406.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406.1</order_by>
   <text>
     <section prefix="(a)">In this section, "individual surety" means a person that:<section prefix="(1)">issues surety bonds or contracts of surety insurance; and</section><section prefix="(2)">does not have a certificate of authority issued by the Commissioner.</section></section>
     <section prefix="(b)">It is a fraudulent insurance act for an individual surety to solicit or issue a surety bond or contract of surety insurance except as provided in:<section prefix="(1)">&#xA7;&#xA7; 13-207 and 17-104 of the State Finance and Procurement Article; and</section><section prefix="(2)">for an uncompensated person, &#xA7;&#xA7; 5-203 and 5-204 of the Criminal Procedure Article.</section></section>

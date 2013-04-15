@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-707" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Advisory Council consists of 7 members.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The Secretary shall appoint the members from a list submitted to the Secretary by:</section>
+        <section prefix="(i)">The Secretary shall appoint the members from a list submitted to the Secretary by:<section prefix="1.">Appropriate academic or research facilities having expertise in this area;</section><section prefix="2.">The Chief Medical Examiner; and</section><section prefix="3.">The Secretary of the Department of the Environment.</section></section>
         <section prefix="(ii)">The number of names on the list shall be 3 times the number of vacancies.</section>
       </section>
     </section>

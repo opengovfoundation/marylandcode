@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-201" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Commercial building" means any building that:<section prefix="(1)">is used primarily to carry on a business whether or not for profit;</section><section prefix="(2)">is not a residential building; and</section><section prefix="(3)">is not used primarily to manufacture or produce raw materials, products, or agricultural commodities.</section></section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">"Community development project" means a project that qualifies under &#xA7; 4-217 of this subtitle.</section>
     <section prefix="(e)">
       <section prefix="(1)">"Development costs" means the costs that the Department considers reasonable and necessary to carry out:<section prefix="(i)">a community development project;</section><section prefix="(ii)">an energy conservation project;</section><section prefix="(iii)">a home improvement project;</section><section prefix="(iv)">an infrastructure project;</section><section prefix="(v)">a public purpose project;</section><section prefix="(vi)">a solar energy project; or</section><section prefix="(vii)">a special housing facility.</section></section>
-      <section prefix="(2)">"Development costs" includes:<section prefix="(i)">the costs of:</section><section prefix="(ii)">expenses incurred in connection with initial occupancy or operation of the project;</section><section prefix="(iii)">an allocable portion of the administrative and operating expenses of the Department;</section><section prefix="(iv)">the cost of financing the project, including interest on bonds and notes issued to finance the project from the date issued to the date the Department determines that the project is substantially occupied or substantially in operation; and</section><section prefix="(v)">the cost of other items, including indemnity and surety bonds, premiums on insurance, fees, relocation costs, and charges and expenses of trustees, depositories, and paying agents for bonds and notes issued.</section></section>
+      <section prefix="(2)">"Development costs" includes:<section prefix="(i)">the costs of:<section prefix="1.">studies, surveys, plans and specifications, and architectural, engineering, or other special services;</section><section prefix="2.">acquisition of land and any buildings on the land;</section><section prefix="3.">site preparation and development, construction, reconstruction, rehabilitation, and improvement; and</section><section prefix="4.">acquisition of machinery, equipment, and furnishings;</section></section><section prefix="(ii)">expenses incurred in connection with initial occupancy or operation of the project;</section><section prefix="(iii)">an allocable portion of the administrative and operating expenses of the Department;</section><section prefix="(iv)">the cost of financing the project, including interest on bonds and notes issued to finance the project from the date issued to the date the Department determines that the project is substantially occupied or substantially in operation; and</section><section prefix="(v)">the cost of other items, including indemnity and surety bonds, premiums on insurance, fees, relocation costs, and charges and expenses of trustees, depositories, and paying agents for bonds and notes issued.</section></section>
     </section>
     <section prefix="(f)">"Director" means the Director of the Administration.</section>
     <section prefix="(g)">"Energy conservation project" means a project that qualifies under &#xA7; 4-218 of this subtitle.</section>

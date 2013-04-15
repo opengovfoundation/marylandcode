@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Unless the State objects and shows cause why a record should not be expunged, if the State enters a nolle prosequi as to all charges in a criminal case within the jurisdiction of the District Court with which a defendant has not been served, the District Court may order expungement of each court record, police record, or other record that the State or a political subdivision of the State keeps as to the charges.</section>
     <section prefix="(b)">The District Court may not assess any costs against a defendant for a proceeding under subsection (a) of this section.</section>

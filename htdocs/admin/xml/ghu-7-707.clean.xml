@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-707" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-7-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person may not deny or interfere with admittance to or enjoyment of a public place, accommodation, or conveyance described in &#xA7; 7-704 of this subtitle or otherwise interfere with the rights of a blind, visually impaired, deaf, or hard of hearing individual under this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-401" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Home health agency" means a health-related institution, organization, or a part of an institution that:<section prefix="(1)">Is owned or operated by 1 or more persons, whether or not for profit and whether as a public or private enterprise; and</section><section prefix="(2)">Directly or through a contractual arrangement, provides to a sick or disabled individual in the residence of that individual skilled nursing services, home health aid services, and at least one other home health care service that are centrally administered.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c0" order_by="" level="1"/>
-    <unit label="chapter" identifier="44" order_by="" level="2"/>
+    <unit label="article" identifier="c0" order_by="" level="1">Declaration of Rights</unit>
   </structure>
   <section_number>c0-44</section_number>
-  <catch_line/>
+  <catch_line>That the provisions of the Constitution of the United States, and of this State, apply, as well in t...</catch_line>
+  <order_by>44</order_by>
   <text>That the provisions of the Constitution of the United States, and of this State, apply, as well in time of war, as in time of peace; and any departure therefrom, or violation thereof, under the plea of necessity, or any other plea, is subversive of good Government, and tends to anarchy and despotism.</text>
 </law>

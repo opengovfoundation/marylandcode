@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-108" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">In this section, "board" means an appeal board established under this section.</section>
     <section prefix="(b)">
@@ -24,10 +24,10 @@
         <section prefix="(i)">Within 30 days after the filing of an appeal to the board by a facility that the Department has determined owes money to the State, the Department shall recalculate the amount that is due to the State based on the field verification, exclusive of the amount in controversy which is subject to the appeal, and shall notify the facility of that amount.</section>
         <section prefix="(ii)">Subject to the provisions of subparagraphs (iii) and (iv) of this paragraph, payment for the amount due the State, if any, after the recalculation shall be made within 60 days after the facility receives notification of the recalculation.</section>
         <section prefix="(iii)">If a facility requests a longer payment schedule within 60 days after the facility receives notification of the recalculation, the Department may establish, after consultation with the facility, a longer payment schedule.</section>
-        <section prefix="(iv)">The Department shall establish a longer payment schedule if, in the Department's reasonable judgment, failure to grant a longer payment schedule would:</section>
+        <section prefix="(iv)">The Department shall establish a longer payment schedule if, in the Department's reasonable judgment, failure to grant a longer payment schedule would:<section prefix="1.">Result in financial hardship to the facility; or</section><section prefix="2.">Have an adverse effect on the quality of patient care furnished by the facility.</section></section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">If a facility files an appeal, the portion of the amount in controversy that is actually paid shall be subject to an award of interest that is:</section>
+        <section prefix="(i)">If a facility files an appeal, the portion of the amount in controversy that is actually paid shall be subject to an award of interest that is:<section prefix="1.">Calculated from the date the appeal was filed through the date of payment; and</section><section prefix="2.">Determined in accordance with a rate of interest established by regulation.</section></section>
         <section prefix="(ii)">Interest paid by a facility under subparagraph (i) of this paragraph is not an allowable cost.</section>
         <section prefix="(iii)">Interest paid to a facility under subparagraph (i) of this paragraph is not subject to any offset or other reduction against otherwise allowable costs.</section>
       </section>

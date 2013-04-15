@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-6C-03" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-6C-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">A corporation may elect to be a benefit corporation under this subtitle by amending or including in the charter of the corporation a statement that the corporation is a benefit corporation.</section>
     <section prefix="(b)">An amendment described in subsection (a) of this section shall be approved in accordance with Title 2, Subtitle 6 of this article.</section>

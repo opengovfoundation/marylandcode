@@ -1,23 +1,23 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-912" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-912</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>912</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, "net proceeds" means the total sales price paid to the transferor less:</section>
+        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, "net proceeds" means the total sales price paid to the transferor less:<section prefix="1.">debts of the transferor secured by a mortgage or other lien on the property being transferred that are being paid upon the sale or exchange of the property; and</section><section prefix="2.">other expenses of the transferor arising out of the sale or exchange of the property and disclosed on a settlement statement prepared in connection with the sale or exchange of the property, not including adjustments in favor of the transferee.</section></section>
         <section prefix="(ii)">"Net proceeds" does not include adjustments in favor of the transferor that are disclosed on a settlement statement prepared in connection with the sale or exchange of the property.</section>
       </section>
       <section prefix="(3)">"Nonresident entity" means an entity that:<section prefix="(i)">is not formed under the laws of the State; and</section><section prefix="(ii)">is not qualified by or registered with the Department of Assessments and Taxation to do business in the State.</section></section>
       <section prefix="(4)">"Resident entity" means an entity that:<section prefix="(i)">is formed under the laws of the State; or</section><section prefix="(ii)">is formed under the laws of another state and is qualified by or registered with the Department of Assessments and Taxation to do business in the State.</section></section>
       <section prefix="(5)">"Total payment" means the net proceeds of a sale actually paid to a transferor, including the fair market value of any property transferred to the transferor.</section>
-      <section prefix="(6)">"Transfer pursuant to a deed in lieu of foreclosure" includes:<section prefix="(i)">a transfer by the owner of the property to:</section><section prefix="(ii)">a transfer by any of the persons described in item (i) of this paragraph to a subsequent purchaser for value.</section></section>
-      <section prefix="(7)">"Transfer pursuant to a foreclosure of a mortgage, deed of trust, or other lien instrument" includes:<section prefix="(i)">with respect to the foreclosure of a mortgage:</section><section prefix="(ii)">with respect to the foreclosure of a deed of trust:</section><section prefix="(iii)">with respect to the foreclosure of any other lien instrument:</section></section>
+      <section prefix="(6)">"Transfer pursuant to a deed in lieu of foreclosure" includes:<section prefix="(i)">a transfer by the owner of the property to:<section prefix="1.">with respect to a deed in lieu of foreclosure of a mortgage, the mortgagee, the assignee of the mortgage, or any designee or nominee of the mortgagee or assignee of the mortgage;</section><section prefix="2.">with respect to a deed in lieu of foreclosure of a deed of trust, the holder of the debt or other obligation secured by the deed of trust or any designee, nominee, or assignee of the holder of the debt or other obligation secured by the deed of trust;</section><section prefix="3.">with respect to a deed in lieu of foreclosure of any other lien instrument, the holder of the debt or other obligation secured by the lien instrument or any designee, nominee, or assignee of the holder of the debt secured by the lien instrument; and</section></section><section prefix="(ii)">a transfer by any of the persons described in item (i) of this paragraph to a subsequent purchaser for value.</section></section>
+      <section prefix="(7)">"Transfer pursuant to a foreclosure of a mortgage, deed of trust, or other lien instrument" includes:<section prefix="(i)">with respect to the foreclosure of a mortgage:<section prefix="1.">a transfer by the mortgagee, the assignee of the mortgage, the attorney named in the mortgage, or the attorney or trustee conducting a foreclosure sale pursuant to the mortgage to:</section><section prefix="2.">a transfer by any of the persons described in item 1 of this item to a subsequent purchaser for value;</section></section><section prefix="(ii)">with respect to the foreclosure of a deed of trust:<section prefix="1.">a transfer by the trustees, successor trustees, substituted trustees under the deed of trust, or trustees conducting a foreclosure sale pursuant to the deed of trust to:</section><section prefix="2.">a transfer by any of the persons described in item 1 of this item to a subsequent purchaser for value; and</section></section><section prefix="(iii)">with respect to the foreclosure of any other lien instrument:<section prefix="1.">a transfer by the party authorized to make the sale to:</section><section prefix="2.">a transfer by any of the persons described in item 1 of this item to a subsequent purchaser for value.</section></section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">For every deed or other instrument of writing that effects a change of ownership on the assessment books under the Tax - Property Article and for which a payment is required under subsection (c) of this section, the total payment shall be described on the form that the Comptroller specifies by regulation.</section>

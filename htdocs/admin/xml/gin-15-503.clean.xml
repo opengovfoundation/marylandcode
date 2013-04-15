@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-503" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-503</section_number>
-  <catch_line/>
+  <catch_line>An insurer or nonprofit health service plan may not deny, cancel, or refuse to renew an individual, ...</catch_line>
+  <order_by>503</order_by>
   <text>An insurer or nonprofit health service plan may not deny, cancel, or refuse to renew an individual, group, or blanket health insurance policy solely because the insured has been exposed to diethylstilbestrol, commonly known as DES.</text>
 </law>

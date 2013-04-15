@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-105" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-2-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">In a controversy in the court, an issue of fact may be determined by the court.</section>
     <section prefix="(b)">At the request of an interested person made within the time determined by the court, the issue of fact may be determined by a court of law. When the request is made before the court has determined the issue of fact, the court shall transmit the issue to a court of law.</section>

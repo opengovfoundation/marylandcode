@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-110" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Anne Arundel County Board consists of 9 members who shall be appointed as follows:<section prefix="(i)">3 from the county at large;</section><section prefix="(ii)">1 each from legislative districts 30, 31, 32, 33, and that portion of legislative district 21 that lies within Anne Arundel County; and</section><section prefix="(iii)">1 student member.</section></section>
@@ -21,7 +21,7 @@
         <section prefix="(i)">The Commission consists of 11 members who shall be appointed in accordance with this paragraph.</section>
         <section prefix="(ii)">The Governor shall appoint five members, one from each legislative district that lies in whole or in part in Anne Arundel County.</section>
         <section prefix="(iii)">The County Executive of Anne Arundel County shall appoint one member from the county at large.</section>
-        <section prefix="(iv)">The following organizations shall each appoint one member:</section>
+        <section prefix="(iv)">The following organizations shall each appoint one member:<section prefix="1.">The Teachers Association of Anne Arundel County;</section><section prefix="2.">The Annapolis and Anne Arundel County Chamber of Commerce;</section><section prefix="3.">The Anne Arundel County Council of Parent Teacher Associations;</section><section prefix="4.">The Anne Arundel County Community College Board of Trustees; and</section><section prefix="5.">The Association of Educational Leaders (AEL).</section></section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">The Governor shall designate as chair of the Commission one of the five members appointed by the Governor under subsection (b)(2)(ii) of this section.</section>
@@ -42,7 +42,7 @@
       <section prefix="(4)">If the voters reject the retention of the member, or the vote is tied:<section prefix="(i)">The position shall become vacant 10 days after certification of the election returns; and</section><section prefix="(ii)">The member serves until a successor is appointed and qualifies.</section></section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">The student member shall:<section prefix="(i)">Be a regularly enrolled senior year student of good character and in good standing in an Anne Arundel County public high school;</section><section prefix="(ii)">Be selected in the student's junior year by a method selected by the Chesapeake Regional Association of Student Councils of Anne Arundel County;</section><section prefix="(iii)"/></section>
+      <section prefix="(1)">The student member shall:<section prefix="(i)">Be a regularly enrolled senior year student of good character and in good standing in an Anne Arundel County public high school;</section><section prefix="(ii)">Be selected in the student's junior year by a method selected by the Chesapeake Regional Association of Student Councils of Anne Arundel County;</section><section prefix="(iii)"><section prefix="1.">Serve a term of 1 year; and</section><section prefix="2.">Continue to serve after graduation and until a successor is appointed and qualifies.</section></section></section>
       <section prefix="(2)">If a vacancy in the position of the student member occurs during the term of the student member, the Chesapeake Regional Association of Student Councils shall:<section prefix="(i)">Conduct a special election at its next general meeting; and</section><section prefix="(ii)">By utilizing the same method that it used to select the previous student member of the board, select another student member to fill the vacancy.</section></section>
     </section>
     <section prefix="(e)">A board member who does not maintain the residency qualification shall be replaced as a member.</section>

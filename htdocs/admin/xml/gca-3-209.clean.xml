@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-209" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">At any time after a petition for appraisal is filed, the court may require the objecting stockholders parties to the proceeding to submit their stock certificates to the clerk of the court for notation on them that the appraisal proceeding is pending. If a stockholder fails to comply with the order, the court may dismiss the proceeding as to him or grant other appropriate relief.</section>
     <section prefix="(b)">If any stock represented by a certificate which bears a notation is subsequently transferred, the new certificate issued for the stock shall bear a similar notation and the name of the original objecting stockholder. The transferee of this stock does not acquire rights of any character with respect to the stock other than the rights of the original objecting stockholder.</section>

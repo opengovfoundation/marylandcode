@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-841" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-841</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>841</order_by>
   <text>
     <section prefix="(a)">The County Council has no legal duty to verify the accuracy of any disclosure statement filed under this Part V.</section>
     <section prefix="(b)">Failure by any person, including the Chief Hearing Examiner of the Office of Zoning and Administrative Appeals, to comply with this Part V is not grounds for invalidation of any decision by the County Council, sitting as the District Council, for which a disclosure statement is required.</section>

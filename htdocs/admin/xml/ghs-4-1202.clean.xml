@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1202" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-1202</section_number>
-  <catch_line/>
+  <catch_line>The General Assembly finds that:...</catch_line>
+  <order_by>1202</order_by>
   <text>The General Assembly finds that:<section prefix=""><section prefix="(1)">there is a shortage of decent, safe, and sanitary rental housing for households of lower income;</section><section prefix="(2)">the private sector often cannot develop, improve, operate, and maintain housing for households of lower income; and</section><section prefix="(3)">to address this shortage, a partnership is needed among the State, political subdivisions, housing authorities, the private sector, and households of lower income to develop, operate, and maintain housing for households of lower income.</section></section></text>
 </law>

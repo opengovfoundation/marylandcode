@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-20B-11" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9-20B-11</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>11</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly make or cause to be made any false statement or report in any document required to be furnished to the Administration by any agreement relating to a grant, loan, or other financial assistance.</section>
     <section prefix="(b)">A person applying for a grant, loan, or other financial assistance through the Program may not knowingly make or cause to be made any false statements for the purpose of influencing any action of the Administration on an application or for the purpose of influencing any action of the Administration affecting any grant, loan, or other financial assistance already provided.</section>

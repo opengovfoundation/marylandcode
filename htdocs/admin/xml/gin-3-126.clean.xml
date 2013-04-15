@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-126" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-126</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>126</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A foreign insurer authorized to engage in the insurance business in the State may become a domestic insurer by:<section prefix="(i)">complying with all requirements of the law relating to the formation and organization of a domestic insurer; and</section><section prefix="(ii)">designating its principal place of business in the State.</section></section>

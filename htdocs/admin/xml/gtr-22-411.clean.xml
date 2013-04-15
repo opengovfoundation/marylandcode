@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-411" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">Every trailer or semitrailer of a gross weight of 3,000 pounds or more, when operated on a highway, shall be equipped with a permanent metal frame attached to the underside of the rear of the trailer.</section>
     <section prefix="(b)">The frame may not be any wider than the width of the trailer and shall be not more than 30 inches above the highway when moving and constructed of heavy gauge steel.</section>

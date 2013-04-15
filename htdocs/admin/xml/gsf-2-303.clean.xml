@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-303" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Any authorized officer, after filing with the Secretary of State the manual signature of the authorized officer certified under oath, may execute or cause to be executed with a facsimile signature instead of a manual signature:<section prefix="(1)">any public security, if the signature of at least 1 authorized officer required or permitted to be placed on the public security is manually subscribed; and</section><section prefix="(2)">any instrument of payment.</section></section>
     <section prefix="(b)">If a public security is required to be manually signed by a trustee, issuing agent, fiscal agent, registrar, or other agent or custodian, any other signature required or permitted to be placed on the public security may be a facsimile signature.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-328" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-328</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>328</order_by>
   <text>
     <section prefix="(1)">In a sale by auction if goods are put up in lots each lot is the subject of a separate sale.</section>
     <section prefix="(2)">A sale by auction is complete when the auctioneer so announces by the fall of the hammer or in other customary manner. Where a bid is made while the hammer is falling in acceptance of a prior bid the auctioneer may in his discretion reopen the bidding or declare the goods sold under the bid on which the hammer was falling.</section>

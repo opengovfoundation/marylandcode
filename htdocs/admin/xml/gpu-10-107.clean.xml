@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-107" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-10-107</section_number>
-  <catch_line/>
+  <catch_line>The Commission may issue a temporary license and, if applicable, a badge to an applicant for a perio...</catch_line>
+  <order_by>107</order_by>
   <text>The Commission may issue a temporary license and, if applicable, a badge to an applicant for a period not exceeding 30 days.</text>
 </law>

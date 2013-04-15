@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-512" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">Any stockholder, holder of a voting trust certificate in a corporation, or his agent, on written request, may inspect and copy during usual business hours any of the following corporate documents:<section prefix="(1)">Bylaws;</section><section prefix="(2)">Minutes of the proceedings of the stockholders;</section><section prefix="(3)">Annual statements of affairs; and</section><section prefix="(4)">Voting trust agreements deposited with the corporation at the corporation's principal office in accordance with &#xA7; 2-510(2) of this subtitle.</section></section>
     <section prefix="(b)">Within 7 days after a request for documents made under subsection (a) of this section is presented to an officer or the resident agent of a corporation, the corporation shall have the requested documents available on file at its principal office.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1630" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1630</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1630</order_by>
   <text>
     <section prefix="(a)">A pharmacy benefits manager shall establish a reasonable internal review process for a pharmacy to request the review of a failure to pay the contractual reimbursement amount of a submitted claim.</section>
     <section prefix="(b)">A pharmacy may request a pharmacy benefits manager to review a failure to pay the contractual reimbursement amount of a claim within 180 calendar days after the date the submitted claim was paid by the pharmacy benefits manager.</section>

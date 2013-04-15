@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-708" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-708</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>708</order_by>
   <text>
     <section prefix="(a)">A contract imposes an obligation on each party not to impair the other's expectation of receiving due performance. If reasonable grounds for insecurity arise with respect to the performance of either party, the aggrieved party may:<section prefix="(1)">Demand in a record adequate assurance of due performance; and</section><section prefix="(2)">Until that assurance is received, if commercially reasonable, suspend any performance, other than with respect to contractual use terms, for which the agreed return performance has not been received.</section></section>
     <section prefix="(b)">Between merchants, the reasonableness of grounds for insecurity and the adequacy of any assurance offered is determined according to commercial standards.</section>

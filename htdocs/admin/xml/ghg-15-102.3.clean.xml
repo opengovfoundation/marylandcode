@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-102.3" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-102.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102.3</order_by>
   <text>
     <section prefix="(a)">The provisions of &#xA7; 15-112 of the Insurance Article (Provider panels) shall apply to managed care organizations in the same manner they apply to carriers.</section>
     <section prefix="(b)">The provisions of &#xA7; 15-1005 of the Insurance Article shall apply to managed care organizations in the same manner they apply to health maintenance organizations.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-105" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-14-105</section_number>
-  <catch_line/>
+  <catch_line>The interest or other income from the investment of any funds of the University shall be credited to...</catch_line>
+  <order_by>105</order_by>
   <text>The interest or other income from the investment of any funds of the University shall be credited to the University, provided that any interest estimated to be earned on the State appropriation must be offset by an equivalent reduction in State General Fund support.</text>
 </law>

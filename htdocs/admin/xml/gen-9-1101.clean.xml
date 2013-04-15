@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1101" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1101</order_by>
   <text>
     <section prefix="(a)">In Garrett County, before constructing on private property a building that will need a septic tank disposal system, the person who proposes to construct the building shall obtain a septic tank permit from the Garrett County Health Department.</section>
     <section prefix="(b)">An applicant for a septic tank permit under this section shall submit to the Garrett County Health Department:<section prefix="(1)">An application on the form that the Garrett County Health Department requires; and</section><section prefix="(2)">A plan for the septic tank system.</section></section>

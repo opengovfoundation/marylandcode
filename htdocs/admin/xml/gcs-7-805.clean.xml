@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-805" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">In this section, "victim" means an individual who suffers personal physical injury or death as a direct result of a crime or, if the victim is deceased, a designated family member of the victim.</section>
     <section prefix="(b)">If the victim made a written request to the Department for notification and maintains a current address on file with the Department or the victim or the victim's representative filed a notification request form under &#xA7; 11-104 of the Criminal Procedure Article, the Department shall notify the victim or the victim's designated representative in writing that an inmate sentenced to the Division of Correction is being considered for a:<section prefix="(1)">commutation of sentence;</section><section prefix="(2)">pardon; or</section><section prefix="(3)">remission of sentence.</section></section>

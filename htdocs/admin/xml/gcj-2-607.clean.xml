@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-607" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The administrative judge of each district, with the approval of the Chief Judge of the District Court, may appoint the number of commissioners necessary to perform the functions of the office within each county.</section>
@@ -25,7 +25,7 @@
       <section prefix="(6)">
         <section prefix="(i)">An individual may file an application for a statement of charges with a District Court commissioner.</section>
         <section prefix="(ii)">On review of an application for a statement of charges, a District Court commissioner may issue a summons or an arrest warrant.</section>
-        <section prefix="(iii)">A District Court commissioner may issue an arrest warrant only on a finding that:</section>
+        <section prefix="(iii)">A District Court commissioner may issue an arrest warrant only on a finding that:<section prefix="1.">There is probable cause to believe that the defendant committed the offense charged in the charging document; and</section><section prefix="2."/></section>
       </section>
     </section>
     <section prefix="(d)">

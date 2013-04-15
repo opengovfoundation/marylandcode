@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-19-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">Within 90 days after termination of the contract the supplier shall repurchase from the dealer all inventory, previously purchased from the supplier, that remains unsold on the date the contract terminates.</section>
     <section prefix="(b)">
       <section prefix="(1)">The supplier shall pay the dealer:<section prefix="(i)">100 percent of the current net price of all new, unused, unsold, undamaged, and complete farm, construction, utility, and industrial equipment, implements, machinery, outdoor power equipment, outdoor power sports equipment, and attachments;</section><section prefix="(ii)">90 percent of the current net price of all new, unused, and undamaged repair parts and superseded parts;</section><section prefix="(iii)">75 percent of the net cost of all specialized repair tools purchased in the previous 3 years and 50 percent of the net cost of all specialized repair tools purchased in the previous 4 through 6 years in accordance with the requirements of the supplier and held by the dealer on the date of termination, if the specialized repair tools are unique to the supplier's product line and are in complete and resalable condition;</section><section prefix="(iv)">The agreed depreciated value of farm implements, machinery, utility and industrial equipment, outdoor power equipment, and outdoor power sports equipment used in demonstrations, including equipment leased primarily for demonstration or lease; and</section><section prefix="(v)">At its amortized value, the price of any specific data processing hardware and software and telecommunications equipment that the supplier required the dealer to purchase within the past 5 years.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">The supplier shall pay:</section>
+        <section prefix="(i)">The supplier shall pay:<section prefix="1.">The cost of shipping the inventory from the dealer's location; and</section><section prefix="2.">The dealer 10 percent of the current net price of all new, unused, and undamaged repair parts returned to cover the cost of handling, packing, and loading.</section></section>
         <section prefix="(ii)">The supplier may perform the handling, packing, and loading of repair parts instead of paying the 10 percent for the services.</section>
         <section prefix="(iii)">The dealer and the supplier may each furnish a representative to inspect all parts and certify the acceptability of any part when packed for shipment.</section>
       </section>

@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-111" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">This section applies to an applicant who:<section prefix="(1)">Holds a learner's instructional permit under &#xA7; 16-105(d) of this subtitle; or</section><section prefix="(2)">Qualifies for a provisional license under subsection (e) of this section.</section></section>
     <section prefix="(b)">An applicant is entitled to receive a provisional license if the applicant:<section prefix="(1)">Meets the minimum age required under &#xA7; 16-103(c)(2) of this subtitle;</section><section prefix="(2)">Satisfies the learner's instructional permit requirements under &#xA7; 16-105(d)(2), (3), or (4) of this subtitle;</section><section prefix="(3)">Passes a driver skills or driver road examination administered under this subtitle;</section><section prefix="(4)">Surrenders any learner's instructional permit issued to the applicant; and</section><section prefix="(5)">Pays the fee established under this subtitle.</section></section>
     <section prefix="(c)">A provisional license shall be clearly identifiable as a provisional license.</section>
     <section prefix="(d)">
-      <section prefix="(1)">An individual who holds a provisional license may not receive a license sooner than 18 months following the later of:<section prefix="(i)">The date the individual first obtains the provisional license;</section><section prefix="(ii)">The date the individual is convicted of, or granted probation before judgment under &#xA7; 6-220 of the Criminal Procedure Article for:</section><section prefix="(iii)">The date of restoration of an individual's provisional driver's license or driving privilege that has been suspended, revoked, or canceled for any reason.</section></section>
+      <section prefix="(1)">An individual who holds a provisional license may not receive a license sooner than 18 months following the later of:<section prefix="(i)">The date the individual first obtains the provisional license;</section><section prefix="(ii)">The date the individual is convicted of, or granted probation before judgment under &#xA7; 6-220 of the Criminal Procedure Article for:<section prefix="1.">A moving violation; or</section><section prefix="2.">A violation of a provisional driver's license restriction under &#xA7; 16-113(i) of this subtitle; or</section></section><section prefix="(iii)">The date of restoration of an individual's provisional driver's license or driving privilege that has been suspended, revoked, or canceled for any reason.</section></section>
       <section prefix="(2)">Notwithstanding any other provision of this subtitle, the Administration may issue a license to an individual who was otherwise eligible to receive a license at the time a moving violation was committed.</section>
     </section>
     <section prefix="(e)">

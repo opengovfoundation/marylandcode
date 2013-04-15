@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-102" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">Except for the administrative hearing process under Subtitle 2 of this title that relates to the certification enforcement power of the Police Training Commission, this subtitle supersedes any other law of the State, a county, or a municipal corporation that conflicts with this subtitle.</section>
     <section prefix="(b)">Any local law is preempted by the subject and material of this subtitle.</section>

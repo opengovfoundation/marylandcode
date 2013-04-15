@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-602" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-7-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">A mortuary transport service shall be issued a permit by the Board before the mortuary transport service may remove and transport human remains in this State.</section>
     <section prefix="(b)">
@@ -22,7 +22,7 @@
         <section prefix="(i)">A permit issued under this subtitle shall expire on the date set by the Board.</section>
         <section prefix="(ii)">A permit may not be renewed for a term longer than 2 years.</section>
       </section>
-      <section prefix="(2)">A permit holder may renew a permit for additional terms, if the permit holder:<section prefix="(i)">Submits to the Board:</section><section prefix="(ii)">Complies with any other renewal requirements established by the Board.</section></section>
+      <section prefix="(2)">A permit holder may renew a permit for additional terms, if the permit holder:<section prefix="(i)">Submits to the Board:<section prefix="1.">An application on the form that the Board requires; and</section><section prefix="2.">An application fee set by the Board; and</section></section><section prefix="(ii)">Complies with any other renewal requirements established by the Board.</section></section>
     </section>
     <section prefix="(f)">Signs and advertisements for a mortuary transport service shall display the name of the mortuary transport service as it appears on the permit.</section>
   </text>

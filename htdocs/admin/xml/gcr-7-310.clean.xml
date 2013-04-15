@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-310" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-310</section_number>
-  <catch_line/>
+  <catch_line>A recorded article produced in violation of this part and all equipment used to produce the recorded...</catch_line>
+  <order_by>310</order_by>
   <text>A recorded article produced in violation of this part and all equipment used to produce the recorded article are subject to forfeiture and destruction by the appropriate law enforcement unit.</text>
 </law>

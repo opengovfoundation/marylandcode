@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (c) of this section, an express warranty by a licensor is created as follows:<section prefix="(1)">An affirmation of fact or promise made by the licensor to its licensee, including by advertising, which relates to the information and becomes part of the basis of the bargain creates an express warranty that the information to be furnished under the agreement will conform to the affirmation or promise.</section><section prefix="(2)">Any description of the information which is made part of the basis of the bargain creates an express warranty that the information will conform to the description.</section><section prefix="(3)">Any sample, model, or demonstration of a final product which is made part of the basis of the bargain creates an express warranty that the performance of the information will reasonably conform to the performance of the sample, model, or demonstration, taking into account differences that would appear to a reasonable person in the position of the licensee between the sample, model, or demonstration and the information as it will be used.</section></section>
     <section prefix="(b)">It is not necessary to the creation of an express warranty that the licensor use formal words, such as "warranty" or "guaranty", or state a specific intention to make a warranty. However, an express warranty is not created by:<section prefix="(1)">An affirmation or prediction merely of the value of the information or informational rights;</section><section prefix="(2)">A display or description of a portion of the information to illustrate the aesthetics, appeal, suitability to taste, subjective quality, or the like of informational content; or</section><section prefix="(3)">A statement purporting to be merely opinion or commendation of the information or informational rights.</section></section>

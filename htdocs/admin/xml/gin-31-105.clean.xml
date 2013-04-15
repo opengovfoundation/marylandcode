@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-105" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-31-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">With the approval of the Governor, the Board shall appoint an Executive Director of the Exchange.</section>
@@ -25,7 +25,7 @@
     <section prefix="(e)">
       <section prefix="(1)">With respect to staff of the Exchange hired or designated under subsection (c)(3), (4), and (5) of this section, the Executive Director shall submit to the Secretary of Budget and Management, at least 45 days before the effective date of the change, each change to the Exchange's salary plans that involves increases or decreases in salary ranges other than those associated with routine reclassifications and promotions or general salary increases approved by the General Assembly.</section>
       <section prefix="(2)">Reportable changes include:<section prefix="(i)">the creation or abolition of classes;</section><section prefix="(ii)">the regrading of classes from one established range to another; and</section><section prefix="(iii)">the creation of new pay schedules or ranges.</section></section>
-      <section prefix="(3)">The Secretary of Budget and Management shall:<section prefix="(i)">review the proposed change; and</section><section prefix="(ii)">at least 15 days before the effective date of the proposed change:</section></section>
+      <section prefix="(3)">The Secretary of Budget and Management shall:<section prefix="(i)">review the proposed change; and</section><section prefix="(ii)">at least 15 days before the effective date of the proposed change:<section prefix="1.">advise the Executive Director whether the change would have an adverse effect on comparable State jobs; and</section><section prefix="2.">if there would be an adverse effect, recommend an alternative change that would not have an adverse effect on comparable State jobs.</section></section></section>
       <section prefix="(4)">Failure of the Secretary of Budget and Management to respond in a timely manner is deemed to be agreement with the change as submitted.</section>
     </section>
     <section prefix="(f)">Except as otherwise provided in this title, an employee or independent contractor of the Exchange is not subject to any law, regulation, or executive order governing State compensation, including furloughs, pay cuts, or any other General Fund cost savings measure.</section>

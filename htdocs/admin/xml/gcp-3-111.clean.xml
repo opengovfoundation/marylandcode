@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">If a defendant has entered a plea of not criminally responsible, the court may order the Health Department to examine the defendant to determine whether the defendant was not criminally responsible under &#xA7; 3-109 of this title and whether the defendant is competent to stand trial.</section>
     <section prefix="(b)">

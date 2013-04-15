@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">A person who transfers a certificated security to a purchaser for value warrants to the purchaser, and an indorser, if the transfer is by indorsement, warrants to any subsequent purchaser, that:<section prefix="(1)">The certificate is genuine and has not been materially altered;</section><section prefix="(2)">The transferor or indorser does not know of any fact that might impair the validity of the security;</section><section prefix="(3)">There is no adverse claim to the security;</section><section prefix="(4)">The transfer does not violate any restriction on transfer;</section><section prefix="(5)">If the transfer is by indorsement, the indorsement is made by an appropriate person, or if the indorsement is by an agent, the agent has actual authority to act on behalf of the appropriate person; and</section><section prefix="(6)">The transfer is otherwise effective and rightful.</section></section>
     <section prefix="(b)">A person who originates an instruction for registration of transfer of an uncertificated security to a purchaser for value warrants to the purchaser that:<section prefix="(1)">The instruction is made by an appropriate person, or if the instruction is by an agent, the agent has actual authority to act on behalf of the appropriate person;</section><section prefix="(2)">The security is valid;</section><section prefix="(3)">There is no adverse claim to the security; and</section><section prefix="(4)">At the time the instruction is presented to the issuer:<section prefix="(i)">The purchaser will be entitled to the registration of transfer;</section><section prefix="(ii)">The transfer will be registered by the issuer free from all liens, security interests, restrictions, and claims other than those specified in the instruction;</section><section prefix="(iii)">The transfer will not violate any restriction on transfer; and</section><section prefix="(iv)">The requested transfer will otherwise be effective and rightful.</section></section></section>

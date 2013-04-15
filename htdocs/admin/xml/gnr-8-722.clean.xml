@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-722" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-722</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>722</order_by>
   <text>
     <section prefix="(a)">This section applies only to abandoned vessels as defined in &#xA7; 8-721 of this subtitle.</section>
     <section prefix="(b)">Subject to the provisions of this section, a landowner, a landowner's lessee, or a landowner's agent may acquire title to any abandoned vessel on the landowner's land or the water immediately adjacent to the landowner's land. Acquisition of title divests any other person of any interest in the vessel.</section>

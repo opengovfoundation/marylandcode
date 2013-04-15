@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1A-02" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-1A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of &#xA7; 15-1A-04(d)(2) of this subtitle, a successor fiduciary shall be substituted as a fiduciary for its predecessor corporate fiduciary, immediately upon the adoption of a corporate resolution by both the successor fiduciary and the predecessor corporate fiduciary providing for the substitution.</section>
     <section prefix="(b)">A successor fiduciary shall have all the rights, powers, duties, and obligations of the predecessor corporate fiduciary.</section>

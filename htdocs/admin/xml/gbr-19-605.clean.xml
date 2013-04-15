@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-605" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-19-605</section_number>
-  <catch_line/>
+  <catch_line>An international marriage broker may disclose personal contact information on a recruit only after o...</catch_line>
+  <order_by>605</order_by>
   <text>An international marriage broker may disclose personal contact information on a recruit only after obtaining consent from the recruit, written in the recruit's native language.</text>
 </law>

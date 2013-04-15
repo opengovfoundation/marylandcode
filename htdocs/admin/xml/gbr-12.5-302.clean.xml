@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12.5-302" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12.5-302</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise authorized by the Secretary, a licensed locksmith shall keep a copy of each invoice...</catch_line>
+  <order_by>302</order_by>
   <text>Unless otherwise authorized by the Secretary, a licensed locksmith shall keep a copy of each invoice or receipt for services required by this subtitle, at the fixed business address provided by the licensee to the Secretary, for 3 years after the date of the service call and, on reasonable notice from the Department, make required records available for inspection by the Department.</text>
 </law>

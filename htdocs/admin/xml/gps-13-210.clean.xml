@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-210" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection applies to the period of time that an employee is ordered by the Governor to active military duty in the organized militia of the State for service during:<section prefix="(i)">a civil disorder;</section><section prefix="(ii)">a natural disaster;</section><section prefix="(iii)">a labor disorder; or</section><section prefix="(iv)">any other activity requiring support of the State militia.</section></section>

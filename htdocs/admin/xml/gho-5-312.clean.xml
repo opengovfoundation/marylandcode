@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-312" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-5-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in &#xA7; 10-226 of the State Government Article, before the Board takes any action under &#xA7; 5-311 of this subtitle, it shall give the individual against whom the action is contemplated an opportunity for a hearing before the Board.</section>
     <section prefix="(b)">The Board shall give notice and hold the hearing in accordance with Title 10, Subtitle 2 of the State Government Article.</section>

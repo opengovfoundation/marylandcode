@@ -1,24 +1,27 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-117" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">In this subsection the following words have the meanings indicated.</section>
         <section prefix="(ii)">"Ground lease" means a residential lease or sublease for a term of years renewable forever subject to the payment of a periodic ground rent.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">"Ground lease holder" means the holder of the reversionary interest under a ground lease.</section>
+          <section prefix="2.">"Ground lease holder" includes an agent of the ground lease holder.</section>
+        </section>
         <section prefix="(iv)">"Ground rent" means a rent issuing out of, or collectible in connection with, the reversionary interest under a ground lease.</section>
         <section prefix="(v)">"Leasehold interest" means the tenancy in real property created under a ground lease.</section>
         <section prefix="(vi)">"Leasehold tenant" means the holder of the leasehold interest under a ground lease.</section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">This subsection applies to residential property that was or is used, intended to be used, or authorized to be used for four or fewer dwelling units.</section>
-        <section prefix="(ii)">This subsection does not apply to property:</section>
+        <section prefix="(ii)">This subsection does not apply to property:<section prefix="1.">Leased for business, commercial, manufacturing, mercantile, or industrial purposes, or any other purpose that is not primarily residential;</section><section prefix="2.">Improved or to be improved by any apartment, condominium, cooperative, or other building for multifamily use of greater than four dwelling units; or</section><section prefix="3.">Leased for dwellings or mobile homes that are erected or placed in a mobile home development or mobile home park.</section></section>
       </section>
       <section prefix="(3)">A contract for the sale of real property subject to a ground rent shall contain the following notice in boldface type, at least as large as 14 point, in substantially the following form:</section>
     </section>
@@ -46,8 +49,8 @@
     </section>
     <section prefix="(j)">
       <section prefix="(1)">This subsection applies to Baltimore City and all other counties except Montgomery County.</section>
-      <section prefix="(2)">A contract for the initial sale of a new home, as defined in the Maryland Home Builder Registration Act, shall include the following:<section prefix="(i)">The builder registration number of the seller of the new home;</section><section prefix="(ii)">A provision stating that the new home shall be constructed in accordance with all applicable building codes in effect at the time of the construction of the new home;</section><section prefix="(iii)">A provision referencing all performance standards or guidelines:</section><section prefix="(iv)">A provision detailing the purchaser's right to receive a consumer information pamphlet as provided under the Home Builder Registration Act.</section></section>
-      <section prefix="(3)">The performance standards or guidelines described in paragraph (2) of this subsection shall be:<section prefix="(i)">The performance standards or guidelines adopted at the time of the contract:</section><section prefix="(ii)">Any performance standards or guidelines adopted by the home builder and incorporated into the contract that are equal to or more stringent than the performance standards or guidelines adopted at the time of the contract:</section><section prefix="(iii)">Any performance standards or guidelines adopted at the time of the contract by a county or municipal corporation that are equal to or more stringent than the performance standards or guidelines adopted at the time of the contract:</section></section>
+      <section prefix="(2)">A contract for the initial sale of a new home, as defined in the Maryland Home Builder Registration Act, shall include the following:<section prefix="(i)">The builder registration number of the seller of the new home;</section><section prefix="(ii)">A provision stating that the new home shall be constructed in accordance with all applicable building codes in effect at the time of the construction of the new home;</section><section prefix="(iii)">A provision referencing all performance standards or guidelines:<section prefix="1.">That the seller shall comply with in the construction of the new home; and</section><section prefix="2.">That shall prevail in the performance of the contract and any arbitration or adjudication of a claim arising from the contract; and</section></section><section prefix="(iv)">A provision detailing the purchaser's right to receive a consumer information pamphlet as provided under the Home Builder Registration Act.</section></section>
+      <section prefix="(3)">The performance standards or guidelines described in paragraph (2) of this subsection shall be:<section prefix="(i)">The performance standards or guidelines adopted at the time of the contract:<section prefix="1.">By the National Association of Home Builders; or</section><section prefix="2.">Under the federal National Manufactured Housing Construction and Safety Standards Act, to the extent applicable;</section></section><section prefix="(ii)">Any performance standards or guidelines adopted by the home builder and incorporated into the contract that are equal to or more stringent than the performance standards or guidelines adopted at the time of the contract:<section prefix="1.">By the National Association of Home Builders; or</section><section prefix="2.">Under the federal National Manufactured Housing Construction and Safety Standards Act, to the extent applicable; or</section></section><section prefix="(iii)">Any performance standards or guidelines adopted at the time of the contract by a county or municipal corporation that are equal to or more stringent than the performance standards or guidelines adopted at the time of the contract:<section prefix="1.">By the National Association of Home Builders; or</section><section prefix="2.">Under the federal National Manufactured Housing Construction and Safety Standards Act, to the extent applicable.</section></section></section>
       <section prefix="(4)">The information required by paragraph (2) of this subsection shall be printed in conspicuous type.</section>
     </section>
     <section prefix="(j-1)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1919" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-1919</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1919</order_by>
   <text>
     <section prefix="(a)">The Trust shall provide technical assistance to qualified organizations that request assistance.</section>
     <section prefix="(b)">The Trust shall convene Chesapeake Conservation Corps Program participants on a regular basis in order to:<section prefix="(1)">Promote team building among the participants;</section><section prefix="(2)">Develop an understanding of the overall Corps Program purpose;</section><section prefix="(3)">Share information about best practices;</section><section prefix="(4)">Recognize excellence; and</section><section prefix="(5)">Provide training and other learning opportunities.</section></section>

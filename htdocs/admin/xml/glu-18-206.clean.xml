@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-206" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">To accomplish the purposes under &#xA7; 18-203(b) of this subtitle, the Commission may issue bonds to finance the cost of revenue-producing facilities in Montgomery County or Prince George's County, including:<section prefix="(i)">the cost of acquiring or constructing a facility;</section><section prefix="(ii)">the cost of enlarging, improving, remodeling, or restoring an acquired facility;</section><section prefix="(iii)">the cost of surveys, studies, drawings, and architectural and engineering plans and specifications;</section><section prefix="(iv)">the cost of site assembly, including legal proceedings, title fees, and settlement charges;</section><section prefix="(v)">the cost of issuance of bonds under this section, including advertising and printing charges and legal fees;</section><section prefix="(vi)">the cost of interest on the bonds during construction of a facility and for 1 year after completion of the facility; and</section><section prefix="(vii)">the cost to the Commission of performance of any of the functions under this paragraph by Commission staff.</section></section>
@@ -14,7 +14,7 @@
       <section prefix="(4)">The Commission may secure any borrowing by a pledge of the revenues.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">The Commission may set and periodically amend fees, rates, rentals, or other charges for the use of the Commission's facilities in Montgomery County or Prince George's County:<section prefix="(i)">to provide revenue to pay debt service:</section><section prefix="(ii)">to pay the expenses of the Commission for the facility, including operating and maintenance expenses, unless the Commission authorizes the use of funds from another source for payment of other expenses.</section></section>
+      <section prefix="(1)">The Commission may set and periodically amend fees, rates, rentals, or other charges for the use of the Commission's facilities in Montgomery County or Prince George's County:<section prefix="(i)">to provide revenue to pay debt service:<section prefix="1.">on bonds issued under this section to finance the cost of a facility either separately or together with other revenue-producing facilities of the Commission in either county; or</section><section prefix="2.">on bonds issued to finance the cost of other revenue-producing facilities of the Commission in either county; and</section></section><section prefix="(ii)">to pay the expenses of the Commission for the facility, including operating and maintenance expenses, unless the Commission authorizes the use of funds from another source for payment of other expenses.</section></section>
       <section prefix="(2)">To sell and secure the bonds of the Commission authorized under this section, the Commission may enter into agreements to set the fees, rates, rentals, or other charges and the collection and application of the fees, rates, rentals, or other charges.</section>
     </section>
     <section prefix="(c)">
@@ -37,7 +37,7 @@
     <section prefix="(e)">
       <section prefix="(1)">The Commission may apply general funds not otherwise committed to the payment of the principal of and interest on bonds issued under this section, either on maturity or redemption.</section>
       <section prefix="(2)">The Commission may retire an entire issue of the bonds issued under this subsection from the proceeds of general obligation refunding bonds issued under &#xA7; 18-207 of this subtitle.</section>
-      <section prefix="(3)">The Commission may:<section prefix="(i)">continue to charge for the use or enjoyment of a facility on the retirement of an issue of bonds from:</section><section prefix="(ii)">apply the revenues from the charge to any other function, objective, or purpose of the Commission.</section></section>
+      <section prefix="(3)">The Commission may:<section prefix="(i)">continue to charge for the use or enjoyment of a facility on the retirement of an issue of bonds from:<section prefix="1.">the revenues of the facility financed by the bonds;</section><section prefix="2.">other funds of the Commission; or</section><section prefix="3.">refunding as authorized under &#xA7; 18-207 of this subtitle; and</section></section><section prefix="(ii)">apply the revenues from the charge to any other function, objective, or purpose of the Commission.</section></section>
     </section>
     <section prefix="(f)">
       <section prefix="(1)">The Commission may adopt rules and regulations for the use and enjoyment by the general public of a facility financed under this subsection.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-323.2" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-323.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>323.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A notice stating "dyed diesel fuel, nontaxable use only" shall be:<section prefix="(i)">provided by the terminal operator or distributor to any person that receives dyed diesel fuel at a terminal or distributor rack;</section><section prefix="(ii)">provided by the seller of dyed diesel fuel to its buyer if the fuel is located outside the bulk transfer or terminal system and is not sold from a retail pump on which the notice required by this section has been posted in accordance with item (iii) of this paragraph; and</section><section prefix="(iii)">posted by a seller on any retail pump where the seller sells dyed diesel fuel for use by the buyer of the dyed diesel fuel.</section></section>

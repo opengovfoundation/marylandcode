@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-503" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-4-503</section_number>
-  <catch_line/>
+  <catch_line>Each director of a savings bank shall be a member of the savings bank....</catch_line>
+  <order_by>503</order_by>
   <text>Each director of a savings bank shall be a member of the savings bank.</text>
 </law>

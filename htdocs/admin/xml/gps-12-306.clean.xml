@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-306" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">An industrialized building that is manufactured after June 30, 1977, may not be sold, offered for sale, or installed in the State unless the industrialized building:<section prefix="(1)">is certified by the Department for sale in the State; and</section><section prefix="(2)">bears the insignia provided by the Department.</section></section>
     <section prefix="(b)">A manufactured home that is manufactured after January 1, 1973, may not be sold or offered for sale to a first user in the State unless the manufactured home:<section prefix="(1)">is certified by the Department for sale in the State and bears the insignia provided by the Department; or</section><section prefix="(2)">is certified and labeled under the Manufactured Home Construction and Safety Standards Act.</section></section>

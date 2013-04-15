@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-106" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-2-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">The Attorney General is legal adviser to the Department.</section>
     <section prefix="(b)">The Attorney General shall assign to the Department the number of assistant attorneys general authorized by law to be assigned to the Department and any additional ones necessary to render effective legal advice and counsel. The Attorney General also shall designate an assistant attorney general as counsel to the Department.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-119" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-31-119</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>119</order_by>
   <text>
     <section prefix="(a)">The Exchange shall be administered in a manner designed to:<section prefix="(1)">prevent discrimination;</section><section prefix="(2)">streamline enrollment and other processes to minimize expenses and achieve maximum efficiency;</section><section prefix="(3)">prevent waste, fraud, and abuse; and</section><section prefix="(4)">promote financial integrity.</section></section>
     <section prefix="(b)">
@@ -16,7 +16,7 @@
     <section prefix="(c)">The Exchange shall keep an accurate accounting of all its activities, expenditures, and receipts.</section>
     <section prefix="(d)">
       <section prefix="(1)">On or before December 1 of each year, the Board shall forward to the Secretary, the Governor, and, in accordance with &#xA7; 2-1246 of the State Government Article, the General Assembly, a report on the activities, expenditures, and receipts of the Exchange.</section>
-      <section prefix="(2)">The report shall:<section prefix="(i)">be in the standardized format required by the Secretary;</section><section prefix="(ii)">include data regarding:</section><section prefix="(iii)">include data to identify disparities related to gender, race, ethnicity, geographic location, language, disability, or other attributes of special populations; and</section><section prefix="(iv)">include information on its fraud, waste, and abuse detection and prevention program.</section></section>
+      <section prefix="(2)">The report shall:<section prefix="(i)">be in the standardized format required by the Secretary;</section><section prefix="(ii)">include data regarding:<section prefix="1.">health plan participation, ratings, coverage, price, quality improvement measures, and benefits;</section><section prefix="2.">consumer choice, participation, and satisfaction information to the extent the information is available;</section><section prefix="3.">financial integrity, fee assessments, and status of the Fund; and</section><section prefix="4.">any other appropriate metrics related to the operation of the Exchange that may be used to evaluate Exchange performance, assure transparency, and facilitate research and analysis;</section></section><section prefix="(iii)">include data to identify disparities related to gender, race, ethnicity, geographic location, language, disability, or other attributes of special populations; and</section><section prefix="(iv)">include information on its fraud, waste, and abuse detection and prevention program.</section></section>
     </section>
     <section prefix="(e)">The Board shall cooperate fully with any investigation into the affairs of the Exchange, including making available for examination the records of the Exchange, conducted by:<section prefix="(1)">the Secretary under the Secretary's authority under the Affordable Care Act; and</section><section prefix="(2)">the Commissioner under the Commissioner's authority to regulate the sale and purchase of insurance in the State.</section></section>
   </text>

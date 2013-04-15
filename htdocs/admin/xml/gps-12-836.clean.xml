@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-836" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-836</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>836</order_by>
   <text>
     <section prefix="(a)">An elevator contractor may not engage in the business of elevator installation, alteration, repair, or service work unless the work of the elevator contractor is covered by:<section prefix="(1)">general liability insurance in the amount of at least $1,000,000; and</section><section prefix="(2)">property damage insurance in the amount of at least $500,000.</section></section>
     <section prefix="(b)">An applicant for an elevator contractor license shall submit proof of the insurance required under subsection (a) of this section to the Board with the license application.</section>

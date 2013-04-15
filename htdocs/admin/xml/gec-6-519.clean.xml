@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-519" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-6-519</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>519</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A business that is classified as a qualified business at the time of the first investment in the business by a venture firm, the Enterprise Fund, or the Financing Authority remains classified as a qualified business and may receive follow-on investments from a venture firm, the Enterprise Fund, or the Financing Authority.</section>

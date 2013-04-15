@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-429" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-429</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>429</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"Adult stem cell" means a stem cell that is:<section prefix="(1)">derived from human tissue; and</section><section prefix="(2)">obtained after birth.</section></section>

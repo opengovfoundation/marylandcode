@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-204" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">In addition to any other powers granted and duties imposed by this title, the Office has the powers and duties set forth in this section.</section>
     <section prefix="(b)">Except as otherwise provided in this title, the Office shall:<section prefix="(1)">Administer student financial assistance programs;</section><section prefix="(2)">Issue and disseminate public information about student financial assistance;</section><section prefix="(3)">Regulate the form and submission of applications for student financial assistance under this title; and</section><section prefix="(4)">Conduct conferences and interviews with applicants to evaluate their eligibility.</section></section>

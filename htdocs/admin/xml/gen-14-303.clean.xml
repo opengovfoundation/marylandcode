@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-303" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-14-303</section_number>
-  <catch_line/>
+  <catch_line>The Department shall prescribe rules and regulations to effectuate the provisions of this subtitle, ...</catch_line>
+  <order_by>303</order_by>
   <text>The Department shall prescribe rules and regulations to effectuate the provisions of this subtitle, and any permit to drill, bore, drive, dig, or otherwise conduct any operation for the storage of natural or artificial gas or petroleum products and their derivatives may contain the restrictions the Department determines necessary in the public interest to protect the waters of the State, including subsurface and percolating waters.</text>
 </law>

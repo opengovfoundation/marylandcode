@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-106" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-18-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">The Commission shall organize its employees in a manner that promotes the efficient disposition of all matters within the Commission's jurisdiction.</section>
     <section prefix="(b)">To carry out this division, the Commission may:<section prefix="(1)">organize its employees into departments or other divisional organizations;</section><section prefix="(2)">establish the functions, duties, and responsibilities of the general manager, secretary, treasurer, chief engineer, general counsel, and other employees the Commission considers necessary; and</section><section prefix="(3)">appoint, discharge, and set the compensation of its employees in accordance with this subtitle.</section></section>

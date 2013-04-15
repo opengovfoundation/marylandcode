@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-704" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Commissioner has reason to believe that an unauthorized foreign insurer or unauthorized alien insurer is engaging in unlawful advertising in violation of &#xA7; 27-703 of this subtitle, the Commissioner shall give notice of the violation by certified mail to the insurer and the insurance supervisory official of the domiciliary state of the insurer.</section>

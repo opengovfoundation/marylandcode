@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-209" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-24-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">Policies that the Society issues to each class of physicians and other health care providers shall be essentially uniform in terms and conditions of coverage.</section>
     <section prefix="(b)">Notwithstanding subsection (a) of this section, the Society may:<section prefix="(1)">establish reasonable classifications of physicians and other health care providers, insured activities, and exposures based on a good faith determination of relative exposures and hazards among classifications;</section><section prefix="(2)">vary the limits, coverages, exclusions, conditions, and loss-sharing provisions among classifications; and</section><section prefix="(3)">establish, for an individual physician or other health care provider within a classification, reasonable variations in the terms of coverage, including deductibles and loss-sharing provisions, based on the insured's prior loss experience and current professional training and capability.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-501" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-11-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Board" means the Board of Directors of the Corporation.</section>
@@ -24,7 +24,7 @@
       <section prefix="(2)">"Person" also includes a political subdivision.</section>
     </section>
     <section prefix="(k)">
-      <section prefix="(1)">"Project" means an undertaking to establish economic activity on property to be conveyed to the Corporation from the United States Army at Fort Ritchie, Maryland:<section prefix="(i)">for any industrial, commercial, or business purpose; and</section><section prefix="(ii)">whether or not a facility or property used or useful in connection with the undertaking:</section></section>
+      <section prefix="(1)">"Project" means an undertaking to establish economic activity on property to be conveyed to the Corporation from the United States Army at Fort Ritchie, Maryland:<section prefix="(i)">for any industrial, commercial, or business purpose; and</section><section prefix="(ii)">whether or not a facility or property used or useful in connection with the undertaking:<section prefix="1.">is or will be used for profit or not for profit;</section><section prefix="2.">is located on a single site or multiple sites; or</section><section prefix="3.">may be financed by bonds, the interest on which is exempt from taxation under federal law.</section></section></section>
       <section prefix="(2)">"Project" includes:<section prefix="(i)">property and rights related to the property, appurtenances, rights-of-way, franchises, and easements;</section><section prefix="(ii)">structures, equipment, and furnishings;</section><section prefix="(iii)">property that is functionally related and subordinate to a project; and</section><section prefix="(iv)">patents, licenses, and other rights necessary or useful in the construction or operation of a project.</section></section>
     </section>
     <section prefix="(l)">

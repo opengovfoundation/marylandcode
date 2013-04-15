@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-212" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">Subject to the notice requirement of subsection (c) of this section, if a licensee engages in an act or omission that is a ground for discipline under &#xA7; 16-210 of this subtitle, the Comptroller may suspend the license for a consecutive period that:<section prefix="(1)">for a first offense, is not less than 5 nor more than 20 business days; or</section><section prefix="(2)">for a subsequent offense, is not less than 20 business days nor more than 6 months.</section></section>
     <section prefix="(b)">Subject to the notice requirement under subsection (c) of this section, the Comptroller may revoke a license if a licensee:<section prefix="(1)">willfully and persistently engages in an act or omission that is a ground for discipline under &#xA7; 16-210(a) of this subtitle; or</section><section prefix="(2)">violates this title or Title 12 of the Tax - General Article, or regulations adopted under these titles.</section></section>

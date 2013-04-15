@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-311.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-311.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "dealer processing charge" includes an amount charged by a dealer for:<section prefix="(i)">The preparation of written documentation of the transaction;</section><section prefix="(ii)">Obtaining the title and license plates for the vehicle;</section><section prefix="(iii)">Obtaining a release of lien;</section><section prefix="(iv)">Filing title documents with the Administration;</section><section prefix="(v)">Retaining documentation and records of the transaction;</section><section prefix="(vi)">Complying with federal or State privacy laws; or</section><section prefix="(vii)">Other administrative services concerning the sale of the vehicle.</section></section>
       <section prefix="(2)">"Dealer processing charge" does not include a charge to purchase or install tangible personal property on or in the vehicle, or to perform mechanical service on the vehicle.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">If a dealer charges a dealer processing charge, the charge:<section prefix="(i)">Shall be reasonable;</section><section prefix="(ii)">May not exceed:</section><section prefix="(iii)">Shall reflect dealer expenses generally incurred for the services identified in subsection (a)(1) of this section.</section></section>
+      <section prefix="(1)">If a dealer charges a dealer processing charge, the charge:<section prefix="(i)">Shall be reasonable;</section><section prefix="(ii)">May not exceed:<section prefix="1.">$200 for the period from July 1, 2011, through June 30, 2014; and</section><section prefix="2.">$300 on and after July 1, 2014; and</section></section><section prefix="(iii)">Shall reflect dealer expenses generally incurred for the services identified in subsection (a)(1) of this section.</section></section>
       <section prefix="(2)">A dealer shall provide a written disclosure of the services included in the dealer processing charge on request by the purchaser.</section>
     </section>
     <section prefix="(c)">Any dealer processing charge or freight charge shall be disclosed to a purchaser as provided in this section.</section>

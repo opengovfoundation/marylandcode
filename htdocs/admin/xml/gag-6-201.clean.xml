@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-201" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-6-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">A commercial fertilizer is "adulterated" if:<section prefix="(1)">Any poisonous, deleterious, or nonnutritive ingredient is added in sufficient amount to render it injurious to the health of plants, humans, or animal life or injurious to the environment;</section><section prefix="(2)">A valuable constituent is omitted or abstracted wholly or partially from it or any less valuable substance is substituted for it; or</section><section prefix="(3)">Its composition or quality falls below or differs from that which it is purported or is represented to contain by its labeling.</section></section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-102" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-20-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Maryland College Savings Bond Advisory Board shall make recommendations to:<section prefix="(i)">The Board of Public Works regarding the need for Maryland capital appreciation general obligation bonds to help citizens save for the costs of college; and</section><section prefix="(ii)">In accordance with &#xA7; 2-1246 of the State Government Article, the Governor and General Assembly on the establishment of an incentive program to encourage citizens to purchase capital appreciation general obligation bonds to finance the education of individuals at accredited institutions of postsecondary education in the State.</section></section>
-      <section prefix="(2)">In the event of a negotiated sale, the Maryland College Savings Bond Advisory Board shall advise the Board of Public Works regarding:<section prefix="(i)">Public relations and advertising needs;</section><section prefix="(ii)">Bond issuance information, including:</section></section>
+      <section prefix="(2)">In the event of a negotiated sale, the Maryland College Savings Bond Advisory Board shall advise the Board of Public Works regarding:<section prefix="(i)">Public relations and advertising needs;</section><section prefix="(ii)">Bond issuance information, including:<section prefix="1.">The increments in which to market the bonds;</section><section prefix="2.">The recommended maturity dates of the bonds;</section><section prefix="3.">The dollar limit that may be imposed on individual household purchases of college savings bonds; and</section><section prefix="4.">The minimum denominations in which the college savings bonds may be marketed.</section></section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">Each appointed member serves for a term of 3 years and until a successor is appointed.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1914" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1914</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1914</order_by>
   <text>
     <section prefix="(a)">Each sale of the services of a credit services business that violates any provision of this subtitle is an unfair or deceptive trade practice under Title 13 of this article.</section>
     <section prefix="(b)">If the Division of Consumer Protection of the Office of the Attorney General has reason to believe that any credit services business, or any salesperson, agent, representative, or independent contractor acting on behalf of a credit services business, has violated any provision of this subtitle, the Division may institute a proceeding under Title 13 of this article.</section>

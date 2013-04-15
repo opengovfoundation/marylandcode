@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-908" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-908</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>908</order_by>
   <text>
     <section prefix="(a)">In this section, "Fund" means the Fair Hill Improvement Fund.</section>
     <section prefix="(b)">There is a Fair Hill Improvement Fund in the Department, to be used for the operation, maintenance, development, and improvement of the Fair Hill facilities at Fair Hill, Maryland.</section>

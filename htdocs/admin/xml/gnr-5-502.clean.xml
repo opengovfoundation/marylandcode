@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-502" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">The General Assembly declares that the maintenance and reproduction of the pine forest resource of the State is in the public interest and provides significant recreational, esthetic, wildlife and environmental benefits as well as wood fiber essential to commerce and industry for the citizens of the State.</section>
     <section prefix="(b)">The General Assembly finds that the pine forest resources of the State are being harvested at a greater rate than they are being replanted or reproduced. It further finds that unless measures are instituted to ensure that the pine forest resources are sustained, this natural resource will be depleted to the detriment of the citizens of the State. Consequently, it is the intent of this subtitle to require that when commercial cutting operations are conducted in the State measures are taken to ensure that pine forests are reproduced or replanted.</section>

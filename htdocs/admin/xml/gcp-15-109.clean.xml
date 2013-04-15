@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-109" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-15-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">If necessary due to an absence, sickness, resignation, or death of a State's Attorney, the circuit court for the county may appoint a competent individual to perform the duties of the State's Attorney in conducting criminal or civil cases arising or pending in the circuit court until:<section prefix="(1)">the State's Attorney is able to attend and act in person; or</section><section prefix="(2)">a new State's Attorney is appointed and qualified.</section></section>
     <section prefix="(b)">An individual appointed under subsection (a) of this section shall receive the same compensation as the State's Attorney who is replaced.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-434" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-434</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>434</order_by>
   <text>
     <section prefix="(a)">Within 15 days after the notice required under &#xA7; 10-433(a)(2) of this subtitle is given, subscribers may submit to the existing provider, any proposed new provider, and the Department written questions and comments about the proposed sale or transfer.</section>
     <section prefix="(b)">

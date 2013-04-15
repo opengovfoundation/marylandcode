@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-305.5" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-305.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305.5</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -26,13 +26,13 @@
       <section prefix="(1)">This subsection applies to a participating governmental unit that elected to provide its employees with the contributory pension benefit or the Alternate Contributory Pension Selection as provided in &#xA7; 31-116 of this article.</section>
       <section prefix="(2)">As of June 30 of each fiscal year, the actuary shall determine the participant funding ratio for the participating governmental units as provided in this subsection.</section>
       <section prefix="(3)">The participant funding ratio shall be a fraction that has:<section prefix="(i)">as its numerator, the assets to the credit of the participating governmental units in the accumulation fund and the annuity savings fund of the employees' systems as adjusted under paragraph (4) of this subsection; and</section><section prefix="(ii)">as its denominator, the actuarial liabilities of the participating governmental units.</section></section>
-      <section prefix="(4)">The assets to the credit of the participating governmental units as of the valuation date shall be:<section prefix="(i)">increased by the sum of the outstanding balances of:</section><section prefix="(ii)">decreased by the sum of the outstanding balances of the surplus allocated to each participating governmental unit under &#xA7; 21-305.4(b) of this subtitle.</section></section>
+      <section prefix="(4)">The assets to the credit of the participating governmental units as of the valuation date shall be:<section prefix="(i)">increased by the sum of the outstanding balances of:<section prefix="1.">the special accrued liability attributable to each participating governmental unit under &#xA7; 21-305.3 of this subtitle;</section><section prefix="2.">the deficit allocated to each participating governmental unit under &#xA7; 21-305.4(c) of this subtitle; and</section><section prefix="3.">the withdrawal liability contribution attributable to each participating governmental unit under subsection (h) of this section; and</section></section><section prefix="(ii)">decreased by the sum of the outstanding balances of the surplus allocated to each participating governmental unit under &#xA7; 21-305.4(b) of this subtitle.</section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">This subsection applies to a noncontributory participating governmental unit.</section>
       <section prefix="(2)">As of June 30 of each fiscal year, the actuary shall determine the noncontributory system funding ratio for the noncontributory participating governmental units as provided in this subsection.</section>
       <section prefix="(3)">The noncontributory system funding ratio shall be a fraction that has:<section prefix="(i)">as its numerator, the assets to the credit of the participating governmental units in the accumulation fund and the annuity savings fund of the employees' systems as adjusted under paragraph (4) of this subsection; and</section><section prefix="(ii)">as its denominator, the actuarial liabilities of the participating governmental units calculated as if all of the participating governmental units are noncontributory participating governmental units.</section></section>
-      <section prefix="(4)">The assets to the credit of the participating governmental units as of the valuation date shall be:<section prefix="(i)">increased by the sum of the outstanding balances of:</section><section prefix="(ii)">decreased by the sum of the outstanding balances of the surplus allocated to each participating governmental unit under &#xA7; 21-305.4(b) of this subtitle.</section></section>
+      <section prefix="(4)">The assets to the credit of the participating governmental units as of the valuation date shall be:<section prefix="(i)">increased by the sum of the outstanding balances of:<section prefix="1.">the special accrued liability attributable to each participating governmental unit under &#xA7; 21-305.3 of this subtitle;</section><section prefix="2.">the deficit allocated to each participating governmental unit under &#xA7; 21-305.4(c) of this subtitle; and</section><section prefix="3.">the withdrawal liability contribution attributable to each participating governmental unit under subsection (h) of this section; and</section></section><section prefix="(ii)">decreased by the sum of the outstanding balances of the surplus allocated to each participating governmental unit under &#xA7; 21-305.4(b) of this subtitle.</section></section>
     </section>
     <section prefix="(f)">
       <section prefix="(1)">This subsection applies to a participating governmental unit that elected to provide its employees with the contributory pension benefit or the Alternate Contributory Pension Selection as provided in &#xA7; 31-116 of this article.</section>
@@ -56,7 +56,7 @@
       <section prefix="(3)">The amount determined under paragraph (2) of this subsection may not be less than zero.</section>
       <section prefix="(4)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, the annual withdrawal liability contribution of a participating governmental unit shall be the annual payment that is sufficient to liquidate, over not more than 25 years, the withdrawal liability contribution by means of annual payments that increase each year based on the actuarial assumptions adopted by the Board of Trustees on the recommendation of the actuary.</section>
-        <section prefix="(ii)">Subject to the approval of the Board of Trustees and the actuary's concurrence, a participating governmental unit:</section>
+        <section prefix="(ii)">Subject to the approval of the Board of Trustees and the actuary's concurrence, a participating governmental unit:<section prefix="1.">may liquidate the withdrawal liability contribution by means of level annual payments or over a term of less than 25 years; or</section><section prefix="2.">prepay all or a portion of the withdrawal liability contribution.</section></section>
       </section>
     </section>
     <section prefix="(i)">
@@ -66,7 +66,7 @@
       <section prefix="(4)">The pre-June 30, 1995 status of a participating governmental unit is an amount equal to the difference between:<section prefix="(i)">the assets transferable to a participating governmental unit that are allocable to the employees of the participating governmental unit who elect to withdraw from the employees' systems as determined by the actuary applying the provisions of former &#xA7; 21-305(f) of this article as of June 30, 1995; and</section><section prefix="(ii)">the withdrawal liability of a participating governmental unit that is attributable to the employees of the participating governmental unit who elect to remain members of the employees' systems as determined by the actuary applying the provisions of former &#xA7; 21-305(f) of this article as of June 30, 1995.</section></section>
       <section prefix="(5)">The post-June 30, 1995 status of a participating governmental unit is an amount equal to the difference between:<section prefix="(i)">the assets transferable to a participating governmental unit that are allocable to the employees who elect to withdraw from the employees' systems as determined under subsection (d) of this section as of June 30, 1995; and</section><section prefix="(ii)">the withdrawal liability of a participating governmental unit that is attributable to the employees of the participating governmental unit who elect to remain in the employees' systems as determined under subsection (f) of this section as of June 30, 1995.</section></section>
       <section prefix="(6)">
-        <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, the transition amount of a participating governmental unit is the amount determined by the actuary as of June 30, 1995, equal to the difference between:</section>
+        <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, the transition amount of a participating governmental unit is the amount determined by the actuary as of June 30, 1995, equal to the difference between:<section prefix="1.">the post-June 30, 1995 status of the participating governmental unit as determined under paragraph (4) of this subsection; and</section><section prefix="2.">the pre-June 30, 1995 status of the participating governmental unit as determined under paragraph (3) of this subsection.</section></section>
         <section prefix="(ii)">The transition amount of a participating governmental unit may not be less than zero.</section>
       </section>
       <section prefix="(7)">As of June 30 of each fiscal year, the transition amount of a participating governmental unit shall decrease by writing down the transition amount in equal annual installments over the 25-year term beginning on July 1, 1995.</section>

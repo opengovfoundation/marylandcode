@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-320" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4-320</section_number>
-  <catch_line/>
+  <catch_line>A promoter may not allow a person who does not have an appropriate license to participate as a boxer...</catch_line>
+  <order_by>320</order_by>
   <text>A promoter may not allow a person who does not have an appropriate license to participate as a boxer, kick boxer, wrestler, or mixed martial arts contestant in a contest or to act as a manager, referee, judge, second, or matchmaker in a contest.</text>
 </law>

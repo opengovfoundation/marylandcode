@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-117" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">A county or circuit court with a local support enforcement office may request that the responsibility for support enforcement be transferred to the Administration.</section>
     <section prefix="(b)">A request for transfer of responsibility under this section must be made to the Department of Human Resources by September 1 of the year preceding the fiscal year for which responsibility will be transferred.</section>

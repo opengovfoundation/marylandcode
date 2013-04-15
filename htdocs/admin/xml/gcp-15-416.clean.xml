@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-416" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-15-416</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>416</order_by>
   <text>
     <section prefix="(a)">This section applies only in Montgomery County.</section>
     <section prefix="(b)">
@@ -18,7 +18,7 @@
       <section prefix="(3)">The deputy and assistant State's Attorneys:<section prefix="(i)">shall perform the work directed by the State's Attorney or authorized by law; and</section><section prefix="(ii)">under the direction of the State's Attorney, may present cases to the grand jury, sign indictments and criminal informations, and perform other necessary duties relating to the grand jury and the operation of the office.</section></section>
       <section prefix="(4)">
         <section prefix="(i)">In addition to the assistant State's Attorneys appointed in accordance with paragraph (1) of this subsection, the State's Attorney may file a petition in circuit court for authority to appoint additional assistant State's Attorneys.</section>
-        <section prefix="(ii)">The State's Attorney shall:</section>
+        <section prefix="(ii)">The State's Attorney shall:<section prefix="1.">include the reasons for the appointment in the petition; and</section><section prefix="2.">deliver notice of the petition to the County Executive and County Council.</section></section>
         <section prefix="(iii)">The County Executive and County Council may file a response to each petition.</section>
         <section prefix="(iv)">The county shall pay the salary and expenses of an assistant State's Attorney appointed under this paragraph.</section>
       </section>
@@ -27,7 +27,7 @@
       <section prefix="(1)">The State's Attorney may appoint the number of special investigators approved by the County Council.</section>
       <section prefix="(2)">
         <section prefix="(i)">In addition to the special investigators appointed in accordance with paragraph (1) of this subsection, the State's Attorney may file a petition in circuit court for authority to appoint additional special investigators.</section>
-        <section prefix="(ii)">The State's Attorney shall:</section>
+        <section prefix="(ii)">The State's Attorney shall:<section prefix="1.">include the reasons for the appointment in the petition; and</section><section prefix="2.">deliver notice of the petition to the County Executive and County Council.</section></section>
         <section prefix="(iii)">The County Executive and County Council may file a response to each petition.</section>
       </section>
       <section prefix="(3)">The county shall pay the salary and expenses of a special investigator appointed under this subsection.</section>

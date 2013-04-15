@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-911" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-911</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>911</order_by>
   <text>
     <section prefix="(a)">In this section, "loss ratio" means the ratio of losses incurred to premiums earned on policies that are issued, delivered, or renewed in the State.</section>
     <section prefix="(b)">Medicare supplement policies shall return aggregate benefits that are reasonable in relation to the premium charged.</section>

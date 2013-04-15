@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-1103" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-1103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1103</order_by>
   <text>
     <section prefix="(a)">An applicant for a license shall pay to the clerk the applicable license fee.</section>
     <section prefix="(b)">In a county other than Baltimore City or Baltimore County, the license fee is:<section prefix="(1)">$15 for a business that employs not more than 10 individuals;</section><section prefix="(2)">$50 for a business that employs 11 to 20 individuals; and</section><section prefix="(3)">$100 for a business that employs more than 20 individuals.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-509" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">The Board of Public Works, through the Department of General Services, shall publish minimum standards for facilities for handicapped individuals in public buildings. The standards shall conform to American Standards Association specification A 117.1-1961, as modified by the Department of General Services.</section>
     <section prefix="(b)">The standards may not require facilities for handicapped individuals in any part of a public building that is not open to or used by the general working force or the general public.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-110" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-12-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Upon the recommendation of the Chancellor who shall consult with the presidents, and in accordance with the requirements of Title 3 of the State Personnel and Pensions Article, the Board of Regents shall establish general standards and guidelines governing the appointment, compensation, advancement, tenure, and termination of all faculty and administrative personnel in the University System of Maryland.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-609" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">A complete restatement of the charter may be submitted for approval in the manner required for a charter amendment to a meeting of the corporation's stockholders or directors, as the case may be.</section>
     <section prefix="(b)">If the restatement is submitted for approval in the manner required for a charter amendment, any amendments to the charter approved at the meeting may be included in the restatement.</section>

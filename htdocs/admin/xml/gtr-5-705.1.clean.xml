@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-705.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-705.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705.1</order_by>
   <text>
     <section prefix="(a)">In this section, "governing body of a political subdivision" means the Baltimore County Council or the County Commissioners of Carroll County.</section>
     <section prefix="(b)">If a tower located in Baltimore County or Carroll County is equipped with a fully operational replacement obstruction lighting system that meets applicable State and federal aviation regulations, the governing body of that political subdivision may order the owner of a television or radio transmitting tower that is equipped with a pulsating high intensity white light system, as defined in Federal Communications Commission regulations, to cease nighttime operation of the pulsating high intensity white light system.</section>

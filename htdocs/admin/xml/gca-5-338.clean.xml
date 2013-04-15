@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-338" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-338</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>338</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each religious corporation subject to this part shall adopt bylaws to govern its corporate and temporal affairs.</section>

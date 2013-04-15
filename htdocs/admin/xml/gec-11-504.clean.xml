@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-504" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-11-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">A Board of Directors shall manage the affairs of the Corporation and exercise all of the powers of the Corporation.</section>
     <section prefix="(b)">The Board consists of the following 18 members:<section prefix="(1)">as ex officio voting members:<section prefix="(i)">the Secretary;</section><section prefix="(ii)">the Executive Director of the Maryland Economic Development Corporation; and</section><section prefix="(iii)">the Executive Director of the Washington County Economic Development Commission; and</section></section><section prefix="(2)">fifteen members appointed by the County Commissioners.</section></section>

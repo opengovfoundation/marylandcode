@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-501" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
-    <section prefix="(a)">This section does not apply to:<section prefix="(1)">a transaction that is preempted by federal law; or</section><section prefix="(2)">a transaction as to which:<section prefix="(i)">the laws of the jurisdiction in which the nonprofit health service plan is domiciled authorize the commissioner of that jurisdiction to investigate and approve an acquisition of direct or indirect control of a nonprofit health service plan by conversion, merger, consolidation, exercise of a right to acquire, or otherwise; and</section><section prefix="(ii)">the Commissioner:</section></section></section>
+    <section prefix="(a)">This section does not apply to:<section prefix="(1)">a transaction that is preempted by federal law; or</section><section prefix="(2)">a transaction as to which:<section prefix="(i)">the laws of the jurisdiction in which the nonprofit health service plan is domiciled authorize the commissioner of that jurisdiction to investigate and approve an acquisition of direct or indirect control of a nonprofit health service plan by conversion, merger, consolidation, exercise of a right to acquire, or otherwise; and</section><section prefix="(ii)">the Commissioner:<section prefix="1.">receives notice from the commissioner of the other jurisdiction about the acquisition; and</section><section prefix="2.">has the right to request information and documents about that acquisition.</section></section></section></section>
     <section prefix="(b)">A person shall comply with the procedures required by Subtitles 3 and 4 of this title to the extent applicable before the person seeks control of a foreign nonprofit health service plan that is authorized to do business in the State under Title 4 of this article by:<section prefix="(1)">making a tender for, inviting tenders of, entering into an agreement to exchange securities for, or acquiring in the open market or otherwise any voting security of the plan;</section><section prefix="(2)">entering into any other agreement about voting securities under which the person directly or indirectly would control the plan by conversion or by exercise of a right to acquire voting securities of the plan; or</section><section prefix="(3)">entering into an agreement to merge or consolidate with or otherwise to acquire control of the plan.</section></section>
     <section prefix="(c)">Approval by the Commissioner of an acquisition under this section is governed by &#xA7; 7-306 of this title.</section>
   </text>

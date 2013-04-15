@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-502" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection and as otherwise provided by &#xA7; 14-503 of this subtitle, for property assessed by a supervisor, any taxpayer, a county, a municipal corporation, or the Attorney General may submit a written appeal to the supervisor as to a value or classification in a notice of assessment on or before 45 days from the date of the notice.</section>

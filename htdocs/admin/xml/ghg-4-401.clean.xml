@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-401" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this section, "provider" means:<section prefix="(1)">An acupuncturist;</section><section prefix="(2)">A chiropractor;</section><section prefix="(3)">A dentist;</section><section prefix="(4)">A nurse;</section><section prefix="(5)">An optometrist;</section><section prefix="(6)">A physician;</section><section prefix="(7)">A podiatrist; or</section><section prefix="(8)">A person who is employed by or under contract with a hospital, nursing institution, or other health care provider.</section></section>
     <section prefix="(b)">A provider may not knowingly or willfully destroy, damage, alter, obliterate, or otherwise obscure a medical record, hospital report, laboratory report, X-ray report, or other information about a patient in an effort to conceal the information from use as evidence in an administrative, civil, or criminal proceeding.</section>

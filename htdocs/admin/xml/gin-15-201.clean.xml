@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">A policy of health insurance may not be delivered or issued for delivery in the State unless the policy complies with the provisions of this section and other sections of this article.</section>
     <section prefix="(b)">Each policy of health insurance shall state explicitly:<section prefix="(1)">any consideration, including the entire amount of money, given for the policy; and</section><section prefix="(2)">the time when the health insurance takes effect and terminates.</section></section>

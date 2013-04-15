@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-113" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">If any officer whose signature or a facsimile of whose signature appears on any bonds or notes ceases to be the officer before the delivery of the bonds or notes, the signature or facsimile is nevertheless valid and sufficient for all purposes as if he had remained in office until delivery.</section>
     <section prefix="(b)">Notwithstanding any other provision of this title or any recitals in any bonds and notes issued hereunder, all bonds and notes shall be deemed to be negotiable instruments under the laws of the State.</section>

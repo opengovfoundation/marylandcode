@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-815" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-815</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>815</order_by>
   <text>
     <section prefix="(a)">Within the period allowed in Subtitle 11 of this title, an action to collect tax imposed under this article may be brought in a court of competent jurisdiction.</section>
     <section prefix="(b)">If a person owes State and county or municipal corporation taxes to the same tax collector, an action under this section may combine claims for those taxes.</section>

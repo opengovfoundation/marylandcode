@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-18-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">The operator of a self-service storage facility has a lien on all personal property stored within each leased space for rent, labor, or other charges, and for expenses reasonably incurred in its sale, as provided in this subtitle.</section>
     <section prefix="(b)">The rental agreement shall contain a statement, in bold type, advising the occupant:<section prefix="(1)">Of the existence of the lien; and</section><section prefix="(2)">That property stored in the leased space may be sold to satisfy the lien if the occupant is in default.</section></section>

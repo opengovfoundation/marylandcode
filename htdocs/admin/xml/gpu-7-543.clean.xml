@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-543" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-543</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>543</order_by>
   <text>
     <section prefix="(a)">This section applies to a person that is a successor to an electric company, whether through:<section prefix="(1)">a reorganization, bankruptcy, or other insolvency proceeding;</section><section prefix="(2)">a merger or acquisition, sale, or other business combination; or</section><section prefix="(3)">a transfer by operation of law.</section></section>
     <section prefix="(b)">A successor to an electric company shall perform and satisfy all obligations of, and have the same rights under a qualified rate order as, the electric company under the qualified rate order in the same manner and to the same extent as the electric company, including:<section prefix="(1)">collecting the revenues, collections, payments, or proceeds of the rate stabilization property; and</section><section prefix="(2)">paying them to the person entitled to receive them.</section></section>

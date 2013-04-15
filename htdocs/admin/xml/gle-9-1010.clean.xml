@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1010" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-1010</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1010</order_by>
   <text>
     <section prefix="(a)">An assessment that is payable under this subtitle is a lien against the assets of the employer who is liable for the assessment.</section>
     <section prefix="(b)">A lien under subsection (a) of this section is subordinate to:<section prefix="(1)">claims for unpaid wages; and</section><section prefix="(2)">prior recorded liens.</section></section>

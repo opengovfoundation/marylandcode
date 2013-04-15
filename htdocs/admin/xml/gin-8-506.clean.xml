@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-506" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">An applicant for a license shall:<section prefix="(1)">file with the Commissioner an application on the form that the Commissioner provides; and</section><section prefix="(2)">pay to the Commissioner an application fee of $25.</section></section>
     <section prefix="(b)">The application form shall require:<section prefix="(1)">for a firm or association, the name of each member of the firm or association and of each employee of the firm or association who will act as a reinsurance intermediary under the license; and</section><section prefix="(2)">for a corporation, the name of each officer of the corporation and of each employee and director of the corporation who will act as a reinsurance intermediary under the license.</section></section>

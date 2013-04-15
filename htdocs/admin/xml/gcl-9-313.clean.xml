@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-313" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsection (b), a secured party may perfect a security interest in tangible negotiable documents, goods, instruments, money, or tangible chattel paper by taking possession of the collateral. A secured party may perfect a security interest in certificated securities by taking delivery of the certificated securities under &#xA7; 8-301 of this article.</section>
     <section prefix="(b)">With respect to goods covered by a certificate of title issued by this State, a secured party may perfect a security interest in the goods by taking possession of the goods only in the circumstances described in &#xA7; 9-316(d).</section>

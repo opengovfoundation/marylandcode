@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-205" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-4-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">There is a Board of Review for the Institution.</section>
     <section prefix="(b)">The Board of Review consists of the following nine members:<section prefix="(1)">the Director;</section><section prefix="(2)">the two associate directors;</section><section prefix="(3)">the warden; and</section><section prefix="(4)">five members of the public, one of whom is a member of a victim's rights organization, appointed by the Governor with the advice and consent of the Senate.</section></section>

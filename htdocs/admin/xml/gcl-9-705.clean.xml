@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-705" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">If action, other than the filing of a financing statement, is taken before this title takes effect and the action would have resulted in priority of a security interest over the rights of a person that becomes a lien creditor had the security interest become enforceable before this title takes effect, the action is effective to perfect a security interest that attaches under this title within one year after this title takes effect. An attached security interest becomes unperfected one year after this title takes effect unless the security interest becomes a perfected security interest under this title before the expiration of that period.</section>
     <section prefix="(b)">The filing of a financing statement before this title takes effect is effective to perfect a security interest to the extent the filing would satisfy the applicable requirements for perfection under this title.</section>

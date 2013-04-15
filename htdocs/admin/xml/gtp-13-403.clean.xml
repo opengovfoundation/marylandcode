@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-403" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-13-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">In this section, "domestic partner", "evidence of a domestic partnership", "evidence of dissolution of a domestic partnership", and "former domestic partner" have the meanings stated in &#xA7; 12-101 of this article.</section>
     <section prefix="(b)">An instrument of writing that transfers property between spouses or former spouses or between domestic partners or former domestic partners in accordance with a property settlement, divorce decree, or dissolution of a domestic partnership is not subject to a county transfer tax.</section>

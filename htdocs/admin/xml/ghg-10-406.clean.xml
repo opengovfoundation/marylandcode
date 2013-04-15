@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-406" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">The following State facilities shall be maintained under the direction of the Administration:<section prefix="(1)">Clifton T. Perkins Hospital Center;</section><section prefix="(2)">Eastern Shore Hospital Center;</section><section prefix="(3)">Regional Institutes for Children and Adolescents - Baltimore and Rockville;</section><section prefix="(4)">Springfield Hospital Center;</section><section prefix="(5)">Spring Grove Hospital Center; and</section><section prefix="(6)">Thomas B. Finan Hospital Center.</section></section>
     <section prefix="(b)">As a facility is built or transferred to the Administration, the facility may be made a State facility.</section>

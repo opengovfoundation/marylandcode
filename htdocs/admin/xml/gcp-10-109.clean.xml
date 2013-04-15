@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-109" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Disclosure of expunged information about criminal charges in an application, interview, or other means may not be required:<section prefix="(i)">by an employer or educational institution of a person who applies for employment or admission; or</section><section prefix="(ii)">by a unit, official, or employee of the State or a political subdivision of the State of a person who applies for a license, permit, registration, or governmental service.</section></section>

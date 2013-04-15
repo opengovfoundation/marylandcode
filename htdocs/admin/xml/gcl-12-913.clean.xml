@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-913" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-913</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>913</order_by>
   <text>
     <section prefix="(a)">Unless otherwise provided under the express terms of the agreement governing a revolving credit plan, the provisions of Subtitle 1, 3, 4, 5, 6, or 10 of this title do not apply to any extension of credit made pursuant to a revolving credit plan if:<section prefix="(1)">The plan is established before October 1, 1993; and</section><section prefix="(2)">The extension of credit is made under this subtitle before October 1, 1993.</section></section>
     <section prefix="(b)">For the purposes of subsection (a) of this section, an extension of credit is made under this subtitle if:<section prefix="(1)">The credit grantor has made a written election to do so in the agreement governing the plan; or</section><section prefix="(2)">The agreement governing the plan is offered pursuant to the provisions of this subtitle.</section></section>

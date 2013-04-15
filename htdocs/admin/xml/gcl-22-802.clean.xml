@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-802" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">An aggrieved party may cancel a contract if there is a material breach that has not been cured or waived or the agreement allows cancellation for the breach.</section>
     <section prefix="(b)">Cancellation is not effective until the canceling party gives notice of cancellation to the party in breach, unless a delay required to notify the party would cause or threaten material harm or loss to the aggrieved party. The notification may be in any form reasonable under the circumstances. However, in an access contract, a party may cancel rights of access without notice.</section>

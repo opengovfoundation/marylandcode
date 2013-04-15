@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-427" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-427</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>427</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a provider has a governing body, at least one of the provider's subscribers shall be a full and regular member of the governing body.</section>

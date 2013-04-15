@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-6A-01" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-6A-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subtitle, "elected member" means a voting member elected under subsection (d) or (e) of this section or a member appointed to an elected position on the Harford County Board of Education under subsection (e)(2) of this section.</section>
@@ -42,7 +42,7 @@
       <section prefix="(3)">
         <section prefix="(i)">Except as otherwise provided in subparagraph (iii) of this paragraph, the student member of the county board has the same rights and privileges as a member appointed or elected under subsection (d) of this section.</section>
         <section prefix="(ii)">Unless invited to attend by an affirmative vote of a majority of the county board, the student member may not attend an executive session of the county board addressing a matter on which a student member is prohibited from voting on under subparagraph (iii) of this paragraph.</section>
-        <section prefix="(iii)">The student member shall vote on and participate in all matters except those relating to:</section>
+        <section prefix="(iii)">The student member shall vote on and participate in all matters except those relating to:<section prefix="1.">Geographical attendance areas under &#xA7; 4-109 of this article;</section><section prefix="2.">Acquisition and disposition of real property and matters pertaining to school construction under &#xA7; 4-115 of this article;</section><section prefix="3.">Employment of architects under &#xA7; 4-117 of this article;</section><section prefix="4.">Donations under &#xA7; 4-118 of this article;</section><section prefix="5.">Condemnation under &#xA7; 4-119 of this article;</section><section prefix="6.">Consolidation of schools and transportation of students under &#xA7; 4-120 of this article;</section><section prefix="7.">Appointment and salary of a county superintendent under &#xA7;&#xA7; 4-201 and 4-202 of this article;</section><section prefix="8.">Employee discipline and other appeals under &#xA7; 4-205(c) of this article;</section><section prefix="9.">Budgetary matters under Title 5 of this article;</section><section prefix="10.">Appointment and promotion of staff under &#xA7; 6-201 of this article;</section><section prefix="11.">Discipline of certificated staff under &#xA7; 6-202 of this article;</section><section prefix="12.">Collective bargaining for certificated employees under Title 6, Subtitle 4 of this article;</section><section prefix="13.">Collective bargaining for noncertificated employees under Title 6, Subtitle 5 of this article;</section><section prefix="14.">Student suspension and expulsion under &#xA7; 7-305 of this article; and</section><section prefix="15.">School calendar and curriculum.</section></section>
       </section>
     </section>
   </text>

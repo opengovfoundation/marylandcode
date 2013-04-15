@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-401" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-1-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Alternative health care system" means a system of health care delivery other than a hospital or related institution.</section>
-        <section prefix="(ii)">"Alternative health care system" includes:</section>
+        <section prefix="(ii)">"Alternative health care system" includes:<section prefix="1.">A health maintenance organization;</section><section prefix="2.">A preferred provider organization;</section><section prefix="3.">An independent practice association;</section><section prefix="4.">A community health center that is a nonprofit, freestanding ambulatory health care provider governed by a voluntary board of directors and that provides primary health care services to the medically indigent;</section><section prefix="5.">A freestanding ambulatory care facility as that term is defined in &#xA7; 19-3B-01 of the Health - General Article; or</section><section prefix="6.">Any other health care delivery system that utilizes a medical review committee.</section></section>
       </section>
       <section prefix="(3)">"Medical review committee" means a committee or board that:<section prefix="(i)">Is within one of the categories described in subsection (b) of this section; and</section><section prefix="(ii)">Performs functions that include at least one of the functions listed in subsection (c) of this section.</section></section>
       <section prefix="(4)">

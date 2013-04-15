@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="29-107" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-29-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">This section applies only to members of the State Police Retirement System.</section>
     <section prefix="(b)">An ordinary disability retirement allowance equals the greater of:<section prefix="(1)">a normal service retirement allowance; or</section><section prefix="(2)">35% of the member's average final compensation.</section></section>

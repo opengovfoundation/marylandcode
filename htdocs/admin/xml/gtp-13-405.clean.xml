@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-405" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-13-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (c) of this section, county transfer tax applies to conveyances that transfer the real property of a corporation to its stockholders, a limited liability company to its members, or a partnership to its partners on:<section prefix="(1)">liquidation;</section><section prefix="(2)">dissolution; or</section><section prefix="(3)">termination.</section></section>
     <section prefix="(b)">For a conveyance that is taxable under this section, county transfer tax applies to the value of the real property determined by the Department at the date of finality immediately before the date of transfer.</section>

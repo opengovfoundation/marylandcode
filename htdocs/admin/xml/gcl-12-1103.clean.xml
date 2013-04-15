@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1103" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A lessor shall disclose to a consumer the information required under this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-215" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">In this section, "bodily fluid" means seminal fluid, blood, urine, or feces.</section>
     <section prefix="(b)">A person may not knowingly and willfully cause another to ingest bodily fluid:<section prefix="(1)">without consent; or</section><section prefix="(2)">by force or threat of force.</section></section>

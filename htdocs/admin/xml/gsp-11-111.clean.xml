@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-111" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-11-111</section_number>
-  <catch_line/>
+  <catch_line>The Secretary, by regulation, shall establish policies and procedures for disciplinary actions relat...</catch_line>
+  <order_by>111</order_by>
   <text>The Secretary, by regulation, shall establish policies and procedures for disciplinary actions related to employee performance, that include procedures for:<section prefix=""><section prefix="(1)">providing counseling to an employee with deficiencies in performance;</section><section prefix="(2)">allowing an employee the opportunity to improve deficiencies in performance;</section><section prefix="(3)">imposing disciplinary actions, if warranted; and</section><section prefix="(4)">providing notice to an employee of any disciplinary action and the employee's appeal rights.</section></section></text>
 </law>

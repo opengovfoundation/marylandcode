@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-702" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-702</section_number>
-  <catch_line/>
+  <catch_line>A candidate for public office of a political party shall be nominated in accordance with the require...</catch_line>
+  <order_by>702</order_by>
   <text>A candidate for public office of a political party shall be nominated in accordance with the requirements of Subtitles 2 through 4 of this title unless the candidate is:<section prefix=""><section prefix="(1)">nominated by:<section prefix="(i)">petition under &#xA7; 5-703 of this subtitle; or</section><section prefix="(ii)">political party under &#xA7; 5-703.1 of this subtitle; or</section></section><section prefix="(2)">a write-in candidate under &#xA7; 5-704 of this subtitle.</section></section></text>
 </law>

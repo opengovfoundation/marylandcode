@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-209" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">Subject to the policies established by the Commissioner, the Deputy Commissioner is generally in charge of administrative procedures in the Division.</section>
     <section prefix="(b)">In the absence of the Commissioner, the Deputy Commissioner shall be acting Commissioner.</section>

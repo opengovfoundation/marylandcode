@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1004" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-13-1004</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1004</order_by>
   <text>
     <section prefix="(a)">There is a body corporate and politic known as the Canal Place Preservation and Development Authority.</section>
     <section prefix="(b)">The Authority is an instrumentality of the State and a public corporation by that name, style, and title.</section>

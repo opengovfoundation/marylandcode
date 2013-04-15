@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-244" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-244</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>244</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">There is established a Council to be known as the "Compact Council", which shall have the authority to promulgate rules and procedures governing the use of the III System for noncriminal justice purposes, not to conflict with FBI administration of the III System for criminal justice purposes.</section>

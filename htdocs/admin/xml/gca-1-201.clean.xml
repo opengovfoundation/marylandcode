@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-201" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">The Department may not accept for record any charter document of a Maryland corporation which does not conform with law. However, any document which purports to be acknowledged may be treated by the Department as properly acknowledged.</section>
     <section prefix="(b)">The Department may not accept for record or filing any charter document, qualification, registration, change of resident agent or principal office, report, service of process or notice, or other document until all required recording, filing, organization and capitalization, and other special fees have been paid to the Department.</section>

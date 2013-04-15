@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-905" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">There is a Debt Management Services Fund that consists of:<section prefix="(1)">All revenue received for the licensing of persons that provide debt management services under this subtitle;</section><section prefix="(2)">Income from investments that the Treasurer makes for the Fund; and</section><section prefix="(3)">Except as provided in subsection (b) of this section, any other fee or revenue received by the Commissioner under this subtitle.</section></section>
     <section prefix="(b)">The Commissioner shall pay all fines and penalties collected by the Commissioner under this subtitle into the General Fund of the State.</section>

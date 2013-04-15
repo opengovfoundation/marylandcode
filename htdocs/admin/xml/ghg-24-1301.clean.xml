@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-1301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-1301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Federally qualified health center" means a health center that is:<section prefix="(1)">Designated as a federally qualified health center under &#xA7; 330 of the federal Public Health Service Act, 42 U.S.C. 254b; and</section><section prefix="(2)">Wholly owned by and operated under the authority of a county, municipal corporation, or nonprofit organization.</section></section>

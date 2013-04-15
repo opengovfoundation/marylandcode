@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-410" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-16-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -16,7 +16,7 @@
     <section prefix="(b)">
       <section prefix="(1)">For the purpose of all hearings and inquiries which the board is authorized to hold and make, the board may issue summonses for witnesses, and administer to them oaths or affirmations.</section>
       <section prefix="(2)">
-        <section prefix="(i)">All summonses shall be served by the sheriff, except that:</section>
+        <section prefix="(i)">All summonses shall be served by the sheriff, except that:<section prefix="1.">In the City of Annapolis, summonses may also be served by the Annapolis Police Department;</section><section prefix="2.">In Anne Arundel County, summonses may also be served by inspectors employed by the Board and by the Anne Arundel County Police Department;</section><section prefix="3.">In Baltimore City, summonses may also be served by inspectors employed by the Board of Liquor License Commissioners for Baltimore City;</section><section prefix="4.">In Cecil County, summonses may also be served by inspectors employed by the Cecil County Board of License Commissioners;</section><section prefix="5.">In Dorchester County, summonses may also be served by the inspector employed by Dorchester County and assigned to the Board of License Commissioners; and</section><section prefix="6.">In Harford County, summonses may also be served by inspectors employed by the Harford County Liquor Control Board.</section></section>
         <section prefix="(ii)">If any witness summoned refuses or neglects to attend, or if attending, refuses to testify, the official issuing the summons shall report the facts to the circuit court for the county. The court shall proceed by attachment against the witness in all respects as if the witness summoned to appear in the court in a case pending before it had neglected or refused to do so.</section>
       </section>
     </section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-313" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">
-      <section prefix="(1)">"Manufacture" means:<section prefix="(i)">with respect to an unlawful access device:</section><section prefix="(ii)">with respect to an unlawful telecommunication device or access code:</section></section>
+      <section prefix="(1)">"Manufacture" means:<section prefix="(i)">with respect to an unlawful access device:<section prefix="1.">to make, produce, or assemble an unlawful access device; or</section><section prefix="2.">to modify, alter, program, or reprogram technology, software, or a device to defeat or circumvent technology, software, or a device that is used by the provider, owner, or licensee of a telecommunication service or of a data, audio, or video service, program, or transmission, to protect the telecommunication, data, audio, or video service, program, or transmission from unauthorized receipt, acquisition, access, decryption, disclosure, communication, transmission, or retransmission; and</section></section><section prefix="(ii)">with respect to an unlawful telecommunication device or access code:<section prefix="1.">to make, produce, or assemble an unlawful telecommunication device or access code; or</section><section prefix="2.">to modify, alter, program, or reprogram a telecommunication device or access code to be capable of acquiring, disrupting, receiving, transmitting, decrypting, or facilitating the acquisition, disruption, receipt, transmission, or decryption of a telecommunication service without the express consent or express authorization of the telecommunication service provider.</section></section></section>
       <section prefix="(2)">"Manufacture" includes knowingly to assist another in performing an activity described in paragraph (1) of this subsection.</section>
     </section>
     <section prefix="(c)">"Telecommunication device or access code" means:<section prefix="(1)">an instrument, device, machine, equipment, technology, or software that is capable of transmitting, acquiring, decrypting, or receiving telephonic, electronic, data, Internet access, audio, video, microwave or radio communications, transmissions, signals, or services provided by or through a cable television, fiber optic, telephone, satellite, microwave, data transmission, radio, Internet-based, or wireless distribution network, system, or facility;</section><section prefix="(2)">a part, accessory, or component of an item listed in item (1) of this subsection, including a computer circuit, security module, smart card, software, computer chip, electronic mechanism, or other part, component, or accessory of any telecommunication device that is capable of facilitating the transmission, decryption, acquisition, or reception of any type of communication, transmission, signal, or service listed in item (1) of this subsection; or</section><section prefix="(3)">an electronic serial number, mobile identification number, service access card, account number, or personal identification number used to acquire, receive, use, or transmit a telecommunication service.</section></section>

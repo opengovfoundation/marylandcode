@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-208" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-12-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in &#xA7;&#xA7; 12-209 and 12-210 of this subtitle, an owner of seized property who wishes to obtain possession of the property, to convey an interest in real property, or to remove a building or fixture from real property shall notify the clerk of the proper court.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-206" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-4-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">The following units are in the Department:<section prefix="(1)">the Board of Architectural Review;</section><section prefix="(2)">the General Professional Services Selection Board;</section><section prefix="(3)">the Purchasing Bureau; and</section><section prefix="(4)">any other unit that is in the Department under any other law.</section></section>
     <section prefix="(b)">Each unit in the Department shall report to the Secretary.</section>

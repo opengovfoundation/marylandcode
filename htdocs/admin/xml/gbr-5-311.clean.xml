@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-311" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this section, the Director or the Director's designee shall commence proceedings on a complaint made by any person to the Director.</section>
     <section prefix="(b)">A complaint shall:<section prefix="(1)">be in writing;</section><section prefix="(2)">state specifically the facts on which the complaint is based; and</section><section prefix="(3)">be made under oath by the person who submits the complaint.</section></section>

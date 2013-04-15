@@ -1,15 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-410" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">In consultation with the appropriate agencies of State and local government, the Service shall prepare by June 1, 1981, an initial inventory of potential hazardous waste facility sites and a program for utilizing these sites that appear suitable for and capable of meeting disposal demands.</section>
+          <section prefix="2.">In consultation with the appropriate agencies of State and local government, and as needed, the Service shall prepare an initial inventory of potential low-level nuclear waste sites and a program for using those sites which appear suitable for and capable of meeting disposal demands.</section>
+          <section prefix="3.">In consultation with appropriate State and local officials and governing bodies, the Service shall, as needed, update the inventories and programs prepared under subsubparagraphs 1 and 2 of this subparagraph.</section>
+          <section prefix="4.">The Service shall develop guidelines, consistent with the provisions of this subtitle, for evaluating types of sites for placement on the inventory, and shall apply said guidelines uniformly to all sites of a given type considered for placement on the inventory.</section>
+        </section>
         <section prefix="(ii)">In preparing the inventory, the Service shall solicit and consider recommendations from the governing body of each subdivision who shall prepare a list of sites which are believed to meet or exceed the requirement for facilities of the types under consideration by the Board. If the governing body cannot agree upon specific sites within 6 months of the request, the Service may select the sites for inclusion on the inventory.</section>
         <section prefix="(iii)">The Service shall consider any recommendation that is submitted under this subsection on or before September 1, 1980, and shall advise the governing body of a subdivision in writing of any rejection of a site that it recommended and of the reasons for the rejection.</section>
       </section>

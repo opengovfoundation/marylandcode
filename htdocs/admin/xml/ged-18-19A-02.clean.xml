@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-19A-02" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-19A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">There is a Maryland College Investment Plan.</section>
     <section prefix="(b)">The purpose of the Plan is to allow contributions to an investment account established for the purposes of meeting the qualified higher education expenses of the qualified designated beneficiary of the account.</section>

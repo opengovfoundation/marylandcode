@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-1001" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">In this section, "good faith" means an informed judgment based on honesty and diligence supported by evidence the insurer knew or should have known at the time the insurer made a decision on a claim.</section>
     <section prefix="(b)">This section applies only to actions under &#xA7; 3-1701 of the Courts Article.</section>
@@ -21,10 +21,10 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">
-        <section prefix="(i)">Within 90 days after the date the filing was received by the Administration, the Administration shall issue a decision that determines:</section>
+        <section prefix="(i)">Within 90 days after the date the filing was received by the Administration, the Administration shall issue a decision that determines:<section prefix="1.">whether the insurer is obligated under the applicable policy to cover the underlying first-party claim;</section><section prefix="2.">the amount the insured was entitled to receive from the insurer under the applicable policy on the underlying covered first-party claim;</section><section prefix="3.">whether the insurer breached its obligation under the applicable policy to cover and pay the underlying covered first-party claim, as determined by the Administration;</section><section prefix="4.">whether an insurer that breached its obligation failed to act in good faith; and</section><section prefix="5.">the amount of damages, expenses, litigation costs, and interest, as applicable and as authorized under paragraph (2) of this subsection.</section></section>
         <section prefix="(ii)">The failure of the Administration to issue a decision within the time specified in subparagraph (i) of this paragraph shall be considered a determination that the insurer did not breach any obligation to the insured.</section>
       </section>
-      <section prefix="(2)">With respect to the determination of damages under paragraph (1)(i)5 of this subsection:<section prefix="(i)">if the Administration finds that the insurer breached an obligation to the insured, the Administration shall determine the obligation of the insurer to pay:</section><section prefix="(ii)">if the Administration also finds that the insurer failed to act in good faith, the Administration shall also determine the obligation of the insurer to pay:</section></section>
+      <section prefix="(2)">With respect to the determination of damages under paragraph (1)(i)5 of this subsection:<section prefix="(i)">if the Administration finds that the insurer breached an obligation to the insured, the Administration shall determine the obligation of the insurer to pay:<section prefix="1.">actual damages, which actual damages may not exceed the limits of any applicable policy; and</section><section prefix="2.">interest on all actual damages incurred by the insured computed:</section></section><section prefix="(ii)">if the Administration also finds that the insurer failed to act in good faith, the Administration shall also determine the obligation of the insurer to pay:<section prefix="1.">expenses and litigation costs incurred by the insured, including reasonable attorney's fees, in pursuing recovery under this subtitle; and</section><section prefix="2.">interest on all expenses and litigation costs incurred by the insured computed:</section></section></section>
       <section prefix="(3)">An insurer may not be found to have failed to act in good faith under this section solely on the basis of delay in determining coverage or the extent of payment to which the insured is entitled if the insurer acted within the time period specified by statute or regulation for investigation of a claim by an insurer.</section>
       <section prefix="(4)">The amount of the attorney's fees determined to be payable to an insured under paragraph (2) of this subsection may not exceed one-third of the actual damages payable to the insured.</section>
       <section prefix="(5)">The Administration shall serve a copy of the decision on the insured and the insurer in accordance with &#xA7; 2-204(c) of this article.</section>
@@ -38,7 +38,7 @@
       <section prefix="(1)">If a party receives an adverse decision, the party may appeal a final decision by the Administration or an administrative law judge under this section to a circuit court in accordance with &#xA7; 2-215 of this article and Title 10, Subtitle 2 of the State Government Article.</section>
       <section prefix="(2)">
         <section prefix="(i)">This paragraph applies only if more than one party receives an adverse decision from the Administration.</section>
-        <section prefix="(ii)">If a party requests a hearing before the Office of Administrative Hearings and another party files an appeal to a circuit court:</section>
+        <section prefix="(ii)">If a party requests a hearing before the Office of Administrative Hearings and another party files an appeal to a circuit court:<section prefix="1.">jurisdiction over the request for hearing is transferred to the circuit court;</section><section prefix="2.">the request for hearing, the Administration's decision, and the Administration's case file, including the complaint, response, and all documents submitted to the Administration, shall be transmitted promptly to the circuit court; and</section><section prefix="3.">the request for hearing shall be docketed in the circuit court and consolidated for trial with the appeal.</section></section>
       </section>
       <section prefix="(3)">Notwithstanding any other provision of law, an appeal to a circuit court under this section shall be heard de novo.</section>
     </section>

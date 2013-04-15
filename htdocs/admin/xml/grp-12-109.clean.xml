@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-109" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-12-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">The exclusive method of abandoning a proceeding for condemnation shall be by the plaintiff's filing, in the proceeding, a written election to abandon. A copy of the election shall be served as provided in the Maryland Rules, on each defendant who has been personally subjected to the jurisdiction of the court. Every other defendant shall be notified of the election by service of a copy or by any other means the court directs.</section>
     <section prefix="(b)">The filing of the election has the effect of:<section prefix="(1)">Reducing any money judgment entered in the proceeding to a judgment for costs only, and the clerk immediately shall make the entry on his docket and judgment record to reflect this; and</section><section prefix="(2)">Annulling any inquisition returned in the proceeding, and any judgment entered in it, to the extent that the inquisition or judgment affects the title of any defendant to the property which was sought to be condemned.</section></section>

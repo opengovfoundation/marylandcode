@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-405" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">Each employer who wants to self-insure under this section shall satisfy the Commission that the employer is financially able to pay compensation.</section>
     <section prefix="(b)">
-      <section prefix="(1)">At any time, the Commission may require an employer who self-insures under this section to secure payment of compensation by depositing with the Commission:<section prefix="(i)">security:</section><section prefix="(ii)">letters of credit:</section></section>
+      <section prefix="(1)">At any time, the Commission may require an employer who self-insures under this section to secure payment of compensation by depositing with the Commission:<section prefix="(i)">security:<section prefix="1.">in a form accepted by a circuit court for investment of trust money; and</section><section prefix="2.">in the amount set by the Commission; or</section></section><section prefix="(ii)">letters of credit:<section prefix="1.">issued by a financial institution acceptable to the Commission;</section><section prefix="2.">in a form acceptable to and in the amount set by the Commission; and</section><section prefix="3.">that meet the requirements of &#xA7; 9-408(c) of this subtitle.</section></section></section>
       <section prefix="(2)">On application and subject to paragraph (3) of this subsection, the Commission shall return security that an employer has deposited under this subsection if the employer:<section prefix="(i)">ceases to be subject to this title or secures compensation through an authorized insurer or the Chesapeake Employers' Insurance Company; and</section><section prefix="(ii)">has not been liable on a claim for compensation during the 5 years immediately after the day on which the event described in item (i) of this paragraph occurred.</section></section>
       <section prefix="(3)">After reviewing the application and before returning security to an employer the Commission may require the employer to submit to the Commission an indemnity bond in an amount equal to the value of the security.</section>
     </section>
@@ -26,9 +26,9 @@
     <section prefix="(f)">
       <section prefix="(1)">The Commission shall revoke the approval of an employer to self-insure under this section if the employer:<section prefix="(i)">fails to deposit securities or letters of credit with or submit a bond to the Commission in accordance with subsection (b) of this section;</section><section prefix="(ii)">fails to submit satisfactory reports to the Commission in accordance with subsection (e)(1)(i) of this section; or</section><section prefix="(iii)">otherwise fails to satisfy the Commission that it is financially able to secure compensation.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">On notice to the Commission pursuant to &#xA7; 9-408(c)(2) of this subtitle that a letter of credit will not be renewed, the Commission shall demand that, within 30 days, the employer provide:</section>
+        <section prefix="(i)">On notice to the Commission pursuant to &#xA7; 9-408(c)(2) of this subtitle that a letter of credit will not be renewed, the Commission shall demand that, within 30 days, the employer provide:<section prefix="1.">other satisfactory proof of the employer's financial ability to pay; or</section><section prefix="2.">another letter of credit in the same amount from another qualifying financial institution.</section></section>
         <section prefix="(ii)">If the employer fails to furnish other satisfactory proof of the financial ability to pay or another acceptable letter of credit within 30 days after receipt of a demand under subparagraph (i) of this paragraph, the Commission shall demand payment from the financial institution of, and the financial institution shall pay, the amount represented by the letter of credit.</section>
-        <section prefix="(iii)">The Commission shall hold as security under this section the amount demanded and received under subparagraph (ii) of this paragraph until the employer can provide:</section>
+        <section prefix="(iii)">The Commission shall hold as security under this section the amount demanded and received under subparagraph (ii) of this paragraph until the employer can provide:<section prefix="1.">satisfactory proof of the employer's financial ability to pay; or</section><section prefix="2.">another acceptable letter of credit.</section></section>
         <section prefix="(iv)">On provision of satisfactory proof of financial ability to pay or an acceptable letter of credit, the Commission shall return the amount of the letter of credit to the employer or the financial institution, whichever has the equitable right to that amount at the time that the proof or letter of credit is provided.</section>
       </section>
       <section prefix="(3)">Whenever the Commission revokes approval for an employer to self-insure under this section, the employer immediately shall secure compensation through an authorized insurer or the Chesapeake Employers' Insurance Company.</section>

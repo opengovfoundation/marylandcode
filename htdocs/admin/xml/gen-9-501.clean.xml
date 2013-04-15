@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-501" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Community sewerage system" means a publicly or privately owned sewerage system that serves at least 2 lots.</section>
@@ -39,7 +39,7 @@
       <section prefix="(1)">"Subdivision" means any division of a tract or parcel of land into at least 2 lots, for the purpose of sale or building development.</section>
       <section prefix="(2)">"Subdivision" includes any change in street lines or lot lines.</section>
       <section prefix="(3)">Except as provided in paragraph (4) of this subsection, "subdivision" does not include any division of land into parcels of more than 3 acres, if the division:<section prefix="(i)">Is for agricultural purposes; and</section><section prefix="(ii)">Does not involve any new street or easement of access.</section></section>
-      <section prefix="(4)">In Carroll County, "subdivision" does not include:<section prefix="(i)">Any division of land into parcels of more than 3 acres, if the division:</section><section prefix="(ii)">A remainder parcel of land of 25 acres or more that exists as a result of the division of a large parcel into at least 2 smaller parcels, provided that any occupied dwelling on the remainder parcel is serviced by a properly functioning sewerage disposal system and potable water supply.</section></section>
+      <section prefix="(4)">In Carroll County, "subdivision" does not include:<section prefix="(i)">Any division of land into parcels of more than 3 acres, if the division:<section prefix="1.">Is for agricultural purposes; and</section><section prefix="2.">Does not involve any new street or easement of access; or</section></section><section prefix="(ii)">A remainder parcel of land of 25 acres or more that exists as a result of the division of a large parcel into at least 2 smaller parcels, provided that any occupied dwelling on the remainder parcel is serviced by a properly functioning sewerage disposal system and potable water supply.</section></section>
     </section>
     <section prefix="(q)">
       <section prefix="(1)">"Water supply system" means a publicly or privately owned or operated:<section prefix="(i)">Source and the surrounding area from which water is supplied for drinking or domestic purposes; and</section><section prefix="(ii)">Structure, channel, or appurtenance used or intended to be used to prepare water for use or to deliver water to a consumer.</section></section>

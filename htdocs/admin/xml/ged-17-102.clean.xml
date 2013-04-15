@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-102" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-17-102</section_number>
-  <catch_line/>
+  <catch_line>Subject to review by the Board of Public Works, the Maryland Higher Education Commission shall adopt...</catch_line>
+  <order_by>102</order_by>
   <text>Subject to review by the Board of Public Works, the Maryland Higher Education Commission shall adopt standards and procedures, not inconsistent with this subtitle, to implement and administer the aid program provided for by this subtitle, including standards and procedures for:<section prefix=""><section prefix="(1)">Submitting applications for aid;</section><section prefix="(2)">Verifying full-time equivalent student enrollment by institutions that apply for aid;</section><section prefix="(3)">Submitting reports or data on the use of this money by the institutions that receive it; and</section><section prefix="(4)">Paying the aid to the institutions during the fiscal year.</section></section></text>
 </law>

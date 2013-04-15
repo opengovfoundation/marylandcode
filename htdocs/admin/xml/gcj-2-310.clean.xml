@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-310" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">The sheriff of Baltimore City and each county may appoint, from time to time, from among his deputies a second in command. On the death, disqualification, or resignation of the sheriff or in the event the sheriff is convicted of a felony, the second in command shall succeed to all the powers, duties, responsibilities, and obligations of the sheriff until a successor has been appointed by the Governor.</section>
     <section prefix="(b)">Immediately upon assuming the powers of the sheriff, the second in command shall file a bond with the State Comptroller, in the same penalty and on the same conditions as that required of the sheriff.</section>

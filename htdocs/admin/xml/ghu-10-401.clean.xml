@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-401" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Assisted living program" has the meaning stated in &#xA7; 19-1801 of the Health - General Article.</section>
@@ -29,7 +29,7 @@
       <section prefix="(3)">"Entrance fee" does not include a surcharge.</section>
     </section>
     <section prefix="(l)">
-      <section prefix="(1)">"Expansion" means any single new capital addition to an existing facility that meets either of the following criteria:<section prefix="(i)">if independent or assisted living units are to be constructed, the number of units to be constructed is less than or equal to 25% of the number of existing independent and assisted living units; or</section><section prefix="(ii)">if independent or assisted living units are not to be constructed, the total projected cost exceeds the sum of:</section></section>
+      <section prefix="(1)">"Expansion" means any single new capital addition to an existing facility that meets either of the following criteria:<section prefix="(i)">if independent or assisted living units are to be constructed, the number of units to be constructed is less than or equal to 25% of the number of existing independent and assisted living units; or</section><section prefix="(ii)">if independent or assisted living units are not to be constructed, the total projected cost exceeds the sum of:<section prefix="1.">10% of the total operating expenses, less depreciation, amortization, and interest expense of the facility as shown on the certified financial statement for the most recent fiscal year for which a certified financial statement is available; and</section><section prefix="2.">the amount of the existing reserves properly allocable to, and allocated for, the expansion.</section></section></section>
       <section prefix="(2)">"Expansion" does not include renovation and normal repair and maintenance.</section>
     </section>
     <section prefix="(m)">"Facility" means a physical plant in which continuing care in a retirement community is provided in accordance with this subtitle.</section>

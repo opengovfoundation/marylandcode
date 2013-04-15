@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-402" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-22-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Judicial review of a final action of the district council on an application for a map amendment may be requested by:<section prefix="(i)">a person aggrieved by the action; or</section><section prefix="(ii)">a person or municipal corporation that appeared at the hearing in person, by attorney, or in writing.</section></section>
@@ -14,7 +14,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">When a petition for judicial review is filed, a copy of the petition shall be served on the district council in accordance with Maryland Rule 7-202(d).</section>
-      <section prefix="(2)">On receiving a copy of the petition, the district council shall:<section prefix="(i)">promptly give notice of the petition to all parties to the proceeding before it; and</section><section prefix="(ii)">within 30 days after the filing of the petition, file with the circuit court:</section></section>
+      <section prefix="(2)">On receiving a copy of the petition, the district council shall:<section prefix="(i)">promptly give notice of the petition to all parties to the proceeding before it; and</section><section prefix="(ii)">within 30 days after the filing of the petition, file with the circuit court:<section prefix="1.">the originals or certified copies of all papers and evidence presented to the district council in the proceeding before it; and</section><section prefix="2.">a copy of its opinion and resolution deciding the application.</section></section></section>
       <section prefix="(3)">Any party to the proceeding in the circuit court aggrieved by the judgment of the court may appeal from the judgment to the Court of Special Appeals.</section>
       <section prefix="(4)">The review proceedings provided by this section are exclusive.</section>
     </section>

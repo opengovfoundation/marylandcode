@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-309" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A medical examiner shall investigate the death of a human being if the death occurs:<section prefix="(i)">By violence;</section><section prefix="(ii)">By suicide;</section><section prefix="(iii)">By casualty;</section><section prefix="(iv)">Suddenly, if the deceased was in apparent good health or unattended by a physician; or</section><section prefix="(v)">In any suspicious or unusual manner.</section></section>

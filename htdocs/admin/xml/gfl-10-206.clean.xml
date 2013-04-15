@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-206" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">An order to pay support under this subtitle is a lien on the earnings of the accused individual.</section>
     <section prefix="(b)">The court shall send a certified copy of each order that establishes a lien on earnings to the appropriate support enforcement agency. The support enforcement agency shall notify the individual's employer of the lien.</section>

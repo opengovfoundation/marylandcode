@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-406" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">Each application for a certificate submitted to the Board shall contain a report with information of the type, quality, and detail that will permit adequate consideration of the environmental, social, technical, and economic factors involved in the establishment and operation of the proposed facilities. The applicant shall make the report available to affected subdivisions and to the public.</section>
     <section prefix="(b)">
@@ -19,7 +19,7 @@
     <section prefix="(d)">Acceptance by the Board of any application for processing does not preclude the Board from requiring further information from the applicant if the Board considers the additional information necessary for adequate consideration of the application.</section>
     <section prefix="(e)">
       <section prefix="(1)">The Board shall adopt regulations describing and governing the procedure for obtaining a certificate, including procedures under paragraph (2) of this subsection. The provisions of this section do not exempt the Board from the requirements of Title 10, Subtitles 1 and 2 of the State Government Article.</section>
-      <section prefix="(2)">Procedural regulations adopted under this subsection shall:<section prefix="(i)">Provide for notice to interested persons of any decision to issue or deny a certificate;</section><section prefix="(ii)">Permit a person to request a hearing under Title 10, Subtitle 2 of the State Government Article (Administrative Procedure Act - Contested Cases), if the person makes factual allegations with sufficient particularity to demonstrate that:</section><section prefix="(iii)">Provide the Board with discretionary authority to stay the effectiveness of its decision pending the outcome of the hearing; and</section><section prefix="(iv)">Provide that, if a request for a hearing is granted, the Board's final decision on the application shall be based on the record made in the hearing, including the proposed findings of fact and conclusions of law recommended to the Board by the presiding officer.</section></section>
+      <section prefix="(2)">Procedural regulations adopted under this subsection shall:<section prefix="(i)">Provide for notice to interested persons of any decision to issue or deny a certificate;</section><section prefix="(ii)">Permit a person to request a hearing under Title 10, Subtitle 2 of the State Government Article (Administrative Procedure Act - Contested Cases), if the person makes factual allegations with sufficient particularity to demonstrate that:<section prefix="1.">The person is aggrieved by the decision; and</section><section prefix="2.">The decision is:</section></section><section prefix="(iii)">Provide the Board with discretionary authority to stay the effectiveness of its decision pending the outcome of the hearing; and</section><section prefix="(iv)">Provide that, if a request for a hearing is granted, the Board's final decision on the application shall be based on the record made in the hearing, including the proposed findings of fact and conclusions of law recommended to the Board by the presiding officer.</section></section>
     </section>
     <section prefix="(f)">
       <section prefix="(1)">At least 90 days prior to issuance of a certificate, the Board shall seek the advice and comment of the following:<section prefix="(i)">The Secretaries of Natural Resources, the Environment, Business and Economic Development, and Agriculture;</section><section prefix="(ii)">The Director of Planning;</section><section prefix="(iii)">The Controlled Hazardous Substances Advisory Council; and</section><section prefix="(iv)">The governing body of any subdivision of the State within which all or part of the proposed site is to be located and the governing bodies of adjoining subdivisions.</section></section>

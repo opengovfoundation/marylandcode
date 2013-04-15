@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-406" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">A person may not in the State knowingly sell, install, consent, or cause to be installed glazing material other than safety glazing material in, or for use in, a hazardous location.</section>
     <section prefix="(b)">A worker who is an employee of a contractor, subcontractor, or other employer responsible for compliance with this subtitle, is not liable for a violation of this subtitle.</section>

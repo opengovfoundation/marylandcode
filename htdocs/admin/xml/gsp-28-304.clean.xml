@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="28-304" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-28-304</section_number>
-  <catch_line/>
+  <catch_line>A member is entitled to eligibility service that equals:...</catch_line>
+  <order_by>304</order_by>
   <text>A member is entitled to eligibility service that equals:<section prefix=""><section prefix="(1)">the member's service credit transferred from a retirement or pension system under Title 37 of this article; and</section><section prefix="(2)">the member's service credit transferred from a retirement or pension system on or before December 31, 2005.</section></section></text>
 </law>

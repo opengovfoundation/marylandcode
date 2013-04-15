@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-105.2" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-105.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105.2</order_by>
   <text>
     <section prefix="(a)">In this section, "record owner" means the person holding record title to property as of the later of:<section prefix="(1)">30 days before the day on which a foreclosure sale of the property is actually held; and</section><section prefix="(2)">The date on which an action to foreclose the mortgage or deed of trust is filed.</section></section>
     <section prefix="(b)">In addition to any notice required to be given by provisions of the Annotated Code of Maryland or the Maryland Rules, the person authorized to make a sale in an action to foreclose a mortgage or deed of trust shall give written notice of the proposed sale to the record owner of the property to be sold.</section>
     <section prefix="(c)">
       <section prefix="(1)">The written notice shall be sent:<section prefix="(i)">By certified mail, postage prepaid, return receipt requested, bearing a postmark from the United States Postal Service, to the record owner; and</section><section prefix="(ii)">By first-class mail.</section></section>
       <section prefix="(2)">The notice shall state the time, place, and terms of the sale and shall be sent not earlier than 30 days and not later than 10 days before the date of sale.</section>
-      <section prefix="(3)">The person giving the notice shall file in the proceedings:<section prefix="(i)">A return receipt; or</section><section prefix="(ii)">An affidavit that:</section></section>
+      <section prefix="(3)">The person giving the notice shall file in the proceedings:<section prefix="(i)">A return receipt; or</section><section prefix="(ii)">An affidavit that:<section prefix="1.">The provisions of this subsection have been complied with; or</section><section prefix="2.">The address of the record owner is not reasonably ascertainable.</section></section></section>
       <section prefix="(4)">The person authorized to make a sale in an action to foreclose a mortgage or deed of trust is not required to give notice to a record owner whose address is not reasonably ascertainable.</section>
     </section>
     <section prefix="(d)">In the event of postponement of sale, which may be done in the discretion of the trustee, no new or additional notice need be given pursuant to this section.</section>

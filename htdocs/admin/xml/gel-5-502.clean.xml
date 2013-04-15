@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-502" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Subject to &#xA7; 5-402 of this title, an individual who has filed a certificate of candidacy may withdraw the candidacy by filing a certificate of withdrawal on the form prescribed by the State Board within 2 days after the filing date established under &#xA7; 5-303 of this title.</section>
     <section prefix="(b)">An individual who has filed a certificate of candidacy for the special election to fill a vacancy for Representative in Congress may withdraw the certificate on the prescribed form within 2 days after the filing date established in the proclamation issued by the Governor.</section>

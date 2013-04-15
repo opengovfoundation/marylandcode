@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">A person may not commit an assault.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a person who violates subsection (a) of this section is guilty of the misdemeanor of assault in the second degree and on conviction is subject to imprisonment not exceeding 10 years or a fine not exceeding $2,500 or both.</section>

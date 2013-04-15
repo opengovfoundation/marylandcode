@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-105" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">In this section, "independent casualty actuary" means a casualty actuary who:<section prefix="(1)">is a member of the American Academy of Actuaries; and</section><section prefix="(2)">is not affiliated with, an employee of, a principal of, the direct or indirect owner of, or in any way in the control of a controlled insurer or a controlling insurance producer.</section></section>
     <section prefix="(b)">If a controlling insurance producer, when the insurance business is placed, is acting in a transaction on behalf of an insured for compensation, commission, or other valuable consideration, the controlling insurance producer may not directly or indirectly place insurance business with its controlled insurer unless the requirements of this section are met.</section>

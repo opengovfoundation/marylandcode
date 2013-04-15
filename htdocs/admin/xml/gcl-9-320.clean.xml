@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-320" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-320</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>320</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsection (e), a buyer in ordinary course of business, other than a person buying farm products from a person engaged in farming operations, takes free of a security interest created by the buyer's seller, even if the security interest is perfected and the buyer knows of its existence.</section>
     <section prefix="(b)">Except as otherwise provided in subsection (e), a buyer of goods from a person who used or bought the goods for use primarily for personal, family, or household purposes takes free of a security interest, even if perfected, if the buyer buys:<section prefix="(1)">Without knowledge of the security interest;</section><section prefix="(2)">For value;</section><section prefix="(3)">Primarily for the buyer's personal, family, or household purposes; and</section><section prefix="(4)">Before the filing of a financing statement covering the goods.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-509" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-509</section_number>
-  <catch_line/>
+  <catch_line>The Department may not accept articles of revival for record unless:...</catch_line>
+  <order_by>509</order_by>
   <text>The Department may not accept articles of revival for record unless:<section prefix=""><section prefix="(1)">All annual reports required to be filed by the corporation or which would have been required if the charter had not been forfeited are filed; and</section><section prefix="(2)">Unemployment insurance contributions, or reimbursement payments, all State and local taxes, except taxes on real estate, and all interest and penalties due by the corporation or which would have become due if the charter had not been forfeited are paid, whether or not barred by limitations.</section></section></text>
 </law>

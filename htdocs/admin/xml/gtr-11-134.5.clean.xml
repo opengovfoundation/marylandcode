@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-134.5" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-134.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>134.5</order_by>
   <text>
     <section prefix="(a)">"Motor scooter" means a nonpedal vehicle that:<section prefix="(1)">Has a seat for the operator;</section><section prefix="(2)">Has two wheels, of which one is 10 inches or more in diameter;</section><section prefix="(3)">Has a step-through chassis;</section><section prefix="(4)">Has a motor:<section prefix="(i)">With a rating of 2.7 brake horsepower or less; or</section><section prefix="(ii)">If the motor is an internal combustion engine, with a capacity of 50 cubic centimeters piston displacement or less; and</section></section><section prefix="(5)">Is equipped with an automatic transmission.</section></section>
     <section prefix="(b)">"Motor scooter" does not include a vehicle that has been manufactured for off-road use, including a motorcycle and an all-terrain vehicle.</section>

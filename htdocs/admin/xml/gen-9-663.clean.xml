@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-663" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-663</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>663</order_by>
   <text>
     <section prefix="(a)">A sanitary commission:<section prefix="(1)">Shall control the use of water in its district; and</section><section prefix="(2)">Has jurisdiction over each fire hydrant connected to a system operated by the district.</section></section>
     <section prefix="(b)">If a sanitary commission determines that there is a shortage of water or that the supply of water should be conserved, the sanitary commission may:<section prefix="(1)">Issue an order that requires the conservation of water; and</section><section prefix="(2)">Include in the order specific requirements for conserving water use.</section></section>

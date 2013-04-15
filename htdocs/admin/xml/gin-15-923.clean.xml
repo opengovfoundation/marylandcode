@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-923" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-923</section_number>
-  <catch_line/>
+  <catch_line>Each carrier that offers a Medicare supplement policy in the State shall provide a copy of any Medic...</catch_line>
+  <order_by>923</order_by>
   <text>Each carrier that offers a Medicare supplement policy in the State shall provide a copy of any Medicare supplement advertisement that the carrier intends to use in the State whether through a written, radio, or television medium to the Commissioner for review at least 5 business days before the carrier uses the advertisement.</text>
 </law>

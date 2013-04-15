@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-302" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provisions of this subtitle, and subject to funds being appropriated, the Board of Community College Trustees for Allegany County, Anne Arundel County, Baltimore County, Carroll County, Cecil County, the College of Southern Maryland, Chesapeake College, Frederick County, Garrett County, Hagerstown Community College, Harford County, Howard County, Montgomery County, Prince George's County, or Wor-Wic Community College may borrow money to acquire an interest in personal property, including fixtures, for the operation of the community college, on terms and conditions that the Board of Trustees considers proper.</section>
     <section prefix="(b)">A borrowing under this section may be secured by the personal property acquired or revenues derived from the property.</section>

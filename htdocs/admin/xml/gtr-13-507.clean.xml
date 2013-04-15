@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-507" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An application for a certificate of title of a vehicle for which a salvage certificate has been issued shall be made by the owner of the vehicle on a form that the Administration requires.</section>
       <section prefix="(2)">An application under paragraph (1) of this subsection shall be accompanied by:<section prefix="(i)">Except as provided in subsection (c)(3) of this section, the salvage certificate for the vehicle;</section><section prefix="(ii)">A certificate of inspection issued by a county police department or the Department of State Police; and</section><section prefix="(iii)">A certificate of inspection as required under Title 23 of this article.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The Administration may establish a fee for an inspection under paragraph (2)(ii) of this subsection.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The fees established under this paragraph shall be collected by the Administration or the Automotive Safety Enforcement Division of the Department of State Police.</section>
+          <section prefix="2.">The fees collected under this subparagraph shall be paid to the Automotive Safety Enforcement Division of the Department of State Police for the purpose of recovering the cost of administering the salvage inspection program and may not be credited to the Gasoline and Motor Vehicle Revenue Account for distribution under &#xA7; 8-403 or &#xA7; 8-404 of this article.</section>
+        </section>
       </section>
     </section>
     <section prefix="(b)">

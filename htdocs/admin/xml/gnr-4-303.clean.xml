@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-303" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">The Commission and the commissioners have every power provided for in the Compact and necessary or incidental to carrying out the Compact. It is the policy of the State to carry out the provisions of the Compact to accomplish its purposes. Every State officer shall perform everything within his authority necessary or incidental to effectuate this policy. Every officer, unit, and persons in State government shall furnish the Commission with information and data upon request and aid it by loaning personnel or by other means within their authority.</section>
     <section prefix="(b)">Any power granted to the Commission is intended to aid and supplement and not limit any power vested in it by other laws of the State, the laws of the member states, by Congress, or the terms of the Compact.</section>

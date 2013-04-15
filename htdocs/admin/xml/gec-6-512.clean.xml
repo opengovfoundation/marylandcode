@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-512" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-6-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">The Authority shall obtain the services of an independent third party to conduct a bidding process in order to secure purchasers for the Program as provided in this section.</section>
     <section prefix="(b)">Using the procedures adopted by the independent third party, each potential purchaser shall make a timely and irrevocable offer, subject only to the Department's issuance to the purchaser of tax credit certificates, to make specified contributions of designated capital to the Department on the dates specified in &#xA7; 6-513(a) of this subtitle.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c0" order_by="" level="1"/>
-    <unit label="chapter" identifier="45" order_by="" level="2"/>
+    <unit label="article" identifier="c0" order_by="" level="1">Declaration of Rights</unit>
   </structure>
   <section_number>c0-45</section_number>
-  <catch_line/>
+  <catch_line>This enumeration of Rights shall not be construed to impair or deny others retained by the People....</catch_line>
+  <order_by>45</order_by>
   <text>This enumeration of Rights shall not be construed to impair or deny others retained by the People.</text>
 </law>

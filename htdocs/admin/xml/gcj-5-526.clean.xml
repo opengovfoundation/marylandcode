@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-526" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-526</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>526</order_by>
   <text>
     <section prefix="(a)">A member of a state legislature, including a member of the General Assembly of Maryland, who makes a communication on behalf of a constituent is not civilly liable for defamation unless the communication is false and made with knowledge of or in reckless disregard of its falsity.</section>
     <section prefix="(b)">This section does not supersede or constitute a waiver of a member's constitutional, statutory, or common law privileges or immunities.</section>

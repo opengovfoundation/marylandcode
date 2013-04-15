@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-337" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-337</section_number>
-  <catch_line/>
+  <catch_line>An employer who willfully fails to comply with an income withholding order issued by another state a...</catch_line>
+  <order_by>337</order_by>
   <text>An employer who willfully fails to comply with an income withholding order issued by another state and received for enforcement is subject to the same penalties that may be imposed for noncompliance with an order issued by a tribunal of this State.</text>
 </law>

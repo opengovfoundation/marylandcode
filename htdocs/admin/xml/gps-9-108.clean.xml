@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-108" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">If after investigating a fire in a one, two, or three family residential dwelling the State Fire Marshal or local investigating authority finds the absence of required smoke detectors, the State Fire Marshal or local investigating authority shall issue to the occupant a smoke detection installation order.</section>
     <section prefix="(b)">A person may not fail to comply with a smoke detection installation order within 15 days of reoccupancy.</section>

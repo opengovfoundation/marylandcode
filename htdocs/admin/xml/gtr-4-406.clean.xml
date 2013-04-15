@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-406" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,8 +13,8 @@
       <section prefix="(3)">"Private entity" means an individual, a corporation, a general or limited partnership, a limited liability company, a joint venture, a business trust, a public benefit corporation, a nonprofit entity, or another business entity.</section>
       <section prefix="(4)">"Public notice of solicitation" includes a request for expressions of interest, a request for proposals, a memorandum of understanding, an interim development agreement, a letter of intent, or a preliminary development plan.</section>
       <section prefix="(5)">
-        <section prefix="(i)">"Public-private partnership" means a sale or lease agreement between the Authority and a private entity under which:</section>
-        <section prefix="(ii)">"Public-private partnership" does not include:</section>
+        <section prefix="(i)">"Public-private partnership" means a sale or lease agreement between the Authority and a private entity under which:<section prefix="1.">The private entity assumes control of the operation and maintenance of an existing State facility; or</section><section prefix="2.">The private entity constructs, reconstructs, finances, or operates a State facility or a facility for State use and will collect fees, charges, rents, or tolls for the use of the facility.</section></section>
+        <section prefix="(ii)">"Public-private partnership" does not include:<section prefix="1.">A short-term operating space lease entered into in the ordinary course of business by the Authority and a private entity; or</section><section prefix="2.">A procurement governed by Division II of the State Finance and Procurement Article.</section></section>
       </section>
     </section>
     <section prefix="(b)">Following the submission of each of the reports required under this section, the budget committees shall have 45 days to review and comment on the reports.</section>

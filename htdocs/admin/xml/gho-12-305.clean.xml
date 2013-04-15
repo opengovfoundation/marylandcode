@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-305" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this section, the Board may waive any examination requirement of this title for an applicant who is licensed to practice pharmacy in any other state, if that state grants a similar waiver to licensees of this State.</section>
     <section prefix="(b)">The Board may grant a waiver under this section only if the applicant:<section prefix="(1)">Is of good moral character;</section><section prefix="(2)">Pays the application fees set by the Board; and</section><section prefix="(3)">Provides adequate evidence that the applicant:<section prefix="(i)">Meets the qualifications otherwise required by this title; and</section><section prefix="(ii)">Became licensed or registered in the other state to practice pharmacy only after passing an examination that is approved by the Board.</section></section></section>

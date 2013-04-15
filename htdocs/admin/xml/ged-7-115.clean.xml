@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-115" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">To facilitate the transfer of school-aged student dependents of military personnel to and from the public schools of this State, the State Board shall pursue reciprocity agreements with other states regarding the terms of those student transfers.</section>
     <section prefix="(b)">A reciprocity agreement shall include procedures for:<section prefix="(1)">The timely transfer of student records;</section><section prefix="(2)">Awarding credit for completed course work;</section><section prefix="(3)">Allowing a student to satisfy the graduation requirements of &#xA7; 7-205 of this title through successful completion of comparable courses in another state; and</section><section prefix="(4)">Allowing a student to satisfy the requirements of the Maryland high school assessments through successful performance on comparable exit-level or high standard assessments administered in another state.</section></section>

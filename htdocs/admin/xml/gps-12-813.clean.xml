@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-813" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-813</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>813</order_by>
   <text>
     <section prefix="(a)">If a State inspector cancels a final acceptance inspection under &#xA7; 12-810 of this subtitle or if a follow-up inspection is required under &#xA7; 12-812 of this subtitle, the contractor, owner, or lessee of the elevator unit shall:<section prefix="(1)">reschedule the inspection with the State inspector; and</section><section prefix="(2)">ensure that the elevator unit complies with the requirements of Part II of this subtitle, including correcting as necessary any safety hazards or violations of the Safety Code, on the designated date.</section></section>
     <section prefix="(b)">A contractor, owner, or lessee shall maintain a copy of any inspection, maintenance, and repair records at a central location in a manner consistent with regulations adopted under Part II of this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-330" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-330</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>330</order_by>
   <text>
     <section prefix="(a)">A low calorie frozen dessert that contains powders or dry mixes of pasteurized whey, reduced mineral whey, whey protein concentrate, reduced lactose whey, or optional caseinates and is rehydrated with potable water before freezing is not required to be repasteurized.</section>
     <section prefix="(b)">The wheys, caseinates, or egg ingredients that are used in the formulation of a mixture under subsection (a) of this section shall:<section prefix="(1)">Have been pasteurized before being used in the mixture; and</section><section prefix="(2)">Contain only those ingredients that:<section prefix="(i)">Are recognized as safe by the United States Food and Drug Administration; or</section><section prefix="(ii)">Are authorized under regulations adopted under this subtitle.</section></section></section>

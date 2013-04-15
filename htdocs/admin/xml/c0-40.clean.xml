@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c0" order_by="" level="1"/>
-    <unit label="chapter" identifier="40" order_by="" level="2"/>
+    <unit label="article" identifier="c0" order_by="" level="1">Declaration of Rights</unit>
   </structure>
   <section_number>c0-40</section_number>
-  <catch_line/>
+  <catch_line>That the liberty of the press ought to be inviolably preserved; that every citizen of the State ough...</catch_line>
+  <order_by>40</order_by>
   <text>That the liberty of the press ought to be inviolably preserved; that every citizen of the State ought to be allowed to speak, write and publish his sentiments on all subjects, being responsible for the abuse of that privilege.</text>
 </law>

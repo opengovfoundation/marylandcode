@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-206" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-15-206</section_number>
-  <catch_line/>
+  <catch_line>The Appeals Board is an independent unit of the Executive Branch of the State government and, except...</catch_line>
+  <order_by>206</order_by>
   <text>The Appeals Board is an independent unit of the Executive Branch of the State government and, except by statute, may not be made a part of another unit of the State government.</text>
 </law>

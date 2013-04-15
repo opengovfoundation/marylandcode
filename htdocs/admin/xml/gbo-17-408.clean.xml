@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-408" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-17-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">The Commission shall give the claimant and the licensee or unlicensed employee alleged to be responsible for the act or omission giving rise to the claim an opportunity to participate in the hearing before the Commission.</section>
     <section prefix="(b)">The Commission shall give notice of the hearing to:<section prefix="(1)">the claimant;</section><section prefix="(2)">each licensee alleged to be responsible for the act or omission giving rise to the claim; and</section><section prefix="(3)">each unlicensed employee alleged to be responsible for the act or omission giving rise to the claim.</section></section>

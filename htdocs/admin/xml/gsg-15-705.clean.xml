@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-705" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">In addition to any other report required under this subtitle, a regulated lobbyist shall file a separate report disclosing the name of any State official of the Executive Branch or member of the immediate family of a State official of the Executive Branch who has benefited during the reporting period from gifts of meals or beverages from the regulated lobbyist, whether or not in connection with lobbying activities, allowed under &#xA7; 15-505(c)(2)(i)1 of this title.</section>
     <section prefix="(b)">Gifts reported by name of recipient under &#xA7; 15-704(b)(2)(ix) of this subtitle need not be allocated for the purposes of disclosure under subsection (a) of this section.</section>

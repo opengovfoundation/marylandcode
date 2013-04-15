@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-806" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">In Baltimore County, the Superintendent of Schools shall establish a Pupil Transportation Safety Advisory Committee.</section>
     <section prefix="(b)">The Pupil Transportation Safety Advisory Committee shall be composed of at least the following:<section prefix="(1)">Two parent members, appointed by the Superintendent;</section><section prefix="(2)">A representative of the Baltimore County Police Department;</section><section prefix="(3)">A representative of the Baltimore County Highway Department;</section><section prefix="(4)">A representative of the Baltimore County traffic engineering office; and</section><section prefix="(5)">A representative of the State Highway Administration.</section></section>

@@ -75,7 +75,7 @@
 	</section> <!-- // #page -->
   
 	<footer id="page_footer">
-		<p>Powered by <a href="http://www.statedecoded.com/">The State Decoded</a>.</p>
+		<p><a href="http://marylandcode.org/downloads/">Bulk Downloads</a> | Copyright 2013 the <a href="http://opengovfoundation.org">OpenGov Foundation</a>. Design by <a href="http://www.boboroshi.com/">John Athayde</a>. Powered by <a href="http://www.statedecoded.com/">The State Decoded</a>. All user-contributed content is, of course, owned by its authors. The state code is owned by the citizens of Maryland and, consequently, it is not governed by copyright—so do whatever you want with it! The information on this website does not constitute legal advice—nobody here is acting as your attorney, and nothing that you read here is a substitute for a competent attorney. OpenGov makes no guarantee that this information is accurate or up-to-date, although we try our best. Seriously, OpenGov is not your attorney. Heck, we’re not attorneys at all.</p>
 	</footer>
 	{{javascript_files}}
 	<script>

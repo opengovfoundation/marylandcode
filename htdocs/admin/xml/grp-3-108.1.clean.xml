@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-108.1" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-3-108.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Appendix plat" means a plat of a single lot or parcel of land that:<section prefix="(i)">Is produced on a single page not larger than 8.5 inches by 14 inches;</section><section prefix="(ii)">Is presented for recordation as part of a deed or other instrument; and</section><section prefix="(iii)">Does not require subdivision approval.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">"Plat" includes any diagram that purports to represent the boundaries of any land.</section>
-        <section prefix="(ii)">"Plat" does not include a plat or microfilm aperture card that:</section>
+        <section prefix="(ii)">"Plat" does not include a plat or microfilm aperture card that:<section prefix="1.">Meets archival standards for permanent records; and</section><section prefix="2.">Depicts property or rights-of-way to be acquired or granted by the State Highway Administration.</section></section>
       </section>
       <section prefix="(4)">"Subdivision approval" means approval required under subdivision regulations adopted in Queen Anne's County in accordance with Title 5 of the Land Use Article.</section>
     </section>

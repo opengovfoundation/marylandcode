@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-701" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">There is an Internal Investigative Unit in the Department.</section>
       <section prefix="(2)">The Secretary shall appoint the Director of the Internal Investigative Unit.</section>
-      <section prefix="(3)">Subject to the authority of the Secretary, the Internal Investigative Unit shall:<section prefix="(i)">investigate:</section><section prefix="(ii)">adopt regulations for the conduct of its investigations.</section></section>
+      <section prefix="(3)">Subject to the authority of the Secretary, the Internal Investigative Unit shall:<section prefix="(i)">investigate:<section prefix="1.">alleged criminal violations committed by employees of the Department while on duty;</section><section prefix="2.">alleged criminal violations committed by inmates, visitors, and other individuals that affect the safety or security of the Department's facilities or programs; and</section><section prefix="3.">alleged professional misconduct by employees of the Department; and</section></section><section prefix="(ii)">adopt regulations for the conduct of its investigations.</section></section>
     </section>
     <section prefix="(b)">An investigator in the Internal Investigative Unit may exercise the powers of a peace or police officer in the State on property that is owned, leased, operated by, or under the control of the Department.</section>
     <section prefix="(c)">

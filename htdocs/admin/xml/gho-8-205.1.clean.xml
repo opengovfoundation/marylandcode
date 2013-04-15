@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-205.1" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-8-205.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205.1</order_by>
   <text>
     <section prefix="(a)">If the Board, while reviewing an application for licensure or investigating an allegation brought against a licensee under this title, has reason to believe and objective evidence that the applicant or licensee may cause harm to individuals affected by the applicant's or licensee's practice of nursing, the Board shall require the applicant or licensee to submit to an appropriate examination by a health care provider designated by the Board.</section>
     <section prefix="(b)">In return for the privilege to practice nursing in the State, the applicant or licensee is deemed to have:<section prefix="(1)">Consented to submit to an examination under this section, if requested by the Board in writing; and</section><section prefix="(2)">Waived any claim of privilege as to the testimony or examination reports of the examining health care professional.</section></section>

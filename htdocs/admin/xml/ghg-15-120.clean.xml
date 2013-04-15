@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-120" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">If a Program recipient has a cause of action against a person, the Department shall be subrogated to that cause of action to the extent of any payments made by the Department on behalf of the Program recipient that result from the occurrence that gave rise to the cause of action.</section>
     <section prefix="(b)">
@@ -26,8 +26,12 @@
     <section prefix="(e)">
       <section prefix="(1)">
         <section prefix="(i)">In this subsection the following words have the meanings indicated.</section>
-        <section prefix="(ii)">"Cigarette" means any roll of tobacco wrapped in:</section>
-        <section prefix="(iii)"/>
+        <section prefix="(ii)">"Cigarette" means any roll of tobacco wrapped in:<section prefix="1.">Paper;</section><section prefix="2.">A substance not containing tobacco; or</section><section prefix="3.">A substance containing tobacco which because of its appearance, the type of tobacco used in the filler, or its packaging and labeling, is likely to be used by the consumers of ordinary paper-wrapped cigarettes.</section></section>
+        <section prefix="(iii)">
+          <section prefix="1.">"Manufacturer of a tobacco product" means a designer, producer, or processor of a tobacco product engaged in the marketing or promotion of a tobacco product.</section>
+          <section prefix="2.">"Manufacturer of a tobacco product" includes an entity not otherwise a manufacturer of a tobacco product that imports a tobacco product or otherwise holds itself out as a manufacturer of a tobacco product.</section>
+          <section prefix="3.">"Manufacturer of a tobacco product" does not include:</section>
+        </section>
         <section prefix="(iv)">"Smokeless tobacco" means a product that consists of cut, ground, powdered, or leaf tobacco that is intended to be placed in the oral cavity.</section>
         <section prefix="(v)">"Tobacco product" means cigarettes or smokeless tobacco.</section>
       </section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-608" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-608</section_number>
-  <catch_line/>
+  <catch_line>At least once each year, the grand jury in each county shall:...</catch_line>
+  <order_by>608</order_by>
   <text>At least once each year, the grand jury in each county shall:<section prefix=""><section prefix="(1)">visit each local correctional facility in the county;</section><section prefix="(2)">inquire into the condition of the correctional facility, the manner in which it is maintained, and the treatment of inmates; and</section><section prefix="(3)">report its findings to the circuit court of the county.</section></section></text>
 </law>

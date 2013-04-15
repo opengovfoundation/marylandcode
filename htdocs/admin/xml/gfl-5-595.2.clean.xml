@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-595.2" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-595.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>595.2</order_by>
   <text>
     <section prefix="(a)">There shall be only one appropriate bargaining unit of family child care providers in the State.</section>
     <section prefix="(b)">Family child care providers may designate, in accordance with the provisions of this Part XI of this subtitle, which provider organization, if any, shall be the exclusive representative of all family child care providers in the State.</section>

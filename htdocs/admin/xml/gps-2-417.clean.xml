@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-417" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-417</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>417</order_by>
   <text>
     <section prefix="(a)">An employee, other than an employee in probationary status, may be terminated from employment only in accordance with the State Personnel and Pensions Article.</section>
     <section prefix="(b)">The Secretary may terminate the employment of an employee in probationary status for any reason that the Secretary considers sufficient.</section>

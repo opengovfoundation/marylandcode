@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-405.4" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-405.4</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405.4</order_by>
   <text>
     <section prefix="(a)">A person may not drive any motor vehicle weighing 73,000 pounds or more unless the rear axle of the tractor is equipped with original first line tires or with recaps approved by the Administrator and the Department of State Police.</section>
     <section prefix="(b)">A person may not drive any trailer weighing 73,000 pounds or more unless the rear axle of the tractor and the rear axle of the trailer are equipped with original first line tires or with recaps approved by the Administrator and the Department of State Police.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-901" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Acquire" means:<section prefix="(1)">For one bank holding company to merge or consolidate with another bank holding company;</section><section prefix="(2)">For a bank holding company to assume direct or indirect ownership or control of:<section prefix="(i)">More than 5 percent of any class of voting shares of another bank holding company or a bank; or</section><section prefix="(ii)">All or substantially all of the assets of another bank holding company or a bank; or</section></section><section prefix="(3)">To take any other action that results in the direct or indirect control by a bank holding company of another bank holding company or a bank.</section></section>

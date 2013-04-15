@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-206" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Evictions described in subsection (b) of this section are called "retaliatory evictions".</section>
     <section prefix="(b)">No landlord may evict a tenant of any residential property in Montgomery County because:<section prefix="(1)">The tenant has filed a complaint against the landlord with any public agency;</section><section prefix="(2)">The tenant has filed a lawsuit against the landlord; or</section><section prefix="(3)">The tenant is a member of any tenants' organization.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-209" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">The Governor may amend an appropriation for a program of the Office of the Governor.</section>
     <section prefix="(b)">
@@ -32,8 +32,8 @@
       <section prefix="(1)">Except as provided in paragraphs (2) and (3) of this subsection, an amendment under this section may not transfer any part of an appropriation among any of the principal departments or any of the units in the Executive Branch that are not assigned to a principal department.</section>
       <section prefix="(2)">This subsection does not prevent a transfer that:<section prefix="(i)">is part of a reorganization under &#xA7; 8-301 of the State Government Article;</section><section prefix="(ii)">is needed to comply with federal law or a policy directive of a federal unit that relates to the use of federal funds;</section><section prefix="(iii)">because of an emergency declared by the Governor, is needed to protect the health, welfare, or property of the public; or</section><section prefix="(iv)">is specifically authorized by the budget bill or other law.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">Subject to the State budget bill, an amendment may transfer part of an appropriation of special or federal funds between any of the principal departments or any of the units in the Executive Branch that are not assigned to a principal department if:</section>
-        <section prefix="(ii)">Funds transferred under this paragraph may not be expended by the recipient department or unit until each proposed budget amendment has been approved by:</section>
+        <section prefix="(i)">Subject to the State budget bill, an amendment may transfer part of an appropriation of special or federal funds between any of the principal departments or any of the units in the Executive Branch that are not assigned to a principal department if:<section prefix="1.">funds are available to the department or unit from which the funds are to be transferred through a federal grant or contract or other restricted grant or contract;</section><section prefix="2.">the use of funds by the department or unit to which the funds are to be transferred is directly related to the purposes of the grant or contract and the statutory duties of that department or unit; and</section><section prefix="3.">the transferring department or unit and the receiving department or unit submit a schedule of funds to be transferred to the Department of Budget and Management.</section></section>
+        <section prefix="(ii)">Funds transferred under this paragraph may not be expended by the recipient department or unit until each proposed budget amendment has been approved by:<section prefix="1.">the Secretary of Budget and Management;</section><section prefix="2.">the Governor; and</section><section prefix="3.">the Board of Public Works.</section></section>
         <section prefix="(iii)">A copy of each approved budget amendment under this paragraph shall be provided to the Department of Legislative Services.</section>
       </section>
     </section>

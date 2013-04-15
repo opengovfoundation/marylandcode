@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1207" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1207</order_by>
   <text>
     <section prefix="(a)">The clerk of the circuit court of the county shall collect $5 for a license for a raffle or carnival.</section>
     <section prefix="(b)">The clerk of the circuit court shall collect $25 from an applicant for an annual bingo license to conduct bingo and $1 for issuance of the license.</section>

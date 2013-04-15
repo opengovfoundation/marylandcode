@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-1111" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-1111</section_number>
-  <catch_line/>
+  <catch_line>Each responsible entity shall ensure that its unit management program is carried out and that units ...</catch_line>
+  <order_by>1111</order_by>
   <text>Each responsible entity shall ensure that its unit management program is carried out and that units collected under the submitted unit management program are returned to the cell manufacturer or, at the discretion of the responsible entity, to proper disposal or recycling facilities. Duties of the responsible entity end with delivery of collected units to the cell manufacturer, or to proper disposal or recycling facilities.</text>
 </law>

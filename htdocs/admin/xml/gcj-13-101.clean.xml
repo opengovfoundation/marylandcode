@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-13-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">There is an Administrative Office of the Courts, headed by the State Court Administrator. The Administrator is appointed by and holds office during the pleasure of the Chief Judge of the Court of Appeals of Maryland. The Administrator shall have the compensation provided in the State budget. The Administrative Office of the Courts shall have a seal in the form the Chief Judge of the Court of Appeals approves. The courts of the State shall take judicial notice of the seal.</section>
     <section prefix="(b)">Subject to the approval of the Chief Judge of the Court of Appeals, the Administrator may appoint employees necessary to carry out his duties. The persons appointed shall have the compensation provided in the State budget.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-706" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-1-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">A judge is entitled to mileage, at the rate for State employees, for officially authorized travel outside his county of residence on judicial business. He is also entitled to reimbursement for reasonable costs of meals, lodging, and other expenses actually incurred with the officially authorized travel in accordance with provisions of the State joint travel regulations provided that such reimbursement is approved by the judge authorizing the travel and provided for in the State budget.</section>
     <section prefix="(b)">Reimbursable expenses actually incurred by a circuit court judge in connection with his duties, other than the expenses described in subsection (a) of this section, shall be paid by the political subdivision in which the circuit court judge resides, as provided in that subdivision's budget, and as first approved by the State Administrative Office of the Courts.</section>

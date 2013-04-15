@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-312" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-13-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Within 3 years after a license has expired, the Board may reinstate the license if the licensee:<section prefix="(i)">Was licensed by passing a Board approved national licensing examination;</section><section prefix="(ii)">Has not practiced physical therapy or limited physical therapy in this State during that period;</section><section prefix="(iii)">Otherwise is entitled to be licensed;</section><section prefix="(iv)">Pays to the Board the application fee set by the Board;</section><section prefix="(v)">Submits to the Board an application on the form required by the Board; and</section><section prefix="(vi)">Has met the continuing education requirements of &#xA7; 13-311(d) of this subtitle.</section></section>

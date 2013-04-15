@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-803" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-803</section_number>
-  <catch_line/>
+  <catch_line>It is the policy of this State that each municipality that engages in the development of any sewerag...</catch_line>
+  <order_by>803</order_by>
   <text>It is the policy of this State that each municipality that engages in the development of any sewerage facility under this subtitle shall manage the sewerage facility as economically and efficiently as possible:<section prefix=""><section prefix="(1)">To promote the health and welfare of the inhabitants of the municipality and of this State by preventing, reducing, or eliminating the pollution of the waters of this State; and</section><section prefix="(2)">To provide the services of the sewerage facility to consumers at the lowest possible cost.</section></section></text>
 </law>

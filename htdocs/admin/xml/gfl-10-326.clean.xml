@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-326" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-326</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>326</order_by>
   <text>
     <section prefix="(a)">Participation by a plaintiff in a proceeding under this subtitle before a responding tribunal, whether in person, by private attorney, or through services provided by the support enforcement agency, does not confer personal jurisdiction over the plaintiff in another proceeding.</section>
     <section prefix="(b)">A plaintiff is not amenable to service of civil process while physically present in this State to participate in a proceeding under this subtitle.</section>

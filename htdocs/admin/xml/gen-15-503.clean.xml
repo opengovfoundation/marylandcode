@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-503" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">The Bureau may make and enforce any rule and regulation necessary to prevent, minimize, or repair damage to the land or the natural resources associated with the land which may result from any open-pit mining operation.</section>
     <section prefix="(b)">The Department is authorized to administer a surface mining control program consistent with the requirements of the federal Surface Mining Control and Reclamation Act, any amendments to that Act, and any rule or regulation promulgated under that Act.</section>

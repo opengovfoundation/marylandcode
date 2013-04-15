@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-108" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-19-108</section_number>
-  <catch_line/>
+  <catch_line>A court may:...</catch_line>
+  <order_by>108</order_by>
   <text>A court may:<section prefix=""><section prefix="(1)">compel compliance with an order of the Board or Commission regulations governing conflicts of interest, financial disclosure, lobbying, or ethics in public contracting by:<section prefix="(i)">issuing an order to cease and desist from the violation; or</section><section prefix="(ii)">granting other injunctive relief; and</section></section><section prefix="(2)">impose a fine not exceeding $5,000 for a violation of this title or Commission regulations governing conflicts of interest, financial disclosure, lobbying, or ethics in public contracting.</section></section></text>
 </law>

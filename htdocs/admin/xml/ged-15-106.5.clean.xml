@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-106.5" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-15-106.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106.5</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -14,7 +14,7 @@
       <section prefix="(4)">"Public senior higher education institution" has the meaning stated in &#xA7; 10-101(m)(1) and (2) of this article.</section>
       <section prefix="(5)">
         <section prefix="(i)">"Tuition" means the charges approved by the governing board of a public senior higher education institution that are required of all undergraduate resident students by the institution as a condition of enrollment regardless of the student's degree program, field of study, or selected courses.</section>
-        <section prefix="(ii)">"Tuition" does not include:</section>
+        <section prefix="(ii)">"Tuition" does not include:<section prefix="1.">Fees that are required of all undergraduate resident students by the institution as a condition of enrollment regardless of the student's degree program, field of study, or selected courses;</section><section prefix="2.">Fees dedicated to support auxiliary enterprises and other self-funded activities of a public senior higher education institution; or</section><section prefix="3.">A fee required only for enrollment in a specific degree program, field of study, or course when that fee is not required of undergraduate resident students at the public senior higher education institution for enrollment in other degree programs, fields of study, or courses.</section></section>
       </section>
     </section>
     <section prefix="(b)">Notwithstanding any other provision of law, for the academic years beginning in the fall of 2006 and 2007 only, a governing board may not approve, and a public senior higher education institution may not impose, an increase in the tuition charged for an academic year to a resident undergraduate student at the institution over the amount charged for tuition at the institution in the preceding academic year.</section>

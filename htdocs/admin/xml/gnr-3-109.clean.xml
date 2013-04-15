@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-109" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Upon failure of a municipality to comply with an order of the Secretary of the Environment to provide a sewerage system or refuse disposal works as provided for in Title 9 of the Environment Article, the Secretary of the Environment shall direct the Service to install or put into operation sewerage or refuse disposal facilities to satisfy the requirements of the order.</section>

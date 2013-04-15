@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1109" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1109</order_by>
   <text>
     <section prefix="(a)">A fundraising organization or educational organization may conduct bingo either for the benefit of charity in the county or to further the purposes of the organization.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, a fundraising organization or educational organization may award money or merchandise as a prize in a bingo game.</section>

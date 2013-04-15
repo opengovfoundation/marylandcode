@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-10A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-10A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">For a complaint filed with the Commissioner under this subtitle that involves a question of whether the health care service provided or to be provided to a member is medically necessary, the Commissioner:<section prefix="(1)">shall select an independent review organization or medical expert to advise on the complaint; and</section><section prefix="(2)">may accept and base the final decision on the complaint on the professional judgment of an independent review organization or medical expert.</section></section>
     <section prefix="(b)">To ensure access to advice when needed, the Commissioner, in consultation with the Secretary of Health and Mental Hygiene and carriers, shall compile a list of independent review organizations and medical experts.</section>

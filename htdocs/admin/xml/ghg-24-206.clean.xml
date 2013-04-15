@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-206" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-206</section_number>
-  <catch_line/>
+  <catch_line>Each movie house, theater, bar, or similar commercial establishment that uses strobe lighting shall ...</catch_line>
+  <order_by>206</order_by>
   <text>Each movie house, theater, bar, or similar commercial establishment that uses strobe lighting shall keep posted conspicuously at the entrance of the establishment a warning that strobe lighting:<section prefix=""><section prefix="(1)">Is used in the establishment; and</section><section prefix="(2)">May be harmful to an individual who is susceptible to epileptic or similar seizures.</section></section></text>
 </law>

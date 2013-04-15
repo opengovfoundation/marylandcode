@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-404" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-23-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">If a diesel vehicle fails an emissions test established and administered under this subtitle, the driver of the diesel vehicle at the time of testing shall be issued:<section prefix="(1)">If the diesel vehicle is registered under this article, a safety equipment repair order that directs the registered owner of the vehicle to repair the vehicle to comply with emissions standards; or</section><section prefix="(2)">If the diesel vehicle is a foreign registered vehicle, notice indicating that the vehicle is not in compliance with emissions standards in this State.</section></section>
     <section prefix="(b)">
@@ -18,7 +18,7 @@
       </section>
       <section prefix="(4)">
         <section prefix="(i)">The owner of a foreign registered diesel vehicle who receives notice indicating that the diesel vehicle has failed to comply with emissions standards in this State shall repair the vehicle to comply with emissions standards established under this subtitle and shall provide evidence required under regulations adopted under this subtitle that demonstrates compliance with emissions standards.</section>
-        <section prefix="(ii)">If the owner fails to comply with the requirements of subparagraph (i) of this paragraph within 30 days of the issuance of the notice:</section>
+        <section prefix="(ii)">If the owner fails to comply with the requirements of subparagraph (i) of this paragraph within 30 days of the issuance of the notice:<section prefix="1.">The Department of State Police shall provide notice to the Federal Highway Administration of the United States Department of Transportation that the owner has violated State law in violation of 49 C.F.R. &#xA7; 392.2; and</section><section prefix="2.">The owner of the diesel vehicle is subject to a fine not exceeding $1,000.</section></section>
       </section>
     </section>
   </text>

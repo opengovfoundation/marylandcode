@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-127" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-127</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>127</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">"Initial assessment" includes:<section prefix="(i)">A psychological evaluation;</section><section prefix="(ii)">Parental interview; and</section><section prefix="(iii)">Medical evaluation.</section></section>
       <section prefix="(4)">
         <section prefix="(i)">For purposes of this section, "sexual abuse" means any act that involves sexual molestation or exploitation of a child whether or not the sexual molestation or exploitation of the child is by a parent or other person who has permanent or temporary care or custody or responsibility for supervision of a child, or by any household or family member.</section>
-        <section prefix="(ii)">"Sexual abuse" includes:</section>
+        <section prefix="(ii)">"Sexual abuse" includes:<section prefix="1.">Incest, rape, or sexual offense in any degree;</section><section prefix="2.">Sodomy; and</section><section prefix="3.">Unnatural or perverted sexual practices.</section></section>
       </section>
     </section>
     <section prefix="(b)">If a physician or a hospital provides any of the services described in subsection (c) of this section to a victim of an alleged rape or sexual offense or a victim of alleged child sexual abuse, the services shall be provided without charge to the individual and the physician or hospital is entitled to be paid by the Department for the costs of providing the services.</section>

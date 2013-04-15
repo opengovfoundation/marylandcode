@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-517" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-517</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>517</order_by>
   <text>
     <section prefix="(a)">An applicant whose application for insurance has been rejected or a policyholder whose policy has been canceled for a reason other than nonpayment of premiums may appeal the decision to a special board within 10 days after receipt of notice of the rejection or cancellation.</section>
     <section prefix="(b)">

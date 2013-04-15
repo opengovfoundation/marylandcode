@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-117" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (c) of this section, a person may not furnish an alcoholic beverage to an individual if:<section prefix="(1)">the person furnishing the alcoholic beverage knows that the individual is under the age of 21 years; and</section><section prefix="(2)">the alcoholic beverage is furnished for the purpose of consumption by the individual under the age of 21 years.</section></section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, an adult may not knowingly and willfully allow an individual under the age of 21 years actually to possess or consume an alcoholic beverage at a residence, or within the curtilage of a residence that the adult owns or leases and in which the adult resides.</section>

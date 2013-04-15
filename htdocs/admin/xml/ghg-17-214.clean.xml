@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-214" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-17-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -21,9 +21,12 @@
       <section prefix="(11)">"Specimen" means:<section prefix="(i)">Blood derived from the human body;</section><section prefix="(ii)">Urine derived from the human body;</section><section prefix="(iii)">Hair derived from the human body as provided in subsection (b)(3) of this section; or</section><section prefix="(iv)">Saliva derived from the human body.</section></section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Except as provided in paragraph (2) of this subsection, an employer who requires any person to be tested for job-related reasons for the use or abuse of any controlled dangerous substance or alcohol shall:<section prefix="(i)">Have the specimen tested by a laboratory that:</section><section prefix="(ii)">At the time of testing, at the person's request, inform the person of the name and address of the laboratory that will test the specimen.</section></section>
+      <section prefix="(1)">Except as provided in paragraph (2) of this subsection, an employer who requires any person to be tested for job-related reasons for the use or abuse of any controlled dangerous substance or alcohol shall:<section prefix="(i)">Have the specimen tested by a laboratory that:<section prefix="1.">Holds a permit under this subtitle; or</section><section prefix="2.">Is located outside of the State and is certified or otherwise approved under subsection (f) of this section; and</section></section><section prefix="(ii)">At the time of testing, at the person's request, inform the person of the name and address of the laboratory that will test the specimen.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Except as provided in subsubparagraph 2 of this subparagraph, an employer may use a preliminary screening procedure to test a job applicant for the use or abuse of any controlled dangerous substance.</section>
+          <section prefix="2.">Subsubparagraph 1 of this subparagraph does not apply to an employer that has entered into a collective bargaining agreement that prohibits the employer from using a preliminary screening procedure to test a job applicant for the use or abuse of any controlled dangerous substances.</section>
+        </section>
         <section prefix="(ii)">If the result of a preliminary screening procedure is positive, the employer shall submit the specimen for testing by a laboratory as required under paragraph (1) of this subsection.</section>
         <section prefix="(iii)">Following voluntary disclosure and documentation by an applicant of the taking of a legally prescribed medication, an employer may hire the applicant pending confirmation of a positive test result by the medical laboratory and review by the employer's medical review officer.</section>
         <section prefix="(iv)">An employer may not use a preliminary screening procedure to test an individual who is not applying for a job with that employer.</section>
@@ -32,7 +35,7 @@
       <section prefix="(3)">
         <section prefix="(i)">An employer who requires any person to be tested for job-related reasons for the use or abuse of any controlled dangerous substance may use hair derived from the human body as a specimen in accordance with this paragraph.</section>
         <section prefix="(ii)">An employer may use hair derived from the human body only for pre-employment purposes.</section>
-        <section prefix="(iii)">If an employer uses hair derived from the human body as a specimen, the employer may not:</section>
+        <section prefix="(iii)">If an employer uses hair derived from the human body as a specimen, the employer may not:<section prefix="1.">Use a specimen that is longer than one and one-half inches measured from the human body; or</section><section prefix="2.">Use the specimen for any purpose other than testing for controlled dangerous substances.</section></section>
       </section>
     </section>
     <section prefix="(c)">
@@ -64,7 +67,7 @@
       <section prefix="(2)">The employer may designate an employee or any other individual to be trained, including any individual employed by a medical laboratory designated under subsection (b)(2)(v) of this section who will perform preliminary screening procedures for the employer.</section>
       <section prefix="(3)">A trainee shall receive appropriate and practical instruction, which includes:<section prefix="(i)">A reading of the test manufacturer's package insert sheet;</section><section prefix="(ii)">Observing the test manufacturer's training video or receiving training from the test manufacturer;</section><section prefix="(iii)">Completing the test manufacturer's self-administered test; and</section><section prefix="(iv)">The actual performance of tests and the actual interpretation of the results.</section></section>
       <section prefix="(4)">
-        <section prefix="(i)">The employer shall:</section>
+        <section prefix="(i)">The employer shall:<section prefix="1.">Keep a record of the training received by each trainee; and</section><section prefix="2.">Establish a procedure for training each trainee as having received the minimum training required to properly perform the test.</section></section>
         <section prefix="(ii)">After the trainee has demonstrated competency in performing the test, the employer shall maintain documentation that indicates that the trainee has been trained under this section.</section>
       </section>
     </section>

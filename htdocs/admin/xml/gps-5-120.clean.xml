@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-120" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On receipt of a firearm application, a licensee or designated law enforcement agency shall promptly forward one copy of it to the Secretary by:<section prefix="(i)">certified mail;</section><section prefix="(ii)">facsimile machine; or</section><section prefix="(iii)">electronic means approved by the Secretary.</section></section>

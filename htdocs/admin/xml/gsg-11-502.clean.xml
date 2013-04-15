@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-502" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-11-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">This subtitle may not be construed to require a hearing or to require a State unit to participate in a hearing on an application for a development permit before the State unit if the law governing the development permit involved does not require a hearing.</section>
     <section prefix="(b)">A State unit that does not hold a hearing on an application for a development permit shall proceed in accordance with the law and procedures applicable to the issuance of development permits by that State unit, except that the State unit shall act on the application within 60 days after receiving the completed application.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-705.5" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-705.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705.5</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -14,7 +14,7 @@
         <section prefix="(ii)">"Inherited metabolic disease" includes a disease for which the State screens newborn babies.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">"Low protein modified food product" means a food product that is:</section>
+        <section prefix="(i)">"Low protein modified food product" means a food product that is:<section prefix="1.">Specially formulated to have less than 1 gram of protein per serving; and</section><section prefix="2.">Intended to be used under the direction of a physician for the dietary treatment of an inherited metabolic disease.</section></section>
         <section prefix="(ii)">"Low protein modified food product" does not include a natural food that is naturally low in protein.</section>
       </section>
       <section prefix="(4)">"Medical food" means a food that is:<section prefix="(i)">Intended for the dietary treatment of a disease or condition for which nutritional requirements are established by medical evaluation; and</section><section prefix="(ii)">Formulated to be consumed or administered enterally under the direction of a physician.</section></section>

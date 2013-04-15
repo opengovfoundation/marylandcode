@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-101" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Advertisement" means any representation that:<section prefix="(1)">Is intended or is likely to induce, directly or indirectly, any person to purchase any food, drug, device, or cosmetic; and</section><section prefix="(2)">Is published by any means other than labeling.</section></section>
@@ -26,7 +26,7 @@
     <section prefix="(h)">"Federal act" means the Federal Food, Drug, and Cosmetic Act as that act appears at 21 U.S.C. &#xA7; 301 et seq.</section>
     <section prefix="(i)">"Food" means:<section prefix="(1)">Any substance that is used as food or drink for human beings or as a component of food or drink for human beings; or</section><section prefix="(2)">Chewing gum or any substance that is used as a component of chewing gum.</section></section>
     <section prefix="(j)">
-      <section prefix="(1)">"Food additive" means any substance:<section prefix="(i)">The intended use of which results or reasonably may be expected to result, directly or indirectly, in the substance becoming a component of food or otherwise affecting the characteristics of food, including any substance used to produce, manufacture, pack, process, prepare, treat, package, transport, or hold food, or any source of radiation that is intended for any of these uses; and</section><section prefix="(ii)">That is not recognized generally by qualified scientific experts as having been shown to be safe under the conditions of its intended use:</section></section>
+      <section prefix="(1)">"Food additive" means any substance:<section prefix="(i)">The intended use of which results or reasonably may be expected to result, directly or indirectly, in the substance becoming a component of food or otherwise affecting the characteristics of food, including any substance used to produce, manufacture, pack, process, prepare, treat, package, transport, or hold food, or any source of radiation that is intended for any of these uses; and</section><section prefix="(ii)">That is not recognized generally by qualified scientific experts as having been shown to be safe under the conditions of its intended use:<section prefix="1.">Through scientific procedures; or</section><section prefix="2.">Through either scientific procedures or experience based on common use, if the substance was used in a food before January 1, 1958.</section></section></section>
       <section prefix="(2)">"Food additive" does not include a color additive.</section>
     </section>
     <section prefix="(k)">"Label" means a display of written, printed, or graphic matter on the container, other than the package liner, of a substance.</section>

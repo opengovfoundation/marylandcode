@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-416" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-416</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>416</order_by>
   <text>
     <section prefix="(a)">The purpose of this section is to provide additional safety standards for private passenger automobiles, not only to afford additional protection for passengers in them, but also to eliminate damage to an automobile at a specified speed by more adequate bumper protection for the chassis of the vehicle.</section>
     <section prefix="(b)">In this section, "private passenger automobile" means a four-wheeled motor vehicle designed principally for carrying passengers, for use on public roads and highways, and not designed for use principally as a dwelling or for camping.</section>

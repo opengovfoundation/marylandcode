@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-801" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-20-801</section_number>
-  <catch_line/>
+  <catch_line>A person may not:...</catch_line>
+  <order_by>801</order_by>
   <text>A person may not:<section prefix=""><section prefix="(1)">aid, abet, incite, compel, or coerce any person to commit a discriminatory act;</section><section prefix="(2)">attempt, directly or indirectly, alone or in concert with others, to commit a discriminatory act; or</section><section prefix="(3)">obstruct or prevent any person from complying with this title or any order issued under this title.</section></section></text>
 </law>

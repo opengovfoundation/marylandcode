@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-106" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-14-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">The Department may bifurcate an application to drill for oil or gas when the drilling will be conducted in geologic formations not yet proven to be productive.</section>
     <section prefix="(b)">If the Department bifurcates the permit process it may issue a permit for exploration only. Production may not commence until the environmental assessment required by &#xA7; 14-104 of this subtitle has been completed and approved by the Department and the Department has issued a permit for production. An additional opportunity for a public hearing shall be provided in accordance with &#xA7; 14-105(f) of this subtitle prior to the issuance of any permit for production.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-608" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If membership in a discount medical plan or a discount drug plan is canceled within the first 30 calendar days after the effective date of enrollment, all fees, dues, charges, or other financial consideration, except a nominal fee, not to exceed any fees, dues, charges, or other financial consideration the  member has already paid, associated with enrollment costs that were part of the cost of the discount medical plan card or the discount drug plan card, shall be refunded to the payor on return of the discount medical plan card to the discount medical plan organization or return of the discount drug plan card to the discount drug plan organization.</section>

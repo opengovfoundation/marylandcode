@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-21-105</section_number>
-  <catch_line/>
+  <catch_line>This title must be construed and applied:...</catch_line>
+  <order_by>105</order_by>
   <text>This title must be construed and applied:<section prefix=""><section prefix="(1)">To facilitate electronic transactions consistent with other applicable law;</section><section prefix="(2)">To be consistent with reasonable practices concerning electronic transactions and with the continued expansion of those practices; and</section><section prefix="(3)">To effectuate its general purpose to make uniform the law with respect to the subject of this title among states enacting it.</section></section></text>
 </law>

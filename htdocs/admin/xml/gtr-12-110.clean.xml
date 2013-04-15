@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-110" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">The Administration may take possession of any certificate of title, registration card, permit, license, or registration plate:<section prefix="(1)">That is fictitious;</section><section prefix="(2)">That is issued by it and that:<section prefix="(i)">Has expired;</section><section prefix="(ii)">Has been canceled, suspended, or revoked; or</section><section prefix="(iii)">Was issued unlawfully or erroneously; or</section></section><section prefix="(3)">That has been issued by another jurisdiction but is being illegally used or displayed.</section></section>
     <section prefix="(b)">

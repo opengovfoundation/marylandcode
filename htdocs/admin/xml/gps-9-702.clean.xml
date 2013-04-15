@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-702" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">In this section, "plan review" has the meaning stated in &#xA7; 6-308 of this article.</section>
     <section prefix="(b)">
@@ -15,8 +15,8 @@
     <section prefix="(c)">
       <section prefix="(1)">To ensure compliance with the fire prevention code of the county or municipal corporation, the local governing body of the county or legislative body of the municipal corporation may adopt ordinances or regulations to establish and administer a fee schedule for conducting inspections and plan reviews.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The county fire prevention bureau shall:</section>
-        <section prefix="(ii)">The municipal fire prevention bureau shall:</section>
+        <section prefix="(i)">The county fire prevention bureau shall:<section prefix="1.">collect the fees established by the local governing body of the county for conducting inspections;</section><section prefix="2.">keep records of all fees collected under this section; and</section><section prefix="3.">pay all moneys collected under this section into the general fund of the county.</section></section>
+        <section prefix="(ii)">The municipal fire prevention bureau shall:<section prefix="1.">collect the fees established by the legislative body of the municipal corporation for conducting inspections;</section><section prefix="2.">keep records of all fees collected under this section; and</section><section prefix="3.">pay all moneys collected under this section into the general fund of the municipal corporation.</section></section>
       </section>
       <section prefix="(3)">To ensure that the moneys collected at least cover the costs of conducting inspections and plan reviews, the fee schedule adopted under this section shall be reviewed annually by:<section prefix="(i)">for a county, the local governing body of the county and the chief fiscal officer of the county; and</section><section prefix="(ii)">for a municipal corporation, the legislative body of the municipal corporation and the chief fiscal officer of the municipal corporation.</section></section>
     </section>

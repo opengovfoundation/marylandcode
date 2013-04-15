@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">"Qualified member" means a person who:<section prefix="(1)">obtained a membership in an organization in accordance with the charter and bylaws of the organization; and</section><section prefix="(2)">has been a member for at least 12 months immediately before the gaming event.</section></section>
     <section prefix="(b)">A gaming device that is used at a gaming event shall be operated:<section prefix="(1)">by qualified members of the organization or qualified members of other organizations allowed to operate gaming devices under this section; and</section><section prefix="(2)">without the assistance of professional gaming device operators.</section></section>

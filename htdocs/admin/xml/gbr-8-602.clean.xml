@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-602" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-8-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">A person may not accept a completion certificate or other proof that performance of a home improvement contract is complete or satisfactorily concluded with knowledge that the document or proof is false and the performance is incomplete.</section>
     <section prefix="(b)">If a person knows or has good reason to know that a completion certificate or other proof is false, the person may not utter, offer, or use the document or proof to:<section prefix="(1)">make or accept an assignment or negotiation of the right to receive payment from an owner under a home improvement contract; or</section><section prefix="(2)">get or grant credit or a loan on the security of the right to receive payment under a home improvement contract.</section></section>

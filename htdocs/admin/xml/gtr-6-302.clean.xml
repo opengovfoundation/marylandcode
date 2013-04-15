@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-302" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-6-302</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any contrary provision of law, this State, its agencies, and its political subdivisi...</catch_line>
+  <order_by>302</order_by>
   <text>Notwithstanding any contrary provision of law, this State, its agencies, and its political subdivisions may lease, lend, grant, or otherwise convey to the Administration, at its request, any property, including property devoted to public use, that is necessary or convenient for the purposes of the Administration.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-207" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -27,7 +27,7 @@
         <section prefix="(iii)">A manufacturer, distributor, or factory branch has the burden of proving that the performance standard, sales objective, or program for measuring dealership performance is fair and reasonable under this paragraph.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">If the performance standard is based on a survey, it must be shown that:</section>
+        <section prefix="(i)">If the performance standard is based on a survey, it must be shown that:<section prefix="1.">The survey was designed with experts;</section><section prefix="2.">The proper universe was examined;</section><section prefix="3.">A representative sample was chosen; and</section><section prefix="4.">The data was accurately reported.</section></section>
         <section prefix="(ii)">The manufacturer, distributor, or factory branch shall establish the objectivity of the survey process and provide this information to any dealer of the same line make covered by the survey on request.</section>
       </section>
     </section>

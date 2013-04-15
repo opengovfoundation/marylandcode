@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-801" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-13-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated, unless otherwise required by the context.</section>
     <section prefix="(b)">"Bonds" means any bonds, notes, or other obligations of an issuer, the interest on which is exempt from federal taxation under the Code and the tax-exempt status of which is subject to the volume limitation established under &#xA7; 146 of the Code.</section>

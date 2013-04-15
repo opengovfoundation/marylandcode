@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1206" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1206</order_by>
   <text>
     <section prefix="(a)">A person may not operate a bicycle, an EPAMD, or a motor scooter while carrying any package, bundle, or other article that prevents the person from keeping both hands on the handlebars.</section>
     <section prefix="(b)">A person may not carry on a bicycle, an EPAMD, or a motor scooter any package, bundle, or other article that interferes with the view or balance of the operator.</section>

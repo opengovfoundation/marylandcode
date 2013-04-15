@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-423" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-423</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>423</order_by>
   <text>
     <section prefix="(a)">By joint action, the Director and the Chairman of the Department of Psychiatry shall appoint a superintendent of the Center and may remove the Superintendent.</section>
     <section prefix="(b)">The Executive Board of the Center shall appoint individuals to scientific positions and technical positions at the Center and may remove these individuals.</section>

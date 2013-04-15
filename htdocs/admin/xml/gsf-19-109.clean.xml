@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-109" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-19-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">A request for a contested case hearing in accordance with the procedures specified in this section may be made by:<section prefix="(1)">a business entity, upon a Commission determination of probable cause for one or more of the allegations stated in the complaint against the business entity, and failure of timely conciliation; or</section><section prefix="(2)">a complainant on a Commission determination that the complainant has filed a knowingly false or frivolous complaint.</section></section>
     <section prefix="(b)">
@@ -23,7 +23,7 @@
       <section prefix="(2)">The Office of Administrative Hearings shall conduct any contested case hearing in accordance with its rules of procedure under COMAR 28.02.01.</section>
       <section prefix="(3)">
         <section prefix="(i)">At the conclusion of the contested case hearing, the administrative law judge shall issue a written decision.</section>
-        <section prefix="(ii)">The administrative law judge's written decision may:</section>
+        <section prefix="(ii)">The administrative law judge's written decision may:<section prefix="1.">affirm or reject all or part of the statement of charges; or</section><section prefix="2.">substitute different findings and recommend appropriate remedies.</section></section>
       </section>
       <section prefix="(4)">The administrative law judge's written decision shall be solely based on a preponderance of the evidence contained in the record of the contested case hearing and shall reflect the evidentiary basis for its findings.</section>
       <section prefix="(5)">An administrative law judge may consider any evidence regarding the factors described in &#xA7; 19-108(a) of this title when determining whether to sustain an allegation presented in a statement of charges.</section>

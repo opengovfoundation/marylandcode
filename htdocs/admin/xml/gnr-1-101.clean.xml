@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-101" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">There is a Department of Natural Resources, established as a principal department of the State government. The head of the Department is the Secretary of Natural Resources, who shall be appointed by the Governor with the advice and consent of the Senate. The Secretary shall be an individual with administrative ability, whose reputation and experience demonstrate his interest in the field of natural resources.</section>
     <section prefix="(b)">It is the intention of the General Assembly, in providing for a Department of Natural Resources, to establish a State department which, in addition to its other functions, shall:<section prefix="(1)">Review and evaluate all natural resources policies, plans, programs, and practices of State, county, regional, and federal agencies and institutions;</section><section prefix="(2)">Coordinate natural resources activities within the State;</section><section prefix="(3)">Be a center for collecting and organizing information on natural resources for the guidance of the Governor and the General Assembly; and</section><section prefix="(4)">Otherwise unify, coordinate, and promulgate policies, plans, programs, and practices which insure the preservation, development, wise use, and enjoyment of all the natural resources for greatest benefits to the State and its citizens.</section></section>

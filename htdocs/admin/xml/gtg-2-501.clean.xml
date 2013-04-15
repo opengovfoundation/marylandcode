@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-501" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-2-501</section_number>
-  <catch_line/>
+  <catch_line>The Comptroller shall distribute the financial institution franchise tax revenue to the General Fund...</catch_line>
+  <order_by>501</order_by>
   <text>The Comptroller shall distribute the financial institution franchise tax revenue to the General Fund of the State.</text>
 </law>

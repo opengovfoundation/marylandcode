@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-205" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-8-205</section_number>
-  <catch_line/>
+  <catch_line>The Board shall:...</catch_line>
+  <order_by>205</order_by>
   <text>The Board shall:<section prefix=""><section prefix="(1)">Review periodically the programs and policies of the Department that relate to radiation; and</section><section prefix="(2)">Consult with and advise the Secretary on matters that relate to radiation.</section></section></text>
 </law>

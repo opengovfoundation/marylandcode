@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-405" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-14-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">The trustee's obligations begin when the trustee accepts the trust property by writing words substantially similar to those specified in &#xA7; 14-404(e) of this subtitle.</section>
     <section prefix="(b)">A trustee shall:<section prefix="(1)">Take control of trust property;</section><section prefix="(2)">Register or record title to trust property if appropriate; and</section><section prefix="(3)">Collect, hold, manage, invest, and reinvest trust property.</section></section>

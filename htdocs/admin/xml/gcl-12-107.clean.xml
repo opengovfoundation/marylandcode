@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-107" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-107</section_number>
-  <catch_line/>
+  <catch_line>If a charge or fee considered interest under this subtitle is charged at or before the inception of ...</catch_line>
+  <order_by>107</order_by>
   <text>If a charge or fee considered interest under this subtitle is charged at or before the inception of a loan contract, the effective rate of simple interest permitted to be charged by &#xA7;&#xA7; 12-102 and 12-103 of this subtitle, and required to be disclosed by &#xA7; 12-106 of this subtitle shall be determined in the same manner as if the fee or charge had not been charged, except that the principal of the loan used in determining the rate of interest is the face amount of the loan less the fee or charge.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-307" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-9-307</section_number>
-  <catch_line/>
+  <catch_line>If, for a pay period, the pay of an employee placed by an employment agency is not more than the min...</catch_line>
+  <order_by>307</order_by>
   <text>If, for a pay period, the pay of an employee placed by an employment agency is not more than the minimum wage under &#xA7; 3-413 of the Labor and Employment Article, the employment agency may not collect or attempt to collect more than 20% of its placement fee from the employee's pay for the pay period.</text>
 </law>

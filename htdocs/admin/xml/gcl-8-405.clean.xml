@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-405" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">If an owner of a certificated security, whether in registered or bearer form, claims that the certificate has been lost, destroyed, or wrongfully taken, the issuer shall issue a new certificate if the owner:<section prefix="(1)">So requests before the issuer has notice that the certificate has been acquired by a protected purchaser;</section><section prefix="(2)">Files with the issuer a sufficient indemnity bond; and</section><section prefix="(3)">Satisfies other reasonable requirements imposed by the issuer.</section></section>
     <section prefix="(b)">

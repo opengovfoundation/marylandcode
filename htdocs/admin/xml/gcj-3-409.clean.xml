@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-409" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (d) of this section, a court may grant a declaratory judgment or decree in a civil case, if it will serve to terminate the uncertainty or controversy giving rise to the proceeding, and if:<section prefix="(1)">An actual controversy exists between contending parties;</section><section prefix="(2)">Antagonistic claims are present between the parties involved which indicate imminent and inevitable litigation; or</section><section prefix="(3)">A party asserts a legal relation, status, right, or privilege and this is challenged or denied by an adversary party, who also has or asserts a concrete interest in it.</section></section>
     <section prefix="(b)">If a statute provides a special form of remedy for a specific type of case, that statutory remedy shall be followed in lieu of a proceeding under this subtitle.</section>

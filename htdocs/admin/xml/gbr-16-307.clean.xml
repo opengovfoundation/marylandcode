@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-307" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in &#xA7; 10-226 of the State Government Article, before the Comptroller takes any final action under &#xA7; 16-306 of this subtitle, the Comptroller shall give the person against whom the action is contemplated an opportunity for a hearing before the Comptroller.</section>
     <section prefix="(b)">The Comptroller shall give notice and hold the hearing in accordance with Title 10, Subtitle 2 of the State Government Article.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-511" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsections (b) and (c) of this section, if a securities intermediary does not have sufficient interests in a particular financial asset to satisfy both its obligations to entitlement holders who have security entitlements to that financial asset and its obligation to a creditor of the securities intermediary who has a security interest in that financial asset, the claims of entitlement holders, other than the creditor, have priority over the claim of the creditor.</section>
     <section prefix="(b)">A claim of a creditor of a securities intermediary who has a security interest in a financial asset held by a securities intermediary has priority over claims of the securities intermediary's entitlement holders who have security entitlements with respect to that financial asset if the creditor has control over the financial asset.</section>

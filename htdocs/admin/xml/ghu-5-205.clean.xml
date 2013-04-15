@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-205" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-5-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Administration shall be the central coordinating and directing agency of all public assistance programs in the State, including:<section prefix="(1)">the Family Investment Program and related cash benefit programs;</section><section prefix="(2)">public assistance to adults;</section><section prefix="(3)">emergency assistance;</section><section prefix="(4)">food stamps;</section><section prefix="(5)">medical assistance eligibility determinations;</section><section prefix="(6)">the Energy Assistance Program; and</section><section prefix="(7)">any other public assistance activities financed wholly or partly by the Administration.</section></section>
     <section prefix="(b)">The Administration shall supervise, direct, and control the activities of the local departments that it finances wholly or partly.</section>

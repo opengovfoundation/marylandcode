@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-204" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">Each sprinkler system required under this section shall:<section prefix="(1)">be installed in accordance with accepted engineering practices that meet the standard for the installation of sprinkler systems in residential occupancies under the regulations of the State Fire Prevention Commission or the local authority with jurisdiction over the enforcement of fire and building codes;</section><section prefix="(2)">meet the requirements of the current National Fire Protection Association standards; and</section><section prefix="(3)">be approved by the State Fire Marshal or the local authority with jurisdiction over the enforcement of fire codes.</section></section>
     <section prefix="(b)">

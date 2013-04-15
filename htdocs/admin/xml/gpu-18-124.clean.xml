@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-124" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-18-124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>124</order_by>
   <text>
     <section prefix="(a)">The Commission, by regulation, shall establish what constitutes a resignation.</section>
     <section prefix="(b)">A regulation adopted under subsection (a) of this section is subject to the approval of the Secretary.</section>

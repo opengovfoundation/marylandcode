@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-204" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">Upon the request of any competent State authority, the Secretary may inspect and test any weight and measure.</section>
     <section prefix="(b)">Unless otherwise provided, the Secretary may inspect and test to ascertain if they are correct, every weight and measure possessed, offered, or exposed for sale. The Secretary shall inspect and test every weight and measure commercially used in determining:<section prefix="(1)">The weight, measurement, or count of any commodity sold, or offered or exposed for sale, on the basis of weight, measure, or count;</section><section prefix="(2)">Any charge or payment for services rendered on the basis of weight, measure, or count; and</section><section prefix="(3)">Weight, measurement, or count when a charge is made for the determination.</section></section>

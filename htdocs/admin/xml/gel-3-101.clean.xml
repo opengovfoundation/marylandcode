@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-101" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-3-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">There shall be a statewide voter registration list.</section>
     <section prefix="(b)">The statewide voter registration list shall:<section prefix="(1)">be the official voter registration list for the State;</section><section prefix="(2)">contain the name and other information for every legally registered voter in the State;</section><section prefix="(3)">allow each local board to obtain immediate electronic access to the information contained in the list;</section><section prefix="(4)">be coordinated with other agency databases in the State;</section><section prefix="(5)">be used to produce precinct registers for use in polling places on election day; and</section><section prefix="(6)">include voting history information on a current basis for a period covering at least the 5 preceding years.</section></section>

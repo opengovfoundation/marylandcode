@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-101" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Active ingredient" means:<section prefix="(1)">In the case of a pesticide other than a plant regulator, defoliant, or desiccant, an ingredient which prevents, destroys, repels, or mitigates insects, nematodes, fungi, rodents, weeds, bacteria, or other pests;</section><section prefix="(2)">In the case of a plant regulator, an ingredient which, through physiological action, accelerates or retards the rate of growth or rate of maturation or otherwise alters the behavior of ornamental or crop plants or their produce;</section><section prefix="(3)">In the case of a defoliant, an ingredient which causes the leaves or foliage to drop from a plant;</section><section prefix="(4)">In the case of a desiccant, an ingredient which artificially accelerates the drying of plant tissue.</section></section>

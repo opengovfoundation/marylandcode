@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-127" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-127</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>127</order_by>
   <text>
     <section prefix="(a)">The Corporation may pledge or assign:<section prefix="(1)">any of its revenues;</section><section prefix="(2)">any of its rights to receive revenues;</section><section prefix="(3)">money and securities in accounts established to secure a bond; and</section><section prefix="(4)">a lien or security interest granted or assignment made to the Corporation.</section></section>
     <section prefix="(b)">A pledge or assignment:<section prefix="(1)">is valid and binding against any person having a claim against the Corporation in tort, contract, or otherwise, regardless of whether the person has notice of the pledge or assignment; and</section><section prefix="(2)">has priority over the claim.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-315" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">A person who sells motor fuel at retail shall display signs in accordance with this section.</section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
     <section prefix="(e)">
       <section prefix="(1)">This subsection does not apply to a retail service station dealer who operates with not more than 3 dispensing units that combined have not more than 6 nozzles.</section>
       <section prefix="(2)">
-        <section prefix="(i)">Each retail service station dealer shall keep a sign on the premises that:</section>
+        <section prefix="(i)">Each retail service station dealer shall keep a sign on the premises that:<section prefix="1.">states the lowest price for a whole measurement unit of regular gasoline sold on the premises;</section><section prefix="2.">states the unit of measurement used; and</section><section prefix="3.">is readable by passing motorists.</section></section>
         <section prefix="(ii)">The sign required under subparagraph (i) of this paragraph also may state the lowest price for a whole measurement unit of diesel and other motor fuel products sold on the premises.</section>
       </section>
       <section prefix="(3)">All numerals on the sign shall:<section prefix="(i)">be uniform;</section><section prefix="(ii)">be at least 8 inches high and 3.5 inches wide; and</section><section prefix="(iii)">have a brush stroke of at least 1 inch.</section></section>

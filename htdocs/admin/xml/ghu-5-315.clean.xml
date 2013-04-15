@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-315" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-5-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">Subsections (b) and (c) of this section are not intended to create an incentive for individuals to seek temporary cash assistance benefits instead of employment.</section>
     <section prefix="(b)">In determining a family's eligibility for the FIP, the local department shall exclude Supplemental Security Income (SSI) benefits provided to an adult or child family member.</section>

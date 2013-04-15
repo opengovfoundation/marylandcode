@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1104" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-1104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1104</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, a claim for refund under this article may not be filed after 3 years from the date the tax, interest, or penalty was paid.</section>
     <section prefix="(b)">A claim for refund of alcoholic beverage tax may not be filed after:<section prefix="(1)">90 days from the date of purchase or invoice of exempt alcoholic beverages used by a hospital or religious organization; and</section><section prefix="(2)">6 months from the date on which alcoholic beverages are condemned, lost, or rendered unmarketable.</section></section>

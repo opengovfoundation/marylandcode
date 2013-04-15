@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="18" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-18</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>18</order_by>
   <text>
     <section prefix="(a)">This section applies only to code counties and commission counties.</section>
     <section prefix="(b)">The number of county commissioners in each county shall be as fixed by the code of local laws for each county.</section>

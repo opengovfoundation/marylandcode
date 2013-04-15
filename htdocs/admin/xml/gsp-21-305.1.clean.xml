@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-305.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-305.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305.1</order_by>
   <text>
     <section prefix="(a)">In this section, "employees' systems" means the Employees' Pension System and the Employees' Retirement System.</section>
     <section prefix="(b)">As part of each actuarial valuation, the actuary shall determine the normal contributions, net of member contributions, on account of members of the employees' systems who are employees of participating governmental units.</section>

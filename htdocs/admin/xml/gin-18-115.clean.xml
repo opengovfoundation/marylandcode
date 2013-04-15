@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-115" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-18-115</section_number>
-  <catch_line/>
+  <catch_line>In evaluating the expected and actual loss ratios, the Commissioner shall consider:...</catch_line>
+  <order_by>115</order_by>
   <text>In evaluating the expected and actual loss ratios, the Commissioner shall consider:<section prefix=""><section prefix="(1)">the statistical credibility of incurred claims experience and earned premiums;</section><section prefix="(2)">the period for which rates are computed to provide coverage;</section><section prefix="(3)">experienced and projected trends;</section><section prefix="(4)">the concentration of experience within early policy duration;</section><section prefix="(5)">expected claim fluctuation;</section><section prefix="(6)">experienced refunds, adjustments, or dividends;</section><section prefix="(7)">renewability features;</section><section prefix="(8)">all appropriate expense factors;</section><section prefix="(9)">interest;</section><section prefix="(10)">the experimental nature of the coverage;</section><section prefix="(11)">policy reserves;</section><section prefix="(12)">the mix of business by risk classification; and</section><section prefix="(13)">product features, including long elimination periods, high deductibles, and high maximum limits.</section></section></text>
 </law>

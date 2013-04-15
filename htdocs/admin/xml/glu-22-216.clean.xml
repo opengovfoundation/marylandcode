@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-216" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-22-216</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>216</order_by>
   <text>
     <section prefix="(a)">In this section, "custodian" means the custodian of the records of a zoning map amendment case in the county.</section>
     <section prefix="(b)">

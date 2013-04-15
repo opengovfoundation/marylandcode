@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-602" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-602</section_number>
-  <catch_line/>
+  <catch_line>On conviction, the finding of a delinquent act, acceptance of a plea of nolo contendere, or impositi...</catch_line>
+  <order_by>602</order_by>
   <text>On conviction, the finding of a delinquent act, acceptance of a plea of nolo contendere, or imposition of probation before judgment for a crime under &#xA7; 10-404 of the Criminal Law Article, the following persons may act on behalf of a victim:<section prefix=""><section prefix="(1)">the owner of the burial site; and</section><section prefix="(2)">a person related by blood or marriage to the person buried in the burial site.</section></section></text>
 </law>

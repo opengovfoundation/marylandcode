@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-205" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-205</section_number>
-  <catch_line/>
+  <catch_line>The acceptance by the vendor of any guarantee, endorsement, collateral, or other security to insure ...</catch_line>
+  <order_by>205</order_by>
   <text>The acceptance by the vendor of any guarantee, endorsement, collateral, or other security to insure the full payment of any vendor's lien, may not be construed as a waiver of the lien. However, the purchaser shall be credited with the proceeds from the sale of any collateral or other securities.</text>
 </law>

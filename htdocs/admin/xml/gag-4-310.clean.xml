@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-310" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">During the usual business hours, the Secretary may enter any warehouse, store, building, market, or any other place, carrier, conveyance, or vehicle where or from where shell eggs are sold, offered, or exposed for sale, to enforce the provisions of this subtitle.</section>
     <section prefix="(b)">If the Secretary finds shell eggs are sold, offered or exposed for sale in violation of this subtitle, he may issue a written or printed "stop-sale" order to the person violating this section. After receipt of the order, the recipient may not sell, offer, or expose for sale any shell eggs subject to the order. Any person upon whom a "stop-sale" order has been served may appeal to the Secretary.</section>

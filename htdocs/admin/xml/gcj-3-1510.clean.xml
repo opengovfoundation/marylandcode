@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1510" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-1510</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1510</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Court record" means an official record of a court about a proceeding that the clerk of a court or other court personnel keeps.</section>
-        <section prefix="(ii)">"Court record" includes:</section>
+        <section prefix="(ii)">"Court record" includes:<section prefix="1.">An index, a docket entry, a petition, a memorandum, a transcription of proceedings, an electronic recording, an order, and a judgment; and</section><section prefix="2.">Any electronic information about a proceeding on the Web site maintained by the Maryland Judiciary.</section></section>
       </section>
       <section prefix="(3)">"Shield" means to remove information from public inspection in accordance with this section.</section>
       <section prefix="(4)">"Shielding" means:<section prefix="(i)">With respect to a record kept in a courthouse, removing the record to a separate secure area to which persons who do not have a legitimate reason for access are denied access; and</section><section prefix="(ii)">With respect to electronic information about a proceeding on the Web site maintained by the Maryland Judiciary, completely removing all information concerning the proceeding from the public Web site, including the names of the parties, case numbers, and any reference to the proceeding or any reference to the removal of the proceeding from the public Web site.</section></section>
@@ -22,7 +22,7 @@
     <section prefix="(d)">
       <section prefix="(1)">On the filing of a request for shielding under this section, the court shall schedule a hearing on the request.</section>
       <section prefix="(2)">The court shall give notice of the hearing to the petitioner or the petitioner's counsel of record.</section>
-      <section prefix="(3)">Except as provided in paragraphs (4) and (5) of this subsection, after the hearing, the court shall order the shielding of all court records relating to the proceeding if the court finds:<section prefix="(i)">That the petition was denied or dismissed at the interim, temporary, or final peace order stage of the proceeding;</section><section prefix="(ii)">That a final peace order or protective order has not been previously issued against the respondent in a proceeding between the petitioner and the respondent; and</section><section prefix="(iii)">That none of the following are pending at the time of the hearing:</section></section>
+      <section prefix="(3)">Except as provided in paragraphs (4) and (5) of this subsection, after the hearing, the court shall order the shielding of all court records relating to the proceeding if the court finds:<section prefix="(i)">That the petition was denied or dismissed at the interim, temporary, or final peace order stage of the proceeding;</section><section prefix="(ii)">That a final peace order or protective order has not been previously issued against the respondent in a proceeding between the petitioner and the respondent; and</section><section prefix="(iii)">That none of the following are pending at the time of the hearing:<section prefix="1.">An interim or temporary peace order or protective order issued against the respondent in a proceeding between the petitioner and the respondent; or</section><section prefix="2.">A criminal charge against the respondent arising from an alleged act described in &#xA7; 3-1503(a) of this subtitle against the petitioner.</section></section></section>
       <section prefix="(4)">
         <section prefix="(i)">If the petitioner appears at the shielding hearing and objects to the shielding, the court may, for good cause, deny the shielding.</section>
         <section prefix="(ii)">In determining whether there is good cause to grant the request to shield court records, the court shall balance the privacy of the respondent and potential danger of adverse consequences to the respondent against the potential risk of future harm and danger to the petitioner and the community.</section>

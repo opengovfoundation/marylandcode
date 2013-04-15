@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-220" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-17-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">Each contractor required to pay the prevailing wage rate shall:<section prefix="(1)">keep payroll records covering work performed directly at the work site in accordance with regulations adopted by the Commissioner; and</section><section prefix="(2)">allow the Commissioner or the public body to inspect the records at any reasonable time and as often as necessary.</section></section>
     <section prefix="(b)">

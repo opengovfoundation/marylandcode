@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-112" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-8-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">If a contingent claim becomes absolute before the distribution of the estate, it shall be paid in the same manner as absolute claims of the same class. In other cases, if a petition is filed with the court by the personal representative or the claimant, the court may provide for payment in the manner provided in subsections (b), (c), (d), or (e) of this section.</section>
     <section prefix="(b)">The creditor and personal representative may determine, by agreement, arbitration, or compromise, the value of the claim according to its probable present worth, and, upon approval by the court, it may be allowed and paid in the same manner as an absolute claim.</section>

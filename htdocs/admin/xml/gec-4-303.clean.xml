@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-303" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-4-303</section_number>
-  <catch_line/>
+  <catch_line>The Office may:...</catch_line>
+  <order_by>303</order_by>
   <text>The Office may:<section prefix=""><section prefix="(1)">ask any State or local governmental unit for assistance and information to carry out this subtitle;</section><section prefix="(2)">accept a gift, bequest, or grant from a public or private source for any of the purposes of this subtitle;</section><section prefix="(3)">spend money made available in accordance with the State budget for any of the purposes of this subtitle; and</section><section prefix="(4)">do any other act necessary to carry out this subtitle.</section></section></text>
 </law>

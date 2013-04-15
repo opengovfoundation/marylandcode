@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-521" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-521</section_number>
-  <catch_line/>
+  <catch_line>The Corporation may:...</catch_line>
+  <order_by>521</order_by>
   <text>The Corporation may:<section prefix=""><section prefix="(1)">study agricultural conditions and needs in the State, needs relating to the promotion of agricultural industries, and ways of meeting those needs;</section><section prefix="(2)">make the studies available to the public and to agricultural industries; and</section><section prefix="(3)">engage in research or disseminate information on agriculture and agricultural marketing and promotion.</section></section></text>
 </law>

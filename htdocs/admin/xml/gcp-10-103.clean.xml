@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">For arrests, detentions, or confinements occurring before October 1, 2007, a person who is arrested, detained, or confined by a law enforcement unit for the suspected commission of a crime and then is released without being charged with the commission of a crime may request the expungement of the police record.</section>
     <section prefix="(b)">The person shall request expungement within 8 years after the date of the incident.</section>
     <section prefix="(c)">
       <section prefix="(1)">On receipt of a timely filed request, the law enforcement unit promptly shall investigate and try to verify the facts stated in the request.</section>
-      <section prefix="(2)">If the law enforcement unit finds the facts are true, the law enforcement unit shall:<section prefix="(i)">search diligently for each police record about the arrest, detention, or confinement of the person;</section><section prefix="(ii)">expunge each police record it has about the arrest, detention, or confinement within 60 days after receipt of the request; and</section><section prefix="(iii)">send a copy of the request and the law enforcement unit's verification of the facts in the request to:</section></section>
+      <section prefix="(2)">If the law enforcement unit finds the facts are true, the law enforcement unit shall:<section prefix="(i)">search diligently for each police record about the arrest, detention, or confinement of the person;</section><section prefix="(ii)">expunge each police record it has about the arrest, detention, or confinement within 60 days after receipt of the request; and</section><section prefix="(iii)">send a copy of the request and the law enforcement unit's verification of the facts in the request to:<section prefix="1.">the Central Repository;</section><section prefix="2.">each booking facility or law enforcement unit that the law enforcement unit believes may have a police record about the arrest, detention, or confinement; and</section><section prefix="3.">the person requesting expungement.</section></section></section>
     </section>
     <section prefix="(d)">Within 60 days after receipt of the request, the Central Repository, booking facility, and any other law enforcement unit shall search diligently for and expunge a police record about the arrest, detention, or confinement.</section>
     <section prefix="(e)">If the law enforcement unit to which the person has sent a request finds that the person is not entitled to an expungement of the police record, the law enforcement unit, within 60 days after receipt of the request, shall advise the person in writing of:<section prefix="(1)">the denial of the request for expungement; and</section><section prefix="(2)">the reasons for the denial.</section></section>

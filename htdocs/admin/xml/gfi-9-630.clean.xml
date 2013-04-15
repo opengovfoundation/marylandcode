@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-630" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-630</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>630</order_by>
   <text>
     <section prefix="(a)">To consolidate, merge, transfer assets, effect a statutory merger, reorganize, partially liquidate, or dissolve, a savings and loan association shall deliver to the Division Director the proposed plan of the respective action.</section>
     <section prefix="(b)">

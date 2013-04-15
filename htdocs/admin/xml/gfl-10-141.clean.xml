@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-141" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-141</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>141</order_by>
   <text>
     <section prefix="(a)">The Administration may file a notice of a child support lien with the clerk of a circuit court.</section>
     <section prefix="(b)">

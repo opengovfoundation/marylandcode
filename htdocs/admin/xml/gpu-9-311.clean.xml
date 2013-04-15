@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-311" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-9-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">At least 30 days before making a determination, the local governing body of a county shall notify a railroad company that the county will consider the need to protect a railroad crossing over a public highway if:<section prefix="(i)">the crossing is in the county but outside of a municipal corporation;</section><section prefix="(ii)">the crossing is at grade; and</section><section prefix="(iii)">the highway is believed to be of a character as to render dangerous the passage of locomotives and trains on it.</section></section>

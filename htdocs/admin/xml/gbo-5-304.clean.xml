@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-304" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-5-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">To qualify for a license to practice as a cosmetologist, an applicant shall be an individual who meets the requirements of this section.</section>
       <section prefix="(2)">The applicant shall be at least 17 years old.</section>
       <section prefix="(3)">The applicant shall have completed successfully a 9th grade education or the equivalent.</section>
       <section prefix="(4)">
-        <section prefix="(i)">Except as otherwise provided in this subsection, an applicant shall have received training by:</section>
-        <section prefix="(ii)">If an applicant is a barber or master barber currently licensed in this State, the Board shall:</section>
-        <section prefix="(iii)">An applicant meets the requirements of this subsection if:</section>
+        <section prefix="(i)">Except as otherwise provided in this subsection, an applicant shall have received training by:<section prefix="1.">serving as a registered apprentice as provided under &#xA7;&#xA7; 5-404 and 5-405(e) of this title; or</section><section prefix="2.">successfully completing a required program of at least 1,500 hours of training in a cosmetology school that is approved by the State Board of Education or the Maryland Higher Education Commission in consultation with the Board.</section></section>
+        <section prefix="(ii)">If an applicant is a barber or master barber currently licensed in this State, the Board shall:<section prefix="1.">credit the applicant with having met one-half of the training requirements of subparagraph (i) of this paragraph; and</section><section prefix="2.">determine the manner in which the credit will be applied.</section></section>
+        <section prefix="(iii)">An applicant meets the requirements of this subsection if:<section prefix="1.">the applicant has held a cosmetologist license in another state or foreign country and has actively practiced cosmetology in the other state or foreign country for a period of 6 months; or</section><section prefix="2.">the applicant has been trained in a cosmetology school in another state or foreign country that has standards substantially equivalent to or more stringent than the standards of a school that is approved by the State Board of Education or the Maryland Higher Education Commission in consultation with the Board.</section></section>
       </section>
       <section prefix="(5)">Except as otherwise provided in this subtitle, the applicant shall pass a written and practical examination given by the Board under this subtitle.</section>
     </section>

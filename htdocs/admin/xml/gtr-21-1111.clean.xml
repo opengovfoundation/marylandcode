@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1111" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1111</order_by>
   <text>
     <section prefix="(a)">A person may not drop, throw, or place on a highway any glass bottle, glass, nails, tacks, wire, cans, or any other substance likely to injure any person, animal, or vehicle on the highway.</section>
     <section prefix="(b)">Any person who drops, throws, or places or permits to be dropped, thrown, or placed on a highway any destructive, hazardous, or injurious material immediately shall remove it or cause it to be removed.</section>

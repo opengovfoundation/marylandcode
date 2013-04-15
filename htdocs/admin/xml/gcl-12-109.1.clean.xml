@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-109.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-109.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109.1</order_by>
   <text>
     <section prefix="(a)">The provisions of this section do not apply to escrow accounts maintained in connection with loans described in &#xA7; 12-103(e)(1) of this subtitle.</section>
     <section prefix="(b)">Except in a foreclosure, release, or as provided in subsection (c) of this section, funds in any escrow account for use in paying taxes, insurance premiums and ground rents may not be used to:<section prefix="(1)">Reduce the principal; or</section><section prefix="(2)">Pay interest or other loan charges.</section></section>
@@ -17,7 +17,7 @@
       <section prefix="(3)">
         <section prefix="(i)">In this paragraph, "other expenses" does not include money required by a lender or a servicer of a loan for an escrow account cushion as permitted by the federal Real Estate Settlement Procedures Act.</section>
         <section prefix="(ii)">A lender or a servicer of a loan may charge interest to a borrower on the amount of funds the lender or servicer advances to pay taxes, insurance premiums, or other expenses owed by the borrower in order to protect the security of the loan.</section>
-        <section prefix="(iii)">Interest may be charged by a lender or a servicer of a loan under subparagraph (ii) of this paragraph only if:</section>
+        <section prefix="(iii)">Interest may be charged by a lender or a servicer of a loan under subparagraph (ii) of this paragraph only if:<section prefix="1.">The lender or servicer advances its own funds because funds of the borrower were not available to pay the taxes, insurance premiums, or other expenses owed by the borrower;</section><section prefix="2.">The need for the advance was not caused by an error of the lender or servicer in servicing the loan;</section><section prefix="3.">The lender or servicer provides notice to the borrower that the advance was made and that interest will be charged on the advance;</section><section prefix="4.">Interest does not begin to accrue until 60 days after notice has been provided to the borrower in accordance with item 3 of this subparagraph;</section><section prefix="5.">Interest is charged only on the amount of funds actually advanced by the lender or servicer after the lender or servicer has used all available funds of the borrower to pay taxes, insurance premiums, or other expenses owed by the borrower; and</section><section prefix="6.">The borrower is permitted to repay the advance as permitted by the federal Real Estate Settlement Procedures Act.</section></section>
       </section>
     </section>
   </text>

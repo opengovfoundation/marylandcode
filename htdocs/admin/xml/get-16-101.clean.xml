@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-101" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-16-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following terms have the meanings indicated unless the context otherwise requires.</section>
     <section prefix="(b)">"Beneficiary form" means a registration of a security which indicates the present owner of the security and the intention of the owner regarding the person who will become the owner of the security upon the death of the owner.</section>

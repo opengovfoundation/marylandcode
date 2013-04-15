@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1101" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-1101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1101</order_by>
   <text>
     <section prefix="(a)">For the purpose of this title, each game bird or mammal taken illegally, purchased, offered for purchase, sold, bartered, or exchanged in excess of the bag limit or possessed illegally constitutes a separate offense.</section>
     <section prefix="(b)">Any person who violates any provision of this title is guilty of a misdemeanor. Unless another penalty is specifically provided elsewhere in this title, the person, upon conviction, is subject to a fine not exceeding $1,500, with costs imposed in the discretion of the court.</section>

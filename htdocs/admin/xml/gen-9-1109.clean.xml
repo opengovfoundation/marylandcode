@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1109" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1109</order_by>
   <text>
     <section prefix="(a)">In this section, "individual sewerage system" means a privately owned system of sewers, piping and treatment tanks or other facilities that:<section prefix="(1)">Serves only a single lot for the disposal of sewage; and</section><section prefix="(2)">Discharges to the surface waters of the State.</section></section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a person may not install an individual sewerage system in the State.</section>

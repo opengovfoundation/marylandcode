@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-401" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-8-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">The Board may approve any registered nursing or licensed practical nursing education program at an institution in this State.</section>
     <section prefix="(b)">The Board shall:<section prefix="(1)">Keep a list of institutions in this State that currently have an approved registered nursing or licensed practical nursing education program;</section><section prefix="(2)">Set standards for approval of education programs for registered nurses and licensed practical nurses at institutions in this State;</section><section prefix="(3)">Evaluate the need for an education program for registered nurses or licensed practical nurses in the geographic area in which the program is proposed to be located; and</section><section prefix="(4)">Survey approved nursing education programs as it considers necessary.</section></section>

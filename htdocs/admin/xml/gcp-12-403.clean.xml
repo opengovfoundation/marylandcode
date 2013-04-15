@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-12-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">Whenever property is forfeited under this title, the governing body where the property was seized may:<section prefix="(i)">keep the property for official use;</section><section prefix="(ii)">require an appropriate unit to take custody of the property and destroy or otherwise dispose of it; or</section><section prefix="(iii)">sell the property if:</section></section>
+      <section prefix="(1)">Whenever property is forfeited under this title, the governing body where the property was seized may:<section prefix="(i)">keep the property for official use;</section><section prefix="(ii)">require an appropriate unit to take custody of the property and destroy or otherwise dispose of it; or</section><section prefix="(iii)">sell the property if:<section prefix="1.">the law does not require the property to be destroyed; and</section><section prefix="2.">the property is not harmful to the public.</section></section></section>
       <section prefix="(2)">The proceeds of a sale under this subsection shall first be used to pay all proper expenses of the proceedings for forfeiture and sale, including expenses of seizure, maintenance of custody, advertising, and court costs.</section>
     </section>
     <section prefix="(b)">If the seizing authority was a State law enforcement unit:<section prefix="(1)">under &#xA7; 12-402(b) of this subtitle, the court shall order the property to be forfeited to the State law enforcement unit; or</section><section prefix="(2)">under &#xA7; 12-402(d)(2)(iv) of this subtitle, the proceeds of the sale shall be paid to the State law enforcement unit.</section></section>

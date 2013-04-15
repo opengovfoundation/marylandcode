@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-114" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-13-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a creditor requires credit life insurance, credit health insurance, or credit involuntary unemployment benefit insurance as additional security for an indebtedness, the debtor may:<section prefix="(i)">provide the required coverage through existing policies that the debtor owns or controls; or</section><section prefix="(ii)">procure and provide the required coverage through any authorized insurer.</section></section>

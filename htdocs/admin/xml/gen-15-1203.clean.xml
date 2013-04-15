@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1203" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-1203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On or after October 1, 2011, a surface owner of real property that is subject to a mineral interest may maintain an action to terminate a dormant mineral interest.</section>
@@ -23,7 +23,7 @@
       <section prefix="(1)">A surface owner of real property that is subject to a mineral interest who brings an action to terminate a dormant mineral interest in accordance with this section shall bring the action in the circuit court of the jurisdiction in which the real property is located.</section>
       <section prefix="(2)">A court order that terminates a mineral interest merges the terminated mineral interest, including express and implied appurtenant surface rights and obligations, with the surface estate in shares proportionate to the ownership of the surface estate, subject to existing liens for taxes or assessments.</section>
       <section prefix="(3)">
-        <section prefix="(i)">A court order that terminates a mineral interest shall identify:</section>
+        <section prefix="(i)">A court order that terminates a mineral interest shall identify:<section prefix="1.">The mineral interest;</section><section prefix="2.">Each surface estate into which the mineral interest is merged, including the tax map and parcel number;</section><section prefix="3.">The name of each surface owner;</section><section prefix="4.">If known, the name of each person that owned the mineral interest prior to the termination date; and</section><section prefix="5.">Any information determined by the court as appropriate to describe the effect of the termination and merger of the mineral interest.</section></section>
         <section prefix="(ii)">The clerk of the court that issued the order shall record the order in the land records.</section>
       </section>
     </section>

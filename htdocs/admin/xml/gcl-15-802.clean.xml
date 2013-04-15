@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-802" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">When a check or other instrument has been dishonored by nonacceptance or nonpayment and has not been paid within 10 days, the holder to whom the check or other instrument was issued or negotiated may send a notice of dishonor to the maker or drawer as provided under this section.</section>
     <section prefix="(b)">If a check or other instrument has not been paid within 30 days after the holder has sent a notice of dishonor to the maker or drawer, the maker or drawer of a check or other instrument that has been dishonored shall be liable for:<section prefix="(1)">The amount of the check or instrument;</section><section prefix="(2)">A collection fee of up to $35; and</section><section prefix="(3)">An amount up to 2 times the amount of the check, but not more than $1,000.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">
         <section prefix="(i)">The holder of a check or other instrument that has been dishonored may seek the damages provided under this section in the District Court of Maryland 30 days after a notice of dishonor has been sent by mail to the last known address of the maker or drawer.</section>
-        <section prefix="(ii)">For each notice sent by the holder under subparagraph (i) of this paragraph, the holder shall:</section>
+        <section prefix="(ii)">For each notice sent by the holder under subparagraph (i) of this paragraph, the holder shall:<section prefix="1.">Obtain a certificate of mailing from the U.S. Postal Service; or</section><section prefix="2.">Execute an affidavit that attests to the mailing of the notice in compliance with subparagraph (i) of this paragraph.</section></section>
       </section>
       <section prefix="(2)">A notice of dishonor sent by a holder under this section to a maker or drawer of a dishonored check or other instrument shall substantially comply with the form prescribed in &#xA7; 15-803 of this subtitle.</section>
     </section>

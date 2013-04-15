@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-242" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-9-242</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>242</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, in this section, "high performance building" means a building that:<section prefix="(i)">achieves at least a silver rating according to the U.S. Green Building Council's LEED (Leadership in Energy and Environmental Design) green building rating system as adopted by the Maryland Green Building Council;</section><section prefix="(ii)">is a residential building that achieves at least a silver rating according to the International Code Council's 700 National Green Building Standards;</section><section prefix="(iii)">achieves at least a comparable rating according to any other appropriate rating system; or</section><section prefix="(iv)">meets comparable green building guidelines or standards approved by the State.</section></section>

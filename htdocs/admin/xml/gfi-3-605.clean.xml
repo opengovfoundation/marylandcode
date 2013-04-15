@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-605" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a leasehold interest in real property.</section>
     <section prefix="(b)">Subject to the rules and regulations of the Commissioner, a commercial bank may become the owner and lessor of personal property if:<section prefix="(1)">The personal property is acquired on the specific request of and for the use of a customer; and</section><section prefix="(2)">The investment of the commercial bank in personal property does not exceed:<section prefix="(i)">For any one customer, 10 percent of the unimpaired capital and surplus of the commercial bank; and</section><section prefix="(ii)">For all of its customers, the total of its unimpaired capital and surplus.</section></section></section>

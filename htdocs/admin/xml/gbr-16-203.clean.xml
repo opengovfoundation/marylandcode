@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-203" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">An applicant for a license to act as a manufacturer shall maintain an established place of business for the manufacture and storage of cigarettes.</section>
     <section prefix="(b)">An applicant for a license to act as a storage warehouse shall maintain an established place of business for the storage of unstamped cigarettes.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-109" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-4-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">Subject to approval by the State Superintendent and in accordance with the applicable bylaws, rules, and regulations of the State Board, a county board may establish a public school if, in its judgment, it is advisable.</section>
     <section prefix="(b)">On approval by the State Superintendent, any school established under this section becomes a part of the State program of public education.</section>

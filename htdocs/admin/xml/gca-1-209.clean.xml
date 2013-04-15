@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-209" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
-    <section prefix="(a)">In this section, "family farm" means an entity that:<section prefix="(1)">Is a domestic entity;</section><section prefix="(2)"><section prefix="(i)"/><section prefix="(ii)">Owns only personal property that is used for agricultural or agricultural marketing purposes;</section></section><section prefix="(3)">Is controlled, managed, and operated by:<section prefix="(i)">One individual who has an equity interest in the entity; or</section><section prefix="(ii)">Two or more individuals who have an equity interest in the entity and who share its assets and earnings;</section></section><section prefix="(4)">Is declared in a charter provision to be a family farm; and</section><section prefix="(5)">Has no assets other than those described in item (2) of this subsection.</section></section>
+    <section prefix="(a)">In this section, "family farm" means an entity that:<section prefix="(1)">Is a domestic entity;</section><section prefix="(2)"><section prefix="(i)"><section prefix="1.">Owns, or within 1 year after filing articles of incorporation, articles of organization, or a certificate of partnership, will own or take control of property that qualifies for agricultural use assessment under &#xA7; 8-209 of the Tax - Property Article; and</section><section prefix="2.">Owns only agriculturally or residentially assessed real property and personal property that is used for agricultural purposes; or</section></section><section prefix="(ii)">Owns only personal property that is used for agricultural or agricultural marketing purposes;</section></section><section prefix="(3)">Is controlled, managed, and operated by:<section prefix="(i)">One individual who has an equity interest in the entity; or</section><section prefix="(ii)">Two or more individuals who have an equity interest in the entity and who share its assets and earnings;</section></section><section prefix="(4)">Is declared in a charter provision to be a family farm; and</section><section prefix="(5)">Has no assets other than those described in item (2) of this subsection.</section></section>
     <section prefix="(b)">Within 1 year after selling all of the property described in subsection (a)(2) of this section, an individual shall file a charter amendment stating that the entity is no longer a family farm.</section>
   </text>
 </law>

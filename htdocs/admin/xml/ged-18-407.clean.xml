@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-407" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">Each Senator shall award all of his senatorial scholarships on or before September 1 of each year.</section>
     <section prefix="(b)">If any Senator fails to award all of his scholarships on or before September 1 of each year, the Commission shall make the remaining awards to applicants from the Senator's legislative district who:<section prefix="(1)">Scored highest on the competitive examination; or</section><section prefix="(2)">Are attending an eligible institution and have completed at least 1 year in good academic standing.</section></section>

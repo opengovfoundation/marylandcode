@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-402" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-9-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Unless authorized to practice as a nursing home administrator under this title, a person may not represent to the public by title, by description of services, methods, or procedures, or otherwise, that the person is authorized to practice as a nursing home administrator in this State.</section>
     <section prefix="(b)">Unless authorized to practice under this title, a person may not use the title "nursing home administrator", or the abbreviation "N.H.A." or any other designation, title, or abbreviation with the intent to represent that the person is authorized to practice as a nursing home administrator.</section>

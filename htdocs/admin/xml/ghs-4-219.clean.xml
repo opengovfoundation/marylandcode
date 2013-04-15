@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-219" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">A project or undertaking qualifies as a home improvement project if, by improvement, alteration, addition, or repair, it substantially protects or improves the basic liveability of a residential building that will be occupied in substantial part by families of limited income.</section>
     <section prefix="(b)">A home improvement project for a residential building that contains more than four dwelling units is subject to the provisions of this subtitle that apply to a community development project.</section>

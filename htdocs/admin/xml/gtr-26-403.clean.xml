@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-403" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-26-403</section_number>
-  <catch_line/>
+  <catch_line>A District Court commissioner may not set bail in an amount greater than the maximum allowed as a fi...</catch_line>
+  <order_by>403</order_by>
   <text>A District Court commissioner may not set bail in an amount greater than the maximum allowed as a fine for the alleged offense.</text>
 </law>

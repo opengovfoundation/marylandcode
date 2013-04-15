@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-402.1" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-402.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
-        <section prefix="(i)">Where an unexpired lease for a stated term provides that the landlord may repossess the premises prior to the expiration of the stated term if the tenant breaches the lease, the landlord may make complaint in writing to the District Court of the county where the premises is located if:</section>
+        <section prefix="(i)">Where an unexpired lease for a stated term provides that the landlord may repossess the premises prior to the expiration of the stated term if the tenant breaches the lease, the landlord may make complaint in writing to the District Court of the county where the premises is located if:<section prefix="1.">The tenant breaches the lease;</section><section prefix="2."/><section prefix="3.">The tenant or person in actual possession of the premises refuses to comply.</section></section>
         <section prefix="(ii)">The court shall summons immediately the tenant or person in possession to appear before the court on a day stated in the summons to show cause, if any, why restitution of the possession of the leased premises should not be made to the landlord.</section>
       </section>
       <section prefix="(2)">

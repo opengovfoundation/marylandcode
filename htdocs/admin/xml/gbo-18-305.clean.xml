@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-305" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-18-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">The Secretary shall issue a license to each applicant who meets the requirements of this title.</section>
     <section prefix="(b)">The Secretary shall include on each license that the Secretary issues:<section prefix="(1)">the full name of the licensee;</section><section prefix="(2)">the current address of the licensee;</section><section prefix="(3)">the date of issuance of the license; and</section><section prefix="(4)">the date on which the license expires.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-202" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-20-202</section_number>
-  <catch_line/>
+  <catch_line>An actuarial equivalent shall be an equivalent amount based on actuarial assumptions adopted by the ...</catch_line>
+  <order_by>202</order_by>
   <text>An actuarial equivalent shall be an equivalent amount based on actuarial assumptions adopted by the Board of Trustees.</text>
 </law>

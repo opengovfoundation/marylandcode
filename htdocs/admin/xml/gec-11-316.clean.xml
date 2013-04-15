@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-316" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-11-316</section_number>
-  <catch_line/>
+  <catch_line>The authority may:...</catch_line>
+  <order_by>316</order_by>
   <text>The authority may:<section prefix=""><section prefix="(1)">acquire, improve, develop, manage, market, lease as lessor or lessee, operate, and maintain a project; and</section><section prefix="(2)">acquire, either directly or by or through an agreement with the United States Department of Defense or a military service, by purchase or otherwise, any property, rights, rights-of-way, franchises, easements, and other interests in land, including land lying under water and riparian rights located in or outside the State as necessary or convenient to improve or operate a project on terms and at prices that the authority considers to be reasonable.</section></section></text>
 </law>

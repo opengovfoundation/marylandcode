@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-312" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-312</section_number>
-  <catch_line/>
+  <catch_line>Each producer, refiner, or wholesaler of motor fuel who supplies motor fuel to retail service statio...</catch_line>
+  <order_by>312</order_by>
   <text>Each producer, refiner, or wholesaler of motor fuel who supplies motor fuel to retail service station dealers:<section prefix=""><section prefix="(1)">shall apply all equipment rentals uniformly to all retail service station dealers supplied; and</section><section prefix="(2)">during periods of shortage:<section prefix="(i)">shall apportion uniformly and equitably all gasoline and special fuel to all retail service station dealers supplied; and</section><section prefix="(ii)">may not discriminate among retail service station dealers supplied in their allotments.</section></section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-505" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">Any person who may be affected adversely by a rule or regulation adopted by the Secretary under this subtitle may take an appeal in the manner provided for judicial review of final decisions in contested cases in the Administrative Procedure Act.</section>
     <section prefix="(b)">A person who seeks judicial review under this section shall file a petition with the court within 60 days after publication of the rule or regulation.</section>

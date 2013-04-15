@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8A-1702" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8A-1702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1702</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A resident under any lease or someone holding under him, who shall unlawfully hold over beyond the termination of the rental agreement, shall be liable to the park owner for the actual damages caused by the holding over.</section>

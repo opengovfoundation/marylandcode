@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-704" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-704</section_number>
-  <catch_line/>
+  <catch_line>Each banking institution shall be closed on Sunday....</catch_line>
+  <order_by>704</order_by>
   <text>Each banking institution shall be closed on Sunday.</text>
 </law>

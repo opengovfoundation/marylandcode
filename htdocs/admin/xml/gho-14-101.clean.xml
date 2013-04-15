@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-101" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Board" means the State Board of Physicians.</section>
@@ -25,7 +25,7 @@
     <section prefix="(m)">"Physician Rehabilitation Program" means the program of the Board or the nonprofit entity with which the Board contracts under &#xA7; 14-401(g) of this title that evaluates and provides assistance to impaired physicians and other health professionals regulated by the Board who are directed by the Board to receive treatment and rehabilitation for alcoholism, chemical dependency, or other physical, emotional, or mental conditions.</section>
     <section prefix="(n)">
       <section prefix="(1)">"Practice medicine" means to engage, with or without compensation, in medical:<section prefix="(i)">Diagnosis;</section><section prefix="(ii)">Healing;</section><section prefix="(iii)">Treatment; or</section><section prefix="(iv)">Surgery.</section></section>
-      <section prefix="(2)">"Practice medicine" includes doing, undertaking, professing to do, and attempting any of the following:<section prefix="(i)">Diagnosing, healing, treating, preventing, prescribing for, or removing any physical, mental, or emotional ailment or supposed ailment of an individual:</section><section prefix="(ii)">Ending of a human pregnancy; and</section><section prefix="(iii)">Performing acupuncture as provided under &#xA7; 14-504 of this title.</section></section>
+      <section prefix="(2)">"Practice medicine" includes doing, undertaking, professing to do, and attempting any of the following:<section prefix="(i)">Diagnosing, healing, treating, preventing, prescribing for, or removing any physical, mental, or emotional ailment or supposed ailment of an individual:<section prefix="1.">By physical, mental, emotional, or other process that is exercised or invoked by the practitioner, the patient, or both; or</section><section prefix="2.">By appliance, test, drug, operation, or treatment;</section></section><section prefix="(ii)">Ending of a human pregnancy; and</section><section prefix="(iii)">Performing acupuncture as provided under &#xA7; 14-504 of this title.</section></section>
       <section prefix="(3)">"Practice medicine" does not include:<section prefix="(i)">Selling any nonprescription drug or medicine;</section><section prefix="(ii)">Practicing as an optician; or</section><section prefix="(iii)">Performing a massage or other manipulation by hand, but by no other means.</section></section>
     </section>
     <section prefix="(o)">"Related institution" has the meaning stated in &#xA7; 19-301 of the Health - General Article.</section>

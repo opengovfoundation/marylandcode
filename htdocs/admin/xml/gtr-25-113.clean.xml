@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-113" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-25-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">"Law enforcement officer" means any person who, in an official capacity, is authorized by law to make arrests and who is an employee of a law enforcement agency.</section>
       <section prefix="(4)">
         <section prefix="(i)">"Traffic stop" means any instance when a law enforcement officer stops the driver of a motor vehicle and detains the driver for any period of time for a violation of the Maryland Vehicle Law.</section>
-        <section prefix="(ii)">"Traffic stop" does not include:</section>
+        <section prefix="(ii)">"Traffic stop" does not include:<section prefix="1.">A checkpoint or roadblock stop;</section><section prefix="2.">A stop of multiple vehicles due to a traffic accident or emergency situation requiring the stopping of vehicles for public safety purposes;</section><section prefix="3.">A stop based on the use of radar, laser, or vascar technology; or</section><section prefix="4.">A stop based on the use of license plate reader technology.</section></section>
       </section>
     </section>
     <section prefix="(b)">

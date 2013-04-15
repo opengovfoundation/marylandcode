@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-717" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-717</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>717</order_by>
   <text>
     <section prefix="(a)">If, without reasonable cause, a witness refuses to produce a document or to testify in accordance with an order of the Commission, the Commission may and, on request of a party to the proceeding, shall apply to a circuit court for an order to show cause.</section>
     <section prefix="(b)">On proof by affidavit that a witness has refused to produce a document or testify in accordance with an order of the Commission, the circuit court shall pass an order, returnable within 2 to 5 days, that directs the witness to show cause why the witness should not be imprisoned.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11A-114" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11A-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">A time-share purchaser shall have the right to cancel the sales contract until midnight of the tenth calendar day following whichever occurs latest:<section prefix="(1)">The contract date;</section><section prefix="(2)">The day on which the time-share purchaser received the last of all documents required to be provided as part of the public offering statement; or</section><section prefix="(3)">The time-share unit meets all building requirements and is ready for occupancy. However, if the developer obtains a payment and performance bond from a surety to insure completion of the project as represented in the public offering statement and contract of sale, and files the bond with the Commission, this item does not apply.</section></section>
     <section prefix="(b)">The right of cancellation cannot be waived by the purchaser or by any other person. No closing shall occur until the purchaser's cancellation period has expired. Any false representation made by or on behalf of a developer that a purchaser may not exercise the right of cancellation, or any attempt to obtain a waiver of the purchaser's cancellation rights, or a closing prior to the expiration of the cancellation period, shall be unlawful and such closing shall be voidable at the option of the purchaser for a period of 1 year after the expiration of the cancellation period. Nothing in this section shall preclude the execution of documents in advance of closing for delivery after expiration of the cancellation period.</section>

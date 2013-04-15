@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-420" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-420</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>420</order_by>
   <text>
     <section prefix="(a)">The law applicable to conversion of personal property applies to instruments. An instrument is also converted if it is taken by transfer, other than a negotiation, from a person not entitled to enforce the instrument or a bank makes or obtains payment with respect to the instrument for a person not entitled to enforce the instrument or receive payment. An action for conversion of an instrument may not be brought by (i) the issuer or acceptor of the instrument or (ii) a payee or indorsee who did not receive delivery of the instrument either directly or through delivery to an agent or a co-payee.</section>
     <section prefix="(b)">In an action under subsection (a), the measure of liability is presumed to be the amount payable on the instrument, but recovery may not exceed the amount of the plaintiff's interest in the instrument.</section>

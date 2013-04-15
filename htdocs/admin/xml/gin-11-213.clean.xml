@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-213" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">All homeowner's insurance rates shall be made in accordance with the principles set forth in this section.</section>
     <section prefix="(b)">
       <section prefix="(1)">An insurer under a homeowner's insurance policy may not classify or maintain an insured for a period longer than 3 years in a classification that entails a higher premium because of a specific claim.</section>
-      <section prefix="(2)">For the purpose of determining whether to classify an insured in a classification that entails a higher premium, an insurer may review only a period not greater than 3 years before:<section prefix="(i)">if the policy has not yet been issued:</section><section prefix="(ii)">on renewal of a policy, the effective date of the renewal.</section></section>
+      <section prefix="(2)">For the purpose of determining whether to classify an insured in a classification that entails a higher premium, an insurer may review only a period not greater than 3 years before:<section prefix="(i)">if the policy has not yet been issued:<section prefix="1.">the date of the application; or</section><section prefix="2.">the proposed effective date of the policy; or</section></section><section prefix="(ii)">on renewal of a policy, the effective date of the renewal.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The removal of, reduction of, or refusal to apply a discount is not a violation of this subsection if the claim resulting in the removal of, reduction of, or refusal to apply the discount was filed not more than 5 years before the removal, reduction, or refusal.</section>
         <section prefix="(ii)">Subparagraph (i) of this paragraph may not be construed to prevent an insurer from granting a claim-free discount to an insured.</section>

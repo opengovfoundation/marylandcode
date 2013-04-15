@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-304" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-11-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Between 2 a.m. and 6 a.m. on any day, a person may not consume any alcoholic beverages on any premises open to the general public, any place of public entertainment, or any place at which setups or other component parts of mixed alcoholic drinks are sold under any license issued under the provisions of the Business Regulation Article, and an owner, operator or manager of the premises or places may not knowingly permit such consumption.</section>
@@ -15,7 +15,7 @@
       <section prefix="(1)">This subsection applies only in Allegany County.</section>
       <section prefix="(2)">The prohibitions of this subsection apply after 1 a.m. on Sunday or between the hours of 1 a.m. and 7 a.m. on other days.</section>
       <section prefix="(3)">
-        <section prefix="(i)">A person may not consume any alcoholic beverages on any:</section>
+        <section prefix="(i)">A person may not consume any alcoholic beverages on any:<section prefix="1.">Premises open to the general public;</section><section prefix="2.">Place operated as a club;</section><section prefix="3.">Place of public entertainment; or</section><section prefix="4.">Place at which setups or other component parts of mixed alcoholic drinks are sold under any license issued under the provisions of this article.</section></section>
         <section prefix="(ii)">An owner, operator, or manager of the premises may not permit that consumption.</section>
       </section>
       <section prefix="(4)">
@@ -28,7 +28,10 @@
       <section prefix="(1)">
         <section prefix="(i)">This subsection applies only in Anne Arundel County.</section>
         <section prefix="(ii)">In this paragraph, "premises" means a restaurant, tavern, hotel, club, dance studio, disco, or place of public entertainment, or a place open to the general public or in a place in any way licensed by this State or the county.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">A person, corporation, club, or organization may not give or allow to be consumed on the premises or on premises under its possession or control any alcoholic beverages other than as specifically permitted or provided in this article.</section>
+          <section prefix="2.">This does not apply to the room of a registered guest in any hotel, motel, or hospice.</section>
+        </section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">A person may consume alcoholic beverages on the licensed premises of a video lottery facility only during the hours of operation established under &#xA7; 9-1A-23 of the State Government Article.</section>
@@ -39,7 +42,7 @@
     <section prefix="(d)">
       <section prefix="(1)">Except as provided in this subsection, this section does not apply to premises conducted on New Year's Day by on-sale licensees in Baltimore City.</section>
       <section prefix="(2)">In Baltimore City, a licensed premises shall cease all operations, including the serving of alcoholic beverages or food and providing entertainment, at the closing hour for that class of licensed premises specified in this article.</section>
-      <section prefix="(3)">Notwithstanding paragraph (2) of this subsection, the Board of Liquor License Commissioners may grant an exemption for remaining open after hours to:<section prefix="(i)">A holder of a Class B restaurant license, only for serving food to patrons seated for dining;</section><section prefix="(ii)">A pharmacy that fills prescriptions; or</section><section prefix="(iii)">A holder of a Class D beer, wine and liquor license that operates a restaurant, if:</section></section>
+      <section prefix="(3)">Notwithstanding paragraph (2) of this subsection, the Board of Liquor License Commissioners may grant an exemption for remaining open after hours to:<section prefix="(i)">A holder of a Class B restaurant license, only for serving food to patrons seated for dining;</section><section prefix="(ii)">A pharmacy that fills prescriptions; or</section><section prefix="(iii)">A holder of a Class D beer, wine and liquor license that operates a restaurant, if:<section prefix="1.">It is used only for serving food to patrons seated in a dining room that is not adjacent to a bar; and</section><section prefix="2.">The restaurant is located in the 46th Legislative District in the Legislative Districting Plan of 2002 as ordered by the Maryland Court of Appeals on June 21, 2002.</section></section></section>
       <section prefix="(4)">A pharmacy that receives an exemption under paragraph (3) of this subsection may also sell products other than alcohol after normal closing hours.</section>
       <section prefix="(5)">Notwithstanding the hour restrictions under paragraph (2) of this subsection, a hotel that holds a Class B license and that serves food to seated customers or to private functions or guest rooms may continue to provide food service.</section>
     </section>
@@ -76,8 +79,12 @@
     <section prefix="(n)">
       <section prefix="(1)">
         <section prefix="(i)">This subsection applies only in Harford County.</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)">A person may not knowingly allow the consumption, possession, or transfer of alcoholic beverages on its premises except in a manner specifically permitted or provided for by this article if:</section>
+        <section prefix="(ii)">
+          <section prefix="1.">In this subsection the following words have the meanings indicated.</section>
+          <section prefix="2.">"Premises" means a restaurant, tavern, hotel, club, dance studio, disco, or place of public entertainment.</section>
+          <section prefix="3.">"Person" means a person, club, organization, or place of public entertainment.</section>
+        </section>
+        <section prefix="(iii)">A person may not knowingly allow the consumption, possession, or transfer of alcoholic beverages on its premises except in a manner specifically permitted or provided for by this article if:<section prefix="1.">The person is in possession or control of the place or premises as owner, lessee, or user;</section><section prefix="2.">The place or premises is open to the general public or in any way licensed by this State or by the county; and</section><section prefix="3.">The place or premises is not the room of a registered guest in a hotel, motel, or hospice or the property of a volunteer fire company, bona fide catering establishment, community or civic association, swim club, or bona fide social, civic, nonprofit, charitable, fraternal, patriotic, educational, or public service organization, or bona fide religious institution which has been in existence for a minimum of 3 years.</section></section>
       </section>
       <section prefix="(2)">The Liquor Control Board may exempt from the provisions of this subsection places similar to those listed in sub-subparagraph 3 of subparagraph (iii) of paragraph (1) of this subsection on a case-by-case basis.</section>
       <section prefix="(3)">The Liquor Control Board shall adopt uniform rules for the administration of exceptions specified in paragraph (1) of this subsection.</section>
@@ -96,7 +103,7 @@
     <section prefix="(q)">
       <section prefix="(1)">This subsection applies only in Montgomery County.</section>
       <section prefix="(2)">
-        <section prefix="(i)">A person may not consume any alcoholic beverages between 1:30 a.m. and the next succeeding hour authorized by law for sales to begin on any premises open to the general public, or any place of public entertainment, which holds a:</section>
+        <section prefix="(i)">A person may not consume any alcoholic beverages between 1:30 a.m. and the next succeeding hour authorized by law for sales to begin on any premises open to the general public, or any place of public entertainment, which holds a:<section prefix="1.">Class B, Class C, Class D or Class H beer license;</section><section prefix="2.">Class B, Class C, Class D or Class H beer and light wine license; or</section><section prefix="3.">Class B beer, wine and liquor license.</section></section>
         <section prefix="(ii)">An owner, operator, or manager of the premises or place may not knowingly permit the consumption of alcoholic beverages between 1:30 a.m. and the next succeeding hour authorized by law for sales to begin under the respective licenses listed in subparagraph (i) of this paragraph.</section>
       </section>
       <section prefix="(3)">All containers of alcoholic beverages shall be removed from the table or tables prior to 1:30 a.m., except on Fridays and Saturdays when all containers of alcoholic beverages shall be removed prior to 2:30 a.m.</section>
@@ -119,8 +126,8 @@
       <section prefix="(1)">This subsection applies only in Worcester County.</section>
       <section prefix="(2)">Except as otherwise provided by this article and except as provided in paragraph (3) of this subsection, a person may not consume any alcoholic beverages at any time on any day of the week, including Saturday and Sunday, in any of the following premises:<section prefix="(i)">Restaurant;</section><section prefix="(ii)">Tavern;</section><section prefix="(iii)">Hotel;</section><section prefix="(iv)">Club;</section><section prefix="(v)">Dance studio;</section><section prefix="(vi)">Disco; and</section><section prefix="(vii)">Any other place of public entertainment.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">The following are exempt from paragraph (2) of this subsection:</section>
-        <section prefix="(ii)">The following are exempt from paragraph (2) of this subsection if they have been in existence for a minimum of 3 years:</section>
+        <section prefix="(i)">The following are exempt from paragraph (2) of this subsection:<section prefix="1.">The room of a registered guest in a hotel, motel, or hospice; or</section><section prefix="2.">The property of a volunteer fire company.</section></section>
+        <section prefix="(ii)">The following are exempt from paragraph (2) of this subsection if they have been in existence for a minimum of 3 years:<section prefix="1.">A bona fide catering establishment;</section><section prefix="2.">A community or civic association;</section><section prefix="3.">A swim club;</section><section prefix="4.">A bona fide social, civic, nonprofit, charitable, fraternal, patriotic, educational, or public service organization; or</section><section prefix="5.">A bona fide religious institution.</section></section>
         <section prefix="(iii)">A fishing club that was established prior to January 1, 1970 is exempt from paragraph (2) of this subsection.</section>
       </section>
       <section prefix="(4)">The Board of License Commissioners shall adopt uniform regulations for the administration of the provisions of this subsection.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-301" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-13-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, a person shall be licensed by the Secretary as a private detective agency before the person may:<section prefix="(1)">conduct a business that provides private detective services in the State; and</section><section prefix="(2)">solicit to engage in a business that provides private detective services in the State.</section></section>
     <section prefix="(b)">An individual or a firm may qualify for a license as a private detective agency.</section>

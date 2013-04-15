@@ -1,19 +1,22 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-124" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>124</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">In this section the following words have the meanings indicated.</section>
-        <section prefix="(ii)">"Flood insurance coverage" means flood insurance against losses caused by flooding that are covered under a policy issued by:</section>
+        <section prefix="(ii)">"Flood insurance coverage" means flood insurance against losses caused by flooding that are covered under a policy issued by:<section prefix="1.">The federal government; or</section><section prefix="2.">An insurer.</section></section>
         <section prefix="(iii)">"Improvements" means buildings or structures erected upon or affixed to real property that enhance the value of the real property.</section>
         <section prefix="(iv)">"Property insurance coverage" means property insurance against losses caused by perils that commonly are covered in insurance policies described with terms similar to "standard fire" or "standard fire with extended coverage".</section>
-        <section prefix="(v)"/>
+        <section prefix="(v)">
+          <section prefix="1.">"Replacement cost" means the amount needed to repair damage to or rebuild improvements on real property to restore the improvements to their pre-loss condition.</section>
+          <section prefix="2.">"Replacement cost" does not include the value of land.</section>
+        </section>
       </section>
       <section prefix="(2)">A lender may not require a borrower, as a condition to receiving or maintaining a loan secured by a first mortgage or first deed of trust, to provide or purchase property insurance coverage against risks to any improvements on any real property in an amount exceeding the replacement cost of the improvements on the real property.</section>
       <section prefix="(3)">A lender may not require a borrower, as a condition to receiving or maintaining a loan secured by a first mortgage or first deed of trust, to provide or purchase flood insurance coverage in an amount exceeding the replacement cost of the improvements on the real property.</section>

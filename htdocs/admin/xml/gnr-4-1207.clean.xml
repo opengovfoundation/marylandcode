@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1207" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-1207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1207</order_by>
   <text>
     <section prefix="(a)">In addition to any other penalty or fine provided in this title, any person who is convicted of violating any provision of this title or any regulation adopted under the authority of this title may have the license under which the person operated in the commission of violation suspended or revoked by the court.</section>
     <section prefix="(b)">

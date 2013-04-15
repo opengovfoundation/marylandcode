@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-213" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-6-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided by law, in accordance with regulations and policies adopted by the Treasurer and the Comptroller, each unit of the State government shall:<section prefix="(1)">pay into depositaries designated by the Treasurer for the account of the State Treasury all collections, fees, income, and other revenues that are received by the unit; and</section><section prefix="(2)">account to the Comptroller for those revenues.</section></section>
     <section prefix="(b)">The Comptroller shall credit the revenues that a unit pays into depositaries designated by the Treasurer for the account of the State Treasury:<section prefix="(1)">to the account that the law specifies; or</section><section prefix="(2)">if the law does not specify an account, to an account that the Comptroller designates for the use of the unit.</section></section>

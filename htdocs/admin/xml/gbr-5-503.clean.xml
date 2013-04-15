@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-503" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">Each burial lot and each crypt sold or conveyed in a cemetery shall be held by the owner only for the purpose of burial.</section>
     <section prefix="(b)">The interest of an owner of a burial lot or crypt that is held for the burial of the owner or others and not held as an investment is not:<section prefix="(1)">considered property;</section><section prefix="(2)">subject to attachment or execution for debt;</section><section prefix="(3)">subject to the insolvency laws of the State;</section><section prefix="(4)">to be inventoried in the estate of the owner; or</section><section prefix="(5)">subject to inheritance taxes.</section></section>

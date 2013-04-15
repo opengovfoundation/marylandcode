@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-2002" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-2002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2002</order_by>
   <text>
     <section prefix="(a)">In this section, "Office" means the Office of Health Care Quality in the Department of Health and Mental Hygiene.</section>
     <section prefix="(b)">The Office may inspect a nursing staff agency to verify compliance with this subtitle.</section>

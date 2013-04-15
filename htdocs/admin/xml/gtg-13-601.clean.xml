@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-601" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, if a person or governmental unit fails to pay a tax imposed under this article on or before the date on which the tax is due, the tax collector shall assess interest on the unpaid tax from the due date to the date on which the tax is paid.</section>
     <section prefix="(b)">Except as provided in subsections (c)(2) and (d) of this section, the date on which the tax is due is determined without regard to any extension of time to file a return.</section>

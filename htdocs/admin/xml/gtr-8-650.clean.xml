@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-650" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-650</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>650</order_by>
   <text>
     <section prefix="(a)">The Administration shall designate the portion of Maryland Route 24 located between the U.S. Route 1 Bypass and U.S. Route 40 as the Vietnam Veterans Memorial Highway.</section>
     <section prefix="(b)">The Administration shall designate the portion of Maryland Route 157 known as the Peninsula Expressway as the Vietnam Veterans Highway.</section>

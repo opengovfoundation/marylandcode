@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">The Commissioner may bring an action in a court of competent jurisdiction to enforce this article or an order issued by the Commissioner under this article.</section>
     <section prefix="(b)">The Commissioner shall be represented by the Attorney General, an assistant Attorney General, or another attorney at law designated by the Attorney General.</section>

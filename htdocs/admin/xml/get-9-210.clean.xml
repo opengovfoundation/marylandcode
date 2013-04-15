@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-210" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-9-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">A disclaimer is barred by a written waiver of the right to disclaim.</section>
     <section prefix="(b)">A disclaimer of an interest in property is barred if any of the following occurs before the disclaimer becomes effective:<section prefix="(1)">The disclaimant accepts the interest sought to be disclaimed;</section><section prefix="(2)">The disclaimant voluntarily assigns, conveys, encumbers, pledges, or transfers the interest sought to be disclaimed or contracts to do so; or</section><section prefix="(3)">A judicial sale of the interest sought to be disclaimed occurs.</section></section>

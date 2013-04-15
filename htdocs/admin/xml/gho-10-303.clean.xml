@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-303" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-10-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board shall waive the education and experience requirements of &#xA7; 10-302(d) of this subtitle for an applicant for an occupational therapist license:<section prefix="(i)">Who applied for a license before July 1, 1979;</section><section prefix="(ii)">Whose principal residence is in this State;</section><section prefix="(iii)">Who presents to the Board satisfactory evidence that the applicant practiced occupational therapy in this State for at least 2 years before July 1, 1979; and</section><section prefix="(iv)">Who has a baccalaureate degree in a health science from an accredited college or university.</section></section>

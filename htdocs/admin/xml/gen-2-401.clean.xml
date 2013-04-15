@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-401" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-401</section_number>
-  <catch_line/>
+  <catch_line>Except as provided in &#xA7; 2-402 of this subtitle, the Department may adopt regulations that require a...</catch_line>
+  <order_by>401</order_by>
   <text>Except as provided in &#xA7; 2-402 of this subtitle, the Department may adopt regulations that require a permit or registration before a person constructs, modifies, operates, or uses a source that may cause or control emissions into the air.</text>
 </law>

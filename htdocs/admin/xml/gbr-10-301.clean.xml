@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-301" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Below cost" means a price that is less than the total of:<section prefix="(1)">the most recently published average reseller rack cost of motor fuel by grade and quality, as calculated by the Oil Price Information Service (OPIS), for the particular terminal from which the motor fuel was delivered to the retail service station dealer, or the actual invoice cost from the supplier of the product, whichever is lower; and</section><section prefix="(2)">the freight charges and all applicable federal, State, and local taxes not included in the invoice cost.</section></section>
     <section prefix="(c)">
-      <section prefix="(1)">"Dealer" means a person who:<section prefix="(i)">imports any gasoline into the State;</section><section prefix="(ii)">blends, in the State, any gasoline on which the motor fuel tax has not been paid;</section><section prefix="(iii)">refines, in the State, any gasoline on which the motor fuel tax has not been paid; or</section><section prefix="(iv)">acquires, in the State, any gasoline on which the motor fuel tax has not been paid, for:</section></section>
+      <section prefix="(1)">"Dealer" means a person who:<section prefix="(i)">imports any gasoline into the State;</section><section prefix="(ii)">blends, in the State, any gasoline on which the motor fuel tax has not been paid;</section><section prefix="(iii)">refines, in the State, any gasoline on which the motor fuel tax has not been paid; or</section><section prefix="(iv)">acquires, in the State, any gasoline on which the motor fuel tax has not been paid, for:<section prefix="1.">export; or</section><section prefix="2.">wholesale distribution.</section></section></section>
       <section prefix="(2)">"Dealer" includes:<section prefix="(i)">the State when it engages in any activities listed in paragraph (1) of this subsection; and</section><section prefix="(ii)">a political subdivision of the State when it engages in any of the activities listed in paragraph (1) of this subsection.</section></section>
       <section prefix="(3)">"Dealer" does not include a person who brings gasoline into the State in the fuel supply tank of an aircraft, motor vehicle, or vessel.</section>
     </section>

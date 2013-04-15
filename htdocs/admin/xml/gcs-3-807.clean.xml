@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-807" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">The Division may establish an extended work-release program.</section>
     <section prefix="(b)">Under the extended work-release program, an inmate who is sentenced to the jurisdiction of the Division for desertion or nonsupport of a spouse, child, or destitute parent may be granted the privilege of leaving actual confinement:<section prefix="(1)">to work at gainful employment;</section><section prefix="(2)">to live in a noninstitutional environment; or</section><section prefix="(3)">under appropriate conditions, to live at home under intensive supervision by the Division of Parole and Probation.</section></section>

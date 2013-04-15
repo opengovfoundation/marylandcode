@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-401" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-6-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class D beer, wine and liquor license shall be issued by the license issuing authority of the county in which the place of business is located. It authorizes the holder to keep for sale and sell all alcoholic beverages at retail at the place described in it, for consumption on the premises or elsewhere. A license may not be issued for any drugstore.</section>
@@ -67,12 +67,18 @@
       <section prefix="(1)">This subsection applies only in Garrett County.</section>
       <section prefix="(2)">
         <section prefix="(i)">There are two types of Class D licenses, neither of which may be issued to any grocery store having a primary business of selling food at retail to the general public for off-premises consumption.</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">A Class D (on-sale) license for beer, wine and liquor sales shall be issued to establishments whose total beer, wine and liquor sales constitute at least 75 percent on-premises consumption and up to 25 percent off-premises consumption.</section>
+          <section prefix="2."/>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">A Class D (off-sale) license for beer, wine and liquor sales shall be issued to establishments whose total beer, wine and liquor sales constitute at least 75 percent off-premises consumption and up to 25 percent on-premises consumption.</section>
+          <section prefix="2."/>
+        </section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">Until July 1, 1995, a holder of an existing Class D alcoholic beverages license prior to July 1, 1987 may apply for a license under paragraph (2) of this subsection using the procedure that the Board establishes.</section>
-        <section prefix="(ii)">If the applicant is granted a license under paragraph (2) of this subsection, the applicant may be exempt from paying the issuing fee as provided under &#xA7; 9-212(c) of this article. However, the applicant shall pay:</section>
+        <section prefix="(ii)">If the applicant is granted a license under paragraph (2) of this subsection, the applicant may be exempt from paying the issuing fee as provided under &#xA7; 9-212(c) of this article. However, the applicant shall pay:<section prefix="1.">The annual license fee for that license; or</section><section prefix="2."/></section>
       </section>
     </section>
     <section prefix="(n)">
@@ -86,7 +92,7 @@
     </section>
     <section prefix="(o)">
       <section prefix="(1)">This subsection applies only in Howard County.</section>
-      <section prefix="(2)">The Board may issue the following types of licenses:<section prefix="(i)"/><section prefix="(ii)"/><section prefix="(iii)"/><section prefix="(iv)"/></section>
+      <section prefix="(2)">The Board may issue the following types of licenses:<section prefix="(i)"><section prefix="1.">A 7-day (on-sale) Class D beer, wine and liquor license for on-premises consumption only;</section><section prefix="2.">The annual license fee is $1,000;</section></section><section prefix="(ii)"><section prefix="1.">A 6-day (on-sale) Class D beer, wine and liquor license for on-premises consumption only;</section><section prefix="2.">The annual license fee is $600;</section></section><section prefix="(iii)"><section prefix="1.">A 7-day (on- and off-sale) Class D beer, wine and liquor license for on- and off-premises consumption;</section><section prefix="2.">The annual license fee is $1,000; or</section></section><section prefix="(iv)"><section prefix="1.">A 6-day (on- and off-sale) Class D beer, wine and liquor license for on- and off-premises consumption;</section><section prefix="2.">The annual license fee is $800.</section></section></section>
     </section>
     <section prefix="(p)">
       <section prefix="(1)">This subsection applies only in Kent County.</section>
@@ -126,7 +132,7 @@
         <section prefix="(i)">There is a Class D beer, wine and liquor tavern license.</section>
         <section prefix="(ii)">The annual license fee is $2,200.</section>
         <section prefix="(iii)">Any license issued under this paragraph is for 7 days.</section>
-        <section prefix="(iv)">In order to qualify for a license under this paragraph, the premises that is the subject of the application shall:</section>
+        <section prefix="(iv)">In order to qualify for a license under this paragraph, the premises that is the subject of the application shall:<section prefix="1.">Have a minimum seating capacity of 140 persons, not including the bar area or dancing floor area; and</section><section prefix="2.">Meet the minimum requirements of the fire code applicable to the jurisdiction in which the premises is located.</section></section>
         <section prefix="(v)">Alcoholic beverages sold under this paragraph shall be consumed on the premises only.</section>
         <section prefix="(vi)">A person may not be on the premises if the person is under the legal drinking age for the consumption of alcohol in the State.</section>
         <section prefix="(vii)">All alcoholic beverages other than beer and light wine shall be purchased from the Liquor Control Board for Wicomico County and shall be charged not more than 15% above the wholesale cost to the dispensary.</section>
@@ -135,27 +141,37 @@
         <section prefix="(i)">There is a Class D beer, wine and liquor entertainment and amusement license.</section>
         <section prefix="(ii)">The annual license fee is $4,000.</section>
         <section prefix="(iii)">A license issued under this paragraph is a 7-day license for consumption on the premises only.</section>
-        <section prefix="(iv)">To qualify for a license, the premises that is the subject of the application shall be an entertainment amusement center that:</section>
-        <section prefix="(v)"/>
+        <section prefix="(iv)">To qualify for a license, the premises that is the subject of the application shall be an entertainment amusement center that:<section prefix="1.">Is a business establishment that accommodates the public;</section><section prefix="2.">Has a minimum seating capacity of 140 persons, not including the bar area or dancing floor area;</section><section prefix="3.">Meets the minimum requirements of the fire code applicable for the jurisdiction in which the premises is located;</section><section prefix="4.">Is fully equipped with a proper and adequate dining room with facilities for preparing and serving regular meals;</section><section prefix="5.">Excluding the kitchen, has more than 50% of its floor space dedicated to or occupied by equipment for foosball, billiards, darts, virtual reality simulation games, and other games that the Board approves that require the active physical participation of one or more players; and</section><section prefix="6.">Has an initial capital investment of at least $300,000, excluding the cost of the land and building.</section></section>
+        <section prefix="(v)">
+          <section prefix="1.">For purposes of subparagraph (iv)5 of this paragraph, games approved by the Board may not include keno, card games, pinball machines, and bar games.</section>
+          <section prefix="2.">Any floor space occupied by a jukebox or similar passive entertainment device may not be counted in calculating whether the floor space requirements under subparagraph (iv)5 of this paragraph have been met.</section>
+        </section>
         <section prefix="(vi)">Except for beer and light wine, the license holder shall purchase all of the alcoholic beverages that are sold for consumption on the premises from a county dispensary and may not be charged more than 15% above the wholesale cost to the dispensary.</section>
-        <section prefix="(vii)">An individual who is:</section>
+        <section prefix="(vii)">An individual who is:<section prefix="1.">Under the age of 21 years may not enter or remain on the licensed premises after 9 p.m.; and</section><section prefix="2.">Under the age of 17 years may not enter the licensed premises without a parent or guardian.</section></section>
         <section prefix="(viii)">The Board may adopt regulations to carry out this paragraph.</section>
       </section>
     </section>
     <section prefix="(y)">
       <section prefix="(1)">This subsection applies only in Worcester County.</section>
       <section prefix="(2)">
-        <section prefix="(i)">A Class D beer, wine and liquor license may be issued only within:</section>
+        <section prefix="(i)">A Class D beer, wine and liquor license may be issued only within:<section prefix="1.">The corporate limits of Ocean City;</section><section prefix="2.">The boundary lines of the 10th taxing district;</section><section prefix="3.">The area bounded by U.S. Route 50 to the south, Turville Creek and Herring Creek to the east, St. Martin River to the north, and Maryland Route 589 to the west;</section><section prefix="4.">The area bounded by Maryland Route 589 to the north and east, U.S. Route 50 to the south, and U.S. Route 113 to the west; and</section><section prefix="5.">From the intersection of Maryland Route 589 and U.S. Route 50, an area bounded by a line that extends 1,500 feet south of U.S. Route 50, east to the boundary of the 10th taxing district, north along the 10th taxing district boundary to U.S. Route 50, and west to the intersection of Maryland Route 589 and U.S. Route 50.</section></section>
         <section prefix="(ii)">The annual license fee for the six-day license set by the Worcester County Commissioners may not be less than $3,000.</section>
         <section prefix="(iii)">The annual license fee for the seven-day license set by the Worcester County Commissioners may not be less than $3,500.</section>
         <section prefix="(iv)">Seven-day license holders may sell beer, wine and liquor (on-sale) and beer and light wine (off-sale).</section>
         <section prefix="(v)">All license fees shall go to the general funds of the county. However, if the licensed premises are in a municipal corporation, 75 percent of the fees shall go to that municipal corporation.</section>
-        <section prefix="(vi)"/>
+        <section prefix="(vi)">
+          <section prefix="1.">Except as provided in subsubparagraph 2 of this subparagraph, all licensees shall purchase all wines and liquors, except light wine and beer, from the Worcester County Department of Liquor Control. They shall be charged not more than 85 percent of the retail price or any special sale price or discount price, whichever is lower, set by the Department for wines and liquors. All licensees may purchase beer and light wine from licensed wholesalers.</section>
+          <section prefix="2.">Beginning on May 1, 2016, a licensee may elect to purchase wine and liquor from a licensed wholesaler under &#xA7; 15-204(e) of this article.</section>
+        </section>
         <section prefix="(vii)">The hours for sale are as provided in &#xA7; 11-524 of this article.</section>
-        <section prefix="(viii)">With respect to the Ocean City Convention Hall, only the Convention Hall Commission and its successors may be issued an alcoholic beverages license. The Commission may permit its vendors to dispense alcoholic beverages pursuant to whatever license the Commission is granted. Further, the Commission may contract to receive some proportion of the revenue derived from the vendor's sale of alcoholic beverages. This license shall be subject to the following restrictions:</section>
+        <section prefix="(viii)">With respect to the Ocean City Convention Hall, only the Convention Hall Commission and its successors may be issued an alcoholic beverages license. The Commission may permit its vendors to dispense alcoholic beverages pursuant to whatever license the Commission is granted. Further, the Commission may contract to receive some proportion of the revenue derived from the vendor's sale of alcoholic beverages. This license shall be subject to the following restrictions:<section prefix="1.">This monopoly may not impinge upon the provisions of &#xA7; 7-101(u)(5) of this article;</section><section prefix="2.">Only on-sale transactions shall be permitted; and</section><section prefix="3.">Consumption of alcoholic beverages shall be restricted to the premises.</section></section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1."/>
+          <section prefix="2.">Prior to the issuance of any license under this paragraph, the Mayor shall designate an individual to complete training in an alcohol awareness program approved under &#xA7; 13-101 of this article.</section>
+          <section prefix="3.">The individual designated by the Mayor shall:</section>
+        </section>
         <section prefix="(ii)">The holder may contract with and permit a concessionaire to keep for sale and sell beer, wine, and liquor for on premises consumption only.</section>
         <section prefix="(iii)">The hours and days of sale under the license are the same as a Class D beer, wine and liquor on-sale license under &#xA7; 11-524 of this article or during lesser hours specified by the holder.</section>
         <section prefix="(iv)">A license shall be issued and renewed without charge or an annual fee and may not be transferred.</section>

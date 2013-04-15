@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-713" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-713</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>713</order_by>
   <text>
     <section prefix="(a)">If a child is removed from a household under this subtitle or by a juvenile court order, on return of the child to the household by the local department or by the action or order of any court, State's Attorney's office, or other law enforcement agency, the local department shall establish proper supervision and monitoring of the household on a regularly scheduled basis of at least once a month for at least 3 months.</section>
     <section prefix="(b)">The local department may extend the monitoring period.</section>

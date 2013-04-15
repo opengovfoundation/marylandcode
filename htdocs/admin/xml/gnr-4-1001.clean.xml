@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1001" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Buy boat" means any boat engaged or used in buying, selling, or transporting oysters caught by other boats.</section>
@@ -27,7 +27,7 @@
     <section prefix="(r)">"Shinnecock rake" means a hand tool used to catch hard-shell clams or oysters. It usually consists of a tooth bar with projecting long, outwardly, and upwardly curving teeth which are progressively smaller towards the ends, form a basket, and are set transversely at the end of a long, usually wooden handle.</section>
     <section prefix="(s)">"Soft-shell clams" means mollusks of the species Mya arenaria and of the species Genus Tagelus.</section>
     <section prefix="(t)">
-      <section prefix="(1)">"Tong" means any pincers, nippers, tongs, or similar device used in catching oysters and clams and consisting of 2 shafts or handles and a metal body composed of 2 opposable and complementary baskets that:<section prefix="(i)">Are opened, closed, and emptied entirely by hand; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">"Tong" means any pincers, nippers, tongs, or similar device used in catching oysters and clams and consisting of 2 shafts or handles and a metal body composed of 2 opposable and complementary baskets that:<section prefix="(i)">Are opened, closed, and emptied entirely by hand; and</section><section prefix="(ii)"><section prefix="1.">Are lifted by hand; or</section><section prefix="2.">May use power to assist lifting the tongs with a single lifting cable or rope attached at only a single point on 1 shaft of the tongs.</section></section></section>
       <section prefix="(2)">"Tong" includes:<section prefix="(i)">Shaft tongs; and</section><section prefix="(ii)">Hand tongs.</section></section>
       <section prefix="(3)">"Tong" does not include a patent tong.</section>
     </section>

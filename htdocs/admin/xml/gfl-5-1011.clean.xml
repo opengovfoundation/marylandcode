@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1011" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-1011</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1011</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Administration may be the complainant in any proceeding under this subtitle in which the Administration is providing child support services under federal law.</section>

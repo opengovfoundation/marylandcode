@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-311" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">To carry out this title, a member of the Commission, the Secretary of the Commission, a special examiner, or an inspector may issue a subpoena for the attendance of a witness to testify or the production of a pertinent document or record.</section>
     <section prefix="(b)">On request of a party to a proceeding before the Commission, the Commission shall issue a subpoena for a hearing before the Commission or for a deposition by the party.</section>

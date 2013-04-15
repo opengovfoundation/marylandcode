@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-207" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">There is a Board of Physicians Fund.</section>
     <section prefix="(b)">
@@ -16,7 +16,7 @@
     <section prefix="(c)">
       <section prefix="(1)">The Board shall pay all fees collected under the provisions of this title to the Comptroller of the State.</section>
       <section prefix="(2)">
-        <section prefix="(i)">If the Governor does not include in the State budget at least $750,000 for the operation of the Health Personnel Shortage Incentive Grant Program under &#xA7; 18-803 of the Education Article and the Maryland Loan Assistance Repayment Program for Physicians under Title 18, Subtitle 28 of the Education Article, as administered by the Maryland Higher Education Commission, the Comptroller shall distribute:</section>
+        <section prefix="(i)">If the Governor does not include in the State budget at least $750,000 for the operation of the Health Personnel Shortage Incentive Grant Program under &#xA7; 18-803 of the Education Article and the Maryland Loan Assistance Repayment Program for Physicians under Title 18, Subtitle 28 of the Education Article, as administered by the Maryland Higher Education Commission, the Comptroller shall distribute:<section prefix="1.">Except as provided in subparagraph (ii) of this paragraph, 12 percent of the fees received from the Board to the Office of Student Financial Assistance to be used as follows:</section><section prefix="2.">The balance of the fees to the Board of Physicians Fund.</section></section>
         <section prefix="(ii)">For fiscal 2008, if the Governor does not include in the State budget the funds specified under subparagraph (i) of this paragraph, the Comptroller shall distribute 14 percent of the fees received from the Board to the Office of Student Financial Assistance to be used as provided under subparagraph (i) of this paragraph.</section>
         <section prefix="(iii)">If the Governor includes in the State budget at least $750,000 for the operation of the Health Personnel Shortage Incentive Grant Program under &#xA7; 18-803 of the Education Article and the Maryland Loan Assistance Repayment Program for Physicians of the Education Article, as administered by the Maryland Higher Education Commission, the Comptroller shall distribute the fees to the Board of Physicians Fund.</section>
       </section>

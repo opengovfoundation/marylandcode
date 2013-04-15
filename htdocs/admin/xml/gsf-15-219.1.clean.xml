@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-219.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-15-219.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A unit may assert a contract claim against a contractor by sending written notice to the contractor and the procurement officer that states:<section prefix="(i)">the basis for the contract claim;</section><section prefix="(ii)">to the extent known, the amount, or the performance or other action, requested by the unit in the contract claim; and</section><section prefix="(iii)">the date by which the contractor is required to provide a written response to the contract claim.</section></section>

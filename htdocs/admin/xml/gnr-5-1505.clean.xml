@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1505" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-1505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1505</order_by>
   <text>
     <section prefix="(a)">Appropriations for the Heritage Conservation Fund may be provided from:<section prefix="(1)">Special bond authorization;</section><section prefix="(2)">General funds of the State; and</section><section prefix="(3)">Other sources.</section></section>
     <section prefix="(b)">Moneys in the Fund may be used for administrative costs calculated in accordance with &#xA7; 1-103(b)(2) of this article.</section>

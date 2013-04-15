@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-439" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-439</section_number>
-  <catch_line/>
+  <catch_line>A provider whose facility has been the subject of a conversion may not terminate or fail to renew a ...</catch_line>
+  <order_by>439</order_by>
   <text>A provider whose facility has been the subject of a conversion may not terminate or fail to renew a lease for an accommodation in order to enter into a continuing care agreement for that accommodation.</text>
 </law>

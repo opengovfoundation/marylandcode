@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-114" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-18-114</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise provided by law, the Commission may not approve or pay any compensation for service...</catch_line>
+  <order_by>114</order_by>
   <text>Unless otherwise provided by law, the Commission may not approve or pay any compensation for services unless the individual to whom the compensation is paid is an employee.  </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2002" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-2002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2002</order_by>
   <text>
     <section prefix="(a)">A person may not conduct research using a human subject unless the person conducts the research in accordance with the federal regulations on the protection of human subjects.</section>
     <section prefix="(b)">Notwithstanding any provision in the federal regulations on the protection of human subjects that limits the applicability of the federal regulations to certain research, subsection (a) of this section applies to all research using a human subject.</section>

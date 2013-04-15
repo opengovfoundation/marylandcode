@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-09" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-2A-09</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>09</order_by>
   <text>
     <section prefix="(a)">This section applies to an award under &#xA7; 3-2A-05 of this subtitle or a verdict under &#xA7; 3-2A-06 of this subtitle for a cause of action arising on or after January 1, 2005.</section>
     <section prefix="(b)">
@@ -21,7 +21,7 @@
     <section prefix="(c)">
       <section prefix="(1)">In a jury trial, the jury may not be informed of the limitation under subsection (b) of this section.</section>
       <section prefix="(2)">If the jury awards an amount for noneconomic damages that exceeds the limitation established under subsection (b) of this section, the court shall reduce the amount to conform to the limitation.</section>
-      <section prefix="(3)">In a wrongful death action in which there are two or more claimants or beneficiaries, if the jury awards an amount for noneconomic damages that exceeds the limitation under subsection (b) of this section or a reduction under paragraph (4) of this subsection, the court shall:<section prefix="(i)">If the amount of noneconomic damages for the primary claimants, as described under &#xA7; 3-904(d) of this title, equals or exceeds the limitation under subsection (b) of this section or a reduction under paragraph (4) of this subsection:</section><section prefix="(ii)">If the amount of noneconomic damages for the primary claimants does not exceed the limitation under subsection (b) of this section or a reduction under paragraph (4) of this subsection or if there is no award to a primary claimant:</section></section>
+      <section prefix="(3)">In a wrongful death action in which there are two or more claimants or beneficiaries, if the jury awards an amount for noneconomic damages that exceeds the limitation under subsection (b) of this section or a reduction under paragraph (4) of this subsection, the court shall:<section prefix="(i)">If the amount of noneconomic damages for the primary claimants, as described under &#xA7; 3-904(d) of this title, equals or exceeds the limitation under subsection (b) of this section or a reduction under paragraph (4) of this subsection:<section prefix="1.">Reduce each individual award of a primary claimant proportionately to the total award of all primary claimants so that the total award to all claimants or beneficiaries conforms to the limitation or reduction; and</section><section prefix="2.">Reduce each award, if any, to a secondary claimant as described under &#xA7; 3-904(e) of this title to zero dollars; or</section></section><section prefix="(ii)">If the amount of noneconomic damages for the primary claimants does not exceed the limitation under subsection (b) of this section or a reduction under paragraph (4) of this subsection or if there is no award to a primary claimant:<section prefix="1.">Enter an award to each primary claimant, if any, as directed by the verdict; and</section><section prefix="2.">Reduce each individual award of a secondary claimant proportionately to the total award of all of the secondary claimants so that the total award to all claimants or beneficiaries conforms to the limitation or reduction.</section></section></section>
       <section prefix="(4)">In a case in which there is a personal injury action and a wrongful death action, if the total amount awarded by the jury for noneconomic damages for both actions exceeds the limitation under subsection (b) of this section, the court shall reduce the award in each action proportionately so that the total award for noneconomic damages for both actions conforms to the limitation.</section>
     </section>
     <section prefix="(d)">

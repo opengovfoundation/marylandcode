@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-4-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7;&#xA7; 4-401 and 4-404 of this subtitle, the District Court does not have equity jurisdiction.</section>
     <section prefix="(b)">Except as provided in &#xA7; 4-401 of this subtitle, the District Court does not have jurisdiction to decide the ownership of real property or of an interest in real property.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-120" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">This section does not apply to mutualization under a court order in connection with the rehabilitation or reorganization of an insurer under Title 9, Subtitle 2 of this article.</section>
     <section prefix="(b)">A domestic stock insurer, other than a title insurer, may become a mutual insurer under a plan and procedure that is approved by the Commissioner after a hearing.</section>

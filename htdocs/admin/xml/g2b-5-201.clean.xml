@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-201" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-5-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class B beer and light wine license shall be issued by the license issuing authority of the county in which the place of business is located. The holder may keep for sale and sell beer and light wines at retail at any hotel or restaurant, at the place described in the license, for consumption on the premises or elsewhere.</section>
@@ -43,12 +43,12 @@
     <section prefix="(m)">
       <section prefix="(1)">This subsection applies only  in Garrett County.</section>
       <section prefix="(2)">In this subsection, "license" means a Class B beer and light wine license.</section>
-      <section prefix="(3)">The Board of License Commissioners may issue a Class B beer and light wine license for use in:<section prefix="(i)">A bona fide hotel, motel, or inn that:</section><section prefix="(ii)">A restaurant that:</section></section>
+      <section prefix="(3)">The Board of License Commissioners may issue a Class B beer and light wine license for use in:<section prefix="(i)">A bona fide hotel, motel, or inn that:<section prefix="1.">Is an establishment that accommodates the public;</section><section prefix="2.">Provides services ordinarily found in hotels, motels, or inns;</section><section prefix="3.">Is equipped with at least 10 bedrooms for public accommodation; and</section><section prefix="4.">Has a lobby with a registration and mail desk and seating facilities; or</section></section><section prefix="(ii)">A restaurant that:<section prefix="1.">Has a seating capacity at tables, not including seats at bars or counters, for at least 20 persons; and</section><section prefix="2.">Can prepare and serve full-course meals for at least 20 persons at one seating.</section></section></section>
       <section prefix="(4)">The Board of License Commissioners may issue a license without or with a catering option.</section>
       <section prefix="(5)">A holder of a license  without a catering option  may sell:<section prefix="(i)">All alcoholic beverages for consumption on the licensed premises; and</section><section prefix="(ii)">Brewed beverages for consumption off the licensed premises.</section></section>
       <section prefix="(6)">
         <section prefix="(i)">In addition to exercising the privileges stated in paragraph (5) of this subsection, a holder of a license with a catering option may keep for sale and sell beer and wine for consumption at events that the holder caters off the licensed premises.</section>
-        <section prefix="(ii)">To exercise the catering option, a holder of a license:</section>
+        <section prefix="(ii)">To exercise the catering option, a holder of a license:<section prefix="1.">Shall provide food if the holder provides alcoholic beverages at a catered event off the licensed premises; and</section><section prefix="2.">May exercise the catering option only during the hours and days that are allowed under the license.</section></section>
       </section>
       <section prefix="(7)">For a license without a catering option:<section prefix="(i)">The issuing fee is $350; and</section><section prefix="(ii)">The annual fee is $350.</section></section>
       <section prefix="(8)">For a license with a catering option:<section prefix="(i)">The issuing fee is $475; and</section><section prefix="(ii)">The annual fee is $475.</section></section>
@@ -57,13 +57,25 @@
     <section prefix="(n)">
       <section prefix="(1)">This subsection applies only in Harford County.</section>
       <section prefix="(2)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">The annual license fee for a Class B-1 6-day restaurant license is $350.</section>
+          <section prefix="2.">A Class B-1 6-day restaurant license is a 6-day, Monday through Saturday, license which may be issued by the Liquor Control Board to bona fide restaurants.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">The annual license fee for a Class B-1 7-day restaurant license is $500.</section>
+          <section prefix="2.">A Class B-1 7-day restaurant license is a 7-day license which may be issued by the Liquor Control Board to bona fide restaurants.</section>
+        </section>
         <section prefix="(iii)">The licensee shall comply with the food sale requirements of &#xA7; 1-102(a)(22) of this article only for the purpose of meeting the requirements of &#xA7; 6-201(n) of this article necessary to apply for a Class B restaurant license.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">The annual license fee for a Class B-2 6-day restaurant license is $500.</section>
+          <section prefix="2.">A Class B-2 6-day restaurant license is a 6-day, Monday through Saturday, license which may be issued by the Liquor Control Board to restaurants.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">The annual license fee for a Class B-2 7-day restaurant license is $700.</section>
+          <section prefix="2.">A Class B-2 7-day restaurant license is a 7-day license which may be issued by the Liquor Control Board to bona fide restaurants.</section>
+        </section>
         <section prefix="(iii)">These licenses may be issued to a licensee who has been operating that business establishment for one year prior to the application for the license and who, in the judgment of the Board, is equipped and stocked for the continued regular sale of food to customers and guests. The licensee does not have to comply with the food sale requirement set forth in &#xA7; 1-102(a)(22) of this article.</section>
       </section>
       <section prefix="(4)">
@@ -78,7 +90,7 @@
         <section prefix="(iv)">A cafe license is a 7-day license with an on-premises wine tasting privilege for every day of the year.</section>
         <section prefix="(v)">The Liquor Control Board may issue not more than five cafe licenses.</section>
         <section prefix="(vi)">The Liquor Control Board shall set a maximum  and a minimum seating capacity for each cafe license it issues.</section>
-        <section prefix="(vii)">A cafe license may be exercised at an establishment only if:</section>
+        <section prefix="(vii)">A cafe license may be exercised at an establishment only if:<section prefix="1.">The Liquor Control Board determines that the establishment has adequate tables, chairs, food, and facilities for preparing and serving meals;</section><section prefix="2.">The average gross monthly receipts from the sale of cooked or prepared food served at the establishment and other items approved by the Liquor Control Board exceed 50% of the average monthly receipts from the sale of beer and wine sold for on-premises consumption; and</section><section prefix="3.">Not more than 10% of the total square footage of the establishment is  dedicated to the public display of beer and wine  that is offered for sale.</section></section>
         <section prefix="(viii)">A cafe license may not be used for off-premises catering.</section>
       </section>
     </section>

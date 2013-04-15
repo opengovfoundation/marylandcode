@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c2" order_by="" level="1"/>
-    <unit label="chapter" identifier="6" order_by="" level="2"/>
+    <unit label="article" identifier="c2" order_by="" level="1">II - Executive Departments</unit>
   </structure>
   <section_number>c2-6</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>6</order_by>
   <text>
     <section prefix="(a)">If the Governor-elect is disqualified, resigns, or dies, the Lieutenant Governor-elect shall become Governor for the full term. If the Governor-elect fails to assume office for any other reason, the newly elected Lieutenant Governor shall become Lieutenant Governor and shall serve as acting Governor until the Governor-elect assumes office or until the office becomes vacant.</section>
     <section prefix="(b)">The Lieutenant Governor shall serve as acting Governor when notified in writing by the Governor that the Governor will be temporarily unable to perform the duties of his office. The Lieutenant Governor also shall serve as acting Governor when the Governor is disabled but is unable to communicate to the Lieutenant Governor the fact of his inability to perform the duties of his office. In either event the Lieutenant Governor shall serve as acting Governor until notified in writing by the Governor that he is able to resume the duties of his office or until the office becomes vacant.</section>

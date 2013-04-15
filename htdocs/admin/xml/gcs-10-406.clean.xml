@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-406" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-406</section_number>
-  <catch_line/>
+  <catch_line>The Department shall provide staff to a committee in accordance with the State budget....</catch_line>
+  <order_by>406</order_by>
   <text>The Department shall provide staff to a committee in accordance with the State budget.</text>
 </law>

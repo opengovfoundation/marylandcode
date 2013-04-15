@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-101" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-15-101</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "invoice" means an invoice that meets the requirements of &#xA7; 15-102 of this subtit...</catch_line>
+  <order_by>101</order_by>
   <text>In this subtitle, "invoice" means an invoice that meets the requirements of &#xA7; 15-102 of this subtitle.</text>
 </law>

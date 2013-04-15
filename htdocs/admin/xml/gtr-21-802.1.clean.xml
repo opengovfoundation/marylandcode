@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-802.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-802.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802.1</order_by>
   <text>
     <section prefix="(a)">In this section, "highway work zone" means a construction or maintenance area on or alongside a highway that is marked by appropriate warning signs or other traffic control devices designating that work is in progress.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-802" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Notwithstanding any other law, a law enforcement officer of the Maryland Transportation Authority Police, a municipal corporation, or a county may investigate and otherwise enforce this title and Title 12 of the Criminal Procedure Article throughout the State without any limitation as to jurisdiction and to the same extent as a law enforcement officer of the Department of State Police.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-206" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-206</section_number>
-  <catch_line/>
+  <catch_line>The Department may reduce the wildlife population in any county, election district, or other identif...</catch_line>
+  <order_by>206</order_by>
   <text>The Department may reduce the wildlife population in any county, election district, or other identifiable area of the State after a thorough investigation reveals that protected wildlife is seriously injurious to agricultural or other interests in the affected area. The method of reducing the wildlife population is at the Department's discretion, except that trapping is preferred whenever feasible. The Department shall dispose of wildlife taken pursuant to the provisions of this section as the Department deems advisable.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-101" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated unless otherwise apparent from context.</section>
     <section prefix="(b)">"Abandoned land" means land that has boundaries that are located within or contiguous to land owned and managed by the Department of Natural Resources:<section prefix="(1)">For which no property tax payment has been made within 20 years immediately preceding the date of an application for a certificate of reservation for public use by a unit of State government; and</section><section prefix="(2)">Which has not been actually possessed by a person, under claim of title or otherwise, for a continuous period of 20 years immediately preceding the date of an application for a certificate of reservation for public use by a unit of State government.</section></section>

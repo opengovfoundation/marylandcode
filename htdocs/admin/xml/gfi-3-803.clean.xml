@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-803" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">A commercial bank may dissolve voluntarily, if the stockholders of the commercial bank and the Commissioner approve the dissolution as provided in this section.</section>
     <section prefix="(b)">A proposed voluntary dissolution shall be approved by the affirmative vote of the stockholders of the commercial bank who own two thirds of its capital stock.</section>

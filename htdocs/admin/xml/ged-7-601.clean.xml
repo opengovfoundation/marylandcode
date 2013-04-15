@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-601" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">The State Board shall adopt and publish standards for the administration of the subsidized and free feeding program.</section>
     <section prefix="(b)">The standards shall:<section prefix="(1)">Provide for eligibility requirements for the program; and</section><section prefix="(2)">Require each county board to provide a reduced price lunch program.</section></section>

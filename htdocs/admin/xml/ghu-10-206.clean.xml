@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-206" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">With the advice and recommendation of the Commission on Aging, the Secretary shall report to the Governor and, subject to &#xA7; 2-1246 of the State Government Article, to the General Assembly on or before January 1 of each year.</section>
     <section prefix="(b)">The report shall include:<section prefix="(1)">a description of the senior citizen activities centers in each county;</section><section prefix="(2)">the allocation and use of funds made available for senior citizen activities centers;</section><section prefix="(3)">the results of any studies; and</section><section prefix="(4)">any recommendations for legislation.</section></section>

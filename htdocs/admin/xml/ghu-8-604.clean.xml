@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-604" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-8-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">A local management board shall apply to the Office for funding for an at-risk youth prevention and diversion program.</section>
     <section prefix="(b)">The application shall demonstrate that the local management board has convened a local planning group consisting of parents, youth, and representatives of public and private agencies that have knowledge of and experience working with at-risk youth and families.</section>

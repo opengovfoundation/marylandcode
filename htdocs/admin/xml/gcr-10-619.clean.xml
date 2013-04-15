@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-619" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-619</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>619</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"Dangerous dog" means a dog that:<section prefix="(i)">without provocation has killed or inflicted severe injury on a person; or</section><section prefix="(ii)">is determined by the appropriate unit of a county or municipal corporation under subsection (c) of this section to be a potentially dangerous dog and, after the determination is made:</section></section>
+      <section prefix="(2)">"Dangerous dog" means a dog that:<section prefix="(i)">without provocation has killed or inflicted severe injury on a person; or</section><section prefix="(ii)">is determined by the appropriate unit of a county or municipal corporation under subsection (c) of this section to be a potentially dangerous dog and, after the determination is made:<section prefix="1.">bites a person;</section><section prefix="2.">when not on its owner's real property, kills or inflicts severe injury on a domestic animal; or</section><section prefix="3.">attacks without provocation.</section></section></section>
       <section prefix="(3)">
         <section prefix="(i)">"Owner's real property" means real property owned or leased by the owner of a dog.</section>
         <section prefix="(ii)">"Owner's real property" does not include a public right-of-way or a common area of a condominium, apartment complex, or townhouse development.</section>

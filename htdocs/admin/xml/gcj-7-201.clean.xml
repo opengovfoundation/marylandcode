@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-7-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Except for an appeal from the State Workers' Compensation Commission or an appeal, by an individual claiming benefits, from a decision of the Board of Appeals of the Department of Labor, Licensing, and Regulation, no case may be docketed and no writ of attachment, fieri facias, or execution on judgment may be issued unless the plaintiff or appellant pays the required fee.</section>
     <section prefix="(b)">The circuit court shall pass an order waiving the payment in advance if:<section prefix="(1)">Upon petition for waiver, it is satisfied that the petitioner is unable by reason of his poverty to make the payment; and</section><section prefix="(2)">The petitioner's attorney, if any, certifies that the suit, appeal, or writ is meritorious.</section></section>

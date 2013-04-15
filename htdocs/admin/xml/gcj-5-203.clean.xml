@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-203</section_number>
-  <catch_line/>
+  <catch_line>If the knowledge of a cause of action is kept from a party by the fraud of an adverse party, the cau...</catch_line>
+  <order_by>203</order_by>
   <text>If the knowledge of a cause of action is kept from a party by the fraud of an adverse party, the cause of action shall be deemed to accrue at the time when the party discovered, or by the exercise of ordinary diligence should have discovered the fraud.</text>
 </law>

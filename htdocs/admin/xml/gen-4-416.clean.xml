@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-416" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-416</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>416</order_by>
   <text>
     <section prefix="(a)">The Attorney General, on the request of the Department, shall prosecute criminal cases or bring an action for an injunction against any person violating the provisions of this title, or violating any valid order or permit issued by the Department. In any action for an injunction brought pursuant to this section, any finding of the Department after hearing shall be prima facie evidence of each fact found.</section>
     <section prefix="(b)">Upon a showing by the Attorney General, in behalf of the Department, that any person is violating or is about to violate the provisions of this subtitle or is violating or is about to violate any valid order or permit issued by the Department, an injunction shall be granted without the necessity of showing a lack of adequate remedy at law. In circumstances of emergency creating conditions of imminent danger to the public health, welfare or the environment, the Attorney General, on behalf of the Department, may institute a civil action for an immediate injunction to halt any pollution or other activity causing the danger.</section>

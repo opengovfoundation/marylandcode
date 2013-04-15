@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1006.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-1006.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -24,7 +24,7 @@
       <section prefix="(1)">To the extent possible, the Department shall adjust SAV protection zones so that delineations are geographically manageable, utilizing straight lines and existing points of reference.</section>
       <section prefix="(2)">
         <section prefix="(i)">To the extent possible, an adjustment made in accordance with paragraph (1) of this subsection shall result in no net loss or gain of protected area.</section>
-        <section prefix="(ii)">To the extent possible, to prevent the net loss or gain of protected area resulting from an adjustment made in accordance with paragraph (1) of this subsection, the adjustment may:</section>
+        <section prefix="(ii)">To the extent possible, to prevent the net loss or gain of protected area resulting from an adjustment made in accordance with paragraph (1) of this subsection, the adjustment may:<section prefix="1.">Exclude small areas of vegetated bottom; or</section><section prefix="2.">Include small areas of unvegetated bottom.</section></section>
       </section>
     </section>
     <section prefix="(e)">The Department:<section prefix="(1)">Shall utilize buoys or other visible landmarks as appropriate to mark SAV protection zones;</section><section prefix="(2)">May make revisions to the delineations of SAV protection zones at any time if determined to be necessary; and</section><section prefix="(3)">Shall publish, by public notice, delineations of SAV protection zones and revisions to SAV protection zones.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-2A-02" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-2A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">There is a Chesapeake and Atlantic Coastal Bays 2010 Trust Fund.</section>
     <section prefix="(b)">The purpose of the Fund is to provide financial assistance necessary to advance Maryland's progress in meeting the goals established in the Chesapeake 2000 Agreement for the restoration of the Chesapeake Bay and its tributaries, including the Patuxent River, and to restore the health of the Atlantic Coastal Bays and their tributaries, by focusing limited financial resources on nonpoint source pollution control projects in all regions of the State.</section>

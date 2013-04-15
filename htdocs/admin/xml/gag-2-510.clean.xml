@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-510" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-510</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>510</order_by>
   <text>
     <section prefix="(a)">An owner of agricultural land whose application to sell an easement has been approved by the county under this subtitle may sell an easement to the Foundation on the contiguous acreage of the agricultural land, subject to the requirements of this subtitle and regulations of the Foundation.</section>
     <section prefix="(b)">In order to be considered by the Foundation, an application to sell shall:<section prefix="(1)">Be received by the board at a time the board determines for the fiscal year in which the application is to be considered;</section><section prefix="(2)">Include an asking price at which the owner is willing to sell an easement; and</section><section prefix="(3)">Include a complete description of the land for the proposed easement.</section></section>
@@ -14,7 +14,7 @@
     <section prefix="(e)">If the application is submitted to the Foundation prior to county approval, then within 60 days of the notification of sufficiency of the application, the county governing body shall advise the Foundation as to the county's approval or disapproval of the application. The Foundation shall grant a 30-day extension of this approval period if the county governing body applies to the Foundation for an extension and states its reasons for seeking an extension.</section>
     <section prefix="(f)">
       <section prefix="(1)">In determining which applications it shall approve for the purchase of the easements offered for sale in each fiscal year under this section, the Foundation:<section prefix="(i)">May approve only those applications in which the subject land meets the criteria and standards established under &#xA7;&#xA7; 2-509 and 2-513 of this subtitle;</section><section prefix="(ii)">Except as provided in subparagraph (iii) of this paragraph, review the applications and submit offers to buy at the beginning of each offer cycle based on the approved priorities established by each eligible county for the preservation of agricultural land; and</section><section prefix="(iii)">For applications competing on a statewide basis following the initial round of offers, shall rank the applications and submit offers to buy in order of priority, as provided in paragraph (2) of this subsection.</section></section>
-      <section prefix="(2)">The Foundation shall adopt by regulation a standard priority ranking system for additional offers to buy by which it shall rank each application. The system shall be based on the following criteria as to the easements offered in any one county:<section prefix="(i)">The applications shall be assigned a rank in ascending order with respect to the proportion obtained by dividing the asking price by the State easement value. The resulting rank shall be the sole criterion for establishing the priority for discounted applications that include proportions of 1.0 or lower.</section><section prefix="(ii)">All additional applications which include proportions greater than 1.0 shall be assigned a numerical value that, in regard to the land for which the easement is offered, reflects:</section></section>
+      <section prefix="(2)">The Foundation shall adopt by regulation a standard priority ranking system for additional offers to buy by which it shall rank each application. The system shall be based on the following criteria as to the easements offered in any one county:<section prefix="(i)">The applications shall be assigned a rank in ascending order with respect to the proportion obtained by dividing the asking price by the State easement value. The resulting rank shall be the sole criterion for establishing the priority for discounted applications that include proportions of 1.0 or lower.</section><section prefix="(ii)">All additional applications which include proportions greater than 1.0 shall be assigned a numerical value that, in regard to the land for which the easement is offered, reflects:<section prefix="1.">The relative productive capacity of the land;</section><section prefix="2.">The extent to which the easement acquisition will contribute to the continued availability of agricultural suppliers and markets for agricultural goods; and</section><section prefix="3.">The priority recommendations of the local governing bodies.</section></section></section>
     </section>
     <section prefix="(g)">The Foundation may approve general allotted purchases of easements in a county not to exceed in aggregate value the amount allotted for that county under &#xA7; 2-508(b) of this subtitle for the fiscal year in which such purchases are made, plus any amount of transferred local open space funds designated by the local governing body for general purchases.</section>
     <section prefix="(h)">The Foundation may approve matching allotted purchases of easements in an eligible county such that the Foundation's share will not exceed in aggregate value the amount allotted for that county under &#xA7; 2-508(b) of this subtitle for that fiscal year.</section>
@@ -31,7 +31,7 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">The Foundation may pay the landowner according to a schedule, up to a maximum term of 15 years, established in an installment purchase agreement.</section>
-        <section prefix="(ii)">The installment purchase agreement shall:</section>
+        <section prefix="(ii)">The installment purchase agreement shall:<section prefix="1.">Require that the Foundation make annual equal payments to the landowner of interest on the outstanding balance of the purchase price;</section><section prefix="2.">Require that the Foundation pay the landowner the remainder of the purchase price at the end of the term;</section><section prefix="3.">State the total amount of money the Foundation will pay the landowner, the interest rate, and the terms of the agreement; and</section><section prefix="4.">Require that the easement be recorded within 30 days of settlement.</section></section>
       </section>
     </section>
     <section prefix="(l)">

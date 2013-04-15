@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-905.2" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-905.2</section_number>
-  <catch_line/>
+  <catch_line>A marketer may not sell or provide a thermostat containing mercury to a consumer....</catch_line>
+  <order_by>905.2</order_by>
   <text>A marketer may not sell or provide a thermostat containing mercury to a consumer.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-222" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-222</section_number>
-  <catch_line/>
+  <catch_line>The sales and use tax does not apply to a sale of deliverable end item testing equipment that is use...</catch_line>
+  <order_by>222</order_by>
   <text>The sales and use tax does not apply to a sale of deliverable end item testing equipment that is used to perform a contract for the United States Department of Defense and that, under the terms of the contract, is to be transferred to the federal government, if the contract is awarded as a result of a bid submitted after June 1, 1986.</text>
 </law>

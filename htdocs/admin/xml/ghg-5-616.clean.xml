@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-616" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-616</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>616</order_by>
   <text>
     <section prefix="(a)">The provisions of this subtitle are cumulative with existing law regarding an individual's right to consent or refuse to consent to medical treatment and do not impair any existing rights or responsibilities which a health care provider, a patient, including a minor or incompetent patient, or a patient's family may have in regard to the provision, withholding, or withdrawal of life-sustaining procedures under the common law or statutes of the State.</section>
     <section prefix="(b)">A valid living will or durable power of attorney for health care made prior to October 1, 1993 shall be given effect as provided in this article, even if not executed in accordance with the terms of this article.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-724" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-13-724</section_number>
-  <catch_line/>
+  <catch_line>The Council may review:...</catch_line>
+  <order_by>724</order_by>
   <text>The Council may review:<section prefix=""><section prefix="(1)">any application that a political subdivision in the region makes:<section prefix="(i)">to a unit of the State or federal government for a loan or grant for projects; or</section><section prefix="(ii)">through the State Clearinghouse for Intergovernmental Assistance in the Department of Planning; and</section></section><section prefix="(2)">a local plan, proposal for a project, or ordinance that may have an impact outside the boundary of the political subdivision or in the region.</section></section></text>
 </law>

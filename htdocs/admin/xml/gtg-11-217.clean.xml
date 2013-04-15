@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-217" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-217</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>217</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "research and development" means:<section prefix="(i)">basic and applied research in the sciences and engineering; and</section><section prefix="(ii)">the design, development, and governmentally required pre-market testing of prototypes, products, and processes.</section></section>

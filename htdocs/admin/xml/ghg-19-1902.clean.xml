@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-1902" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-1902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1902</order_by>
   <text>
     <section prefix="(a)">Before an eligible employee may begin work for an adult dependent care program, each adult dependent care program shall, for each eligible employee:<section prefix="(1)"><section prefix="(i)">Apply for a State criminal history records check; or</section><section prefix="(ii)">Request a private agency to conduct a background check; and</section></section><section prefix="(2)">Request a reference from the potential employee's most recent employer.</section></section>
     <section prefix="(b)">The reference request required under subsection (a)(2) of this section shall, at a minimum, seek information about any history of physical abuse on the part of the potential employee.</section>

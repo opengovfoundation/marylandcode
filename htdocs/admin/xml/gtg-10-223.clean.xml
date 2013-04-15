@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-223" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-223</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>223</order_by>
   <text>
     <section prefix="(a)">Beginning with individual tax returns for the 1986 tax year, and for all subsequent tax years, the Comptroller shall collect and compile information from income tax returns regarding the various elements of the State income tax and, for the State and for each county and the City of Baltimore, the impact of those various elements on various classes of Maryland taxpayers and on revenues.</section>
     <section prefix="(b)">The data base shall be comprehensive and shall include the following:<section prefix="(1)">component items of federal adjusted gross income, including loss items and preference income;</section><section prefix="(2)">components of itemized deductions;</section><section prefix="(3)">components of Maryland addition and subtraction modifications; and</section><section prefix="(4)">the number of taxpayers reporting each of the elements contained in items (1), (2), and (3) of this subsection.</section></section>

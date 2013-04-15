@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-120" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-6-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Alternative teacher preparation program" means a program established by a county board and approved by the State Superintendent that:<section prefix="(i)">Leads to a participant receiving a Resident Teacher Certificate issued by the Department; and</section><section prefix="(ii)">Includes teaching assignments with supervision and mentoring by a qualified teacher.</section></section>
       <section prefix="(3)">"Program" means the Maryland Alternative Teaching Opportunity Program.</section>
-      <section prefix="(4)">"Qualified candidate" means a teaching candidate who:<section prefix="(i)">Is enrolled in an alternative teacher preparation program;</section><section prefix="(ii)">Intends to teach in a public school in the State in the field of:</section><section prefix="(iii)">Has made a commitment to a local board to teach in a public school for at least 3 years; and</section><section prefix="(iv)">Participates in a preresidency internship program for a period of 4 to 8 weeks on or after January 1, 2007.</section></section>
+      <section prefix="(4)">"Qualified candidate" means a teaching candidate who:<section prefix="(i)">Is enrolled in an alternative teacher preparation program;</section><section prefix="(ii)">Intends to teach in a public school in the State in the field of:<section prefix="1.">Science;</section><section prefix="2.">Mathematics; or</section><section prefix="3.">Special education;</section></section><section prefix="(iii)">Has made a commitment to a local board to teach in a public school for at least 3 years; and</section><section prefix="(iv)">Participates in a preresidency internship program for a period of 4 to 8 weeks on or after January 1, 2007.</section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">There is a Maryland Alternative Teaching Opportunity Program in the Department.</section>

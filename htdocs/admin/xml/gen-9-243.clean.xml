@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-243" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-243</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>243</order_by>
   <text>
     <section prefix="(a)">To enforce this Part III of this subtitle and to insure compliance with each sewage sludge utilization permit, a representative of the Department, the local health official, or the local health official's designee may enter and inspect, at any reasonable time, any site where sewage sludge is utilized.</section>
     <section prefix="(b)">A sewage sludge utilizer may not:<section prefix="(1)">Refuse access to a sewage sludge utilization site to any representative of the Department, to a local health official, or to the local health official's designee, who requests access under this section; or</section><section prefix="(2)">Interfere with any inspection under this subtitle.</section></section>
@@ -15,7 +15,7 @@
       <section prefix="(2)">If a local health official recommends issuance of a stop work order and the Department does not concur, the Department shall inspect the sewage sludge utilization site within 24 hours after it receives the recommendation.</section>
       <section prefix="(3)">After inspecting the site and if necessary, the Department shall issue a stop work or other order to obtain compliance with State law, departmental regulations, or the sewage sludge utilization permit.</section>
       <section prefix="(4)">A county may seek injunctive relief or other appropriate remedies in circuit court if:<section prefix="(i)">A local health official is not satisfied that the enforcement measures of the Department are adequate to protect public health and safety in the county; or</section><section prefix="(ii)">The Department does not make the inspection required by paragraph (2) of this subsection.</section></section>
-      <section prefix="(5)">A local health official shall:<section prefix="(i)">Give the Department prompt notice of any inspection made by the local health official; and</section><section prefix="(ii)">Report promptly in writing to the Department:</section></section>
+      <section prefix="(5)">A local health official shall:<section prefix="(i)">Give the Department prompt notice of any inspection made by the local health official; and</section><section prefix="(ii)">Report promptly in writing to the Department:<section prefix="1.">The time and place of the inspection;</section><section prefix="2.">A summary and findings of the inspection;</section><section prefix="3.">Any enforcement action that the local health official takes or recommends; and</section><section prefix="4.">Any permit modifications or other modifications that the local health official recommends.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">The Department:<section prefix="(i)">May delegate to the local health official any inspection, monitoring, or enforcement authority of the Department under this Part III of this subtitle; and</section><section prefix="(ii)">Shall adopt regulations that establish standards for delegating authority under this subsection.</section></section>

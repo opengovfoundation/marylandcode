@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-414.1" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-414.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>414.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Agreement" means a written contract between the public employer and an employee organization.</section>
       <section prefix="(3)">"Arbitration" means a procedure whereby parties involved in a grievance dispute submit their differences to an impartial third party for a final and binding decision.</section>
       <section prefix="(4)">
-        <section prefix="(i)">"Collective bargaining" means:</section>
+        <section prefix="(i)">"Collective bargaining" means:<section prefix="1.">The performance by a certified employee organization, through its designated representative, and the public employer of their mutual obligations to meet at reasonable times and negotiate in good faith with respect to wages, hours, and other terms and conditions of employment; or</section><section prefix="2."/></section>
         <section prefix="(ii)">In collective bargaining, a party may not be compelled to agree to a proposal or be required to make a concession to the other party.</section>
       </section>
       <section prefix="(5)">"Commissioner" means the State Commissioner of Labor and Industry or the Commissioner's designee.</section>
@@ -26,14 +26,18 @@
       <section prefix="(13)">"Public employee" means an employee employed by the public employer, except:<section prefix="(i)">Employees involved directly in the determination of policy;</section><section prefix="(ii)">Supervisory or confidential employees;</section><section prefix="(iii)">Student assistants; and</section><section prefix="(iv)">Faculty.</section></section>
       <section prefix="(14)">"Public employer" means the Board of Community College Trustees for Prince George's County.</section>
       <section prefix="(15)">"Strike" means a public employee's refusal, in concerted action with others, to report for duty, or willful absence from the position, or stoppage of work, or abstinence in whole or in part from the proper performance of the duties of employment, for the purpose of inducing, influencing, or coercing a change in the wages, hours, or other terms and conditions of employment.</section>
-      <section prefix="(16)">"Supervisory employee" means a public employee who has the authority to act on behalf of the public employer to:<section prefix="(i)">Hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees;</section><section prefix="(ii)">Direct employees responsibly;</section><section prefix="(iii)">Adjust employee grievances; or</section><section prefix="(iv)">Recommend effectively one of the actions set forth in items (i) through (iii) of this paragraph, if:</section></section>
+      <section prefix="(16)">"Supervisory employee" means a public employee who has the authority to act on behalf of the public employer to:<section prefix="(i)">Hire, transfer, suspend, lay off, recall, promote, discharge, assign, reward, or discipline other employees;</section><section prefix="(ii)">Direct employees responsibly;</section><section prefix="(iii)">Adjust employee grievances; or</section><section prefix="(iv)">Recommend effectively one of the actions set forth in items (i) through (iii) of this paragraph, if:<section prefix="1.">The exercise of this authority is not merely of a routine or clerical nature; and</section><section prefix="2.">Requires the exercise of independent judgment.</section></section></section>
     </section>
     <section prefix="(b)">The public employer shall determine whether a public employee is to be considered a public employee for collective bargaining purposes. Either party or an employee organization may appeal the determination to the Commissioner for a final and binding decision.</section>
     <section prefix="(c)">
       <section prefix="(1)">After receiving a petition for an election for exclusive representative, the Commissioner shall:<section prefix="(i)">Investigate the petition for purposes of verification and validation;</section><section prefix="(ii)">Conduct a public hearing, receiving written and oral testimony; and</section><section prefix="(iii)">File an order defining the most appropriate bargaining unit.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)">In defining a bargaining unit, the Commissioner shall consider, in addition to other relevant factors:</section>
+        <section prefix="(i)">
+          <section prefix="1.">The Commissioner may not designate more than one bargaining unit.</section>
+          <section prefix="2.">The bargaining unit shall consist of all eligible classified employees of Prince George's Community College, including all skilled professional service and skilled and nonskilled service employees.</section>
+          <section prefix="3.">The bargaining unit shall not include faculty.</section>
+        </section>
+        <section prefix="(ii)">In defining a bargaining unit, the Commissioner shall consider, in addition to other relevant factors:<section prefix="1.">The efficiency of operations of the public employer;</section><section prefix="2.">The effect of over-fragmentation of bargaining units on the efficient administration of the public employer;</section><section prefix="3.">The community of interest of public employees; and</section><section prefix="4.">The administrative structure of the public employer.</section></section>
       </section>
     </section>
     <section prefix="(d)">
@@ -69,7 +73,10 @@
       <section prefix="(1)">If in the course of collective bargaining a party deems that an impasse exists, that party may request the services of the Commissioner in mediation or engage another mutually agreed upon mediator.</section>
       <section prefix="(2)">
         <section prefix="(i)">By mutual agreement, the parties may engage in fact-finding.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">If there is not mutual agreement, either party, after a reasonable period of mediation, may petition the Commissioner to initiate fact-finding.</section>
+          <section prefix="2."/>
+        </section>
         <section prefix="(iii)">The parties shall bear equally the costs of fact-finding.</section>
       </section>
     </section>
@@ -95,7 +102,7 @@
     <section prefix="(l)">
       <section prefix="(1)">Public employees have the right to:<section prefix="(i)">Organize;</section><section prefix="(ii)">Form, join, or assist any employee organization;</section><section prefix="(iii)">Bargain collectively through representatives they have chosen;</section><section prefix="(iv)">Engage in other lawful concerted activity for the purpose of collective bargaining; or</section><section prefix="(v)">Refrain from engaging in the activities listed under this paragraph.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">A public employee or group of public employees has the right, at any time, to:</section>
+        <section prefix="(i)">A public employee or group of public employees has the right, at any time, to:<section prefix="1.">Present a grievance arising under the terms of the agreement to the public employer; and</section><section prefix="2.">Have the grievance adjusted without the intervention of the exclusive representative.</section></section>
         <section prefix="(ii)">The exclusive representative has the right to be present during any meeting involving the presentation or adjustment of a grievance.</section>
         <section prefix="(iii)">The public employer has the duty to hear a grievance and participate in the adjustment of the grievance.</section>
         <section prefix="(iv)">The adjustment of a grievance may not be inconsistent with the terms of the collective bargaining agreement then in effect.</section>

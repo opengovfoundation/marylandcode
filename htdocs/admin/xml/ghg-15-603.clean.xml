@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-603" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the Program may accept for the purpose of dispensing only:<section prefix="(1)">Prescription drugs in their original unopened, sealed, and tamper-evident unit dose packaging; and</section><section prefix="(2)">Medical supplies in their original unopened and sealed packaging.</section></section>
     <section prefix="(b)">The Program may accept and dispense prescription drugs packaged in single unit doses when the outside packaging is opened if the single unit dose packaging is undisturbed.</section>

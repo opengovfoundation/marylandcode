@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-119" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-119</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>119</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person who violates &#xA7;&#xA7; 10-113 through 10-115 or &#xA7; 10-118 of this part shall be issued a citation under this section.</section>

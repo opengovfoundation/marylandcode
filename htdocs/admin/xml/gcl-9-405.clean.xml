@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-405" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">A modification of or substitution for an assigned contract is effective against an assignee if made in good faith. The assignee acquires corresponding rights under the modified or substituted contract. The assignment may provide that the modification or substitution is a breach of contract by the assignor. This subsection is subject to subsections (b) through (d).</section>
     <section prefix="(b)">Subsection (a) applies to the extent that:<section prefix="(1)">The right to payment or a part thereof under an assigned contract has not been fully earned by performance; or</section><section prefix="(2)">The right to payment or a part thereof has been fully earned by performance and the account debtor has not received notification of the assignment under &#xA7; 9-406(a).</section></section>

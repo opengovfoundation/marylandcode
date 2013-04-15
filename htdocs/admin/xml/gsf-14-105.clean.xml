@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-105" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-14-105</section_number>
-  <catch_line/>
+  <catch_line>Every 6 months, Blind Industries and Services of Maryland shall:...</catch_line>
+  <order_by>105</order_by>
   <text>Every 6 months, Blind Industries and Services of Maryland shall:<section prefix=""><section prefix="(1)">revise the list of supplies and services that it provides; and</section><section prefix="(2)">send the list to the Secretary of General Services and each person responsible for buying supplies or services for the State or a State aided or controlled entity.</section></section></text>
 </law>

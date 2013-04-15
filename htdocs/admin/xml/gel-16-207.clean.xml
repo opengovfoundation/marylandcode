@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-207" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-16-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">In this section, "alcoholic beverages" has the meaning provided in Article 2B, &#xA7; 1-102 of the Code.</section>
     <section prefix="(b)">A person may not bring, send, or attempt to bring or send any alcoholic beverages into a polling place during the hours that the polling place is open.</section>

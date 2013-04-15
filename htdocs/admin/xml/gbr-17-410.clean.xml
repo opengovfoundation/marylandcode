@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-410" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An applicant for a pinball machine license shall pay to the clerk a license fee of:<section prefix="(i)">$10 for each free-play pinball machine in Caroline County, Kent County, or Queen Anne's County; or</section><section prefix="(ii)">$20 for each free-play pinball machine in Baltimore City, Baltimore County, Dorchester County, Harford County, Montgomery County, or Talbot County.</section></section>

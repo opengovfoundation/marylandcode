@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-106" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The death, disability, or incompetence of a principal who has executed a power of attorney in writing does not revoke or terminate the agency as to the attorney in fact, agent, or other person who, without actual knowledge of the death, disability, or incompetence of the principal, acts in good faith under the power of attorney or agency.</section>

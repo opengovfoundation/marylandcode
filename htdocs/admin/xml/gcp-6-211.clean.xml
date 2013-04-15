@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-211" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-6-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, the Commission shall adopt as regulations sentencing guidelines and any changes to those sentencing guidelines, subject to Title 10, Subtitle 1 of the State Government Article.</section>
     <section prefix="(b)">Regulations adopted under subsection (a) of this section are voluntary sentencing guidelines that a court need not follow.</section>

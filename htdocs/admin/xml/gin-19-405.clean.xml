@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-405" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-405</section_number>
-  <catch_line/>
+  <catch_line>When a workers' compensation insurance policy is renewed, the insurer shall give the employer a cons...</catch_line>
+  <order_by>405</order_by>
   <text>When a workers' compensation insurance policy is renewed, the insurer shall give the employer a conspicuous written notice that:<section prefix=""><section prefix="(1)">the employer must have a work permit for each minor employee as required by Title 3, Subtitle 2 of the Labor and Employment Article; and</section><section prefix="(2)">if the employer does not have a work permit for a minor employee:<section prefix="(i)">the State Workers' Compensation Commission may award twice the compensation and death benefits otherwise allowed under Title 9, Subtitle 6 of the Labor and Employment Article in a claim by that employee or that employee's dependent; and</section><section prefix="(ii)">the employer is solely liable for any increase in compensation or death benefits in a claim by that employee or that employee's dependent.</section></section></section></text>
 </law>

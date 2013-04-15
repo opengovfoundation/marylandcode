@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-305" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">A reduction of the outstanding capital stock of a commercial bank:<section prefix="(1)">Is not valid unless approved by the Commissioner; and</section><section prefix="(2)">May not be made to an amount that is less than that required in &#xA7; 3-209(b) of this title.</section></section>
     <section prefix="(b)">The Commissioner shall base approval on a finding that the assets of the commercial bank remaining after the proposed reduction of its capital stock will be sufficient to pay all of the claims of existing creditors.</section>

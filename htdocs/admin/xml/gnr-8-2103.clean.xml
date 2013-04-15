@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-2103" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-2103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall study and analyze the effectiveness of the cost sharing program in the Department that assists landowners in paying for the cost of the management and control of the spread of phragmites.</section>

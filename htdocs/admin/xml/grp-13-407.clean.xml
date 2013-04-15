@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-407" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-407</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407</order_by>
   <text>
     <section prefix="(a)">If, under &#xA7; 13-405 of this subtitle, the proceeding is to be referred to the circuit court for declaratory relief, then, within 30 days of the order of the Commissioner under &#xA7; 13-405(c) of this subtitle, the applicant shall file a bill of complaint in equity in the circuit court for the county in which the largest portion of the land described in the warrant is located. The bill of complaint shall seek declaratory relief under Title 3, Subtitle 4 of the Courts Article, the Maryland Uniform Declaratory Judgments Act.</section>
     <section prefix="(b)">Immediately after suit is filed, the applicant also shall serve the Commissioner by mail with a copy of the complaint.</section>

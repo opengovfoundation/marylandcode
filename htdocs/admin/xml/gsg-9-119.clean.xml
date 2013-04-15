@@ -1,20 +1,26 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-119" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9-119</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>119</order_by>
   <text>
     <section prefix="(a)">Except for the commission of a licensed agent, all of the receipts from the sale of State lottery tickets or shares are due to the Agency:<section prefix="(1)">on the due date that the Agency sets; or</section><section prefix="(2)">at the times and within the intervals prescribed by Agency regulations.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">The Director shall require all licensed agents to deposit, with a bank that the licensed agent selects and to the credit of the State Lottery Fund, all of the receipts from the sale of State lottery tickets or shares less any commission and validation prize payout.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">A licensed agent may commingle proceeds from the sale of State lottery tickets or shares with business receipts of the licensed agent.</section>
+          <section prefix="2.">Proceeds, including cash proceeds of the sale of any lottery products less any commission and validation prize payout, shall be remitted and paid directly or through the Agency's authorized collection representative.</section>
+        </section>
         <section prefix="(iii)">Licensed agents and each person who is a guarantor or indemnitor of a licensed agent's financial obligations to the Agency shall be liable for all proceeds from the sale of lottery tickets or shares.</section>
         <section prefix="(iv)">The Director may adjust the time, interval, or method of collection for collections of proceeds of any licensed agent.</section>
-        <section prefix="(v)"/>
+        <section prefix="(v)">
+          <section prefix="1.">Nothing in this subsection may be construed to impose obligations or liability on any bank in which proceeds from the sale of State lottery tickets or shares are deposited.</section>
+          <section prefix="2.">This subparagraph does not affect the rights and obligations of any financial institution that has issued an irrevocable letter of credit or holds any cash security deposit as provided in &#xA7; 9-114 of this subtitle.</section>
+        </section>
       </section>
       <section prefix="(2)">The Director may require any or all licensed agents to submit to the Director or a designee of the Director a report that:<section prefix="(i)">is in the form that the Director requires; and</section><section prefix="(ii)">gives the information that the Director requires as to the transactions in and receipts from the sale of State lottery tickets or shares.</section></section>
     </section>

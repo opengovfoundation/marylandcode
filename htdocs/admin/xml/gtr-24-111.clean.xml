@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-111" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-24-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section and in &#xA7; 24-111.1 of this subtitle the following words have the meanings indicated.</section>
       <section prefix="(2)">"CVISN" means the Commercial Vehicle Information Systems and Network, a motor carrier program managed by the Department, together with other State agencies.</section>
       <section prefix="(3)">"CVISN transponder" means an electronic device acquired by motor carriers to allow electronic signaling through CVISN.</section>
-      <section prefix="(4)">"Police officer" means:<section prefix="(i)">Any uniformed police officer;</section><section prefix="(ii)">Any civilian employee of the Department of State Police or the Maryland Transportation Authority Police assigned to enforce this subtitle, but only while acting under written authorization of the Secretary of State Police; or</section><section prefix="(iii)">Any civilian employee of a local government who is:</section></section>
+      <section prefix="(4)">"Police officer" means:<section prefix="(i)">Any uniformed police officer;</section><section prefix="(ii)">Any civilian employee of the Department of State Police or the Maryland Transportation Authority Police assigned to enforce this subtitle, but only while acting under written authorization of the Secretary of State Police; or</section><section prefix="(iii)">Any civilian employee of a local government who is:<section prefix="1.">Acting under the immediate direction and control of a uniformed police officer;</section><section prefix="2.">Acting under written authorization of the Secretary of State Police; and</section><section prefix="3.">Certified by the Department of State Police to perform the weighing and measurement authorized under this section.</section></section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">The driver of a vehicle must stop and submit the vehicle to a measurement or weighing:<section prefix="(i)">When directed by a police officer who has reason to believe that the size or weight of a vehicle being driven on a highway violates this subtitle; or</section><section prefix="(ii)">When directed by an electronic signal to a CVISN transponder.</section></section>

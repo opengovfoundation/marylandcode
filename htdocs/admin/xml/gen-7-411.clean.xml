@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-411" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">The Service may apply to the Board for a certificate for one or more sites.</section>
     <section prefix="(b)">The Board may direct the Service to prepare and submit a proposal for acquisition or utilization or both of any inventoried site. The Board may further direct the Service to perform any act authorized by Subtitle 1 of Title 3 of the Natural Resources Article to implement the proposal if a certificate is issued.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-7-303</section_number>
-  <catch_line/>
+  <catch_line>If a new tenant moves into an assisted unit after a notice of intent is given, the owner shall give ...</catch_line>
+  <order_by>303</order_by>
   <text>If a new tenant moves into an assisted unit after a notice of intent is given, the owner shall give the new tenant written notice that:<section prefix=""><section prefix="(1)">sets forth any rent increase that the owner plans after the protected action; and</section><section prefix="(2)">states that the new tenant will not be entitled to tenant protection assistance.</section></section></text>
 </law>

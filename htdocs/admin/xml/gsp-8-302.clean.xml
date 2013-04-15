@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-302" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-8-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">This subtitle shall be interpreted and applied, to the extent applicable, in accordance with the federal Fair Labor Standards Act.</section>
     <section prefix="(b)">All employees subject to this subtitle are entitled to the greater of:<section prefix="(1)">the benefits that are provided in this subtitle; or</section><section prefix="(2)">to the extent applicable, the benefits required by the federal Fair Labor Standards Act.</section></section>

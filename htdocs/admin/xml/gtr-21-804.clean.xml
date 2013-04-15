@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-804" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">Unless reduced speed is necessary for the safe operation of the vehicle or otherwise is in compliance with law, a person may not willfully drive a motor vehicle at such a slow speed as to impede the normal and reasonable movement of traffic.</section>
     <section prefix="(b)">

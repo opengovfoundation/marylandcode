@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-213" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">A policy of life insurance other than a policy of group life insurance may not be delivered or issued for delivery in the State unless the policy has a legible and brief description of the policy on the first page of the policy.</section>
     <section prefix="(b)">The brief description shall include:<section prefix="(1)">the title or type or plan of policy, including the term "industrial" or "wholesale" if applicable;</section><section prefix="(2)">how long premiums are to be paid;</section><section prefix="(3)">if and when the premium may change, except for a change because of a supplementary agreement;</section><section prefix="(4)">if the benefit is not level, the use of the term "graded benefit" or a similar term to so indicate;</section><section prefix="(5)">whether the policy is participating or nonparticipating;</section><section prefix="(6)">if the policy is written on a rated underwriting basis, the terms "substandard class" or "rated class" or a substantially similar term; and</section><section prefix="(7)">if the policy provides for the return of premiums as an additional benefit, the period during which the benefit is applicable.</section></section>

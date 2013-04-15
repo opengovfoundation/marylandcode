@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-807" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">The commanding officer of a garrison, fort, post, camp or other place, brigade, regiment, detached battalion, or other detached command or a superior authority may appoint for that command a special court-martial.</section>
     <section prefix="(b)">Except for a commissioned officer, a special court-martial may try an individual subject to military law, for any crime or offense made punishable under the military laws of the United States.</section>

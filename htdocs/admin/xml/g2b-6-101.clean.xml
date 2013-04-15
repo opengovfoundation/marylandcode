@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-101" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-6-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class A beer, wine and liquor license shall be issued by the license issuing authority of the county in which the place of business is located. The license authorizes the holder to keep for sale and to sell all alcoholic beverages at retail, in any quantity, at the place described in the license. The licensee shall deliver the alcoholic beverages in a sealed package or container and the package or container may not be opened nor its contents consumed on the premises where sold.</section>

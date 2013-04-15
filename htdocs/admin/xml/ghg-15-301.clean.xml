@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Children's Health Program.</section>
     <section prefix="(b)">The Maryland Children's Health Program shall provide, subject to the limitations of the State budget and any other requirements imposed by the State and as permitted by federal law or waiver, comprehensive medical care and other health care services to an individual who has a family income at or below 300 percent of the federal poverty guidelines and who is under the age of 19 years.</section>

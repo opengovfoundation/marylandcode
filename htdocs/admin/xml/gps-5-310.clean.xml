@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-310" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">The Secretary may revoke a permit on a finding that the holder:<section prefix="(1)">does not meet the qualifications described in &#xA7; 5-306 of this subtitle; or</section><section prefix="(2)">violated &#xA7; 5-308 of this subtitle.</section></section>
     <section prefix="(b)">A holder of a permit that is revoked by the Secretary shall return the permit to the Secretary within 10 days after receipt of written notice of the revocation.</section>

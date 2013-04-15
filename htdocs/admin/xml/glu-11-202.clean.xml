@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-202" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-11-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">A legislative body of a county may provide a civil penalty for a zoning violation, which shall be enforced as provided in this subtitle.</section>
     <section prefix="(b)">The legislative body may:<section prefix="(1)">impose a fine not exceeding $500 for each violation;</section><section prefix="(2)">establish a schedule of additional fines for each violation; and</section><section prefix="(3)">adopt procedures for the collection of the fines.</section></section>

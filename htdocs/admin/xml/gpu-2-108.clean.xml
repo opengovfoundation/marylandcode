@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-108" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-2-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The principal office of the Commission shall be in Baltimore City at the place that the Commission selects.</section>
@@ -29,7 +29,7 @@
       <section prefix="(7)">Subject to &#xA7; 3-104 of this article, the Commission may delegate to a commissioner or personnel the authority to perform an administrative function necessary to carry out a duty of the Commission.</section>
       <section prefix="(8)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph or otherwise by law, all personnel of the Commission are subject to the provisions of the State Personnel and Pensions Article.</section>
-        <section prefix="(ii)">The following are in the executive service, management service, or are special appointments in the State Personnel Management System:</section>
+        <section prefix="(ii)">The following are in the executive service, management service, or are special appointments in the State Personnel Management System:<section prefix="1.">each commissioner of the Commission;</section><section prefix="2.">the Executive Director;</section><section prefix="3.">the General Counsel and each assistant general counsel;</section><section prefix="4.">the Executive Secretary;</section><section prefix="5.">the commissioners' personal staff members;</section><section prefix="6.">the chief hearing examiner; and</section><section prefix="7.">each license hearing officer.</section></section>
       </section>
     </section>
     <section prefix="(e)">The compensation of the following personnel shall be determined by the Commission and, if possible, in accordance with the State pay plan:<section prefix="(1)">the Executive Director;</section><section prefix="(2)">the General Counsel;</section><section prefix="(3)">the special appointment attorneys in the office of General Counsel;</section><section prefix="(4)">the Executive Secretary;</section><section prefix="(5)">the chief hearing examiner;</section><section prefix="(6)">each license hearing officer; and</section><section prefix="(7)">all Commission personnel in positions in:<section prefix="(i)">the management service; and</section><section prefix="(ii)">professional and technical classifications unique to the Commission.</section></section></section>

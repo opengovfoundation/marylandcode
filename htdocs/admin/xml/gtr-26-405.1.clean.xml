@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-405.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-26-405.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405.1</order_by>
   <text>
     <section prefix="(a)">The disposition of a penalty deposit posted under &#xA7; 26-204(d) of this title shall be as provided in this section.</section>
     <section prefix="(b)">If the defendant does not appear on the trial date set, the deposit shall be forfeited in full as the fine on the original charge.</section>

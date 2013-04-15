@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-202" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">Whenever a requirement is declared in this subtitle as to distance from which certain lamps and devices shall render objects visible or within which the lamps or devices shall be visible, the requirement applies during the times stated in &#xA7; 22-201.1 of this subtitle in respect to a vehicle without a load when on a straight, level, unlighted highway under normal atmospheric conditions, unless a different time or condition is expressly stated.</section>
     <section prefix="(b)">Whenever a requirement is declared in this subtitle as to the mounted height of lamps or devices, it means from the center of the lamp or device to the level ground on which the vehicle stands when the vehicle is without a load.</section>

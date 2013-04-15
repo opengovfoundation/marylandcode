@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-302" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-1-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">A person who knowingly falsifies, alters, or causes another to falsify or alter any permit, license, or certificate issued or required pursuant to this article to demonstrate compliance with any environmental regulation, permit condition, or other regulatory requirement under this article is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $50,000 for each violation or imprisonment not exceeding 2 years or both.</section>
     <section prefix="(b)">A person who knowingly possesses, displays, or submits to the Department or any other person any falsified or altered permit, license, or certificate issued or required pursuant to this article to demonstrate compliance with any environmental regulation, permit condition, or other regulatory requirement under this article is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $50,000 for each violation or imprisonment not exceeding 2 years or both.</section>

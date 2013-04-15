@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-102" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-22-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">The Commission may issue bonds of the sanitary district in amounts necessary to carry on its work, including for:<section prefix="(1)">acquisition, design, construction, reconstruction, establishment, extension, enlargement, or condemnation of the water and sewer systems in the sanitary district or in an area where extension of the systems may be authorized by law;</section><section prefix="(2)">acquisition of land or equipment for, or construction, remodeling, enlargement, or replacement of any office or operating building necessary to administer or operate the systems; or</section><section prefix="(3)">design and construction of trunk sewers and sewers or portions of sewer lines required to relieve septic tank failures and for which no front foot benefit charges can be collected as determined by the Commission, and sewage pumping stations and sewage disposal facilities, including reimbursement to the District of Columbia or other federal authorities for any construction within the District of Columbia.</section></section>
     <section prefix="(b)">
@@ -23,7 +23,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">Notwithstanding any other provision of law, the Commission may issue bonds that have a maturity of more than 1 year as fully registered bonds without coupons.</section>
-      <section prefix="(2)">The Commission may determine the form of the bonds issued under paragraph (1) of this subsection for the purposes of:<section prefix="(i)">qualifying the interest on the bonds for exemption from federal income tax; and</section><section prefix="(ii)">conforming to standards and practices for the registration and transfer of bonds generally followed by banks and trust companies acting as registrars and transfer agents of bonds, including:</section></section>
+      <section prefix="(2)">The Commission may determine the form of the bonds issued under paragraph (1) of this subsection for the purposes of:<section prefix="(i)">qualifying the interest on the bonds for exemption from federal income tax; and</section><section prefix="(ii)">conforming to standards and practices for the registration and transfer of bonds generally followed by banks and trust companies acting as registrars and transfer agents of bonds, including:<section prefix="1.">signing of bonds by facsimile signatures of Commission officers;</section><section prefix="2.">authentication of bonds by the manual signature of an officer of a bank or trust company signing as the registrar or transfer agent;</section><section prefix="3.">maintenance by registrars or transfer agents of records of owners of bonds;</section><section prefix="4.">complying with the standard record date system for payment of interest;</section><section prefix="5.">issuing bonds on the basis of book entries and certificates; and</section><section prefix="6.">complying with requirements for the form of bond that is acceptable to central depositories used in the marketing and trading of municipal bond issues.</section></section></section>
     </section>
     <section prefix="(f)">The bonds of the sanitary district or of the Commission are forever exempt from taxation by the State and counties and municipalities in the State.</section>
     <section prefix="(g)">The bonds may be made redeemable before maturity at the option of the Commission at the prices and under terms and conditions that the Commission sets before the bonds are issued.</section>

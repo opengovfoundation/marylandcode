@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-302" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
-    <section prefix="(a)">Except as provided in subsection (b) of this section, this subtitle does not apply to:<section prefix="(1)">intercollegiate, interscholastic, or intramural boxing, kick boxing, or wrestling;</section><section prefix="(2)">amateur boxing, kick boxing, or wrestling conducted under the supervision of a nationally recognized amateur organization;</section><section prefix="(3)">amateur mixed martial arts conducted under the supervision of an amateur kick boxing organization or mixed martial arts organization that:<section prefix="(i)">has been reviewed by the Commission on a basis that is neither arbitrary nor capricious;</section><section prefix="(ii)">has been approved by the Commission;</section><section prefix="(iii)">administers and enforces amateur mixed martial arts regulations adopted by the Commission; and</section><section prefix="(iv)">does not have a direct or indirect financial interest in:</section></section><section prefix="(4)">martial arts where:<section prefix="(i)">contact to the body is permitted in only a restrained manner;</section><section prefix="(ii)">contact to the head is not permitted; and</section><section prefix="(iii)">no contact is permitted that may result, or is intended to result, in physical harm to an opponent; or</section></section><section prefix="(5)">a mixed martial arts exhibition.</section></section>
+    <section prefix="(a)">Except as provided in subsection (b) of this section, this subtitle does not apply to:<section prefix="(1)">intercollegiate, interscholastic, or intramural boxing, kick boxing, or wrestling;</section><section prefix="(2)">amateur boxing, kick boxing, or wrestling conducted under the supervision of a nationally recognized amateur organization;</section><section prefix="(3)">amateur mixed martial arts conducted under the supervision of an amateur kick boxing organization or mixed martial arts organization that:<section prefix="(i)">has been reviewed by the Commission on a basis that is neither arbitrary nor capricious;</section><section prefix="(ii)">has been approved by the Commission;</section><section prefix="(iii)">administers and enforces amateur mixed martial arts regulations adopted by the Commission; and</section><section prefix="(iv)">does not have a direct or indirect financial interest in:<section prefix="1.">a mixed martial arts contestant; or</section><section prefix="2.">the promotion of a mixed martial arts contest;</section></section></section><section prefix="(4)">martial arts where:<section prefix="(i)">contact to the body is permitted in only a restrained manner;</section><section prefix="(ii)">contact to the head is not permitted; and</section><section prefix="(iii)">no contact is permitted that may result, or is intended to result, in physical harm to an opponent; or</section></section><section prefix="(5)">a mixed martial arts exhibition.</section></section>
     <section prefix="(b)">Each boxer shall wear protective headgear in each amateur boxing match or exhibition.</section>
   </text>
 </law>

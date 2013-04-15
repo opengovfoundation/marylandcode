@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-211" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">The charter of a savings and loan association may be amended as provided in Title 2, Subtitle 6 of the Corporations and Associations Article and this section.</section>
     <section prefix="(b)">Articles of amendment shall be filed and approved as required by this subtitle for articles of incorporation, except that:<section prefix="(1)">A notice of the filing need not be published; and</section><section prefix="(2)">A filing fee is not required.</section></section>

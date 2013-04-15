@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-103</section_number>
-  <catch_line/>
+  <catch_line>A contract, plan, design, or specification for construction of a State correctional facility that in...</catch_line>
+  <order_by>103</order_by>
   <text>A contract, plan, design, or specification for construction of a State correctional facility that involves an engineering question is subject to the approval of the Secretary.</text>
 </law>

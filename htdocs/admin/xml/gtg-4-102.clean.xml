@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-102" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-4-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">In this section, "net proceeds" means the total receipts from the operation of an electronic bingo machine or electronic tip jar machine less the amount of money winnings or prizes paid out to players.</section>
     <section prefix="(b)">A county may impose, by resolution, a tax on:<section prefix="(1)">the gross receipts derived from any admissions and amusement charge in that county; and</section><section prefix="(2)">an admission in that county for a reduced charge or at no charge to a place if there is a charge for other admissions to the place.</section></section>

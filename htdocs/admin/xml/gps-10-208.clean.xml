@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-208" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-10-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">A licensee may test fireworks or their components only in an area that is:<section prefix="(1)">set aside for that purpose; and</section><section prefix="(2)">located at a safe distance from any fireworks plant building or other structure, considering the nature of the materials being tested.</section></section>
     <section prefix="(b)">A licensee may experiment with fireworks, pyrotechnics, or their components only as authorized by the State Fire Marshal.</section>

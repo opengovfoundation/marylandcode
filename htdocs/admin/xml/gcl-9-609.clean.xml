@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-609" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">After default, a secured party:<section prefix="(1)">May take possession of the collateral; and</section><section prefix="(2)">Without removal, may render equipment unusable and dispose of collateral on a debtor's premises under &#xA7; 9-610.</section></section>
     <section prefix="(b)">A secured party may proceed under subsection (a):<section prefix="(1)">Pursuant to judicial process; or</section><section prefix="(2)">Without judicial process, if it proceeds without breach of the peace.</section></section>

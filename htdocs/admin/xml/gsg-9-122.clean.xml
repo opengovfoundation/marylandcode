@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-122" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">The regulations of the Agency shall provide for winning tickets to be drawn at least once a week.</section>
     <section prefix="(b)">
@@ -15,17 +15,36 @@
       <section prefix="(4)">
         <section prefix="(i)">The right of a person to receive payment under a prize that is paid in installments over time by the Agency may be voluntarily assigned as a whole or in part, if the assignment is made to a person designated in accordance with an order of the circuit court in the county where the headquarters of the Agency is located.</section>
         <section prefix="(ii)">A circuit court specified under subparagraph (i) of this paragraph may hear petitions for approval of voluntary assignments.</section>
-        <section prefix="(iii)">On the filing by the assignor or the assignee in the circuit court of a petition seeking approval of a voluntary assignment, the court shall issue an order approving a voluntary assignment and directing the Agency to make prize payments as a whole or in part to the assignee if the court finds that:</section>
-        <section prefix="(iv)"/>
-        <section prefix="(v)">Beginning October 1, 2006, the Agency, not later than 30 days after receiving a certified copy of a court order approving a voluntary assignment, shall send the assignor and the assignee written confirmation of:</section>
+        <section prefix="(iii)">On the filing by the assignor or the assignee in the circuit court of a petition seeking approval of a voluntary assignment, the court shall issue an order approving a voluntary assignment and directing the Agency to make prize payments as a whole or in part to the assignee if the court finds that:<section prefix="1.">the assignment is in writing, is executed by the assignor, and is by its terms subject to the laws of this State;</section><section prefix="2.">the assignor provides a sworn affidavit attesting that the assignor is of sound mind, is in full command of the assignor's faculties, and is not acting under duress;</section><section prefix="3.">the assignor has been advised about the assignment by an independent attorney who is not related to and not compensated by the assignee or an affiliate of the assignee;</section><section prefix="4.">the assignor has received independent financial or tax advice concerning the effects of the assignment from an attorney or other professional who is unrelated to and is not compensated by the assignee or an affiliate of the assignee;</section><section prefix="5.">the assignor understands that the assignor will not receive the prize payments or parts of payments during the years assigned;</section><section prefix="6.">the assignor understands and agrees the Agency, Commission, and officials and employees of the Agency are not liable or responsible for making any of the assigned payments;</section><section prefix="7.">the assignee provides the assignor with a one-page disclosure statement that sets forth in bold type not less than 14 points in size the payments being assigned by amount and payment date, the purchase price, the rate of discount to present value assuming daily compounding and funding on the contract date, and any origination or closing fee that will be charged to the assignor; and</section><section prefix="8.">the contract of assignment expressly states that the assignor has 5 business days after signing the contract to cancel the assignment.</section></section>
+        <section prefix="(iv)">
+          <section prefix="1.">Written notice of the petition and proposed assignment and any court hearing concerning the petition and proposed assignment shall be given to the Agency's counsel at least 30 days before a court hearing.</section>
+          <section prefix="2.">The Agency need not appear in or be named as party to an action that seeks judicial approval of an assignment but may intervene as of right in the action.</section>
+          <section prefix="3.">A certified copy of a court order approving a voluntary assignment shall be given to the Agency not later than 60 days before the date on which the payment is to be made.</section>
+        </section>
+        <section prefix="(v)">Beginning October 1, 2006, the Agency, not later than 30 days after receiving a certified copy of a court order approving a voluntary assignment, shall send the assignor and the assignee written confirmation of:<section prefix="1.">the court-approved assignment; and</section><section prefix="2.">the intent of the Agency to rely on the assignment in making payments to the assignee named in the order.</section></section>
         <section prefix="(vi)">A voluntary assignment may not include or cover payments or parts of payments to the extent that the payments are subject to child support payments, criminal restitution, or bankruptcy proceedings as of the date of the court order approving a voluntary assignment.</section>
-        <section prefix="(vii)"/>
-        <section prefix="(viii)"/>
-        <section prefix="(ix)"/>
+        <section prefix="(vii)">
+          <section prefix="1.">The Agency, the Commission, and officials and employees of the Agency are not liable under this paragraph after payment of an assigned prize is made.</section>
+          <section prefix="2.">The assignor and assignee shall hold harmless and indemnify the Agency, the Commission, and the State and its employees and agents from all claims, suits, actions, complaints, or liabilities related to the assignment.</section>
+        </section>
+        <section prefix="(viii)">
+          <section prefix="1.">The Agency may establish a reasonable fee to defray administrative expenses associated with assignments made under this section, including a processing fee imposed by a private annuity provider.</section>
+          <section prefix="2.">The amount of the fee shall reflect the direct and indirect costs of processing assignments.</section>
+        </section>
+        <section prefix="(ix)">
+          <section prefix="1.">A contract of assignment in which the assignor is a lottery winner shall include a sworn affidavit in a form that the Agency provides and the assignee completes.</section>
+          <section prefix="2.">Until the Agency provides the form, an assignee may use its own form that includes the information required in subsubparagraph 3 of this subparagraph.</section>
+          <section prefix="3.">The affidavit shall include:</section>
+          <section prefix="4.">The affidavit shall be provided only by the assignee who enters into the contract with the lottery winner or the estate of a lottery winner.</section>
+        </section>
         <section prefix="(x)">The assignee shall notify the Agency of its business location and mailing address for payment purposes and of any change in location or address during the entire course of the assignment.</section>
         <section prefix="(xi)">An assignment may be made by a husband and wife who are co-owners of a prize only if they jointly assign the prize to an assignee.</section>
-        <section prefix="(xii)"/>
-        <section prefix="(xiii)">If the Internal Revenue Service or a court of competent jurisdiction issues a determination letter, revenue ruling, or other public document declaring that the voluntary assignment of prizes will affect the federal income tax treatment of lottery prize winners who do not assign their prizes:</section>
+        <section prefix="(xii)">
+          <section prefix="1.">A court order or a combination of court orders under this section may not require the Agency to divide a single prize payment among more than three different persons.</section>
+          <section prefix="2.">This section does not prohibit the substitution of assignees as long as there are not more than three assignees at any one time for any one prize payment.</section>
+          <section prefix="3.">Any subsequent assignee is bound as the original assignee by the provisions of this section and the terms and conditions of the contract of assignment.</section>
+        </section>
+        <section prefix="(xiii)">If the Internal Revenue Service or a court of competent jurisdiction issues a determination letter, revenue ruling, or other public document declaring that the voluntary assignment of prizes will affect the federal income tax treatment of lottery prize winners who do not assign their prizes:<section prefix="1.">within 15 days after the Agency receives the letter, ruling, or other document, the Director of the Agency shall file a copy of it with the Attorney General; and</section><section prefix="2.">a court may not issue an order authorizing a voluntary assignment under this paragraph.</section></section>
         <section prefix="(xiv)">This paragraph shall prevail over any inconsistent provision in &#xA7; 9-406 of the Commercial Law Article.</section>
         <section prefix="(xv)">A contract or agreement made or entered into on or before May 31, 2006, that purports to voluntarily assign or grant an interest in prize payments is void.</section>
       </section>

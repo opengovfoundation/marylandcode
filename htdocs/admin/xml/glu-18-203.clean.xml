@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-203" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Commission may issue and sell bonds in amounts necessary for the purposes under subsection (b) of this section and under regulations the Commission determines.</section>
     <section prefix="(b)">The Commission may issue the bonds to pay for the acquisition of property in the metropolitan district for the purposes of &#xA7; 17-101(b) of this article.</section>

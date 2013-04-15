@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-132" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-132</section_number>
-  <catch_line/>
-  <text>The purposes of this part are to:<section prefix=""><section prefix="(1)">establish a system of executive and legislative evaluation of regulations that will:<section prefix="(i)">determine whether the regulations of a unit:</section><section prefix="(ii)">assist the Executive Branch in being accountable and responsive to the public interest; and</section></section><section prefix="(2)">assure that the evaluation takes place in a timely and orderly manner.</section></section></text>
+  <catch_line>The purposes of this part are to:...</catch_line>
+  <order_by>132</order_by>
+  <text>The purposes of this part are to:<section prefix=""><section prefix="(1)">establish a system of executive and legislative evaluation of regulations that will:<section prefix="(i)">determine whether the regulations of a unit:<section prefix="1.">continue to be necessary for the public interest;</section><section prefix="2.">continue to be supported by statutory authority and judicial opinions; and</section><section prefix="3.">are obsolete or otherwise are appropriate for amendment or repeal; and</section></section><section prefix="(ii)">assist the Executive Branch in being accountable and responsive to the public interest; and</section></section><section prefix="(2)">assure that the evaluation takes place in a timely and orderly manner.</section></section></text>
 </law>

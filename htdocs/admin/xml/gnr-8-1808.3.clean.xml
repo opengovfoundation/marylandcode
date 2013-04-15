@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1808.3" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-1808.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1808.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This section applies notwithstanding:<section prefix="(i)">Any other provision of this subtitle; or</section><section prefix="(ii)">Any criteria or guideline of the Commission adopted under this subtitle.</section></section>
@@ -26,7 +26,7 @@
       <section prefix="(1)">In this subsection, "legally developed" means that all physical improvements to a property:<section prefix="(i)">Existed before Commission approval of a local program; or</section><section prefix="(ii)">Were properly permitted in accordance with the local program and impervious surface policies in effect at the time of construction.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">A lot or parcel legally developed as of July 1, 2008 may be considered legally nonconforming for purposes of lot coverage requirements.</section>
-        <section prefix="(ii)">For the purpose of increasing lot coverage on a lot or parcel under subparagraph (i) of this paragraph, the lot coverage limitations under this section may not be construed to apply to a development activity for which:</section>
+        <section prefix="(ii)">For the purpose of increasing lot coverage on a lot or parcel under subparagraph (i) of this paragraph, the lot coverage limitations under this section may not be construed to apply to a development activity for which:<section prefix="1.">A building permit was issued before July 1, 2008; and</section><section prefix="2.">Construction was initiated and an inspection was performed before July 1, 2009.</section></section>
       </section>
     </section>
     <section prefix="(i)">A local jurisdiction may grant a variance from the provisions of this section in accordance with the provisions of this subtitle, regulations adopted by the Commission concerning variances as part of local program development set forth in COMAR 27.01.11, and notification of project applications set forth in COMAR 27.03.01.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-301" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-4-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">A person who has gross receipts subject to the admissions and amusement tax shall pay the tax on those gross receipts with the return that covers the period in which those receipts are earned.</section>
     <section prefix="(b)">If a corporation, other than a nonstock, not for profit corporation, is required to pay the admissions and amusement tax, personal liability for the tax and interest and penalties on the tax extends to any officer of the corporation who exercises direct control over its fiscal management.</section>

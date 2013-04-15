@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-111" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-3-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">The Tax Court may:<section prefix="(1)">appoint examiners to hear an appeal on the valuation of real property; and</section><section prefix="(2)">arrange for examiners to hear appeals in the counties where the appeals arise, at times and places that promote accessibility to the examiners by the parties to the appeal.</section></section>
     <section prefix="(b)">After a hearing before an examiner, the examiner shall submit to the Tax Court a written recommended decision that includes the findings of fact and conclusions of law on which the recommendation is based.</section>

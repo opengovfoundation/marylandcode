@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="35-202" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-35-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of nine members appointed by the Governor.</section>
-      <section prefix="(2)">Of the nine members:<section prefix="(i)">three shall be from any of the following units:</section><section prefix="(ii)">three shall be individuals who are eligible to participate in one of the supplemental retirement plans, at least one of whom shall be an employee described in &#xA7; 403(b)(1)(A)(ii) of the Internal Revenue Code; and</section><section prefix="(iii)">three shall be members of the public who are not eligible to participate in any of the supplemental retirement plans, at least one of whom shall have experience with deferred compensation and salary reduction plans.</section></section>
+      <section prefix="(2)">Of the nine members:<section prefix="(i)">three shall be from any of the following units:<section prefix="1.">the Department of Budget and Management;</section><section prefix="2.">the Department of Education;</section><section prefix="3.">the Office of the State Comptroller;</section><section prefix="4.">the Office of the State Treasurer;</section><section prefix="5.">the State Retirement Agency; or</section><section prefix="6.">the Maryland Higher Education Commission;</section></section><section prefix="(ii)">three shall be individuals who are eligible to participate in one of the supplemental retirement plans, at least one of whom shall be an employee described in &#xA7; 403(b)(1)(A)(ii) of the Internal Revenue Code; and</section><section prefix="(iii)">three shall be members of the public who are not eligible to participate in any of the supplemental retirement plans, at least one of whom shall have experience with deferred compensation and salary reduction plans.</section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">The term of a member is 4 years.</section>

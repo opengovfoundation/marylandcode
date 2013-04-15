@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) and (f) of this section, a person may not remove or attempt to remove human remains from a burial site.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, the State's Attorney for a county may authorize in writing the removal of human remains from a burial site in the State's Attorney's jurisdiction:<section prefix="(1)">to ascertain the cause of death of the person whose remains are to be removed;</section><section prefix="(2)">to determine whether the human remains were interred erroneously;</section><section prefix="(3)">for the purpose of reburial; or</section><section prefix="(4)">for medical or scientific examination or study allowed by law.</section></section>
@@ -23,7 +23,7 @@
       <section prefix="(8)">For a known, but not necessarily documented, unmarked burial site, the person requesting authorization for the removal of human remains from the burial site has the burden of proving by archaeological excavation or another acceptable method the precise location and boundaries of the burial site.</section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">Any human remains that are removed from a burial site under this section shall be reinterred in:<section prefix="(i)"/><section prefix="(ii)">in the presence of:</section></section>
+      <section prefix="(1)">Any human remains that are removed from a burial site under this section shall be reinterred in:<section prefix="(i)"><section prefix="1.">a permanent cemetery that provides perpetual care; or</section><section prefix="2.">a place other than a permanent cemetery with the agreement of a person in interest as defined under &#xA7; 14-121(a)(4) of the Real Property Article; and</section></section><section prefix="(ii)">in the presence of:<section prefix="1.">a mortician, professional cemeterian, or other individual qualified in the interment of human remains;</section><section prefix="2.">a minister, priest, or other religious leader; or</section><section prefix="3.">a trained anthropologist or archaeologist.</section></section></section>
       <section prefix="(2)">The location of the final disposition and treatment of human remains that are removed from a burial site under this section shall be entered into the local burial sites inventory or, if no local burial sites inventory exists, into a record or inventory deemed appropriate by the State's Attorney or the Maryland Historical Trust.</section>
     </section>
     <section prefix="(e)">This section may not be construed to:<section prefix="(1)">preempt the need for a permit required by the Department of Health and Mental Hygiene under &#xA7; 4-215 of the Health - General Article to remove human remains from a burial site; or</section><section prefix="(2)">interfere with the normal operation and maintenance of a cemetery, as long as the operation and maintenance of the cemetery are performed in accordance with State law.</section></section>
@@ -32,7 +32,11 @@
       <section prefix="(2)">The following persons, in the order of priority stated, may arrange for a reinterment of remains under paragraph (1) of this section:<section prefix="(i)">the surviving spouse or domestic partner of the decedent;</section><section prefix="(ii)">an adult child of the decedent;</section><section prefix="(iii)">a parent of the decedent;</section><section prefix="(iv)">an adult brother or sister of the decedent;</section><section prefix="(v)">a person acting as a representative of the decedent under a signed authorization of the decedent; or</section><section prefix="(vi)">the guardian of the person of the decedent at the time of the decedent's death, if one has been appointed.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The reinterment under paragraph (1) of this subsection may be done without the need for obtaining the authorization of the State's Attorney under subsection (b) of this section or providing the notice required under subsection (c) of this section.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">A person who arranges for the reinterment of remains within a permanent cemetery under paragraph (1)(ii) of this subsection, within 30 days after the reinterment, shall publish a notice of the reinterment in a newspaper of general circulation in the county where the permanent cemetery is located.</section>
+          <section prefix="2.">The notice shall be published in the newspaper one time.</section>
+          <section prefix="3.">The notice shall contain:</section>
+        </section>
         <section prefix="(iii)">Within 45 days after the reinterment, a person who arranges for a reinterment of remains under paragraph (1)(ii) of this subsection shall provide a copy of the notice required under this paragraph to the Office of Cemetery Oversight.</section>
       </section>
       <section prefix="(4)">The location of a reinterment of remains under paragraph (1) of this subsection shall be entered into the inventory of the local burial sites or, if no inventory exists, into a record or inventory deemed appropriate by the Maryland Historical Trust.</section>

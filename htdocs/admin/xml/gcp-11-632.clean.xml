@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-632" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-632</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>632</order_by>
   <text>
     <section prefix="(a)">The Attorney General may bring a proceeding in a court of competent jurisdiction against a person who violates or threatens to violate Part II of this subtitle to restrain the person from continuing the violation or carrying out the threat.</section>
     <section prefix="(b)">In a proceeding under this section, a court has jurisdiction to grant to the Attorney General, without bond or other undertaking, a prohibitory or mandatory injunction as the facts may warrant, including temporary restraining orders and preliminary injunctions to prevent payments under a notoriety of crimes contract that violates Part II of this subtitle.</section>

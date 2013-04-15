@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-303" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">The Secretary may adopt rules and regulations to govern the character and location of:<section prefix="(1)">Plumbing;</section><section prefix="(2)">Drainage;</section><section prefix="(3)">Water supply;</section><section prefix="(4)">Offensive trades; and</section><section prefix="(5)">Disposal of any waste material, including sewage or garbage.</section></section>
     <section prefix="(b)">The Secretary may adopt rules and regulations to govern the sanitary condition of:<section prefix="(1)">Streets;</section><section prefix="(2)">Cesspools;</section><section prefix="(3)">Outhouses; and</section><section prefix="(4)">Any sanitary feature connected with any of these.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-605" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-17-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A contractor or subcontractor that elects to make payments to the Fund in accordance with this subtitle shall make payments, as determined by the Secretary, not to exceed 25 cents per hour for each employee in each covered craft who is employed by the contractor or subcontractor on the covered project.</section>

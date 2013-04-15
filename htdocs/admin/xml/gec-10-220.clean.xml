@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-220" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">A bond is not a debt or a pledge of the faith and credit of the State or a political subdivision, and is payable solely from development or project revenues as provided in accordance with this subtitle.</section>
     <section prefix="(b)">Each bond shall state on its face that the Authority, the State, and a political subdivision of the State are not obliged to pay the principal of or interest on the bond except from the development or project revenues pledged to the payment of the bond.</section>

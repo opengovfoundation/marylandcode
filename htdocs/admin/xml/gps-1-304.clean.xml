@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-304" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-1-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Each county shall have in operation an enhanced 9-1-1 system.</section>
     <section prefix="(b)">If implementation is preceded by cooperative planning, the enhanced 9-1-1 system required under subsection (a) of this section may operate as part of a multicounty system.</section>

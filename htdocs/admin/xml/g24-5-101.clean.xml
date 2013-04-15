@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g24" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-101" order_by="" level="2"/>
+    <unit label="article" identifier="g24" order_by="" level="1">Political Subdivisions - Miscellaneous Provisions</unit>
   </structure>
   <section_number>g24-5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this section, "electric company" has the meaning stated in &#xA7; 1-101 of the Public Utilities Article.</section>
     <section prefix="(b)">On written request by a local government, an electric company shall sell to the local government some or all of the electric company's existing street lighting equipment that is located within the local jurisdiction.</section>

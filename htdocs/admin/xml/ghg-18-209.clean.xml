@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-209" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-209</section_number>
-  <catch_line/>
+  <catch_line>When a health officer receives notice of an infectious or contagious disease that affects or is like...</catch_line>
+  <order_by>209</order_by>
   <text>When a health officer receives notice of an infectious or contagious disease that affects or is likely to endanger the health of school children within the county, the health officer immediately shall give written notice to the county board of education.</text>
 </law>

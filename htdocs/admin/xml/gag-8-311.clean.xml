@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-311" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">In order to develop a fee system to be implemented under &#xA7; 8-306(a)(18) of this subtitle and &#xA7; 4-103(c) of the Environment Article, a soil conservation district shall each year determine the reasonable costs of review of grading and sediment control plans for the succeeding year.</section>
     <section prefix="(b)">The soil conservation district shall develop the fee system based on the costs determined under subsection (a) of this section, and shall submit the fee system to the local governing body.</section>

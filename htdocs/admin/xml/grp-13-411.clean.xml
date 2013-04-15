@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-411" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-411</section_number>
-  <catch_line/>
+  <catch_line>The Commissioner shall enter an order of abandonment if:...</catch_line>
+  <order_by>411</order_by>
   <text>The Commissioner shall enter an order of abandonment if:<section prefix=""><section prefix="(1)">A bill of complaint required by &#xA7; 13-407 of this subtitle is not filed in the time required by that section; or</section><section prefix="(2)">The applicant fails to pay to the State the purchase price for any vacant land and all outstanding expenses within the time specified by the Commissioner in the notice mailed to the applicant under &#xA7; 13-409 of this subtitle.</section></section></text>
 </law>

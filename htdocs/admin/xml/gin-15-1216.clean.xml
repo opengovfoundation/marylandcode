@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1216" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1216</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1216</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall establish the Maryland Small Employer Health Reinsurance Pool.</section>
     <section prefix="(b)">The Pool shall be operational and may reinsure claims in accordance with this subtitle on or after July 1, 1994.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-602" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">When an attachment is levied against the wages of a judgment debtor, it shall constitute a lien on all attachable wages that are payable at the time the attachment is served or which become payable until the judgment, interest, and costs, as specified in the attachment, are satisfied.</section>
     <section prefix="(b)">Any waiver of the limitations contained in &#xA7; 15-601.1(b)(1) and (2) of this subtitle is void.</section>

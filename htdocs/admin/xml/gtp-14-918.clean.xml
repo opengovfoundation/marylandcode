@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-918" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-918</section_number>
-  <catch_line/>
+  <catch_line>If a unit of the State pays a refund of any tax, fee, charge, penalty, or interest that was distribu...</catch_line>
+  <order_by>918</order_by>
   <text>If a unit of the State pays a refund of any tax, fee, charge, penalty, or interest that was distributed to a county or municipal corporation, the unit of the State shall deduct the amount refunded from a subsequent distribution of the tax, fee, charge, penalty, or interest to that county or municipal corporation.</text>
 </law>

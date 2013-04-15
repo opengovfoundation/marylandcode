@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-913" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-913</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>913</order_by>
   <text>
     <section prefix="(a)">In any action for punitive damages for personal injury, evidence of the defendant's financial means is not admissible until there has been a finding of liability and that punitive damages are supportable under the facts.</section>
     <section prefix="(b)">A claim filed with the Health Care Alternative Dispute Resolution Office in accordance with &#xA7; 3-2A-04 of this article shall be considered an action for purposes of this section.</section>

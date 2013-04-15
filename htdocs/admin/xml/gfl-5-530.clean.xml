@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-530" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-530</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>530</order_by>
   <text>
     <section prefix="(a)">The Department may contribute to the support of a child formerly under foster care after the child is adopted.</section>
     <section prefix="(b)">The support may include payment for:<section prefix="(1)">maintenance costs;</section><section prefix="(2)">medical, dental, and surgical expenses;</section><section prefix="(3)">psychiatric and psychological expenses; and</section><section prefix="(4)">any other cost necessary for the child's care and well-being.</section></section>

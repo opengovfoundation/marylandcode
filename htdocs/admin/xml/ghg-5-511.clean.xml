@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-511" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(a)">A practitioner and an operator of a crematory may rely on the representations made by an authorizing agent and are not guarantors of the reliability of those representations.</section>
     <section prefix="(b)">A practitioner and an operator of a crematory have no responsibility to contact or to independently investigate the existence of any next of kin of the decedent.</section>

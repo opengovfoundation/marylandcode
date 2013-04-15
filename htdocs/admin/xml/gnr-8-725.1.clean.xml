@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-725.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-725.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>725.1</order_by>
   <text>
     <section prefix="(a)">A person may not abandon, as defined in &#xA7; 8-721 of this subtitle, any vessel upon any waters of the State.</section>
     <section prefix="(b)">The last known registered owner shown on the certificate of title issued under &#xA7; 8-715 of this subtitle shall be considered:<section prefix="(1)">The prima facie owner of a vessel at the time the vessel was abandoned; and</section><section prefix="(2)">The person who abandoned the vessel.</section></section>

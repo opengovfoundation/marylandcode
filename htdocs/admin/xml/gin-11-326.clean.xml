@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-326" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-326</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>326</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Notwithstanding any other provision of law, any data, documents, or other information filed with the Commissioner under Part IV of this subtitle about a particular insurer or that insurer's market share or plan:<section prefix="(i)">shall be considered confidential commercial information;</section><section prefix="(ii)">shall be kept confidential by the Commissioner; and</section><section prefix="(iii)">may not be made public or be subject to subpoena, other than by the Commissioner for the purpose of enforcement of Part IV of this subtitle by the Commissioner.</section></section>

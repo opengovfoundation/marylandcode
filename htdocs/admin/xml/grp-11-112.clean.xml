@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-112" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">In this section, the term "taking under the power of eminent domain" includes any sale in settlement of any pending or threatened condemnation proceeding.</section>
     <section prefix="(b)">The declaration or bylaws may provide for an allocation of any award for a taking under the power of eminent domain of all or a part of the condominium. The declaration or bylaws also may provide for (1) reapportionment or other change of the percentage interests appurtenant to each unit remaining after any taking; (2) the rebuilding, relocation, or restoration of any improvements so taken in whole or in part; and (3) the termination of the condominium regime following any taking.</section>

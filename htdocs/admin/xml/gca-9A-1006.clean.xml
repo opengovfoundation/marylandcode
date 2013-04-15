@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-1006" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-1006</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006</order_by>
   <text>
     <section prefix="(a)">A limited partnership may register as a limited liability partnership by complying with &#xA7; 10-805 of this article.</section>
     <section prefix="(b)">The provisions of this title applicable to limited liability partnerships shall apply to a limited partnership which registers as a limited liability partnership; provided, however, that in applying this title to such a limited partnership, all references to partners shall mean general partners.</section>

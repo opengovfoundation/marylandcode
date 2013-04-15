@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-306" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-306</section_number>
-  <catch_line/>
+  <catch_line>Property is not subject to State property tax if the property:...</catch_line>
+  <order_by>306</order_by>
   <text>Property is not subject to State property tax if the property:<section prefix="(1)">is owned by The Maryland State Game and Fish Protective Association, Inc.; and</section><section prefix="(2)">is used to educate the public on hunting safety.</section></text>
 </law>

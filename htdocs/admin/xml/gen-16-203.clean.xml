@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-203" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-16-203</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other provision of law, a landowner shall be exempt from all local permit requir...</catch_line>
+  <order_by>203</order_by>
   <text>Notwithstanding any other provision of law, a landowner shall be exempt from all local permit requirements to perform routine maintenance and repair of a bulkhead.</text>
 </law>

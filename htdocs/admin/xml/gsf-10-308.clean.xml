@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-308" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-10-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">In this section, "minority business enterprise" has the meaning stated in Title 14, Subtitle 3 of this article.</section>
     <section prefix="(b)">Each unit of the State government that leases State-owned property to business entities shall adopt regulations that establish procedures for awarding the leases. The procedures shall be structured to try to achieve participation by minority business enterprises in:<section prefix="(1)">10% of the total dollar amount of the leases; and</section><section prefix="(2)">10% of the total number of leases.</section></section>

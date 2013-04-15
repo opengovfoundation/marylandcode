@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-807" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, a person may not engage in surface mining within the State without first obtaining a surface mining license.</section>
     <section prefix="(b)">An application for a license shall be in writing and on a form prepared and furnished by the Department. If the application is made by a corporation, partnership, or association it shall contain information concerning its officers, directors, and principal owners, as the Department reasonably requires.</section>

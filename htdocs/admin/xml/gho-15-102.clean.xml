@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-102" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-15-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">A physician assistant may not practice within the scope of practice of any of the following health occupations authorized under this article:<section prefix="(1)">Nursing;</section><section prefix="(2)">Optometry;</section><section prefix="(3)">Physical therapy; or</section><section prefix="(4)">Psychology.</section></section>
     <section prefix="(b)">This title does not limit the right of an individual to practice a health occupation that the individual is authorized to practice under this article.</section>

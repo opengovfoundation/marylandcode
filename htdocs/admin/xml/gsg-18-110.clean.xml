@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-110" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-18-110</section_number>
-  <catch_line/>
+  <catch_line>It is unlawful for any notary public to sign and issue any protest except in the form prescribed by ...</catch_line>
+  <order_by>110</order_by>
   <text>It is unlawful for any notary public to sign and issue any protest except in the form prescribed by the Comptroller.</text>
 </law>

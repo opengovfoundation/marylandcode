@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-212" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">On or before July 1, 2008, the Commission shall adopt regulations governing the purchase of liquid-immersed distribution transformers by electric companies.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, the regulations shall be consistent with the regulations adopted by the U.S. Department of Energy.</section>

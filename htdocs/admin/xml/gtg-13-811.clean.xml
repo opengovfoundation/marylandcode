@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-811" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-811</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>811</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"Paymaster":<section prefix="(i)">means an employer's officer, representative, agent, or employee charged with the duty of paying salary, wages, or other compensation for personal services to an employee named in a notice of lien; and</section><section prefix="(ii)">if the person named in a notice of lien is employed by the federal government or its instrumentality with an office in the State where employee records are kept, whether or not payroll records are kept or the payroll is prepared at that office, includes the employee who:</section></section>
+      <section prefix="(2)">"Paymaster":<section prefix="(i)">means an employer's officer, representative, agent, or employee charged with the duty of paying salary, wages, or other compensation for personal services to an employee named in a notice of lien; and</section><section prefix="(ii)">if the person named in a notice of lien is employed by the federal government or its instrumentality with an office in the State where employee records are kept, whether or not payroll records are kept or the payroll is prepared at that office, includes the employee who:<section prefix="1.">is designated to keep and maintain employee records in that office; and</section><section prefix="2.">is or may be designated to receive and distribute pay checks to the employees.</section></section></section>
       <section prefix="(3)">"Tax wage lien" means the lien on wages described in this section.</section>
     </section>
     <section prefix="(b)">A tax lien for any tax administered by the Comptroller under this article extends to and covers all salary, wages, or other compensation for personal services that is due or becomes payable on or after the time the lien arises.</section>

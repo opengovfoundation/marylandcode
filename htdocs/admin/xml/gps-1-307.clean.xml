@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-307" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-1-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">The Board shall submit an annual report to the Governor, the Secretary, and, subject to &#xA7; 2-1246 of the State Government Article, the Legislative Policy Committee.</section>
     <section prefix="(b)">The report shall provide the following information for each county:<section prefix="(1)">the type of 9-1-1 system currently operating in the county;</section><section prefix="(2)">the total 9-1-1 fee and additional charge charged;</section><section prefix="(3)">the funding formula in effect;</section><section prefix="(4)">any statutory or regulatory violation by the county and the response of the Board;</section><section prefix="(5)">any efforts to establish an enhanced 9-1-1 system in the county; and</section><section prefix="(6)">any suggested changes to this subtitle.</section></section>

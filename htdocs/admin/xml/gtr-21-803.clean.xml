@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-803" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If, on the basis of an engineering and traffic investigation, a local authority determines that any maximum speed limit specified in this subtitle is greater or less than reasonable or safe under existing conditions on any part of a highway in its jurisdiction, it may establish a reasonable and safe maximum speed limit for that part of the highway, which may:<section prefix="(i)">Decrease the limit at an intersection;</section><section prefix="(ii)">Increase the limit in an urban district to not more than 50 miles an hour;</section><section prefix="(iii)">Decrease the limit in an urban district; or</section><section prefix="(iv)">Decrease the limit outside an urban district to not less than 25 miles an hour.</section></section>

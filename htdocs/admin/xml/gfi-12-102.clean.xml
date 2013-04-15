@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-102" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">This subtitle does not apply to check cashing services:<section prefix="(1)"><section prefix="(i)">For which a fee of up to 1.5% of the face amount of the payment instrument is charged per payment instrument; and</section><section prefix="(ii)">That are incidental to the retail sale of goods or services by the person that is providing the check cashing services;</section></section><section prefix="(2)">In which a customer presents a payment instrument for the exact amount of a purchase; or</section><section prefix="(3)">Involving foreign currency exchange services or the cashing of a payment instrument drawn on a financial institution other than a federal, State, or other state financial institution.</section></section>
     <section prefix="(b)">

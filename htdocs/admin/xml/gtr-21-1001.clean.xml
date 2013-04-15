@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1001" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, on any highway outside of a business district or a residential district, a person may not stop, park, or leave standing on the roadway any vehicle, whether attended or unattended, if it is practicable to stop, park, or leave the vehicle standing off the roadway.</section>
     <section prefix="(b)">Except as otherwise provided in this section, on any highway outside of a business district or a residential district, a person may not leave any vehicle standing, without providing an unobstructed width of the roadway opposite the standing vehicle for the free passage of other vehicles.</section>

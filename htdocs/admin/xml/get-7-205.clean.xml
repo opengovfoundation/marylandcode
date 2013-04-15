@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-205" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-205</section_number>
-  <catch_line/>
+  <catch_line>Within three months of the date of his appointment, a successor personal representative shall return...</catch_line>
+  <order_by>205</order_by>
   <text>Within three months of the date of his appointment, a successor personal representative shall return either a new inventory to stand in place of the inventory filed by his predecessor or a written consent to be answerable for the items as listed and valued in the inventory filed by his predecessor.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1602" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-9-1602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1602</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, land or buildings may not be used for chemical or catalytic manufacturing, chemical fabrication, gasoline processing, or refining of petroleum or petroleum products.</section>
     <section prefix="(b)">Subsection (a) of this section does not apply to land or buildings used:<section prefix="(1)">on or before July 23, 1974, for chemical or catalytic manufacturing, chemical fabrication, gasoline fabrication, gasoline processing, or refining of petroleum or petroleum products; or</section><section prefix="(2)">on or after July 1, 1980, for manufacturing alcohol fuel.</section></section>

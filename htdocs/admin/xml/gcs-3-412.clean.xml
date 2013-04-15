@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-412" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-412</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>412</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall employ correctional employees to monitor and provide security for inmates in the program.</section>
     <section prefix="(b)">A correctional employee designated to monitor inmates in the program may:<section prefix="(1)">obtain and execute search warrants as authorized under &#xA7; 3-415 of this subtitle; and</section><section prefix="(2)">make arrests as authorized under &#xA7; 2-207 of the Criminal Procedure Article.</section></section>

@@ -1,18 +1,22 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-310" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-10-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">For each individual who seeks to vote, an election judge, in accordance with instructions provided by the local board, shall:<section prefix="(1)">locate the individual's name in the election register and locate the preprinted voting authority card and then authorize the individual to vote a regular ballot;</section><section prefix="(2)"><section prefix="(i)">if the individual's name is not found on the election register, search the inactive list and if the name is found, authorize the individual to vote a regular ballot; or</section><section prefix="(ii)">if the individual's name is not on the inactive list, refer the individual for provisional ballot voting under &#xA7; 9-404 of this article;</section></section><section prefix="(3)">establish the identity of the voter by requesting the voter to state the month and day of the voter's birth and comparing the response to the information listed in the election register;</section><section prefix="(4)"><section prefix="(i)">except if a voter's personal information has been deemed confidential by the local board, verify the address of the voter's residence; or</section><section prefix="(ii)">conduct an alternative verification as established by the State Board, if the voter's personal information has been deemed confidential by the local board;</section></section><section prefix="(5)">if any changes to the voting authority card are indicated by a voter, make the appropriate changes in information on the card or other appropriate form; and</section><section prefix="(6)">have the voter sign the voting authority card and either issue the voter a ballot or send the voter to a machine to vote.</section></section>
     <section prefix="(b)">On the completion of the procedures set forth in subsection (a) of this section, a voter may vote in accordance with the procedures appropriate to the voting system used in the polling place.</section>
     <section prefix="(c)">
       <section prefix="(1)">Before a voter enters a voting booth, at the request of the voter, an election judge shall:<section prefix="(i)">instruct the voter about the operation of the voting system; and</section><section prefix="(ii)">allow the voter an opportunity to operate a model voting device, if appropriate to the voting system in use.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">After a voter enters the voting booth, at the request of the voter, two election judges representing different political parties shall instruct the voter on the operation of the voting device.</section>
+          <section prefix="2.">An election judge may not suggest in any way how the voter should vote for a particular ticket, candidate, or position on a question.</section>
+          <section prefix="3.">After instructing the voter, the election judges shall exit the voting booth and allow the voter to vote privately.</section>
+        </section>
         <section prefix="(ii)">A voter may take into the polling place any written or printed material to assist the voter in marking or preparing the ballot.</section>
       </section>
       <section prefix="(3)">

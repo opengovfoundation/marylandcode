@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-301" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this section, "organization" includes any trade, profession, club, union, religious congregation, society, association, fraternal group, or cooperative.</section>
     <section prefix="(b)">Seven or more adult individuals, each of whom is a resident of this State, may act as incorporators to form a credit union under this subtitle with one of the following field of membership types:<section prefix="(1)">Single common bond;</section><section prefix="(2)">Multiple common bond; or</section><section prefix="(3)">Community common bond.</section></section>
@@ -22,7 +22,7 @@
     <section prefix="(d)">Notwithstanding the provisions of subsection (c)(4) of this section, any credit union, without regard to its field of membership type, may include in its field of membership, without regard to location, a community, neighborhood, rural district, or county if:<section prefix="(1)">The Commissioner determines that the community, neighborhood, rural district, or county is:<section prefix="(i)">An "investment area" as defined in 12 U.S.C. &#xA7; 4702(16) of the Community Development Banking and Financial Institutions Act of 1994; and</section><section prefix="(ii)">Underserved by other depository financial institutions based on data of the Commissioner, the federal credit union and banking regulatory agencies, or other data sources; and</section></section><section prefix="(2)">The credit union establishes and maintains an office or branch in the community, neighborhood, rural district, or county at which credit union services are available within 2 years after the inclusion of the community, neighborhood, rural district, or county in the field of membership of the credit union.</section></section>
     <section prefix="(e)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, only a group with fewer than 3,000 members, excluding individuals who are eligible under &#xA7; 6-302(b)(4) or (5) of this subtitle, shall be eligible to be included in the membership of a multiple common bond credit union.</section>
-      <section prefix="(2)">The numerical limitation in paragraph (1) of this subsection does not apply with respect to a group:<section prefix="(i)">That the Commissioner determines could not feasibly or reasonably establish a new single common bond credit union;</section><section prefix="(ii)">Transferred from another credit union in connection with:</section><section prefix="(iii)">Transferred through the merger or consolidation of two credit unions, both of which served the group immediately before the merger or consolidation.</section></section>
+      <section prefix="(2)">The numerical limitation in paragraph (1) of this subsection does not apply with respect to a group:<section prefix="(i)">That the Commissioner determines could not feasibly or reasonably establish a new single common bond credit union;</section><section prefix="(ii)">Transferred from another credit union in connection with:<section prefix="1.">A merger or consolidation approved by the Commissioner based on safety and soundness concerns; or</section><section prefix="2.">A liquidation approved by the Commissioner; or</section></section><section prefix="(iii)">Transferred through the merger or consolidation of two credit unions, both of which served the group immediately before the merger or consolidation.</section></section>
     </section>
   </text>
 </law>

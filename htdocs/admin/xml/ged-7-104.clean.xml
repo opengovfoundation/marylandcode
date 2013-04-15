@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-104" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Principals and teachers in each public elementary and secondary school in this State may require all students to be present and participate in opening exercises on each morning of a school day and to meditate silently for approximately 1 minute.</section>
     <section prefix="(b)">During this period, a student or teacher may read the holy scripture or pray.</section>

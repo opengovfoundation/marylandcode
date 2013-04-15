@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-305" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Adverse event" means an unexpected occurrence that:<section prefix="(i)">Is related to a resident's medical or behavioral treatment; and</section><section prefix="(ii)">Is not related to the natural course of the resident's illness or underlying disease condition.</section></section>
-      <section prefix="(3)">"Change in condition" means a significant change in a resident's physical, mental, or psychological status including:<section prefix="(i)">Life-threatening conditions;</section><section prefix="(ii)">Clinical complications including significant somatic symptoms that require the assessment of or treatment by qualified medical personnel;</section><section prefix="(iii)">The need to discontinue a medication or treatment because of:</section><section prefix="(iv)">Evaluation at or admission to a hospital;</section><section prefix="(v)">Injuries that require the assessment of or treatment by qualified medical personnel;</section><section prefix="(vi)">The use of restraint or seclusion; and</section><section prefix="(vii)">Suicide attempts.</section></section>
+      <section prefix="(3)">"Change in condition" means a significant change in a resident's physical, mental, or psychological status including:<section prefix="(i)">Life-threatening conditions;</section><section prefix="(ii)">Clinical complications including significant somatic symptoms that require the assessment of or treatment by qualified medical personnel;</section><section prefix="(iii)">The need to discontinue a medication or treatment because of:<section prefix="1.">Adverse consequences; or</section><section prefix="2.">The need to begin a new form of treatment;</section></section><section prefix="(iv)">Evaluation at or admission to a hospital;</section><section prefix="(v)">Injuries that require the assessment of or treatment by qualified medical personnel;</section><section prefix="(vi)">The use of restraint or seclusion; and</section><section prefix="(vii)">Suicide attempts.</section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">Within 24 hours, in accordance with State and federal confidentiality laws, a residential treatment center shall attempt to notify a resident and a resident's representative, family member, legal guardian, or custodian of:<section prefix="(i)">A change in condition;</section><section prefix="(ii)">An adverse event; and</section><section prefix="(iii)">Corrective action, if appropriate.</section></section>

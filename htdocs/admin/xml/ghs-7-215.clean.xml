@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-215" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-7-215</section_number>
-  <catch_line/>
+  <catch_line>If an assisted project includes a unit occupied by a designated household and the assisted project i...</catch_line>
+  <order_by>215</order_by>
   <text>If an assisted project includes a unit occupied by a designated household and the assisted project is sold or conveyed after a protected action:<section prefix=""><section prefix="(1)">the provisions of this subtitle concerning extended leases continue to apply despite the sale or conveyance;</section><section prefix="(2)">the new landlord shall provide each designated household with written notice of the sale or conveyance; and</section><section prefix="(3)">on or before the execution of a contract of sale, the seller shall provide the purchaser with written disclosure of each unit occupied by a designated household subject to the provisions concerning extended leases for designated households.</section></section></text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-104" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-104</section_number>
-  <catch_line/>
+  <catch_line>The Administration shall issue a license under this title to an applicant if:...</catch_line>
+  <order_by>104</order_by>
   <text>The Administration shall issue a license under this title to an applicant if:<section prefix=""><section prefix="(1)">The applicant has complied with the provisions of this title that apply to that license; and</section><section prefix="(2)">The applicant otherwise is entitled to a license.</section></section></text>
 </law>

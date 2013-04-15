@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-301" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-24-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Agreement" means a development rights and responsibilities agreement to establish the conditions under which development of real property may proceed that is:<section prefix="(1)">of a specified duration;</section><section prefix="(2)">made between:<section prefix="(i)">the county planning board or its designee;</section><section prefix="(ii)">a reviewing entity; and</section><section prefix="(iii)">a person having a legal or equitable interest in the property; and</section></section><section prefix="(3)">approved by the district council or the County Executive.</section></section>

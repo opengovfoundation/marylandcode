@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-202" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-25-202</section_number>
-  <catch_line/>
+  <catch_line>This subtitle applies to the following employers of agricultural labor, some or all of whom may not ...</catch_line>
+  <order_by>202</order_by>
   <text>This subtitle applies to the following employers of agricultural labor, some or all of whom may not be required to carry workers' compensation insurance:<section prefix=""><section prefix="(1)">members of a nonprofit agricultural association; and</section><section prefix="(2)">members of or stockholders in a nonprofit cooperative agricultural marketing association of producers.</section></section></text>
 </law>

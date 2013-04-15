@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-101" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-20-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "bottle club" means a premises or establishment that:<section prefix="(i)">Is subject to any license issued by the State or Anne Arundel County; and</section><section prefix="(ii)">Serves, gives, dispenses, keeps, or allows to be consumed by a patron alcoholic beverages from supplies that the patron purchased, reserved, or otherwise brought to the premises or establishment.</section></section>

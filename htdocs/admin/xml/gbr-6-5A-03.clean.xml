@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-5A-03" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-5A-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsections (c) and (f) of this section, on applying for registration as a public safety solicitor, an applicant shall execute and submit to the Secretary of State a bond in the sum of $25,000, with surety that the Secretary of State approves.</section>

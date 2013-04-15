@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-2-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">The Commission consists of 25 members appointed by the Governor with the advice and consent of the Senate.</section>
     <section prefix="(b)">Of the 25 members of the Commission:<section prefix="(1)">12 shall be appointed from among applicants who have been nominated and recommended for appointment by organizations located in the State whose interests relate to the status of women; and</section><section prefix="(2)">13 shall be appointed from among applicants applying on their own behalf.</section></section>

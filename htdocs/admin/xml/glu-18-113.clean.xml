@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-113" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-113</section_number>
-  <catch_line/>
+  <catch_line>The capital improvements program shall:...</catch_line>
+  <order_by>113</order_by>
   <text>The capital improvements program shall:<section prefix=""><section prefix="(1)">include a statement of the objectives of the capital programs and the relationship of the programs to the county's adopted long range development plans;</section><section prefix="(2)">recommend capital projects and a construction schedule;</section><section prefix="(3)">provide an estimate of cost and a statement of all funding sources; and</section><section prefix="(4)">include all programmed parkland acquisition, all major park improvement and development, and major acquisition of equipment.</section></section></text>
 </law>

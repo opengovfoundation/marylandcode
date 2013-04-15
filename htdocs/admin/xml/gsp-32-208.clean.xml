@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="32-208" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-32-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">An eligible employee, as defined in &#xA7; 32-101(b) of this title, of St. Mary's College of Maryland may not participate in the Optional Defined Contribution System, as provided in this title, if the employee is eligible to participate in a matching supplemental retirement defined contribution plan or a matching feature of a supplemental retirement plan adopted and administered by the Board of Trustees of St. Mary's College of Maryland.</section>
     <section prefix="(b)">The Board of Trustees of St. Mary's College of Maryland may adopt and administer for employees of St. Mary's College of Maryland:<section prefix="(1)">a matching supplemental retirement defined contribution plan; or</section><section prefix="(2)">a matching feature to another supplemental retirement plan adopted and administered by the Board of Trustees.</section></section>

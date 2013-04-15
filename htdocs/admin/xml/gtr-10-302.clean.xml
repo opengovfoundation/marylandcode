@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-302" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-10-302</section_number>
-  <catch_line/>
+  <catch_line>** CONTINGENCY - NOT IN EFFECT - CHAPTERS 494 OF 1995 AND 599 OF 1996 ** ...</catch_line>
+  <order_by>302</order_by>
   <text>** CONTINGENCY - NOT IN EFFECT - CHAPTERS 494 OF 1995 AND 599 OF 1996 ** </text>
 </law>

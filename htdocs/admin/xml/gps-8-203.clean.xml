@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-203" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-8-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The purpose of the Fund is to ensure adequate fire protection and rescue services in the State.</section>
     <section prefix="(b)">A grant or loan awarded under this section shall be used only for purchasing, replacing, or improving:<section prefix="(1)">equipment, including elevated equipment, pumpers, tankers, ladder trucks, ambulances, rescue vehicles, or other large equipment used for fire fighting and emergency services;</section><section prefix="(2)">communications equipment;</section><section prefix="(3)">protective equipment, including helmets, turnout coats and pants, boots, eyeshields, gloves, and self-contained respiratory protection units;</section><section prefix="(4)">any other equipment necessary to carry out the ordinary functions of supporting fire fighting and rescue activities; or</section><section prefix="(5)">facilities used to house fire fighting equipment, ambulances, and rescue vehicles.</section></section>

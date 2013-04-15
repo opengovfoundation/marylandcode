@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-403" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-9-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">If safe to install, reasonably practicable, and justified by the volume of business, a railroad company, on the application of a shipper, shall construct, maintain, and operate on reasonable terms:<section prefix="(1)">a switch connection or a connection with a lateral line of railroad or private sidetrack owned by the shipper; or</section><section prefix="(2)">a sidetrack and switch connection for the shipper on property owned by the railroad company.</section></section>
     <section prefix="(b)">The Commission shall regulate installation, maintenance, and compensation under this section.</section>

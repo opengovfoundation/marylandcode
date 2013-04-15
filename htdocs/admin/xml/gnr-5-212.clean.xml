@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-212" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">In this section, "Fund" means the Forest or Park Reserve Fund.</section>
     <section prefix="(b)">There is a Forest or Park Reserve Fund in the Department.</section>
@@ -17,7 +17,7 @@
     </section>
     <section prefix="(f)">The Fund consists of:<section prefix="(1)">Except as provided in &#xA7; 5-307(f)(4) of this title, any money obtained from the State forest reserves, State parks, scenic reserves, parkways, historic monuments, and recreation areas;</section><section prefix="(2)">Revenue distributed to the Fund from fines collected under &#xA7; 5-1302 of this title; and</section><section prefix="(3)">Revenue received by the Fund under &#xA7; 5-207(b) of this subtitle.</section></section>
     <section prefix="(g)">
-      <section prefix="(1)">The Fund may be used only for:<section prefix="(i)"/><section prefix="(ii)">Subject to paragraph (2) of this subsection, payments to counties in the amount of:</section><section prefix="(iii)">Administrative costs calculated in accordance with &#xA7; 1-103(b)(2) of this article.</section></section>
+      <section prefix="(1)">The Fund may be used only for:<section prefix="(i)"><section prefix="1.">Purchasing and managing in the name of the State lands suitable for forest culture, reserves, watershed protection, State parks, scenic preserves, historic monuments, parkways, and State recreational reserves; and</section><section prefix="2.">Helping to offset the costs to the Forest and Park Service for developing and implementing a forest health emergency contingency program under &#xA7; 5-307 of this title;</section></section><section prefix="(ii)">Subject to paragraph (2) of this subsection, payments to counties in the amount of:<section prefix="1.">If the State forest or park reserve comprises less than 10% of the total land area of the county, a sum equal to 15% of the revenue derived from the State forest or park reserve located in that county; and</section><section prefix="2.">If the State forest or park reserve comprises 10% or more of the total land area of the county, a sum equal to 25% of the revenue derived from the State forest or park reserve located in that county; and</section></section><section prefix="(iii)">Administrative costs calculated in accordance with &#xA7; 1-103(b)(2) of this article.</section></section>
       <section prefix="(2)">For fiscal years 2012 and 2013 only, the payments under paragraph (1)(ii) of this subsection shall be based only on the revenue derived from sales of timber.</section>
     </section>
     <section prefix="(h)">

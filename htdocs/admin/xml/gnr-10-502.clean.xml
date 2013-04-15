@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-502" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Any nonresident of the State who desires to trap furbearers, except otter or beaver, first shall procure a nonresident trapper's license in addition to any other license required. The license shall be issued only to residents of other states which grant the same trapping privileges to Maryland residents.</section>
     <section prefix="(b)">The license shall be:<section prefix="(1)">Issued for a $25.50 fee or a fee equal to that charged by the nonresident's home state for a similar license, whichever is greater;</section><section prefix="(2)">Issued in accordance with the procedures for issuing nonresident hunting licenses; and</section><section prefix="(3)">Effective for the same period as a hunter's license.</section></section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-806" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission shall impose an assessment of 6.5%, payable to the Subsequent Injury Fund, on:<section prefix="(i)">each award against an employer or its insurer for permanent disability or death, including awards for disfigurement and mutilation;</section><section prefix="(ii)">except as provided in paragraph (2) of this subsection, each amount payable by an employer or its insurer under a settlement agreement approved by the Commission; and</section><section prefix="(iii)">each amount payable under item (i) or (ii) of this paragraph by the Property and Casualty Guaranty Corporation on behalf of an insolvent insurer.</section></section>
-      <section prefix="(2)">The amount of medical benefits specified in a formal set-aside allocation that is part of an approved settlement agreement shall be excluded from the assessment imposed by the Commission under paragraph (1)(ii) of this subsection if:<section prefix="(i)"/><section prefix="(ii)"/></section>
+      <section prefix="(2)">The amount of medical benefits specified in a formal set-aside allocation that is part of an approved settlement agreement shall be excluded from the assessment imposed by the Commission under paragraph (1)(ii) of this subsection if:<section prefix="(i)"><section prefix="1.">the amount of medical benefits is in excess of $50,000; and</section><section prefix="2.">the payment of medical benefits by the employer or its insurer is directly to an authorized insurer that provides periodic payments to the covered employee pursuant to a single premium annuity; or</section></section><section prefix="(ii)"><section prefix="1.">the amount of medical benefits is in any amount; and</section><section prefix="2.">the payment of medical benefits by the employer or its insurer is to an independent third-party administrator that controls and pays the medical services in accordance with the formal set-aside allocation, provided there is no reversionary interest to the covered employee or the covered employee's beneficiaries.</section></section></section>
     </section>
     <section prefix="(b)">In computing the amount of an assessment, the Commission shall round off any fractional dollar to the nearest whole dollar.</section>
     <section prefix="(c)">Payment of an assessment under this section is in addition to any payment of compensation to a covered employee who has sustained an accidental personal injury, occupational disease, or compensable hernia or a dependent of the covered employee, as provided in this title.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-803" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-11-803</section_number>
-  <catch_line/>
+  <catch_line>The Maryland Digital Library, in collaboration with the county libraries, Enoch Pratt Free Library, ...</catch_line>
+  <order_by>803</order_by>
   <text>The Maryland Digital Library, in collaboration with the county libraries, Enoch Pratt Free Library, the Maryland State Archives, and elementary and secondary school libraries, may develop programs to support all residents of the State.</text>
 </law>

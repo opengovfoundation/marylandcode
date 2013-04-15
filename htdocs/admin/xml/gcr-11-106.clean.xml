@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-11-106</section_number>
-  <catch_line/>
+  <catch_line>For purposes of &#xA7;&#xA7; 11-101 through 11-105 of this subtitle, an employee of a person who operates pr...</catch_line>
+  <order_by>106</order_by>
   <text>For purposes of &#xA7;&#xA7; 11-101 through 11-105 of this subtitle, an employee of a person who operates premises where a public display violates this subtitle is presumed to have been the operator of the premises when the violation occurred if the employee was on the premises at the time of the violation.</text>
 </law>

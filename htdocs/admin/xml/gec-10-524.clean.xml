@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-524" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-524</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>524</order_by>
   <text>
     <section prefix="(a)">A debt, claim, obligation, or liability of the Corporation, whenever incurred, is the debt, claim, obligation, or liability of the Corporation only and not of the State, a unit or instrumentality of the State, or a State officer or employee.</section>
     <section prefix="(b)">A debt, claim, obligation, or liability of the Corporation may not be considered a debt of the State or a pledge of its credit.</section>

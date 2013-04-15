@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-218" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-218</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218</order_by>
   <text>
     <section prefix="(a)">An officer or other employee of the Division may not:<section prefix="(1)">accept a reward or gift, or a promise of a reward or gift, from an inmate in a correctional facility in the Division or from a person on behalf of an inmate;</section><section prefix="(2)">receive a devise or bequest, or a promise of a devise or bequest, from an inmate in a correctional facility in the Division or from a person on behalf of an inmate; or</section><section prefix="(3)">enter into a contract with an inmate in a correctional facility in the Division or with a person on behalf of an inmate.</section></section>
     <section prefix="(b)">A gift, reward, bequest, devise, promise, or contract accepted, received, or entered into in violation of this section is void.</section>

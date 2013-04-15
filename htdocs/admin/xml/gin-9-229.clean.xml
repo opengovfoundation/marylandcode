@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-229" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-229</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>229</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, in all cases of mutual debts and credits between an insurer and another person in connection with a delinquency proceeding, the debts and credits shall be offset and the balance only shall be allowed or paid.</section>
     <section prefix="(b)">An offset may not be allowed in favor of another person if:<section prefix="(1)">on the date of issuance of a liquidation order or otherwise, as specified in &#xA7; 9-228(e) of this subtitle, the obligation of the insurer to the person would not entitle the person to share as a claimant in the assets of the insurer;</section><section prefix="(2)">the obligation of the insurer to the person was purchased by or transferred to the person for use as an offset; or</section><section prefix="(3)">the obligation of the person is to pay:<section prefix="(i)">an assessment imposed on the members of a mutual insurer or the subscribers of a reciprocal insurer; or</section><section prefix="(ii)">a balance on the subscription to the capital stock of a stock insurer.</section></section></section>

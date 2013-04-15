@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-317" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-317</section_number>
-  <catch_line/>
+  <catch_line>If goods are levied on under distress and remain on the leased premises and the officer is unable to...</catch_line>
+  <order_by>317</order_by>
   <text>If goods are levied on under distress and remain on the leased premises and the officer is unable to gain access to the goods without force, the court may issue an order authorizing the officer to enter the premises by force.</text>
 </law>

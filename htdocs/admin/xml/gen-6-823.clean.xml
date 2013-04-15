@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-823" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-823</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>823</order_by>
   <text>
     <section prefix="(a)">By May 23, 1996, an owner of an affected property shall give to the tenant of each of the owner's affected properties a lead poisoning information packet prepared or designated by the Department.</section>
     <section prefix="(b)">On or after February 24, 1996, upon the execution of a lease or the inception of a tenancy for an affected property the owner of the affected property shall give to the tenant a lead poisoning information packet prepared or designated by the Department.</section>

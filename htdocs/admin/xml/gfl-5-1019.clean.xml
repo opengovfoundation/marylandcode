@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1019" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-1019</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1019</order_by>
   <text>
     <section prefix="(a)">Before or after a complaint is filed under this subtitle, the State's Attorney may hold a pretrial inquiry.</section>
     <section prefix="(b)">In connection with any pretrial inquiry under this section, the State's Attorney may:<section prefix="(1)">issue a summons that requires a person, other than the alleged father, to appear, to testify, and to produce documents connected with the examination;</section><section prefix="(2)">administer oaths;</section><section prefix="(3)">examine witnesses; and</section><section prefix="(4)">receive evidence.</section></section>

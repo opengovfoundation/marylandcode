@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-502" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-8-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">This section applies to the placement on the ballot in the primary election of the names of individuals who are candidates for nomination by principal political parties to the office of President of the United States.</section>
     <section prefix="(b)">An individual who desires to run in the primary election may be placed on the ballot only:<section prefix="(1)">by direction of the Secretary of State in accordance with subsection (c) of this section; or</section><section prefix="(2)">by filing, in accordance with subsection (d) of this section, a petition containing the signatures of at least 400 registered voters from each congressional district in the State.</section></section>

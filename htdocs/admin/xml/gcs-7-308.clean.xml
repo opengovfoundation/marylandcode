@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-308" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">A parole shall be evidenced by a written order.</section>
     <section prefix="(b)">Parole entitles the recipient:<section prefix="(1)">to leave the correctional facility in which the recipient was confined; and</section><section prefix="(2)">if the recipient satisfactorily complies with all the terms and conditions provided in the parole order, to serve the remainder of the recipient's term of confinement outside the confines of the correctional facility.</section></section>

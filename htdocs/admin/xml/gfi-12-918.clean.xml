@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-918" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-918</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>918</order_by>
   <text>
     <section prefix="(a)">With respect to the provision of debt management services, a licensee may not impose any fees or other charges on a consumer, or receive any funds or other payments from a consumer or another person on behalf of a consumer:<section prefix="(1)">Except as provided in subsections (g)(3) and (i) of this section, until after the licensee and consumer have executed a debt management services agreement; and</section><section prefix="(2)">Only as allowed under this section.</section></section>
     <section prefix="(b)">
@@ -23,7 +23,7 @@
       <section prefix="(2)">A licensee may accept a voluntary contribution from a consumer for a debt management service provided by the licensee to the consumer if the aggregate amount of the voluntary contribution and any other fees received by the licensee from the consumer for debt management services does not exceed the total amount the licensee is authorized to charge the consumer under subsections (b) and (c) of this section.</section>
     </section>
     <section prefix="(g)">
-      <section prefix="(1)">Before providing debt management services to a consumer, a licensee shall provide the consumer a list of services and their charges describing:<section prefix="(i)">Those services that the licensee offers:</section><section prefix="(ii)">Those services that the licensee offers for a charge that are not offered as a part of debt management services.</section></section>
+      <section prefix="(1)">Before providing debt management services to a consumer, a licensee shall provide the consumer a list of services and their charges describing:<section prefix="(i)">Those services that the licensee offers:<section prefix="1.">Free of charge if the consumer enters into a debt management services agreement with the licensee; and</section><section prefix="2.">For a charge if the consumer does not enter into a debt management services agreement with the licensee; and</section></section><section prefix="(ii)">Those services that the licensee offers for a charge that are not offered as a part of debt management services.</section></section>
       <section prefix="(2)">A licensee may not, as a condition of entering into a debt management services agreement, require a consumer to purchase for a fee a counseling session, an educational program, or materials and supplies.</section>
       <section prefix="(3)">A licensee may charge a consumer a fee for a counseling session, an educational program, or materials and supplies if the consumer does not enter into a debt management services agreement with the licensee.</section>
     </section>

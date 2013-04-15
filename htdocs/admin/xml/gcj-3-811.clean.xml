@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-811" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-811</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>811</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A CINA petition under this subtitle shall allege that a child is in need of assistance and shall set forth in clear and simple language the facts supporting that allegation.</section>

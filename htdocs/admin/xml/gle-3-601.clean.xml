@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-601" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
-    <section prefix="(b)">"Commission" means compensation that:<section prefix="(1)">is due to a sales representative from a principal; and</section><section prefix="(2)">accrues at:<section prefix="(i)">a specified amount for each order or sale; or</section><section prefix="(ii)">a rate expressed as a percentage of the dollar amount that a sales representative:</section></section></section>
+    <section prefix="(b)">"Commission" means compensation that:<section prefix="(1)">is due to a sales representative from a principal; and</section><section prefix="(2)">accrues at:<section prefix="(i)">a specified amount for each order or sale; or</section><section prefix="(ii)">a rate expressed as a percentage of the dollar amount that a sales representative:<section prefix="1.">takes in orders for the principal;</section><section prefix="2.">makes in sales for the principal; or</section><section prefix="3.">earns in profits for the principal.</section></section></section></section>
     <section prefix="(c)">"Principal" means a sales corporation, partnership, proprietorship, or other business entity that:<section prefix="(1)">distributes, imports, manufactures, or produces a product for wholesale;</section><section prefix="(2)">enters into a contract with a sales representative to solicit a wholesale order for the product; and</section><section prefix="(3)">pays the sales representative wholly or partly by commission.</section></section>
     <section prefix="(d)">
       <section prefix="(1)">"Sales representative" means a person who:<section prefix="(i)">enters into a contract with a principal to solicit in the State a wholesale order; and</section><section prefix="(ii)">is paid wholly or partly by commission.</section></section>

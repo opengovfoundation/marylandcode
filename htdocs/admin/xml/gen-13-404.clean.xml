@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-404" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-13-404</section_number>
-  <catch_line/>
+  <catch_line>The Attorney General shall represent this State in each case that arises under this title, including...</catch_line>
+  <order_by>404</order_by>
   <text>The Attorney General shall represent this State in each case that arises under this title, including the recovery of penalties.</text>
 </law>

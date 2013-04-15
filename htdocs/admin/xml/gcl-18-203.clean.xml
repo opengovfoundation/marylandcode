@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-18-203</section_number>
-  <catch_line/>
+  <catch_line>A person may not negotiate or transfer for value a bill of lading:...</catch_line>
+  <order_by>203</order_by>
   <text>A person may not negotiate or transfer for value a bill of lading:<section prefix=""><section prefix="(1)">With intent to defraud;</section><section prefix="(2)">With knowledge that any of the goods which appear by the terms of the bill of lading to have been received for transportation by the carrier which issued the bill of lading are not in the possession or control of the carrier or a connecting carrier; and</section><section prefix="(3)">Without disclosing the lack of possession and control.</section></section></text>
 </law>

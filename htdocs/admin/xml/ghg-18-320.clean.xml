@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-320" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-320</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>320</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (e) of this section, an apparently healthy dog, cat, or ferret that has been adequately vaccinated against rabies in accordance with &#xA7; 18-318 of this subtitle or any other animal that bites a human or otherwise exposes a human to rabies shall be quarantined as provided in subsection (b) of this section.</section>
     <section prefix="(b)">An animal under quarantine shall be quarantined in a place, which may include the residence of the owner, in the manner designated by the local health officer or the public health veterinarian for a suitable period as determined by the health officer or the public health veterinarian.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">If a court as a matter of law finds a contract or a term thereof to have been unconscionable at the time it was made, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable term, or limit the application of the unconscionable term so as to avoid an unconscionable result.</section>
     <section prefix="(b)">If it is claimed or appears to the court that a contract or term thereof may be unconscionable, the parties must be afforded a reasonable opportunity to present evidence as to its commercial setting, purpose, and effect to aid the court in making the determination.</section>

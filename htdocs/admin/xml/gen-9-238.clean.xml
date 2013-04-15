@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-238" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-238</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>238</order_by>
   <text>
     <section prefix="(a)">A sewage sludge utilization permit expires on the date the Department sets at the time of issuance or renewal, unless the permit is renewed for another term as provided in this section.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, the Department may renew a sewage sludge utilization permit if the permit holder:<section prefix="(1)">Is in compliance with the permit and all appropriate regulations of the Department;</section><section prefix="(2)">Submits to the Department a renewal application on the form that the Department requires; and</section><section prefix="(3)">Pays the renewal application fee that the Department requires.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-116" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">Within 10 days after the hearing ends, the Office shall prepare a report of recommendations to the court that contains:<section prefix="(1)">a summary of the evidence presented at the hearing;</section><section prefix="(2)">recommendations of the Office as to whether the committed person proved, by a preponderance of the evidence, eligibility for conditional release or eligibility for discharge; and</section><section prefix="(3)">if the Office determines that the committed person proved eligibility for conditional release, the recommended conditions of the release in accordance with subsection (b) of this section.</section></section>
     <section prefix="(b)">In recommending the conditions of a conditional release, the Office shall give consideration to any specific conditions recommended by the facility of the Health Department that has charge of the committed person, the committed person, or counsel for the committed person.</section>

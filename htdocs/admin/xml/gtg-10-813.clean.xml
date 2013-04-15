@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-813" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-813</section_number>
-  <catch_line/>
+  <catch_line>Each fiduciary who has Maryland taxable income and is required to file a federal income tax return s...</catch_line>
+  <order_by>813</order_by>
   <text>Each fiduciary who has Maryland taxable income and is required to file a federal income tax return shall file an income tax return.</text>
 </law>

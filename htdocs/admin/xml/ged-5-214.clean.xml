@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-214" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The State Board may accept for the State:<section prefix="(i)">Any appropriation of money for educational purposes and subsidized or free feeding programs for the public schools that is made out of the federal treasury by an act of Congress; and</section><section prefix="(ii)">Any additional funds directed to the State Board by an act of Congress or federal regulation.</section></section>

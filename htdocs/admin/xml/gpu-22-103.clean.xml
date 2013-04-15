@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-103" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-22-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the aggregate principal amount of bonds outstanding at any time that will not reach full maturity within 5 years from the date of issue may not exceed the greater of:<section prefix="(1)">the sum of:<section prefix="(i)">3.8% of the total assessable base of all real property assessed for county tax purposes within the sanitary district; and</section><section prefix="(ii)">7% of the total assessable personal property and operating real property described under &#xA7; 8-109(c) of the Tax - Property Article assessed for county tax purposes within the sanitary district; or</section></section><section prefix="(2)">the sum of:<section prefix="(i)">3.8% of the total assessable base of all real property assessed for county tax purposes within the sanitary district as of July 1, 1997; and</section><section prefix="(ii)">7% of the total assessable personal property and operating real property described under &#xA7; 8-109(c) of the Tax - Property Article assessed for county tax purposes within the sanitary district as of July 1, 1997.</section></section></section>
     <section prefix="(b)">
       <section prefix="(1)">In this subsection, "government obligation" means:<section prefix="(i)">a direct obligation of the United States; or</section><section prefix="(ii)">an obligation unconditionally guaranteed as to principal and interest by the United States.</section></section>
-      <section prefix="(2)">To calculate the maximum debt authorized under this section, the aggregate amount of bonds outstanding is reduced by:<section prefix="(i)">the amount held in the joint sinking fund account for the payment of principal of the bonds; and</section><section prefix="(ii)">the amount of any bond for which there is irrevocably deposited:</section></section>
+      <section prefix="(2)">To calculate the maximum debt authorized under this section, the aggregate amount of bonds outstanding is reduced by:<section prefix="(i)">the amount held in the joint sinking fund account for the payment of principal of the bonds; and</section><section prefix="(ii)">the amount of any bond for which there is irrevocably deposited:<section prefix="1.">cash; or</section><section prefix="2.">government obligations maturing as to principal and interest at times and in amounts sufficient to provide adequate and complete payment of the principal or redemption price and interest as required on the bond.</section></section></section>
     </section>
     <section prefix="(c)">Except as otherwise provided by an act of the General Assembly of Maryland, the maximum debt level authorized under this section applies to any bond issued under an act of the General Assembly of Maryland enacted on or after July 1, 1997.</section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-101" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-11-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this Division II the following words have the meanings indicated unless:<section prefix="(1)">the context clearly requires a different meaning; or</section><section prefix="(2)">a different definition is provided for a particular title or provision.</section></section>
     <section prefix="(b)">
@@ -40,7 +40,7 @@
     </section>
     <section prefix="(n)">
       <section prefix="(1)">"Procurement contract" means an agreement in any form entered into by a unit for procurement.</section>
-      <section prefix="(2)">"Procurement contract" does not include:<section prefix="(i)">a collective bargaining agreement with an employee organization;</section><section prefix="(ii)">an agreement with a contractual employee, as defined in &#xA7; 1-101(d) of the State Personnel and Pensions Article;</section><section prefix="(iii)">a Medicaid, Judicare, or similar reimbursement contract for which law sets:</section><section prefix="(iv)">a Medicaid contract with a managed care organization, as defined in &#xA7; 15-101(e) of the Health - General Article as to which regulations adopted by the Department establish:</section></section>
+      <section prefix="(2)">"Procurement contract" does not include:<section prefix="(i)">a collective bargaining agreement with an employee organization;</section><section prefix="(ii)">an agreement with a contractual employee, as defined in &#xA7; 1-101(d) of the State Personnel and Pensions Article;</section><section prefix="(iii)">a Medicaid, Judicare, or similar reimbursement contract for which law sets:<section prefix="1.">user or recipient eligibility; and</section><section prefix="2.">price payable by the State; or</section></section><section prefix="(iv)">a Medicaid contract with a managed care organization, as defined in &#xA7; 15-101(e) of the Health - General Article as to which regulations adopted by the Department establish:<section prefix="1.">recipient eligibility;</section><section prefix="2.">minimum qualifications for managed care organizations; and</section><section prefix="3.">criteria for enrolling recipients in managed care organizations.</section></section></section>
     </section>
     <section prefix="(o)">"Procurement officer" means an individual authorized by a unit to:<section prefix="(1)">enter into a procurement contract;</section><section prefix="(2)">administer a procurement contract; or</section><section prefix="(3)">make determinations and findings with respect to a procurement contract.</section></section>
     <section prefix="(p)">"Proposal" means a response to any solicitation other than an invitation for bids.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-302" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-31-302</section_number>
-  <catch_line/>
+  <catch_line>The legislative body of a participating governmental unit may withdraw from participation in a State...</catch_line>
+  <order_by>302</order_by>
   <text>The legislative body of a participating governmental unit may withdraw from participation in a State system and transfer to a local pension system or another State system any of the following groups of employees of the governmental unit who consent to the withdrawal, and who qualify for membership in the State system or local pension system:<section prefix=""><section prefix="(1)">all employees of the participating governmental unit;</section><section prefix="(2)">fire fighters;</section><section prefix="(3)">law enforcement personnel;</section><section prefix="(4)">detention center officers; or</section><section prefix="(5)">subject to the approval of the Board of Trustees, a homogeneous unit of at least 10 employees.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-507" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">Unless the charter provides for a greater or lesser number of votes per share or limits or denies voting rights, each outstanding share of stock, regardless of class, is entitled to one vote on each matter submitted to a vote at a meeting of stockholders. However, a share is not entitled to be voted if any installment payable on it is overdue and unpaid.</section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
         <section prefix="(ii)">Signing may be accomplished by the stockholder or the stockholder's authorized agent signing the writing or causing the stockholder's signature to be affixed to the writing by any reasonable means, including facsimile signature.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, a stockholder may authorize another person to act as proxy by transmitting, or authorizing the transmission of, an authorization for the person to act as proxy to:</section>
+        <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, a stockholder may authorize another person to act as proxy by transmitting, or authorizing the transmission of, an authorization for the person to act as proxy to:<section prefix="1.">The person authorized to act as proxy; or</section><section prefix="2.">Any other person authorized to receive the proxy authorization on behalf of the person authorized to act as the proxy, including a proxy solicitation firm or proxy support service organization.</section></section>
         <section prefix="(ii)">The authorization may be transmitted by a telegram, cablegram, datagram, electronic mail, or any other electronic or telephonic means.</section>
       </section>
       <section prefix="(4)">A copy, facsimile telecommunication, or other reliable reproduction of the writing or transmission authorized under paragraphs (2) and (3) of this subsection may be substituted for the original writing or transmission for any purpose for which the original writing or transmission could be used.</section>

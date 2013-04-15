@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-206" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">The Administration may confer or hold joint hearings with any federal agency in connection with any matter that:<section prefix="(1)">Arises under this title; or</section><section prefix="(2)">Relates to the sound development of aeronautics.</section></section>
     <section prefix="(b)">To the extent practicable, the Administration:<section prefix="(1)">May use the cooperation, services, records, and facilities of federal agencies in the administration and enforcement of this title; and</section><section prefix="(2)">Shall furnish to federal agencies its cooperation, services, records, and facilities.</section></section>

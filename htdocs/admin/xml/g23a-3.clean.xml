@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g23a" order_by="" level="1"/>
-    <unit label="chapter" identifier="3" order_by="" level="2"/>
+    <unit label="article" identifier="g23a" order_by="" level="1">Corporations - Municipal</unit>
   </structure>
   <section_number>g23a-3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>3</order_by>
   <text>
     <section prefix="(a)">The legislative body of any municipality shall have power to provide that violations of ordinances and resolutions authorized by this article shall be punishable as misdemeanors, but no penalty shall exceed a fine of $1,000 and imprisonment for 6 months. Imprisonment in default of fine and costs shall be regulated by the provisions of &#xA7;&#xA7; 7-504 and 7-505 of the Courts Article.</section>
     <section prefix="(b)">
       <section prefix="(1)">The legislative body of a municipality may provide that violations of any municipal ordinance shall be a "municipal infraction" unless the violation is declared to be a felony or a misdemeanor by State law. In addition, the legislative body of a municipality may classify as a "municipal infraction": (i) a violation of any zoning or land use ordinance or regulation authorized to be adopted or enacted by that municipality; and (ii) littering within the municipality as prohibited under &#xA7; 10-110 of the Criminal Law Article. For purposes of this article a municipal infraction is a civil offense.</section>
       <section prefix="(2)">A fine not to exceed $1,000 may be imposed for each municipal infraction. The fine is payable to the municipality by the person charged in the citation within 20 calendar days of service of the citation.</section>
       <section prefix="(3)">
-        <section prefix="(i)">Those officials authorized by the legislative body of the municipality to act as enforcement officers may serve a citation on any person:</section>
-        <section prefix="(ii)">The citation shall be served on the defendant:</section>
-        <section prefix="(iii)">The citation shall contain:</section>
+        <section prefix="(i)">Those officials authorized by the legislative body of the municipality to act as enforcement officers may serve a citation on any person:<section prefix="1.">Whom they believe is committing or has committed a municipal infraction; or</section><section prefix="2.">On the basis of an affidavit submitted to an appropriate official of the municipality, to be named by the municipality, citing the facts of the alleged infraction.</section></section>
+        <section prefix="(ii)">The citation shall be served on the defendant:<section prefix="1.">In accordance with Maryland Rule 3-121; or</section><section prefix="2.">For real property-related violations, if proof is made by affidavit that good faith efforts to serve the defendant under Maryland Rule 3-121(a) have not succeeded, by:</section></section>
+        <section prefix="(iii)">The citation shall contain:<section prefix="1.">The enforcement officer's certification:</section><section prefix="2.">The name and address of the person charged;</section><section prefix="3.">The nature of the infraction;</section><section prefix="4.">The location and time that the infraction occurred;</section><section prefix="5.">The amount of the infraction fine assessed;</section><section prefix="6.">The manner, location, and time in which the fine may be paid to the municipality;</section><section prefix="7.">The person's right to elect to stand trial for the infraction; and</section><section prefix="8.">The effect of failing to pay the assessed fine or demand a trial within the prescribed time.</section></section>
         <section prefix="(iv)">The enforcement officer shall retain a copy of the citation.</section>
       </section>
       <section prefix="(4)">
@@ -29,12 +29,17 @@
         <section prefix="(iv)">The defendant's failure to respond to such summons shall result in the entry of judgment against the defendant in favor of the municipality in the amount then due if a proper demand for judgment on affidavit has been made.</section>
       </section>
       <section prefix="(6)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)">If the defendant fails to pay the fine as provided in the citation and fails to appear in District Court as provided in the summons:</section>
+        <section prefix="(i)">
+          <section prefix="1.">An enforcement officer may also serve a summons with a citation that requires the person to appear in District Court on a specified date and time.</section>
+          <section prefix="2.">The summons shall specify that the person is not required to appear in District Court if the fine is paid as provided in the citation.</section>
+          <section prefix="3.">If approved by the Chief Judge of the Maryland District Court, the citation form may contain the summons.</section>
+          <section prefix="4.">The enforcement officer shall coordinate the selection of court dates with the appropriate District Court officials.</section>
+        </section>
+        <section prefix="(ii)">If the defendant fails to pay the fine as provided in the citation and fails to appear in District Court as provided in the summons:<section prefix="1.">The municipality may double the fine to an amount not to exceed $1,000; and</section><section prefix="2.">The Court may enter judgment against the defendant in the amount then due if the proper demand for judgment on affidavit has been made.</section></section>
       </section>
-      <section prefix="(7)">If any person shall be found by the District Court to have committed a municipal infraction:<section prefix="(i)"/><section prefix="(ii)">The District Court may suspend or defer the payment of any fine under conditions that the Court sets;</section><section prefix="(iii)">The person shall be liable for the costs of the proceedings in the District Court; and</section><section prefix="(iv)">The Court may order the person to abate the infraction or enter an order permitting a municipality to abate any such infraction at the person's expense.</section></section>
+      <section prefix="(7)">If any person shall be found by the District Court to have committed a municipal infraction:<section prefix="(i)"><section prefix="1.">The District Court shall order the person to pay the fine, including any doubling of the fine, not to exceed the limits under paragraph (2) of this subsection;</section><section prefix="2.">The fines imposed shall constitute a judgment in favor of the municipality; and</section><section prefix="3.">If the fine remains unpaid for 30 days following the date of its entry, the judgment shall be enforceable in the same manner and to the same extent as other civil judgments for money unless the Court has suspended or deferred the payment of the fine as provided under subparagraph (ii) of this paragraph;</section></section><section prefix="(ii)">The District Court may suspend or defer the payment of any fine under conditions that the Court sets;</section><section prefix="(iii)">The person shall be liable for the costs of the proceedings in the District Court; and</section><section prefix="(iv)">The Court may order the person to abate the infraction or enter an order permitting a municipality to abate any such infraction at the person's expense.</section></section>
       <section prefix="(8)">
-        <section prefix="(i)">If a municipality abates an infraction pursuant to an order of the District Court, the municipality shall present the defendant with a bill for the cost of abatement by:</section>
+        <section prefix="(i)">If a municipality abates an infraction pursuant to an order of the District Court, the municipality shall present the defendant with a bill for the cost of abatement by:<section prefix="1.">Regular mail to the defendant's last known address; or</section><section prefix="2.">Any other means that are reasonably calculated to bring the bill to the defendant's attention.</section></section>
         <section prefix="(ii)">If the defendant does not pay the bill within 30 days after presentment, upon a motion of the municipality, the District Court shall enter a judgment against the defendant for the cost of the abatement.</section>
       </section>
       <section prefix="(9)">All fines, penalties, or forfeitures collected by the District Court for a municipal infraction shall be remitted to the municipality in which the infraction occurred.</section>

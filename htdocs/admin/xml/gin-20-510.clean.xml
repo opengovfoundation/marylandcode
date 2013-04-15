@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-510" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-510</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>510</order_by>
   <text>
     <section prefix="(a)">Each fund producer is a fiduciary as to all premiums, return premiums, or other money that the fund producer receives from any person in connection with a policy or policy application issued by, to be issued by, or bound in the Fund.</section>
     <section prefix="(b)">Each fund producer shall deposit as trust money into an account for premiums all money received under subsection (a) of this section to be accounted for and paid over to the Fund as the law requires.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-723" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-723</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>723</order_by>
   <text>
     <section prefix="(a)">At all times, each health maintenance organization is subject to the supervision of the Commissioner and the Department as provided in this subtitle.</section>
     <section prefix="(b)">Any health maintenance organization that contracts with the Department and is subject to this subtitle shall act in concert with the Department or with the written consent of the Department concerning all information that the Commissioner requires.</section>

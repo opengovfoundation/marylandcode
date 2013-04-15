@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-310" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-13-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, a physical therapist assistant license authorizes the licensee to practice limited physical therapy while the license is effective.</section>
     <section prefix="(b)">A licensed physical therapist assistant may practice limited physical therapy only under the direction of a licensed physical therapist who gives ongoing supervision and instruction that is adequate to ensure the safety and welfare of the patient.</section>

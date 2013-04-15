@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-131" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-131</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>131</order_by>
   <text>
     <section prefix="(a)">A person may not distribute Salvia divinorum to an individual under the age of 21 years.</section>
     <section prefix="(b)">In a prosecution for a violation of this section, it is a defense that the defendant examined the purchaser's or recipient's driver's license or other valid identification issued by an employer, a government unit, or an institution of higher education that positively identified the purchaser or recipient as at least 21 years of age.</section>

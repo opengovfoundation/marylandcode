@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-207" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-25-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (e) of this section, if an abandoned vehicle is not reclaimed as provided for in this subtitle, the police department shall sell the vehicle at public auction.</section>
     <section prefix="(b)">The buyer of the vehicle at auction:<section prefix="(1)">Takes ownership of the vehicle free and clear of any claim of ownership or lien of any other person;</section><section prefix="(2)">Is entitled to a sales receipt, on a form that is approved by the Administration, from the police department;</section><section prefix="(3)">Is entitled to obtain a salvage certificate for the vehicle; and</section><section prefix="(4)">May obtain a certificate of title under &#xA7; 13-507 of this article.</section></section>

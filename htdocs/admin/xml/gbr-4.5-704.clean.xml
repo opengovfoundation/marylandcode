@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-704" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the provisions of subsection (c) of this section, a home builder shall pay to a county or a municipal corporation a Guaranty Fund fee per home or residential unit as set by the Division under subsection (c) of this section with each application for a permit for construction of a new home or multiple-unit development.</section>

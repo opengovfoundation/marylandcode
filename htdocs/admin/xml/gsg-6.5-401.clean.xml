@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="6.5-401" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-6.5-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">There is a Maryland Health Care Trust.</section>
       <section prefix="(2)">The Trust is a body corporate, subject to modification or termination by the General Assembly.</section>
-      <section prefix="(3)">The purpose of the Trust is to:<section prefix="(i)">be of general benefit to the residents of the State;</section><section prefix="(ii)">be charitable in nature; and</section><section prefix="(iii)">accept and retain moneys for future expenditures to be used to implement Acts of the General Assembly, other than the State budget bill, that:</section></section>
+      <section prefix="(3)">The purpose of the Trust is to:<section prefix="(i)">be of general benefit to the residents of the State;</section><section prefix="(ii)">be charitable in nature; and</section><section prefix="(iii)">accept and retain moneys for future expenditures to be used to implement Acts of the General Assembly, other than the State budget bill, that:<section prefix="1.">improve the health status of residents of the State; and</section><section prefix="2.">specifically direct the use of assets of the Trust.</section></section></section>
       <section prefix="(4)">Moneys expended from the Trust are supplemental to, and are not intended to take the place of, State funds that would otherwise be appropriated by the State for the improvement of the health care status of the residents of the State.</section>
     </section>
     <section prefix="(b)">

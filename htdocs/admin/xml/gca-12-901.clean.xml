@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-901" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-12-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">Subject to the Maryland Constitution:<section prefix="(1)">The laws of the jurisdiction under which a foreign statutory trust is formed govern its organization, internal affairs, and the liability of its trustees; and</section><section prefix="(2)">A foreign statutory trust may not be denied registration by reason of any difference between the laws under which the foreign statutory trust is formed and the laws of this State.</section></section>
     <section prefix="(b)">A foreign statutory trust may not do any kind of intrastate, interstate, or foreign business in this State which the laws of this State prohibit a domestic statutory trust from doing.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-907" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-907</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>907</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person may not knowingly and willfully fail to comply with any order, regulation, or directive issued in accordance with &#xA7; 18-905 of this subtitle.</section>

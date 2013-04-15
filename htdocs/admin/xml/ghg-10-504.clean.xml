@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-504" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-504</section_number>
-  <catch_line/>
+  <catch_line>To qualify for a license, an applicant shall:...</catch_line>
+  <order_by>504</order_by>
   <text>To qualify for a license, an applicant shall:<section prefix=""><section prefix="(1)">Have a certificate of accreditation from the Joint Commission on Accreditation of Hospitals for the private inpatient facility to be operated; or</section><section prefix="(2)">Meet the requirements that the Secretary adopts under this subtitle.</section></section></text>
 </law>

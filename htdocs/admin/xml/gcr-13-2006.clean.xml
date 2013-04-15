@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2006" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2006</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2006</order_by>
   <text>
     <section prefix="(a)">A person who violates a provision of &#xA7; 13-2002, &#xA7; 13-2003, or &#xA7; 13-2004 of this subtitle is guilty of a misdemeanor and on conviction is subject to imprisonment not exceeding 1 year or a fine not exceeding $1,000 or both.</section>
     <section prefix="(b)">Each day that a person violates this section is a separate violation.</section>

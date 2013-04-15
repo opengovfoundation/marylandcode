@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-206.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-206.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206.1</order_by>
   <text>
     <section prefix="(a)">Within 30 days of receipt, a national banking association located in the State, a banking institution, or an other-state bank that maintains a branch in this State shall submit to the Commissioner a copy of the public portion of its most recent Community Reinvestment Act performance evaluation prepared by the federal regulatory agency that examines the association, institution, or bank, together with a copy of any written response to the evaluation prepared by the association, institution, or bank for its public Community Reinvestment Act file.</section>
     <section prefix="(b)">

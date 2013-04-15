@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-407" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-407</section_number>
-  <catch_line/>
+  <catch_line>A committee may:...</catch_line>
+  <order_by>407</order_by>
   <text>A committee may:<section prefix=""><section prefix="(1)">report to the Commissioner of Correction and the Governor about the concerns of the people who reside in the vicinity of each State correctional facility assigned to the committee;</section><section prefix="(2)">be available to interpret programs and problems relating to each State correctional facility assigned to the committee to the people who reside in the vicinity of each facility; and</section><section prefix="(3)">perform other services and responsibilities considered necessary.</section></section></text>
 </law>

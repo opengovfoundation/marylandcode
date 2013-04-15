@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1303" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1303</order_by>
   <text>
     <section prefix="(a)">In addition to any other requirements under this article, a carrier that offers individual health benefit plans in this State shall:<section prefix="(1)">have demonstrated the capacity to administer the individual health benefit plans, including adequate numbers and types of administrative staff;</section><section prefix="(2)">have a satisfactory grievance procedure and ability to respond to calls, questions, and complaints from enrollees or insureds; and</section><section prefix="(3)">design policies to help ensure that enrollees or insureds have adequate access to providers of health care.</section></section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
       <section prefix="(2)">The report required under paragraph (1) of this subsection shall be filed with the Commissioner no later than 30 days after the last day of the quarter for which the information is provided.</section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">If a carrier denies coverage under a medically underwritten health benefit plan to an individual in the nongroup market, the carrier shall provide:<section prefix="(i)">the individual with specific information regarding the availability of coverage under the Maryland Health Insurance Plan established under Title 14, Subtitle 5 of this article; and</section><section prefix="(ii)">the Maryland Health Insurance Plan with:</section></section>
+      <section prefix="(1)">If a carrier denies coverage under a medically underwritten health benefit plan to an individual in the nongroup market, the carrier shall provide:<section prefix="(i)">the individual with specific information regarding the availability of coverage under the Maryland Health Insurance Plan established under Title 14, Subtitle 5 of this article; and</section><section prefix="(ii)">the Maryland Health Insurance Plan with:<section prefix="1.">the name and address of the individual who was denied coverage; and</section><section prefix="2.">if the individual applied for coverage through an insurance producer, the name and, if available, the address of the insurance producer.</section></section></section>
       <section prefix="(2)">The information provided by a carrier under this subsection shall be provided in a manner and form required by the Commissioner.</section>
     </section>
   </text>

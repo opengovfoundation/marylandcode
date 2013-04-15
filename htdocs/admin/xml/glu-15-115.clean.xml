@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-115" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-15-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission shall prepare an annual financial report.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">The Commission shall make the certified annual financial report available for distribution to the public.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">After the audit is completed, the Commission shall publish a summary financial report consisting of a combined statement of revenues and expenditures for all funds:<section prefix="(i)">in at least one newspaper of general circulation published in Montgomery County; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">After the audit is completed, the Commission shall publish a summary financial report consisting of a combined statement of revenues and expenditures for all funds:<section prefix="(i)">in at least one newspaper of general circulation published in Montgomery County; and</section><section prefix="(ii)"><section prefix="1.">in the newspapers officially designated by the Prince George's County government as newspapers of record; or</section><section prefix="2.">in the absence of a designation of a newspaper of record, in at least one newspaper of general circulation published in Prince George's County.</section></section></section>
       <section prefix="(2)">The publication of the summary financial report shall carry appropriate references to the Commission's certified annual financial report.</section>
     </section>
   </text>

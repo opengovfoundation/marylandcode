@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-807" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in the contract, an aggrieved party may not recover compensation for that part of a loss which could have been avoided by taking measures reasonable under the circumstances to avoid or reduce loss. The burden of establishing a failure of the aggrieved party to take measures reasonable under the circumstances is on the party in breach of contract.</section>
     <section prefix="(b)">A party may not recover:<section prefix="(1)">Consequential damages for losses resulting from the content of published informational content unless the agreement expressly so provides; or</section><section prefix="(2)">Damages that are speculative.</section></section>

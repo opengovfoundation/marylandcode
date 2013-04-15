@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2B-05" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-2B-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">Any complaint filed in circuit court with respect to international commercial arbitration shall be filed with the court in the county:<section prefix="(1)">As provided by the agreement; or</section><section prefix="(2)">Where the arbitration hearing was held.</section></section>
     <section prefix="(b)">If the agreement does not provide for a county in which a complaint shall be filed or if the hearing has not been held, the complaint shall be filed with the court:<section prefix="(1)">In the county where the adverse party resides;</section><section prefix="(2)">In the county where the adverse party has a place of business or owns real property; or</section><section prefix="(3)">If the adverse party has neither a residence nor a place of business or property in the State, in Baltimore City.</section></section>

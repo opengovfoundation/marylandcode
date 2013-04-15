@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-704" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">State cost sharing in any project may be made available for up to 87 1/2 percent of eligible costs, not to exceed a dollar amount of up to $200,000 as determined by a regulation adopted jointly by the Secretary of Agriculture and the Secretary of the Environment.</section>
       <section prefix="(2)">State cost sharing funds may be made available for any project if:<section prefix="(i)">The Department of Agriculture, the soil conservation district, and a person have executed an agreement which, among other things, obligates the person to establish, construct, or install the best management practice in accordance with technical specifications, to maintain the best management practice for its expected life span, and to provide the required matching funds for the project;</section><section prefix="(ii)">The Board of Public Works has given approval to the project when the proceeds of State bonds are to be used to finance the State share; and</section><section prefix="(iii)">The soil conservation district has certified to the Department that the project meets all applicable technical standards, and that all submitted invoices properly represent eligible costs.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Except as authorized under subsubparagraph 2 of this subparagraph and before the Department of Agriculture executes a cost sharing agreement with a farm tenant, it shall obtain the consent of the landlord to the terms and conditions of the agreement.</section>
+          <section prefix="2.">The Department may execute the agreement without the consent of the landlord if:</section>
+        </section>
         <section prefix="(ii)">The Department may also require the granting to the State of an appropriate security interest in any equipment, structures or similar items purchased with State moneys.</section>
       </section>
       <section prefix="(4)">A cost sharing agreement executed as required under this subtitle may be assigned and transferred to a successor in title of all or part of a tract of land subject to a best management practice.</section>

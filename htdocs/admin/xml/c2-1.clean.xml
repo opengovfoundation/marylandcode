@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c2" order_by="" level="1"/>
-    <unit label="chapter" identifier="1" order_by="" level="2"/>
+    <unit label="article" identifier="c2" order_by="" level="1">II - Executive Departments</unit>
   </structure>
   <section_number>c2-1</section_number>
-  <catch_line/>
+  <catch_line>The executive power of the State shall be vested in a Governor, whose term of office shall commence ...</catch_line>
+  <order_by>1</order_by>
   <text>The executive power of the State shall be vested in a Governor, whose term of office shall commence on the third Wednesday of January next ensuing his election, and continue for four years, and until his successor shall have qualified; and a person who has served two consecutive popular elective terms of office as Governor shall be ineligible to succeed himself as Governor for the term immediately following the second of said two consecutive popular elective terms.</text>
 </law>

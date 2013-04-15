@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-105" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-13-105</section_number>
-  <catch_line/>
+  <catch_line>Before the State's Attorney conducts an inquiry under &#xA7; 13-104 of this title, the State's Attorney ...</catch_line>
+  <order_by>105</order_by>
   <text>Before the State's Attorney conducts an inquiry under &#xA7; 13-104 of this title, the State's Attorney shall notify the accused individual in writing of:<section prefix=""><section prefix="(1)">the time and place of the inquiry;</section><section prefix="(2)">the accused individual's right to appear at the inquiry and to produce evidence or information that relates to the matters examined; and</section><section prefix="(3)">the accused individual's right to testify if the individual:<section prefix="(i)">notifies the State's Attorney of the individual's desire to testify; and</section><section prefix="(ii)">signs a waiver that permits the individual's testimony to be used against the individual in any later trial that arises from the complaint.</section></section></section></text>
 </law>

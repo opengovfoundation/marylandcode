@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-107" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-12-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">Any party to a condemnation case may appeal from a final judgment or determination in the manner prescribed by the Maryland Rules.</section>
     <section prefix="(b)">If the final decision on appeal is that the plaintiff is not entitled to condemn the property, a reasonable counsel fee fixed by the trial court shall be awarded to counsel for the defendant and charged against the plaintiff together with the other costs of the case.</section>

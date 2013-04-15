@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-314" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-314</section_number>
-  <catch_line/>
+  <catch_line>A person licensed by the State of Maryland to provide veterinary care or a student of veterinary med...</catch_line>
+  <order_by>314</order_by>
   <text>A person licensed by the State of Maryland to provide veterinary care or a student of veterinary medicine who works under the responsible direct supervision of a veterinary practitioner as defined by &#xA7; 2-301(c) of this subtitle who, for no fee or compensation, renders veterinary aid, care, or assistance in an emergency situation in which the owner or custodian of the animal is not available to grant permission shall have the immunity from liability described under &#xA7; 5-614 of the Courts and Judicial Proceedings Article.</text>
 </law>

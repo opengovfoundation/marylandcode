@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-311" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">The Corporation is subject to examination and regulation by the Commissioner.</section>
     <section prefix="(b)">By March 30 of each year, the Board of Directors shall submit to the Commissioner a financial report for the preceding calendar year in the form that the Commissioner approves.</section>

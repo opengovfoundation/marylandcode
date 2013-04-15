@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-506" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-9-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">The Trust shall retain an architect as a consultant.</section>
     <section prefix="(b)">The consultant must:<section prefix="(1)">be registered by the State Board of Architects;</section><section prefix="(2)">be familiar with all phases of 18th century architecture; and</section><section prefix="(3)">have the professional experience that is needed to restore the State House in a way that befits its majestic history and its current role as the Capitol.</section></section>

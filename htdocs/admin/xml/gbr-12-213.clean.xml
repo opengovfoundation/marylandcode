@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-213" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12-213</section_number>
-  <catch_line/>
+  <catch_line>A dealer may not acquire a precious metal object, or take any merchandise in a pawn transaction, fro...</catch_line>
+  <order_by>213</order_by>
   <text>A dealer may not acquire a precious metal object, or take any merchandise in a pawn transaction, from an individual who is a minor.</text>
 </law>

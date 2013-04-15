@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-406" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-25-406</section_number>
-  <catch_line/>
+  <catch_line>A person with an insurable interest in real or tangible personal property at a fixed location may ap...</catch_line>
+  <order_by>406</order_by>
   <text>A person with an insurable interest in real or tangible personal property at a fixed location may apply to the Association for essential property insurance or homeowner's insurance if the person has been:<section prefix=""><section prefix="(1)">unable to obtain essential property insurance or homeowner's insurance;</section><section prefix="(2)">able to obtain essential property insurance or homeowner's insurance only after application under &#xA7; 11-210 or &#xA7; 11-311 of this article; or</section><section prefix="(3)">able to obtain only partial coverage for the value of the property.</section></section></text>
 </law>

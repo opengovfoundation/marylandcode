@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-919" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-919</section_number>
-  <catch_line/>
+  <catch_line>The clerk shall issue to each holder of a peddler license a metal tag that indicates that the licens...</catch_line>
+  <order_by>919</order_by>
   <text>The clerk shall issue to each holder of a peddler license a metal tag that indicates that the license fee for the current year has been paid.</text>
 </law>

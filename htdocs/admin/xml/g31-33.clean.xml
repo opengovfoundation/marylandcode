@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g31" order_by="" level="1"/>
-    <unit label="chapter" identifier="33" order_by="" level="2"/>
+    <unit label="article" identifier="g31" order_by="" level="1">Debt - Public</unit>
   </structure>
   <section_number>g31-33</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>33</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -39,7 +39,7 @@
     <section prefix="(d)">The county may expend the net proceeds of the sale of an issue of notes only to pay the costs of public school construction or public school capital improvement projects that have been approved at any time by the Board of Public Works in anticipation of State funds for all or a part of those construction or improvement projects or to refund one or more issues of notes.</section>
     <section prefix="(e)">
       <section prefix="(1)">The notes shall be authorized by a resolution.</section>
-      <section prefix="(2)">The authorizing resolution shall:<section prefix="(i)">Cite the authority for the issuance of the notes and the amount authorized; and</section><section prefix="(ii)">Fix:</section></section>
+      <section prefix="(2)">The authorizing resolution shall:<section prefix="(i)">Cite the authority for the issuance of the notes and the amount authorized; and</section><section prefix="(ii)">Fix:<section prefix="1.">The maturity or maturities;</section><section prefix="2.">The interest rate or rates or manner of determining the rate or rates, which may include a variable rate;</section><section prefix="3.">Other terms on the notes;</section><section prefix="4.">The price or prices at which the notes will be sold, which may be at, above, or below the face value of the notes or the manner of determining the price or prices at which the notes will be sold;</section><section prefix="5.">The manner of the sale of the notes, which may be by private negotiation by the county with a prospective purchaser or purchasers, if deemed by the county to be for the county's best interest; and</section><section prefix="6.">The terms or conditions, if any, under which notes may or shall be redeemed prior to their stated maturity.</section></section></section>
       <section prefix="(3)">The authorizing resolution may provide for:<section prefix="(i)">The issuance of the notes from time to time in series, as funds are required; and</section><section prefix="(ii)">The renewal of the notes at maturity with or without resale.</section></section>
     </section>
     <section prefix="(f)">
@@ -53,7 +53,7 @@
       <section prefix="(1)">The resolution and notes and agreements authorized under the resolution are not subject to:<section prefix="(i)">The procedures required for legislative acts; or</section><section prefix="(ii)">A referendum.</section></section>
       <section prefix="(2)">Unless a State constitutional provision otherwise requires, the authorizing resolution may include covenants regarding the payment of the principal of and interest on the notes notwithstanding any:<section prefix="(i)">Limitations in the county's charter;</section><section prefix="(ii)">Public general law; or</section><section prefix="(iii)">Public local law.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">A county may adopt an authorizing resolution without complying with any procedures in:</section>
+        <section prefix="(i)">A county may adopt an authorizing resolution without complying with any procedures in:<section prefix="1.">The county's charter;</section><section prefix="2.">A public general law; or</section><section prefix="3.">A public local law.</section></section>
         <section prefix="(ii)">Public school construction projects and public school capital improvements financed by a county under the provisions of this section do not constitute a capital project of a county for purposes of any constitutional, charter, statutory, or other limitation.</section>
       </section>
       <section prefix="(4)">Any notes or agreements issued or entered into under this section may not be subject to or included in any constitutional, charter, statutory, or other limitation for the issuance of indebtedness by a county.</section>

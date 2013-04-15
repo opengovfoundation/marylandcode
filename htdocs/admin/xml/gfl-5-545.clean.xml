@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-545" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-545</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>545</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each local board shall review children in out-of-home care in accordance with the regulations adopted by the State Board and the Secretary of Human Resources.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">A consignee of a nonnegotiable bill of lading which has given value in good faith, or a holder to which a negotiable bill has been duly negotiated, relying upon the description of the goods in the bill or upon the date shown in the bill, may recover from the issuer damages caused by the misdating of the bill or the nonreceipt or misdescription of the goods, except to the extent that the bill indicates that the issuer does not know whether any part or all of the goods in fact were received or conform to the description, such as in a case in which the description is in terms of marks or labels or kind, quantity, or condition or the receipt or description is qualified by "contents or condition of contents of packages unknown", "said to contain", "shipper's weight, load, and count", or words of similar import, if that indication is true.</section>
     <section prefix="(b)">If goods are loaded by the issuer of a bill of lading:<section prefix="(1)">The issuer shall count the packages of goods if shipped in packages and ascertain the kind and quantity if shipped in bulk; and</section><section prefix="(2)">Words such as "shipper's weight, load, and count", or words of similar import indicating that the description was made by the shipper are ineffective except as to goods concealed in packages.</section></section>

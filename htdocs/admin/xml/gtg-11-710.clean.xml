@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-710" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-710</section_number>
-  <catch_line/>
+  <catch_line>Subject to the hearing provisions of &#xA7; 11-711 of this subtitle, the Comptroller may deny a license ...</catch_line>
+  <order_by>710</order_by>
   <text>Subject to the hearing provisions of &#xA7; 11-711 of this subtitle, the Comptroller may deny a license to any applicant, reprimand any licensee, or suspend or revoke a license:<section prefix=""><section prefix="(1)">if the applicant or licensee:<section prefix="(i)">fraudulently or deceptively obtains or attempts to obtain a license for the applicant or licensee or for another; or</section><section prefix="(ii)">fraudulently or deceptively uses a license; or</section></section><section prefix="(2)">for cause.</section></section></text>
 </law>

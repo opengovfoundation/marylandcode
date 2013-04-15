@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-202" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-8-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">This section applies only in Anne Arundel County.</section>
     <section prefix="(b)">
@@ -20,7 +20,7 @@
       <section prefix="(3)">Upon application made in the same manner as for new licenses and approved by the Board as provided for by &#xA7;&#xA7; 10-202(d) and 10-208(b) of this article, a licensee shall be issued an additional license known as a "special Sunday license" upon payment of the required fee.</section>
       <section prefix="(4)">
         <section prefix="(i)">The holder of a "special Sunday license" may sell alcoholic beverages on Sundays. The licenses shall be of the same kind as the ongoing license and are subject to the same limitations as to hours, restrictions, and other provisions found in licenses issued by the Board. The alcoholic beverages shall contain the same alcoholic content as is found in other alcoholic beverages.</section>
-        <section prefix="(ii)">A "special Sunday license" may not be issued to any person:</section>
+        <section prefix="(ii)">A "special Sunday license" may not be issued to any person:<section prefix="1.">Who holds a hotel-limited service license under subsection (j) of this section; or</section><section prefix="2.">Who does not hold an alcoholic beverages license of some other class issued by the Board.</section></section>
       </section>
       <section prefix="(5)">
         <section prefix="(i)">The annual fee for each beer and light wine "special Sunday license" is $60.</section>
@@ -45,9 +45,15 @@
       <section prefix="(1)">There is an airport concessionaire license.</section>
       <section prefix="(2)">
         <section prefix="(i)">An individual, association of individuals, or a corporation which is a lessee, sublessee, or a concessionaire at any airport, without further residential, voting or locative qualifications, may obtain an airport concessionaire license for the sale of any and all alcoholic beverages within the airport terminal buildings.</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
-        <section prefix="(iv)">On receipt of an application for an airport concessionaire license under subparagraph (ii) or (iii) of this paragraph, the Board shall:</section>
+        <section prefix="(ii)">
+          <section prefix="1.">This subparagraph does not apply to duty free shops.</section>
+          <section prefix="2.">A person who is a lessee, sublessee, or concessionaire at Baltimore-Washington International Thurgood Marshall Airport may hold one airport concessionaire license for multiple locations within the terminal building of Baltimore-Washington International Thurgood Marshall Airport, even if the person already holds one or more alcoholic beverages licenses of any other type issued by the Board.</section>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">The Board may issue a second airport concessionaire license for a leased premises or concessionaire space that is licensed as of March 1, 2004, at Baltimore-Washington International Thurgood Marshall Airport to maintain service during a transition involving different licensees; but</section>
+          <section prefix="2.">The first airport concessionaire license shall expire when the privileges under the second are exercised.</section>
+        </section>
+        <section prefix="(iv)">On receipt of an application for an airport concessionaire license under subparagraph (ii) or (iii) of this paragraph, the Board shall:<section prefix="1.">Give precedence to the application over all other license applications; and</section><section prefix="2.">Hold a hearing on the application at the Board meeting that immediately follows receipt of the application.</section></section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">The annual fee for the airport concessionaire license and one location from which alcoholic beverages may be sold is $5,000.</section>
@@ -77,7 +83,7 @@
       <section prefix="(1)">There is a motel/hotel-restaurant license.</section>
       <section prefix="(2)">The license covers "on-sales" of beer, wine and liquor to any person, without further residential, voting or locative qualifications being required of the applicant, for the sale of any and all alcoholic beverages within the confines of the motel-restaurant complex or hotel-restaurant complex.</section>
       <section prefix="(3)">
-        <section prefix="(i)">These licenses shall be issued only to the person, firm, or corporation owning or leasing motel-restaurant complexes or hotel-restaurant complexes that have:</section>
+        <section prefix="(i)">These licenses shall be issued only to the person, firm, or corporation owning or leasing motel-restaurant complexes or hotel-restaurant complexes that have:<section prefix="1.">A capital investment of not less than $500,000;</section><section prefix="2.">100 rooms or more; and</section><section prefix="3.">An enclosed dining room which serves at least twice daily full-course meals from menus.</section></section>
         <section prefix="(ii)">If the food concession is leased to a concessionaire, the concessionaire is exempt from having a capital investment of not less than $500,000.</section>
         <section prefix="(iii)">Any motel-restaurant complex or hotel-restaurant complex with 100 or more rooms shall have a motel-restaurant or hotel-restaurant complex license by October 1, 1977.</section>
       </section>
@@ -105,7 +111,7 @@
     <section prefix="(k)">
       <section prefix="(1)">
         <section prefix="(i)">In this subsection the following words have the meanings indicated.</section>
-        <section prefix="(ii)">"Concessionaire" means a lessee, sublessee, or any other operator of an establishment that:</section>
+        <section prefix="(ii)">"Concessionaire" means a lessee, sublessee, or any other operator of an establishment that:<section prefix="1.">Engages in the daily sale of beer, wine, and liquor on its premises for consumption anywhere in an entertainment facility; and</section><section prefix="2.">Is operated as a concession adjacent to but independent of the entertainment facility.</section></section>
         <section prefix="(iii)">"Entertainment facility" means a facility that holds a license under Title 9, Subtitle 1A of the State Government Article.</section>
       </section>
       <section prefix="(2)">

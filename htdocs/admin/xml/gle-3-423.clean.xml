@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-423" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-423</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>423</order_by>
   <text>
     <section prefix="(a)">On request by an employer, the Commissioner shall provide without charge a copy of any summary or regulation to the employer.</section>
     <section prefix="(b)">Each employer shall keep posted conspicuously in each place of employment:<section prefix="(1)">a summary of this subtitle that the Commissioner approves; and</section><section prefix="(2)">a copy or summary of each regulation that is adopted to carry out this subtitle.</section></section>

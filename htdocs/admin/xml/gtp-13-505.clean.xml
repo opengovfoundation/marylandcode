@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-505" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-13-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">A person may not willfully offer for recordation or record an instrument of writing subject to the county agricultural land transfer tax knowing that the tax has not been paid.</section>
     <section prefix="(b)">A person may not willfully misrepresent the amount of the actual consideration paid or to be paid in connection with an instrument of writing that is subject to the county agricultural land transfer tax.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1005" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-1005</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1005</order_by>
   <text>
     <section prefix="(a)">An equity court may determine the legitimacy of a child pursuant to &#xA7; 1-208 of the Estates and Trusts Article.</section>
     <section prefix="(b)">This section does not limit paternity proceedings under this subtitle except after the legitimation of a child under this section.</section>

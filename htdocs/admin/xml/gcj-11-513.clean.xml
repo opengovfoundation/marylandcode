@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-513" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-11-513</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>513</order_by>
   <text>
     <section prefix="(a)">If a recognizance taken for the appearance of a person to answer or testify is forfeited, the State's Attorney may order a writ of execution to be issued for the sum due on the recognizance.</section>
     <section prefix="(b)">If a writ of execution is issued against a person who failed to answer or testify, on the return of the execution he may file any plea to the execution which would be good and sufficient to a scire facias if a scire facias had issued on the recognizance.</section>

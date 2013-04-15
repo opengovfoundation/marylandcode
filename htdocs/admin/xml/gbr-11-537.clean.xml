@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-537" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-537</section_number>
-  <catch_line/>
+  <catch_line>A horse shall be registered with the Maryland Horse Breeders Association, Inc., before the horse may...</catch_line>
+  <order_by>537</order_by>
   <text>A horse shall be registered with the Maryland Horse Breeders Association, Inc., before the horse may start in a Fund Race.</text>
 </law>

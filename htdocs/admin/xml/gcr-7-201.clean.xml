@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">This section applies only to a wheeled cart or other similar device that is clearly marked with the name and address of its owner and if notice of this section is clearly and prominently displayed at each public exit from the grocery store, store, or market that owns the wheeled cart or other similar device.</section>
     <section prefix="(b)">

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-303" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-8-303</section_number>
-  <catch_line/>
+  <catch_line>If the name of a unit in the Executive Branch of the State government is set by statute, the name ma...</catch_line>
+  <order_by>303</order_by>
   <text>If the name of a unit in the Executive Branch of the State government is set by statute, the name may be changed only by another statute.</text>
 </law>

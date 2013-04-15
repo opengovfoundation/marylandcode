@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-103" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-3-103</section_number>
-  <catch_line/>
+  <catch_line>The proper jurisdiction for recording all deeds or other instruments referred to in &#xA7;&#xA7; 3-101 and 3...</catch_line>
+  <order_by>103</order_by>
   <text>The proper jurisdiction for recording all deeds or other instruments referred to in &#xA7;&#xA7; 3-101 and 3-102 is as follows:<section prefix=""><section prefix="(1)">In the county where the land affected by the deed or instrument lies; or</section><section prefix="(2)">If the land lies in more than one county, in all of such counties.</section></section></text>
 </law>

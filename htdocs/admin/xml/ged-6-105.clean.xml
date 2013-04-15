@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-105" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-6-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Each teacher in a public school of this State shall have a duty-free lunch period each regularly scheduled school day.</section>
     <section prefix="(b)">This duty-free period shall be for at least 30 minutes, unless the students have a regular lunch period of less than 30 minutes in which case the duty-free period shall be the same as the regular lunch period.</section>

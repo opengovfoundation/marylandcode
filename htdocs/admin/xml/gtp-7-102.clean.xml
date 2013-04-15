@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-102" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-102</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise provided in the law establishing the exemption, when any property is exempted by la...</catch_line>
+  <order_by>102</order_by>
   <text>Unless otherwise provided in the law establishing the exemption, when any property is exempted by law from property tax, the exemption is effective on the next date of finality after the effective date of the law.</text>
 </law>

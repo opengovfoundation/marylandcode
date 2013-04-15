@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-107" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-22-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The amount collected by the Commission for benefits imposed against property for water supply and sewer construction under Title 25, Subtitle 2 of this article shall be set aside in a separate fund known as the Current Bond Fund.</section>
       <section prefix="(2)">
         <section prefix="(i)">The Current Bond Fund shall be used to pay interest on all outstanding bonds.</section>
-        <section prefix="(ii)">The balance of the Current Bond Fund shall be prorated monthly and applied to:</section>
+        <section prefix="(ii)">The balance of the Current Bond Fund shall be prorated monthly and applied to:<section prefix="1.">the payment of the principal of maturing serial bonds; and</section><section prefix="2.">the payment into the joint Sinking Fund Account, as provided under &#xA7; 22-108 of this subtitle, of the proportionate part of the principal of outstanding sinking fund bonds as the outstanding par value of both types of bonds bear to each other.</section></section>
       </section>
     </section>
     <section prefix="(b)">To determine the amount necessary to be imposed under &#xA7; 22-106 of this subtitle, the Commission shall deduct the amount to its credit in the Current Bond Fund account from the amount necessary to be raised in any 1 year for interest on all outstanding bonds.</section>

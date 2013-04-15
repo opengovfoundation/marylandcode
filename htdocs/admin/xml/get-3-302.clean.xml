@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-302" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-3-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">A child permitted to share in the estate of a decedent under &#xA7; 3-301 of this subtitle shall receive from the personal representative an amount equal to the lesser of:<section prefix="(1)">The distribution which the child would have taken in the event of intestacy; or</section><section prefix="(2)">The value of all legacies to children of the testator and issue of deceased children divided by the total number of children of the testator who survive him and deceased children leaving issue who take under this subtitle, including the pretermitted child.</section></section>
     <section prefix="(b)">The issue of a pretermitted child who did not survive the testator may take the amount by representation.</section>

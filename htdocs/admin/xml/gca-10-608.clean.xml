@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-608" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-10-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a limited partner has received the return of any part of his contribution without violation of the certificate, partnership agreement, or this title, he is liable to the limited partnership for a period of 1 year thereafter for the amount of the returned contribution, but only to the extent necessary to discharge the limited partnership's liabilities to creditors who extended credit to the limited partnership during the period the contribution was held by the limited partnership.</section>

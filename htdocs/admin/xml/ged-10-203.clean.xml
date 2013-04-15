@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-203" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-10-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">It is the goal of the State that public senior higher education institutions be funded at 100 percent of funding guidelines developed by the Maryland Higher Education Commission.</section>
     <section prefix="(b)">Funding policies shall allocate State resources efficiently while providing incentives for quality and institutional diversity.</section>

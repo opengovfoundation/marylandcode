@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-623" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-623</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>623</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The sanitary commission of a district with 2 member counties consists of at least:<section prefix="(i)">One sanitary commissioner from each member county appointed as the articles of incorporation of the district provide; and</section><section prefix="(ii)">One sanitary commissioner from either member county as the articles of incorporation of the district provide.</section></section>

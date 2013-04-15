@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-704" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">A preneed burial contract shall contain:<section prefix="(1)">the name of the buyer;</section><section prefix="(2)">the name of the seller;</section><section prefix="(3)">the name of each individual, other than the buyer, as to whom the preneed goods or preneed services are to be furnished;</section><section prefix="(4)">a description of the preneed goods or preneed services; and</section><section prefix="(5)">the amount of the buyer's financial obligation.</section></section>
     <section prefix="(b)">
@@ -13,7 +13,7 @@
       <section prefix="(2)">The seller shall give the buyer a duplicate original of the preneed burial contract.</section>
     </section>
     <section prefix="(c)">
-      <section prefix="(1)">A preneed burial contract may provide for delivery of identified preneed goods by providing for the seller to:<section prefix="(i)">transfer physical possession of the preneed goods to the buyer or designee of the buyer;</section><section prefix="(ii)">attach the preneed goods to a designated burial space;</section><section prefix="(iii)">pay for and suitably store the preneed goods until needed, at a cemetery or other location of the seller, if the preneed goods are marked with the name of the buyer and the sale is supported by a verifiable record; or</section><section prefix="(iv)">have the supplier of the preneed goods:</section></section>
+      <section prefix="(1)">A preneed burial contract may provide for delivery of identified preneed goods by providing for the seller to:<section prefix="(i)">transfer physical possession of the preneed goods to the buyer or designee of the buyer;</section><section prefix="(ii)">attach the preneed goods to a designated burial space;</section><section prefix="(iii)">pay for and suitably store the preneed goods until needed, at a cemetery or other location of the seller, if the preneed goods are marked with the name of the buyer and the sale is supported by a verifiable record; or</section><section prefix="(iv)">have the supplier of the preneed goods:<section prefix="1.">cause title to be transferred to the buyer or designee of the buyer; and</section><section prefix="2.">agree in writing to ship the preneed goods at the direction of the buyer or designee of the buyer.</section></section></section>
       <section prefix="(2)">If a preneed burial contract does not provide for the manner of delivery of preneed goods, compliance with paragraph (1)(i) or (ii) of this subsection is delivery in accordance with this subtitle.</section>
     </section>
     <section prefix="(d)">Notwithstanding any provision in a preneed burial contract, identified preneed services are not considered to have been performed until performance actually occurs.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-211" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">A manufacturer, whether directly or through an agent, employee, affiliate, or representative, may not prevent, by contract or otherwise, any owner, partner, or stockholder of any dealership from transferring any ownership interest in the dealership to any other person.</section>
     <section prefix="(b)">A distributor, whether directly or through an agent, employee, affiliate, or representative, may not prevent, by contract or otherwise, any owner, partner, or stockholder of any dealership from transferring any ownership interest in the dealership to any other person.</section>
@@ -36,7 +36,7 @@
         <section prefix="(ii)">If the Administrator finds that the action leading to the denial or the imposition of a condition was in violation of this section, the Administrator may order the sale, assignment, or transfer to be approved by the manufacturer, distributor, or factory branch without imposition of the condition.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">An applicant for approval of a sale, assignment, or transfer of ownership of a dealership or an existing dealer denied the sale, assignment, or transfer may institute an action for damages in the circuit court for the county in which the dealer's principal place of business is located, if:</section>
+        <section prefix="(i)">An applicant for approval of a sale, assignment, or transfer of ownership of a dealership or an existing dealer denied the sale, assignment, or transfer may institute an action for damages in the circuit court for the county in which the dealer's principal place of business is located, if:<section prefix="1.">The existing dealer does not request a hearing by the Administrator; and</section><section prefix="2.">The action taken in violation of this section to deny the sale, assignment, or transfer of ownership or the change in executive management or the condition imposed on the sale, assignment, or transfer is the proximate cause of the failure of the contract for the sale, assignment, or transfer of ownership of the dealership.</section></section>
         <section prefix="(ii)">An action for damages under this section must be instituted within 2 years of the violation of this section.</section>
       </section>
     </section>

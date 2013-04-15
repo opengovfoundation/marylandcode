@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-832" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-832</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>832</order_by>
   <text>
     <section prefix="(a)">While an elevator mechanic license is in effect, it authorizes the licensee to erect, construct, wire, alter, replace, maintain, repair, dismantle, or service elevator units under the direct supervision of a licensed elevator contractor.</section>
     <section prefix="(b)">While an elevator contractor license is in effect, it authorizes the licensee to engage in the business of erecting, constructing, wiring, altering, replacing, maintaining, repairing, dismantling, or servicing elevator units.</section>

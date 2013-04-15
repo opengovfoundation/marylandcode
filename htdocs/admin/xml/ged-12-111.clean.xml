@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-111" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-12-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided by law, appointments of the University System of Maryland are not subject to or controlled by the provisions of the State Personnel and Pensions Article that govern the State Personnel Management System.</section>
     <section prefix="(b)">In accordance with the requirements of Title 3 of the State Personnel and Pensions Article, the Board of Regents shall establish general policies and guidelines governing the appointment, compensation, advancement, tenure, and termination of all classified personnel.</section>

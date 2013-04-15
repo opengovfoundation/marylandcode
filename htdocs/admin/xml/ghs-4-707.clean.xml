@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-707" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">An individual or family, including an elderly household, qualifies as a family of limited income if the income of the individual or family does not exceed the limits that the Secretary sets.</section>
     <section prefix="(b)">The factors that the Secretary shall consider in setting limits under subsection (a) of this section shall include:<section prefix="(1)">the family income deemed available for housing;</section><section prefix="(2)">the size of the family;</section><section prefix="(3)">the ability of the family to compete successfully in the private housing market;</section><section prefix="(4)">the cost and condition of available housing; and</section><section prefix="(5)">relevant standards and definitions under federal and State housing programs.</section></section>

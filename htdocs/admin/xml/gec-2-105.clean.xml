@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-105" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-2-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">With the approval of the Governor, the Secretary shall appoint a deputy secretary.</section>
     <section prefix="(b)">The deputy secretary:<section prefix="(1)">serves at the pleasure of the Secretary; and</section><section prefix="(2)">is entitled to the compensation provided in the State budget.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-601" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-601</section_number>
-  <catch_line/>
+  <catch_line>The following may pool together to purchase property insurance or casualty insurance:...</catch_line>
+  <order_by>601</order_by>
   <text>The following may pool together to purchase property insurance or casualty insurance:<section prefix=""><section prefix="(1)">associations, corporations, institutions, organizations, or societies that are exempt from taxation under &#xA7; 501(c)(3) of the Internal Revenue Code;</section><section prefix="(2)">clubs that are organized and operated exclusively for recreational purposes and are exempt from taxation under &#xA7; 501(c)(7) of the Internal Revenue Code;</section><section prefix="(3)">nonprofit associations, corporations, or other organizations that are comprised of residents of a community and are operated exclusively for the promotion of social welfare and general neighborhood improvement; and</section><section prefix="(4)">nonprofit organizations that are comprised of property owners in a subdivision or group of subdivisions and whose purpose is to represent the mutual interests of the property owners regarding the construction, protection, and maintenance of commonly owned or used property and improvements.</section></section></text>
 </law>

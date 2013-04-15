@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-211" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subsection, "national defense" includes homeland security.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">An interest of a person in personal property or real property of the federal government or of the State is not subject to property tax if that property:<section prefix="(i)">is situated on land that is owned by the federal government and located within the defined boundaries of a military installation; and</section><section prefix="(ii)">is used for national defense purposes or for housing for military personnel and their families.</section></section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">This subsection does not apply to:<section prefix="(i)">property owned by the Maryland-National Capital Park and Planning Commission in Prince George's County that is located in a public airport and is used for a restaurant concession; and</section><section prefix="(ii)">property owned by the Canal Place Preservation and Development Authority in Allegany County if:</section></section>
+      <section prefix="(1)">This subsection does not apply to:<section prefix="(i)">property owned by the Maryland-National Capital Park and Planning Commission in Prince George's County that is located in a public airport and is used for a restaurant concession; and</section><section prefix="(ii)">property owned by the Canal Place Preservation and Development Authority in Allegany County if:<section prefix="1.">the property is leased for a concession for a term of 10 years or more; or</section><section prefix="2.">the lessee has made a capital investment in the property or improvements on the property in excess of $500,000.</section></section></section>
       <section prefix="(2)">An interest of a person in property of the federal government, the State, a county, or a municipal corporation is not subject to property tax, if the property is used for a concession that:<section prefix="(i)">is located in a public airport, park, market, or fairground; and</section><section prefix="(ii)">is available for use by the general public.</section></section>
     </section>
     <section prefix="(c)">

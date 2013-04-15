@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-104" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-17-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Payment security or performance security required under this subtitle shall be:<section prefix="(1)">a bond executed by a surety company authorized to do business in the State;</section><section prefix="(2)">cash in an amount equivalent to a bond; or</section><section prefix="(3)">other security that is satisfactory to the public body awarding the contract.</section></section>
     <section prefix="(b)">

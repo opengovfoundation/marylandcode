@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-115" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-115</section_number>
-  <catch_line/>
+  <catch_line>The results of a test held under Part II of this subtitle are not admissible as evidence of guilt or...</catch_line>
+  <order_by>115</order_by>
   <text>The results of a test held under Part II of this subtitle are not admissible as evidence of guilt or innocence in a criminal proceeding arising out of the alleged prohibited exposure.</text>
 </law>

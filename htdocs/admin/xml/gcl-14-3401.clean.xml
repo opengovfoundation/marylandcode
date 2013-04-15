@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-3401" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-3401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>3401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Interactive computer service provider" means an entity that provides a service that provides or enables computer access via the Internet by multiple users to a computer server or similar device used for the storage of images, information, or data.</section>

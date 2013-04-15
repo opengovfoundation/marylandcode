@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-410" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">Except in case of emergency imperiling life or property, unavoidable accident, collision, or stranding, or as authorized by a permit issued under &#xA7; 9-323 of this article, it is unlawful for any person to discharge or permit the discharge of oil in any manner into or on waters of this State.</section>
     <section prefix="(b)">Notwithstanding any provision of this subtitle, any person discharging or permitting the discharge of oil, or who either actively or passively participates in the discharge or spilling of oil either from a land-based installation, including aboveground or underground storage tanks and vehicles in transit, or from any vessel, barge, ship, or boat of any kind, shall report the incident immediately to the Department. The person shall remain available until clearance to leave is given by the appropriate officials designated by the Department.</section>

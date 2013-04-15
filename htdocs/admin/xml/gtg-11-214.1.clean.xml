@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-214.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-214.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214.1</order_by>
   <text>
-    <section prefix="(a)">In this section:<section prefix="(1)">"precious metal bullion or coins" means:<section prefix="(i)">any precious metal that has gone through a refining process and is in a state or condition such that its value depends on its precious metal content and not on its form; or</section><section prefix="(ii)">except as provided in paragraph (2) of this subsection, monetized bullion, coins, or other forms of money that:</section></section><section prefix="(2)">"precious metal bullion or coins" does not include jewelry or a work of art made of precious metal bullion or coins.</section></section>
+    <section prefix="(a)">In this section:<section prefix="(1)">"precious metal bullion or coins" means:<section prefix="(i)">any precious metal that has gone through a refining process and is in a state or condition such that its value depends on its precious metal content and not on its form; or</section><section prefix="(ii)">except as provided in paragraph (2) of this subsection, monetized bullion, coins, or other forms of money that:<section prefix="1.">are manufactured from precious metals; and</section><section prefix="2.">are or have in the past been used as a medium of exchange under the laws of the State, the United States, or a foreign nation; and</section></section></section><section prefix="(2)">"precious metal bullion or coins" does not include jewelry or a work of art made of precious metal bullion or coins.</section></section>
     <section prefix="(b)">The sales and use tax does not apply to a sale of precious metal bullion or coins if the sale price is greater than $1,000.</section>
   </text>
 </law>

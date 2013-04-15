@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-201" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Authority" means the Maryland Food Center Authority.</section>
@@ -23,7 +23,7 @@
     <section prefix="(i)">"Improvement" means addition, alteration, construction, equipping, expansion, extension, improvement, installation, reconstruction, rehabilitation, remodeling, or repair.</section>
     <section prefix="(j)">
       <section prefix="(1)">"Project" means a facility, operation, or portion of a development that the Authority undertakes to further the purposes of this subtitle.</section>
-      <section prefix="(2)">"Project" includes:<section prefix="(i)"/><section prefix="(ii)">a facility or service ancillary or appurtenant to a development or a project that the Authority determines will enhance the public convenience or attractiveness of the development or project, including:</section><section prefix="(iii)">land, structures, equipment, furnishings, rail or motor vehicles, barges, and boats in a development or project;</section><section prefix="(iv)">property and rights in a development or project; and</section><section prefix="(v)">land and facilities that are functionally related to a development or project.</section></section>
+      <section prefix="(2)">"Project" includes:<section prefix="(i)"><section prefix="1.">a market;</section><section prefix="2.">a food handling, processing, storage, or distribution facility; and</section><section prefix="3.">a commercial seafood facility or operation;</section></section><section prefix="(ii)">a facility or service ancillary or appurtenant to a development or a project that the Authority determines will enhance the public convenience or attractiveness of the development or project, including:<section prefix="1.">a bank;</section><section prefix="2.">a parking or other transportation facility;</section><section prefix="3.">a restaurant;</section><section prefix="4.">a store; and</section><section prefix="5.">any other commercial enterprise;</section></section><section prefix="(iii)">land, structures, equipment, furnishings, rail or motor vehicles, barges, and boats in a development or project;</section><section prefix="(iv)">property and rights in a development or project; and</section><section prefix="(v)">land and facilities that are functionally related to a development or project.</section></section>
     </section>
   </text>
 </law>

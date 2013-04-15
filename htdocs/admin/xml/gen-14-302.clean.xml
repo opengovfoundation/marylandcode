@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-302" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-14-302</section_number>
-  <catch_line/>
+  <catch_line>The provisions of this subtitle apply only to the storage of natural or artificial gas and petroleum...</catch_line>
+  <order_by>302</order_by>
   <text>The provisions of this subtitle apply only to the storage of natural or artificial gas and petroleum products in Prince George's County.</text>
 </law>

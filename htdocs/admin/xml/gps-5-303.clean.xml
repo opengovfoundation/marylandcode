@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-303" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-303</section_number>
-  <catch_line/>
+  <catch_line>A person shall have a permit issued under this subtitle before the person carries, wears, or transpo...</catch_line>
+  <order_by>303</order_by>
   <text>A person shall have a permit issued under this subtitle before the person carries, wears, or transports a handgun.</text>
 </law>

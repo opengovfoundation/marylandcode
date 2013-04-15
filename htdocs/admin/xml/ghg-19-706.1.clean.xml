@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-706.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-706.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706.1</order_by>
   <text>
     <section prefix="(a)">Subject to this section, the provisions of Title 9, Subtitle 2 of the Insurance Article regarding the rehabilitation and liquidation of insurers are applicable to health maintenance organizations.</section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
     </section>
     <section prefix="(c)">The Commissioner may apply for an order directing the Commissioner to rehabilitate or liquidate a health maintenance organization:<section prefix="(1)">Upon any one or more grounds set out in Title 9, Subtitle 2 of the Insurance Article; or</section><section prefix="(2)">When in the Commissioner's opinion the continued operation of the health maintenance organization would be hazardous either to its members or to the people of this State.</section></section>
     <section prefix="(d)">
-      <section prefix="(1)">In addition to the Commissioner's authority under Title 9, Subtitle 2 of the Insurance Article, the Commissioner as a rehabilitator of a health maintenance organization may, subject to approval by a court:<section prefix="(i)">Change premium rates and other terms of an individual or group contract;</section><section prefix="(ii)">Terminate or change the terms of:</section><section prefix="(iii)">Negotiate and, if the assuming health maintenance organization agrees:</section></section>
+      <section prefix="(1)">In addition to the Commissioner's authority under Title 9, Subtitle 2 of the Insurance Article, the Commissioner as a rehabilitator of a health maintenance organization may, subject to approval by a court:<section prefix="(i)">Change premium rates and other terms of an individual or group contract;</section><section prefix="(ii)">Terminate or change the terms of:<section prefix="1.">Provider contracts; or</section><section prefix="2.">Contracts with participating entities for the provision of administrative, financial, or management services; and</section></section><section prefix="(iii)">Negotiate and, if the assuming health maintenance organization agrees:<section prefix="1.">Transfer the coverage obligations of the impaired health maintenance organization to an assuming health maintenance organization; and</section><section prefix="2.">Assign the provider contracts of the impaired health maintenance organization to an assuming health maintenance organization.</section></section></section>
       <section prefix="(2)">Before taking any action under paragraph (1)(ii) of this subsection, the Commissioner shall consider:<section prefix="(i)">The interests of providers and other participating entities under contract with the impaired health maintenance organizations; and</section><section prefix="(ii)">The viability of continuing the health plan.</section></section>
       <section prefix="(3)">If a court under paragraph (1)(ii) of this subsection approves a change to the terms of a contract that diminishes the compensation of a provider or a participating entity providing administrative, financial, or management services, the change may not:<section prefix="(i)">Be effective for more than 60 days; and</section><section prefix="(ii)">Except by mutual consent, be renewed or extended.</section></section>
     </section>

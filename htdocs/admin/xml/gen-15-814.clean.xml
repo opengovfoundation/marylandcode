@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-814" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-814</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>814</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a surface mining permit shall be granted for such period as requested and deemed reasonable, but not exceeding 25 years. If the mining operation has been completed and the reclamation required under the approved mining and reclamation plan is completed prior to the expiration of the permit, the permit may terminate. Termination of a permit does not relieve the permittee of any obligations which he has incurred under his approved mining and reclamation plan or otherwise. If the permittee wishes to continue operation of his preparation plant, his permit may remain valid but shall be modified.</section>
     <section prefix="(b)">A permit shall be void if surface mining has not commenced within two years of its issuance.</section>

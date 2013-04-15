@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-110" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">Upon the failure of a person to comply with an order to abate pollution provided for in Title 7, Subtitle 2 or Title 9, Subtitle 3 of the Environment Article, the Secretary of the Environment, if no remedy provided in Title 7, Subtitle 2 or Title 9, Subtitle 3 of the Environment Article is sought against that person, may direct the Service to provide projects necessary to abate the pollution.</section>
     <section prefix="(b)">Except as provided in subsection (d) of this section, upon receipt of the directive from the Secretary of the Environment, the Service shall provide the project necessary to abate the pollution, and the person shall discharge or deliver his wastes only to a Service project or avail himself of the projects provided by the Service to abate the pollution. The cost of projects provided by the Service to abate pollution under the terms of this section shall be borne by the person against whom the order to abate pollution was issued. That person and the Service shall determine by agreement the costs, rental, charges, or other fees to be paid by the person to the Service. If the fees and charges remain unpaid for a period of 60 days, the unpaid amount becomes a lien against the property served if it is recorded and indexed as provided in this subtitle, and the matter shall be referred to the Attorney General for collection.</section>

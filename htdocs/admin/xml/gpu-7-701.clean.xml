@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-701" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Administration" means the Maryland Energy Administration.</section>
@@ -16,7 +16,7 @@
     <section prefix="(f)">"PJM region" means the control area administered by the PJM Interconnection, Inc., as the area may change from time to time.</section>
     <section prefix="(g)">"Poultry litter" means the fecal and urinary excretions of poultry, including wood shavings, sawdust, straw, rice hulls, and other bedding material for the disposition of manure.</section>
     <section prefix="(h)">
-      <section prefix="(1)">"Qualifying biomass" means a nonhazardous, organic material that is available on a renewable or recurring basis, and is:<section prefix="(i)">waste material that is segregated from inorganic waste material and is derived from sources including:</section><section prefix="(ii)">a plant that is cultivated exclusively for purposes of being used at a Tier 1 renewable source or a Tier 2 renewable source to produce electricity.</section></section>
+      <section prefix="(1)">"Qualifying biomass" means a nonhazardous, organic material that is available on a renewable or recurring basis, and is:<section prefix="(i)">waste material that is segregated from inorganic waste material and is derived from sources including:<section prefix="1.">except for old growth timber, any of the following forest-related resources:</section><section prefix="2.">a pallet, crate, or dunnage;</section><section prefix="3.">agricultural and silvicultural sources, including tree crops, vineyard materials, grain, legumes, sugar, and other crop by-products or residues; or</section><section prefix="4.">gas produced from the anaerobic decomposition of animal waste or poultry waste; or</section></section><section prefix="(ii)">a plant that is cultivated exclusively for purposes of being used at a Tier 1 renewable source or a Tier 2 renewable source to produce electricity.</section></section>
       <section prefix="(2)">"Qualifying biomass" includes biomass listed in paragraph (1) of this subsection that is used for co-firing, subject to &#xA7; 7-704(d) of this subtitle.</section>
       <section prefix="(3)">"Qualifying biomass" does not include:<section prefix="(i)">unsegregated solid waste or postconsumer wastepaper; or</section><section prefix="(ii)">an invasive exotic plant species.</section></section>
     </section>

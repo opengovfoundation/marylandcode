@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-707" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">The procedures for notice, hearings, and judicial review that apply to proceedings under Title 3, Subtitle 2 of the Courts and Judicial Proceedings Article also apply to proceedings to recover from the Guaranty Fund.</section>
     <section prefix="(b)">On receipt of a claim, the Division shall:<section prefix="(1)">send a copy of the claim to the registrant alleged to be responsible for the actual loss; and</section><section prefix="(2)">require a written response to the claim within 30 days.</section></section>

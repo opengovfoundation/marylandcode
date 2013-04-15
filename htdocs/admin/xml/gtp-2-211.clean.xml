@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-211" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-2-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each supervisor shall keep a record of all real property assessments in the county.</section>
       <section prefix="(2)">The record shall be arranged alphabetically, according to owners, by election district or subdistrict, taxing district, or assessment area. However, the supervisor may arrange the record:<section prefix="(i)">listing the real properties in lot and block order by subdivisions, if the record also contains an alphabetical index that shows the page where the accounts listed may be located;</section><section prefix="(ii)">in Baltimore City, by wards and by blocks that correspond, as far as possible, to the block numbers used in the Baltimore City Circuit Court records; or</section><section prefix="(iii)">in an electronic medium.</section></section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Each account in the record shall show for the real property:<section prefix="(i)">the name and address of the owner;</section><section prefix="(ii)">a brief description of the property;</section><section prefix="(iii)">the specific location of the property;</section><section prefix="(iv)">the general location of the property including a deed or will reference and any tax map reference; and</section><section prefix="(v)">the assessment of:</section></section>
+      <section prefix="(1)">Each account in the record shall show for the real property:<section prefix="(i)">the name and address of the owner;</section><section prefix="(ii)">a brief description of the property;</section><section prefix="(iii)">the specific location of the property;</section><section prefix="(iv)">the general location of the property including a deed or will reference and any tax map reference; and</section><section prefix="(v)">the assessment of:<section prefix="1.">the land; and</section><section prefix="2.">any improvement on the land.</section></section></section>
       <section prefix="(2)">The details of land and improvements on the land that have been valued at different amounts shall be recorded on the respective worksheet or card.</section>
     </section>
     <section prefix="(c)">The record shall be rewritten periodically and the current record and prior records shall be retained. However, except for a record that contains current values, any record may be microfilmed as provided by State law and the original destroyed. The microfilm shall be the permanent record.</section>

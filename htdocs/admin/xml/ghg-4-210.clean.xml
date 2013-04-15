@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-210" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">The Secretary may adopt rules and regulations to govern the filing of a record of birth if a certificate of birth is not filed within the time required by &#xA7; 4-208 or &#xA7; 4-209 of this subtitle.</section>
     <section prefix="(b)">

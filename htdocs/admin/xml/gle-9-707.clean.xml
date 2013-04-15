@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-707" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">If an accidental personal injury causes disability for more than 3 days or death, the employer shall report the accidental personal injury and the disability or death to the Commission within 10 days after receiving oral or written notice of the disability or death.</section>
     <section prefix="(b)">On learning or receiving notice that a covered employee has been disabled due to an occupational disease, the employer promptly shall report the disability to the Commission.</section>

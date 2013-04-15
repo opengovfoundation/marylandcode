@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-807" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">Except when driving under a commercial driver's instructional permit and accompanied by the holder of a driver's license valid for the class of vehicle being driven, an individual may not drive a commercial motor vehicle unless the individual:<section prefix="(i)">Has been issued a commercial driver's license that:</section><section prefix="(ii)">Is in immediate possession of a driver's license valid for the class of vehicle being driven.</section></section>
+      <section prefix="(1)">Except when driving under a commercial driver's instructional permit and accompanied by the holder of a driver's license valid for the class of vehicle being driven, an individual may not drive a commercial motor vehicle unless the individual:<section prefix="(i)">Has been issued a commercial driver's license that:<section prefix="1.">Is valid for the class of vehicle being operated; and</section><section prefix="2.">Has the proper endorsements for the specific vehicle or vehicle combination being operated or for the passengers or type of cargo being transported; and</section></section><section prefix="(ii)">Is in immediate possession of a driver's license valid for the class of vehicle being driven.</section></section>
       <section prefix="(2)">It shall be a valid defense to a charge of violating paragraph (1)(ii) of this subsection for the driver to provide a certified record either from the Administration or from the licensing authority of the driver's home state showing that the driver held a valid commercial driver's license on the date of the violation.</section>
     </section>
     <section prefix="(b)">

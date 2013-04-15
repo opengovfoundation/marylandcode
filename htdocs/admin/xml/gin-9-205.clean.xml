@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-205" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-205</section_number>
-  <catch_line/>
+  <catch_line>The Commissioner, deputy commissioner, special deputy commissioner, or any person acting as receiver...</catch_line>
+  <order_by>205</order_by>
   <text>The Commissioner, deputy commissioner, special deputy commissioner, or any person acting as receiver in a rehabilitation, liquidation, or conservation as a result of a court order issued on or after January 1, 1985, shall have the immunity from liability described in &#xA7; 5-410 of the Courts Article.</text>
 </law>

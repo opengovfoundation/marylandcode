@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-108" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">In any matter subject to its jurisdiction, the Administration may subpoena any person or documents and take the testimony of any person, in the same manner and with the same fees and mileage as provided for by law in civil cases.</section>
     <section prefix="(b)">If any person fails to comply with a lawful order or subpoena issued by the Administration, the Administration may petition a court of competent jurisdiction to compel obedience to the subpoena or order and to compel the production of relevant documents and other evidence.</section>

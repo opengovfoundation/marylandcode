@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-617" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-617</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>617</order_by>
   <text>
     <section prefix="(a)">Unless otherwise provided by law, a custodian shall deny inspection of a part of a public record, as provided in this section.</section>
     <section prefix="(b)">
@@ -44,12 +44,12 @@
     </section>
     <section prefix="(l)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, a custodian shall deny inspection of the part of a public record that identifies or contains personal information about a person, including a commercial entity, that maintains an alarm or security system.</section>
-      <section prefix="(2)">A custodian shall permit inspection by:<section prefix="(i)">the person in interest;</section><section prefix="(ii)">an alarm or security system company if the company can document that it currently provides alarm or security services to the person in interest;</section><section prefix="(iii)">law enforcement personnel; and</section><section prefix="(iv)">emergency services personnel, including:</section></section>
+      <section prefix="(2)">A custodian shall permit inspection by:<section prefix="(i)">the person in interest;</section><section prefix="(ii)">an alarm or security system company if the company can document that it currently provides alarm or security services to the person in interest;</section><section prefix="(iii)">law enforcement personnel; and</section><section prefix="(iv)">emergency services personnel, including:<section prefix="1.">a career firefighter;</section><section prefix="2.">an emergency medical services provider, as defined in &#xA7; 13-516 of the Education Article;</section><section prefix="3.">a rescue squad employee; and</section><section prefix="4.">a volunteer firefighter, rescue squad member, or advanced life support unit member.</section></section></section>
     </section>
     <section prefix="(m)">
       <section prefix="(1)">"Senior citizen activities center" has the meaning stated in &#xA7; 10-513 of the Human Services Article.</section>
       <section prefix="(2)">Except as provided in paragraph (3) of this subsection, a custodian shall deny inspection of the part of a public record that contains the name, address, telephone number, or electronic mail address of any individual enrolled in or any member of a senior citizen activities center.</section>
-      <section prefix="(3)">A custodian shall permit inspection by:<section prefix="(i)">a person in interest;</section><section prefix="(ii)">law enforcement personnel; or</section><section prefix="(iii)">emergency services personnel, including:</section></section>
+      <section prefix="(3)">A custodian shall permit inspection by:<section prefix="(i)">a person in interest;</section><section prefix="(ii)">law enforcement personnel; or</section><section prefix="(iii)">emergency services personnel, including:<section prefix="1.">a career firefighter;</section><section prefix="2.">an emergency medical services provider, as defined in &#xA7; 13-516 of the Education Article;</section><section prefix="3.">a rescue squad employee; and</section><section prefix="4.">a volunteer firefighter, rescue squad member, or advanced life support unit member.</section></section></section>
     </section>
   </text>
 </law>

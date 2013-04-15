@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-208" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">If a recipient of a loan under this subtitle violates any provision of the loan documents or ceases to meet the requirements of this subtitle, the Department may, on reasonable notice to the loan recipient:<section prefix="(1)">withhold further advances of loan proceeds until the loan recipient complies with the agreement or requirements; or</section><section prefix="(2)">exercise any other remedy provided in the loan documents.</section></section>
     <section prefix="(b)">

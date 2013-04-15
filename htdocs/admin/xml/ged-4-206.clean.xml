@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-206" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-4-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">A county superintendent shall immediately notify the county board in writing of any criminal charges that are punishable by a period of incarceration brought against the county superintendent.</section>
     <section prefix="(b)">The notification required under subsection (a) of this section shall include a copy of all charging documents served on the county superintendent or the county superintendent's counsel.</section>

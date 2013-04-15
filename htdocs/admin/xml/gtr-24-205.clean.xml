@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-205" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-24-205</section_number>
-  <catch_line/>
+  <catch_line>If necessary for public safety, the State Highway Administration may prohibit the use of any highway...</catch_line>
+  <order_by>205</order_by>
   <text>If necessary for public safety, the State Highway Administration may prohibit the use of any highway bridge in this State by any person, vehicle, or class of vehicles.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-4A-01" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-4A-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "airport district" means:<section prefix="(i)">Designated land on which a privately owned commercial or public use airport is situated; and</section><section prefix="(ii)">Designated private land proximate to a commercial or public use airport.</section></section>
@@ -17,7 +17,7 @@
       <section prefix="(1)">A county or municipal corporation containing a commercial or public use airport may:<section prefix="(i)">Establish a policy for preserving land for airports;</section><section prefix="(ii)">Establish airport districts;</section><section prefix="(iii)">Acquire an easement for development rights in an airport district;</section><section prefix="(iv)">Alter or abolish an easement in an airport district; and</section><section prefix="(v)">Promote the preservation of airports in the county or municipal corporation by offering information and assistance to affected landowners with respect to the establishment of an airport district and the purchase of an easement.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">A county or municipal corporation that establishes an airport district shall establish the airport district by ordinance.</section>
-        <section prefix="(ii)">The establishment of an airport district may not take effect until all landowners in the proposed airport district have executed and recorded along with land records an agreement with the county or municipal corporation stipulating that:</section>
+        <section prefix="(ii)">The establishment of an airport district may not take effect until all landowners in the proposed airport district have executed and recorded along with land records an agreement with the county or municipal corporation stipulating that:<section prefix="1.">After the establishment of the airport district the landowner may agree to keep the landowner's land compatible with airport use in accordance with this section; and</section><section prefix="2.">The landowner has the right to offer to sell to the county or municipal corporation under the provisions of this subtitle an easement for development rights in the landowner's land.</section></section>
       </section>
       <section prefix="(3)">In designating land as an airport district or acquiring an easement in an airport district, a county or municipal corporation shall:<section prefix="(i)">Solicit from the county or municipal corporation planning and zoning body a study of the impact of an easement before acquiring an easement in an airport district;</section><section prefix="(ii)">Consider current local regulations;</section><section prefix="(iii)">Consider local patterns of land development; and</section><section prefix="(iv)">Consider local priorities for the preservation of airport land.</section></section>
       <section prefix="(4)">
@@ -30,7 +30,10 @@
       <section prefix="(1)">Except as otherwise provided in this subsection, a landowner whose land is subject to an easement may not use the land for a commercial, industrial, or residential purpose.</section>
       <section prefix="(2)">
         <section prefix="(i)">A landowner may exclude from the easement restrictions 1 acre for each single dwelling that exists at the time of the sale of the easement, by a land survey and recordation provided at the expense of the owner.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Before an exclusion is granted under subparagraph (i) of this paragraph, an owner shall agree with the county or municipal corporation not to subdivide further for residential purposes land allowed to be excluded.</section>
+          <section prefix="2.">This agreement shall be recorded among the land records where the land is located and shall bind all future owners.</section>
+        </section>
       </section>
       <section prefix="(3)">An easement in an airport district may not restrict a landowner from engaging in commercial or other activities involving agriculture, forestry, topographical enhancement, or other activities that are compatible with the future development of an airport.</section>
       <section prefix="(4)">An easement in an airport district may not prevent a landowner from engaging in commercial or other activities on the land related to normal airport operations including, but not limited to, the sale of maintenance products and services, and training schools.</section>

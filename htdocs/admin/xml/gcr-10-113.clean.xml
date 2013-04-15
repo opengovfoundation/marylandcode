@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-113" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-113</section_number>
-  <catch_line/>
+  <catch_line>An individual may not knowingly and willfully make a misrepresentation or false statement as to the ...</catch_line>
+  <order_by>113</order_by>
   <text>An individual may not knowingly and willfully make a misrepresentation or false statement as to the age of that individual or another to any person licensed to sell alcoholic beverages or engaged in the sale of alcoholic beverages, for the purpose of unlawfully obtaining, procuring, or having unlawfully furnished an alcoholic beverage to an individual.</text>
 </law>

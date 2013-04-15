@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-102" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The development of improved and expanded railroad facilities, railroad services, transit facilities, and transit services operating as a unified and coordinated regional transportation system, and the realization of transit-oriented development throughout the State, represent transportation purposes that are essential for the satisfactory movement of people and goods, the alleviation of present and future traffic congestion, the economic welfare and vitality, and the development of the metropolitan area of Baltimore and other political subdivisions of the State.</section>

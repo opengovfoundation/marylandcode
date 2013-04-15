@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-517" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-2-517</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>517</order_by>
   <text>
     <section prefix="(a)">In this section, "carrier" means:<section prefix="(1)">a health insurer;</section><section prefix="(2)">a nonprofit health service plan;</section><section prefix="(3)">a health maintenance organization; and</section><section prefix="(4)">a dental plan organization.</section></section>
     <section prefix="(b)">This section does not apply to a fixed indemnity health insurance policy or contract if the premiums are paid solely by an individual.</section>

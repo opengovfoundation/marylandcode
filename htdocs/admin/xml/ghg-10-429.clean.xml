@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-429" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-429</section_number>
-  <catch_line/>
+  <catch_line>The technical review committee shall:...</catch_line>
+  <order_by>429</order_by>
   <text>The technical review committee shall:<section prefix=""><section prefix="(1)">Provide peer review over research activities at the Center;</section><section prefix="(2)">Serve in an advisory capacity to the Executive Board and the Superintendent of the Center; and</section><section prefix="(3)">Submit an annual report to the Executive Board.</section></section></text>
 </law>

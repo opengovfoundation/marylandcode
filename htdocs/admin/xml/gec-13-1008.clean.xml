@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1008" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-13-1008</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1008</order_by>
   <text>
     <section prefix="(a)">The State and Cecil, Kent, and Queen Anne's counties may jointly finance the Council and its activities.</section>
     <section prefix="(b)">

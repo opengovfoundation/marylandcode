@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-114" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-12-114</section_number>
-  <catch_line/>
+  <catch_line>A finding by the legislative body of a county or municipal corporation, the board of directors of an...</catch_line>
+  <order_by>114</order_by>
   <text>A finding by the legislative body of a county or municipal corporation, the board of directors of an authority, or the Maryland Industrial Development Financing Authority as to the public purpose of an action taken under this subtitle, and the appropriateness of that action to serve the public purpose, is conclusive in a proceeding involving the validity or enforceability of a bond, or security for a bond, issued under this subtitle.</text>
 </law>

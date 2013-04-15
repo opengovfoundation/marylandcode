@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-310" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-310</section_number>
-  <catch_line/>
+  <catch_line>The purpose of the Board is to provide State water pollution control programs with the advice and as...</catch_line>
+  <order_by>310</order_by>
   <text>The purpose of the Board is to provide State water pollution control programs with the advice and assistance of the scientific capabilities of institutions of higher learning, private industry, and agencies of government and other public bodies that normally are not associated with water pollution control activities.</text>
 </law>

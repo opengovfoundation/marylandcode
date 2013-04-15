@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">A person has notice of an adverse claim if:<section prefix="(1)">The person knows of the adverse claim;</section><section prefix="(2)">The person is aware of facts sufficient to indicate that there is a significant probability that the adverse claim exists and deliberately avoids information that would establish the existence of the adverse claim; or</section><section prefix="(3)">The person has a duty, imposed by statute or regulation, to investigate whether an adverse claim exists, and the investigation so required would establish the existence of the adverse claim.</section></section>
     <section prefix="(b)">Having knowledge that a financial asset or interest in a financial asset is or has been transferred by a representative imposes no duty of inquiry into the rightfulness of a transaction and is not notice of an adverse claim. However, a person who knows that a representative has transferred a financial asset or interest in a financial asset in a transaction that is, or whose proceeds are being used, for the individual benefit of the representative or otherwise in breach of duty has notice of an adverse claim.</section>

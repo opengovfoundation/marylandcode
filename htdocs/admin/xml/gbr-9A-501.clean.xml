@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-501" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-9A-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, an individual may not provide, attempt to provide, or offer to provide heating, ventilation, air-conditioning, or refrigeration services unless issued a master license by the Board.</section>
     <section prefix="(b)">Except as otherwise provided in this title, an individual may not assist, attempt to assist, or offer to assist in providing heating, ventilation, air-conditioning, or refrigeration services unless issued a master restricted license by the Board.</section>

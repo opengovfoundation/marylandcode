@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-609" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">Offshore stationary blinds and offshore blind sites shall be at least 250 yards apart from each other.</section>
     <section prefix="(b)">Offshore stationary blinds and offshore blind sites shall be located within 300 yards of the shoreline or one-third the distance to the opposite shore, whichever is less, except that in the Chesapeake Bay in Anne Arundel and Calvert counties, and in Prospect Bay in Queen Anne's County, all offshore stationary blinds and blind sites may be no more than 800 yards from the shoreline.</section>

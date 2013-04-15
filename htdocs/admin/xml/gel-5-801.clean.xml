@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-801" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">A nominee may decline the nomination by filing a certificate of declination on the prescribed form.</section>
     <section prefix="(b)">The certificate of declination shall be under oath and filed:<section prefix="(1)">with the board at which the certificate of candidacy was filed; and</section><section prefix="(2)"><section prefix="(i)">in the year of a gubernatorial election or the year of an election for the Mayor of the City of Baltimore, within 2 days after the election results are certified; or</section><section prefix="(ii)">in the year of a presidential election, by the 70th day preceding the general election.</section></section></section>

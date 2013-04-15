@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-114" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">A victim or victim's representative who receives notification under &#xA7; 11-113(b) of this subtitle may disclose the results of the test to another person to protect the health and safety of, or to seek compensation for, the victim, the victim's sexual partner, or the victim's family.</section>
     <section prefix="(b)">

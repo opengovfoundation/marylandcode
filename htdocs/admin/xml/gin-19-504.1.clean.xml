@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-504.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-504.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504.1</order_by>
   <text>
     <section prefix="(a)">This section applies only when the liability coverage under a policy or binder of private passenger motor vehicle liability insurance exceeds the amount required under &#xA7; 17-103 of the Transportation Article.</section>
     <section prefix="(b)">An insurer shall offer to the first named insured under a policy or binder of private passenger motor vehicle liability insurance liability coverage for claims made by a family member in the same amount as the liability coverage for claims made by a nonfamily member under the policy or binder.</section>

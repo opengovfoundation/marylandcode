@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-306" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-9-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Maryland railroad company may:<section prefix="(i)">cross or divert a highway whenever necessary for the construction of a railroad;</section><section prefix="(ii)">at its own cost and expense, carry a highway over its track by an overgrade crossing, or under its track by an undergrade crossing if the Maryland railroad company considers that the highway crossing is dangerous; and</section><section prefix="(iii)">exercise the powers of condemnation, under Title 5, Subtitle 4 of this article and Title 12 of the Real Property Article, to acquire additional property and rights necessary to construct an overgrade or undergrade crossing.</section></section>

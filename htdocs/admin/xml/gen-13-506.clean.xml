@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-506" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-13-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">Instead of or in addition to any other penalties under this title, the Board may impose a civil penalty on a person who violates &#xA7; 13-501 or &#xA7; 13-502 of this subtitle in an amount not exceeding $1,000 per day for all violations cited on a single day.</section>
     <section prefix="(b)">In setting the amount of the civil penalty, the Board shall consider:<section prefix="(1)">The seriousness of the violation;</section><section prefix="(2)">The harm caused by the violation;</section><section prefix="(3)">The good faith of the violator;</section><section prefix="(4)">History of previous violations by the violator; and</section><section prefix="(5)">Other relevant factors.</section></section>

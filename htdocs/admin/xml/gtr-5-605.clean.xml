@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-605" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">By appropriate action of their respective governing bodies, any two or more political subdivisions may agree to create a joint board and delegate to it the power granted by this subtitle to adopt and enforce airport zoning regulations for any airport located wholly or partly in any one or more of the political subdivisions.</section>

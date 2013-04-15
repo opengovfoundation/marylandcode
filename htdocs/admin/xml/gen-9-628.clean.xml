@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-628" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-628</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>628</order_by>
   <text>
     <section prefix="(a)">In addition to the other powers to make advances set forth in this subtitle, the governing body of a member county may make advances to a district in accordance with this section.</section>
     <section prefix="(b)">The advances shall be for the purpose of meeting the necessary operating and overhead expenses of the district from the time the district is created until it can receive funds that may be used to pay these expenses.</section>

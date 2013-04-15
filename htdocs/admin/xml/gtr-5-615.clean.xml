@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-615" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-615</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>615</order_by>
   <text>
     <section prefix="(a)">Any aggrieved person or any officer or agency of the political subdivision may appeal from a decision of the board of appeals to a court of competent jurisdiction.</section>
     <section prefix="(b)">If, at the hearing, it appears to the court that testimony is necessary for the proper disposition of the matter, the court may take evidence or appoint a commissioner to take the evidence that the court directs and report to the court with his findings of fact and conclusions of law. These findings and conclusions constitute a part of the proceedings on which the determination of the court shall be made.</section>

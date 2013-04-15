@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3A-35" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3A-35</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>35</order_by>
   <text>
     <section prefix="(a)">A court may enter an order for a child's adoption under this subtitle only if:<section prefix="(1)">the child placement agency consents; and</section><section prefix="(2)">for a child who is at least 10 years old, the child consents.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">
-        <section prefix="(i)">In this subsection, "disability" means:</section>
-        <section prefix="(ii)">"Disability" includes:</section>
+        <section prefix="(i)">In this subsection, "disability" means:<section prefix="1.">a physical disability, infirmity, malformation, or disfigurement that is caused by bodily injury, birth defect, or illness, including epilepsy;</section><section prefix="2.">a mental impairment or deficiency;</section><section prefix="3.">a record of having a physical or mental impairment as defined under this paragraph; or</section><section prefix="4.">being regarded as having a physical or mental impairment as defined under this paragraph.</section></section>
+        <section prefix="(ii)">"Disability" includes:<section prefix="1.">any degree of paralysis or amputation;</section><section prefix="2.">blindness or visual impairment;</section><section prefix="3.">deafness or hearing impairment;</section><section prefix="4.">muteness or speech impediment;</section><section prefix="5.">physical reliance on a service animal or a wheelchair or other remedial appliance or device; and</section><section prefix="6.">intellectual disability, as defined in &#xA7; 7-101 of the Health - General Article, and any other mental impairment or deficiency that may have necessitated remedial or special education and related services.</section></section>
       </section>
       <section prefix="(2)">A child placement agency may not withhold consent for the sole reason that:<section prefix="(i)">the race, religion, color, or national origin of a prospective adoptive parent differs from that of the child or parent; or</section><section prefix="(ii)">a prospective adoptive parent has a disability.</section></section>
     </section>

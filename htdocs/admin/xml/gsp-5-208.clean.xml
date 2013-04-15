@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-208" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-5-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">All personnel actions concerning an employee in the Executive Branch of State government shall be made in accordance with &#xA7; 2-302 of this article.</section>
     <section prefix="(b)">Personnel actions concerning an employee or applicant for employment in the skilled service or professional service of the State Personnel Management System or comparable position in an independent personnel system in the Executive Branch of State government shall also be made without regard to:<section prefix="(1)">political affiliation, belief, or opinion; or</section><section prefix="(2)">any other nonmerit factor.</section></section>

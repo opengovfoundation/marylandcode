@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-710" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-710</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>710</order_by>
   <text>
     <section prefix="(a)">To qualify for a certificate of authority to operate as a health maintenance organization, an applicant shall satisfy the Commissioner that the applicant will meet the requirements of this section.</section>
     <section prefix="(b)">The applicant shall conform to the definition of a health maintenance organization.</section>
@@ -20,7 +20,10 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">For the protection of the health maintenance organization's members and creditors, the applicant shall deposit and maintain in trust with the State Treasurer $100,000 in cash or government securities of the type described in &#xA7; 5-701(b) of the Insurance Article.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The deposits shall be accepted and held in trust by the State Treasurer in accordance with Title 5, Subtitle 7 of the Insurance Article.</section>
+          <section prefix="2.">For the purpose of applying this subparagraph, a health maintenance organization shall be treated as an insurer.</section>
+        </section>
       </section>
       <section prefix="(4)">The Commissioner may waive the surplus and deposit requirements contained in this subsection if the Commissioner is satisfied that:<section prefix="(i)">The health maintenance organization has sufficient net worth and an adequate history of generating net income to assure financial viability for the next year;</section><section prefix="(ii)">The health maintenance organization's performance and obligations are guaranteed by another person with sufficient net worth and an adequate history of generating net income; or</section><section prefix="(iii)">The assets of the health maintenance organization or contracts with insurers, governments, providers, or other persons are sufficient to reasonably assure the performance of the health maintenance organization's obligations.</section></section>
     </section>
@@ -45,7 +48,7 @@
     </section>
     <section prefix="(m)">The health maintenance organization shall provide an internal grievance system to resolve adequately any grievances initiated by any of its members, in a manner approved by the Department on matters concerning quality of care and by the Commissioner on all other matters covered by this subtitle, under rules and regulations adopted under this subtitle.</section>
     <section prefix="(n)">The health maintenance organization shall establish procedures to offer each member an opportunity to participate in matters of policy and operation.</section>
-    <section prefix="(o)">The health maintenance organization shall maintain a health and medical records system that:<section prefix="(1)">Under procedures assuring maximum confidentiality, is readily accessible to authorized persons;</section><section prefix="(2)">Can accurately document use by each member; and</section><section prefix="(3)">At a minimum:<section prefix="(i)">Identifies clearly each patient by:</section><section prefix="(ii)">Shows clearly:</section></section></section>
+    <section prefix="(o)">The health maintenance organization shall maintain a health and medical records system that:<section prefix="(1)">Under procedures assuring maximum confidentiality, is readily accessible to authorized persons;</section><section prefix="(2)">Can accurately document use by each member; and</section><section prefix="(3)">At a minimum:<section prefix="(i)">Identifies clearly each patient by:<section prefix="1.">Name;</section><section prefix="2.">Number;</section><section prefix="3.">Age; and</section><section prefix="4.">Sex; and</section></section><section prefix="(ii)">Shows clearly:<section prefix="1.">The services provided;</section><section prefix="2.">When the services are provided;</section><section prefix="3.">Where the services are provided;</section><section prefix="4.">By whom the services are provided;</section><section prefix="5.">The diagnosis and prognosis, if appropriate;</section><section prefix="6.">The treatment;</section><section prefix="7.">Any drug therapy; and</section><section prefix="8.">The health status of the patient, if appropriate.</section></section></section></section>
     <section prefix="(p)">
       <section prefix="(1)">Except as provided in paragraph (3) of this subsection, individual enrollees and subscribers of health maintenance organizations issued certificates of authority to operate in this State shall not be liable to any health care provider for any covered services provided to the enrollee or subscriber.</section>
       <section prefix="(2)">
@@ -55,8 +58,8 @@
       <section prefix="(3)">Notwithstanding any other provision of this subsection, a health care provider or representative of a health care provider may collect or attempt to collect from a subscriber or enrollee:<section prefix="(i)">Any copayment or coinsurance sums owed by the subscriber or enrollee to a health maintenance organization issued a certificate of authority to operate in this State for covered services provided by the health care provider;</section><section prefix="(ii)">If Medicare is the primary insurer and a health maintenance organization is the secondary insurer, any amount up to the Medicare approved or limiting amount, as specified under the Social Security Act, that is not owed to the health care provider by Medicare or the health maintenance organization after coordination of benefits has been completed, for Medicare covered services provided to the subscriber or enrollee by the health care provider; or</section><section prefix="(iii)">Any payment or charges for services that are not covered services.</section></section>
     </section>
     <section prefix="(q)">
-      <section prefix="(1)">The Commissioner shall require each health maintenance organization to have an insolvency plan by January 1, 1990 which provides for:<section prefix="(i)">Continuation of benefits to subscribers and enrollees for the duration of the contract period for which premiums have been paid; and</section><section prefix="(ii)">Continuation of benefits to subscribers or enrollees who are admitted to an inpatient health care facility on the date of insolvency until, the earlier of:</section></section>
-      <section prefix="(2)">In determining the adequacy of any insolvency plan, the Commissioner may consider:<section prefix="(i)">The existence of insurance to cover expenses incurred in continuing benefits after an insolvency;</section><section prefix="(ii)">Provisions in provider contracts obligating providers to continue to provide services to enrollees or subscribers:</section><section prefix="(iii)">Reserves;</section><section prefix="(iv)">Letters of credit;</section><section prefix="(v)">Guarantees; or</section><section prefix="(vi)">Any other arrangement to assure that benefits are continued in accordance with the provisions of paragraph (1) of this subsection.</section></section>
+      <section prefix="(1)">The Commissioner shall require each health maintenance organization to have an insolvency plan by January 1, 1990 which provides for:<section prefix="(i)">Continuation of benefits to subscribers and enrollees for the duration of the contract period for which premiums have been paid; and</section><section prefix="(ii)">Continuation of benefits to subscribers or enrollees who are admitted to an inpatient health care facility on the date of insolvency until, the earlier of:<section prefix="1.">The subscriber or enrollee is discharged from the inpatient health care facility; or</section><section prefix="2.">365 days.</section></section></section>
+      <section prefix="(2)">In determining the adequacy of any insolvency plan, the Commissioner may consider:<section prefix="(i)">The existence of insurance to cover expenses incurred in continuing benefits after an insolvency;</section><section prefix="(ii)">Provisions in provider contracts obligating providers to continue to provide services to enrollees or subscribers:<section prefix="1.">For the duration of the contract period for which premiums have been made; and</section><section prefix="2.">If admitted to an inpatient health care facility, until the enrollee or subscriber is discharged or 365 days, whichever occurs first;</section></section><section prefix="(iii)">Reserves;</section><section prefix="(iv)">Letters of credit;</section><section prefix="(v)">Guarantees; or</section><section prefix="(vi)">Any other arrangement to assure that benefits are continued in accordance with the provisions of paragraph (1) of this subsection.</section></section>
     </section>
     <section prefix="(r)">Repealed.</section>
     <section prefix="(s)">

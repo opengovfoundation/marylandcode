@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-502" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-502</section_number>
-  <catch_line/>
+  <catch_line>The General Assembly finds that public buildings that lack facilities for handicapped individuals:...</catch_line>
+  <order_by>502</order_by>
   <text>The General Assembly finds that public buildings that lack facilities for handicapped individuals:<section prefix=""><section prefix="(1)">create a substantial risk of death or injury to handicapped individuals and others in both normal and emergency conditions; and</section><section prefix="(2)">impair the full use and enjoyment of the public buildings by handicapped individuals for education, employment, recreation, training, or treatment.</section></section></text>
 </law>

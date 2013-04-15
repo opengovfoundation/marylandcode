@@ -1,20 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-401" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-17-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection only applies to individuals certified by the Board as a certified professional counselor or certified professional counselor-marriage and family therapist on or before September 30, 2008.</section>
       <section prefix="(2)">
-        <section prefix="(i)">An individual shall be certified as a professional counselor by the Board before the individual may:</section>
+        <section prefix="(i)">An individual shall be certified as a professional counselor by the Board before the individual may:<section prefix="1.">Use the title "certified professional counselor";</section><section prefix="2.">Use the initials "C.P.C." after the name of the individual; or</section><section prefix="3.">Represent to the public that the individual is certified as a professional counselor.</section></section>
         <section prefix="(ii)">A certificate to practice professional counseling issued by the Board authorizes the certificate holder to practice professional counseling while the certificate is effective.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">An individual shall be certified as a professional counselor-marriage and family therapist by the Board before the individual may:</section>
+        <section prefix="(i)">An individual shall be certified as a professional counselor-marriage and family therapist by the Board before the individual may:<section prefix="1.">Use the title "certified professional counselor-marriage and family therapist";</section><section prefix="2.">Use the initials "C.P.C.-M.F.T." after the name of the individual; or</section><section prefix="3.">Represent to the public that the individual is certified as a certified professional counselor-marriage and family therapist.</section></section>
         <section prefix="(ii)">A certificate to practice marriage and family therapy issued by the Board authorizes the certificate holder to practice marriage and family therapy while the certificate is effective.</section>
       </section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-103" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">There is a body politic and corporate known as the "Maryland Environmental Service". The Service is an instrumentality of the State and a public corporation by that name, style, and title, and the exercise by the Service of the powers conferred by this subtitle is the performance of an essential governmental function of the State.</section>
     <section prefix="(b)">
@@ -37,16 +37,16 @@
       <section prefix="(2)">The Service is exempt from the provisions of Division II of the State Finance and Procurement Article, but is not exempt from Subtitle 3 of Title 14, Subtitle 4 of Title 12, Title 16, and Title 17 of the State Finance and Procurement Article.</section>
       <section prefix="(3)">
         <section prefix="(i)">Except as otherwise provided in this paragraph, all procurements by the Service for materials, equipment, services, or supplies performed or furnished in connection with the planning, development, design, equipping, construction, or operation of any project owned or controlled by the Service, shall be awarded in accordance with rules and regulations adopted pursuant to the Administrative Procedure Act.</section>
-        <section prefix="(ii)">The Service may procure materials, equipment, services, or supplies by utilizing:</section>
+        <section prefix="(ii)">The Service may procure materials, equipment, services, or supplies by utilizing:<section prefix="1.">Competitive sealed bids;</section><section prefix="2.">Competitive sealed proposals;</section><section prefix="3.">Sole source procurement;</section><section prefix="4.">Intergovernmental cooperative purchasing agreements;</section><section prefix="5.">A small procurement process, if the procurement is estimated by the Service to result in an expenditure of $25,000 or less; or</section><section prefix="6.">An emergency procurement process, if the procurement is necessary to avoid or to mitigate serious damage to public health, safety, or welfare.</section></section>
       </section>
       <section prefix="(4)">The Service may adopt rules and regulations to provide a process to resolve disputes between the Service and its contractors, that may include alternative dispute resolution by the parties to the dispute.</section>
     </section>
     <section prefix="(h)">
-      <section prefix="(1)">The Service:<section prefix="(i)">May create and establish 1 or more project reserve funds in such amounts as the Board considers appropriate, including the following project reserve funds:</section><section prefix="(ii)">Subject to paragraph (2) of this subsection, may pay into such funds:</section></section>
+      <section prefix="(1)">The Service:<section prefix="(i)">May create and establish 1 or more project reserve funds in such amounts as the Board considers appropriate, including the following project reserve funds:<section prefix="1.">An Eastern Correctional Institution Steam Turbine Contingency Fund;</section><section prefix="2.">A Department of Natural Resources Project Contingency Fund; and</section><section prefix="3.">A Reimbursable Project Contingency Fund; and</section></section><section prefix="(ii)">Subject to paragraph (2) of this subsection, may pay into such funds:<section prefix="1.">Any moneys appropriated and made available by the State for the purposes of such funds;</section><section prefix="2.">Any proceeds from the sale of bonds or notes, to the extent provided in the resolution authorizing the issuance of the bonds or notes;</section><section prefix="3.">Revenues derived from a project of the Service; and</section><section prefix="4.">Any other moneys which may be received by or otherwise made available to the Service from any other source or sources which the Service has designated for deposit into such funds.</section></section></section>
       <section prefix="(2)">Moneys held in or credited to a project reserve fund established under this subsection shall be used solely to accomplish the purposes of this subtitle, as determined by the Board and, subject to paragraph (3) of this subsection, may be retained by the Service in the appropriate project reserve fund based on the project for which the money was received by the Service.</section>
       <section prefix="(3)">
         <section prefix="(i)">The Service may credit to a project reserve fund established under paragraph (1)(i)1 through 3 of this subsection only moneys that are reimbursable to the State.</section>
-        <section prefix="(ii)">The Service may not retain more than:</section>
+        <section prefix="(ii)">The Service may not retain more than:<section prefix="1.">$1,500,000 in the Eastern Correctional Institution Turbine Project Contingency Fund;</section><section prefix="2.">$500,000 in the Department of Natural Resources Project Contingency Fund; or</section><section prefix="3.">$1,000,000 in the Reimbursable Project Contingency Fund.</section></section>
         <section prefix="(iii)">If at the end of a fiscal year the balance in a project reserve fund exceeds the limits stated in subparagraph (ii) of this paragraph, the Service shall revert the excess to the State fund from which the moneys in the project reserve fund were originally appropriated.</section>
       </section>
       <section prefix="(4)">Moneys appropriated or made available to the Service by the State shall be expended in accordance with the provisions of this subtitle.</section>

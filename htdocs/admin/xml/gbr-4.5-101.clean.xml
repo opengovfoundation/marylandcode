@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-101" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Consumer" means an owner or a contract purchaser.</section>
@@ -22,7 +22,7 @@
     <section prefix="(i)">
       <section prefix="(1)">"Home builder sales representative" means an individual employed by a home builder as the home builder's representative to consumers regarding the purchase of a new home from the home builder.</section>
       <section prefix="(2)">"Home builder sales representative" includes individuals employed by a person who erects or constructs new homes solely in Montgomery County and is not required to register under this title.</section>
-      <section prefix="(3)">"Home builder sales representative" does not include:<section prefix="(i)">an individual employed by an installer or retailer of mobile homes or industrialized buildings intended for residential use; or</section><section prefix="(ii)">an employee or officer agent for a nonprofit organization, with at least a 2-year record in the State as a developer of affordable housing for persons with low to moderate incomes, in the initial sale of a home if:</section></section>
+      <section prefix="(3)">"Home builder sales representative" does not include:<section prefix="(i)">an individual employed by an installer or retailer of mobile homes or industrialized buildings intended for residential use; or</section><section prefix="(ii)">an employee or officer agent for a nonprofit organization, with at least a 2-year record in the State as a developer of affordable housing for persons with low to moderate incomes, in the initial sale of a home if:<section prefix="1.">the home is constructed or rehabilitated by the nonprofit organization; and</section><section prefix="2.">the purchaser of the home is using federal, State, or local government or other subsidized financing administered by the nonprofit organization for the purpose of assisting individuals with low to moderate incomes to purchase homes.</section></section></section>
     </section>
     <section prefix="(j)">"Industrialized building" has the meaning stated in &#xA7; 12-301 of the Public Safety Article.</section>
     <section prefix="(k)">"Install" has the meaning stated in &#xA7; 12-301 of the Public Safety Article.</section>

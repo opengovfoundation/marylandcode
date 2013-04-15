@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-605" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-5-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">Property of the decedent discovered after the filing of the petition shall be reported immediately by supplemental petition.</section>
     <section prefix="(b)">If no administration was had in accordance with &#xA7; 5-603(a)(4) of this subtitle because of the failure to include after-discovered property in the original petition, the register shall direct appropriate proceedings.</section>

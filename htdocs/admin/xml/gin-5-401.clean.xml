@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-401" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except for securities subject to amortization and except as otherwise provided in this title, an insurer's investments shall be valued, at the discretion of the Commissioner, at:<section prefix="(i)">their appraised value;</section><section prefix="(ii)">their fair market value; or</section><section prefix="(iii)">prices that the Commissioner determines represent their fair market value.</section></section>

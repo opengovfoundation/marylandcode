@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-912" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-912</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>912</order_by>
   <text>
     <section prefix="(a)">On request, a correctional officer may have expunged from any file the record of a formal complaint made against the correctional officer if:<section prefix="(1)">	the Internal Investigative Unit that investigated the complaint:<section prefix="(i)">exonerated the correctional officer of all charges in the complaint; or</section><section prefix="(ii)">determined that the charges were unsustained or unfounded; or</section></section><section prefix="(2)">a hearing board acquitted the correctional officer, dismissed the action, or made a finding of not guilty.</section></section>
     <section prefix="(b)">There is no time requirement for expungement under paragraph (1) of this subsection.</section>

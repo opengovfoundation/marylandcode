@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-1-301</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise provided by law, a person who is convicted of being an accessory after the fact to ...</catch_line>
+  <order_by>301</order_by>
   <text>Unless otherwise provided by law, a person who is convicted of being an accessory after the fact to a felony is guilty of a felony and on conviction is subject to the lesser of:<section prefix=""><section prefix="(1)">imprisonment not exceeding 5 years; or</section><section prefix="(2)">a penalty not exceeding the maximum penalty provided by law for committing the underlying felony.</section></section></text>
 </law>

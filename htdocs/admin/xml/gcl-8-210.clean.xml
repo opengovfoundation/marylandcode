@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-210" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">In this section, "overissue" means the issue of securities in excess of the amount the issuer has corporate power to issue, but an overissue does not occur if appropriate action has cured the overissue.</section>
     <section prefix="(b)">Except as otherwise provided in subsections (c) and (d) of this section, the provisions of this title which validate a security or compel its issue or reissue do not apply to the extent that validation, issue, or reissue would result in overissue.</section>

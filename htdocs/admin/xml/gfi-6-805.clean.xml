@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-805" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">Any credit union voluntarily may place its business and assets in the hands of the Commissioner for liquidation as provided in this section.</section>
     <section prefix="(b)">A majority of the board proposing a voluntary receivership shall:<section prefix="(1)">Adopt a resolution that declares that the voluntary receivership is advisable; and</section><section prefix="(2)">Set a date for a vote on the proposed voluntary receivership by the members of the credit union at an annual or special meeting of the members or by mail ballot to be filed on or before that date.</section></section>

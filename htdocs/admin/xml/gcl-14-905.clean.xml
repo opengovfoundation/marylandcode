@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-905" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">The manufacturer or importer of any mezuzah or tefillin represented as kosher or as produced under rabbinical or other supervision may not sell the product or offer it for sale unless the following information is printed legibly on the package of the product or on a label securely attached to the product:<section prefix="(1)">The name and address of the manufacturer or importer; and</section><section prefix="(2)">If the mezuzah or tefillin, in the form reasonably expected to be sold at retail, is not intended to be represented as kosher, the word "nonkosher".</section></section>
     <section prefix="(b)">A person may not sell or offer for sale at retail any mezuzah or tefillin represented to the public as kosher or as produced under rabbinical supervision that does not have on or attached to it the information required by subsection (a) of this section.</section>

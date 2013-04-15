@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-805" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-805</section_number>
-  <catch_line/>
+  <catch_line>Subject to the provisions of the Administrative Procedure Act, the Department may deny, suspend, or ...</catch_line>
+  <order_by>805</order_by>
   <text>Subject to the provisions of the Administrative Procedure Act, the Department may deny, suspend, or revoke a certificate or license for a violation of this subtitle or for a violation of any regulation adopted under this subtitle by the Department.</text>
 </law>

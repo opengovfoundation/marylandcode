@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-321" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-8-321</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>321</order_by>
   <text>
     <section prefix="(a)">The Board may disclose any information contained in the proceedings, records, and files of the Board to any health occupation regulatory board of the State or another state if the health occupation regulatory board requests the information in writing.</section>
     <section prefix="(b)">A health occupation regulatory board that receives information from the Board under subsection (a) of this section may not redisclose the information without the consent of the Board.</section>

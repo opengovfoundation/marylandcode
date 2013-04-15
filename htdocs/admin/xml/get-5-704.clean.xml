@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-704" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-5-704</section_number>
-  <catch_line/>
+  <catch_line>After filing an election for modified administration, the personal representative shall:...</catch_line>
+  <order_by>704</order_by>
   <text>After filing an election for modified administration, the personal representative shall:<section prefix=""><section prefix="(1)">File a verified final report under modified administration no later than 10 months from the date of appointment instead of filing a formal inventory and account; and</section><section prefix="(2)">On the request of any interested person, provide a formal inventory and account, as required under Title 7 of this article, to all interested persons.</section></section></text>
 </law>

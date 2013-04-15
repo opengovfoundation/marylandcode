@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-722" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-722</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>722</order_by>
   <text>
     <section prefix="(a)">To provide funds for the payment of principal and interest on indebtedness that is incurred to finance any water or sewerage system, a political subdivision may:<section prefix="(1)">Establish a reasonable charge that is not less than the actual cost, payable to the political subdivision, for connection with a water or sewerage system; and</section><section prefix="(2)">Set an annual assessment, payable to the political subdivision, on all property, improved or unimproved, that abuts on any street, road, lane, alley, or right-of-way in which there is a water main or sewer.</section></section>
     <section prefix="(b)">Except for special provisions that apply only in certain political subdivisions, the provisions of &#xA7;&#xA7; 9-655 through 9-658 of this title govern the imposition of assessments under this section.</section>

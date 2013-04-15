@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-14B-01" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-14B-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">As provided in subsection (e) of this section, a portion of the revenues from the quality assessment that is assessed under &#xA7; 19-310.1 of this title shall be distributed to nursing facilities subject to &#xA7; 19-310.1 of this title based on accountability measures that indicate quality of care or a commitment to quality of care.</section>

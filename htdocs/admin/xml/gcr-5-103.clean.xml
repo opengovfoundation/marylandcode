@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">Subject to paragraph (2) of this subsection, this title does not apply to the sale of a prescription drug:<section prefix="(i)">made to an authorized provider; or</section><section prefix="(ii)">made by a manufacturer, wholesale distributor, or pharmacist licensed by the State to:</section></section>
+      <section prefix="(1)">Subject to paragraph (2) of this subsection, this title does not apply to the sale of a prescription drug:<section prefix="(i)">made to an authorized provider; or</section><section prefix="(ii)">made by a manufacturer, wholesale distributor, or pharmacist licensed by the State to:<section prefix="1.">another manufacturer, wholesale distributor, or pharmacist licensed by the State; or</section><section prefix="2.">a hospital or institution that operates a dispensary in which an authorized provider licensed to administer prescription drugs is in charge.</section></section></section>
       <section prefix="(2)">A sale is exempt from this title only if a record of the sale:<section prefix="(i)">is maintained and available for inspection; and</section><section prefix="(ii)">shows the date of sale, the name and address of the purchaser, and the quantity purchased.</section></section>
     </section>
     <section prefix="(b)">This title does not apply to:<section prefix="(1)">the distribution of a prescription drug, device, or supply for the treatment, care, or cure of farm animals, poultry, fowl, or other animals used in furtherance of farming activities;</section><section prefix="(2)">the sale or offering for sale, or the distribution of seeds, feed for livestock and poultry, fertilizers, lime, land plaster, fungicides, and insecticides; or</section><section prefix="(3)">a drug that on June 1, 1961, could be sold without a prescription.</section></section>

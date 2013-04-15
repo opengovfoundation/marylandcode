@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-401" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-8-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Delivered for final consumption" means delivered by a public service company in its service area as measured at the customer meter or other point of final delivery.</section>
@@ -14,7 +14,7 @@
       <section prefix="(2)">"Gross receipts" includes:<section prefix="(i)">gross or total earnings and total receipts;</section><section prefix="(ii)">for a telephone company, the full amount of approved and applicable federal and State tariff charges for telephone lifeline service without the discount provided by &#xA7; 8-201(c) of the Public Utilities Article; and</section><section prefix="(iii)">for a telecommunications company providing interstate long distance telecommunications service, the gross charges from the sale of long distance telecommunications service that originates or terminates in the State and for which a charge is made to a service address located in the State, regardless of where the amount is billed or paid.</section></section>
       <section prefix="(3)">"Gross receipts" does not include:<section prefix="(i)">any revenue that a public service company derives from an activity other than an electric, gas, or telephone business; or</section><section prefix="(ii)">net uncollectible revenue.</section></section>
       <section prefix="(4)">For a public service company engaged in a telephone business in the State, gross receipts does not include:<section prefix="(i)">gross charges from the sale by the public service company to another public service company subject to the tax imposed by this subtitle of a service or product for resale;</section><section prefix="(ii)">gross charges from the sale by the public service company of Internet access service by which a connection is provided between a computer and the Internet; or</section><section prefix="(iii)">gross charges from the sale of telecommunications service obtained by using a prepaid telephone calling arrangement, as defined in &#xA7; 11-101 of this article.</section></section>
-      <section prefix="(5)">For a public service company engaged in the transmission, distribution, or delivery of electricity or gas in the State:<section prefix="(i)">"gross receipts" includes:</section><section prefix="(ii)">"gross receipts" does not include:</section></section>
+      <section prefix="(5)">For a public service company engaged in the transmission, distribution, or delivery of electricity or gas in the State:<section prefix="(i)">"gross receipts" includes:<section prefix="1.">except as provided in item (ii)2 and 3 of this paragraph, gross charges for the transmission, distribution, or delivery of electricity or natural gas or for distribution or delivery-related services; and</section><section prefix="2.">competitive transition charges, intangible transition charges, and any other surcharge or other cost-recovery mechanism authorized for recovery of transition costs or the costs of demand side management or other energy conservation programs, universal service or other public purpose programs, or consumer education programs; and</section></section><section prefix="(ii)">"gross receipts" does not include:<section prefix="1.">gross charges from the sale of electricity or natural gas;</section><section prefix="2.">gross charges from the transmission, distribution, or delivery of electricity or natural gas to another public service company subject to the tax imposed under &#xA7; 8-402 of this subtitle if the buyer intends to resell the electricity or natural gas; or</section><section prefix="3.">gross charges from an interstate transmission network or from the transmission, distribution, or delivery of electricity or natural gas to a customer located in another state.</section></section></section>
     </section>
     <section prefix="(d)">"Long distance telecommunications service" means telecommunications service for a telecommunication that does not originate and terminate in the same local calling area.</section>
     <section prefix="(e)">"Production activity" has the meaning stated in &#xA7; 11-101 of this article.</section>

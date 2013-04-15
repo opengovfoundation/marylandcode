@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-306" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">A dealer shall allow an authorized law enforcement officer or agent, on request, to enter the place of business or storage premises of the dealer during business hours to inspect a record required to be maintained under this title or precious metal object as part of a stolen property investigation or an investigation of a violation of this title.</section>
     <section prefix="(b)">

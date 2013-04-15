@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-418" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-418</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>418</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the provisions of paragraph (2) of this subsection, a licensee shall have at all times permissible investments having an aggregate market value, calculated in accordance with generally accepted accounting principles, of not less than the aggregate face amount of all outstanding payment instruments issued or sold by the licensee in the United States.</section>

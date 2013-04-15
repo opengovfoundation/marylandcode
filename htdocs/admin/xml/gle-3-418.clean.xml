@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-418" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-418</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>418</order_by>
   <text>
     <section prefix="(a)">In this section, "board, lodging, or other advantage" means a facility or service that an employer customarily provides to an employee.</section>
     <section prefix="(b)">Unless a collective bargaining agreement excludes board, lodging, or other advantage from the wage of an employee, an employer may include, as part of the wage, the cost that the employer incurs in providing the advantage to the employee.</section>

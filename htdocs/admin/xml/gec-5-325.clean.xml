@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-325" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-325</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>325</order_by>
   <text>
     <section prefix="(a)">Subject to the restrictions of this subtitle, the Department or Authority may impose the terms and conditions on financial assistance from the Fund as either considers appropriate.</section>
     <section prefix="(b)">
       <section prefix="(1)">Except as provided in paragraph (2), (3), or (4) of this subsection, financial assistance from the Fund may not exceed 70% of the total costs of the project being financed.</section>
-      <section prefix="(2)">Financial assistance from the Fund may constitute 100% of the total costs of the project being financed if:<section prefix="(i)">the recipient is the Corporation; or</section><section prefix="(ii)">the financial assistance is for:</section></section>
+      <section prefix="(2)">Financial assistance from the Fund may constitute 100% of the total costs of the project being financed if:<section prefix="(i)">the recipient is the Corporation; or</section><section prefix="(ii)">the financial assistance is for:<section prefix="1.">an arts and entertainment enterprise;</section><section prefix="2.">an arts and entertainment project; or</section><section prefix="3.">a qualified distressed county project.</section></section></section>
       <section prefix="(3)">
-        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, financial assistance from the Fund:</section>
+        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, financial assistance from the Fund:<section prefix="1.">may be used to finance up to 50% of the costs of construction, purchase, or renovation of real property, fixtures, or equipment related to a child care facility; but</section><section prefix="2.">may not be used for working capital, supplies, or inventory related to a child care facility.</section></section>
         <section prefix="(ii)">Financial assistance from the Fund may be used to finance up to 20% of the costs described in subparagraph (i) of this paragraph incurred by a business that has received or will receive a day care loan insured by the Maryland Industrial Development Financing Authority.</section>
       </section>
       <section prefix="(4)">Financial assistance for preparation of a strategy or plan for economic development of a county or municipal corporation may not exceed:<section prefix="(i)">50% of the costs of preparation; or</section><section prefix="(ii)">$50,000 in a 3-year period.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-12-301</section_number>
-  <catch_line/>
+  <catch_line>Except as provided in &#xA7; 12-302 of this subtitle, a party may appeal from a final judgment entered i...</catch_line>
+  <order_by>301</order_by>
   <text>Except as provided in &#xA7; 12-302 of this subtitle, a party may appeal from a final judgment entered in a civil or criminal case by a circuit court. The right of appeal exists from a final judgment entered by a court in the exercise of original, special, limited, statutory jurisdiction, unless in a particular case the right of appeal is expressly denied by law. In a criminal case, the defendant may appeal even though imposition or execution of sentence has been suspended. In a civil case, a plaintiff who has accepted a remittitur may cross-appeal from the final judgment.</text>
 </law>

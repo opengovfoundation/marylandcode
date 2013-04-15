@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-305" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-7-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">In this section, "excess rent" means rent that exceeds the rent payable by a tenant under the tenant's lease as of the date of the notice of intent, adjusted as allowed under &#xA7; 7-212(c) of this title.</section>
     <section prefix="(b)">Until 1 year has passed since the owner gave notice of intent, and the owner complies with the requirements of this title, nonpayment of excess rent is not grounds for an owner to:<section prefix="(1)">terminate a lease of an assisted unit; or</section><section prefix="(2)">sue for possession of the leased property.</section></section>

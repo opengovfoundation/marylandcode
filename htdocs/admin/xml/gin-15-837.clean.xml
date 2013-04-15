@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-837" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-837</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>837</order_by>
   <text>
     <section prefix="(a)">This section applies to:<section prefix="(1)">insurers and nonprofit health service plans that provide hospital, medical, or surgical benefits to individuals or groups on an expense-incurred basis under health insurance policies or contracts that are issued or delivered in the State; and</section><section prefix="(2)">health maintenance organizations that provide hospital, medical, or surgical benefits to individuals or groups under contracts that are issued or delivered in the State.</section></section>
     <section prefix="(b)">An entity subject to this section shall provide coverage for colorectal cancer screening in accordance with the latest screening guidelines issued by the American Cancer Society.</section>

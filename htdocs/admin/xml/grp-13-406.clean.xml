@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-406" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-13-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">If, under &#xA7; 13-405 of this subtitle, the proceeding is set for a hearing before the Commissioner, the Commissioner shall hold the hearing in accordance with the Administrative Procedure Act as soon as practicable within 30 days of the order of the Commissioner under &#xA7; 13-405(c) of this subtitle.</section>
     <section prefix="(b)">Objections filed in the proceeding may be consolidated at any time for hearing or heard separately, as the Commissioner determines.</section>

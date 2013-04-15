@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-615" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-7-615</section_number>
-  <catch_line/>
+  <catch_line>Each year, the Treasurer shall report to the Board and the Secretary on:...</catch_line>
+  <order_by>615</order_by>
   <text>Each year, the Treasurer shall report to the Board and the Secretary on:<section prefix=""><section prefix="(1)">the status of the money invested under this subtitle;</section><section prefix="(2)">the market value of the assets in the Fund as of the date of the report; and</section><section prefix="(3)">the interest received from investments during the period that the report covers.</section></section></text>
 </law>

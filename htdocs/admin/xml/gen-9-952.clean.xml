@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-952" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-952</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>952</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Notwithstanding any other law, the governing body of a political subdivision may transfer jurisdiction over, lease, lend, give, sell, or convey to an authority, on the request of the authority, with or without consideration, any of the following:<section prefix="(i)">Any facility;</section><section prefix="(ii)">Any right or interest in a facility;</section><section prefix="(iii)">Any property that appertains to a facility;</section><section prefix="(iv)">Any real property; or</section><section prefix="(v)">Any right or interest in real property.</section></section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">The transfer or conveyance shall be on terms and conditions that the governing body of the political subdivision determines to be in the best interests of the political subdivision.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">If the land is necessary or desirable in connection with the construction, extension, repair, improvement, maintenance, or operation of any project, this State consents to the use by an authority of any land that is:<section prefix="(i)">Owned or controlled by this State; and</section><section prefix="(ii)"/></section>
+      <section prefix="(1)">If the land is necessary or desirable in connection with the construction, extension, repair, improvement, maintenance, or operation of any project, this State consents to the use by an authority of any land that is:<section prefix="(i)">Owned or controlled by this State; and</section><section prefix="(ii)"><section prefix="1.">Below the high-water mark of any waters of this State; or</section><section prefix="2.">In the right-of-way of any State highway.</section></section></section>
       <section prefix="(2)">The State Highway Administration must approve the use of land that is in any State highway right-of-way.</section>
     </section>
   </text>

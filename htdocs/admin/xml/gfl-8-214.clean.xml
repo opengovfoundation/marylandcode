@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-214" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-8-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">In this section, "reasonable and necessary expense" includes:<section prefix="(1)">suit money;</section><section prefix="(2)">counsel fees; and</section><section prefix="(3)">costs.</section></section>
     <section prefix="(b)">At any point in a proceeding under this subtitle, the court may order either party to pay to the other party an amount for the reasonable and necessary expense of prosecuting or defending the proceeding.</section>

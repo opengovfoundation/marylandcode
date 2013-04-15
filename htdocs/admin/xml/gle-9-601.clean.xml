@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-601" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-601</section_number>
-  <catch_line/>
+  <catch_line>A provision of this subtitle may not be construed to change:...</catch_line>
+  <order_by>601</order_by>
   <text>A provision of this subtitle may not be construed to change:<section prefix=""><section prefix="(1)">a law relating to an accidental personal injury or an occupational disease, that occurred before the effective date of the provision and for which a claim is made under this title; or</section><section prefix="(2)">the payment basis in effect when an accidental personal injury or an occupational disease, for which a claim is made under this title, occurred.</section></section></text>
 </law>

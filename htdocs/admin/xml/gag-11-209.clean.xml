@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-209" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">If the Secretary finds that any package or amount of any commodity is possessed, offered, or exposed for sale in violation of law, the Secretary may order them off-sale and may mark or tag them to show they are illegal.</section>
     <section prefix="(b)">Whenever the Secretary finds that any violation of this subtitle or any rule or regulation adopted under it has occurred, he may issue a stop-use order, stop-removal order, and removal order with respect to weights and measures being, or capable of being, commercially used. He may issue stop-removal orders and removal orders with respect to any package or amount of any commodity possessed, offered, or exposed for sale, sold, or being delivered if he deems it necessary for the protection of the public.</section>

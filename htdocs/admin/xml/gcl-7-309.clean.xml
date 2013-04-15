@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-309" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">A carrier that issues a bill of lading, whether negotiable or nonnegotiable, shall exercise the degree of care in relation to the goods which a reasonably careful person would exercise under similar circumstances. This subsection does not affect any statute, regulation, or rule of law that imposes liability upon a common carrier for damages not caused by its negligence.</section>
     <section prefix="(b)">Damages may be limited by a term in the bill of lading or in a transportation agreement that the carrier's liability may not exceed a value stated in the bill or transportation agreement if the carrier's rates are dependent upon value and the consignor is afforded an opportunity to declare a higher value and the consignor is advised of the opportunity. However, such a limitation is not effective with respect to the carrier's liability for conversion to its own use.</section>

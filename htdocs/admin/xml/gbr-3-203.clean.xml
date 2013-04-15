@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-203" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-3-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Commissioner may make an agreement with a municipal corporation or political subdivision of the State or unit of the State government to delegate the power of inspection.</section>
     <section prefix="(b)">If a political subdivision satisfies the Commissioner that the political subdivision can make the inspections required under this title, the Commissioner shall make an agreement with the political subdivision to delegate the power of inspection.</section>

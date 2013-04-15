@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-709" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-709</section_number>
-  <catch_line/>
+  <catch_line>The Federal Savings and Loan Insurance Corporation or the State of Maryland Deposit Insurance Fund C...</catch_line>
+  <order_by>709</order_by>
   <text>The Federal Savings and Loan Insurance Corporation or the State of Maryland Deposit Insurance Fund Corporation has an absolute right to be appointed conservator or receiver of a savings and loan association insured by it.</text>
 </law>

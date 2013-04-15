@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-341" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-341</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>341</order_by>
   <text>
     <section prefix="(a)">If any condition of a permit for discharges from a publicly owned treatment works is violated, the Department, by corrective order or by request for injunctive action under this subtitle, may restrict or prohibit the introduction of any pollutant into the treatment works by any source that did not use the treatment works before the time of the finding that the condition was violated.</section>
     <section prefix="(b)">If the Department finds that an industrial user is not in compliance with a system of user charges required under State law or federal law, or with a condition of a permit issued by the Department to the publicly owned treatment works into which the industrial user is introducing pollutants, the Department may enforce or apply the system of user charges directly against the industrial user by corrective order or by requesting injunctive action under this subtitle.</section>

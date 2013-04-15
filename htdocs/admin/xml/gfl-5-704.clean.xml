@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-704" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of law, including any law on privileged communications, each health practitioner, police officer, educator, or human service worker, acting in a professional capacity in this State:<section prefix="(1)">who has reason to believe that a child has been subjected to abuse or neglect, shall notify the local department or the appropriate law enforcement agency; and</section><section prefix="(2)">if acting as a staff member of a hospital, public health agency, child care institution, juvenile detention center, school, or similar institution, shall immediately notify and give all information required by this section to the head of the institution or the designee of the head.</section></section>
     <section prefix="(b)">
-      <section prefix="(1)">An individual who notifies the appropriate authorities under subsection (a) of this section shall make:<section prefix="(i)">an oral report, by telephone or direct communication, as soon as possible to the local department or appropriate law enforcement agency; and</section><section prefix="(ii)">a written report:</section></section>
+      <section prefix="(1)">An individual who notifies the appropriate authorities under subsection (a) of this section shall make:<section prefix="(i)">an oral report, by telephone or direct communication, as soon as possible to the local department or appropriate law enforcement agency; and</section><section prefix="(ii)">a written report:<section prefix="1.">to the local department not later than 48 hours after the contact, examination, attention, or treatment that caused the individual to believe that the child had been subjected to abuse or neglect; and</section><section prefix="2.">with a copy to the local State's Attorney.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">An agency to which an oral report of suspected abuse or neglect is made under paragraph (1) of this subsection shall immediately notify the other agency.</section>
         <section prefix="(ii)">This paragraph does not prohibit a local department and an appropriate law enforcement agency from agreeing to cooperative arrangements.</section>

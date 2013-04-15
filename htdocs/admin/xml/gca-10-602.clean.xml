@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-602" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-10-602</section_number>
-  <catch_line/>
+  <catch_line>A general partner may withdraw from a limited partnership at any time by giving written notice to th...</catch_line>
+  <order_by>602</order_by>
   <text>A general partner may withdraw from a limited partnership at any time by giving written notice to the other partners, but if the withdrawal notice violates the partnership agreement, the limited partnership may recover from the withdrawing general partner damages for breach of the partnership agreement and offset the damages against the amount otherwise distributable to the withdrawing general partner.</text>
 </law>

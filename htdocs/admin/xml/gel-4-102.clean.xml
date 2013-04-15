@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-102" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-4-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">Any group of registered voters may form a new political party by:<section prefix="(1)">filing with the State Board on the prescribed form a petition meeting the requirements of subsection (b) of this section and of Title 6 of this article; and</section><section prefix="(2)">adopting and filing an interim constitution and bylaws in accordance with subsection (e) of this section.</section></section>
     <section prefix="(b)">
@@ -17,12 +17,12 @@
     </section>
     <section prefix="(c)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, a petition for the formation of a new political party, or any additional signatures to a petition, may be filed at any time.</section>
-      <section prefix="(2)">A petition for the formation of a new political party, or any additional signatures to a petition, may be filed:<section prefix="(i)">in the year of an election at which the President is elected except:</section><section prefix="(ii)">in the year of an election at which the Governor is elected, except after the first Monday in August until registration reopens after the general election in accordance with &#xA7; 3-302(a) of this article; or</section><section prefix="(iii)">when a special primary election and a special election are proclaimed by the Governor in accordance with &#xA7; 8-710 of this article except:</section></section>
+      <section prefix="(2)">A petition for the formation of a new political party, or any additional signatures to a petition, may be filed:<section prefix="(i)">in the year of an election at which the President is elected except:<section prefix="1.">during the period of time that registration is closed before and after a primary election in accordance with &#xA7; 3-302(a) of this article; and</section><section prefix="2.">after the first Monday in August until registration reopens after the general election in accordance with &#xA7; 3-302(a) of this article;</section></section><section prefix="(ii)">in the year of an election at which the Governor is elected, except after the first Monday in August until registration reopens after the general election in accordance with &#xA7; 3-302(a) of this article; or</section><section prefix="(iii)">when a special primary election and a special election are proclaimed by the Governor in accordance with &#xA7; 8-710 of this article except:<section prefix="1.">after the fifth Monday before the special primary election through the tenth day following the special primary election; and</section><section prefix="2.">after the fifth Monday before the special election through the fifteenth day following the special election.</section></section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">
         <section prefix="(i)">If the petition is certified under Title 6 of this article, the State Board shall promptly notify the State chairman of the partisan organization.</section>
-        <section prefix="(ii)">Upon the filing of a constitution and bylaws with the State Board by a partisan organization in accordance with subsection (e) of this section, the State Board shall:</section>
+        <section prefix="(ii)">Upon the filing of a constitution and bylaws with the State Board by a partisan organization in accordance with subsection (e) of this section, the State Board shall:<section prefix="1.">review the constitution and bylaws to determine whether the constitution and bylaws meet the requirements of subsection (e) of this section; and</section><section prefix="2.">if the constitution and bylaws meet the requirements of subsection (e) of this section, promptly notify the partisan organization designated in the petition that it is considered a State political party for the purposes of this article.</section></section>
       </section>
       <section prefix="(2)">If the petition does not meet the requirements of this section and of Title 6 of this article:<section prefix="(i)">the State Board shall declare the petition insufficient;</section><section prefix="(ii)">the partisan organization is not a State political party for the purposes of this article; and</section><section prefix="(iii)">the State Board shall promptly notify the State chairman of the partisan organization.</section></section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-1006" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-20-1006</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1006</order_by>
   <text>
     <section prefix="(a)">On the making of a finding under &#xA7; 20-1005(c)(2) of this subtitle that an agreement to remedy and eliminate the discrimination cannot be reached, the entire file, including the complaint and any findings, shall be certified to the general counsel of the Commission.</section>
     <section prefix="(b)">The Executive Director of the Commission shall cause a written notice to be issued and served in the name of the Commission, together with a copy of the complaint, requiring the respondent to answer the charges of the complaint at a public hearing:<section prefix="(1)">before an administrative law judge at a time and place certified in the notice; or</section><section prefix="(2)">if the complaint alleges an unlawful employment practice, in a civil action elected under &#xA7; 20-1007 of this subtitle.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-415" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-415</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>415</order_by>
   <text>
     <section prefix="(a)">If a current registration card or current validation tabs that never have been affixed to registration plates are lost, the owner of the vehicle for which the card or tabs were issued or the legal representative of the owner named in the certificate of title of the vehicle, as shown by the records of the Administration, immediately shall apply for and, after furnishing information satisfactory to the Administration and payment of the required fee, is entitled to obtain a duplicate registration card or replacement validation tabs.</section>
     <section prefix="(b)">If a current registration card or current validation tabs that never have been affixed to registration plates are stolen, the owner of the vehicle for which the card or tabs were issued or the legal representative of the owner named in the certificate of title, as shown by the records of the Administration, immediately shall apply for and, after furnishing information satisfactory to the Administration and payment of the required fee, is entitled to obtain a duplicate registration card or replacement validation tabs.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-2403" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-2403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2403</order_by>
   <text>
     <section prefix="(a)">The Office shall administer the Program with the assistance of the Department of Health and Mental Hygiene, Office of Oral Health.</section>
     <section prefix="(b)">The Department of Health and Mental Hygiene, Office of Oral Health shall:<section prefix="(1)">Recruit dentists to participate in the Program;</section><section prefix="(2)">Determine if the private practice or clinical setting in which an applicant will practice is located near or readily accessible to underserved Maryland Medical Assistance Program recipients and if the applicant qualifies for the Program;</section><section prefix="(3)">Determine if each participant meets the Program requirements and serves the required number of Maryland Medical Assistance Program recipients; and</section><section prefix="(4)">Notify the Office of any findings made in accordance with the provisions of this subsection.</section></section>

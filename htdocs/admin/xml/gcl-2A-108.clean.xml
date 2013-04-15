@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(1)">If the court as a matter of law finds a lease contract or any clause of a lease contract to have been unconscionable at the time it was made, the court may refuse to enforce the lease contract, or it may enforce the remainder of the lease contract without the unconscionable clause, or it may so limit the application of any unconscionable clause as to avoid any unconscionable result.</section>
     <section prefix="(2)">With respect to a consumer lease, if the court as a matter of law finds that a lease contract or any clause of a lease contract has been induced by unconscionable conduct or that unconscionable conduct has occurred in the collection of a claim arising from a lease contract, the court may grant appropriate relief.</section>

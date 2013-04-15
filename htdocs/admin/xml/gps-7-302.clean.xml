@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-302" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-7-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">This section applies only to Baltimore County, Caroline County, Cecil County, Dorchester County, and Queen Anne's County.</section>
     <section prefix="(b)">The sheriff of a county subject to this section may appoint as deputy sheriffs members of fire companies, whether volunteer, career, incorporated, or unincorporated, to exercise the powers of deputy sheriffs at fires and while going to and from fires.</section>

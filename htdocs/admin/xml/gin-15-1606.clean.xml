@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1606" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1606</section_number>
-  <catch_line/>
+  <catch_line>A purchaser may not enter into an agreement with a pharmacy benefits manager that has not registered...</catch_line>
+  <order_by>1606</order_by>
   <text>A purchaser may not enter into an agreement with a pharmacy benefits manager that has not registered with the Commissioner. </text>
 </law>

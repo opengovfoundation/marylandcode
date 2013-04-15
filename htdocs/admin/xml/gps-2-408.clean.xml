@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-408" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">Except as allowed by this article, Title 9 or Title 10 of the Labor and Employment Article, or rule, an employee of the Department may not receive money or any other thing of value for services performed by the employee as an employee of the Department or otherwise resulting from employment by the Department.</section>
     <section prefix="(b)">When an employee is allowed by the Secretary to accept money or any other thing of value, the money or other thing of value shall be delivered to the Department and disposed of as provided by rule.</section>

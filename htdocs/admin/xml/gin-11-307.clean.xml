@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-307" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in this subsection, each authorized insurer and each rating organization that has been designated by an insurer for the filing of rates under subsection (b) of this section shall file with the Commissioner all rates and supplementary rate information and all changes and amendments of rates and supplementary information made by it for use in the State on or before the date they become effective.</section>

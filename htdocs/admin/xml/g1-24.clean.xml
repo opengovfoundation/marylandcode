@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="24" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-24</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>24</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection or as otherwise specifically provided by statute, a person eighteen years of age or more is an adult for all purposes whatsoever and has the same legal capacity, rights, powers, privileges, duties, liabilities, and responsibilities as prior to July 1, 1973, persons had at twenty-one years of age, and the "age of majority" is hereby declared to be eighteen years.</section>

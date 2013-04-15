@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-601" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-11-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Borrower" has the meaning stated in &#xA7; 11-501 of this title.</section>
@@ -38,7 +38,7 @@
     <section prefix="(t)">"Nontraditional mortgage product" means any mortgage product other than a 30-year fixed rate mortgage loan.</section>
     <section prefix="(u)">"Person" has the meaning stated in &#xA7; 11-501 of this title.</section>
     <section prefix="(v)">''Real estate brokerage activity'' means any activity for which a license is required under Title 17 of the Business Occupations and Professions Article.</section>
-    <section prefix="(w)">''Registered mortgage loan originator'' means any individual who:<section prefix="(1)">Is a mortgage loan originator;</section><section prefix="(2)">Is an employee of:<section prefix="(i)">A depository institution;</section><section prefix="(ii)">A subsidiary that is:</section><section prefix="(iii)">An institution regulated by the Farm Credit Administration; and</section></section><section prefix="(3)">Is registered with, and maintains a unique identifier through, the Nationwide Mortgage Licensing System and Registry.</section></section>
+    <section prefix="(w)">''Registered mortgage loan originator'' means any individual who:<section prefix="(1)">Is a mortgage loan originator;</section><section prefix="(2)">Is an employee of:<section prefix="(i)">A depository institution;</section><section prefix="(ii)">A subsidiary that is:<section prefix="1.">Owned and controlled by a depository institution; and</section><section prefix="2.">Regulated by a federal banking agency; or</section></section><section prefix="(iii)">An institution regulated by the Farm Credit Administration; and</section></section><section prefix="(3)">Is registered with, and maintains a unique identifier through, the Nationwide Mortgage Licensing System and Registry.</section></section>
     <section prefix="(x)">"Residential real estate" has the meaning stated in &#xA7; 11-501 of this title.</section>
     <section prefix="(y)">''Unique identifier'' means a number or other identifier assigned by the Nationwide Mortgage Licensing System and Registry.</section>
   </text>

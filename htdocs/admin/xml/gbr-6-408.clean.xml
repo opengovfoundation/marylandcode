@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-408" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">A charitable organization that solicits or intends to solicit charitable contributions after it submits a registration statement to the Secretary of State shall submit an annual report in accordance with this section.</section>
     <section prefix="(b)">A charitable organization shall submit an annual report to the Secretary of State:<section prefix="(1)">within 6 months after the end of the charitable organization's fiscal year; or</section><section prefix="(2)">by any later date that the Secretary of State sets.</section></section>

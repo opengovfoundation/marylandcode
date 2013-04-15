@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-102" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-16-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">It is the policy of this State to obligate each recipient of services and, to the extent provided in this title, those legally responsible for the recipient to pay, if financially able, for the cost of care that is received by the recipient of services. Unless otherwise provided by statute, the recipient of services and the chargeable person shall be responsible for payment regardless of whether the recipient of services was admitted voluntarily, involuntarily, or by court order. If the recipient of services is involuntarily admitted to a public facility and released after evaluation, for failure to meet the standards for involuntary commitment, the recipient of services or chargeable person shall not be responsible for the cost of care.</section>
     <section prefix="(b)">The total cost of care of each recipient of services is, in the first instance, the responsibility of the recipient of services and, as provided in this title, the chargeable person. Any uncollectible costs for services provided to the recipient shall become the responsibility of this State.</section>

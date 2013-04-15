@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-112.1" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-112.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112.1</order_by>
   <text>
     <section prefix="(a)">In this section, "Program" means the Child Support Payment Incentive Program.</section>
     <section prefix="(b)">By June 1, 2008, the Administration shall develop a statewide Child Support Payment Incentive Program to encourage payment of child support in cases in which an assignment has been made under &#xA7; 5-312(b)(2) of the Human Services Article by entering into agreements with child support obligors in exchange for reductions in the amount of arrearages as authorized under &#xA7; 10-112 of this subtitle.</section>
@@ -15,7 +15,7 @@
         <section prefix="(ii)">For purposes of determining the applicable federal poverty level for a Program applicant, the obligor's household shall include the children for whom the obligor is  required to pay child support under a child support order that is the subject of the application to the Program.</section>
       </section>
       <section prefix="(2)">
-        <section prefix="(i)">In determining whether to authorize an obligor to participate in the Program, the Administration shall consider the following factors:</section>
+        <section prefix="(i)">In determining whether to authorize an obligor to participate in the Program, the Administration shall consider the following factors:<section prefix="1.">whether the obligor has a current ability to pay;</section><section prefix="2.">whether the reduction of arrearages will encourage the obligor's economic stability; and</section><section prefix="3.">whether the agreement serves the best interests of the children whom the obligor is required to support.</section></section>
         <section prefix="(ii)">If any of the factors specified in subparagraph (i) of this paragraph are met, there is a presumption that it is in the best interest of the State to authorize an obligor to participate in the Program.</section>
       </section>
     </section>

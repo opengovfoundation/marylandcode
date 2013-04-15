@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-405" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-8-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">Subject to this subtitle, an owner may recover compensation from the Fund for an actual loss that results from an act or omission by a licensed contractor or a violation of &#xA7; 8-607(4) of this title as found by the Commission or a court of competent jurisdiction.</section>
     <section prefix="(b)">For purposes of recovery from the Fund, the act or omission of a licensed contractor includes the act or omission of a subcontractor, salesperson, or employee of the licensed contractor, whether or not an express agency relationship exists.</section>

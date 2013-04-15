@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-910" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-910</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>910</order_by>
   <text>
     <section prefix="(a)">After an applicant for a license files a complete application, files a surety bond, and pays the license and investigation fees required under this subtitle, the Commissioner shall investigate the facts relevant to the application to determine if the applicant meets the requirements of this subtitle.</section>
     <section prefix="(b)">Unless the Commissioner notifies an applicant that a different time period is necessary, the Commissioner shall approve or deny each application for a license within 60 days after the date on which the complete application is filed, the surety bond is filed, and the fees are paid.</section>

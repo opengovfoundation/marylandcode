@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1501" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-1501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1501</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Authorized equipment" means any equipment necessary for the management of forest land.</section>
-        <section prefix="(ii)">"Authorized equipment" includes:</section>
+        <section prefix="(ii)">"Authorized equipment" includes:<section prefix="1.">Equipment necessary for the:</section><section prefix="2.">Vehicles capable of transporting harvested trees;</section><section prefix="3.">Wood chippers;</section><section prefix="4.">Materials required to administer approved products to ash trees planted in quarantined areas; and</section><section prefix="5.">Any other appropriate equipment, as determined by the Secretary.</section></section>
       </section>
       <section prefix="(3)">"Fund" means the Emerald Ash Borer Grant Fund.</section>
     </section>

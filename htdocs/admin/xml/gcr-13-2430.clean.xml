@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2430" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2430</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2430</order_by>
   <text>
     <section prefix="(a)">A holder of a wholesaler's license may not sell a tip jar packet to a person who does not have a tip jar license.</section>
     <section prefix="(b)">Before selling a tip jar packet, a holder of a wholesaler's license shall:<section prefix="(1)">obtain a gaming sticker from the agency; and</section><section prefix="(2)">affix the gaming sticker to the tip jar packet in the manner the county commissioners require.</section></section>

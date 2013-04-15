@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-705" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">The Board of Public Works shall make allocations from funds available under this subtitle in accordance with this subtitle.</section>
     <section prefix="(b)">The Board shall certify the allocations to the proper State officers, and the Treasurer shall make payments to or on behalf of the applicant, when needed, for the approved project.</section>

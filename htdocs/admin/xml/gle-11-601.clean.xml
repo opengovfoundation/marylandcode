@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-601" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-11-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this section, "private sector entity" means a person that the Maryland Apprenticeship and Training Council approves under &#xA7; 11-405(b) of this title.</section>
     <section prefix="(b)">There is a Construction Apprenticeship Assistance Program in the Department.</section>

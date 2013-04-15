@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-303</section_number>
-  <catch_line/>
+  <catch_line>After an initial account has been rendered, subsequent accounts, whether filed by the same personal ...</catch_line>
+  <order_by>303</order_by>
   <text>After an initial account has been rendered, subsequent accounts, whether filed by the same personal representative or by a successor, shall contain the certificate of the personal representative of:<section prefix="(a)">The value of any assets remaining in the hands of the personal representative as shown in the last account;</section><section prefix="(b)">The value of assets as shown in any inventory made since the last account;</section><section prefix="(c)">All receipts of the estate since the date of the last account;</section><section prefix="(d)">The date of each purchase, sale, lease, transfer, compromise, settlement, disbursement, or distribution of assets since the last account, a description of each such transaction, and a statement of the amount by which it affects the amounts referred to in subsections (a), (b), and (c) of this section; and</section><section prefix="(e)">The value of any assets remaining in the hands of the personal representative.</section></text>
 </law>

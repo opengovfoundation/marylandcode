@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-631" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-631</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>631</order_by>
   <text>
     <section prefix="(a)">If a complaint for violation of any provision of Part II of this subtitle is filed with the Commissioner of Financial Regulation, he may investigate the complaint and hold a hearing on it in accordance with &#xA7; 11-413 of the Financial Institutions Article.</section>
     <section prefix="(b)">The Commissioner shall give to the person complained against at least ten days' written notice of the complaint and the time and place of any hearing. The notice shall be in writing and sent by registered or certified mail to his principal place of business.</section>

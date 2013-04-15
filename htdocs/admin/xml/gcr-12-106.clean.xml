@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-12-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Notwithstanding any other provision of this subtitle, Subtitle 2 of this title, or Title 13 of this article and except as otherwise provided in this subsection, a bona fide charitable organization in this State may conduct a raffle for the exclusive benefit of the charitable organization if the prize awarded is real property:<section prefix="(i)">to which the charitable organization holds title; or</section><section prefix="(ii)">for which the charitable organization has the ability to convey title.</section></section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-302" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-9-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Except for work done or materials furnished under a contract enumerated in &#xA7; 9-305 of this subtitle, a contractor or subcontractor who does work or furnishes material under a contract shall be entitled to prompt payment under subsection (b) of this section.</section>
     <section prefix="(b)">
-      <section prefix="(1)">If the contract is with an owner, the owner shall:<section prefix="(i)">If the contract does not provide for specific dates or times of payment, pay to the contractor undisputed amounts owed under the terms of the written contract, within the earlier of:</section><section prefix="(ii)">If the contract provides for specific dates or times of payment, pay to the contractor undisputed amounts owed within 7 days after the date or time specified in the contract.</section></section>
+      <section prefix="(1)">If the contract is with an owner, the owner shall:<section prefix="(i)">If the contract does not provide for specific dates or times of payment, pay to the contractor undisputed amounts owed under the terms of the written contract, within the earlier of:<section prefix="1.">30 days after the day on which the occupancy permit is granted; or</section><section prefix="2.">30 days after the day on which the owner or the owner's agent takes possession; or</section></section><section prefix="(ii)">If the contract provides for specific dates or times of payment, pay to the contractor undisputed amounts owed within 7 days after the date or time specified in the contract.</section></section>
       <section prefix="(2)">Paragraph (1) of this subsection does not apply to any contract between the contractor and:<section prefix="(i)">The State;</section><section prefix="(ii)">A county;</section><section prefix="(iii)">A municipal corporation;</section><section prefix="(iv)">A board of education; or</section><section prefix="(v)">A public authority or instrumentality.</section></section>
       <section prefix="(3)">If the contract is not with an owner, the contractor or subcontractor shall pay undisputed amounts owed to its subcontractors within 7 days after receipt by the contractor or subcontractor of each payment received for its subcontractors' work or materials.</section>
     </section>

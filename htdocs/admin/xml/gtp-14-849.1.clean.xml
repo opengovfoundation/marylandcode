@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-849.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-849.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>849.1</order_by>
   <text>
     <section prefix="(a)">In Baltimore City, the Mayor and City Council may not sell a property solely to enforce a lien for unpaid charges for water and sewer service unless:<section prefix="(1)">the lien is for at least $350; and</section><section prefix="(2)">the unpaid charges for water and sewer service are at least 3 quarters in arrears.</section></section>
     <section prefix="(b)">Notwithstanding subsection (a) of this section, the Mayor and City Council may enforce a lien on a property for unpaid water and sewer service that is less than $350 if the property is being sold to enforce another lien.</section>

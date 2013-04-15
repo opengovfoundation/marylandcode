@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-218.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-13-218.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218.1</order_by>
   <text>
     <section prefix="(a)">In this section, "service contract" has the meaning stated in &#xA7; 13-401 of the State Personnel and Pensions Article.</section>
     <section prefix="(b)">
       <section prefix="(1)">At least 60 days before the issuance of a solicitation for a service contract that is not exempt under &#xA7; 13-403(c) or &#xA7; 13-404(b) of the State Personnel and Pensions Article, the unit shall provide the exclusive representative of the employees who may be affected by the service contract with written notice of:<section prefix="(i)">work that is being proposed for contracting; and</section><section prefix="(ii)">contracting procedures, requirements, timetables, and employee rights as provided in Title 13, Subtitle 4 of the State Personnel and Pensions Article.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)">In consultation with the Department of General Services, the Board shall adopt regulations concerning a solicitation for a service contract for janitorial services to require that a bidder or offeror delineate its costs by category, including:</section>
+        <section prefix="(i)">
+          <section prefix="1.">Except as provided in subsubparagraph 2 of this subparagraph, this paragraph applies to a solicitation for a service contract for janitorial services.</section>
+          <section prefix="2.">This paragraph does not apply to a service contract for janitorial services under Title 14, Subtitle 1 of this article.</section>
+        </section>
+        <section prefix="(ii)">In consultation with the Department of General Services, the Board shall adopt regulations concerning a solicitation for a service contract for janitorial services to require that a bidder or offeror delineate its costs by category, including:<section prefix="1.">labor;</section><section prefix="2.">cleaning supplies; and</section><section prefix="3.">projected man-hours to satisfactorily complete the service.</section></section>
       </section>
     </section>
     <section prefix="(c)">A violation of this section does not constitute grounds to challenge or appeal an award of a procurement or the process through which the procurement was conducted.</section>

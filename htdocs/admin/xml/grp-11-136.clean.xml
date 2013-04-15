@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-136" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-136</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>136</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An owner required to give notice under &#xA7; 11-102.1 of this title shall offer in writing to each tenant entitled to receive that notice the right to purchase that portion of the property occupied by the tenant as his residence. The offer shall be at a price and on terms and conditions at least as favorable as the price, terms, and conditions offered for that portion of the property to any other person during the 180-day period following the giving of the notice required by &#xA7; 11-102.1 of this title. Settlement cannot be required any earlier than 120 days after the offer is accepted by the tenant.</section>

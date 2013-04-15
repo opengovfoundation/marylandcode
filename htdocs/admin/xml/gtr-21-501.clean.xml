@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-501" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-501</section_number>
-  <catch_line/>
+  <catch_line>At an intersection, a pedestrian is subject to all traffic control signals, as provided in &#xA7;&#xA7; 21-2...</catch_line>
+  <order_by>501</order_by>
   <text>At an intersection, a pedestrian is subject to all traffic control signals, as provided in &#xA7;&#xA7; 21-202 and 21-203 of this title. However, at any other place, a pedestrian has the rights and is subject to the restrictions stated in this title.</text>
 </law>

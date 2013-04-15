@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-320" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-320</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>320</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) or (c) of this section, a retail service station dealer who reduces the price of motor fuel for self-service shall provide, on request, fueling service at the self-service price to a disabled driver who displays a disabled person's registration plate or parking permit issued by the Motor Vehicle Administration.</section>
     <section prefix="(b)">This section does not apply to a retail service station dealer who sells motor fuel from:<section prefix="(1)">a convenience store that:<section prefix="(i)">sells motor fuel through remotely controlled dispensing equipment; and</section><section prefix="(ii)">does not provide fueling service; or</section></section><section prefix="(2)">a station that:<section prefix="(i)">is exclusively self-service;</section><section prefix="(ii)">is operated by 1 cashier; and</section><section prefix="(iii)">has remotely controlled dispensing equipment.</section></section></section>

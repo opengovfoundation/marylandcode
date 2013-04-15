@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-509" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">Any paid-up annuity, cash surrender, or death benefits available at any time other than on a contract anniversary under an annuity contract with fixed scheduled considerations shall be calculated with an allowance for the lapse of time and the payment of any scheduled considerations after the start of the contract year in which payment of considerations stops.</section>
     <section prefix="(b)">
       <section prefix="(1)">This subsection applies only to an annuity contract that provides by rider or supplemental contract provision both annuity benefits and life insurance benefits that exceed the greater of:<section prefix="(i)">the cash surrender benefits; or</section><section prefix="(ii)">a return of the gross considerations with interest.</section></section>
-      <section prefix="(2)">The minimum nonforfeiture benefits shall:<section prefix="(i)">be calculated separately as if the annuity benefits and life insurance benefits were provided under separate contracts; and</section><section prefix="(ii)">equal the sum of:</section></section>
+      <section prefix="(2)">The minimum nonforfeiture benefits shall:<section prefix="(i)">be calculated separately as if the annuity benefits and life insurance benefits were provided under separate contracts; and</section><section prefix="(ii)">equal the sum of:<section prefix="1.">the minimum nonforfeiture benefits for the annuity part of the contract; and</section><section prefix="2.">the minimum nonforfeiture benefits for the life insurance part of the contract.</section></section></section>
     </section>
     <section prefix="(c)">Notwithstanding this section and &#xA7;&#xA7; 16-505 through 16-508 of this subtitle, the following supplemental benefits and considerations for the benefits shall be disregarded when calculating the minimum nonforfeiture amounts, paid-up annuity, cash surrender, and death benefits required under this subtitle:<section prefix="(1)">benefits payable for total and permanent disability;</section><section prefix="(2)">benefits payable as reversionary annuity or deferred reversionary annuity benefits; or</section><section prefix="(3)">other policy benefits additional to life insurance, endowment, and annuity benefits.</section></section>
     <section prefix="(d)">Additional benefits under subsection (c) of this section need not be included in any paid-up benefits unless the additional benefits separately would require minimum nonforfeiture amounts, paid-up annuity, cash surrender, and death benefits.</section>

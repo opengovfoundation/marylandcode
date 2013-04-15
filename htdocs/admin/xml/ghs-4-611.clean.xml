@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-611" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-611</section_number>
-  <catch_line/>
+  <catch_line>Subject to the approval and permitting procedures of the local zoning authority, a group home that h...</catch_line>
+  <order_by>611</order_by>
   <text>Subject to the approval and permitting procedures of the local zoning authority, a group home that houses four or more individuals may provide for nonresidential uses that:<section prefix=""><section prefix="(1)">are in a minor part of the building;</section><section prefix="(2)">conform with local zoning requirements; and</section><section prefix="(3)">although not directly related to the housing facility, offer goods or services for persons of lower income or other disadvantaged individuals.</section></section></text>
 </law>

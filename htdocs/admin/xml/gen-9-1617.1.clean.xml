@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1617.1" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1617.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1617.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Administration shall make provisions for a system of financial accounting, controls, audits, and reports in accordance with generally accepted principles of governmental accounting.</section>

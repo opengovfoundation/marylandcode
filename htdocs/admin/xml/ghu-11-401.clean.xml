@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-401" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-11-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In the State operating budget or in any supplemental budget that the Governor submits to the General Assembly, the Governor shall appropriate at least $500,000 each year to the Maryland Legal Services Corporation Fund established under &#xA7; 11-402 of this subtitle.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-821" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-821</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>821</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall serve written notice of a violation on the permittee or person required to have a permit, specifying the facts constituting the apparent violation if the Department has reason to believe that a violation of this subtitle, any rules or regulations adopted under this subtitle, or the terms and conditions of a permit, including the approved mining and reclamation plan has occurred.</section>

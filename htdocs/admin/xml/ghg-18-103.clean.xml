@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-103" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The Secretary shall:<section prefix="(1)">Obtain accurate and complete reports on communicable diseases in this State;</section><section prefix="(2)">Determine the prevalence of each communicable disease; and</section><section prefix="(3)">Devise means to control communicable diseases.</section></section>
     <section prefix="(b)">The Secretary shall publish monthly a communicable disease bulletin for health officers and other related health professionals.</section>

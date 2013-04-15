@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-112" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-112</section_number>
-  <catch_line/>
+  <catch_line>The Commission shall prepare and submit a 6-year capital improvements program:...</catch_line>
+  <order_by>112</order_by>
   <text>The Commission shall prepare and submit a 6-year capital improvements program:<section prefix=""><section prefix="(1)">before November 1 of each odd-numbered calendar year to the County Executive and County Council of Montgomery County; and</section><section prefix="(2)">before January 15 of each calendar year to the county governing body of Prince George's County.</section></section></text>
 </law>

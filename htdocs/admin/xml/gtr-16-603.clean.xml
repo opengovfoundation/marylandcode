@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-603" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">The Department and the Administration shall administer the Motorcycle Safety Program.</section>
     <section prefix="(b)">The Administration, a State or community college, a State university, an agency of a political subdivision, or any other person approved and designated by the Administration may organize and manage a motorcycle safety training center and may offer motorcycle safety courses at those centers that it operates.</section>

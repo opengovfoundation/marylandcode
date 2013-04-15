@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-802" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">If the Commissioner believes that a banking institution or any of its directors, officers, trustees, managers, agents, or employees has violated any provision of this article that relates to the institution, the Commissioner immediately shall report the violation to the Secretary of Labor, Licensing, and Regulation, who shall ask the Attorney General to take the appropriate steps to institute a prosecution for the violation.</section>
     <section prefix="(b)">

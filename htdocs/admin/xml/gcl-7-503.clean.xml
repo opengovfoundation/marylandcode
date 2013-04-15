@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">A document of title confers no right in goods against a person that before issuance of the document had a legal interest or a perfected security interest in the goods and did not:<section prefix="(1)">Deliver or entrust the goods or any document of title covering the goods to the bailor or the bailor's nominee with:<section prefix="(A)">Actual or apparent authority to ship, store, or sell;</section><section prefix="(B)">Power to obtain delivery under &#xA7; 7-403; or</section><section prefix="(C)">Power of disposition under &#xA7; 2-403, &#xA7; 2A-304(2), &#xA7; 2A-305(2), &#xA7; 9-320, or &#xA7; 9-321(c) or other statute or rule of law; or</section></section><section prefix="(2)">Acquiesce in the procurement by the bailor or its nominee of any document.</section></section>
     <section prefix="(b)">Title to goods based upon an unaccepted delivery order is subject to the rights of any person to which a negotiable warehouse receipt or bill of lading covering the goods has been duly negotiated. That title may be defeated under &#xA7; 7-504 to the same extent as the rights of the issuer or a transferee from the issuer.</section>

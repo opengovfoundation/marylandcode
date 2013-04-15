@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-208" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">After a hearing, the Administration may:<section prefix="(1)">Refuse, suspend, or revoke the license or privilege of an applicant or licensee;</section><section prefix="(2)">Rescind, continue, or modify any prior action; or</section><section prefix="(3)">Take any other action permitted by the Maryland Vehicle Law.</section></section>
     <section prefix="(b)">If a decision or order of the Administration is adverse to any party to the hearing, the decision or order:<section prefix="(1)">Shall be made in accordance with &#xA7; 10-221 of the State Government Article; and</section><section prefix="(2)">Unless service is waived by the party, shall be served on the party or the party's attorney.</section></section>

@@ -1,35 +1,35 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-601" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-20-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
-      <section prefix="(1)">"Disability" means:<section prefix="(i)"/><section prefix="(ii)">a record of having a physical or mental impairment as otherwise defined under this subsection; or</section><section prefix="(iii)">being regarded as having a physical or mental impairment as otherwise defined under this subsection.</section></section>
-      <section prefix="(2)">"Disability" includes:<section prefix="(i)"/><section prefix="(ii)">retardation and any other mental impairment or deficiency that may have necessitated remedial or special education and related services.</section></section>
+      <section prefix="(1)">"Disability" means:<section prefix="(i)"><section prefix="1.">a physical disability, infirmity, malformation, or disfigurement that is caused by bodily injury, birth defect, or illness, including epilepsy; or</section><section prefix="2.">a mental impairment or deficiency;</section></section><section prefix="(ii)">a record of having a physical or mental impairment as otherwise defined under this subsection; or</section><section prefix="(iii)">being regarded as having a physical or mental impairment as otherwise defined under this subsection.</section></section>
+      <section prefix="(2)">"Disability" includes:<section prefix="(i)"><section prefix="1.">any degree of paralysis, amputation, or lack of physical coordination;</section><section prefix="2.">blindness or visual impairment;</section><section prefix="3.">deafness or hearing impairment;</section><section prefix="4.">muteness or speech impediment; and</section><section prefix="5.">physical reliance on a service animal, wheelchair, or other remedial appliance or device; and</section></section><section prefix="(ii)">retardation and any other mental impairment or deficiency that may have necessitated remedial or special education and related services.</section></section>
     </section>
     <section prefix="(c)">
       <section prefix="(1)">"Employee" means an individual employed by an employer.</section>
       <section prefix="(2)">Unless the individual is subject to the State or local civil service laws, "employee" does not include:<section prefix="(i)">an individual elected to public office;</section><section prefix="(ii)">an individual chosen by an elected officer to be on the officer's personal staff;</section><section prefix="(iii)">an appointee on the policy making level; or</section><section prefix="(iv)">an immediate adviser with respect to the exercise of the constitutional or legal powers of an elected office.</section></section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">"Employer" means:<section prefix="(i)">a person that:</section><section prefix="(ii)">an agent of a person described in item (i) of this paragraph.</section></section>
+      <section prefix="(1)">"Employer" means:<section prefix="(i)">a person that:<section prefix="1.">is engaged in an industry or business; and</section><section prefix="2.">has 15 or more employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year; and</section></section><section prefix="(ii)">an agent of a person described in item (i) of this paragraph.</section></section>
       <section prefix="(2)">"Employer" includes the State to the extent provided in this title.</section>
       <section prefix="(3)">Except for a labor organization, "employer" does not include a bona fide private membership club that is exempt from taxation under &#xA7; 501(c) of the Internal Revenue Code.</section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">"Employment agency" means:<section prefix="(i)">a person that regularly undertakes with or without compensation to procure:</section><section prefix="(ii)">an agent of a person described in item (i) of this paragraph.</section></section>
+      <section prefix="(1)">"Employment agency" means:<section prefix="(i)">a person that regularly undertakes with or without compensation to procure:<section prefix="1.">employees for an employer; or</section><section prefix="2.">opportunities for employees to work for an employer; and</section></section><section prefix="(ii)">an agent of a person described in item (i) of this paragraph.</section></section>
       <section prefix="(2)">Except for the United States Employment Service and the system of State and local employment services receiving federal assistance, "employment agency" does not include a unit of the United States, the State, or a political subdivision of the State.</section>
     </section>
     <section prefix="(f)">"Genetic information" has the meaning stated in &#xA7; 27-909(a)(3) of the Insurance Article.</section>
     <section prefix="(g)">"Genetic test" has the meaning stated in &#xA7; 27-909(a)(5) of the Insurance Article.</section>
     <section prefix="(h)">
       <section prefix="(1)">"Labor organization" means:<section prefix="(i)">a labor organization engaged in an industry; and</section><section prefix="(ii)">an agent of an organization described in item (i) of this paragraph.</section></section>
-      <section prefix="(2)">"Labor organization" includes:<section prefix="(i)">an organization of any kind, an agency, or an employee representation committee, group, association, or plan:</section><section prefix="(ii)">a conference, general committee, joint or system board, or joint council that is subordinate to a national or international labor organization.</section></section>
+      <section prefix="(2)">"Labor organization" includes:<section prefix="(i)">an organization of any kind, an agency, or an employee representation committee, group, association, or plan:<section prefix="1.">in which employees participate; and</section><section prefix="2.">that exists, wholly or partly, for the purpose of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment; and</section></section><section prefix="(ii)">a conference, general committee, joint or system board, or joint council that is subordinate to a national or international labor organization.</section></section>
     </section>
     <section prefix="(i)">"Religion" includes all aspects of religious observances, practice, and belief.</section>
   </text>

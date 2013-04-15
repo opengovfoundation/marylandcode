@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-209" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An insurer that issues a policy of homeowner's insurance may not adopt an underwriting standard that requires a deductible that exceeds 5% of the "Coverage A - Dwelling Limit" of the policy in the case of a hurricane or other storm, unless:<section prefix="(i)">the insurer has filed the underwriting standard for approval by the Commissioner; and</section><section prefix="(ii)">the Commissioner has approved the underwriting standard in writing.</section></section>
-      <section prefix="(2)">The filing required by paragraph (1) of this subsection shall:<section prefix="(i)">be made at least 60 days before the insurer proposes to implement the underwriting standard in the State; and</section><section prefix="(ii)">include any information required by the Commissioner, including:</section></section>
+      <section prefix="(2)">The filing required by paragraph (1) of this subsection shall:<section prefix="(i)">be made at least 60 days before the insurer proposes to implement the underwriting standard in the State; and</section><section prefix="(ii)">include any information required by the Commissioner, including:<section prefix="1.">a copy of the underwriting standard the insurer proposes to implement;</section><section prefix="2.">the data relied on by the insurer in developing the underwriting standard; and</section><section prefix="3.">the date on which the insurer intends to implement the underwriting standard.</section></section></section>
       <section prefix="(3)">An underwriting standard subject to this subsection may not take effect until 60 days after it is filed with the Commissioner.</section>
       <section prefix="(4)">During the initial 60-day waiting period, the Commissioner may extend the waiting period for an additional period, not to exceed 60 days, by written notice to the insurer that the Commissioner needs additional time for consideration of the filing.</section>
       <section prefix="(5)">A filing is deemed approved unless disapproved by the Commissioner during the waiting period or any extension of the waiting period.</section>

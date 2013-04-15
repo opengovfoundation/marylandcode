@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-318" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-318</section_number>
-  <catch_line/>
+  <catch_line>If a complaint or comparable pleading is received by an inappropriate tribunal of this State, the tr...</catch_line>
+  <order_by>318</order_by>
   <text>If a complaint or comparable pleading is received by an inappropriate tribunal of this State, the tribunal shall forward the pleading and accompanying documents to an appropriate tribunal in this State or another state and notify the plaintiff where and when the pleading was sent.</text>
 </law>

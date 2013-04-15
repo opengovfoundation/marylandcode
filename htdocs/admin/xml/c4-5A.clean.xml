@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c4" order_by="" level="1"/>
-    <unit label="chapter" identifier="5A" order_by="" level="2"/>
+    <unit label="article" identifier="c4" order_by="" level="1">IV - Judiciary Department</unit>
   </structure>
   <section_number>c4-5A</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>5A</order_by>
   <text>
     <section prefix="(a)">A vacancy in the office of a judge of an appellate court, whether occasioned by the death, resignation, removal, retirement, disqualification by reason of age, or rejection by the voters of an incumbent, the creation of the office of a judge, or otherwise, shall be filled as provided in this section.</section>
     <section prefix="(b)">Upon the occurrence of a vacancy the Governor shall appoint, by and with the advice and consent of the Senate, a person duly qualified to fill said office who shall hold the same until the election for continuance in office as provided in subsections (c) and (d).</section>

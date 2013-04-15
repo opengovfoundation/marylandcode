@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-204" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-4-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">This section applies only in Kent County.</section>
     <section prefix="(b)">The Board of License Commissioners may issue a Class A light wine license which authorizes the licensee to keep for sale, and to sell, light wines at retail, in any quantity to any consumer, at the place described in the license. The light wine may be delivered in a sealed package or container, which package or container may not be opened or its contents consumed on the premises where sold.</section>

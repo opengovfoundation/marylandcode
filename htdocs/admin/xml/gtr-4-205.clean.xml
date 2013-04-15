@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-205" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-4-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Subject to &#xA7; 4-306 of this title and in addition to the powers otherwise specifically granted by law, the Authority has the powers described in this section.</section>
     <section prefix="(b)">The Authority may acquire, hold, and dispose of property in the exercise of its powers and performance of its duties.</section>

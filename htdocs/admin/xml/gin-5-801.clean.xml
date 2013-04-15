@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-801" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-801</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "trusteed assets" means assets deposited in trust by an alien insurer in accordanc...</catch_line>
+  <order_by>801</order_by>
   <text>In this subtitle, "trusteed assets" means assets deposited in trust by an alien insurer in accordance with this subtitle.</text>
 </law>

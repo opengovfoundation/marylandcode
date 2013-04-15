@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-505.3" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-505.3</section_number>
-  <catch_line/>
+  <catch_line>With respect to a closed end retail credit account established at a rate pursuant to &#xA7; 12-505(a) of...</catch_line>
+  <order_by>505.3</order_by>
   <text>With respect to a closed end retail credit account established at a rate pursuant to &#xA7; 12-505(a) of this subtitle, the agreement may not provide for a balloon payment.</text>
 </law>

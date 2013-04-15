@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-201" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-6-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Port Commission.</section>
     <section prefix="(b)">The Commission shall:<section prefix="(1)">Establish policies directed toward improving the competitive position of the ports of Maryland within the international port industry;</section><section prefix="(2)">Adopt regulations for the operation of the Administration in a competitive manner within the port industry;</section><section prefix="(3)">Exercise those powers granted to the Commission and to the Maryland Port Administration by this title or by any other provision of law;</section><section prefix="(4)">Unless otherwise directed by the Secretary, serve as the board of directors of any private operating company created under this title; and</section><section prefix="(5)">In carrying out the provisions of this subtitle, seek information and advice from port labor and management groups.</section></section>

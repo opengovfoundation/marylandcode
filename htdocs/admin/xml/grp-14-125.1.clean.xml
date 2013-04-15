@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-125.1" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-125.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>125.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Community association" means a Maryland nonprofit association, corporation, or other organization that:<section prefix="(i)">Is comprised of at least 20% of the total number of households as members of a local community that consists of 40 or more individual households as defined by specific geographic boundaries in the bylaws or charter of the community association;</section><section prefix="(ii)">Requires, as a condition of membership, the payment of monetary dues at least annually;</section><section prefix="(iii)">Is operated primarily for the promotion of social welfare and general neighborhood improvement and enhancement;</section><section prefix="(iv)">Has been in existence for at least 1 year when it files suit under this section;</section><section prefix="(v)">Is exempt from taxation under &#xA7; 501(c)(3) or (4) of the Internal Revenue Code; and</section><section prefix="(vi)">Is in good standing.</section></section>
       <section prefix="(3)">"Local code violation" means a violation under the following provisions of the Anne Arundel County Code or under any applicable code relating to the following provisions incorporated in the Anne Arundel County Code by reference:<section prefix="(i)">Article 11 - Crimes and Punishments;</section><section prefix="(ii)">Article 12 - Animal Control;</section><section prefix="(iii)">Article 14 - Environmental Health;</section><section prefix="(iv)">Article 16 - Licenses and Permits; and</section><section prefix="(v)">Article 22 - Housing Maintenance and Occupancy Code.</section></section>
-      <section prefix="(4)">"Nuisance" means:<section prefix="(i)">An act or condition knowingly created, performed, or maintained on private property that constitutes a local code violation and that:</section><section prefix="(ii)">A property where the tenant, owner, or other occupant has been convicted of violations of &#xA7; 10-201 or &#xA7; 10-202 of the Criminal Law Article for conduct occurring on, in, or in relation to the property; or</section><section prefix="(iii)">A property to which police or other law enforcement agencies have responded to complaints or calls for service 10 or more times within any 30 day period.</section></section>
+      <section prefix="(4)">"Nuisance" means:<section prefix="(i)">An act or condition knowingly created, performed, or maintained on private property that constitutes a local code violation and that:<section prefix="1.">Significantly affects other residents of the neighborhood;</section><section prefix="2.">Diminishes the value of neighboring property; and</section><section prefix="3."/></section><section prefix="(ii)">A property where the tenant, owner, or other occupant has been convicted of violations of &#xA7; 10-201 or &#xA7; 10-202 of the Criminal Law Article for conduct occurring on, in, or in relation to the property; or</section><section prefix="(iii)">A property to which police or other law enforcement agencies have responded to complaints or calls for service 10 or more times within any 30 day period.</section></section>
     </section>
     <section prefix="(b)">This section only applies to a nuisance located within the boundaries of Anne Arundel County.</section>
     <section prefix="(c)">An action to abate a nuisance may be brought under this section and &#xA7; 4-401 of the Courts Article by:<section prefix="(1)">The State's Attorney for Anne Arundel County;</section><section prefix="(2)">The County Attorney for Anne Arundel County;</section><section prefix="(3)">A community association within whose boundaries the nuisance is located; or</section><section prefix="(4)">The City Attorney for the City of Annapolis.</section></section>
@@ -23,9 +23,12 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">An action may not be brought under this section until 60 days after the tenant, if any, and owner of record receive notice from the plaintiff that a nuisance exists and that legal action may be taken if the nuisance is not abated.</section>
-        <section prefix="(ii)">The notice shall specify:</section>
+        <section prefix="(ii)">The notice shall specify:<section prefix="1.">The nature of the alleged nuisance;</section><section prefix="2.">The date and time of day the nuisance was first discovered;</section><section prefix="3.">The location on the property where the nuisance is allegedly occurring; and</section><section prefix="4.">The relief sought.</section></section>
         <section prefix="(iii)">The notice shall be provided to the tenant, if any, and the owner of record in the same manner as service of process in a civil in personam action under the Maryland Rules.</section>
-        <section prefix="(iv)"/>
+        <section prefix="(iv)">
+          <section prefix="1.">In addition to any service of process required by the Maryland Rules, the plaintiff shall cause to be posted in a conspicuous place on the property no later than 48 hours before the hearing the notice required under sub-subparagraph 2 of this subparagraph.</section>
+          <section prefix="2.">The notice shall indicate:</section>
+        </section>
       </section>
       <section prefix="(4)">In filing a suit under this section, the plaintiff shall certify to the court:<section prefix="(i)">What steps the plaintiff has taken to satisfy the notice requirements under this subsection; and</section><section prefix="(ii)">That each condition precedent to the filing of an action under this section has been met.</section></section>
     </section>
@@ -39,7 +42,7 @@
     </section>
     <section prefix="(g)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, this section may not be construed to abrogate any equitable or legal right or remedy otherwise available under the law to abate a nuisance.</section>
-      <section prefix="(2)">This section may not be construed as granting standing for an action:<section prefix="(i)">Challenging any zoning application or approval;</section><section prefix="(ii)">In which the alleged nuisance consists of:</section><section prefix="(iii)">Involving any violation of alcoholic beverages laws under Article 2B of the Code; or</section><section prefix="(iv)">Involving any matter in which a certificate, license, permit, or registration is required or allowed under the Environment Article.</section></section>
+      <section prefix="(2)">This section may not be construed as granting standing for an action:<section prefix="(i)">Challenging any zoning application or approval;</section><section prefix="(ii)">In which the alleged nuisance consists of:<section prefix="1.">A condition relating to lead paint; or</section><section prefix="2.">An interior physical defect of a property;</section></section><section prefix="(iii)">Involving any violation of alcoholic beverages laws under Article 2B of the Code; or</section><section prefix="(iv)">Involving any matter in which a certificate, license, permit, or registration is required or allowed under the Environment Article.</section></section>
     </section>
     <section prefix="(h)">Provisions of this article or public local laws applicable to actions between a landlord and a tenant are not applicable to actions brought against a landlord or a tenant under this section.</section>
   </text>

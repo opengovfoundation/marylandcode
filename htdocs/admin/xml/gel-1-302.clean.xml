@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-302" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-1-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the filing of any document specified in this article may be made by electronic facsimile transmittal.</section>
     <section prefix="(b)">A document may not be filed by electronic facsimile transmittal if the document is required to contain a signed affidavit.</section>

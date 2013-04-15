@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-403" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-12-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Subject to a public hearing under &#xA7; 12-408 of this subtitle and to accomplish one or more of the legislative purposes listed in &#xA7; 12-402 of this subtitle, the legislative body of a county or municipal corporation may adopt a local law to create a business improvement district in accordance with this subtitle.</section>
     <section prefix="(b)">Subsection (a) of this section is self-executing and fully authorizes a county or municipal corporation to establish a district, notwithstanding any other statutory or charter provision.</section>

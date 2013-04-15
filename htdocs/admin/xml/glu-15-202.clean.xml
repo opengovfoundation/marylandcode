@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-202" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-15-202</section_number>
-  <catch_line/>
+  <catch_line>// EFFECTIVE UNTIL SEPTEMBER 30, 2013 PER CHAPTER 426 OF 2012 //...</catch_line>
+  <order_by>202</order_by>
   <text>// EFFECTIVE UNTIL SEPTEMBER 30, 2013 PER CHAPTER 426 OF 2012 //<section prefix="(a)">The Commission may study and make a finding as to whether a group is socially or economically disadvantaged as a result of discrimination in the public or private sector that affects the group's utilization and participation in contracting or procurement with the Commission.</section><section prefix="(b)">If the Commission finds that a program is necessary to remedy discrimination against a minority, the Commission shall establish a Minority Business Enterprise Utilization Program to facilitate participation of responsible certified minority business enterprises in contracts awarded by the Commission for goods, services, and construction.</section></text>
 </law>

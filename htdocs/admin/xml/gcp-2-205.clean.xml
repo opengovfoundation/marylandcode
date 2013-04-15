@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-205" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-2-205</section_number>
-  <catch_line/>
+  <catch_line>A police officer without a warrant may arrest a person if:...</catch_line>
+  <order_by>205</order_by>
   <text>A police officer without a warrant may arrest a person if:<section prefix=""><section prefix="(1)">the police officer has probable cause to believe the person has engaged in stalking under &#xA7; 3-802 of the Criminal Law Article;</section><section prefix="(2)">there is credible evidence other than the statements of the alleged stalking victim to support the probable cause under item (1) of this section; and</section><section prefix="(3)">the police officer has reason to believe that the alleged stalking victim or another person is in danger of imminent bodily harm or death.</section></section></text>
 </law>

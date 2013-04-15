@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-104" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-4-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In accordance with the State budget, the Executive Director shall make grants to local law enforcement agencies to purchase and replace protective body armor based on the comparative needs of each local law enforcement agency as determined by the criteria set forth in &#xA7; 4-103(b) of this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25b" order_by="" level="1"/>
-    <unit label="chapter" identifier="13H" order_by="" level="2"/>
+    <unit label="article" identifier="g25b" order_by="" level="1">Home Rule for Code Counties</unit>
   </structure>
   <section_number>g25b-13H</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>13H</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -28,7 +28,7 @@
     <section prefix="(e)">A tax imposed under this section shall be:<section prefix="(1)">Collected from the buyer on behalf of the county by the vendor who makes a sale that is subject to the tax; and</section><section prefix="(2)">Held in trust by the vendor for the county.</section></section>
     <section prefix="(f)">
       <section prefix="(1)">A vendor required to collect a tax imposed under this section shall file a return with the county on or before the 21st day of each month.</section>
-      <section prefix="(2)">A return required under this section:<section prefix="(i)">Shall be made on the form that the county requires; and</section><section prefix="(ii)">Shall contain the information that the county requires, including:</section></section>
+      <section prefix="(2)">A return required under this section:<section prefix="(i)">Shall be made on the form that the county requires; and</section><section prefix="(ii)">Shall contain the information that the county requires, including:<section prefix="1.">The gross proceeds of the vendor during the preceding month from sales that are subject to the tax;</section><section prefix="2.">The taxable price of sales for that month on which the tax is computed; and</section><section prefix="3.">The tax due.</section></section></section>
     </section>
     <section prefix="(g)">
       <section prefix="(1)">A vendor who makes a sale that is subject to a tax imposed under this section shall pay the tax that the vendor collects for that sale with the return that covers the period in which the vendor makes that sale.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1306" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-1306</section_number>
-  <catch_line/>
+  <catch_line>A residential well owner is eligible for a grant under this subtitle if the residential well owner:...</catch_line>
+  <order_by>1306</order_by>
   <text>A residential well owner is eligible for a grant under this subtitle if the residential well owner:<section prefix=""><section prefix="(1)">tests a well and finds that it contains radium or gross alpha levels above the levels recommended by the federal Environmental Protection Agency;</section><section prefix="(2)">installs a water treatment system to remove excess levels of radium or gross alpha from well water; and</section><section prefix="(3)">does not earn more than 110% of the statewide or Washington, D.C. Metropolitan statistical area median income.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2807" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2807</order_by>
   <text>
     <section prefix="(a)">A person that violates any provision of this subtitle is guilty of a misdemeanor and on conviction is subject to:<section prefix="(1)">A fine not exceeding $100 and the costs of prosecution; or</section><section prefix="(2)">In default of payment of the amount provided in item (1) of this subsection, imprisonment not exceeding 30 days.</section></section>
     <section prefix="(b)">Each sale of, or offer to sell, products in violation of this subtitle is a separate offense.</section>

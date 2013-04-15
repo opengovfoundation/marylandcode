@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-524" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-524</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>524</order_by>
   <text>
     <section prefix="(1)">A lessor aggrieved under &#xA7; 2A-523 may:<section prefix="(a)">Identify to the lease contract conforming goods not already identified if at the time the lessor learned of the default they were in the lessor's or the supplier's possession or control; and</section><section prefix="(b)">Dispose of goods (&#xA7; 2A-527(1)) that demonstrably have been intended for the particular lease contract even though those goods are unfinished.</section></section>
     <section prefix="(2)">If the goods are unfinished, in the exercise of reasonable commercial judgment for the purpose of avoiding loss and of effective realization, an aggrieved lessor or the supplier may either complete manufacture and wholly identify the goods to the lease contract or cease manufacture and lease, sell, or otherwise dispose of the goods for scrap or salvage value or proceed in any other reasonable manner.</section>

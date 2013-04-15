@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-702" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Holders of control shares of the corporation acquired in a control share acquisition have no voting rights with respect to the control shares except to the extent approved by the stockholders at a meeting held under &#xA7; 3-704 of this subtitle by the affirmative vote of two-thirds of all the votes entitled to be cast on the matter, excluding all interested shares.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-303" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-8-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">In this section, "Central Repository" means the Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services.</section>
     <section prefix="(b)">As part of an application to the Central Repository for a State and national criminal history records check, an applicant shall submit to the Central Repository:<section prefix="(1)">Two complete sets of legible fingerprints taken on forms approved by the Director of the Central Repository and the Director of the Federal Bureau of Investigation;</section><section prefix="(2)">The fee authorized under &#xA7; 10-221(b)(7) of the Criminal Procedure Article for access to State criminal history records; and</section><section prefix="(3)">The processing fee required by the Federal Bureau of Investigation for a national criminal history records check.</section></section>

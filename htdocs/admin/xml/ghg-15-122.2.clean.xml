@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-122.2" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-122.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122.2</order_by>
   <text>
     <section prefix="(a)">In this section, "converted funds" means the amount received in payment by a person from an insurer for the cost of health services provided to a child which was not used to reimburse the Department for Medicaid costs incurred.</section>
     <section prefix="(b)">Each year the Department may refer to the Central Collection Unit of the Department of Budget and Management for certification to the State Comptroller the name of any person who has received converted funds for the interception of any State tax refund.</section>

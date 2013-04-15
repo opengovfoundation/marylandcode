@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">A licensor of information that is a merchant regularly dealing in information of the kind warrants that the information will be delivered free of the rightful claim of any third person by way of infringement or misappropriation, but a licensee that furnishes detailed specifications to the licensor and the method required for meeting the specifications holds the licensor harmless against any such claim that arises out of compliance with either the required specification or the required method except for a claim that results from the failure of the licensor to adopt, or notify the licensee of, a noninfringing alternative of which the licensor had reason to know.</section>
     <section prefix="(b)">A licensor warrants:<section prefix="(1)">For the duration of the license, that no person holds a rightful claim to, or interest in, the information which arose from an act or omission of the licensor, other than a claim by way of infringement or misappropriation, which will interfere with the licensee's enjoyment of its interest; and</section><section prefix="(2)">As to rights granted exclusively to the licensee, that within the scope of the license:<section prefix="(A)">To the knowledge of the licensor, any licensed patent rights are valid and exclusive to the extent exclusivity and validity are recognized by the law under which the patent rights were created; and</section><section prefix="(B)">In all other cases, the licensed informational rights are valid and exclusive for the information as a whole to the extent exclusivity and validity are recognized by the law applicable to the licensed rights in a jurisdiction to which the license applies.</section></section></section>

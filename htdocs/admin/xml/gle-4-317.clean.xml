@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-317" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-317</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>317</order_by>
   <text>
     <section prefix="(a)">A court may not grant injunctive relief in a case that involves or grows out of a labor dispute until the court makes and files, in the record of the case, findings of fact.</section>
     <section prefix="(b)">Injunctive relief in a case that involves or grows out of a labor dispute shall prohibit an act only if:<section prefix="(1)">the complaint in the labor case expressly complains of the specific act; and</section><section prefix="(2)">the findings of fact expressly include the specific act.</section></section>

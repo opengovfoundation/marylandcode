@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-108" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-15-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">In this section, "Baltimore Authority police officer" means a member of the Housing Authority of Baltimore City Police Force who, when acting in an official capacity, may make arrests.</section>
     <section prefix="(b)">There is a Housing Authority of Baltimore City Police Force.</section>
@@ -13,7 +13,7 @@
     <section prefix="(d)">
       <section prefix="(1)">A Baltimore Authority police officer has all of the powers of a law enforcement officer in the State.</section>
       <section prefix="(2)">A Baltimore Authority police officer may exercise these powers on property that is owned, leased, operated by, or under the control of the Baltimore Authority.</section>
-      <section prefix="(3)">A Baltimore Authority police officer may exercise these powers elsewhere only if:<section prefix="(i)">doing so is necessary to facilitate the orderly flow of traffic to or from property that is owned, leased, operated by, or under the control of the Baltimore Authority; or</section><section prefix="(ii)">the officer is:</section></section>
+      <section prefix="(3)">A Baltimore Authority police officer may exercise these powers elsewhere only if:<section prefix="(i)">doing so is necessary to facilitate the orderly flow of traffic to or from property that is owned, leased, operated by, or under the control of the Baltimore Authority; or</section><section prefix="(ii)">the officer is:<section prefix="1.">ordered to do so by the Mayor of Baltimore City;</section><section prefix="2.">asked or authorized to do so by the Police Commissioner of Baltimore City; or</section><section prefix="3.">engaged in fresh pursuit of a suspected offender.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">The Baltimore Authority shall adopt standards, qualifications, and prerequisites of character, training, education, human and public relations, experience, and performance for Baltimore Authority police officers.</section>

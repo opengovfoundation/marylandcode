@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-402" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-402</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not apply to:...</catch_line>
+  <order_by>402</order_by>
   <text>This subtitle does not apply to:<section prefix=""><section prefix="(1)">an adjuster for or an insurance producer or employee of an insurer or group of insurers under common control or ownership that, as representative of the insurer or group, adjusts losses or damages under policies issued by the insurer or group;</section><section prefix="(2)">an insurance producer that acts as an adjuster without compensation for an insured for whom the insurance producer is acting as an insurance producer; or</section><section prefix="(3)">an attorney at law who does not:<section prefix="(i)">regularly act as a public adjuster; and</section><section prefix="(ii)">represent to the public by sign, advertisement, or otherwise that the attorney at law acts as a public adjuster.</section></section></section></text>
 </law>

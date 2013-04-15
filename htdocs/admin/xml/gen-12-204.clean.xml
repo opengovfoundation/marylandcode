@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-204" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-12-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">The Board shall meet at least once a year, at the times and places that it determines.</section>
     <section prefix="(b)">Each member of the Board is entitled to reimbursement for expenses under the Standard State Travel Regulations, as provided in the State budget.</section>

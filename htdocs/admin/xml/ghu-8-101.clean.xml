@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-101" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-8-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Agencies of the Children's Cabinet" includes:<section prefix="(1)">the Department of Budget and Management;</section><section prefix="(2)">the Department of Disabilities;</section><section prefix="(3)">the Department of Health and Mental Hygiene;</section><section prefix="(4)">the Department of Human Resources;</section><section prefix="(5)">the Department of Juvenile Services; and</section><section prefix="(6)">the State Department of Education.</section></section>
@@ -23,7 +23,7 @@
       <section prefix="(2)">"Family" includes:<section prefix="(i)">a guardian;</section><section prefix="(ii)">a person acting as a parent of a child; and</section><section prefix="(iii)">a relative or stepparent with whom a child lives.</section></section>
     </section>
     <section prefix="(j)">
-      <section prefix="(1)">"Home visiting program" means a program or initiative that:<section prefix="(i)">contains home visiting as a primary service delivery strategy;</section><section prefix="(ii)">offers services on a voluntary basis to pregnant women, expectant fathers, and parents and caregivers of children from birth to kindergarten entry; and</section><section prefix="(iii)">targets participant outcomes that may include:</section></section>
+      <section prefix="(1)">"Home visiting program" means a program or initiative that:<section prefix="(i)">contains home visiting as a primary service delivery strategy;</section><section prefix="(ii)">offers services on a voluntary basis to pregnant women, expectant fathers, and parents and caregivers of children from birth to kindergarten entry; and</section><section prefix="(iii)">targets participant outcomes that may include:<section prefix="1.">improved maternal and child health;</section><section prefix="2.">prevention of child injuries, child abuse or maltreatment, and reduction of emergency department visits;</section><section prefix="3.">improvements in school readiness and achievement;</section><section prefix="4.">reduction in crime or domestic violence;</section><section prefix="5.">improvements in family economic self-sufficiency;</section><section prefix="6.">improvements in the coordination of and referrals to other community resources and supports; or</section><section prefix="7.">improvements in parenting skills related to child development.</section></section></section>
       <section prefix="(2)">"Home visiting program" includes those program models identified in the Home Visiting Evidence of Effectiveness project of the federal Department of Health and Human Services.</section>
       <section prefix="(3)">"Home visiting program" does not include:<section prefix="(i)">programs with few or infrequent visits;</section><section prefix="(ii)">programs in which home visiting is supplemental to other services; or</section><section prefix="(iii)">in-home services delivered through provisions of an individualized family service plan or an individualized education program under Part C or Part B of the federal Individuals with Disabilities Education Act.</section></section>
     </section>
@@ -34,7 +34,7 @@
     <section prefix="(o)">"Public agency" means a State or local government unit or a quasi-governmental entity.</section>
     <section prefix="(p)">
       <section prefix="(1)">"Residential child care program" means an entity that provides 24-hour per day care for children within a structured set of services and activities that are designed to achieve specific objectives relative to the needs of the children served and that include the provision of food, clothing, shelter, education, social services, health, mental health, recreation, or any combination of these services and activities.</section>
-      <section prefix="(2)">"Residential child care program" includes a program:<section prefix="(i)">licensed by:</section><section prefix="(ii)">that is subject to the licensing regulations of the members of the Children's Cabinet governing the operations of residential child care programs.</section></section>
+      <section prefix="(2)">"Residential child care program" includes a program:<section prefix="(i)">licensed by:<section prefix="1.">the Department of Health and Mental Hygiene;</section><section prefix="2.">the Department of Human Resources; or</section><section prefix="3.">the Department of Juvenile Services; and</section></section><section prefix="(ii)">that is subject to the licensing regulations of the members of the Children's Cabinet governing the operations of residential child care programs.</section></section>
     </section>
   </text>
 </law>

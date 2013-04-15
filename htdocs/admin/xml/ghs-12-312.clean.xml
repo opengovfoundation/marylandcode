@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-312" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-12-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">When a code authority becomes authorized to do business and exercise its powers, the political subdivision:<section prefix="(i)">immediately shall estimate the amount of money necessary for the administrative expenses and overhead of the code authority during the first year thereafter; and</section><section prefix="(ii)">shall appropriate that amount to the code authority out of money in the political subdivision's treasury not appropriated to some other purpose.</section></section>

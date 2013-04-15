@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-311" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">On default of a premium payment due on a policy of life insurance at a time other than the policy anniversary, any cash surrender value and paid-up nonforfeiture benefit available under the policy shall be calculated with an allowance for the lapse of time and the payment of any fractional premiums since the immediately preceding policy anniversary.</section>
     <section prefix="(b)">Values referred to in &#xA7;&#xA7; 16-305 through 16-309 of this subtitle may be calculated on the assumption that a death benefit is payable at the end of the policy year of death.</section>

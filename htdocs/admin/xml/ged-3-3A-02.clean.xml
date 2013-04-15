@@ -1,18 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-3A-02" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-3A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">The Caroline County Board of Education consists of:<section prefix="(1)">Three elected members;</section><section prefix="(2)">Two appointed members; and</section><section prefix="(3)">Two nonvoting student members.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">One elected member shall be elected from each of the three board of education districts established in Caroline County.</section>
       <section prefix="(2)">An elected member shall be:<section prefix="(i)">A resident of the district from which the member is elected; and</section><section prefix="(ii)">Elected only by the voters of that district.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Two appointed members shall be appointed by the Governor, with the advice and consent of the Senate, from the county at-large.</section>
+          <section prefix="2.">Each appointed member shall be a resident of the county.</section>
+        </section>
         <section prefix="(ii)">In appointing members to the county board, the Governor shall ensure, to the extent practicable, that the total makeup of the county board reflects gender, ethnic, and racial diversity.</section>
       </section>
     </section>
@@ -30,7 +33,7 @@
       <section prefix="(3)">An individual employed by, or under the direction of, the county board or the Caroline County Superintendent of Schools is not eligible to serve on the county board.</section>
     </section>
     <section prefix="(f)">
-      <section prefix="(1)">A student member of the county board shall:<section prefix="(i)">Be a regularly enrolled eleventh or twelfth grade student of good character and in good standing in a Caroline County public high school during the student's term in office;</section><section prefix="(ii)">Be selected in the student's tenth or eleventh grade in accordance with paragraph (3) of this subsection; and</section><section prefix="(iii)"/></section>
+      <section prefix="(1)">A student member of the county board shall:<section prefix="(i)">Be a regularly enrolled eleventh or twelfth grade student of good character and in good standing in a Caroline County public high school during the student's term in office;</section><section prefix="(ii)">Be selected in the student's tenth or eleventh grade in accordance with paragraph (3) of this subsection; and</section><section prefix="(iii)"><section prefix="1.">Serve for a term of 1 year; and</section><section prefix="2.">If the student is in the twelfth grade, continue to serve after graduation and until a successor is selected and qualifies.</section></section></section>
       <section prefix="(2)">Each high school in the county shall be represented by a student member of the county board.</section>
       <section prefix="(3)">
         <section prefix="(i)">For nomination to the county board, the student body shall submit to the principal of the high school a list of nominees that contains the names of eligible students.</section>
@@ -48,7 +51,7 @@
       <section prefix="(3)">Before filling a vacancy for an elected member, the remaining voting members of the county board shall conduct an interview of each applicant at an open meeting.</section>
       <section prefix="(4)">
         <section prefix="(i)">The county board shall publish a list of the names of the applicants for a vacancy on the county board at least 2 weeks before the interview of the first applicant is scheduled to occur.</section>
-        <section prefix="(ii)">The county board shall cause public notice of the date, time, and location of the interview for each applicant to be published:</section>
+        <section prefix="(ii)">The county board shall cause public notice of the date, time, and location of the interview for each applicant to be published:<section prefix="1.">At least 2 weeks before the interview is scheduled to occur; and</section><section prefix="2.">In the same manner as public notice of a regular meeting of the county board is published.</section></section>
       </section>
       <section prefix="(5)">The county board is not required to conduct discussions of the applicants or make the final selection of the elected member to fill the vacancy at an open meeting.</section>
     </section>

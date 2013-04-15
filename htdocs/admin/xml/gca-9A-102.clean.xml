@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-102" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">A person knows a fact if the person has actual knowledge of it.</section>
     <section prefix="(b)">A person has notice of a fact if the person:<section prefix="(1)">Knows of it;</section><section prefix="(2)">Has received a notification of it; or</section><section prefix="(3)">Has reason to know it exists from all of the facts known to the person at the time in question.</section></section>

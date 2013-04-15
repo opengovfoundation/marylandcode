@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-608" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">Any person who violates any provision of this subtitle may be enjoined by a court of competent jurisdiction upon application of the Department acting through the Attorney General.</section>
     <section prefix="(b)">Any person who violates any provision of this subtitle or any permit or order issued under this subtitle is liable to a penalty not exceeding $10,000, as well as being subject to being enjoined as provided in subsection (a) of this section. The monetary penalty provided may be recovered in a civil action by the Department through the Attorney General.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-601" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-601</section_number>
-  <catch_line/>
+  <catch_line>To the maximum extent possible, the Department shall use the facilities and services of appropriate ...</catch_line>
+  <order_by>601</order_by>
   <text>To the maximum extent possible, the Department shall use the facilities and services of appropriate agencies of political subdivisions to enforce the standards set under this title.</text>
 </law>

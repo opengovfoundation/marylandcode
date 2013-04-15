@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-103" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">In addition to the powers set forth elsewhere in this title, the Department may obtain any federal or other funds that are available to this State for purposes that are within the scope of this title.</section>
     <section prefix="(b)">In addition to the duties set forth elsewhere in this title, the Department:<section prefix="(1)">Has jurisdiction over emissions into the air and ambient air quality in this State;</section><section prefix="(2)">Is responsible for monitoring ambient air quality in this State; and</section><section prefix="(3)">Shall coordinate all State agency programs on ambient air quality control.</section></section>

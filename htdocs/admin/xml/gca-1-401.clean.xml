@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-401" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">Service of process on the resident agent of a corporation, partnership, limited partnership, limited liability partnership, limited liability company, or real estate investment trust, or any other person constitutes effective service of process under the Maryland Rules on the corporation, partnership, limited partnership, limited liability partnership, limited liability company, or real estate investment trust, or other person in any action, suit, or proceeding which is pending, filed, or instituted against it under the provisions of this article.</section>
     <section prefix="(b)">

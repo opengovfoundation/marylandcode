@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-503" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-1-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">A person engaged in a trade or business who, in the course of that trade or business, receives more than $10,000 in currency in 1 transaction shall keep a record of the transaction and shall file with the Department within 15 days of the date of the transaction a report of the transaction.</section>
     <section prefix="(b)">The reporting requirements of this section are complied with if the person engaged in a trade or business files with the Department a duplicate copy of the report required by 26 U.S.C. &#xA7; 6050-I.</section>

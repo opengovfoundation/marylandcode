@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-801" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-12-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except with respect to a tax collectible locally, the State Comptroller shall certify to the Department, as soon as practicable after October 1 of each year, a list of every Maryland statutory trust that has not paid a tax that was due before October 1 of the year.</section>

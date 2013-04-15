@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-106" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">Each trustee is entitled to one vote on the Board of Trustees.</section>
     <section prefix="(b)">A majority of the trustees then serving on the Board of Trustees is a quorum for:<section prefix="(1)">the transaction of any business;</section><section prefix="(2)">the exercise of any power; or</section><section prefix="(3)">the performance of any duty authorized or imposed by law.</section></section>

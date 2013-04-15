@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-303" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-17-303</section_number>
-  <catch_line/>
+  <catch_line>Any amount due and payable under law and an authorized, written procurement contract that remains un...</catch_line>
+  <order_by>303</order_by>
   <text>Any amount due and payable under law and an authorized, written procurement contract that remains unpaid for more than 45 calendar days after the receipt date shall accrue interest, at the rate specified in &#xA7; 11-107(a) of the Courts Article, for the period that begins 31 calendar days after the receipt date.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-605" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">If the owner of a marked container, his officer, or authorized agent who has personal knowledge of the facts makes oath in writing before any court of competent jurisdiction that he believes that a person has violated any provision of this subtitle with respect to the container, the court, if satisfied that there is reasonable cause, may issue a warrant and cause the alleged violator to be brought into court for the purpose of discovering and obtaining the container.</section>
     <section prefix="(b)">If the court finds that a person violated any provision of this subtitle, it shall award an unlawfully taken container to its true owner.</section>

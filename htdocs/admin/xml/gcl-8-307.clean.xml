@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-307</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise agreed, the transferor of a security on due demand shall supply the purchaser with ...</catch_line>
+  <order_by>307</order_by>
   <text>Unless otherwise agreed, the transferor of a security on due demand shall supply the purchaser with proof of authority to transfer or with any other requisite necessary to obtain registration of the transfer of the security, but if the transfer is not for value, a transferor need not comply unless the purchaser pays the necessary expenses. If the transferor fails within a reasonable time to comply with the demand, the purchaser may reject or rescind the transfer.</text>
 </law>

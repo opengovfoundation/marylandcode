@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-112" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection does not apply to the emergency adoption of a regulation.</section>
       <section prefix="(2)">To have a proposed regulation published in the Register, a unit shall submit to the Administrator:<section prefix="(i)">the proposed regulation; and</section><section prefix="(ii)">a notice of the proposed adoption.</section></section>
-      <section prefix="(3)">The notice under this subsection shall:<section prefix="(i)">state the estimated economic impact of the proposed regulation on:</section><section prefix="(ii)">include a statement of purpose;</section><section prefix="(iii)">satisfy the requirements of &#xA7; 2-1505.2 of this article;</section><section prefix="(iv)">comply with &#xA7; 7-113(c) of the Human Services Article; and</section><section prefix="(v)">give persons an opportunity to comment before adoption of the proposed regulation, by:</section></section>
+      <section prefix="(3)">The notice under this subsection shall:<section prefix="(i)">state the estimated economic impact of the proposed regulation on:<section prefix="1.">the revenues and expenditures of units of the State government and of local government units; and</section><section prefix="2.">groups such as consumer, industry, taxpayer, or trade groups;</section></section><section prefix="(ii)">include a statement of purpose;</section><section prefix="(iii)">satisfy the requirements of &#xA7; 2-1505.2 of this article;</section><section prefix="(iv)">comply with &#xA7; 7-113(c) of the Human Services Article; and</section><section prefix="(v)">give persons an opportunity to comment before adoption of the proposed regulation, by:<section prefix="1.">setting a date, time, and place for a public hearing at which oral or written views and information may be submitted; or</section><section prefix="2.">giving a telephone number that a person may call to comment and an address to which a person may send comments.</section></section></section>
       <section prefix="(4)">
         <section prefix="(i)">The estimated economic impact statement required under paragraph (3)(i) of this subsection shall state whether the proposed regulation imposes a mandate on a local government unit.</section>
-        <section prefix="(ii)">If the proposed regulation imposes a mandate, the fiscal impact statement shall:</section>
+        <section prefix="(ii)">If the proposed regulation imposes a mandate, the fiscal impact statement shall:<section prefix="1.">indicate whether the regulation is required to comply with a federal statutory or regulatory mandate; and</section><section prefix="2.">include, in addition to the estimate under paragraph (3)(i)1 of this subsection, the estimated effect on local property tax rates, if applicable, and if the required data is available.</section></section>
       </section>
     </section>
     <section prefix="(b)">As soon as the Committee approves emergency adoption of a regulation, the Committee shall submit the regulation to the Administrator.</section>

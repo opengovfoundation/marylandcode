@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-904" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Credit may not be allowed, as an asset or deduction from liability, to a ceding insurer for reinsurance unless:<section prefix="(i)">the reinsurer is authorized to transact insurance business in the State or is a solvent insurer approved or accepted by the Commissioner for the purpose of reinsurance; and</section><section prefix="(ii)">the reinsurance contract provides, in substance, that in the event of the insolvency of the ceding insurer, the reinsurance shall be payable under the terms of a contract reinsured by the reinsurer on the basis of reported claims allowed by the court in a liquidation proceeding, without diminution because of the insolvency of the ceding insurer.</section></section>

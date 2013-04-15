@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-302" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-11-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The president of each public institution of higher education is responsible for developing a mission statement.</section>
@@ -16,7 +16,7 @@
       <section prefix="(1)">The governing board:<section prefix="(i)">Shall review the mission statement and may require the president to prepare a revised mission statement;</section><section prefix="(ii)">May adopt the mission statement as submitted or with amendments; and</section><section prefix="(iii)">Shall submit the statement to the Commission.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">In the case of constituent institutions of the University System of Maryland, the Chancellor of the University System of Maryland shall review the statement prior to its consideration by the Board of Regents and make recommendations.</section>
-        <section prefix="(ii)">Before adopting the mission statements, the Board of Regents shall review the statements individually and on a systemwide basis to assure that:</section>
+        <section prefix="(ii)">Before adopting the mission statements, the Board of Regents shall review the statements individually and on a systemwide basis to assure that:<section prefix="1.">They are consistent with the Charter and the systemwide plan; and</section><section prefix="2.">They will promote the efficient and effective use of the institution's and System's resources.</section></section>
         <section prefix="(iii)">The Board shall consolidate the statements into an adopted systemwide statement.</section>
       </section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-216" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-216</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>216</order_by>
   <text>
     <section prefix="(a)">If an item is in or comes into the possession of a payor or collecting bank that suspends payment and the item has not been finally paid, the item must be returned by the receiver, trustee, or agent in charge of the closed bank to the presenting bank or the closed bank's customer.</section>
     <section prefix="(b)">If a payor bank finally pays an item and suspends payments without making a settlement for the item with its customer or the presenting bank which settlement is or becomes final, the owner of the item has a preferred claim against the payor bank.</section>

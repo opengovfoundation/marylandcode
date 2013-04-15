@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-14-101</section_number>
-  <catch_line/>
+  <catch_line>In this title, "Commission" means the State Prosecutor Selection and Disabilities Commission....</catch_line>
+  <order_by>101</order_by>
   <text>In this title, "Commission" means the State Prosecutor Selection and Disabilities Commission.</text>
 </law>

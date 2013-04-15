@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-364" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-364</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>364</order_by>
   <text>
     <section prefix="(a)">The related institution shall have the right to appeal from the order within 5 working days from the receipt of the order.</section>
     <section prefix="(b)">The appeal shall be heard by the hearings office of the Department, which shall render the final agency decision for purposes of judicial review.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">The Secretary shall administer the programs and activities that the federal government delegates to the State under the Older Americans Act of 1965 that are not otherwise committed by law to another unit of State government.</section>
     <section prefix="(b)">The Secretary:<section prefix="(1)">is a member of the Governor's Executive Council; and</section><section prefix="(2)">shall cooperate with and receive the cooperation of State, federal, and local governmental units to carry out the purposes of this title.</section></section>

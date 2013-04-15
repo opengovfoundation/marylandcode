@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-209" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-10-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The licensee shall designate an employee in each fireworks plant as safety officer.</section>
@@ -15,7 +15,7 @@
     </section>
     <section prefix="(b)">A licensee shall post conspicuously in each building signs stating the maximum number of workers and visitors who may be present in the building at any one time.</section>
     <section prefix="(c)">
-      <section prefix="(1)">A licensee shall:<section prefix="(i)">provide cotton working uniforms and conductive shoes to each individual working in a mixing building and press building in a fireworks plant;</section><section prefix="(ii)">provide facilities for:</section><section prefix="(iii)">wash uniforms frequently to prevent the accumulation of explosive composition on the uniforms; and</section><section prefix="(iv)">provide for employees washing and showering facilities designated by the Secretary of Health and Mental Hygiene.</section></section>
+      <section prefix="(1)">A licensee shall:<section prefix="(i)">provide cotton working uniforms and conductive shoes to each individual working in a mixing building and press building in a fireworks plant;</section><section prefix="(ii)">provide facilities for:<section prefix="1.">individuals to change into and out of uniforms; and</section><section prefix="2.">the safekeeping of clothing;</section></section><section prefix="(iii)">wash uniforms frequently to prevent the accumulation of explosive composition on the uniforms; and</section><section prefix="(iv)">provide for employees washing and showering facilities designated by the Secretary of Health and Mental Hygiene.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Each individual working in a mixing building and press building in a fireworks plant shall wear the cotton uniforms and conductive shoes that the licensee provides.</section>
         <section prefix="(ii)">Each individual working in a production building in a fireworks plant shall wear the type of eye protection designated by the Secretary of Health and Mental Hygiene.</section>
@@ -25,7 +25,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, a person may not smoke or carry a lighted pipe, cigarette, cigar, match, lighter, or open flame inside the fence of a fireworks plant.</section>
-      <section prefix="(2)">A licensee may allow smoking in:<section prefix="(i)">an office building; or</section><section prefix="(ii)">another building if:</section></section>
+      <section prefix="(2)">A licensee may allow smoking in:<section prefix="(i)">an office building; or</section><section prefix="(ii)">another building if:<section prefix="1.">the building is used exclusively as a lunchroom or for rest rooms; and</section><section prefix="2.">the presence of fireworks or any explosive composition in the building is prohibited.</section></section></section>
       <section prefix="(3)">The licensee shall mark locations in which smoking is authorized.</section>
       <section prefix="(4)">Smoking locations shall contain:<section prefix="(i)">suitable receptacles for cigarette and cigar butts and pipe heels; and</section><section prefix="(ii)">at least one serviceable fire extinguisher of a type that is acceptable to the State Fire Marshal.</section></section>
       <section prefix="(5)">A person whose clothing is so contaminated with explosives or other dangerous materials as to possibly endanger the safety of other fireworks plant personnel may not be allowed in a smoking location.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-214" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">Each criminal justice unit shall report in accordance with this section the criminal history record information that it collects to the Central Repository.</section>
     <section prefix="(b)">Subject to subsection (c) of this section:<section prefix="(1)">the data pertaining to an arrest or the issuance of an arrest warrant shall be reported within 72 hours after the earlier of the arrest or the issuance of the arrest warrant; and</section><section prefix="(2)">the data pertaining to any other reportable event shall be reported within 60 days after the reportable event occurs.</section></section>

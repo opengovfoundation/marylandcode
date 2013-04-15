@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-837" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-837</section_number>
-  <catch_line/>
+  <catch_line>A qualified offer shall be treated as an offer of compromise for purposes of admissibility in eviden...</catch_line>
+  <order_by>837</order_by>
   <text>A qualified offer shall be treated as an offer of compromise for purposes of admissibility in evidence, notwithstanding that the amount is not in controversy.</text>
 </law>

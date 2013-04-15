@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-628" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-628</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>628</order_by>
   <text>
     <section prefix="(a)">If, as part of an installment sale, a promissory note is taken by a seller or sales finance company, the note shall refer to the agreement out of which it arises.</section>
     <section prefix="(b)">If the note is assigned, it is subject to all defenses which the buyer might have asserted against the seller or sales finance company, except that an acknowledgment by the buyer of delivery of a copy of the agreement pursuant to &#xA7; 12-605 of this subtitle is conclusive proof of the delivery in favor of an assignee of the note without actual knowledge to the contrary.</section>

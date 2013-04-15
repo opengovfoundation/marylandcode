@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-8A-17" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-8A-17</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>17</order_by>
   <text>
     <section prefix="(a)">After a petition or a citation has been filed with the court under this subtitle, the court may direct the Department of Juvenile Services or another qualified agency to make a study concerning the child, the child's family, the child's environment, and other matters relevant to the disposition of the case.</section>
     <section prefix="(b)">As part of a study under this section, the child or any parent, guardian, or custodian may be examined at a suitable place by a physician, psychiatrist, psychologist, or other professionally qualified person.</section>

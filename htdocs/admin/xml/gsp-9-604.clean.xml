@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-604" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-9-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the limitations in this title or in any other law, an employee may voluntarily donate unused annual, sick, or personal leave to another employee who has exhausted all available annual, personal, sick, and compensatory leave because of a serious and prolonged medical condition of the employee or a catastrophic illness or injury of a member of the employee's immediate family.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-109" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-10-109</section_number>
-  <catch_line/>
+  <catch_line>If a passenger elects to use a route where a highway or bridge toll charge occurs, the for-hire driv...</catch_line>
+  <order_by>109</order_by>
   <text>If a passenger elects to use a route where a highway or bridge toll charge occurs, the for-hire driver shall assess the passenger the cost of the highway or bridge toll charge.</text>
 </law>

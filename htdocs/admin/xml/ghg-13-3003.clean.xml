@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-3003" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-3003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>3003</order_by>
   <text>
     <section prefix="(a)">There is a Cord Blood Transplant Center Support Fund.</section>
     <section prefix="(b)">The purpose of the Fund is to promote economic development by supporting cord blood transplant centers at qualified medical institutions with a goal of being recognized as a regional center of excellence in the area of cord blood transplantation.</section>

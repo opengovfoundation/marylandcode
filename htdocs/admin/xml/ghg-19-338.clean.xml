@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-338" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-338</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>338</order_by>
   <text>
     <section prefix="(a)">The Secretary shall determine whether the receivership can be funded by State funds previously designated for the community program. In the event that previously designated funds are available, these funds shall be used for the operation of the receivership.</section>
     <section prefix="(b)">In the event that there are insufficient funds to operate the receivership, the Secretary may petition the Board of Public Works for sufficient funds to operate the receivership.</section>

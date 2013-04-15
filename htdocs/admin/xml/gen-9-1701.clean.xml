@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1701" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1701</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Compost" means the product of composting in accordance with the standards established by the Secretary of Agriculture under &#xA7; 6-221 of the Agriculture Article.</section>
     <section prefix="(c)">"Composting" means the controlled biological decomposition of organic waste material in accordance with the standards established by the Secretary under this title.</section>
     <section prefix="(d)">
       <section prefix="(1)">"Computer" means a desktop personal computer or laptop computer, including the computer monitor.</section>
-      <section prefix="(2)">"Computer" does not include:<section prefix="(i)">A personal digital assistant device;</section><section prefix="(ii)">A computer peripheral device, including:</section></section>
+      <section prefix="(2)">"Computer" does not include:<section prefix="(i)">A personal digital assistant device;</section><section prefix="(ii)">A computer peripheral device, including:<section prefix="1.">A mouse or other similar pointing device;</section><section prefix="2.">A printer; or</section><section prefix="3.">A detachable keyboard.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">"Covered electronic device" means a computer or video display device with a screen that is greater than 4 inches measured diagonally.</section>

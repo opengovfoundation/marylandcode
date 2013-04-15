@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-411" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">To qualify for a permit, a person shall comply with the requirements of this subtitle and the rules and regulations adopted under this subtitle.</section>
     <section prefix="(b)">In addition to the requirements of subsection (a) of this section, to qualify for a certified industry dairy farm inspector permit or a bulk milk hauler/sampler permit, Grade A classification, the applicant shall meet the requirements of the Grade A Pasteurized Milk Ordinance.</section>

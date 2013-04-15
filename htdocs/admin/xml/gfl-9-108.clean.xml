@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-108" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">In this section:<section prefix="(1)">"deployment" means compliance with military orders received by a member of the United States Army, Navy, Air Force, Marine Corps, Coast Guard, National Guard, or any other Reserve component to report for combat operations or other active service for which the member is required to report unaccompanied by any family member or that is classified by the member's branch as remote; and</section><section prefix="(2)">"deployment" does not include National Guard or Reserve annual training, inactive duty days, or drill weekends.</section></section>
     <section prefix="(b)">Any order or modification of an existing child custody or visitation order issued by a court during a term of a deployment of a parent shall specifically reference the deployment of the parent.</section>

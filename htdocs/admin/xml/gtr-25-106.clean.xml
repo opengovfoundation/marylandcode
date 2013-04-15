@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-106" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-25-106</section_number>
-  <catch_line/>
+  <catch_line>On every highway under its jurisdiction, a local authority shall place and maintain those traffic co...</catch_line>
+  <order_by>106</order_by>
   <text>On every highway under its jurisdiction, a local authority shall place and maintain those traffic control devices that it considers necessary to carry out the provisions of the Maryland Vehicle Law or local traffic ordinances or to regulate, warn, or guide traffic. Each of these traffic control devices shall conform to the manual and specifications of the State Highway Administration.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-312" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-6-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">In this section, "person" has the meaning stated in Rule 1-202 of the Maryland Rules.</section>
     <section prefix="(b)">This section applies to a person who is a defendant subject to a complaint, counterclaim, cross-claim, or third-party complaint.</section>

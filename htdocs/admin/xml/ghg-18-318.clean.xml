@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-318" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-318</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>318</order_by>
   <text>
     <section prefix="(a)">Each person who owns or keeps a dog, cat, or ferret that is 4 months old or older shall have the dog, cat, or ferret vaccinated adequately against rabies.</section>
     <section prefix="(b)">

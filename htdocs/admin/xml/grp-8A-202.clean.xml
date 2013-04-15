@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8A-202" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8A-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">A park owner shall offer all current and prospective year-round residents a rental agreement for a period of not less than 1 year.</section>
     <section prefix="(b)">Upon the expiration of the initial term, the resident shall be on a month-to-month term, unless a longer term is agreed to by the parties, subject to the modified provisions relating to the amount and payment of rent.</section>
@@ -13,7 +13,7 @@
       <section prefix="(1)">In this subsection, "qualified resident" means a year-round resident who:<section prefix="(i)">Has made rental payments on the due date or within any grace period commonly permitted in the park during the preceding year;</section><section prefix="(ii)">Within the preceding 6-month period has not committed a repeated violation of any rule or provision of the rental agreement and, at the time the term expires, no substantial violation exists; and</section><section prefix="(iii)">Owns a mobile home that meets the standards of the park.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Before the expiration of a 1-year term, or upon request of the resident at any time during a month-to-month term, a park owner shall offer to a qualified resident a rental agreement for a 1-year period.</section>
-        <section prefix="(ii)">An offer of a rental agreement for a 1-year term to a qualified resident shall:</section>
+        <section prefix="(ii)">An offer of a rental agreement for a 1-year term to a qualified resident shall:<section prefix="1.">Be delivered to the resident no later than 30 days before the expiration of the existing term;</section><section prefix="2.">Explain, in clear language, a qualified resident's right to the 1-year term; and</section><section prefix="3.">Contain a statement that, if the resident chooses not to enter into a 1-year agreement, the lease will continue on a month-to-month term that can be discontinued by either party, upon 30 days' notice.</section></section>
       </section>
       <section prefix="(3)">If the use of land is changed:<section prefix="(i)">All residents shall be entitled to a 1-year prior written notice of termination notwithstanding the provisions of a longer term in a rental agreement; and</section><section prefix="(ii)">The park owner shall send to the local governing body of the county or municipal corporation in which the park is located a copy of the written notice of termination sent to the residents under item (i) of this paragraph.</section></section>
       <section prefix="(4)">If a resident's rental agreement is not renewed on the basis that the resident is not a qualified resident, the park owner shall, within 5 days, provide the resident with a written statement of the specific reason for nonrenewal of the rental agreement.</section>

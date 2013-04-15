@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-404" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-404</section_number>
-  <catch_line/>
+  <catch_line>The fact that a proceeding is brought under this subtitle does not affect a right to jury trial whic...</catch_line>
+  <order_by>404</order_by>
   <text>The fact that a proceeding is brought under this subtitle does not affect a right to jury trial which otherwise may exist.</text>
 </law>

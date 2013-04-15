@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-110" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-110</section_number>
-  <catch_line/>
+  <catch_line>The Administration shall refuse to issue a certificate of title of a vehicle if:...</catch_line>
+  <order_by>110</order_by>
   <text>The Administration shall refuse to issue a certificate of title of a vehicle if:<section prefix=""><section prefix="(1)">The application contains any false or fraudulent statement;</section><section prefix="(2)">The applicant has failed to furnish information or documents required by statute or regulations adopted by the Administration;</section><section prefix="(3)">Any required fee has not been paid;</section><section prefix="(4)">The applicant is not entitled to a certificate of title under the Maryland Vehicle Law; or</section><section prefix="(5)">The Administration has reasonable grounds to believe:<section prefix="(i)">That the applicant is not the owner of the vehicle;</section><section prefix="(ii)">That the issuance of a certificate of title to the applicant would be a fraud against another person; or</section><section prefix="(iii)">That the vehicle does not comply with Title 2, Subtitle 11 of the Environment Article or any regulation adopted under that subtitle.</section></section></section></text>
 </law>

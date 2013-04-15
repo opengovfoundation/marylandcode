@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-709" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-709</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>709</order_by>
   <text>
     <section prefix="(a)">This subtitle may not be construed to create a duty upon any individual to obtain a certificate under this subtitle, and an individual may not be held civilly liable for failing to obtain a certificate under this subtitle.</section>
     <section prefix="(b)">An individual may not be held civilly liable in any action arising from or in connection with the administration of epinephrine by the individual solely because the individual did not possess a certificate issued under this subtitle.</section>

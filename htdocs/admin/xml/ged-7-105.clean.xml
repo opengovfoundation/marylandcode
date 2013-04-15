@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-105" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">This section is enacted so that the love of freedom and democracy, shown in the devotion of all true and patriotic Americans to their flag and country, shall be instilled in the hearts and minds of the youth of America.</section>
     <section prefix="(b)">Each county board shall:<section prefix="(1)">Require the display of an American flag on the site of each public school building in its county while the school is in session;</section><section prefix="(2)">Buy all necessary flags, staffs, and appliances for the flags; and</section><section prefix="(3)">Adopt rules and regulations for the proper custody, care, and display of the flag.</section></section>

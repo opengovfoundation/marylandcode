@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-615" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-615</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>615</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, if the wage earning capacity of a covered employee is less while temporarily partially disabled, the employer or its insurer shall pay the covered employee compensation that equals 50% of the difference between:<section prefix="(i)">the average weekly wage of the covered employee; and</section><section prefix="(ii)">the wage earning capacity of the covered employee in the same or other employment while temporarily partially disabled.</section></section>

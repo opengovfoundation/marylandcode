@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-306" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-8-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">The Commission shall issue a license to each applicant who meets the requirements of this subtitle.</section>
     <section prefix="(b)">The Commission:<section prefix="(1)">may issue a salesperson license only to an individual; and</section><section prefix="(2)">may not issue a salesperson license unless the Commission has received from a licensed contractor written notice, signed by both the licensed contractor and salesperson, of an employment or other contractual relationship between the licensed contractor and salesperson.</section></section>

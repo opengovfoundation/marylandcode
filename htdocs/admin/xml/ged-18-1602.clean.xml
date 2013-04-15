@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-1602" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-1602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1602</order_by>
   <text>
     <section prefix="(a)">There is a Math/Science Student Corps to encourage students to enroll in math and science programs and work in occupations in Maryland requiring math and science skills.</section>
     <section prefix="(b)">The purpose of the program is to increase the number of graduates who are employed in occupations requiring math and science skills and to provide loan repayment assistance for graduates who work in Maryland.</section>

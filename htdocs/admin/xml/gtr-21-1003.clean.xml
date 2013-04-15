@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1003" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">The provisions of this section apply except as necessary to avoid conflict with other traffic or in compliance with law or the directions of a police officer or traffic control device.</section>
     <section prefix="(b)">A person may not stop, stand, or park a vehicle in front of a public driveway.</section>

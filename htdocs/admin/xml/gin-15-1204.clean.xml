@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1204" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1204</order_by>
   <text>
     <section prefix="(a)">This section applies to a carrier with respect to any health benefit plan that is a grandfathered health plan, as defined in &#xA7; 1251 of the Affordable Care Act.</section>
     <section prefix="(b)">In addition to any other requirement under this article, a carrier shall:<section prefix="(1)">have demonstrated the capacity to administer the health benefit plan, including adequate numbers and types of administrative personnel;</section><section prefix="(2)">have a satisfactory grievance procedure and ability to respond to enrollees' calls, questions, and complaints;</section><section prefix="(3)">provide, in the case of individuals covered under more than one health benefit plan, for coordination of coverage under all of those health benefit plans in an equitable manner; and</section><section prefix="(4)">design policies to help ensure adequate access to providers of health care.</section></section>

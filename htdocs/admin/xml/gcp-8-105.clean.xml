@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-8-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">A review panel consists of three or more circuit court judges of the judicial circuit in which the sentencing court is located.</section>
     <section prefix="(b)">Notwithstanding any Maryland Rule, the sentencing judge may not be a member of the review panel, but on request of the sentencing judge, the sentencing judge may sit with the review panel only in an advisory capacity.</section>
     <section prefix="(c)">
       <section prefix="(1)">A review panel shall consider each application for review of a sentence.</section>
       <section prefix="(2)">A review panel may require the Division of Parole and Probation to make investigations, reports, and recommendations.</section>
-      <section prefix="(3)">A review panel:<section prefix="(i)">with or without a hearing, may decide that the sentence under review should remain unchanged; or</section><section prefix="(ii)">after a hearing, may order a different sentence to be imposed or served, including:</section></section>
+      <section prefix="(3)">A review panel:<section prefix="(i)">with or without a hearing, may decide that the sentence under review should remain unchanged; or</section><section prefix="(ii)">after a hearing, may order a different sentence to be imposed or served, including:<section prefix="1.">an increased sentence;</section><section prefix="2.">subject to &#xA7; 8-107(c) of this subtitle, a decreased sentence;</section><section prefix="3.">a suspended sentence to be served wholly or partly; or</section><section prefix="4.">a sentence to be suspended with or without probation.</section></section></section>
       <section prefix="(4)">In deciding to order a different sentence, the review panel may impose conditions that the review panel considers just and that could have been imposed lawfully by the sentencing court when the sentence was imposed.</section>
     </section>
     <section prefix="(d)">If the review panel orders a different sentence, the review panel shall resentence and notify the defendant in accordance with the order of the panel.</section>

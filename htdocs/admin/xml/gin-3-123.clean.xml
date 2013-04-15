@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-123" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-123</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">One or more mutual insurers organized under the laws of any state may consolidate or merge with one or more domestic mutual insurers to form a domestic mutual insurer.</section>
@@ -14,7 +14,7 @@
     <section prefix="(b)">
       <section prefix="(1)">Mutual insurers consolidating or merging to form a domestic mutual insurer under this section shall enter into a written agreement that:<section prefix="(i)">prescribes the terms and conditions of the consolidation or merger;</section><section prefix="(ii)">states the name of the successor mutual insurer; and</section><section prefix="(iii)">includes the successor mutual insurer's amended certificate of incorporation, which shall contain the provisions required by this article for the organization of a mutual insurer.</section></section>
       <section prefix="(2)">The agreement shall be:<section prefix="(i)">approved by the vote of a majority of the board of directors of each mutual insurer; and</section><section prefix="(ii)">submitted to a meeting of members and approved by vote of at least two-thirds of those members of each mutual insurer who vote on the plan in person, by proxy, or by mail.</section></section>
-      <section prefix="(3)">Notice of the time, place, and purpose of the meeting shall be:<section prefix="(i)">mailed to the members of each mutual insurer not less than 20 days before the date of the meeting; or</section><section prefix="(ii)">published at least once a week for 3 successive weeks in:</section></section>
+      <section prefix="(3)">Notice of the time, place, and purpose of the meeting shall be:<section prefix="(i)">mailed to the members of each mutual insurer not less than 20 days before the date of the meeting; or</section><section prefix="(ii)">published at least once a week for 3 successive weeks in:<section prefix="1.">a newspaper printed in the county where each mutual insurer has its principal office; and</section><section prefix="2.">a newspaper printed in one of the two largest cities in each state where the successor mutual insurer will be licensed to do business.</section></section></section>
       <section prefix="(4)">The agreement shall be:<section prefix="(i)">executed in duplicate original under corporate seal by officers authorized to do so on behalf of each of the mutual insurers; and</section><section prefix="(ii)">submitted, with evidence of its approval, to the Commissioner.</section></section>
       <section prefix="(5)">If it appears to the Commissioner that the requirements of this section have been complied with, the Commissioner shall certify approval of the agreement by endorsing it.</section>
       <section prefix="(6)">A duplicate original of the agreement shall be filed with the Commissioner and a duplicate original of the agreement shall be delivered to the successor mutual insurer.</section>
@@ -24,7 +24,7 @@
       <section prefix="(1)">Each domestic mutual insurer consolidating or merging with a foreign mutual insurer shall follow the procedure required by subsection (b) of this section.</section>
       <section prefix="(2)">Each foreign mutual insurer shall follow the procedure required by the state of its domicile with respect to a consolidation or merger.</section>
       <section prefix="(3)">The Commissioner shall require a certificate of approval from the insurance supervisory official of the state of domicile of each foreign insurer that is a party to the agreement certifying that the foreign insurer has complied with the laws of that state on consolidation or merger.</section>
-      <section prefix="(4)">Parties to the agreement of consolidation or merger need not hold a certificate of authority in this State at the time of consolidation or merger if:<section prefix="(i)">an application for a certificate of authority has been filed on behalf of the successor insurer, signed by each party to the agreement; and</section><section prefix="(ii)">the Commissioner believes the successor insurer:</section></section>
+      <section prefix="(4)">Parties to the agreement of consolidation or merger need not hold a certificate of authority in this State at the time of consolidation or merger if:<section prefix="(i)">an application for a certificate of authority has been filed on behalf of the successor insurer, signed by each party to the agreement; and</section><section prefix="(ii)">the Commissioner believes the successor insurer:<section prefix="1.">meets the applicable solvency requirements; and</section><section prefix="2.">has complied or agreed to comply with the laws of this State on the admission and authorization of foreign insurers.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">An agreement of consolidation or merger is effective:<section prefix="(i)">on an effective date, if any, stated in the agreement, if the effective date is after the date of approval by the Commissioner; or</section><section prefix="(ii)">on the date on which the last certificate of approval is executed by the insurance supervisory official of the state of domicile of any of the parties to the agreement.</section></section>

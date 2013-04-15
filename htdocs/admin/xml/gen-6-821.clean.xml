@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-821" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-821</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>821</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Whenever an owner of an affected property intends to make repairs or perform maintenance work that will disturb the paint on interior surfaces of an affected property, the owner shall make reasonable efforts to ensure that all persons who are not persons at risk are not present in the area where work is performed and that all persons at risk are removed from the affected property when the work is performed.</section>

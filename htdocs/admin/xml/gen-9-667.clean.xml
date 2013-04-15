@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-667" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-667</section_number>
-  <catch_line/>
+  <catch_line>If the sanitary commission determines that any part of an independent system is unfit for incorporat...</catch_line>
+  <order_by>667</order_by>
   <text>If the sanitary commission determines that any part of an independent system is unfit for incorporation into a project, the sanitary commission may:<section prefix=""><section prefix="(1)">Disregard the unfit parts of the independent system; and</section><section prefix="(2)">Extend its project into the area served by the unfit parts of the independent system.</section></section></text>
 </law>

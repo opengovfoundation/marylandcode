@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-106" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-2-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">In accordance with the State budget, the Secretary may employ a staff and retain professional consultants in the office of the Secretary.</section>
     <section prefix="(b)">The Secretary may designate a staff assistant to be in charge of a particular area of responsibility in the office of the Secretary.</section>

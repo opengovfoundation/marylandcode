@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-6-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">As used in this subtitle the following words have the meanings indicated, unless the context clearly requires a different construction.</section>
     <section prefix="(b)">"Adult" means both individuals legally classified as adults and juveniles treated as adults by court order, statute, or operation of law.</section>

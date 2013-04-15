@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-201" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-19-201</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "organization" means an incorporated or unincorporated society, association, organ...</catch_line>
+  <order_by>201</order_by>
   <text>In this subtitle, "organization" means an incorporated or unincorporated society, association, organization, lodge, order, fraternal society, beneficial association, fraternal and beneficial society or association, historical, military, or veterans' organization, labor union, foundation, federation, degree, branch, subordinate lodge, or auxiliary.</text>
 </law>

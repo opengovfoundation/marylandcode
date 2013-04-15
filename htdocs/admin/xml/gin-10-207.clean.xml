@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-207" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-207</section_number>
-  <catch_line/>
+  <catch_line>The Commissioner shall issue a license to each applicant who meets the requirements of this subtitle...</catch_line>
+  <order_by>207</order_by>
   <text>The Commissioner shall issue a license to each applicant who meets the requirements of this subtitle.</text>
 </law>

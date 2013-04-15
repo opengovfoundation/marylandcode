@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-520" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-520</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>520</order_by>
   <text>
     <section prefix="(a)">In placing a minor child for adoption or in giving the care, custody, or control of a minor child to any person, a licensee shall give preference to persons of the same religious belief as that of the child or the child's parents unless the parents specifically indicate a different choice.</section>
     <section prefix="(b)">A person authorized to place a minor child for adoption shall compile and make available to an adoptive parent a pertinent medical history of the child's natural parents, if possible.</section>

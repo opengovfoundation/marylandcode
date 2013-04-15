@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-205" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-10-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A local board may fix the compensation of election judges within the limits authorized for this purpose by the county's governing body.</section>
@@ -14,18 +14,24 @@
     <section prefix="(b)">
       <section prefix="(1)">In Allegany County, the compensation for each day actually served may not be less than:<section prefix="(i)">$100 per day for each chief election judge; and</section><section prefix="(ii)">$80 per day for every other election judge.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">In Baltimore City, the compensation for each election day or early voting day actually served shall be:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">In Baltimore City, the compensation for each election day or early voting day actually served shall be:<section prefix="1.">not less than $200 per day for each chief election judge; and</section><section prefix="2.">not less than $150 per day for every other election judge.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">In Baltimore City, except as provided in subsubparagraph 2 of this subparagraph, an election judge shall receive $20 as compensation for completing the course of instruction required under &#xA7; 10-206(g)(1) of this subtitle.</section>
+          <section prefix="2.">Unless the local board excuses the election judge from service, an election judge who fails to serve on election day or on an early voting day may not receive the compensation authorized under this subparagraph.</section>
+        </section>
       </section>
       <section prefix="(3)">In Baltimore County, the compensation for each election day or early voting day actually served shall be:<section prefix="(i)">$225 per day for each chief election judge; and</section><section prefix="(ii)">$162.50 per day for every other election judge.</section></section>
       <section prefix="(4)">In Calvert County, the compensation for each election day or early voting day actually served shall be:<section prefix="(i)">$125 per day for each chief election judge; and</section><section prefix="(ii)">$100 per day for every other election judge.</section></section>
       <section prefix="(5)">In Harford County, the compensation for each election day or early voting day actually served shall be:<section prefix="(i)">not less than $160 per day for each chief election judge; and</section><section prefix="(ii)">not less than $125 per day for every other election judge.</section></section>
       <section prefix="(6)">
-        <section prefix="(i)">In Prince George's County, the compensation for each election day or early voting day actually served shall be not less than:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">In Prince George's County, the compensation for each election day or early voting day actually served shall be not less than:<section prefix="1.">$250 per day for two chief election judges; and</section><section prefix="2.">$200 per day for every other election judge.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">In Prince George's County, except as provided under subsubparagraph 2 of this subparagraph, election judges and alternate election judges shall receive $50 as compensation for completing the course of instruction required under &#xA7; 10-206 of this subtitle.</section>
+          <section prefix="2.">An election judge or alternate election judge may not receive the compensation authorized under this subparagraph if the election judge refuses to serve on an election day or on an early voting day, unless the local board excuses the election judge.</section>
+        </section>
       </section>
       <section prefix="(7)">
-        <section prefix="(i)">In Washington County, the compensation for each election day or early voting day actually served shall be:</section>
+        <section prefix="(i)">In Washington County, the compensation for each election day or early voting day actually served shall be:<section prefix="1.">$175 per day for each chief election judge, plus a mileage allowance as determined by the Washington County Board; and</section><section prefix="2.">$150 per day for every other election judge.</section></section>
         <section prefix="(ii)">In Washington County, a chief election judge or election judge who successfully completes a course of instruction in poll working shall be eligible for additional compensation, if approved by the Washington County Board and provided for in the county budget.</section>
       </section>
     </section>

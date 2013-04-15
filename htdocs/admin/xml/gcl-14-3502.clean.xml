@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-3502" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-3502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>3502</order_by>
   <text>
     <section prefix="(a)">In this section, "customer" means an individual residing in the State who provides personal information to a business for the purpose of purchasing or leasing a product or obtaining a service from the business.</section>
     <section prefix="(b)">When a business is destroying a customer's records that contain personal information of the customer, the business shall take reasonable steps to protect against unauthorized access to or use of the personal information, taking into account:<section prefix="(1)">The sensitivity of the records;</section><section prefix="(2)">The nature and size of the business and its operations;</section><section prefix="(3)">The costs and benefits of different destruction methods; and</section><section prefix="(4)">Available technology.</section></section>

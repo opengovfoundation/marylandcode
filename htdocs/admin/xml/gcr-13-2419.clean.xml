@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2419" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2419</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2419</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The county commissioners shall adopt regulations to carry out Part III of this subtitle.</section>

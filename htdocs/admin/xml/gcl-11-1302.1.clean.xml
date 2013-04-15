@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-1302.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-1302.1</section_number>
-  <catch_line/>
+  <catch_line>In addition to any other provision of this subtitle, when notifying a distributor of a proposed canc...</catch_line>
+  <order_by>1302.1</order_by>
   <text>In addition to any other provision of this subtitle, when notifying a distributor of a proposed cancellation or nonrenewal of any agreement, a grantor shall provide a notice of the distributor's failure to comply with a reasonable requirement of the agreement and an opportunity to cure or dispute the asserted deficiency.</text>
 </law>

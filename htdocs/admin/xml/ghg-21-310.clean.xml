@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-310" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">Within 30 days after the Department receives an application for a license, the Department shall issue a license to any applicant who meets the requirements of this subtitle and all regulations adopted under this subtitle.</section>
     <section prefix="(b)">While it is effective, a license authorizes the licensee to operate the food establishment identified on the license.</section>

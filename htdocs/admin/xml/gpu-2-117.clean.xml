@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-117" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-2-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Commission believes that a public service company or gas master meter operator that is subject to the Commission's jurisdiction is violating or will violate this division, the Commission shall bring an action in the Commission's name for injunction or other appropriate action in the circuit court of a county where the public service company or gas master meter operator does business or has its principal place of business.</section>

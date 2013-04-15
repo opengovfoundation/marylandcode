@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-201" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-201</section_number>
-  <catch_line/>
+  <catch_line>An individual may become a candidate for a public or party office only if the individual satisfies t...</catch_line>
+  <order_by>201</order_by>
   <text>An individual may become a candidate for a public or party office only if the individual satisfies the qualifications for that office established by law and, in the case of a party office, by party constitution or bylaws.</text>
 </law>

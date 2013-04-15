@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-204" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-204</section_number>
-  <catch_line/>
+  <catch_line>A policy or contract of homeowner's liability insurance that contains a representation that the insu...</catch_line>
+  <order_by>204</order_by>
   <text>A policy or contract of homeowner's liability insurance that contains a representation that the insurer will pay all reasonable medical expenses incurred for bodily injury caused by an accident to an individual covered by the policy or contract may not be issued unless the policy or contract also provides that the insurer will pay all medical expenses incurred within 3 years after the date of the accident.</text>
 </law>

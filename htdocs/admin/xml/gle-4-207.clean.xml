@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-207" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">A labor organization or individual that purports to represent a substantial number of employees whom a petition affects and an employer may submit to the Mediation Service a petition for permission to enter into a consent election agreement leading to a determination by the Mediation Service of the facts ascertained after the consent election.</section>
     <section prefix="(b)">A petition shall be in the form that the Mediation Service requires.</section>

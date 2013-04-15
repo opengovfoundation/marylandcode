@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-324" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-324</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>324</order_by>
   <text>
     <section prefix="(a)">In this section, "Account" means the Catastrophic Event Account.</section>
     <section prefix="(b)">Subject to the provisions of this section, the Account is established to enable the State to respond without undue delay to a natural disaster or other catastrophic situation that cannot be taken care of within the resources of existing appropriations.</section>

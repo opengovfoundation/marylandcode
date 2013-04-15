@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-114" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-18-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">The requirements of this section:<section prefix="(1)">apply to individual and group policies of long-term care insurance; and</section><section prefix="(2)">do not apply to life insurance policies or riders on life insurance policies that contain accelerated long-term care benefits.</section></section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-601" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-5-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">If the property of the decedent subject to administration in Maryland is established to have a value of $50,000 or less as of the date of the death of the decedent, the estate may be administered in accordance with the provisions of &#xA7;&#xA7; 5-602 through 5-607 of this subtitle.</section>
     <section prefix="(b)">If, before the filing of an initial account in administration proceedings instituted under Subtitle 3 or Subtitle 4 of this title, the property of the decedent subject to administration in Maryland is established to have a value of $50,000 or less as of the date of the death of the decedent, the estate thereafter may be administered in accordance with the provisions of &#xA7;&#xA7; 5-602 through 5-607 of this subtitle.</section>

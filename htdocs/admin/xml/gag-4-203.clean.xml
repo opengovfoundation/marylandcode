@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-203" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-203</section_number>
-  <catch_line/>
+  <catch_line>This subtitle applies to any person, establishment, poultry, poultry product, and any other article ...</catch_line>
+  <order_by>203</order_by>
   <text>This subtitle applies to any person, establishment, poultry, poultry product, and any other article regulated under the federal Poultry Products Inspection Act only to the extent that it is consistent with the federal act. This subtitle does not apply to any act or transaction subject to exclusive regulation under the federal Poultry Products Inspection Act. This subtitle does not affect wild birds or game mammals or the slaughtering, cleaning, picking, processing, or inspection of them.</text>
 </law>

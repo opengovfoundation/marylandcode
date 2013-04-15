@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-11A-02" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-11A-02</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>02</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall promulgate by regulation requirements that are necessary to ensure that aquaculture operations do not adversely impact wild stocks of fish, including measures for identifying fish as products of an aquaculture operation. In developing these regulations, the Department shall consult with the Aquaculture Coordinating Council, established by &#xA7; 4-11A-03.2 of this subtitle, and incorporate in the regulations public notice provisions in accordance with &#xA7; 4-11A-09 of this subtitle.</section>

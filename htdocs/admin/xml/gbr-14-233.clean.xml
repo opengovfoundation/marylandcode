@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-233" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-233</section_number>
-  <catch_line/>
+  <catch_line>This subtitle is the Maryland Franchise Registration and Disclosure Law....</catch_line>
+  <order_by>233</order_by>
   <text>This subtitle is the Maryland Franchise Registration and Disclosure Law.</text>
 </law>

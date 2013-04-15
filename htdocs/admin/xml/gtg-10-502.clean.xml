@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-502" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">If a person does not file a federal income tax return, the person shall compute Maryland taxable income in accordance with the cash or accrual accounting method that:<section prefix="(1)">the person uses to compute income regularly in keeping the person's books; or</section><section prefix="(2)">the Comptroller requires to reflect clearly the person's income.</section></section>
     <section prefix="(b)">If a person does not file a federal income tax return, the person shall compute Maryland taxable income:<section prefix="(1)">for the calendar year; or</section><section prefix="(2)">if the person keeps adequate records for an annual fiscal year accounting period, for the fiscal year.</section></section>

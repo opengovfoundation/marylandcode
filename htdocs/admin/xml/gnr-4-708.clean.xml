@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-708" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-708</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>708</order_by>
   <text>
     <section prefix="(a)">A person may not:<section prefix="(1)">Commit a separate violation of this title related to the suspended or revoked license or authorization while the person's license or authorization to fish or deal in fish under &#xA7; 4-701 of this subtitle is suspended or revoked; or</section><section prefix="(2)">Engage in an activity for which a license or an authorization is required under &#xA7; 4-701 of this subtitle without holding that license or authorization.</section></section>
     <section prefix="(b)">A person may not set any net during the time his commercial net fishing license is suspended or revoked.</section>

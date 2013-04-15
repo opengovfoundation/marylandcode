@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-102" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">Every land installment contract shall be evidenced by a contract signed by all parties to it and containing all the terms to which they have agreed.</section>
     <section prefix="(b)">At or before the time the purchaser signs the instrument, the vendor shall deliver to him an exact copy and the purchaser shall give the vendor a receipt showing that he has received the copy of the instrument. If the copy was not executed by the vendor at the time the purchaser signed, the vendor shall deliver a copy of the instrument signed by him within 15 days after he receives notice that the purchaser has signed and the purchaser shall give the vendor a receipt showing that he has received the copy. If the vendor fails to deliver the copy within 15 days, the contract signed by the purchaser is void at his option, and the vendor, immediately, on demand, shall refund to the purchaser all payments and deposits that have been made.</section>

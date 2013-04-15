@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-403" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Subject to this section, a banking institution may have an affiliate that:<section prefix="(1)">Provides a financial, fiduciary, or insurance service to the banking institution, its other affiliates, or the public; or</section><section prefix="(2)">If it is an affiliate under &#xA7; 5-401(b)(1)(i) of this subtitle, conducts an activity that is permissible for a banking institution.</section></section>
     <section prefix="(b)">Except as provided in subsections (d) and (e) of this section, a banking institution that intends to acquire or establish an affiliate, or to conduct a new activity in an existing affiliate, shall apply to and receive the prior approval of the Commissioner.</section>

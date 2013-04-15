@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-104" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-9-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An application to establish a public charter school shall be submitted to the county board of the county in which the charter school will be located.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">A public chartering authority may not grant a charter under this title to:<section prefix="(i)">A private school;</section><section prefix="(ii)">A parochial school; or</section><section prefix="(iii)">A home school.</section></section>
       <section prefix="(4)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, the county board shall review the application and render a decision within 120 days of receipt of the application.</section>
-        <section prefix="(ii)">For a restructured school:</section>
+        <section prefix="(ii)">For a restructured school:<section prefix="1.">The county board shall review the application and render a decision within 30 days of receipt of the application;</section><section prefix="2.">The county board may apply to the State Board for an extension of up to 15 days from the time limit imposed under item 1 of this subparagraph;</section><section prefix="3.">If an extension is not granted, and 30 days have elapsed, the State Board may become a chartering authority; and</section><section prefix="4.">If an extension has been granted, and 45 days have elapsed, the State Board may become a chartering authority.</section></section>
       </section>
     </section>
     <section prefix="(b)">

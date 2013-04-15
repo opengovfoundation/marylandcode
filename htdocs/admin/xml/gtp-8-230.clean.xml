@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-230" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-230</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>230</order_by>
   <text>
     <section prefix="(a)">In this section, "improvements" means improvements made before January 1, 1977, to real property:<section prefix="(1)">occupied by the owner; and</section><section prefix="(2)">used as the principal place of residence of the owner.</section></section>
     <section prefix="(b)">Except for flooding solely caused by tidal water, improvements shall be assessed on the basis of the reduced value of the improvements if the improvements had been damaged by and were subject to a substantial threat of recurring damage by:<section prefix="(1)">flooding;</section><section prefix="(2)">shifting land masses; or</section><section prefix="(3)">unstable soils or soil fault conditions.</section></section>

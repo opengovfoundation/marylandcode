@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-331" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-331</section_number>
-  <catch_line/>
+  <catch_line>If the court finds that any notice required under this subtitle to be sent by mail actually has not ...</catch_line>
+  <order_by>331</order_by>
   <text>If the court finds that any notice required under this subtitle to be sent by mail actually has not been received by the person to whom the notice was addressed and that injustice will result, the court shall order a stay of further proceedings until it is satisfied that the person has had an opportunity to protect the person's interests.</text>
 </law>

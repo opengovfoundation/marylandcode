@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-508" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-508</section_number>
-  <catch_line/>
+  <catch_line>Articles of revival shall include:...</catch_line>
+  <order_by>508</order_by>
   <text>Articles of revival shall include:<section prefix=""><section prefix="(1)">The name of the corporation at the time the charter was forfeited;</section><section prefix="(2)">The name which the corporation will use after revival, which shall comply with the provisions of this article with respect to corporate names;</section><section prefix="(3)">The address of the principal office of the corporation in this State if different from its principal office in this State at the time the charter was forfeited;</section><section prefix="(4)">The name and address of the resident agent of the corporation; and</section><section prefix="(5)">A statement that the articles of revival are for the purpose of reviving the charter of the corporation.</section></section></text>
 </law>

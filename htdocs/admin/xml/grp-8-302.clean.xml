@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-302" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Distress for rent is an action at law and shall be brought as provided in this section.</section>
     <section prefix="(b)">Jurisdiction in a case of distress for rent is vested exclusively in the District Court regardless of the amount of rent for which distress is brought, notwithstanding any limitation imposed by law on the civil monetary jurisdiction of such court.</section>

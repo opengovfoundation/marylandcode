@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-922" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-922</section_number>
-  <catch_line/>
+  <catch_line>Judicial review of any action under this subtitle shall in all instances include the right to appeal...</catch_line>
+  <order_by>922</order_by>
   <text>Judicial review of any action under this subtitle shall in all instances include the right to appeal to the Maryland Court of Special Appeals and the Maryland Court of Appeals; provided, however, that nothing in this subtitle shall be construed or applied so as to permit any court or State or local regulatory authority to impair any obligation of the Authority to fix, charge and collect rates, rentals, fees and charges in amounts sufficient to satisfy any covenant in any resolution authorizing bonds or in any trust agreement securing bonds.</text>
 </law>

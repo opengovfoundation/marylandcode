@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-512" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">Each board may adopt rules and regulations for the conduct of its meetings.</section>
     <section prefix="(b)">
       <section prefix="(1)">Each board serves in an advisory capacity.</section>
-      <section prefix="(2)">Each board shall:<section prefix="(i)">Submit to the Secretary an annual report on:</section><section prefix="(ii)">Advise the administrative head of the center on its facilities, goals, programs, and policies;</section><section prefix="(iii)">Help in evaluating the degree to which these goals are achieved;</section><section prefix="(iv)">Review and make recommendations about the annual budget of the center;</section><section prefix="(v)">Assume leadership in developing community understanding of the needs of chronically ill individuals; and</section><section prefix="(vi)">Carry out any other responsibility that the administrative head of the center requests.</section></section>
+      <section prefix="(2)">Each board shall:<section prefix="(i)">Submit to the Secretary an annual report on:<section prefix="1.">The needs of chronically ill individuals; and</section><section prefix="2.">The extent to which its center meets these needs;</section></section><section prefix="(ii)">Advise the administrative head of the center on its facilities, goals, programs, and policies;</section><section prefix="(iii)">Help in evaluating the degree to which these goals are achieved;</section><section prefix="(iv)">Review and make recommendations about the annual budget of the center;</section><section prefix="(v)">Assume leadership in developing community understanding of the needs of chronically ill individuals; and</section><section prefix="(vi)">Carry out any other responsibility that the administrative head of the center requests.</section></section>
     </section>
   </text>
 </law>

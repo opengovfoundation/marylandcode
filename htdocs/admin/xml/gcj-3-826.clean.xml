@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-826" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-826</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>826</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless the court directs otherwise, a local department shall provide all parties with a written report at least 10 days before any scheduled disposition, permanency planning, or review hearing under &#xA7; 3-819 or &#xA7; 3-823 of this subtitle.</section>

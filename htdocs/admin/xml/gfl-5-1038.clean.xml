@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1038" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-1038</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1038</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, a declaration of paternity in an order is final.</section>
       <section prefix="(2)">
-        <section prefix="(i)">A declaration of paternity may be modified or set aside:</section>
+        <section prefix="(i)">A declaration of paternity may be modified or set aside:<section prefix="1.">in the manner and to the extent that any order or decree of an equity court is subject to the revisory power of the court under any law, rule, or established principle of practice and procedure in equity; or</section><section prefix="2.">if a blood or genetic test done in accordance with &#xA7; 5-1029 of this subtitle establishes the exclusion of the individual named as the father in the order.</section></section>
         <section prefix="(ii)">Notwithstanding subparagraph (i) of this paragraph, a declaration of paternity may not be modified or set aside if the individual named in the order acknowledged paternity knowing he was not the father.</section>
       </section>
     </section>

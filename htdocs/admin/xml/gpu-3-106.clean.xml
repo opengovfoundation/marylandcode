@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-106" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-3-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">If a person timely files, the person may apply to intervene in a proceeding before the Commission.</section>
     <section prefix="(b)">The Commission shall grant leave to intervene unless the Commission concludes that:<section prefix="(1)">the parties to the proceeding adequately represent the interest of the person seeking to intervene; or</section><section prefix="(2)">the issues that the person seeks to raise are irrelevant or immaterial.</section></section>

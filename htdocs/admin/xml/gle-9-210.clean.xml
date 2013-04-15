@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-210" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Farmer" includes a dairy farmer.</section>
       <section prefix="(3)">
-        <section prefix="(i)">"Migrant farm worker" means an individual who is engaged in seasonal or other temporary agricultural employment and who is:</section>
-        <section prefix="(ii)">"Migrant farm worker" does not include an individual who performs a service included in subsection (b) of this section if the individual:</section>
+        <section prefix="(i)">"Migrant farm worker" means an individual who is engaged in seasonal or other temporary agricultural employment and who is:<section prefix="1.">absent overnight from the permanent residence of the individual; or</section><section prefix="2.">transported to and from the place of employment of the individual by a day-haul operation.</section></section>
+        <section prefix="(ii)">"Migrant farm worker" does not include an individual who performs a service included in subsection (b) of this section if the individual:<section prefix="1.">does not operate equipment or machinery; and</section><section prefix="2.">is employed:</section></section>
       </section>
     </section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, an individual, including a migrant farm worker, is a covered employee if:<section prefix="(1)">the individual receives compensation from a farmer for any service other than office work, including:<section prefix="(i)">operating a machine connected with animal, crop, or soil management;</section><section prefix="(ii)">constructing or repairing a fixture or machine; or</section><section prefix="(iii)">handling an animal or crop with or without a machine; and</section></section><section prefix="(2)">the farmer has:<section prefix="(i)">at least 3 full-time employees; or</section><section prefix="(ii)">an annual payroll of at least $15,000 for full-time employees.</section></section></section>

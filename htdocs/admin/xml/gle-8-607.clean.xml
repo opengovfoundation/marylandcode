@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-607" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">Except as provided in Part III of this subtitle, an employing unit shall pay to the Secretary contributions for the Unemployment Insurance Fund on taxable wages for covered employment that is performed for the employing unit.</section>
     <section prefix="(b)">
@@ -18,7 +18,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">
-        <section prefix="(i)">By regulation, the Secretary shall set:</section>
+        <section prefix="(i)">By regulation, the Secretary shall set:<section prefix="1.">the date when contributions are due; and</section><section prefix="2.">the manner in which contributions are to be paid.</section></section>
         <section prefix="(ii)">The regulations shall require that, for any calendar year in which Table F is applicable under &#xA7; 8-612(d)(6) of this title, the Secretary offer a variety of payment plan options that spread through the end of August the dates when contributions are due on taxable wages for covered employment of the first 6 months of the calendar year.</section>
       </section>
       <section prefix="(2)">In accordance with regulations adopted by the Secretary, an employing unit shall:<section prefix="(i)">submit to the Secretary periodic reports for determination of the amount of contributions due; and</section><section prefix="(ii)">pay the contribution.</section></section>

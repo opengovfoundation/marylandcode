@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-303" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">The Board of Trustees shall credit to the accumulation fund of each State system:<section prefix="(1)">all employer contributions to the State system;</section><section prefix="(2)">all interest, dividends, and other income derived from the assets of the State system; and</section><section prefix="(3)">amounts transferred under &#xA7; 21-311(c) of this subtitle.</section></section>
     <section prefix="(b)">The Board of Trustees shall pay from the accumulation fund of a State system all benefits payable under that State system except for benefits payable from the annuity savings fund of that State system.</section>
@@ -17,7 +17,10 @@
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, each year, the Board of Trustees shall transfer from the accumulation fund of each State system to the expense fund of that system the amounts required by &#xA7; 21-315 of this subtitle.</section>
       <section prefix="(2)">The administrative and operational expenses of the Board of Trustees and the State Retirement Agency, not including amounts as authorized by the Board of Trustees necessary for investment management services, shall be paid by participating employers as provided in &#xA7; 21-316 of this subtitle and may not be transferred from the accumulation fund of each system.</section>
       <section prefix="(3)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Notwithstanding paragraph (2) of this subsection, if a budget amendment is approved in any fiscal year for administrative and operational expenses for the Board of Trustees and the State Retirement Agency, the Board of Trustees may transfer the amount approved by budget amendment from the accumulation funds of the State Retirement and Pension System to the expense funds of the State Retirement and Pension System.</section>
+          <section prefix="2."/>
+        </section>
         <section prefix="(ii)">Notwithstanding paragraph (2) of this subsection, if the Board of Trustees and the State Retirement Agency receive administrative and operational expenses in excess of the amount expended, the Board of Trustees shall offset the annual or quarterly administrative and operational expense reimbursements of the appropriate employers on or before June 30 of the second following fiscal year by the excess amount of administrative and operational expenses received.</section>
       </section>
     </section>

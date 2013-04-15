@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-207" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">In this section, "cost of construction" includes the cost of connecting a water main or sewer to the Commission system.</section>
     <section prefix="(b)">If a property owner applies for a water main or sewer in an area in which the Commission determines service is not economically feasible unless the applicant makes a substantial contribution to the cost of construction of the water main or sewer, the Commission may classify the applicant's property together with adjacent or adjoining properties that could be readily served by the construction required by the applicant as a remote area.</section>

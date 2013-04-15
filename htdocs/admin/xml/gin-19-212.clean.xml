@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-212" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Material reduction" means during a 1-year period a reduction of homeowner's insurance policies in force for an insurer on a statewide basis by 3% or more due to cancellations or nonrenewals solely because the subject of the risk or the insured's address is located in a certain geographic area of the State.</section>
-        <section prefix="(ii)">"Material reduction" does not include a homeowner's insurance policy:</section>
+        <section prefix="(ii)">"Material reduction" does not include a homeowner's insurance policy:<section prefix="1.">cancelled, nonrenewed, or otherwise terminated by an insured; or</section><section prefix="2.">cancelled or nonrenewed by an insurer pursuant to reasons other than a material reduction plan.</section></section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">"Minimizes market disruption" means actions to be taken by an  insurer  that  intends  to  engage  in  a  plan  of  material  reduction  of  its  volume of policies to provide for the orderly reduction in homeowner's insurance coverage.</section>
-        <section prefix="(ii)">"Minimizes market disruption" includes:</section>
+        <section prefix="(ii)">"Minimizes market disruption" includes:<section prefix="1.">efforts by the insurer to maintain a service force in affected areas during the period of material reduction;</section><section prefix="2.">efforts to inform insureds of options available for replacement of coverage with authorized insurers; and</section><section prefix="3.">any actions serving to minimize market disruption.</section></section>
       </section>
     </section>
     <section prefix="(b)">

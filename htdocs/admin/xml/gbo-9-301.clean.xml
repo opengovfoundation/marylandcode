@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-301" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-9-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, an individual shall be licensed by the Board before the individual may practice landscape architecture in the State.</section>
     <section prefix="(b)">This section does not apply to:<section prefix="(1)">an individual who practices landscape architecture while performing official duties as an employee of the federal government;</section><section prefix="(2)">an individual while practicing landscape architecture under the supervision of a licensed landscape architect, if the individual does not assume responsible charge of design or supervision; or</section><section prefix="(3)">an individual while practicing landscape architecture as an employee of a person who is authorized to practice landscape architecture, if the employee does not assume responsible charge of design or supervision.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-302" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-14-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">If a trust for charity is or becomes illegal, or impossible or impracticable of enforcement or if a devise or bequest for charity, at the time it was intended to become effective, is illegal, or impossible or impracticable of enforcement, and if the settlor or testator manifested a general intention to devote the property to charity, a court of equity, on application of any trustee, or any interested person, or the Attorney General of the State, may order an administration of the trust, devise or bequest as nearly as possible to fulfill the general charitable intention of the settlor or testator.</section>
     <section prefix="(b)">This section shall be interpreted and construed to effectuate its general purpose to make uniform the law of those states which enact it.</section>

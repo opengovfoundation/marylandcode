@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-207" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Aggregate State funding level for the compensatory education formula" means the product of the compensatory education per pupil amount and the statewide compensatory education enrollment count.</section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, "compensatory education enrollment count" means the number of students eligible for free or reduced price meals for the prior fiscal year.</section>
-        <section prefix="(ii)">For fiscal year 2004, "compensatory education enrollment count" means the greater of:</section>
+        <section prefix="(ii)">For fiscal year 2004, "compensatory education enrollment count" means the greater of:<section prefix="1.">The number of students eligible for free or reduced price meals for the prior fiscal year; or</section><section prefix="2.">The number of students eligible for free or reduced price meals for the second prior fiscal year.</section></section>
       </section>
       <section prefix="(4)">"Compensatory education per pupil amount" means 97% of the annual per pupil foundation amount calculated under &#xA7; 5-202 of this subtitle multiplied by the State share of compensatory education funding.</section>
       <section prefix="(5)">"Eligible for free or reduced price meals" means eligible for free or reduced price meals based on eligibility requirements established by the United States Department of Agriculture.</section>

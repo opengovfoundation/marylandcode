@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-5D-11.1" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-5D-11.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>11.1</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, a licensed physician may not employ or supervise an individual practicing athletic training without a license or without an approved evaluation and treatment protocol.</section>
     <section prefix="(b)">Except as otherwise provided in this subtitle, a hospital, an institution, an alternative health system, or any other employer may not employ an individual practicing athletic training without a license or without an approved evaluation and treatment protocol.</section>

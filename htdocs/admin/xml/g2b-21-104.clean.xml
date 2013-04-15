@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-104" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-21-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Any person who supplies or sells beer to a wholesaler for resale to retail dealers shall provide the wholesaler with written information stating the approximate percentage of alcohol content by volume per sealed package or sealed container for each brand of beer supplied or sold to that wholesaler.</section>
     <section prefix="(b)">A beer wholesaler shall give each beer retail dealer with whom it does business the written information it receives under subsection (a) of this section regarding the beer supplied to the retail dealer.</section>

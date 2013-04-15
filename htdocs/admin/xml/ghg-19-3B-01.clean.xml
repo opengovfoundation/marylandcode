@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-3B-01" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-3B-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
       <section prefix="(1)">"Ambulatory surgical facility" means any center, service, office facility, or other entity that:<section prefix="(i)">Operates primarily for the purpose of providing surgical services to patients requiring a period of postoperative observation but not requiring overnight hospitalization; and</section><section prefix="(ii)">Seeks reimbursement from payors as an ambulatory surgery center.</section></section>
-      <section prefix="(2)">"Ambulatory surgical facility" does not include:<section prefix="(i)">The office of one or more health care practitioners seeking only professional reimbursement for the provisions of medical services, unless:</section><section prefix="(ii)">Any facility or service owned or operated by a hospital and regulated under Subtitle 2 of this title;</section><section prefix="(iii)">The office of a health care practitioner with not more than one operating room if:</section><section prefix="(iv)">The office of a group of health care practitioners with not more than one operating room if:</section><section prefix="(v)">An office owned or operated by one or more dentists licensed under the Health Occupations Article.</section></section>
+      <section prefix="(2)">"Ambulatory surgical facility" does not include:<section prefix="(i)">The office of one or more health care practitioners seeking only professional reimbursement for the provisions of medical services, unless:<section prefix="1.">The office operates under contract or other agreement with a payor as an ambulatory surgical facility regardless of whether it is paid a technical or facility fee; or</section><section prefix="2.">The office is designated to receive ambulatory surgical referrals in accordance with utilization review or other policies adopted by a payor;</section></section><section prefix="(ii)">Any facility or service owned or operated by a hospital and regulated under Subtitle 2 of this title;</section><section prefix="(iii)">The office of a health care practitioner with not more than one operating room if:<section prefix="1.">The office does not receive a technical or facility fee; and</section><section prefix="2.">The operating room is used exclusively by the health care practitioner for patients of the health care practitioner;</section></section><section prefix="(iv)">The office of a group of health care practitioners with not more than one operating room if:<section prefix="1.">The office does not receive a technical or facility fee; and</section><section prefix="2.">The operating room is used exclusively by members of the group practice for patients of the group practice; or</section></section><section prefix="(v)">An office owned or operated by one or more dentists licensed under the Health Occupations Article.</section></section>
     </section>
     <section prefix="(c)">"Freestanding ambulatory care facility" means:<section prefix="(1)">An ambulatory surgical facility;</section><section prefix="(2)">A freestanding endoscopy facility;</section><section prefix="(3)">A freestanding facility utilizing major medical equipment;</section><section prefix="(4)">A kidney dialysis center; or</section><section prefix="(5)">A freestanding birthing center.</section></section>
     <section prefix="(d)">
@@ -19,7 +19,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">"Freestanding endoscopy facility" means a facility:<section prefix="(i)">For the testing, diagnosis, or treatment of a medical disorder in conjunction with the use of microscopic, endoscopic, or laparoscopic equipment that is inserted in a naturally occurring orifice of the body; and</section><section prefix="(ii)">That seeks reimbursement as a freestanding endoscopy facility from payors or Medicare.</section></section>
-      <section prefix="(2)">"Freestanding endoscopy facility" does not include:<section prefix="(i)">The office of one or more health care practitioners unless:</section><section prefix="(ii)">Any facility or service operated by a hospital and regulated under Subtitle 2 of this title.</section></section>
+      <section prefix="(2)">"Freestanding endoscopy facility" does not include:<section prefix="(i)">The office of one or more health care practitioners unless:<section prefix="1.">The office operates under a contract or other agreement with a payor as a freestanding endoscopy facility regardless of whether it is paid a technical or facility fee; or</section><section prefix="2.">The office is designated to receive endoscopic referrals in accordance with utilization review or other policies adopted by a payor; or</section></section><section prefix="(ii)">Any facility or service operated by a hospital and regulated under Subtitle 2 of this title.</section></section>
     </section>
     <section prefix="(f)">
       <section prefix="(1)">"Freestanding facility operating major medical equipment" means a facility using major medical equipment.</section>

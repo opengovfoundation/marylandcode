@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-102.8" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-102.8</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102.8</order_by>
   <text>
     <section prefix="(a)">The Department may impose a claims processing charge on all Medicaid claims processed, approved, and paid by the Department to hospitals located in the District of Columbia for the provision of inpatient and outpatient hospital services.</section>
     <section prefix="(b)">The amount to be paid under subsection (a) of this section may not exceed 6% of the amount of claims paid.</section>

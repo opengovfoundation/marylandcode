@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-489" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-489</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>489</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If on issuance of an order of liquidation under this subtitle or at any time during a liquidation proceeding the provider is not clearly solvent, the court, after notice it considers proper and a hearing, shall issue an order that the provider is an impaired provider.</section>
@@ -21,7 +21,7 @@
     <section prefix="(c)">The receiver shall:<section prefix="(1)">report a claim to the court:<section prefix="(i)">within 10 days after receiving the claim; or</section><section prefix="(ii)">within an additional period set by the court for good cause shown; and</section></section><section prefix="(2)">recommend in the report action to be taken on the claim.</section></section>
     <section prefix="(d)">
       <section prefix="(1)">On receipt of the report of the receiver, the court shall:<section prefix="(i)">set a time for hearing the claim; and</section><section prefix="(ii)">direct the claimant or receiver to give notice as the court determines to each person that appears to the court to be interested in the claim.</section></section>
-      <section prefix="(2)">The notice given in accordance with this subsection shall:<section prefix="(i)">specify the time and place of the hearing; and</section><section prefix="(ii)">state concisely:</section></section>
+      <section prefix="(2)">The notice given in accordance with this subsection shall:<section prefix="(i)">specify the time and place of the hearing; and</section><section prefix="(ii)">state concisely:<section prefix="1.">the amount and nature of the claim;</section><section prefix="2.">any priority asserted by the claimant; and</section><section prefix="3.">the recommendation of the receiver about the claim.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">At the hearing specified under subsection (d) of this section:<section prefix="(i)">each person with an interest in the claim may appear; and</section><section prefix="(ii)">the court shall issue an order in which the court allows in part, or disallows the claim.</section></section>

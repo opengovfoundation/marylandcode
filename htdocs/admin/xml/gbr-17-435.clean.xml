@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-435" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-435</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>435</order_by>
   <text>
     <section prefix="(a)">An applicant for a Garrett County amusement device license shall pay to the clerk a license fee of $50 for each amusement device.</section>
     <section prefix="(b)">All money collected under Part IV of this subtitle shall be paid into the general fund of Garrett County.</section>

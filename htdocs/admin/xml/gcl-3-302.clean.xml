@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (c) and &#xA7; 3-106(d), "holder in due course" means the holder of an instrument if:<section prefix="(1)">The instrument when issued or negotiated to the holder does not bear such apparent evidence of forgery or alteration or is not otherwise so irregular or incomplete as to call into question its authenticity; and</section><section prefix="(2)">The holder took the instrument (i) for value, (ii) in good faith, (iii) without notice that the instrument is overdue or has been dishonored or that there is an uncured default with respect to payment of another instrument issued as part of the same series, (iv) without notice that the instrument contains an unauthorized signature or has been altered, (v) without notice of any claim to the instrument described in &#xA7; 3-306, and (vi) without notice that any party has a defense or claim in recoupment described in &#xA7; 3-305(a).</section></section>
     <section prefix="(b)">Notice of discharge of a party, other than discharge in an insolvency proceeding, is not notice of a defense under subsection (a), but discharge is effective against a person who became a holder in due course with notice of the discharge. Public filing or recording of a document does not of itself constitute notice of a defense, claim in recoupment, or claim to the instrument.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-310" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">If a proceeding is brought under this subtitle and only one tribunal has issued a child support order, the order of that tribunal controls and must be so recognized.</section>
     <section prefix="(b)">If a proceeding is brought under this subtitle, and two or more child support orders have been issued by tribunals of this State or another state with regard to the same obligor and same child, a tribunal of this State having personal jurisdiction over both the obligor and individual obligee shall apply the following rules and by order shall determine which order controls:<section prefix="(1)">if only one of the tribunals would have continuing, exclusive jurisdiction under this subtitle, the order of that tribunal controls and must be so recognized;</section><section prefix="(2)">if more than one of the tribunals would have continuing, exclusive jurisdiction under this subtitle, an order issued by a tribunal in the current home state of the child controls, but if an order has not been issued in the current home state of the child, the order most recently issued controls; or</section><section prefix="(3)">if none of the tribunals would have continuing, exclusive jurisdiction under this subtitle, the tribunal of this State shall issue a child support order, which controls.</section></section>

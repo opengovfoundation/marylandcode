@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-133" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-133</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>133</order_by>
   <text>
     <section prefix="(a)">In this section, "code" means:<section prefix="(1)">The applicable Current Procedural Terminology (CPT) code as adopted by the American Medical Association; or</section><section prefix="(2)">If a CPT code is not available, the applicable code under an appropriate uniform coding scheme approved by the Commission.</section></section>
     <section prefix="(b)">The Commission shall establish a Maryland medical care data base to compile statewide data on health services rendered by health care practitioners and facilities selected by the Commission.</section>
@@ -23,7 +23,7 @@
     <section prefix="(g)">
       <section prefix="(1)">By October 1, 1995 and each year thereafter, the Commission shall publish an annual report on those health care services selected by the Commission that:<section prefix="(i)">Describes the variation in fees charged by health care practitioners and facilities on a statewide basis and in each health service area for those health care services; and</section><section prefix="(ii)">Describes the geographic variation in the utilization of those health care services.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">On an annual basis, the Commission shall publish:</section>
+        <section prefix="(i)">On an annual basis, the Commission shall publish:<section prefix="1.">The total reimbursement for all health care services over a 12-month period;</section><section prefix="2.">The total reimbursement for each health care specialty over a 12-month period;</section><section prefix="3.">The total reimbursement for each code over a 12-month period; and</section><section prefix="4.">The annual rate of change in reimbursement for health services by health care specialties and by code.</section></section>
         <section prefix="(ii)">In addition to the information required under subparagraph (i) of this paragraph, the Commission may publish any other information that the Commission deems appropriate, including information on capitated health care services.</section>
       </section>
     </section>

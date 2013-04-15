@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="31-118" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-31-118</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>118</order_by>
   <text>
     <section prefix="(a)">Beginning January 1, 2014, subject to subsections (b) and (c) of this section, the Exchange may:<section prefix="(1)">impose user fees, licensing or other regulatory fees, or other assessments that do not exceed reasonable projections regarding the amount necessary to support the operations of the Exchange under this title; or</section><section prefix="(2)">otherwise generate funding necessary to support its operations under this title.</section></section>
     <section prefix="(b)">Any fees, assessments, or other funding mechanisms shall be imposed or implemented, to the maximum extent possible, in a manner that is transparent and broad-based.</section>

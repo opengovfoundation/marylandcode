@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-501" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">The Charles County Board consists of:<section prefix="(1)">Seven voting members; and</section><section prefix="(2)">One nonvoting student member.</section></section>
     <section prefix="(b)">An individual nominated for a voting membership on the county board shall be a resident and registered voter of Charles County. Any member who no longer resides in Charles County or who is not a registered voter of Charles County may not continue as a voting member of the board.</section>
@@ -16,7 +16,7 @@
       <section prefix="(2)">An interview of an applicant for a vacancy on the board shall be conducted by the board at a meeting open to the public.</section>
       <section prefix="(3)">
         <section prefix="(i)">The board shall publish a list of the names of the applicants for a vacancy on the board at least 2 weeks before the interview of the first applicant is scheduled to occur.</section>
-        <section prefix="(ii)">Public notice of the date, time, and location of each interview shall be published:</section>
+        <section prefix="(ii)">Public notice of the date, time, and location of each interview shall be published:<section prefix="1.">At least 2 weeks before the interview is scheduled to occur; and</section><section prefix="2.">In the same manner as a public notice of a regular meeting of the board is published.</section></section>
       </section>
       <section prefix="(4)">The board is not required to conduct discussions of the applicants or make the final selection of the voting member at a meeting open to the public.</section>
     </section>

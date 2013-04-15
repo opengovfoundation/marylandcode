@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-105.5" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-105.5</section_number>
-  <catch_line/>
+  <catch_line>No title to property acquired at sale of property subject to a mortgage or deed of trust is invalid ...</catch_line>
+  <order_by>105.5</order_by>
   <text>No title to property acquired at sale of property subject to a mortgage or deed of trust is invalid by reason of the fact that the property was purchased by the secured party, his assignee, or representative, or for his account.</text>
 </law>

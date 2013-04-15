@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-434" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-434</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>434</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Stem Cell Research Fund.</section>
     <section prefix="(b)">The purpose of the Fund is to promote State-funded stem cell research and cures through grants and loans to public and private entities in the State.</section>

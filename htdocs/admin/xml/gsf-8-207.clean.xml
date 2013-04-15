@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-207" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-8-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">This section does not apply to bonds issued under an enabling act that specifically states that this section does not apply.</section>
     <section prefix="(b)">Whenever a State unit simultaneously issues bonds authorized under 2 or more enabling acts, the State unit may allow submission of a bid that:<section prefix="(1)">is for bonds authorized under 1 enabling act; and</section><section prefix="(2)">is conditioned on the acceptance of 1 or more companion bids for bonds authorized under 1 or more of the other enabling acts.</section></section>

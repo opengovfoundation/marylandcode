@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-641" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-641</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>641</order_by>
   <text>
     <section prefix="(a)">The Administration shall pay the costs of relocation to any public or private utility whose facilities are altered or relocated because of a railroad grade crossing or railroad grade separation project. The plans for the alteration or relocation shall be approved by the utility.</section>
     <section prefix="(b)">If the owner of land adjacent to any State highway suffers damages as the result of the elimination of a railroad grade crossing or railroad grade separation from that highway, the owner may sue the Administration and the railroad for these damages.</section>

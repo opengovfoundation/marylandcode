@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-702" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-1-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of &#xA7; 1-701 of this subtitle, a judge shall have the salary provided in the State budget.</section>
     <section prefix="(b)">The Chief Judge of the District Court, during the period he serves as Chief Judge, shall have a salary equivalent to the annual salary then payable to an associate judge of the Court of Special Appeals.</section>

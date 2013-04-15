@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-405" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-405</section_number>
-  <catch_line/>
+  <catch_line>An agreement, arrangement, or declaration made under this subtitle may authorize the registration or...</catch_line>
+  <order_by>405</order_by>
   <text>An agreement, arrangement, or declaration made under this subtitle may authorize the registration or licensing in another jurisdiction of vehicles that are located in or operated from a base in that jurisdiction and that otherwise would be required to be registered or licensed in this State. In this event, the benefits, privileges, and exemptions extended by the agreement, arrangement, or declaration shall apply to those vehicles, if licensed or registered in the base jurisdiction.</text>
 </law>

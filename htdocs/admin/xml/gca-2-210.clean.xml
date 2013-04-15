@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-210" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (b) and (c) of this section, each stockholder is entitled to stock certificates which represent and certify the shares of stock he holds in the corporation.</section>
     <section prefix="(b)">A stock certificate may not be issued until the stock represented by it is fully paid.</section>

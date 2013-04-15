@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-413" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-413</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>413</order_by>
   <text>
     <section prefix="(a)">A license expires on the first anniversary of its effective date, unless the license is renewed for a 1-year term as provided in this section.</section>
     <section prefix="(b)">At least 1 month before the license expires, the Department shall send to the licensee, by first-class mail to the last known address of the licensee, a renewal notice that states:<section prefix="(1)">The date on which the current license expires;</section><section prefix="(2)">The date by which the renewal application must be received by the Department for the renewal to be issued and mailed before the license expires; and</section><section prefix="(3)">The amount of the renewal fee.</section></section>

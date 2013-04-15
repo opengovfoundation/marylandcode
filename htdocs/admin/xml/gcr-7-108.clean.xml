@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-108" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">An indictment, information, warrant, or other charging document for theft under this part, other than for taking a motor vehicle under &#xA7; 7-105 of this part, is sufficient if it substantially states:</section>
     <section prefix="(b)">An indictment, information, warrant, or other charging document for theft under this part for taking a motor vehicle under &#xA7; 7-105 of this part is sufficient if it substantially states:</section>

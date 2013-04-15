@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="35-205" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-35-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Board shall:<section prefix="(1)">implement, maintain, and administer the supplemental retirement plans;</section><section prefix="(2)">submit progress and status reports to participants in the supplemental retirement plans; and</section><section prefix="(3)">submit an annual report to the Governor and, subject to &#xA7; 2-1246 of the State Government Article, to the General Assembly.</section></section>
     <section prefix="(b)">In case of doubt as to whether an individual is eligible to participate in any of the supplemental retirement plans, the Board shall determine the individual's eligibility.</section>

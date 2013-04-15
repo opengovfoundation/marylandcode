@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-516" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-516</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>516</order_by>
   <text>
     <section prefix="(a)">To appeal to the Tax Court, a person or governmental unit shall file with the Tax Court a written petition that states succinctly:<section prefix="(1)">the nature of the case;</section><section prefix="(2)">the facts on which the appeal is based; and</section><section prefix="(3)">each question presented for review by the Tax Court.</section></section>
     <section prefix="(b)">An opposing party shall respond in accordance with the rules of procedure of the Tax Court.</section>

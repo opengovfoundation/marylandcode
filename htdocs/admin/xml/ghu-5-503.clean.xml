@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-503" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-5-503</section_number>
-  <catch_line/>
+  <catch_line>Subject to the State budget, the Department shall provide food stamp benefits to a legal immigrant w...</catch_line>
+  <order_by>503</order_by>
   <text>Subject to the State budget, the Department shall provide food stamp benefits to a legal immigrant who:<section prefix=""><section prefix="(1)">is a minor;</section><section prefix="(2)">is ineligible for federally funded food stamp benefits because of immigration status;</section><section prefix="(3)">meets all other food stamp program eligibility requirements; and</section><section prefix="(4)">meets any other requirements of the State.</section></section></text>
 </law>

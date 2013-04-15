@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-306" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-9-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">Promptly after receipt of an application, the election director shall review the application and determine whether the applicant qualifies to vote by absentee ballot.</section>
     <section prefix="(b)">If the applicant qualifies to vote by absentee ballot, the local board shall send the ballot:<section prefix="(1)">as soon as practicable after receipt of the request; or</section><section prefix="(2)">if the ballots have not been received from the printer, as soon as practicable after the local board receives delivery of the ballots.</section></section>

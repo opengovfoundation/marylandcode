@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-311" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-311</section_number>
-  <catch_line/>
+  <catch_line>On any divided highway:...</catch_line>
+  <order_by>311</order_by>
   <text>On any divided highway:<section prefix=""><section prefix="(1)">A vehicle may be driven only on the right-hand roadway, unless directed or permitted to use another roadway by a traffic control device or a police officer;</section><section prefix="(2)">A vehicle may not be driven over, across, or within the dividing space, barrier, or section except, unless specifically prohibited by public authority, through an opening in the space, barrier, or section or at a crossover or intersection; and</section><section prefix="(3)">A vehicle may not be driven on the median strip, unless permitted to do so by public authority.</section></section></text>
 </law>

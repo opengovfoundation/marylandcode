@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-402" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-6-402</section_number>
-  <catch_line/>
+  <catch_line>There is a Neighborhood and Community Assistance Program....</catch_line>
+  <order_by>402</order_by>
   <text>There is a Neighborhood and Community Assistance Program.</text>
 </law>

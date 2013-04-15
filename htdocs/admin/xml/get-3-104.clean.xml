@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-104" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-3-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">If there is no surviving issue the net estate exclusive of the share of the surviving spouse, or the entire net estate if there is no surviving spouse, shall be distributed by the personal representative pursuant to the provisions of this section.</section>
     <section prefix="(b)">Subject to &#xA7;&#xA7; 3-111 and 3-112 of this subtitle, it shall be distributed to the surviving parents equally, or if only one parent survives, to the survivor; or if neither parent survives, to the issue of the parents, by representation.</section>

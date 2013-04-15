@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-408" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">The Authority shall assess and collect charges for payment of the State's share of the initial cost of the project. Each represented county is assessed at a rate calculated from a cost-sharing formula based on a withdrawal ratio calculated as the sum of the average daily withdrawals from the Potomac River by all represented counties and non-Maryland users during the month of maximum withdrawal in the preceding calendar year divided into the average daily withdrawals for the county from the Potomac River during the same month.</section>
     <section prefix="(b)">The Authority shall assess non-Maryland users subject to appropriation requirements in &#xA7; 5-502 of this title based on a rate calculated by the same means used for assessment of represented counties. The Authority shall collect assessed charges from non-Maryland users in a manner the Authority prescribes.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-811" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-811</section_number>
-  <catch_line/>
+  <catch_line>The collector may withhold from sale any property, when the total taxes on the property, including i...</catch_line>
+  <order_by>811</order_by>
   <text>The collector may withhold from sale any property, when the total taxes on the property, including interest and penalties, amount to less than $250 in any 1 year.</text>
 </law>

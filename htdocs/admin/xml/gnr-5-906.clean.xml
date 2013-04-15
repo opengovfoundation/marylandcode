@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-906" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-906</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>906</order_by>
   <text>
     <section prefix="(a)">Each local project shall conform to a comprehensive plan the local governing body approves and have the approval of official planning agencies having jurisdiction, including comprehensive planning agencies.</section>
     <section prefix="(b)">Every acquisition and development project funded by the State in whole or in part shall meet needs identified in the Maryland Land Preservation and Recreation Plan prepared and revised every 5 years by the Department in consultation with the Department of Planning and local governments. The document shall identify and recommend for State acquisition efforts those resource areas facing the most intense or immediate development pressure. These resource areas shall be designated as targeted areas. The document and any changes to it shall be distributed to every local governing body.</section>

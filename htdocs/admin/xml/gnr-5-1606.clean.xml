@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1606" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-1606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1606</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For the following land use categories, tracts having less than 20% of the net tract area in forest cover shall be afforested up to 20% of the net tract area:<section prefix="(i)">Agriculture and resource areas; and</section><section prefix="(ii)">Medium density residential areas.</section></section>

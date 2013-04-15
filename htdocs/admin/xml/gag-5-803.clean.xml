@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-803" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-803</section_number>
-  <catch_line/>
+  <catch_line>The Secretary, upon receipt of a complaint of a nuisance bird problem, may make an investigation to ...</catch_line>
+  <order_by>803</order_by>
   <text>The Secretary, upon receipt of a complaint of a nuisance bird problem, may make an investigation to determine the degree and type of assistance required. If necessary after the investigation, the Secretary shall recommend approved means and methods of population management.</text>
 </law>

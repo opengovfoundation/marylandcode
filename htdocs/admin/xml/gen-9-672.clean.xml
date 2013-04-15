@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-672" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-672</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>672</order_by>
   <text>
     <section prefix="(a)">In Part VII of this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Shared facility" means a water system or sewerage system that serves:<section prefix="(1)">More than 1 lot;</section><section prefix="(2)">More than 1 single family residence or its equivalent; or</section><section prefix="(3)">A series of water systems or sewerage systems that each serve 1 lot.</section></section>

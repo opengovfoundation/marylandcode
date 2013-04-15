@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-566" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-566</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>566</order_by>
   <text>
     <section prefix="(a)">An individual who fails to disclose a conviction, a probation before judgment disposition, a not criminally responsible disposition, or the existence of pending charges for a criminal offense or attempted criminal offense as required under &#xA7; 5-563 of this subtitle shall be guilty of perjury and upon conviction is subject to the penalty provided by law.</section>
     <section prefix="(b)">Unless otherwise provided, a person who violates any provision of this Part VI of this subtitle is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $1,000 or imprisonment not exceeding 1 year or both.</section>

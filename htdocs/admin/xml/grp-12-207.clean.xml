@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-207" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-12-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">If a displacing agency acquires real property, it shall be guided to the greatest extent feasible by the policies set forth in this section.</section>
     <section prefix="(b)">The displacing agency shall make every reasonable effort to acquire expeditiously real property by negotiation.</section>

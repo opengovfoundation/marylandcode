@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-102" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated unless:<section prefix="(1)">the context clearly requires a different meaning; or</section><section prefix="(2)">a different definition is adopted for a particular provision.</section></section>
     <section prefix="(b)">"Advisory body" means:<section prefix="(1)">a governmental unit designated by the Court of Appeals, for the purpose of issuing advisory opinions as to questions arising under Subtitles 5 and 6 of this title regarding a State official of the Judicial Branch;</section><section prefix="(2)">the Joint Ethics Committee, for questions arising under Subtitle 5 of this title regarding a State official of the Legislative Branch; or</section><section prefix="(3)">the Ethics Commission, for all other questions.</section></section>
@@ -29,11 +29,11 @@
       <section prefix="(1)">"Executive unit" means a department, agency, commission, board, council, or other body of State government that:<section prefix="(i)">is established by law; and</section><section prefix="(ii)">is not in the Legislative Branch or the Judicial Branch of State government.</section></section>
       <section prefix="(2)">"Executive unit" includes:<section prefix="(i)">a county health department unless the officials and employees of the department are expressly designated as "local officials" in &#xA7; 15-807 of this title;</section><section prefix="(ii)">the office of the sheriff in each county;</section><section prefix="(iii)">the office of the State's Attorney in each county; and</section><section prefix="(iv)">the Liquor Control Board for Somerset County.</section></section>
     </section>
-    <section prefix="(n)">"Financial interest" means:<section prefix="(1)">ownership of an interest as the result of which the owner has received within the past 3 years, is currently receiving, or in the future is entitled to receive, more than $1,000 per year; or</section><section prefix="(2)"><section prefix="(i)">ownership of more than 3% of a business entity by:</section><section prefix="(ii)">ownership of securities of any kind that represent, or are convertible into, ownership of more than 3% of a business entity by:</section></section></section>
+    <section prefix="(n)">"Financial interest" means:<section prefix="(1)">ownership of an interest as the result of which the owner has received within the past 3 years, is currently receiving, or in the future is entitled to receive, more than $1,000 per year; or</section><section prefix="(2)"><section prefix="(i)">ownership of more than 3% of a business entity by:<section prefix="1.">an official;</section><section prefix="2.">an employee; or</section><section prefix="3.">the spouse of an official or employee; or</section></section><section prefix="(ii)">ownership of securities of any kind that represent, or are convertible into, ownership of more than 3% of a business entity by:<section prefix="1.">an official;</section><section prefix="2.">an employee; or</section><section prefix="3.">the spouse of an official or employee.</section></section></section></section>
     <section prefix="(o)">"General Assembly" includes a member, committee, or subcommittee of the General Assembly.</section>
     <section prefix="(p)">
       <section prefix="(1)">"Gift" means the transfer of anything of economic value, regardless of form, without adequate and lawful consideration.</section>
-      <section prefix="(2)">"Gift" does not include the solicitation, acceptance, receipt, or regulation of a political contribution that is regulated in accordance with:<section prefix="(i)">the Election Law Article; or</section><section prefix="(ii)">any other State law regulating:</section></section>
+      <section prefix="(2)">"Gift" does not include the solicitation, acceptance, receipt, or regulation of a political contribution that is regulated in accordance with:<section prefix="(i)">the Election Law Article; or</section><section prefix="(ii)">any other State law regulating:<section prefix="1.">the conduct of elections; or</section><section prefix="2.">the receipt of political contributions.</section></section></section>
     </section>
     <section prefix="(q)">
       <section prefix="(1)">"Governmental unit" means a department, agency, commission, board, council, or other body of State government that is established by law.</section>
@@ -46,7 +46,7 @@
     <section prefix="(s)">"Immediate family" means an individual's spouse and dependent children.</section>
     <section prefix="(t)">
       <section prefix="(1)">"Interest" means a legal or equitable economic interest that is owned or held wholly or partly, jointly or severally, or directly or indirectly, whether or not the economic interest is subject to an encumbrance or condition.</section>
-      <section prefix="(2)">"Interest" does not include:<section prefix="(i)">an interest held in the capacity of agent, custodian, fiduciary, personal representative, or trustee, unless the holder has an equitable interest in the subject matter;</section><section prefix="(ii)">an interest in a time or demand deposit in a financial institution;</section><section prefix="(iii)">an interest in an insurance policy, endowment policy, or annuity contract by which an insurer promises to pay a fixed amount of money in a lump sum or periodically for life or a specified period; or</section><section prefix="(iv)">a common trust fund or a trust that forms part of a pension or a profit-sharing plan that:</section></section>
+      <section prefix="(2)">"Interest" does not include:<section prefix="(i)">an interest held in the capacity of agent, custodian, fiduciary, personal representative, or trustee, unless the holder has an equitable interest in the subject matter;</section><section prefix="(ii)">an interest in a time or demand deposit in a financial institution;</section><section prefix="(iii)">an interest in an insurance policy, endowment policy, or annuity contract by which an insurer promises to pay a fixed amount of money in a lump sum or periodically for life or a specified period; or</section><section prefix="(iv)">a common trust fund or a trust that forms part of a pension or a profit-sharing plan that:<section prefix="1.">has more than 25 participants; and</section><section prefix="2.">is determined by the Internal Revenue Service to be a qualified trust or college savings plan under the Internal Revenue Code.</section></section></section>
     </section>
     <section prefix="(u)">"Joint Ethics Committee" means the Joint Committee on Legislative Ethics.</section>
     <section prefix="(v)">

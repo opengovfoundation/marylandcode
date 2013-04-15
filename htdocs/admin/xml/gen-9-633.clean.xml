@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-633" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-633</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>633</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this section, a district may acquire rights in land or water rights by exercise of the right of eminent domain as set forth in Title 12 of the Real Property Article.</section>
     <section prefix="(b)">A district's power of eminent domain does not extend to an interest in real property that is owned by a county, municipal corporation, or other political subdivision unless the governing body of that county, municipal corporation, or other political subdivision consents.</section>

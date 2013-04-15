@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-405" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-3-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">The Commissioner may prohibit use of an amusement attraction if, after an inspection or investigation, the Commissioner finds that:<section prefix="(1)">the amusement attraction violates a regulation adopted under this title; and</section><section prefix="(2)">there is a substantial probability of death or serious physical injury from continued use of the amusement attraction.</section></section>
     <section prefix="(b)">To prohibit use of an amusement attraction, the Commissioner shall give an amusement owner written notice that prohibits use of the amusement attraction.</section>

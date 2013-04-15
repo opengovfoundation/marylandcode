@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-105" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-12-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">For a deed, deed of trust, or mortgage transferring title to real property located partly in the State, the recordation tax applies to the consideration payable or the principal amount of the debt secured in the same ratio that the value of the real property that is located in the State bears to the value of the entire property.</section>
@@ -16,7 +16,7 @@
     <section prefix="(c)">If a lease of real property creating a perpetually renewable ground rent is recorded without a transfer of the reversionary estate for full consideration other than the ground rent being recorded at the same time, the recordation tax applies to the redemption sum as determined under &#xA7; 8-110 of the Real Property Article plus any additional consideration payable. If the lease is recorded at the same time with the transfer of the reversionary estate created for full consideration, the lease is not subject to recordation tax.</section>
     <section prefix="(d)">For a lease of real property for a term of more than 7 years not perpetually renewable, the recordation tax applies to:<section prefix="(1)">the average annual rent over the term of the lease, including renewals, capitalized at 10% plus any additional consideration payable, other than rent; or</section><section prefix="(2)">if the average annual rent cannot be determined, the greater of:<section prefix="(i)">105% of the minimum average annual rent as determined by the lease, capitalized at 10% plus any additional consideration payable, other than rent; or</section><section prefix="(ii)">60% of the assessment of the real property subject to lease.</section></section></section>
     <section prefix="(e)">
-      <section prefix="(1)">In this subsection, "document":<section prefix="(i)">means any document that publicizes or gives constructive notice of an unrecorded lease; and</section><section prefix="(ii)">includes:</section></section>
+      <section prefix="(1)">In this subsection, "document":<section prefix="(i)">means any document that publicizes or gives constructive notice of an unrecorded lease; and</section><section prefix="(ii)">includes:<section prefix="1.">an attornment agreement;</section><section prefix="2.">a memorandum of a lease; and</section><section prefix="3.">an assignment of a lease.</section></section></section>
       <section prefix="(2)">A document may be recorded only if the original lease is submitted and recordation tax on the document and the original lease is paid.</section>
       <section prefix="(3)">Subject to &#xA7; 12-111 of this title, the lessee is chargeable with recordation tax on the original lease. If a lessee fails or refuses to pay recordation tax after a demand is made, the party offering for recordation the original lease may:<section prefix="(i)">pay recordation tax; and</section><section prefix="(ii)">sue the lessee to recover the amount of recordation tax paid, with interest from the date of payment of recordation tax.</section></section>
       <section prefix="(4)">Recordation tax has to be paid on the original lease only if the original lease was required to be recorded under &#xA7; 3-101 of the Real Property Article.</section>
@@ -35,8 +35,8 @@
       </section>
       <section prefix="(7)">
         <section prefix="(i)">In this paragraph, "indemnity mortgage" includes any mortgage, deed of trust, or other security interest in real property that secures a guarantee of repayment of a loan for which the guarantor is not primarily liable.</section>
-        <section prefix="(ii)">Except as provided in subparagraph (iii) of this paragraph:</section>
-        <section prefix="(iii)">This paragraph does not apply:</section>
+        <section prefix="(ii)">Except as provided in subparagraph (iii) of this paragraph:<section prefix="1.">secured debt with respect to an indemnity mortgage is deemed to be incurred for purposes of this subsection when and to the same extent as debt is incurred on the guaranteed loan; and</section><section prefix="2.">the recordation tax applies under this subsection in the same manner as if the guarantor were primarily liable for the guaranteed loan.</section></section>
+        <section prefix="(iii)">This paragraph does not apply:<section prefix="1.">to the extent that recordation tax is paid on another instrument of writing that secures payment of the guaranteed loan; or</section><section prefix="2.">to an indemnity mortgage that secures a guarantee of repayment of a loan for less than $1,000,000.</section></section>
       </section>
     </section>
     <section prefix="(g)">

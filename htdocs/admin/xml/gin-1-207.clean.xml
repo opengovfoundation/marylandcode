@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-207" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-1-207</section_number>
-  <catch_line/>
+  <catch_line>A provision of this article that relates to a particular kind of insurance, particular type of insur...</catch_line>
+  <order_by>207</order_by>
   <text>A provision of this article that relates to a particular kind of insurance, particular type of insurer, or particular matter prevails over a provision that relates to insurance in general, insurers in general, or that matter in general.</text>
 </law>

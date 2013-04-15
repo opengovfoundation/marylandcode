@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-210" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(1)">A party may perform his duty through a delegate unless otherwise agreed or unless the other party has a substantial interest in having his original promisor perform or control the acts required by the contract. No delegation of performance relieves the party delegating of any duty to perform or any liability for breach.</section>
     <section prefix="(2)">Unless otherwise agreed all rights of either seller or buyer can be assigned except where the assignment would materially change the duty of the other party, or increase materially the burden or risk imposed on him by his contract, or impair materially his chance of obtaining return performance. A right to damages for breach of the whole contract or a right arising out of the assignor's due performance of his entire obligation can be assigned despite agreement otherwise.</section>

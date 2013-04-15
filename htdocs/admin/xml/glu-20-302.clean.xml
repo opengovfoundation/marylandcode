@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-302" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-20-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The Commission has exclusive jurisdiction over mandatory referrals made under this part from the United States or the State, or any unit of the United States or the State.</section>
     <section prefix="(b)">A county planning board has exclusive jurisdiction over a mandatory referral under this part by the county planning board's respective county government or any unit of the county government.</section>

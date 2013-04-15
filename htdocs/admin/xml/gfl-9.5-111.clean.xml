@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9.5-111" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9.5-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">A court of this State may request the appropriate court of another state to:<section prefix="(1)">hold an evidentiary hearing;</section><section prefix="(2)">order a person to produce or give evidence in accordance with procedures of that state;</section><section prefix="(3)">order that an evaluation be made with respect to the custody of a child involved in a pending proceeding;</section><section prefix="(4)">forward to the court of this State a certified copy of the transcript of the record of the hearing, the evidence otherwise presented, and any evaluation prepared in compliance with the request; and</section><section prefix="(5)">order a party to a child custody proceeding or any person having physical custody of the child to appear in the proceeding with or without the child.</section></section>
     <section prefix="(b)">On request of a court of another state, a court of this State may hold a hearing or enter an order described in subsection (a) of this section.</section>

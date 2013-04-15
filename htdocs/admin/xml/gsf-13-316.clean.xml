@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-316" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-13-316</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>316</order_by>
   <text>
     <section prefix="(a)">Within 10 days after an offeror of architectural services or engineering services receives notice of a recommendation by the Selection Board to the Board of Public Works, the offeror may appeal the recommendation to the Board of Public Works.</section>
     <section prefix="(b)">On an appeal under this section, the Board shall:<section prefix="(1)">approve the recommendation;</section><section prefix="(2)">disapprove the recommendation; or</section><section prefix="(3)">remand the matter to the Selection Board for further consideration.</section></section>

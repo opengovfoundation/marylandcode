@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-635" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-635</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>635</order_by>
   <text>
     <section prefix="(a)">On receipt of the Commissioner's letter of preliminary approval, the board of directors of the converting association shall call a meeting of the members for the purpose of considering the plan of conversion to a commercial bank.</section>
     <section prefix="(b)">At least 10 days, but not more than 90 days, before the meeting, the converting association shall mail notice of the meeting to all members entitled to vote.</section>

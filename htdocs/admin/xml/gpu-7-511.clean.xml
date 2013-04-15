@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-511" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-511</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>511</order_by>
   <text>
     <section prefix="(a)">Except for electric cooperatives and municipal electric utilities:<section prefix="(1)">competitive billing shall begin on July 1, 2000;</section><section prefix="(2)">competitive metering for large customers shall begin on January 1, 2002; and</section><section prefix="(3)">competitive metering for all other customers shall begin on April 1, 2002, or earlier if requested by the electric company.</section></section>
     <section prefix="(b)">The Commission shall adopt regulations or issue orders to implement this section.</section>
@@ -13,7 +13,7 @@
       <section prefix="(1)">A person other than an electric company or a municipal electric utility may not engage in the business of competitive billing services in a local jurisdiction that assesses a local energy tax, unless the person holds a license issued by that jurisdiction.</section>
       <section prefix="(2)">An application for a local competitive billing services license shall be made in accordance with the requirements of the local jurisdiction.</section>
       <section prefix="(3)">
-        <section prefix="(i)">A local jurisdiction may require an applicant or licensee to:</section>
+        <section prefix="(i)">A local jurisdiction may require an applicant or licensee to:<section prefix="1.">hold a license issued by the Commission, as provided under &#xA7; 7-507 of this subtitle;</section><section prefix="2.">post a bond or other similar instrument in an amount equal to 15% of the bond required under &#xA7; 7-507 of this subtitle; and</section><section prefix="3.">have a resident agent in the State.</section></section>
         <section prefix="(ii)">A local jurisdiction may not require an applicant or licensee to pay a fee or other charge for the local license.</section>
       </section>
     </section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-108" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-9-108</section_number>
-  <catch_line/>
+  <catch_line>If all or any part of the land or buildings against which a mechanic's lien has been established pur...</catch_line>
+  <order_by>108</order_by>
   <text>If all or any part of the land or buildings against which a mechanic's lien has been established pursuant to this subtitle shall be sold under foreclosure or a judgment, execution or any other court order, all liens and encumbrances on such property shall be satisfied in accordance with their priority, subject to the limitation in the next sentence of this section. If the proceeds of the sale are insufficient to satisfy all liens established pursuant to this subtitle, then all proceeds available to satisfy each such lien shall be stated by the court auditor as one fund, and the amount to be disbursed to satisfy each lien established pursuant to this subtitle shall bear the same proportion to that fund as the amount of such lien bears to the total amount secured by all such liens, without regard to priority among such liens.</text>
 </law>

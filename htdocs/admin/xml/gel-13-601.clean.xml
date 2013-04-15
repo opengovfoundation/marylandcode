@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-601" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">A person may not willfully make a false, fraudulent, or misleading statement or entry in any campaign finance report or other filing that is under oath and is required by this article.</section>
     <section prefix="(b)">A person may not make an electronic submission of a prescribed form, affidavit, campaign finance report, or other document on behalf of another person without that person's express consent.</section>

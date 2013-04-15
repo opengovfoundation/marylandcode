@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-509" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">In this section, "district" means the land area established for Baltimore-Washington International Thurgood Marshall Airport delineated by and contained within a circle the radius of which is 4 miles from a point the Maryland grid coordinates of which are E893,909.99 -- N490,279.30.</section>
     <section prefix="(b)">

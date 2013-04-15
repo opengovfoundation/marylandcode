@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-323.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-323.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>323.1</order_by>
   <text>
     <section prefix="(a)">In this section, "bed and breakfast establishment" means a lodging or rooming house as defined in &#xA7; 9-201 of the Public Safety Article having eight rooms or fewer for rent.</section>
     <section prefix="(b)">A bed and breakfast establishment is exempt from any regulation governing food service facilities that is adopted by the Department or a local government relating to the construction or installation of commercial grade kitchen equipment in the bed and breakfast establishment.</section>

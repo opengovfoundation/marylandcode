@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-601" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">After default, a secured party has the rights provided in this subtitle and, except as otherwise provided in &#xA7; 9-602, those provided by agreement of the parties. A secured party:<section prefix="(1)">May reduce a claim to judgment, foreclose, or otherwise enforce the claim, security interest, or agricultural lien by any available judicial procedure; and</section><section prefix="(2)">If the collateral is documents, may proceed either as to the documents or as to the goods they cover.</section></section>
     <section prefix="(b)">A secured party in possession of collateral or control of collateral under &#xA7; 7-106, &#xA7; 9-104, &#xA7; 9-105, &#xA7; 9-106, or &#xA7; 9-107 has the rights and duties provided in &#xA7; 9-207.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-405" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (c) of this section, each light of safety glazing material manufactured, imported, or sold for use in a hazardous location or installed in a hazardous location in the State shall be permanently labeled by etching, sandblasting, firing of ceramic material, hot-die stamping, or other means.</section>

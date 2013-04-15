@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-525" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-525</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>525</order_by>
   <text>
     <section prefix="(a)">The Commission may authorize an electric company to recover, as additional rate stabilization costs, the actual cost to the electric company of carrying the deferred expenses as regulatory assets under short-term and long-term deferral plans.</section>
     <section prefix="(b)">The actual cost is equal to the deferred expenses as regulatory assets multiplied by the electric company's cost of debt.</section>

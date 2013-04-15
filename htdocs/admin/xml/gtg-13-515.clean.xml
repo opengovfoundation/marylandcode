@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-515" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-515</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>515</order_by>
   <text>
     <section prefix="(a)">An individual may appear before the Tax Court without a lawyer.</section>
     <section prefix="(b)">The following individuals may represent the persons indicated without a lawyer before the Tax Court:<section prefix="(1)">a partner for the partnership; and</section><section prefix="(2)">a corporate officer for the corporation.</section></section>

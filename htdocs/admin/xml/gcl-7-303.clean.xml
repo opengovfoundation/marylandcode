@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Unless the bill of lading otherwise provides, a carrier may deliver the goods to a person or destination other than that stated in the bill or may otherwise dispose of the goods, without liability for misdelivery, on instructions from:<section prefix="(1)">The holder of a negotiable bill;</section><section prefix="(2)">The consignor on a nonnegotiable bill, even if the consignee has given contrary instructions;</section><section prefix="(3)">The consignee on a nonnegotiable bill in the absence of contrary instructions from the consignor, if the goods have arrived at the billed destination or if the consignee is in possession of the tangible bill or in control of the electronic bill; or</section><section prefix="(4)">The consignee on a nonnegotiable bill, if the consignee is entitled as against the consignor to dispose of the goods.</section></section>
     <section prefix="(b)">Unless instructions described in subsection (a) are included in a negotiable bill of lading, a person to which the bill is duly negotiated may hold the bailee according to the original terms.</section>

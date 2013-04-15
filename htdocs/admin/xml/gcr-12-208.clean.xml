@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-208" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-12-208</section_number>
-  <catch_line/>
+  <catch_line>A court shall interpret &#xA7;&#xA7; 12-201 through 12-207 of this subtitle liberally to treat as a lottery ...</catch_line>
+  <order_by>208</order_by>
   <text>A court shall interpret &#xA7;&#xA7; 12-201 through 12-207 of this subtitle liberally to treat as a lottery ticket any ticket, part of a ticket, or lottery device by which money is paid or another item is delivered when, in the nature of a lottery, an event or contingency occurs.</text>
 </law>

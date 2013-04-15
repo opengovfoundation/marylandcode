@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-806" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-806</section_number>
-  <catch_line/>
+  <catch_line>If the information required by &#xA7; 12-803(a) of this subtitle has been available to the Department fr...</catch_line>
+  <order_by>806</order_by>
   <text>If the information required by &#xA7; 12-803(a) of this subtitle has been available to the Department from a federal agency, a financial institution may not be subject to the civil penalties provided for in this subtitle unless the financial institution has been notified by the Department that:<section prefix=""><section prefix="(1)">The information is no longer available; and</section><section prefix="(2)">The financial institution is now required to provide the information to the Department.</section></section></text>
 </law>

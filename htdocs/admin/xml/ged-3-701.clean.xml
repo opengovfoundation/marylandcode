@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-701" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">The Howard County Board consists of:<section prefix="(1)">Seven elected members; and</section><section prefix="(2)">One student member.</section></section>
     <section prefix="(b)">A candidate who becomes an elected member of the county board shall be a resident and registered voter of Howard County. Any elected member who no longer resides in Howard County may not continue as a member of the board.</section>
@@ -29,7 +29,10 @@
       </section>
       <section prefix="(5)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, as of the 2006 election, the term of each office is 4 years.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">At the 2006 election, the individual elected as a member who receives the lowest number of votes among the five members elected in that election shall serve for a term of 2 years.</section>
+          <section prefix="2.">The successor to the office for the member elected at the 2006 election who receives the lowest number of votes among the five members elected in that election shall be elected at the 2008 election and shall serve for a term of 4 years.</section>
+        </section>
       </section>
       <section prefix="(6)">Except as provided in paragraph (7) of this subsection and subject to the confirmation of the County Council, the County Executive of Howard County shall appoint a qualified individual to fill any vacancy on the county board for the remainder of that term and until a successor is appointed and qualifies.</section>
       <section prefix="(7)">If a vacancy occurs before the date that is 1 year following the date of the member's election, the individual appointed under paragraph (6) of this subsection shall serve only until a successor is elected by the voters at the next general election.</section>

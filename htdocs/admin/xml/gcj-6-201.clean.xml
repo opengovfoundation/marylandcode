@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-6-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of &#xA7;&#xA7; 6-202 and 6-203 of this subtitle and unless otherwise provided by law, a civil action shall be brought in a county where the defendant resides, carries on a regular business, is employed, or habitually engages in a vocation. In addition, a corporation also may be sued where it maintains its principal offices in the State.</section>
     <section prefix="(b)">If there is more than one defendant, and there is no single venue applicable to all defendants, under subsection (a), all may be sued in a county in which any one of them could be sued, or in the county where the cause of action arose.</section>

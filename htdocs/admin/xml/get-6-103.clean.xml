@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-103" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-6-103</section_number>
-  <catch_line/>
+  <catch_line>After appointment, letters shall be issued to the personal representative by the register. Letters s...</catch_line>
+  <order_by>103</order_by>
   <text>After appointment, letters shall be issued to the personal representative by the register. Letters shall contain:<section prefix="(a)">The name and location of the court or register by whom appointment was made;</section><section prefix="(b)">The name of the decedent and the personal representative;</section><section prefix="(c)">The date of his appointment;</section><section prefix="(d)">The date of probate of the will admitted to probate in the proceeding;</section><section prefix="(e)">The signature of the register and the seal of the court; and</section><section prefix="(f)">Date certificate was issued.</section></text>
 </law>

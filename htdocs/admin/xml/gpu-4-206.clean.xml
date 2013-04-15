@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-206" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-4-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">At any time, the Commission may investigate and determine the fair value of the property of a public service company used and useful in providing service to the public.</section>
     <section prefix="(b)">
-      <section prefix="(1)">The valuation:<section prefix="(i)">is not final until the Commission:</section><section prefix="(ii)">is final if a protest is not filed within the time specified in the order.</section></section>
+      <section prefix="(1)">The valuation:<section prefix="(i)">is not final until the Commission:<section prefix="1.">serves on the public service company a copy of the order setting the proposed valuation and the method used to set the valuation; and</section><section prefix="2.">allows a reasonable time in which to file a protest; and</section></section><section prefix="(ii)">is final if a protest is not filed within the time specified in the order.</section></section>
       <section prefix="(2)">If a timely protest is filed, the Commission shall enter a final valuation by order after hearing.</section>
     </section>
     <section prefix="(c)">All final valuations are prima facie evidence of value in proceedings under this division.</section>

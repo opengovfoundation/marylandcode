@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-304" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-14-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The Department of Human Resources shall cooperate with and assist the Department of Health and Mental Hygiene in carrying out the purposes of this subtitle.</section>
     <section prefix="(b)">The Department of Health and Mental Hygiene shall:<section prefix="(1)">Provide the guidance and means for establishing day care centers for adults in accordance with this subtitle;</section><section prefix="(2)">Recruit and encourage the establishment of day care centers for adults;</section><section prefix="(3)">Provide for licensing of day care centers for adults; and</section><section prefix="(4)">Adopt and enforce rules and regulations that set the standards necessary for the welfare and safety of medically handicapped adults who receive care in these day care centers for adults.</section></section>

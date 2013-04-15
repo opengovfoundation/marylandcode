@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-123" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-22-123</section_number>
-  <catch_line/>
+  <catch_line>Other than a provision applicable to Montgomery County, Prince George's County, or all charter count...</catch_line>
+  <order_by>123</order_by>
   <text>Other than a provision applicable to Montgomery County, Prince George's County, or all charter counties under Title 1, Subtitle 4 of this article, any provision of Division I of this article that is in conflict with this title does not apply in the regional district.</text>
 </law>

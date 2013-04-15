@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-902" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>902</order_by>
   <text>
     <section prefix="(a)">If a claim is filed and compensation is awarded or paid under this title, a self-insured employer, an insurer, the Subsequent Injury Fund, or the Uninsured Employers' Fund may bring an action for damages against the third party who is liable for the injury or death of the covered employee.</section>
     <section prefix="(b)">If the self-insured employer, insurer, Subsequent Injury Fund, or Uninsured Employers' Fund recovers damages exceeding the amount of compensation paid or awarded and the amount of payments for medical services, funeral expenses, or any other purpose under Subtitle 6 of this title, the self-insured employer, insurer, Subsequent Injury Fund, or Uninsured Employers' Fund shall:<section prefix="(1)">deduct from the excess amount its costs and expenses for the action; and</section><section prefix="(2)">pay the balance of the excess amount to the covered employee or, in case of death, the dependents of the covered employee.</section></section>

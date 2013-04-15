@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-104" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-3-104</section_number>
-  <catch_line/>
+  <catch_line>The purchase of a ticket to a carnival or amusement ride is not an assumption of risk by the buyer....</catch_line>
+  <order_by>104</order_by>
   <text>The purchase of a ticket to a carnival or amusement ride is not an assumption of risk by the buyer.</text>
 </law>

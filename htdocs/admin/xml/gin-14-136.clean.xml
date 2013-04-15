@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-136" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-136</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>136</order_by>
   <text>
     <section prefix="(a)">Nonprofit health service plans are subject to Title 27 of this article.</section>
     <section prefix="(b)">A corporation authorized under this subtitle that maintains or operates a nonprofit health service plan may not:<section prefix="(1)">deny a claim made under a contract, certificate, or policy of a nonprofit health service plan for an unfair or unfairly discriminatory reason;</section><section prefix="(2)">without just cause, require a person making a claim under a contract, certificate, or policy of a nonprofit health service plan to accept less than the amount due; or</section><section prefix="(3)">fail to notify in writing a subscriber or certificate holder of a nonprofit health service plan of a denial of a properly completed claim within 60 days after the plan receives the claim.</section></section>

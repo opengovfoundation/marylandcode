@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-403" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-8-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">The State and each local school system shall make a free appropriate public education available to each child with a disability, as provided by this subtitle.</section>
     <section prefix="(b)">Appropriate special education and related services are available to a child with a disability from birth through the end of the school year in which the child turns 21 years of age.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-111" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">The directors of a domestic mutual insurer shall assess its members who, at any time during the 36 months before the notice of assessment is mailed to them under &#xA7; 3-112(b) of this subtitle, held policies providing for contingent liability, if:<section prefix="(1)">the assets of the domestic mutual insurer at any time are less than its liabilities plus the minimum surplus required to be maintained to transact the kind of insurance being transacted by the domestic mutual insurer; and</section><section prefix="(2)">the deficiency is not being cured from other sources.</section></section>
     <section prefix="(b)">Members assessed under this section are liable to the domestic mutual insurer for the amount assessed.</section>

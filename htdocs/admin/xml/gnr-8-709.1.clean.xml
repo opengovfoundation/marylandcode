@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-709.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-709.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>709.1</order_by>
   <text>
     <section prefix="(a)">This section applies to any public or private marina that is located on the navigable waters of the State.</section>
     <section prefix="(b)">Except as provided under &#xA7; 9-333 of the Environment Article, on or after July 1, 1989 a person may not construct:<section prefix="(1)">Any additional slips at an existing marina that would result in a total slip capacity of more than 10 slips; or</section><section prefix="(2)">A new marina with more than 10 slips on the navigable waters of the State.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-316" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-316</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>316</order_by>
   <text>
     <section prefix="(a)">Promptly after a petition for guardianship is filed under this Part II of this subtitle, a juvenile court shall issue a show-cause order that requires the party to whom it is issued to respond as required under the Maryland Rules.</section>
     <section prefix="(b)">On issuance of a show-cause order as to guardianship of a child, a petitioner shall serve the order on:<section prefix="(1)">each of the child's living parents who has not consented to the guardianship;</section><section prefix="(2)">each living parent's last attorney of record in the CINA case; and</section><section prefix="(3)">the child's last attorney of record in the CINA case.</section></section>

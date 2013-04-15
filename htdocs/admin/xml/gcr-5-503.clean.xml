@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">In this section, "opium" includes:<section prefix="(1)">codeine; and</section><section prefix="(2)">a natural or synthetic compound, manufactured substance, salt, derivative, mixture, or preparation of opium.</section></section>
     <section prefix="(b)">

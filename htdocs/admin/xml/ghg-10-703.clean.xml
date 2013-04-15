@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-703" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">Each individual in a facility shall be entitled to converse privately with and receive visits:<section prefix="(1)">At all reasonable hours, from a lawyer that the individual chooses;</section><section prefix="(2)">At all reasonable hours, from a clergyman that the individual chooses; and</section><section prefix="(3)">During reasonable visiting hours that the facility sets, from any other visitor if the individual wishes to see the visitor.</section></section>
     <section prefix="(b)">If an individual refuses to see a visitor, the refusal shall be made a permanent part of the individual's record.</section>

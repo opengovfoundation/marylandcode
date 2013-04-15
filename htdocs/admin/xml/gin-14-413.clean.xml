@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-413" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-413</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>413</order_by>
   <text>
     <section prefix="(a)">On or before March 1 of each year, each dental plan organization shall file with the Commissioner a complete statement of its financial condition, transactions, and affairs for the immediately preceding calendar year.</section>
     <section prefix="(b)">The annual statement shall:<section prefix="(1)">be in the form and have the content approved for current use by the National Association of Insurance Commissioners or its successor organization; and</section><section prefix="(2)">contain any additional information that the Commissioner requires.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-12" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-2A-12</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>12</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly make or cause to be made any false statement or report, including any understatement or overstatement of financial condition for a new grant or affecting a grant already made under this subtitle:<section prefix="(1)">In any application or in any document furnished to the Trust; or</section><section prefix="(2)">For the purpose of influencing the action of the Trust on an application for financial assistance or for the purpose of influencing any action of the Trust affecting financial assistance whether or not such assistance may have already been extended.</section></section>
     <section prefix="(b)">Any person or any aider or abettor, who violates any provision of this subtitle, is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $50,000 or imprisonment in the penitentiary not exceeding 5 years or both.</section>

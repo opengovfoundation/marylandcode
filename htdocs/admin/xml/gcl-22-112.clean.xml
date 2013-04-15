@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-112" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">A person manifests assent to a record or term if the person, acting with knowledge of, or after having an opportunity to review the record or term or a copy of it:<section prefix="(1)">Authenticates the record or term with intent to adopt or accept it; or</section><section prefix="(2)">Intentionally engages in conduct or makes statements with reason to know that the other party or its electronic agent may infer from the conduct or statement that the person assents to the record or term.</section></section>
     <section prefix="(b)">An electronic agent manifests assent to a record or term if, after having an opportunity to review it, the electronic agent:<section prefix="(1)">Authenticates the record or term; or</section><section prefix="(2)">Engages in operations that in the circumstances indicate acceptance of the record or term.</section></section>

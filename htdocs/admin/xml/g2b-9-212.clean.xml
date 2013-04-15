@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-212" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-9-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">No license shall be issued in Garrett County if the applicant has not had an established business for one year prior to the date of application.</section>
     <section prefix="(b)">Notwithstanding any other provisions of this article, the Liquor Control Board may promulgate rules and regulations allowing any Class B, C, or D licensee to sell alcoholic beverages, as provided by their licenses, for off-sale consumption.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1010" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1010</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1010</order_by>
   <text>
     <section prefix="(a)">Except as provided under subsection (c) of this section, a consumer borrower may, with the consent of the credit grantor, refinance the entire outstanding and unpaid amount of a loan, and the credit grantor may charge and collect a refinancing charge in connection with any refinancing in an amount agreed to by the credit grantor and the borrower.</section>
     <section prefix="(b)">For purposes of this section, "the entire outstanding and unpaid amount of a loan" is:<section prefix="(1)">If the interest and charges in respect of the loan were not precomputed, the total of the unpaid balance and the accrued and unpaid interest and charges on the date of refinancing; or</section><section prefix="(2)">If the interest and charges on the loan were precomputed, the total of the unpaid balance and the accrued and unpaid charges on the date of refinancing, less the amount which the credit grantor would have been required to refund or credit upon prepayment on the date of refinancing under &#xA7; 12-1009 of this subtitle governing refunds upon prepayment.</section></section>

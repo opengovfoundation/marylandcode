@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-220" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">The Secretary may provide the United States Department of Health and Human Services with copies of vital records or other information that is required for national statistics, on the condition that the information may not be used for other than statistical purposes unless authorized by the Secretary.</section>
     <section prefix="(b)">On request, the Secretary may provide federal, State, local, and other public or private agencies with copies of vital records or other information for statistical purposes on terms or conditions that the Secretary sets.</section>

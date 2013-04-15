@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-506" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-506</section_number>
-  <catch_line/>
+  <catch_line>Any individual who has been admitted to a State residential center or any person on behalf of the in...</catch_line>
+  <order_by>506</order_by>
   <text>Any individual who has been admitted to a State residential center or any person on behalf of the individual may apply at any time to a court of competent jurisdiction for a writ of habeas corpus to determine the cause and the legality of the detention.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-101" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-7-101</section_number>
-  <catch_line/>
+  <catch_line>Property tax exemptions provided under this title shall be strictly construed....</catch_line>
+  <order_by>101</order_by>
   <text>Property tax exemptions provided under this title shall be strictly construed.</text>
 </law>

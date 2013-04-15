@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-203" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-11-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">In an action on the bond of the clerk of a court or register of wills, the measure of damages is the sum the clerk or register charged for the services he has not performed.</section>
     <section prefix="(b)">If a person sustains special damages because the clerk or register fails to perform the services requested, the person shall be compensated for the special damages in addition to the clerk's fees.</section>

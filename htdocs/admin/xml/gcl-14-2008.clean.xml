@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2008" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2008</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2008</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A lessor may repossess a leased motor vehicle if the lessee is in default or a law enforcement agency has seized the motor vehicle and will not unconditionally return the motor vehicle to the lessor.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="82" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-82</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>82</order_by>
   <text>
     <section prefix="(a)">At the request of the board of managers of a drainage association, the board of county commissioners shall appoint a board of viewers to determine if the original determination as to which lands have benefited from the improvements has changed.</section>
     <section prefix="(b)">The board of viewers shall have the same qualifications, rights, powers, privileges, and duties as the original board of viewers.</section>

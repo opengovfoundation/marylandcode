@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-706" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">The Department shall prepare certificates of merger that specify:<section prefix="(1)">The name of each party to the articles of merger;</section><section prefix="(2)">The name of the successor and the location of its principal office in this State or, if it has none, its principal place of business; and</section><section prefix="(3)">The time the articles of merger are accepted for record by the Department.</section></section>
     <section prefix="(b)">In addition to any other provision of law with respect to recording, the Department shall send one certificate each to the clerk of the circuit court for each county where the articles of merger show that a merging limited liability company, partnership, limited partnership, corporation, or business trust other than the successor owns an interest in land.</section>

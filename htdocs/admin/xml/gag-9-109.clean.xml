@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-109" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-9-109</section_number>
-  <catch_line/>
+  <catch_line>If the Secretary has reason to believe that any person has violated any provision of this subtitle, ...</catch_line>
+  <order_by>109</order_by>
   <text>If the Secretary has reason to believe that any person has violated any provision of this subtitle, he may institute judicial proceedings in the county in which the violation occurred. The Secretary may file information with the Attorney General for prosecution. However, no prosecution under this subtitle may be instituted without first affording the person against whom proceedings are contemplated an opportunity to appear personally or by counsel before the Secretary to introduce evidence.</text>
 </law>

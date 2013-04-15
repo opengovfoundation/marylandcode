@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4.5-711" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4.5-711</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>711</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">After the Division pays a claim from the Guaranty Fund:<section prefix="(i)">the Division is subrogated to all rights of the claimant in the claim up to the amount paid;</section><section prefix="(ii)">the claimant shall assign to the Division all rights of the claimant in the claim up to the amount paid; and</section><section prefix="(iii)">the Division has a right to reimbursement of the Guaranty Fund by the registrant whom the Division finds responsible for the act or omission giving rise to the claim for:</section></section>
+      <section prefix="(1)">After the Division pays a claim from the Guaranty Fund:<section prefix="(i)">the Division is subrogated to all rights of the claimant in the claim up to the amount paid;</section><section prefix="(ii)">the claimant shall assign to the Division all rights of the claimant in the claim up to the amount paid; and</section><section prefix="(iii)">the Division has a right to reimbursement of the Guaranty Fund by the registrant whom the Division finds responsible for the act or omission giving rise to the claim for:<section prefix="1.">the amount paid from the Guaranty Fund; and</section><section prefix="2.">interest on that amount at a rate determined by the Division so as not to exceed the legal rate of interest on a judgment in place at the time the claim is approved.</section></section></section>
       <section prefix="(2)">All money that the Division recovers on a claim shall be deposited in the Guaranty Fund.</section>
     </section>
     <section prefix="(b)">If, within 30 days after the Division gives notice, a registrant on whose account a claim was paid does not reimburse the Guaranty Fund in full, the Division may sue the registrant in a court of competent jurisdiction for the unreimbursed amount.</section>

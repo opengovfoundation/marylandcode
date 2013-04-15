@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-463" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-463</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>463</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, during or after an examination or investigation of a domestic, foreign, or alien society, the Commissioner may not make public or allow to become public a financial statement, report, or finding that affects the status, standing, or rights of the society.</section>
     <section prefix="(b)">The Commissioner may make public or allow to become public a financial statement, report, or finding described in subsection (a) of this section after:<section prefix="(1)">a copy of the financial statement, report, or finding has been served on the society at its principal office; and</section><section prefix="(2)">the society has been given a reasonable opportunity to answer the financial statement, report, or finding.</section></section>

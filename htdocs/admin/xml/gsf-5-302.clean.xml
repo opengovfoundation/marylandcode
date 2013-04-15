@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-302" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-5-302</section_number>
-  <catch_line/>
+  <catch_line>The Department shall function in part as an advisory, consultative, and coordinating agency....</catch_line>
+  <order_by>302</order_by>
   <text>The Department shall function in part as an advisory, consultative, and coordinating agency.</text>
 </law>

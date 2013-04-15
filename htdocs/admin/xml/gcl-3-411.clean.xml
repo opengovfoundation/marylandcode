@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-411" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">In this section, "obligated bank" means the acceptor of a certified check or the issuer of a cashier's check or teller's check bought from the issuer.</section>
     <section prefix="(b)">If the obligated bank wrongfully (i) refuses to pay a cashier's check or certified check, (ii) stops payment of a teller's check, or (iii) refuses to pay a dishonored teller's check, the person asserting the right to enforce the check is entitled to compensation for expenses and loss of interest resulting from the nonpayment and may recover consequential damages if the obligated bank refuses to pay after receiving notice of particular circumstances giving rise to the damages.</section>

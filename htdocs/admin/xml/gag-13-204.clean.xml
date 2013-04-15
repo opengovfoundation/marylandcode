@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-204" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-13-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">A grain dealer shall:<section prefix="(1)">Keep grain records showing the amount of grain bought, received, exchanged, or stored in the dealer's grain business;</section><section prefix="(2)">Keep grain records at each place of business or at a central location within the State;</section><section prefix="(3)">Keep grain records for 3 years; and</section><section prefix="(4)">Make grain records available to the Secretary upon request.</section></section>
     <section prefix="(b)">

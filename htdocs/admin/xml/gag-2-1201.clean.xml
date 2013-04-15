@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1201" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-1201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1201</order_by>
   <text>
     <section prefix="(a)">In this subtitle, "Program" means the Maryland Agricultural Land Link Program.</section>
     <section prefix="(b)">There is a Maryland Agricultural Land Link Program in the Department, which is established for the purpose of:<section prefix="(1)">Assisting older or retiring farmers in the State in the lease or sale of their agricultural land to younger or beginning farmers;</section><section prefix="(2)">Keeping agricultural land in the State in active agricultural use; and</section><section prefix="(3)">Reducing the amount of agricultural land in the State that is lost each year to development.</section></section>

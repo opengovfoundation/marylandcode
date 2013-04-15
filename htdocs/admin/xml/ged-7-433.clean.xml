@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-433" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-433</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>433</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -29,7 +29,7 @@
     <section prefix="(d)">
       <section prefix="(1)">Before an individual participates in an authorized athletic activity on school property, the county board shall provide, or require that a third party provide:<section prefix="(i)">Information on concussions and head injuries to the individual and, if applicable, a parent or guardian of the individual; and</section><section prefix="(ii)">Notice that acknowledgment of the receipt of the information by the individual and, if applicable, the parent or guardian of the individual, is required.</section></section>
       <section prefix="(2)">The information required under paragraph (1) of this subsection shall be in the form of:<section prefix="(i)">A separate information sheet; or</section><section prefix="(ii)">A notice on the registration form for a youth sports program stating that information on concussion and head injury is available, including directions on how to receive the information electronically.</section></section>
-      <section prefix="(3)">The individual and, if applicable, the parent or guardian of the individual shall:<section prefix="(i)">Acknowledge receipt of the information by:</section><section prefix="(ii)">Return the acknowledgment to the county board or third party.</section></section>
+      <section prefix="(3)">The individual and, if applicable, the parent or guardian of the individual shall:<section prefix="(i)">Acknowledge receipt of the information by:<section prefix="1.">Signature;</section><section prefix="2.">Checking an acknowledgment box on the registration form; or</section><section prefix="3.">Another method of written or electronic acknowledgment; and</section></section><section prefix="(ii)">Return the acknowledgment to the county board or third party.</section></section>
     </section>
     <section prefix="(e)">A youth sports program that uses a public school facility shall provide annually to the county board or the board's agent a statement of intent to comply for all of its athletic activities with the requirements for the management of a concussion or other head injury of a participant under this section.</section>
   </text>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-203" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-6-203</section_number>
-  <catch_line/>
+  <catch_line>A corporation, foundation, or other legal entity qualifies as a community development organization i...</catch_line>
+  <order_by>203</order_by>
   <text>A corporation, foundation, or other legal entity qualifies as a community development organization if:<section prefix=""><section prefix="(1)">its purpose is to improve the physical, economic, or social environment of the area where it operates; and</section><section prefix="(2)">no part of its net earnings inures to the benefit of a private shareholder or individual holding an interest in that entity.</section></section></text>
 </law>

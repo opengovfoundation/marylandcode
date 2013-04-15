@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-707" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">In this section, "pre-effective-date financing statement" means a financing statement filed before this title takes effect.</section>
     <section prefix="(b)">After this title takes effect, a person may add or delete collateral covered by, continue or terminate the effectiveness of, or otherwise amend the information provided in, a pre-effective-date financing statement only in accordance with the law of the jurisdiction governing perfection as provided in Subtitle 3 of this title. However, the effectiveness of a pre-effective-date financing statement also may be terminated in accordance with the law of the jurisdiction in which the financing statement is filed.</section>

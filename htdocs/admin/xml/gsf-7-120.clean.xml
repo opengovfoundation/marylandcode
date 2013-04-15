@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-120" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-120</section_number>
-  <catch_line/>
+  <catch_line>The budget books for a fiscal year shall:...</catch_line>
+  <order_by>120</order_by>
   <text>The budget books for a fiscal year shall:<section prefix=""><section prefix="(1)">include a copy of the statewide cost allocation plan filed with the federal government for federal reimbursement of the costs of indirect State services that benefit federally funded programs; and</section><section prefix="(2)">list, by unit of the State government, the amount of reimbursement received under the plan during the last full fiscal year.</section></section></text>
 </law>

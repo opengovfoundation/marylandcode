@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-2004" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-2004</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2004</order_by>
   <text>
     <section prefix="(a)">To the extent that &#xA7;&#xA7; 2-313 through 2-318, inclusive, of this article apply to the purchase of a motor vehicle, the rights and remedies provided for in those sections shall apply to the lease of a motor vehicle and may be exercised by any lessee.</section>
     <section prefix="(b)">If the warranty period is to include those miles of operation when the new motor vehicle is in the possession of any person other than the lessee, the manufacturer shall state that fact in 12 point boldface type in the manufacturer's written warranty.</section>
@@ -19,8 +19,8 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">
-        <section prefix="(i)">If, during the warranty period, the manufacturer or factory branch, its agent or authorized dealer, or the lessor or the lessor's agent is unable to repair or correct any nonconformity, defect, or condition that substantially impairs the use and market value of the motor vehicle to the lessee after a reasonable number of attempts, the manufacturer or factory branch, at the option of the lessee shall:</section>
-        <section prefix="(ii)">In the event a motor vehicle is replaced under paragraph (1)(i)1 of this subsection and provided that the lessee meets the lessor's then current credit criteria with respect to the lease, the lessor shall:</section>
+        <section prefix="(i)">If, during the warranty period, the manufacturer or factory branch, its agent or authorized dealer, or the lessor or the lessor's agent is unable to repair or correct any nonconformity, defect, or condition that substantially impairs the use and market value of the motor vehicle to the lessee after a reasonable number of attempts, the manufacturer or factory branch, at the option of the lessee shall:<section prefix="1.">Replace the motor vehicle with a comparable motor vehicle acceptable to the lessee; or</section><section prefix="2.">Accept return of the motor vehicle from the lessee and refund to the lessee all moneys paid by the lessee to repair the defect, condition, or nonconformity pursuant to a lease, including all excise tax, license fees, registration fees, and any similar governmental charges, less a reasonable allowance for the lessee's unimpaired use of the vehicle; and</section></section>
+        <section prefix="(ii)">In the event a motor vehicle is replaced under paragraph (1)(i)1 of this subsection and provided that the lessee meets the lessor's then current credit criteria with respect to the lease, the lessor shall:<section prefix="1.">Transfer the title of the defective motor vehicle to the manufacturer;</section><section prefix="2.">Accept title to the comparable replacement motor vehicle;</section><section prefix="3.">Transfer possession of the comparable replacement motor vehicle to the lessee; and</section><section prefix="4.">Execute a lease agreement with the lessee with the same time period, terms, and conditions of the original lease.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">In the event a manufacturer accepts return of a motor vehicle, under paragraph (1)(i)2 of this subsection, the lessee shall be compensated by the manufacturer for any moneys paid during the period in which the motor vehicle was not available due to the defect, condition, or nonconformity and the lessor shall be paid by the manufacturer all amounts due to the lessor under the terms of the lease.</section>

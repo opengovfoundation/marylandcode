@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-422" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-422</section_number>
-  <catch_line/>
+  <catch_line>For the purpose of construction of any State or local law, an assessment of real property for a taxa...</catch_line>
+  <order_by>422</order_by>
   <text>For the purpose of construction of any State or local law, an assessment of real property for a taxable year beginning after June 30, 2001 that is compared to an assessment that is effective on or before September 30, 2000, shall be computed so that:<section prefix=""><section prefix="(1)">the two assessments are compared at the same percent of value, and any tax rate applied to the assessments is adjusted proportionately, if necessary; and</section><section prefix="(2)">there is no change in the amount of tax due, tax relief authorized, computation of assessment ratio, or other computation based on assessments solely as a result of the change in the method of computing assessments effective October 1, 2000.</section></section></text>
 </law>

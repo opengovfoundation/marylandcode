@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-208" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">When a health officer has reason to believe that a disease that endangers public health exists within the county, the health officer shall:<section prefix="(i)">Report immediately to the appropriate county board of health; and</section><section prefix="(ii)">With the approval of the board:</section></section>
+      <section prefix="(1)">When a health officer has reason to believe that a disease that endangers public health exists within the county, the health officer shall:<section prefix="(i)">Report immediately to the appropriate county board of health; and</section><section prefix="(ii)">With the approval of the board:<section prefix="1.">Investigate the suspected disease; and</section><section prefix="2.">Act properly to prevent the spread of the disease.</section></section></section>
       <section prefix="(2)">
         <section prefix="(i)">Except in Baltimore City, the attending physician of an individual who has the disease may act properly to prevent the spread of the disease and does not need the approval of the county board of health to act.</section>
         <section prefix="(ii)">A physician may act under this paragraph only until the health officer completes the investigation under paragraph (1) of this subsection or, if sooner, until the emergency ends.</section>

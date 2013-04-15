@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-726" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-726</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>726</order_by>
   <text>
     <section prefix="(a)">An individual who knowingly violates a restriction on movement imposed as a condition of leave, work release, or a home detention order or agreement under this subtitle is guilty of escape as provided in &#xA7;&#xA7; 9-404 through 9-407 of the Criminal Law Article.</section>
     <section prefix="(b)">An individual who knowingly violates any other condition of leave, work release, or a home detention order or agreement imposed under this subtitle is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $1,000 or imprisonment not exceeding 1 year or both.</section>

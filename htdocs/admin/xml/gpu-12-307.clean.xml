@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-307" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-12-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Proceedings for a conversion must be initiated by petition filed under &#xA7; 12-308 of this subtitle.</section>
     <section prefix="(b)">The petition shall:<section prefix="(1)">define generally the proposed conversion;</section><section prefix="(2)">request that proceedings for the proposed conversion be initiated under this subtitle; and</section><section prefix="(3)">describe the proposed conversion district by:<section prefix="(i)">specifying its exterior boundaries;</section><section prefix="(ii)">providing a description of the proposed conversion district according to an official or recorded map; or</section><section prefix="(iii)">referring to a plat or map filed with the petition that indicates the proposed conversion district by boundary line.</section></section></section>

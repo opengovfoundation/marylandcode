@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-1-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">A court may exercise the power to punish for contempt of court or to compel compliance with its commands in the manner prescribed by Title 15, Chapter 200 of the Maryland Rules.</section>
     <section prefix="(b)">A person who has been adjudicated guilty of contempt for failure to pay a monetary amount specified in a decree or order passed in a civil proceeding is not barred by reason of the adjudication of contempt from filing a petition for modification of the decree or order, requesting any other relief, or proceeding to hearing on a petition, even though the contempt has not been purged or removed. A petition filed prior to actual adjudication of contempt may be consolidated in the discretion of the court and heard with a citation for contempt, if the petition is at issue and ready for disposition in accordance with the practice in the court in which the matter is pending.</section>

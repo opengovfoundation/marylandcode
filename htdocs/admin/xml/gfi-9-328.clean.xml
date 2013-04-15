@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-328" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-328</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>328</order_by>
   <text>
     <section prefix="(a)">Subject to regulation of the Division Director, the board of directors of each savings and loan association shall allocate the profits of the association, at least annually, at the times the bylaws provide.</section>
     <section prefix="(b)">The board of directors of each savings and loan association shall:<section prefix="(1)">In accordance with generally accepted accounting principles, determine gross income for the association; and</section><section prefix="(2)">Exclude from gross income:<section prefix="(i)">Income received or accrued during the period of default for any asset upon which a default exists; and</section><section prefix="(ii)">Discounts that are amortized on securities upon which a default exists.</section></section></section>

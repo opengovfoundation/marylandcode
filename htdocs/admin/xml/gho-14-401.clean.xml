@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-401" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">The Board shall perform any necessary preliminary investigation before the Board refers to an investigatory body an allegation of grounds for disciplinary or other action brought to its attention.</section>
     <section prefix="(b)">If an allegation of grounds for disciplinary or other action is made by a patient or a family member of a patient based on &#xA7; 14-404(a)(22) of this subtitle and a full investigation results from that allegation, the full investigation shall include an offer of an interview with the patient or a family member of the patient who was present on or about the time that the incident that gave rise to the allegation occurred.</section>
@@ -14,9 +14,9 @@
       <section prefix="(2)">After performing any necessary preliminary investigation of an allegation of grounds for disciplinary or other action, the Board shall refer any allegation based on &#xA7; 14-404(a)(22) of this subtitle to the entity or entities that have contracted with the Board under subsection (e) of this section for further investigation and physician peer review within the involved medical specialty or specialties.</section>
       <section prefix="(3)">If, after performing any necessary preliminary investigation, the Board determines that an allegation involving fees for professional or ancillary services does not constitute grounds for disciplinary or other action, the Board shall offer the complainant and the licensee an opportunity to mediate the dispute.</section>
       <section prefix="(4)">
-        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, if an allegation is based on &#xA7; 14-404(a)(40) of this subtitle, the Board:</section>
+        <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, if an allegation is based on &#xA7; 14-404(a)(40) of this subtitle, the Board:<section prefix="1.">May determine that an agreement for corrective action is warranted; and</section><section prefix="2.">Shall notify the licensee of the identified deficiencies and enter into an agreement for corrective action with the licensee as provided in this paragraph.</section></section>
         <section prefix="(ii)">The Board may not enter into an agreement for corrective action with a licensee if patient safety is an issue.</section>
-        <section prefix="(iii)">The Board shall subsequently evaluate the licensee and shall:</section>
+        <section prefix="(iii)">The Board shall subsequently evaluate the licensee and shall:<section prefix="1.">Terminate the corrective action if the Board is satisfied that the licensee is in compliance with the agreement for corrective action and has corrected the deficiencies; or</section><section prefix="2.">Pursue disciplinary action under &#xA7; 14-404 of this subtitle if the deficiencies persist or the licensee has failed to comply with the agreement for corrective action.</section></section>
         <section prefix="(iv)">An agreement for corrective action under this paragraph may not be made public or considered a disciplinary action under this title.</section>
         <section prefix="(v)">The Board shall provide a summary of the corrective action agreements in the executive director's report of Board activities.</section>
       </section>

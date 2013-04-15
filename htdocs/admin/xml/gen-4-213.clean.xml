@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-213" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, before the Department exercises its authority under &#xA7; 4-208 or &#xA7; 4-209 of this subtitle, the Department shall:<section prefix="(1)">Notify the county or municipality of the violation and the Department's intended action; and</section><section prefix="(2)">Conduct a joint inspection with a representative of the county or municipality.</section></section>
     <section prefix="(b)">If the Department determines that there is a substantial threat to the environment, the Department may take appropriate enforcement action without first conducting a joint inspection under subsection (a)(2) of this section.</section>

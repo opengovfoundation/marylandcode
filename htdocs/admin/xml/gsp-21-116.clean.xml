@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-116" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-21-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">By resolution, the Board of Trustees shall specify the powers of the Investment Committee.</section>
     <section prefix="(b)">The Investment Committee shall advise the Board of Trustees and make recommendations on:<section prefix="(1)">the investment programs;</section><section prefix="(2)">compliance of the investment programs with the policies of the Board of Trustees; and</section><section prefix="(3)">bonding for employees of the State Retirement Agency in the form and amount required by law.</section></section>

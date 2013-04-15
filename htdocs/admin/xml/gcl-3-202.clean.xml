@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">Negotiation is effective even if obtained (i) from an infant, a corporation exceeding its powers, or a person without capacity, (ii) by fraud, duress, or mistake, or (iii) in breach of duty or as part of an illegal transaction.</section>
     <section prefix="(b)">To the extent permitted by other law, negotiation may be rescinded or may be subject to other remedies, but those remedies may not be asserted against a subsequent holder in due course or a person paying the instrument in good faith and without knowledge of facts that are a basis for rescission or other remedy.</section>

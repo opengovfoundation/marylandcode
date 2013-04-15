@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-107.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-6-107.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107.1</order_by>
   <text>
     <section prefix="(a)">By December 31, 2000, all contract feed that is fed to chickens must include phytase or other enzyme or additive that reduces phosphorus in poultry waste to the maximum extent that is commercially and biologically feasible.</section>
     <section prefix="(b)">Subject to the provisions of subsection (a) of this section, the Secretary shall adopt regulations to monitor compliance with subsection (a) of this section.</section>

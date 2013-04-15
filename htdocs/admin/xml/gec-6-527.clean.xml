@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-527" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-6-527</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>527</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, Division II of the State Finance and Procurement Article does not apply to a service that the Department obtains that is related to the investment, management, analysis, purchase, or sale of an asset of the Department in a transaction authorized under this subtitle.</section>
     <section prefix="(b)">The Department is subject to Title 12, Subtitle 4 of the State Finance and Procurement Article for services related to the investment, management, analysis, purchase, or sale of assets of the Department in any transaction authorized under this subtitle.</section>

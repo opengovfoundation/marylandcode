@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-402" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-27-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section and subject to subsections (c) and (d) of this section, on retirement under this subtitle, a retiree is entitled to receive a retirement allowance that equals two-thirds of the salary payable in that fiscal year to a member holding the same level judicial position as that held by the retiree on termination of service.</section>
     <section prefix="(b)">
@@ -16,11 +16,11 @@
     <section prefix="(c)">
       <section prefix="(1)">
         <section prefix="(i)">This paragraph applies only to an individual who is a member of the Judges' Retirement System on or before June 30, 2012.</section>
-        <section prefix="(ii)">On retirement under this subtitle by a retiree who has less than 16 years of service credit as a member, the retiree is entitled to a reduced retirement allowance that equals the retirement allowance computed under subsection (a) or (b) of this section multiplied by a fraction that has:</section>
+        <section prefix="(ii)">On retirement under this subtitle by a retiree who has less than 16 years of service credit as a member, the retiree is entitled to a reduced retirement allowance that equals the retirement allowance computed under subsection (a) or (b) of this section multiplied by a fraction that has:<section prefix="1.">for its numerator, the number of years of service credit as a member; and</section><section prefix="2.">for its denominator, 16.</section></section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">This paragraph applies only to an individual who becomes a member of the Judges' Retirement System on or after July 1, 2012.</section>
-        <section prefix="(ii)">On retirement under this subtitle by a retiree who has at least 5 years but less than 16 years of service credit as a member, the retiree is entitled to a reduced retirement allowance that equals the retirement allowance computed under subsection (a) or (b) of this section multiplied by a fraction that has:</section>
+        <section prefix="(ii)">On retirement under this subtitle by a retiree who has at least 5 years but less than 16 years of service credit as a member, the retiree is entitled to a reduced retirement allowance that equals the retirement allowance computed under subsection (a) or (b) of this section multiplied by a fraction that has:<section prefix="1.">for its numerator, the number of years of service credit as a member; and</section><section prefix="2.">for its denominator, 16.</section></section>
       </section>
     </section>
     <section prefix="(d)">

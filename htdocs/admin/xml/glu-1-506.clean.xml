@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-506" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-1-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">Subject to subsections (b), (c), and (d) of this section, a local jurisdiction that chooses to adopt growth tiers is not required to adopt all of the tiers.</section>
     <section prefix="(b)">A municipal corporation that exercises planning and zoning authority shall adopt Tier I and may adopt Tier II.</section>

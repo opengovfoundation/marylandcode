@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-221" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-221</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The treasurer of a campaign finance entity shall keep a detailed and accurate account book of all assets received, expenditures made, and obligations incurred by or on behalf of the entity.</section>
       <section prefix="(2)">Except as provided in &#xA7; 13-240 of this subtitle, as to each asset received or expenditure made, the account book shall state:<section prefix="(i)">its amount or value;</section><section prefix="(ii)">the date of the receipt or expenditure;</section><section prefix="(iii)">the name and address of the person from whom the asset was received or to whom the expenditure was made; and</section><section prefix="(iv)">a description of the asset received or the purpose for which the expenditure was made.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">To the extent practicable, the treasurer of a campaign finance entity shall record the occupation and employer of an individual who makes contributions to the campaign finance entity in a cumulative amount of $500 or more during an election cycle.</section>
-        <section prefix="(ii)">The State Board shall:</section>
+        <section prefix="(ii)">The State Board shall:<section prefix="1.">promptly provide notice to the treasurer of a campaign finance entity if a contributor included on a campaign finance report submitted by the treasurer has made contributions to the campaign finance entity in a cumulative amount of $500 or more during the election cycle; and</section><section prefix="2.">require a standard response that a treasurer shall include in the campaign finance report if a contributor does not supply the information required concerning the contributor's occupation and employer.</section></section>
       </section>
       <section prefix="(4)">Each expenditure made from a campaign account shall be supported by a receipt.</section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-303" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="a.">There shall be regional facilities sufficient to dispose of the low-level waste generated within the region. Each regional facility shall be capable of disposing of such low-level waste but in the form(s) required by regulations or license conditions. Specialized facilities for particular types of low-level waste management, reduction or treatment may not be developed in any party state unless they are in accordance with the laws and regulations of such state and applicable federal laws and regulations.</section>
     <section prefix="b.">Each party state shall have equal access as other party states to regional facilities within the region and accepting low-level waste, provided, however, that the host state may close the regional facility located within its borders when necessary for public health and safety. However, a host state shall send notification to the Commission in writing within three (3) days of its action, and shall, within thirty (30) working days, provide in writing the reasons for the closing.</section>

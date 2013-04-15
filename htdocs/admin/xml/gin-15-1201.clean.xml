@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Board" means the Board of Directors of the Pool established under &#xA7; 15-1216 of this subtitle.</section>
     <section prefix="(c)">"Carrier" means a person that:<section prefix="(1)">offers health benefit plans in the State covering eligible employees of small employers; and</section><section prefix="(2)">is:<section prefix="(i)">an authorized insurer that provides health insurance in the State;</section><section prefix="(ii)">a nonprofit health service plan that is licensed to operate in the State;</section><section prefix="(iii)">a health maintenance organization that is licensed to operate in the State; or</section><section prefix="(iv)">any other person or organization that provides health benefit plans subject to State insurance regulation.</section></section></section>
     <section prefix="(d)">"Commission" means the Maryland Health Care Commission established under Title 19, Subtitle 1 of the Health - General Article.</section>
     <section prefix="(e)">
-      <section prefix="(1)">"Eligible employee" means:<section prefix="(i)">an individual who:</section><section prefix="(ii)">a sole employee of a nonprofit organization that has been determined by the Internal Revenue Service to be exempt from taxation under &#xA7; 501(c)(3), (4), or (6) of the Internal Revenue Code who:</section></section>
+      <section prefix="(1)">"Eligible employee" means:<section prefix="(i)">an individual who:<section prefix="1.">is an employee, sole proprietor, self-employed individual, partner of a partnership, or independent contractor who is included as an employee under a health benefit plan; and</section><section prefix="2.">works on a full-time basis and has a normal workweek of at least 30 hours; or</section></section><section prefix="(ii)">a sole employee of a nonprofit organization that has been determined by the Internal Revenue Service to be exempt from taxation under &#xA7; 501(c)(3), (4), or (6) of the Internal Revenue Code who:<section prefix="1.">has a normal workweek of at least 20 hours; and</section><section prefix="2.">is not covered under a public or private plan for health insurance or other health benefit arrangement.</section></section></section>
       <section prefix="(2)">"Eligible employee" does not include an individual who works:<section prefix="(i)">on a temporary or substitute basis; or</section><section prefix="(ii)">except for an individual described in paragraph (1)(ii) of this subsection, for less than 30 hours in a normal workweek.</section></section>
     </section>
     <section prefix="(f)">

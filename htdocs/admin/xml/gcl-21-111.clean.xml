@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-111" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-21-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">If a law requires that a record be retained, the requirement is satisfied by retaining an electronic record of the information in the record which:<section prefix="(1)">Accurately reflects the information set forth in the record at the time it was first generated in its final form as an electronic record or otherwise; and</section><section prefix="(2)">Remains accessible for later reference.</section></section>
     <section prefix="(b)">A requirement to retain a record in accordance with subsection (a) of this section does not apply to any information the sole purpose of which is to enable the record to be sent, communicated, or received.</section>

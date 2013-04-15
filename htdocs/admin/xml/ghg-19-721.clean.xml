@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-721" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-721</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>721</order_by>
   <text>
     <section prefix="(a)">Unless previously suspended or revoked, each original and renewal certificate of authority issued under this subtitle to a health maintenance organization expires at midnight on the November 30 after its effective date.</section>
     <section prefix="(b)">On payment of an annual renewal fee of $25 by the health maintenance organization before the expiration date of its certificate of authority, its certificate remains in effect until a new certificate of authority is issued or specifically refused.</section>

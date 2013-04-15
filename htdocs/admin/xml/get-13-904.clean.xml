@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-904" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A parent may designate a standby guardian by means of a written designation:<section prefix="(i)">Signed in the presence of two witnesses, at least 18 years old, neither of whom is the standby guardian; and</section><section prefix="(ii)">Signed by the standby guardian.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">If a parent is physically unable to sign a written designation, another person may sign the designation on the parent's behalf and at the parent's direction.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">A designation under this paragraph shall be signed in the presence of the parent and two witnesses at least 18 years of age, neither of whom may be the standby guardian.</section>
+          <section prefix="2.">The standby guardian also shall sign a designation under this paragraph.</section>
+        </section>
       </section>
     </section>
     <section prefix="(b)">
@@ -32,8 +35,8 @@
       <section prefix="(3)">The standby guardian's authority shall begin again on the filing of the petition.</section>
     </section>
     <section prefix="(f)">
-      <section prefix="(1)">A standby guardian shall file a petition for appointment as guardian after receipt of:<section prefix="(i)">A copy of a determination of incapacity made under &#xA7; 13-906 of this subtitle; or</section><section prefix="(ii)">Copies of:</section></section>
-      <section prefix="(2)">Subject to the provisions of paragraphs (3) and (4) of this subsection, the petition shall be accompanied by:<section prefix="(i)">The written designation of the standby guardian signed, or consented to, by each person having parental rights over the child;</section><section prefix="(ii)">A copy of:</section><section prefix="(iii)">If the petition is filed by a person designated as alternate standby guardian, a statement that the person designated as standby guardian is unwilling or unable to act as standby guardian, and the basis for the statement.</section></section>
+      <section prefix="(1)">A standby guardian shall file a petition for appointment as guardian after receipt of:<section prefix="(i)">A copy of a determination of incapacity made under &#xA7; 13-906 of this subtitle; or</section><section prefix="(ii)">Copies of:<section prefix="1.">A determination of debilitation made under &#xA7; 13-906 of this subtitle; and</section><section prefix="2.">The parent's written consent to the beginning of the standby guardianship under this section.</section></section></section>
+      <section prefix="(2)">Subject to the provisions of paragraphs (3) and (4) of this subsection, the petition shall be accompanied by:<section prefix="(i)">The written designation of the standby guardian signed, or consented to, by each person having parental rights over the child;</section><section prefix="(ii)">A copy of:<section prefix="1.">The determination of incapacity of the parent; or</section><section prefix="2.">The determination of debilitation and the parental consent to the beginning of the standby guardianship; and</section></section><section prefix="(iii)">If the petition is filed by a person designated as alternate standby guardian, a statement that the person designated as standby guardian is unwilling or unable to act as standby guardian, and the basis for the statement.</section></section>
       <section prefix="(3)">If a person who has parental rights cannot be located after reasonable efforts have been made to locate the person, the standby guardian may file a petition under this section without the consent of the person to the designation of the standby guardian.</section>
       <section prefix="(4)">If the standby guardian submits documentation, satisfactory to the court, of the reasonable efforts to locate the person who has parental rights, the court may appoint a standby guardian under this section.</section>
     </section>

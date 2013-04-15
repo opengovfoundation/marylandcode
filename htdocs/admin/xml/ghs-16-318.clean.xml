@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-318" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-16-318</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>318</order_by>
   <text>
     <section prefix="(a)">It is an unfair labor practice for the Montgomery Commission or an employee organization certified as an exclusive representative of a bargaining unit to violate the rights of a Montgomery Commission employee under this subtitle.</section>
     <section prefix="(b)">Within 30 business days after an alleged unfair labor practice occurs, the party charging the unfair labor practice shall submit the charge in writing to the labor relations administrator and the party alleged to have committed the unfair labor practice.</section>
@@ -14,7 +14,7 @@
       <section prefix="(2)">The labor relations administrator shall hold a hearing and make findings of fact and conclusions of law.</section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">If the labor relations administrator finds that a party has committed an unfair labor practice, the labor relations administrator shall:<section prefix="(i)">order that party to cease and desist from the unfair labor practice; and</section><section prefix="(ii)">order all relief necessary to:</section></section>
+      <section prefix="(1)">If the labor relations administrator finds that a party has committed an unfair labor practice, the labor relations administrator shall:<section prefix="(i)">order that party to cease and desist from the unfair labor practice; and</section><section prefix="(ii)">order all relief necessary to:<section prefix="1.">remedy the violation of this subtitle; and</section><section prefix="2.">make whole any injured employee or party and restore the employee or party to the position or condition in which the employee or party would have been but for the violation.</section></section></section>
       <section prefix="(2)">Relief may include reinstatement, restitution, back pay, and injunctions.</section>
       <section prefix="(3)">Relief may not include attorney fees, punitive damages, consequential damages, or damages for pain, suffering, or emotional distress.</section>
     </section>

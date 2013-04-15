@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-208.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-208.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208.1</order_by>
   <text>
     <section prefix="(a)">Instead of pursuing criminal charges provided in this article, the Secretary may impose on any person who violates this title a civil penalty of:<section prefix="(1)">For a first violation, not more than $500;</section><section prefix="(2)">For a second violation, not more than $1,000; or</section><section prefix="(3)">For a third or subsequent violation, not more than $2,000.</section></section>
     <section prefix="(b)">Penalties collected by the Secretary under this section shall be paid into the General Fund of the State.</section>

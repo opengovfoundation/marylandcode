@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Each of the following officers, before he assumes the duties of his office, shall be covered by a bond for the faithful performance of the duties of his office:<section prefix="(1)">Clerk of any court;</section><section prefix="(2)">Commissioner; or</section><section prefix="(3)">Sheriff.</section></section>
     <section prefix="(b)">Each bond, except a sheriff's bond, shall be in a penalty prescribed by the Comptroller. The Comptroller may increase or decrease the amount of a bond at any time.</section>

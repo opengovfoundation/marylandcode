@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-404.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-404.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -26,7 +26,7 @@
         <section prefix="(iii)">Nothing contained in this paragraph limits the authority of the Administration to modify a suspension imposed under this paragraph to allow an individual to be a participant in accordance with subsection (e) or (o) of this section.</section>
       </section>
       <section prefix="(2)">
-        <section prefix="(i)">Notwithstanding subsection (c) of this section, an individual shall be a participant as a condition of modification of a suspension or revocation of a license or issuance of a restrictive license if the individual:</section>
+        <section prefix="(i)">Notwithstanding subsection (c) of this section, an individual shall be a participant as a condition of modification of a suspension or revocation of a license or issuance of a restrictive license if the individual:<section prefix="1.">Is required to be a participant by a court order under &#xA7; 27-107 of this article;</section><section prefix="2.">Is convicted of a violation of &#xA7; 21-902(a) or (b) of this article and within the preceding 5 years the individual has been convicted of any violation of &#xA7; 21-902 of this article; or</section><section prefix="3.">Was under the age of 21 years on the date of a violation by the individual of:</section></section>
         <section prefix="(ii)">If an individual is subject to this paragraph and the individual fails to participate in the Program or does not successfully complete the Program, the Administration shall suspend the individual's license for 1 year.</section>
         <section prefix="(iii)">Nothing contained in this paragraph limits the authority of the Administration to modify a suspension imposed under this paragraph to allow an individual to be a participant in accordance with subsection (e) or (o) of this section.</section>
       </section>
@@ -35,7 +35,7 @@
     </section>
     <section prefix="(e)">If an individual subject to subsection (c) or (d) of this section does not initially become a participant:<section prefix="(1)">The individual may apply later to the Administration to be a participant; and</section><section prefix="(2)">The Administration may reconsider any suspension or revocation of the driver's license of the individual arising out of the same circumstances and allow the individual to participate in the Program.</section></section>
     <section prefix="(f)">
-      <section prefix="(1)">The Administration may:<section prefix="(i)">Issue a restrictive license to an individual who is a participant in the Program during the suspension period as provided under &#xA7; 16-205 or &#xA7; 16-205.1 of this title or &#xA7; 16-404 of this subtitle;</section><section prefix="(ii)">Reinstate the driver's license of a participant whose license has been revoked for a violation of &#xA7; 21-902(a), (b), or (c) of this article or revoked for an accumulation of points under &#xA7; 16-402(a)(34) of this subtitle for a violation of &#xA7; 21-902(a) of this article; and</section><section prefix="(iii)">Notwithstanding any other provision of law, impose on a participant a period of suspension in accordance with &#xA7; 16-404(c)(2) and (3) of this subtitle in lieu of a license revocation for:</section></section>
+      <section prefix="(1)">The Administration may:<section prefix="(i)">Issue a restrictive license to an individual who is a participant in the Program during the suspension period as provided under &#xA7; 16-205 or &#xA7; 16-205.1 of this title or &#xA7; 16-404 of this subtitle;</section><section prefix="(ii)">Reinstate the driver's license of a participant whose license has been revoked for a violation of &#xA7; 21-902(a), (b), or (c) of this article or revoked for an accumulation of points under &#xA7; 16-402(a)(34) of this subtitle for a violation of &#xA7; 21-902(a) of this article; and</section><section prefix="(iii)">Notwithstanding any other provision of law, impose on a participant a period of suspension in accordance with &#xA7; 16-404(c)(2) and (3) of this subtitle in lieu of a license revocation for:<section prefix="1.">A violation of &#xA7; 21-902(a), (b), or (c) of this article; or</section><section prefix="2.">An accumulation of points under &#xA7; 16-402(a)(34) of this subtitle for a violation of &#xA7; 21-902(a) of this article.</section></section></section>
       <section prefix="(2)">A notice of suspension or revocation sent to an individual under this title shall include information about the Program and how individuals participate in the Program.</section>
       <section prefix="(3)">The Administration shall establish a fee for the Program that is sufficient to cover the costs of the Program.</section>
     </section>

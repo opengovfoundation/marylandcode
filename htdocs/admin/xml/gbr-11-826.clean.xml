@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-826" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-826</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>826</order_by>
   <text>
     <section prefix="(a)">All money bet at a satellite simulcast facility shall be included in the applicable mutuel pools at the sending track.</section>
     <section prefix="(b)">Except as provided in &#xA7; 11-827 of this part, the breakage, State tax, and takeout on all satellite simulcast betting shall be computed in the way normally applicable to pari-mutuel betting on a race at the sending track.</section>

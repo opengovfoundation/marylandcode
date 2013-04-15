@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-112" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-112</section_number>
-  <catch_line/>
+  <catch_line>A claim or plea of usury is not available against a legal or equitable assignee, endorsee, or transf...</catch_line>
+  <order_by>112</order_by>
   <text>A claim or plea of usury is not available against a legal or equitable assignee, endorsee, or transferee of any bond, draft, mortgage, deed of trust, security agreement, promissory note, or other instrument or evidence of indebtedness, if he receives it for a bona fide and legal consideration without notice of any usury in its creation or subsequent assignment.</text>
 </law>

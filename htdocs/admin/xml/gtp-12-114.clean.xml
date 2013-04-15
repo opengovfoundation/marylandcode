@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-114" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-12-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">In this section, "rental dwelling" means residential real property with accommodations for not more than 4 units that is held by the owner primarily for rental, investment, or the generation of income and is located in a targeted area designated by the governing body of Charles County under &#xA7; 9-310(c) of this article.</section>
     <section prefix="(b)">The governing body of Charles County may grant, by law, an exemption, in whole or in part, from the recordation tax imposed on an instrument of writing that transfers a rental dwelling in Charles County to an individual who will occupy the property as a principal residence.</section>

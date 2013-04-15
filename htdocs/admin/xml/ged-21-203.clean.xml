@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-203" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-21-203</section_number>
-  <catch_line/>
+  <catch_line>Career and technology programs in the public schools shall:...</catch_line>
+  <order_by>203</order_by>
   <text>Career and technology programs in the public schools shall:<section prefix=""><section prefix="(1)">Offer a sequence of academic and occupational courses, career development, and work experience to prepare students to begin careers and to pursue lifelong learning; and</section><section prefix="(2)">Integrate academic knowledge and occupational competence to enable students to develop the critical thinking, problem solving, employability, and technical skills required to meet the workforce preparation and economic development needs of the 21st century.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-611" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-611</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>611</order_by>
   <text>
     <section prefix="(a)">A person may not represent that another person sponsors, endorses, or approves of a charitable solicitation, the sale of goods or services for a charitable purpose, a charitable purpose, or a charitable organization without the consent of the other person.</section>
     <section prefix="(b)">A member of the board of directors or trustee of a charitable organization or a person who volunteers to participate in a charitable solicitation is deemed to have consented to the use of the person's name in the charitable solicitation.</section>

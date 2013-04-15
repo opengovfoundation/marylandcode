@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-3A-02" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-3A-02</section_number>
-  <catch_line/>
+  <catch_line>A person may not sell or dispense or offer to sell or dispense a tobacco product through a vending m...</catch_line>
+  <order_by>02</order_by>
   <text>A person may not sell or dispense or offer to sell or dispense a tobacco product through a vending machine in the State, unless the vending machine:<section prefix=""><section prefix="(1)">is located in an establishment that minors are prohibited by law from entering or an establishment that is a bona fide fraternal or veterans organization; or</section><section prefix="(2)">can only be operated with a token, card, or similar device that an individual can only obtain or purchase from the owner or an employee or agent of the owner.</section></section></text>
 </law>

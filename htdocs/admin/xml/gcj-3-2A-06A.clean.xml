@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-06A" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-2A-06A</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>06A</order_by>
   <text>
     <section prefix="(a)">At any time before the hearing of a claim with the Health Care Alternative Dispute Resolution Office, the parties may agree mutually to waive arbitration of the claim, and the provisions of this section then shall govern all further proceedings on the claim.</section>
     <section prefix="(b)">
@@ -22,7 +22,7 @@
     <section prefix="(f)">
       <section prefix="(1)">If the parties mutually agree to a neutral case evaluation, the circuit court or United States District Court, to which the case has been transferred after the waiver of arbitration, may refer the case to the Health Care Alternative Dispute Resolution Office not later than 6 months after a complaint is filed under subsection (c) of this section.</section>
       <section prefix="(2)">
-        <section prefix="(i)">On receipt of the case, the Director shall send to the parties a list of six attorneys who:</section>
+        <section prefix="(i)">On receipt of the case, the Director shall send to the parties a list of six attorneys who:<section prefix="1.">Meet the qualifications listed in &#xA7; 3-2A-03(c)(3) of this subtitle; and</section><section prefix="2.">Have tried at least three health care malpractice cases.</section></section>
         <section prefix="(ii)">Each party may strike two names from the list.</section>
         <section prefix="(iii)">If the claim is against more than one health care provider, whether directly by a claimant or as a result of a third-party claim, the health care providers claimed against shall be treated as a single party and shall exercise their strikes jointly.</section>
         <section prefix="(iv)">If there is more than one claimant, the claimants shall be treated as a single party and shall exercise their strikes jointly.</section>

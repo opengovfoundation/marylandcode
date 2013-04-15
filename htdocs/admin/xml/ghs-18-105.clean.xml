@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-105" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-18-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Subject to the power of the Board of County Commissioners under &#xA7; 18-104 of this title, the Queen Anne's Authority, in addition to the powers listed elsewhere in this Division II or any other law, may:<section prefix="(1)">make mortgage loans;</section><section prefix="(2)">make rent subsidy payments to or for persons of eligible income;</section><section prefix="(3)">make construction loans and long-term mortgage loans to a person to produce housing for persons of eligible income; or</section><section prefix="(4)">waive maximum income limits for persons 65 years of age or older.</section></section>
     <section prefix="(b)">The Queen Anne's Authority may sell its bonds at public or private sale in the manner and on the terms that it authorizes by resolution.</section>

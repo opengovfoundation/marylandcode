@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-513" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-513</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>513</order_by>
   <text>
     <section prefix="(a)">In accordance with subsection (b)(1) of this section, the Commissioner and Chief Executive Officer shall develop programs to provide inmates with occupational experience to complement personnel development plans of the State Department of Education and other units of State government serving inmates in the Division.</section>
     <section prefix="(b)">

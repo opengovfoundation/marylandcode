@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-5A-10" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-5A-10</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>10</order_by>
   <text>
     <section prefix="(a)">A party who wishes to file an appeal with the Board of Appeals shall do so within 15 days after notice of the decision of a hearing examiner was mailed to the party at the last known address of the party or otherwise was delivered to the party.</section>
     <section prefix="(b)">After a hearing examiner makes a final decision under &#xA7; 8-508 of this title:<section prefix="(1)">if the hearing examiner does not affirm the determination or redetermination of a claim, the Board of Appeals shall allow an appeal by either the Secretary, or a party entitled to notice of the decision, or both; and</section><section prefix="(2)">if the hearing examiner affirms the determination or redetermination of a claim, the Board of Appeals may allow an appeal by a party entitled to notice of the decision.</section></section>

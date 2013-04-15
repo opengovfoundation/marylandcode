@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-1009.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-1009.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1009.1</order_by>
   <text>
     <section prefix="(a)">The Department may adopt regulations which designate an area as a harvest reserve area for oysters.</section>
     <section prefix="(b)">Notwithstanding any other provision of law, by publishing public notice, the Department may establish for a harvest reserve area:<section prefix="(1)">The opening or closure of an area for the harvesting or conservation of oysters;</section><section prefix="(2)">The harvest limit;</section><section prefix="(3)">The seasons, days, and times when oysters may be harvested;</section><section prefix="(4)">A minimum size limit of not less than 3 inches; and</section><section prefix="(5)">A maximum size limit.</section></section>
     <section prefix="(c)">
-      <section prefix="(1)">An action of the Department under subsection (b) of this section may not become effective until:<section prefix="(i)">A copy of the notice to be published under item (ii) of this paragraph has been delivered to the Joint Committee on Administrative, Executive, and Legislative Review; and</section><section prefix="(ii)">48 hours after notice has been published:</section></section>
+      <section prefix="(1)">An action of the Department under subsection (b) of this section may not become effective until:<section prefix="(i)">A copy of the notice to be published under item (ii) of this paragraph has been delivered to the Joint Committee on Administrative, Executive, and Legislative Review; and</section><section prefix="(ii)">48 hours after notice has been published:<section prefix="1.">In at least one newspaper of general circulation in the State;</section><section prefix="2.">In at least one newspaper of general circulation in each county in which the affected waters are located; and</section><section prefix="3.">On the website of the Department.</section></section></section>
       <section prefix="(2)">The notice required under paragraph (1) of this subsection shall state all applicable reasons for the Department's action.</section>
     </section>
     <section prefix="(d)">The Department shall use the following biological criteria for the opening and closing of a harvest reserve area:<section prefix="(1)">Growth rates;</section><section prefix="(2)">Disease prevalence and intensity;</section><section prefix="(3)">Mortality thresholds; and</section><section prefix="(4)">Biomass thresholds.</section></section>

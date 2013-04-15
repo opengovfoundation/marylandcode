@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-308" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-1-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">There is a 9-1-1 Trust Fund.</section>
     <section prefix="(b)">The purposes of the 9-1-1 Trust Fund are to:<section prefix="(1)">reimburse counties for the cost of enhancing a 9-1-1 system;</section><section prefix="(2)">pay contractors in accordance with &#xA7; 1-306(b)(12) of this subtitle; and</section><section prefix="(3)">fund the coordinator position and staff to handle the increased duties related to wireless enhanced 9-1-1 service under &#xA7; 1-305 of this subtitle, as an administrative cost.</section></section>

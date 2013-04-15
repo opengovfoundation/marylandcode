@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-210" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-16-210</section_number>
-  <catch_line/>
+  <catch_line>A bond stating in substance that it has been issued by the Montgomery Commission to help finance a h...</catch_line>
+  <order_by>210</order_by>
   <text>A bond stating in substance that it has been issued by the Montgomery Commission to help finance a housing project for persons of eligible income shall be considered to have been issued for that purpose in a proceeding in which the validity or enforceability of the bond or the security for the bond is in question.</text>
 </law>

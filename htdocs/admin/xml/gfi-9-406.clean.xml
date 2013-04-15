@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-406" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">Except as required by subsection (b) of this section, a savings and loan association is not required to pay any dividend or interest on special purpose accounts such as "Christmas" or "vacation" accounts.</section>
     <section prefix="(b)">A savings and loan association shall pay at least 5 percent annual interest or dividend on savings accounts that are for:<section prefix="(1)">A period of 1 year or less; and</section><section prefix="(2)">A special purpose, such as "Christmas" or "vacation" accounts.</section></section>

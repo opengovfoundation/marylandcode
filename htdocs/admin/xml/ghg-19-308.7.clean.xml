@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-308.7" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-308.7</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308.7</order_by>
   <text>
     <section prefix="(a)">Unless it is medically inadvisable, each hospital shall allow a pregnant patient to arrange for the donation of the blood extracted from the umbilical cord of the patient's newborn child to a certified public cord blood bank.</section>
     <section prefix="(b)">A patient who agrees to donate cord blood to a public cord blood bank may not be charged for the costs of collecting, storing, or transporting the cord blood.</section>

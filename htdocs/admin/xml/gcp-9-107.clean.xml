@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-107" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-9-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">If the Governor decides that the demand should be complied with, the Governor shall sign a warrant of arrest. The warrant shall be sealed with the State seal and be directed to any law enforcement officer or other person whom the Governor may think fit to entrust with the execution thereof.</section>
     <section prefix="(b)">The warrant must substantially recite the facts necessary to the validity of its issuance.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-702" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-20-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">It is the policy of the State:<section prefix="(1)">to provide for fair housing throughout the State to all, regardless of race, color, religion, sex, familial status, national origin, marital status, sexual orientation, or disability; and</section><section prefix="(2)">to that end, to prohibit discriminatory practices with respect to residential housing by any person, in order to protect and insure the peace, health, safety, prosperity, and general welfare of all.</section></section>
     <section prefix="(b)">This subtitle:<section prefix="(1)">is an exercise of the police power of the State for the protection of the people of the State; and</section><section prefix="(2)">shall be administered and enforced by the Commission and, as provided in this title, enforced by the appropriate State court.</section></section>

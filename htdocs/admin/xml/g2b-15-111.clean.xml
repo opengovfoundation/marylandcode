@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-111" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-15-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">The provisions of this section do not apply to the following:<section prefix="(1)">Class E (steamboats);</section><section prefix="(2)">Class F (railroads); and</section><section prefix="(3)">Class G (airplanes).</section></section>
     <section prefix="(b)">The provisions of this section apply to Wicomico County.</section>

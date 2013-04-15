@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-610" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-610</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>610</order_by>
   <text>
     <section prefix="(a)">The Commission may award for any calendar year up to the number of racing days requested by an applicant.</section>
     <section prefix="(b)">The decision of the Commission on the award of a racing day is final.</section>

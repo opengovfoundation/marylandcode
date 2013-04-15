@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-204" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-5-204</section_number>
-  <catch_line/>
+  <catch_line>The Secretary shall:...</catch_line>
+  <order_by>204</order_by>
   <text>The Secretary shall:<section prefix=""><section prefix="(1)">administer the Program in compliance with all applicable State and federal laws governing equal employment opportunity;</section><section prefix="(2)">adopt regulations, policies, and directives to implement the Program;</section><section prefix="(3)">evaluate the equal employment efforts in each unit in the Program;</section><section prefix="(4)">take any action necessary and permitted by law to enforce this subtitle; and</section><section prefix="(5)">at least annually report on the Program to the Governor.</section></section></text>
 </law>

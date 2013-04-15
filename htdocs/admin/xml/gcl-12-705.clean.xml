@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-705" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-705</section_number>
-  <catch_line/>
+  <catch_line>Prohibited discriminatory practices include any:...</catch_line>
+  <order_by>705</order_by>
   <text>Prohibited discriminatory practices include any:<section prefix=""><section prefix="(1)">Refusal to consider both applicants' income when both parties of a marriage party apply for a joint account;</section><section prefix="(2)">Refusal to consider alimony or child support awarded by a court and received by the applicant as a valid source of income, where that source can be verified as to its amount, length of time received, and regularity of receipt;</section><section prefix="(3)">Refusal to extend credit to any person solely because of marital status or change in marital status;</section><section prefix="(4)">Refusal to issue separate accounts to married persons where each would be credit worthy if unmarried;</section><section prefix="(5)">Request for or consideration of the credit rating of an applicant's spouse where the applicant is otherwise credit worthy and is not applying for a joint account unless the applicant lists credit references in the name of spouse or former spouse or has no individual prior credit history or the creditor permits the applicant to designate the applicant's spouse as an authorized purchaser on the account;</section><section prefix="(6)">Refusal to recognize the legal name of any married person; and</section><section prefix="(7)">Requests for or consideration of information about birth control practices in evaluating any credit application.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-702" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">The Department shall ensure that publicly owned specialty hospitals pay an assessment that is comparable to any uniform assessments imposed by the Health Services Cost Review Commission on specialty hospitals under &#xA7; 19-214(d) of this article or under Section 16 of Chapter 397 (H.B. 72) of the Acts of the General Assembly of 2011.</section>
     <section prefix="(b)">Revenues generated from any assessments authorized under subsection (a) of this section shall be used for the general operations of the Medicaid program.</section>

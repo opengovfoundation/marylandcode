@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-103" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-14-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">Each year the Board of Regents:<section prefix="(1)">Shall elect one of its nonstudent members as its chairman; and</section><section prefix="(2)">May elect any other officer it requires.</section></section>
     <section prefix="(b)">The Board of Regents shall determine the time and place of its meetings and may adopt rules for the conduct of its meetings.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-307" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">The tax required under this section applies to property in the regional district in Montgomery County and Prince George's County.</section>
     <section prefix="(b)">The purpose of the tax required under this section is for paying the current operating or administrative expenses of the Commission, including the cost of:<section prefix="(1)">the development of any part of the plan of the regional district; and</section><section prefix="(2)">the exercise of the powers and duties of the Commission.</section></section>
@@ -19,7 +19,7 @@
     <section prefix="(f)">
       <section prefix="(1)">At least 30 days before the end of the fiscal year, the Commission shall certify and submit to the appropriate fiscal officers of the counties the unexpended balances from money received by the Commission from the tax imposed under this section.</section>
       <section prefix="(2)">
-        <section prefix="(i)">If the unexpended balance with respect to either county exceeds the sum of $100,000, that county may:</section>
+        <section prefix="(i)">If the unexpended balance with respect to either county exceeds the sum of $100,000, that county may:<section prefix="1.">deduct the excess from its estimate of the amount of money to be raised in the next succeeding fiscal year by the imposition of the tax imposed under this section; and</section><section prefix="2.">impose the tax for the next succeeding fiscal year at a rate that the county estimates will produce the amount calculated under item 1 of this subparagraph.</section></section>
         <section prefix="(ii)">The amount calculated under subparagraph (i)1 of this paragraph shall be the amount the county is obligated to pay the Commission for administration in that fiscal year under this section.</section>
       </section>
       <section prefix="(3)">On or before the 30th day of the month immediately before the beginning of the fiscal year, the Montgomery County Council and the Prince George's County Council shall set the rate of the tax as authorized under this section.</section>

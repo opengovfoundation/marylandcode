@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-255" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-255</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>255</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly make or cause to be made a false statement or report in a document required to be submitted to the Administration by an agreement relating to a loan.</section>
     <section prefix="(b)">A person applying for a loan may not knowingly make or cause to be made a false statement or report to influence the action of the Administration on a loan application or to influence an action of the Administration affecting a loan already made.</section>

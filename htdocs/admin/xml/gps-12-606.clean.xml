@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-606" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-606</section_number>
-  <catch_line/>
+  <catch_line>A person shall be certified by the State Fire Marshal as a nongovernmental electrical inspector befo...</catch_line>
+  <order_by>606</order_by>
   <text>A person shall be certified by the State Fire Marshal as a nongovernmental electrical inspector before the person inspects or certifies an electrical installation.</text>
 </law>

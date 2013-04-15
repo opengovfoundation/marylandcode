@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-401" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-401</section_number>
-  <catch_line/>
+  <catch_line>When the buyer is not in possession of the property, no recorded contract for the sale of the proper...</catch_line>
+  <order_by>401</order_by>
   <text>When the buyer is not in possession of the property, no recorded contract for the sale of the property is enforceable or constitutes an encumbrance of the title, as against persons other than the original parties, unless within five years after the date set out in the recorded contract for the delivery of the deed, an action or proceeding is commenced to enforce the contract. If no date for the delivery of the deed is designated in the recorded contract, any action or proceeding shall be commenced within five years after the date when, according to the terms of the recorded contract, the final payment or installment of the purchase price was required to be paid. The existence of a disability on the part of either party to the contract at the commencement of this five-year period does not operate to extend this five-year period.</text>
 </law>

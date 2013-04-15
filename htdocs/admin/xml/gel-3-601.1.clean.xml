@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-601.1" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-3-601.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601.1</order_by>
   <text>
     <section prefix="(a)">In this section, "clerical error" means an inadvertent mistake in a voter registration record made by an election official.</section>
     <section prefix="(b)">The State Administrator or an election director shall make the determination whether an error in a voter registration record is a clerical error.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-111" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-11-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">A person convicted of unlawfully obtaining property from a victim in violation of &#xA7; 8-801(b) of the Criminal Law Article shall be disqualified from inheriting, taking, enjoying, receiving, or otherwise benefitting from the estate, insurance proceeds, or property of the victim, to the extent provided in &#xA7; 8-801(e) of the Criminal Law Article.</section>
     <section prefix="(b)">A person disqualified from inheriting, taking, enjoying, receiving, or otherwise benefitting from the estate, insurance proceeds, or property of the victim in accordance with subsection (a) of this section shall be treated as if the person predeceased the victim.</section>

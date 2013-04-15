@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-406" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-11-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">A broker-dealer or investment adviser may obtain a renewal registration by filing with the Commissioner or any entity the Commissioner designates by rule or order an application containing whatever information the Commissioner by rule requires to keep current the information contained in the application for initial registration.</section>
     <section prefix="(b)">A broker-dealer or issuer may obtain a renewal registration for the agents associated with it by filing with the Commissioner or any entity the Commissioner designates by rule or order an application containing the names of the agents associated with it and a certification that, to the best knowledge, information, and belief of the broker-dealer or issuer:<section prefix="(1)">There has been no change in the information contained in the agents' applications for the registration then currently in effect; or</section><section prefix="(2)">If there has been any such change, specifying the change.</section></section>

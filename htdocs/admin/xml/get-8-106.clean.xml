@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-106" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-8-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">In this section, "funeral expenses" includes the costs of a funeral, a burial, a cremation, a disposition of the decedent's remains, a memorial, a memorial service, food and beverages related to bringing together the decedent's family and friends for a wake or prefuneral or postfuneral gathering or meal, and any other reasonable expenses authorized by the decedent's will.</section>
     <section prefix="(b)">Subject to the priorities contained in &#xA7; 8-105 of this subtitle, the personal representative shall pay the funeral expenses of the decedent within six months of the first appointment of a personal representative.</section>

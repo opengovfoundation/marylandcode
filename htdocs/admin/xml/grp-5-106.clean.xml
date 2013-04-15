@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-106" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-5-106</section_number>
-  <catch_line/>
+  <catch_line>Every assignment of any beneficial interest in a trust, the assets of which wholly or partially cons...</catch_line>
+  <order_by>106</order_by>
   <text>Every assignment of any beneficial interest in a trust, the assets of which wholly or partially consist of land, is void unless the assignment is:<section prefix=""><section prefix="(1)">In writing signed by the assignor or his agent lawfully authorized by writing; or</section><section prefix="(2)">By his last will in writing.</section></section></text>
 </law>

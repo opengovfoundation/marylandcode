@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-502" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Violations of the Escrow Act, an act concerning nonparticipating manufacturers and deposits of funds into escrow accounts, threaten the integrity of the tobacco Master Settlement Agreement, the fiscal soundness of the State, and the public health.</section>
     <section prefix="(b)">Enacting procedural enhancements will help prevent violations and aid the enforcement of the Escrow Act and thereby safeguard the Master Settlement Agreement, the fiscal soundness of the State, and the public health.</section>

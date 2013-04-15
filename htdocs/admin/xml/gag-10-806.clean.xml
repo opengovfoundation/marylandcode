@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-806" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-806</section_number>
-  <catch_line/>
+  <catch_line>The Secretary may enforce by injunction any provision of this subtitle, or any rule or regulation ad...</catch_line>
+  <order_by>806</order_by>
   <text>The Secretary may enforce by injunction any provision of this subtitle, or any rule or regulation adopted pursuant to it.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-602" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">The Commission does not have jurisdiction over the regulation of VoIP service, including the imposition of regulatory fees, certification requirements, and the filing or approval of tariffs.</section>
     <section prefix="(b)">Nothing in this subtitle may be construed to:<section prefix="(1)">require or prohibit the assessment of 9-1-1 fees in accordance with &#xA7; 1-310 of the Public Safety Article on VoIP;</section><section prefix="(2)">require or prohibit the assessment of fees for telecommunications relay service under Title 3, Subtitle 8 of the State Finance and Procurement Article;</section><section prefix="(3)">require or prohibit the payment of any switched network access rates or other intercarrier compensation rates that may be determined to apply;</section><section prefix="(4)">relieve a company that is otherwise subject to &#xA7; 8-201 of this title of its obligation to provide telephone lifeline service over local exchange access lines that are subject to the Commission's jurisdiction;</section><section prefix="(5)">exempt VoIP service from generally applicable State and federal laws relating to public safety, consumer protection, and unfair and deceptive trade practices, or to exempt VoIP service from the authority of the Division of Consumer Protection in the Office of the Attorney General; or</section><section prefix="(6)">remove the Commission's jurisdiction over circuit switched local exchange access service.</section></section>

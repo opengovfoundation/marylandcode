@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-607" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-11-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">When an applicant for a license files the application and pays the fees required by &#xA7; 11-604 of this subtitle, the Commissioner shall conduct an investigation to determine if the applicant meets the requirements of &#xA7; 11-605 of this subtitle.</section>
     <section prefix="(b)">The Commissioner shall issue a license to an applicant who meets the requirements of &#xA7; 11-605 of this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-1303" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-1303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1303</order_by>
   <text>
     <section prefix="(a)">Any county, municipal corporation, or nonprofit organization sponsoring a project involving work specified in &#xA7; 24-1302 of this subtitle may apply to the Secretary for a State grant to be applied toward the cost of that project.</section>
     <section prefix="(b)">The application for a grant shall include:<section prefix="(1)">Project plans for the work to be carried out;</section><section prefix="(2)">A statement listing the personnel employed or to be employed at the federally qualified health center, including all remuneration and perquisites for personal services and all other expenses paid or to be paid to the personnel;</section><section prefix="(3)">All other expenses incurred or to be incurred in operating the federally qualified health center; and</section><section prefix="(4)">The schedule of rates charged or to be charged for services rendered.</section></section>

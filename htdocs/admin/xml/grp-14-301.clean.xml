@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-301" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated unless the context requires otherwise.</section>
     <section prefix="(b)">"Broker" means:<section prefix="(1)">An individual licensed as, or otherwise authorized to act as, a real estate broker under Title 17 of the Business Occupations and Professions Article; or</section><section prefix="(2)">A corporation or partnership authorized to provide real estate brokerage services under Title 17 of the Business Occupations and Professions Article.</section></section>

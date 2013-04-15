@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-808" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-808</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>808</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, if an individual required to file an income tax return is unable to do so, an authorized agent of the individual shall file the return.</section>
     <section prefix="(b)">

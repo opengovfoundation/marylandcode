@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-311" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-311</section_number>
-  <catch_line/>
+  <catch_line>The purposes of the Fund are to:...</catch_line>
+  <order_by>311</order_by>
   <text>The purposes of the Fund are to:<section prefix=""><section prefix="(1)">expand employment opportunities in the State by providing financial assistance to businesses that are engaged in eligible industry sectors, including financial assistance for:<section prefix="(i)">aquaculture projects;</section><section prefix="(ii)">arts and entertainment enterprises;</section><section prefix="(iii)">arts and entertainment projects; and</section><section prefix="(iv)">creation and expansion of child care facilities;</section></section><section prefix="(2)">provide financial assistance for the redevelopment of qualified brownfields sites;</section><section prefix="(3)">provide financial assistance to local governments and the Corporation for economic development projects; and</section><section prefix="(4)">provide grants to local economic development funds.</section></section></text>
 </law>

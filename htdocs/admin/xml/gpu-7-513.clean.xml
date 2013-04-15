@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-513" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-513</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>513</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In accordance with this subsection, an electric company shall be provided a fair opportunity to recover all of its prudently incurred and verifiable net transition costs, subject to full mitigation, following the Commission's determination under subsection (b) of this section.</section>
@@ -14,7 +14,7 @@
         <section prefix="(i)">The competitive transition charge may be included on bills to customers for a period determined by the Commission.</section>
         <section prefix="(ii)">The Commission may establish recovery periods of different lengths for each electric company and for different categories of transition costs.</section>
       </section>
-      <section prefix="(4)">A competitive transition charge, or other appropriate mechanism determined by the Commission, may not apply to any on-site generated electricity to the extent of:<section prefix="(i)">the existing facilities' installed generating capacity as of January 1, 1999;</section><section prefix="(ii)">the generating capacity of an existing facility to be installed under a legally binding contract:</section><section prefix="(iii)">for a facility with a capacity of 500 kilowatts or less:</section></section>
+      <section prefix="(4)">A competitive transition charge, or other appropriate mechanism determined by the Commission, may not apply to any on-site generated electricity to the extent of:<section prefix="(i)">the existing facilities' installed generating capacity as of January 1, 1999;</section><section prefix="(ii)">the generating capacity of an existing facility to be installed under a legally binding contract:<section prefix="1.">executed on or before January 1, 1999; or</section><section prefix="2.">executed on or before September 29, 1999, if the Commission, on a case by case review of the evidence, determines that negotiations in good faith concerning the contract were ongoing as of January 1, 1999; or</section></section><section prefix="(iii)">for a facility with a capacity of 500 kilowatts or less:<section prefix="1.">the first 80 megawatts of the aggregate statewide generating capacity of on-site generating facilities;</section><section prefix="2.">the generating capacity of the facility if the facility:</section><section prefix="3.">the generating capacity of the facility if the facility:</section></section></section>
     </section>
     <section prefix="(b)">The Commission shall determine the transition costs and the amounts of the transition costs that an electric company shall be provided an opportunity to recover under its restructuring plan through the competitive transition charge or other appropriate mechanism.</section>
     <section prefix="(c)">
@@ -26,7 +26,7 @@
       <section prefix="(2)">Nothing in this subtitle may be construed as preventing the Commission from approving for an investor-owned electric company:<section prefix="(i)">an adjustment mechanism proposed by the investor-owned electric company in its initial restructuring proposal filed prior to January 1, 1999, that takes into account differences other than differences in kilowatt-hour sales, taking into consideration any requirements related to any transition bonds;</section><section prefix="(ii)">an adjustment that takes into account generation asset sales by an electric company or an affiliate to a nonaffiliate that are consummated on or before June 30, 2005; or</section><section prefix="(iii)">any other mechanism as part of a settlement.</section></section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">In determining the appropriate transition costs or benefits for each electric company's generation-related assets, the Commission shall:<section prefix="(i)">conduct public hearings; and</section><section prefix="(ii)">consider, in addition to other appropriate evidence of value:</section></section>
+      <section prefix="(1)">In determining the appropriate transition costs or benefits for each electric company's generation-related assets, the Commission shall:<section prefix="(i)">conduct public hearings; and</section><section prefix="(ii)">consider, in addition to other appropriate evidence of value:<section prefix="1.">book value and fair market value;</section><section prefix="2.">auctions and sales of comparable assets;</section><section prefix="3.">appraisals;</section><section prefix="4.">the revenue the company would receive under rate-of-return regulation;</section><section prefix="5.">the revenue the company would receive in a restructured electricity supply market; and</section><section prefix="6.">computer simulations provided to the Commission.</section></section></section>
       <section prefix="(2)">The Commission shall determine any equitable allocation of costs or benefits between shareholders and ratepayers. In determining the allocation of transition costs or benefits, the Commission shall consider the following factors:<section prefix="(i)">the prudence and verifiability of the original investment;</section><section prefix="(ii)">whether the investment continues to be used and useful;</section><section prefix="(iii)">whether the loss is one of which investors can be said to have reasonably borne the risk; and</section><section prefix="(iv)">whether investors have already been compensated for the risk.</section></section>
     </section>
     <section prefix="(f)">This section does not apply to rate stabilization costs established or qualified rate orders issued under Part III or Part IV of this subtitle.</section>

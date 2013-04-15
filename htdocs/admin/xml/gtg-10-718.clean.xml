@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-718" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-718</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>718</order_by>
   <text>
     <section prefix="(a)">In this section, "eligible long-term care premiums" means eligible long-term care premiums within the meaning of &#xA7; 213(d)(10) of the Internal Revenue Code for a long-term care insurance contract covering an individual who is a Maryland resident.</section>
     <section prefix="(b)">An individual may claim a credit against the State income tax in an amount equal to 100% of the eligible long-term care premiums paid by the individual during the taxable year for long-term care insurance covering the individual or the individual's spouse, parent, stepparent, child, or stepchild.</section>

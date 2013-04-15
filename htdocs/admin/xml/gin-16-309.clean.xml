@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-309" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">This section applies to policies of life insurance issued:<section prefix="(1)">on or after January 1, 1989; or</section><section prefix="(2)">on or after an operative date that is before January 1, 1989, as specified by the insurer if the insurer filed with the Commissioner written notice of an election to comply with this section on a date before January 1, 1989.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">For purposes of this section, the date of issue of a policy is the date as of which the rated age of the insured is determined.</section>
-      <section prefix="(2)">Except as provided in subsection (g) of this section, and subject to paragraph (3) of this subsection, the adjusted premiums for a policy shall be calculated on an annual basis and shall be a uniform percentage of the premiums specified in the policy for each policy year so that the present value of the adjusted premiums shall equal the sum of:<section prefix="(i)">the present value of the future guaranteed benefits, calculated as of the date of issue, provided by the policy;</section><section prefix="(ii)">1% of either:</section><section prefix="(iii)">subject to paragraphs (4) and (5) of this subsection, 125% of the nonforfeiture net level premium.</section></section>
+      <section prefix="(2)">Except as provided in subsection (g) of this section, and subject to paragraph (3) of this subsection, the adjusted premiums for a policy shall be calculated on an annual basis and shall be a uniform percentage of the premiums specified in the policy for each policy year so that the present value of the adjusted premiums shall equal the sum of:<section prefix="(i)">the present value of the future guaranteed benefits, calculated as of the date of issue, provided by the policy;</section><section prefix="(ii)">1% of either:<section prefix="1.">the amount of insurance if the insurance is a uniform amount; or</section><section prefix="2.">the average amount of insurance at the beginning of each of the first 10 policy years; and</section></section><section prefix="(iii)">subject to paragraphs (4) and (5) of this subsection, 125% of the nonforfeiture net level premium.</section></section>
       <section prefix="(3)">In calculating adjusted premiums, any extra premium for impairments or special hazards or any uniform annual contract charge or policy fee specified in the policy in a statement of the method used to calculate cash surrender values and paid-up nonforfeiture benefits is excluded.</section>
       <section prefix="(4)">The nonforfeiture net level premium shall equal the present value of the guaranteed benefits, calculated as of the date of issue, provided by the policy divided by the present value of an annuity of 1 per year, calculated as of the date of issue, payable on the date of issue of the policy and on each anniversary on which a premium is due.</section>
       <section prefix="(5)">In applying the percentage specified in paragraph (2)(iii) of this subsection, a nonforfeiture net level premium may not be considered to exceed 4% of:<section prefix="(i)">the amount of insurance if the insurance is a uniform amount; or</section><section prefix="(ii)">the average amount of insurance at the beginning of each of the first 10 policy years.</section></section>
@@ -31,7 +31,7 @@
     </section>
     <section prefix="(h)">
       <section prefix="(1)">
-        <section prefix="(i)">For policies of ordinary life insurance, the adjusted premiums and present values referred to in this subtitle shall be calculated based on:</section>
+        <section prefix="(i)">For policies of ordinary life insurance, the adjusted premiums and present values referred to in this subtitle shall be calculated based on:<section prefix="1.">the Commissioners 1980 Standard Ordinary Mortality Table; or</section><section prefix="2.">at the election of the insurer for one or more specified life insurance plans, the Commissioners 1980 Standard Ordinary Mortality Table with 10-year select mortality factors.</section></section>
         <section prefix="(ii)">For policies of industrial life insurance, the adjusted premiums and present values referred to in this subtitle shall be calculated based on the Commissioners 1961 Standard Industrial Mortality Table.</section>
       </section>
       <section prefix="(2)">Adjusted premiums and present values for policies issued in any calendar year shall be calculated based on an interest rate that does not exceed the nonforfeiture interest rate calculated under this section:<section prefix="(i)">for that calendar year; or</section><section prefix="(ii)">at the option of the insurer, for the immediately preceding calendar year.</section></section>

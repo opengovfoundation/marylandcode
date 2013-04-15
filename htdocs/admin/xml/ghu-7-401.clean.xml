@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-401" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-7-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Attendant care services" means any of the following services for an eligible individual, which are certified as necessary by an attending physician or by a registered nurse:<section prefix="(1)">dressing;</section><section prefix="(2)">preparing food and assisting with eating;</section><section prefix="(3)">bathing and personal hygiene;</section><section prefix="(4)">assisting with routine bodily functions, including bowel and urinary care;</section><section prefix="(5)">moving into, out of, or turning in bed;</section><section prefix="(6)">laundering and other clothing care; and</section><section prefix="(7)">cleaning house and performing other services of daily care, including shopping and transportation, that the Department and the eligible individual request.</section></section>

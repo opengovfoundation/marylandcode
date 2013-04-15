@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-815" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-815</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>815</order_by>
   <text>
     <section prefix="(a)">A claim under this subtitle is subject to the applicable provisions of the Administrative Procedure Act.</section>
     <section prefix="(b)">If a claimant requests a hearing after the Board has issued proposed findings of fact, conclusions of law, or orders, the Board shall hold a hearing in accordance with the applicable provisions of the Administrative Procedure Act before the Board issues final findings of fact, conclusions of law, or orders.</section>

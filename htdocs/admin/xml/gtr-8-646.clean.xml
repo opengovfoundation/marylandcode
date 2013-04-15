@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-646" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-646</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>646</order_by>
   <text>
     <section prefix="(a)">Except as permitted by this section or in accordance with a permit obtained from the Administration, a person may not:<section prefix="(1)">Make an opening in any State highway;</section><section prefix="(2)">Place any structure on any State highway;</section><section prefix="(3)">Change or renew any structure placed on any State highway;</section><section prefix="(4)">Dig up any State highway for any purpose, including the placement of pipes, sewers, poles, wires, or rails;</section><section prefix="(5)">Plant or remove any tree on any State highway; or</section><section prefix="(6)">Place any obstruction or improvement on any State highway.</section></section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
       <section prefix="(3)">The person to whom the permit is issued or by whom the work is done shall pay the cost of replacing the highway in as good a condition as before the work was done.</section>
       <section prefix="(4)">
         <section prefix="(i)">The Administration shall require a nongovernment applicant for a permit issued under this subsection who is a developer to submit a performance bond, letter of credit, or other surety acceptable to the Administration.</section>
-        <section prefix="(ii)">The Administration shall require a nongovernment applicant for a permit issued under this subsection to submit a payment bond, letter of credit, or other surety acceptable to the Administration if:</section>
+        <section prefix="(ii)">The Administration shall require a nongovernment applicant for a permit issued under this subsection to submit a payment bond, letter of credit, or other surety acceptable to the Administration if:<section prefix="1.">The amount of the improvement is estimated to exceed $100,000;</section><section prefix="2.">The project is financed, in whole or in part, by private funds; and</section><section prefix="3.">The entire improvement is located outside the applicant's property.</section></section>
       </section>
     </section>
     <section prefix="(c)">The Administration may apply to the circuit court in the subdivision in which the violation occurred or is threatened for appropriate injunctive relief.</section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-110" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-13-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">Each form for a policy, certificate of insurance, notice of proposed insurance, application for insurance, endorsement, or rider delivered or issued for delivery in the State and each related schedule of premium rates shall be filed with the Commissioner for approval.</section>
     <section prefix="(b)">
-      <section prefix="(1)">Within 60 days after a form or premium rate described in subsection (a) of this section is filed, the Commissioner shall disapprove the filing if:<section prefix="(i)">the table of premium rates appears by reasonable assumptions to be excessive in relation to benefits; or</section><section prefix="(ii)">the form contains provisions that:</section></section>
+      <section prefix="(1)">Within 60 days after a form or premium rate described in subsection (a) of this section is filed, the Commissioner shall disapprove the filing if:<section prefix="(i)">the table of premium rates appears by reasonable assumptions to be excessive in relation to benefits; or</section><section prefix="(ii)">the form contains provisions that:<section prefix="1.">are unjust, unfair, inequitable, misleading, or deceptive;</section><section prefix="2.">encourage misrepresentation of the coverage; or</section><section prefix="3.">are contrary to a provision of this article or a regulation adopted under this article.</section></section></section>
       <section prefix="(2)">In making a determination under paragraph (1) of this subsection, the Commissioner shall consider:<section prefix="(i)">past and prospective loss experience within and outside the State;</section><section prefix="(ii)">underwriting practice and judgment to the extent appropriate;</section><section prefix="(iii)">a reasonable margin for underwriting profit and contingencies;</section><section prefix="(iv)">past and prospective expenses, whether countrywide or specially applicable to the State; and</section><section prefix="(v)">all other relevant factors within and outside the State.</section></section>
       <section prefix="(3)">If the Commissioner disapproves a form or premium rate, the Commissioner shall:<section prefix="(i)">notify the insurer of the disapproval and specify in the notice the reason for disapproval; and</section><section prefix="(ii)">state that a hearing on the disapproval will be held within 20 days after receipt of a written request by the insurer.</section></section>
       <section prefix="(4)">After notification of disapproval, an insurer may not issue or use the disapproved form or premium rate.</section>

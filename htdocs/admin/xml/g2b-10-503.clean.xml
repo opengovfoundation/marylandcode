@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-503" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-10-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "board" means the board of license commissioners or liquor control board, as the case may be, of the county or Baltimore City.</section>
@@ -75,7 +75,7 @@
         <section prefix="(ii)">The Board shall adopt regulations for preserving the confidentiality of the police records secured under this subsection.</section>
       </section>
       <section prefix="(4)">If an alcoholic beverages license is to be transferred to a different location, the Board shall consider the existing need for that class of license at the proposed new location.</section>
-      <section prefix="(5)">A transfer of any license may not be made as authorized in subsection (a) of this section unless there is presented to the Board:<section prefix="(i)">A certification from the Office of the County Supervisor of Assessments showing the value of the merchandise, fixtures, and stock-in-trade for the business for which the application is made for the calendar year next preceding the year the license is to be issued.</section><section prefix="(ii)">A certification from the Treasurer of the county showing that there are no unpaid taxes due from the transferor or assignor to the:</section></section>
+      <section prefix="(5)">A transfer of any license may not be made as authorized in subsection (a) of this section unless there is presented to the Board:<section prefix="(i)">A certification from the Office of the County Supervisor of Assessments showing the value of the merchandise, fixtures, and stock-in-trade for the business for which the application is made for the calendar year next preceding the year the license is to be issued.</section><section prefix="(ii)">A certification from the Treasurer of the county showing that there are no unpaid taxes due from the transferor or assignor to the:<section prefix="1.">County, incorporated city, or place where the licensed premises is to be located; and</section><section prefix="2.">County or State of Maryland on the merchandise, fixtures, and stock-in-trade where the licensed premises is to be located.</section></section></section>
       <section prefix="(6)">Except by way of renewal, an alcoholic beverages license of any class may not be transferred or issued to any business establishment of the type known as chain stores, supermarkets, discount houses, or their franchisors or franchisees, or concessionaires of any kind.</section>
     </section>
     <section prefix="(k)">The provisions of subsection (a) of this section apply in Dorchester County.</section>
@@ -91,8 +91,12 @@
       <section prefix="(1)">This subsection applies only in Harford County.</section>
       <section prefix="(2)">The Board:<section prefix="(i)">May not transfer the location or ownership of any alcoholic beverages license of any class for the use in a business that is intended to be operated as a drive-through purchase facility where alcoholic beverages are to be sold at retail and dispensed through a window or door to a purchaser in or on a motor vehicle for off-premises consumption; or</section><section prefix="(ii)">May not transfer the location or ownership of any off-sale alcoholic beverages license of any class with the privilege of operating the premises as a drive-through purchase facility.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">The Board shall transfer an alcoholic beverages license that is issued for use in a business if:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">The Board shall transfer an alcoholic beverages license that is issued for use in a business if:<section prefix="1.">The business is sold to a different owner; and</section><section prefix="2.">The new owner qualifies as a licensee under this article.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">The Board may set a charge for the transfer of a license under this paragraph, which may not exceed the administration cost for processing the transfer.</section>
+          <section prefix="2.">If a license is transferred under this paragraph before its expiration date, the Board shall permit the transferee to operate under the license until the license expiration date without additional charge except for the charge provided for under item 1 of this subparagraph.</section>
+          <section prefix="3.">If a license is transferred under this paragraph on its expiration date, the charge for the transfer is the same as the fee for the issuance of the license.</section>
+        </section>
       </section>
     </section>
     <section prefix="(o)">
@@ -109,7 +113,7 @@
       </section>
       <section prefix="(3)">The fee for assignment or transfer of a license is $500.</section>
       <section prefix="(4)">
-        <section prefix="(i)">If a transfer is authorized under paragraph (2) of this subsection, a transfer of a license may not be approved or issued for transfer from one location to another unless the Board first determines that:</section>
+        <section prefix="(i)">If a transfer is authorized under paragraph (2) of this subsection, a transfer of a license may not be approved or issued for transfer from one location to another unless the Board first determines that:<section prefix="1.">The transfer to the proposed new location is necessary for the accommodation of the public; and</section><section prefix="2.">The assignee or transferee has complied with the residency requirements specified in &#xA7; 9-101 of this article.</section></section>
         <section prefix="(ii)">A transfer of location or ownership may not be approved when a transfer of location has been authorized for a license within 2 years except at the discretion of the Board. This provision may not be construed to bar or prohibit a transfer of ownership for continuance of a business in the same location, unless there has been a transfer of location for the license within 2 years. Notwithstanding any other provisions of this section, a receiver or trustee for the benefit of creditors of a licensee, within 6 months of appointment as the receiver or trustee or within 6 months of the death of the license holder, may transfer ownership and location of a license, subject to the approval of the Board.</section>
       </section>
       <section prefix="(5)">The Board may not transfer any class of alcoholic beverages license for use in a business establishment with a commercial fuel pump located on the premises that is used by the general public for the purchase of fuel.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-711" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-8-711</section_number>
-  <catch_line/>
+  <catch_line>A licensing agency may deny a license to:...</catch_line>
+  <order_by>711</order_by>
   <text>A licensing agency may deny a license to:<section prefix=""><section prefix="(1)">a corporation or entity that has had a license revoked by a licensing agency within the previous 10 years; or</section><section prefix="(2)">a corporation or entity that has a corporate officer who has served as a corporate officer for a corporation or entity that has had a license revoked by a licensing agency within the previous 10 years.</section></section></text>
 </law>

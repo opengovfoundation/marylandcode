@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-803" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-16-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">A person may not remove, deface, or destroy equipment or supplies placed in a polling place by election officials during an election.</section>
     <section prefix="(b)">A person who violates this section is guilty of a felony and is subject to a fine of not more than $10,000 or imprisonment for not more than 3 years or both.</section>

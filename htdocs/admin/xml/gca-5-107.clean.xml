@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-107" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a professional corporation in which a majority of stockholders are physicians licensed by the State Board of Physicians.</section>
     <section prefix="(b)">The name of a domestic professional corporation or a foreign professional corporation authorized to transact business in the State shall contain the surname of one or more stockholders of the corporation unless:<section prefix="(1)">The name of the corporation is approved by the appropriate licensing unit;</section><section prefix="(2)">A certificate of authorization for use of the corporate name is issued to the corporation or to its incorporator by the appropriate licensing unit; and</section><section prefix="(3)">The certificate of authorization for use of the corporate name issued by the licensing unit is attached to the articles of incorporation document in which the name is adopted.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-206" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-206</section_number>
-  <catch_line/>
+  <catch_line>A person shall have the immunity from liability described under &#xA7; 5-720 of the Courts and Judicial ...</catch_line>
+  <order_by>206</order_by>
   <text>A person shall have the immunity from liability described under &#xA7; 5-720 of the Courts and Judicial Proceedings Article for giving information to the Director or otherwise participating in the activities of the Office.</text>
 </law>

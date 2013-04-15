@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-702" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">There is a Vehicle Theft Prevention Council in the Department.</section>
       <section prefix="(2)">The purpose of the Council is to help prevent and deter theft of private passenger and commercial motor vehicles and related crime, including vandalism and theft of property from vehicles, in the State.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">The Council consists of the following 13 members appointed by the Governor:<section prefix="(i)">as ex officio members of the Council:</section><section prefix="(ii)">nine regular members.</section></section>
+      <section prefix="(1)">The Council consists of the following 13 members appointed by the Governor:<section prefix="(i)">as ex officio members of the Council:<section prefix="1.">the Secretary or a designee;</section><section prefix="2.">the Secretary of Juvenile Services or a designee;</section><section prefix="3.">the Secretary of Public Safety and Correctional Services or a designee; and</section><section prefix="4.">the Motor Vehicle Administrator of the Motor Vehicle Administration; and</section></section><section prefix="(ii)">nine regular members.</section></section>
       <section prefix="(2)">Of the nine regular members:<section prefix="(i)">one member shall represent a local law enforcement agency;</section><section prefix="(ii)">one member shall represent a State's Attorney's office in the State;</section><section prefix="(iii)">one member shall represent a domestic insurer that issues private passenger automobile or commercial motor vehicle liability insurance in the State;</section><section prefix="(iv)">one member shall represent a foreign insurer that issues private passenger automobile or commercial motor vehicle liability insurance in the State;</section><section prefix="(v)">one member shall represent the Governor's Office;</section><section prefix="(vi)">one member shall represent the National Insurance Crime Bureau or a similar organization; and</section><section prefix="(vii)">three members shall represent the public, including one member who represents a neighborhood or community association.</section></section>
     </section>
     <section prefix="(c)">

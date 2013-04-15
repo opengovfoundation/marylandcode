@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-206" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-2-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">The Board shall make recommendations to the Secretary on the operation and administration of the Department as the Board considers necessary or desirable.</section>
     <section prefix="(b)">If an advisory board for the Department is not created, the Board shall advise the Secretary on all matters affecting the Department that the Secretary submits to the Board for its consideration.</section>

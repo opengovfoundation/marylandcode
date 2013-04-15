@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-1306" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-1306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1306</order_by>
   <text>
     <section prefix="(a)">The State may recover from either the transferor or transferee or, in the case of a property that has ceased to be a federally qualified health center, from the owner, an amount bearing the same ratio to the then current value of so much of the property as constituted an approved project as the amount of the State participation bore to the total eligible cost of the approved project, together with all costs and reasonable attorneys' fees incurred by the State in the recovery proceedings, if, within 30 years after completion of a project, a property for which funds have been paid under this subtitle:<section prefix="(1)">Is sold or transferred to any person, agency, or organization that would not qualify as an applicant under this subtitle, or that is not approved as a transferee by the Board of Public Works; or</section><section prefix="(2)">Ceases to be a federally qualified health center as defined in this subtitle.</section></section>
     <section prefix="(b)">
@@ -15,12 +15,12 @@
     <section prefix="(c)">
       <section prefix="(1)">
         <section prefix="(i)">The Secretary of the Board of Public Works may file a civil complaint under subsection (b) of this section, in the circuit court for the county or Baltimore City where the property is located, against the owner of the property and any other interested parties, including any transferor that the State wishes to make a party.</section>
-        <section prefix="(ii)">The complaint shall be filed with:</section>
+        <section prefix="(ii)">The complaint shall be filed with:<section prefix="1.">Sworn affidavits stating facts on which the allegations of default are based; and</section><section prefix="2.">A detailed justification of the amount claimed.</section></section>
       </section>
       <section prefix="(2)">If the circuit court determines from the State's initial filing that a default has occurred, pending full determination of the State's claim, the court shall authorize a temporary lien on the property:<section prefix="(i)">In the amount of the State's complaint plus any additional amount estimated to be necessary to cover the costs and reasonable attorneys' fees incurred by the State; or</section><section prefix="(ii)">In other amounts that the court determines to be reasonable.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">A temporary lien shall take effect:</section>
-        <section prefix="(ii)">While the temporary lien is in effect, neither the owner nor any person who acquired an interest in the property after the State first made funds available in connection with the property may, without the prior written consent of the State:</section>
+        <section prefix="(i)">A temporary lien shall take effect:<section prefix="1.">On the date of the court's authorization, if the Secretary of the Board of Public Works records a notice of temporary lien in the land records of the county or Baltimore City where the property is located within 10 days after the court's authorization; or</section><section prefix="2.">On the date a notice of temporary lien is recorded.</section></section>
+        <section prefix="(ii)">While the temporary lien is in effect, neither the owner nor any person who acquired an interest in the property after the State first made funds available in connection with the property may, without the prior written consent of the State:<section prefix="1.">Take any action that would affect the title to the property; or</section><section prefix="2.">Institute any proceedings to enforce a security interest or other similar rights in the property.</section></section>
       </section>
       <section prefix="(4)">
         <section prefix="(i)">The owner of the property or any other interested party may obtain release of a temporary lien at any time by filing with the court a bond securing the payment in full of the State's claim and any additional amount necessary to cover the costs and reasonable attorneys' fees incurred by the State.</section>
@@ -35,8 +35,14 @@
       </section>
       <section prefix="(2)">
         <section prefix="(i)">Except as the State may otherwise provide by a written subordination agreement, if the amount of the final judgment remains unpaid after 30 days following the court's final order, the final judgment shall constitute a lien on the property, superior to the lien or other interest of a mortgagee, pledgee, purchaser, or judgment creditor whose interest became perfected against third persons after the State first made funds available under this subtitle.</section>
-        <section prefix="(ii)"/>
-        <section prefix="(iii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Except as provided in subsubparagraph 2 of this subparagraph, a lien takes effect on the date a notice of lien is recorded.</section>
+          <section prefix="2.">A lien takes effect on the 31st day following the court's final order if the Secretary of the Board of Public Works records a notice of lien in the land records of the county or Baltimore City where the property is located on or before the 41st day following the final order.</section>
+        </section>
+        <section prefix="(iii)">
+          <section prefix="1.">At the time that a lien takes effect, any temporary lien then in effect shall be automatically and fully released.</section>
+          <section prefix="2.">The recorded notice of a lien shall constitute notice of the release of a temporary lien.</section>
+        </section>
         <section prefix="(iv)">A lien imposed under this subsection may be enforced and foreclosed in accordance with the procedures prescribed in the Maryland Rules, except that neither the State nor any agent appointed by the State to sell the property need file a bond.</section>
       </section>
       <section prefix="(3)">

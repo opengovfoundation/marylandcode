@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-205" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-4-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Each year the Board shall elect a chair, five vice chairs, and a secretary-treasurer from among its members.</section>
     <section prefix="(b)">Of the five vice chairs, there shall be one representative each from the lodging, food service, transportation, retail, and amusements and attractions sectors.</section>

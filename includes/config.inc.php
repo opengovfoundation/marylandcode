@@ -77,7 +77,7 @@ define('INCLUDES_REPEALED', TRUE);
 /*
  * The DSN to connect to MySQL.
  */
-define('MYSQL_DSN', 'mysql://user:password@host/database');
+define('MYSQL_DSN', 'mysql://root:birk1954@localhost/statedecoded');
 
 /*
  * Specify the structural identifier ancestry for the unit of the code that contains definitions of
@@ -93,7 +93,7 @@ define('GLOBAL_DEFINITIONS', '');
  * Create a list of the hiearchy of the code, from the top container to the name of an individual
  * law.
  */
-define('STRUCTURE', 'title,chapter,section');
+define('STRUCTURE', 'article,section');
 
 /*
  * Define the PCRE that identifies section references. It is best to do so without using the section
@@ -106,7 +106,7 @@ define('SECTION_PCRE', '/([[0-9]{1,})([0-9A-Za-z\-\.]{0,3})-([0-9A-Za-z\-\.:]*)(
  * For example, if the PCRE is broken up like (title)(title)-(part)-(section)(section), then list
  * "title,title,part,section,section".
  */
-define('SECTION_PCRE_STRUCTURE','title,title,section,section');
+define('SECTION_PCRE_STRUCTURE','article,section');
 
 /*
  * The path, relative to the webroot, to an error page to be displayed if the database connection is

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-205" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-6-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Commission may make recommendations to the Secretary about the daily operations of the office of State Fire Marshal, including recommendations about budget and personnel matters, but the Commission does not have direct line authority over the administration of the office of State Fire Marshal.</section>
     <section prefix="(b)">The Commission may issue subpoenas and administer oaths in connection with any public hearing held under this title.</section>

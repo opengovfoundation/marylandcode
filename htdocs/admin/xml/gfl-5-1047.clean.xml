@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1047" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-1047</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1047</order_by>
   <text>
     <section prefix="(a)">The clerk of the circuit court shall keep a docket known as the "paternity docket".</section>
     <section prefix="(b)">The paternity docket shall contain the records, proceedings, and orders that relate to each case brought under this subtitle.</section>

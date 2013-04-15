@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-608" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-608</section_number>
-  <catch_line/>
+  <catch_line>A veteran may be admitted voluntarily to a Veterans' Administration hospital without regard to Part ...</catch_line>
+  <order_by>608</order_by>
   <text>A veteran may be admitted voluntarily to a Veterans' Administration hospital without regard to Part II of this subtitle.</text>
 </law>

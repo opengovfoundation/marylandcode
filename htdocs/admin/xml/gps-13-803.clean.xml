@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-803" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection does not apply to a commissioned officer on duty during a war, insurrection, invasion, or public danger or on duty to aid civil authorities on account of any breach of peace, tumult, riot, resistance to power of the State, or imminent danger of any of these or any cases not otherwise covered.</section>

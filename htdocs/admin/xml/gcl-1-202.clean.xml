@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-1-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (f) of this section, a person has "notice" of a fact if the person:<section prefix="(1)">Has actual knowledge of it;</section><section prefix="(2)">Has received a notice or notification of it; or</section><section prefix="(3)">From all the facts and circumstances known to the person at the time in question, has reason to know that it exists.</section></section>
     <section prefix="(b)">"Knowledge" means actual knowledge. "Knows" has a corresponding meaning.</section>

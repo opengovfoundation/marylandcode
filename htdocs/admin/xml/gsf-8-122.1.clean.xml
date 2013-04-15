@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-122.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-8-122.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122.1</order_by>
   <text>
     <section prefix="(a)">Upon sale of State bonds authorized by an enabling act, the principal amount of the loan authorized by that enabling act shall be reduced by:<section prefix="(1)">the stated principal amount of the State bonds sold, if the bonds are sold at 95% or more of par; or</section><section prefix="(2)">the cash proceeds, excluding any accrued interest, received for the State bonds, if the bonds are sold at less than 95% of par.</section></section>
     <section prefix="(b)">Whenever State bonds are sold as a consolidated issue at less than 95% of par, the Board, by resolution, shall determine the manner in which the cash proceeds received for the bonds, excluding accrued interest, shall be allocated among the loans included in that issue.</section>

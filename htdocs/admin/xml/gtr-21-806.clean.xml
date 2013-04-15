@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-806" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">On request of any local authority, the State Highway Administration shall investigate and, on its own initiative, it may investigate any bridge or other elevated structure that is a part of a highway.</section>
     <section prefix="(b)">If it determines that the structure cannot safely withstand the weight of vehicles traveling at the maximum speed limit otherwise permitted by this subtitle, the State Highway Administration shall:<section prefix="(1)">Establish the maximum speed limit that the structure can safely withstand; and</section><section prefix="(2)">At each approach to the structure, place or permit the placement of a suitable sign stating the maximum speed limit.</section></section>

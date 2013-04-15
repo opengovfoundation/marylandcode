@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-139" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-139</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>139</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "telemedicine" means, as it relates to the delivery of health care services, the use of interactive audio, video, or other telecommunications or electronic technology by a licensed health care provider to deliver a health care service within the scope of practice of the health care provider at a site other than the site at which the patient is located.</section>

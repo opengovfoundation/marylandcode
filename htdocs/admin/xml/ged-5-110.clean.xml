@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-110" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">In this section, "performance audit" means an assessment of an entity's or program's practices to determine whether the entity or program is operating economically and efficiently and whether corrective actions for improving its performance are appropriate.</section>
     <section prefix="(b)">In the absence of an agreement between a county governing body and a county school board, the Department at the request of the county governing body shall contract for a performance audit of the county public school system to address the issues raised in the county's request.</section>

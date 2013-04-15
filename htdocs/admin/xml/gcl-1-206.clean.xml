@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-206" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-1-206</section_number>
-  <catch_line/>
+  <catch_line>Whenever the Maryland Uniform Commercial Code creates a "presumption" with respect to a fact or prov...</catch_line>
+  <order_by>206</order_by>
   <text>Whenever the Maryland Uniform Commercial Code creates a "presumption" with respect to a fact or provides that a fact is "presumed" the trier of fact must find the existence of the fact unless and until evidence is introduced that supports a finding of its nonexistence.</text>
 </law>

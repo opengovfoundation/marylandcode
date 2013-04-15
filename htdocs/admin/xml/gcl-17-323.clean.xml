@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-323" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-17-323</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>323</order_by>
   <text>
     <section prefix="(a)">Any person who fails to pay or deliver abandoned property to the Administrator as required by this title shall pay a penalty equal to 15 percent of the value of the property. If any person fails to file any report or refuses to deliver property to the Administrator as required by this title, the Administrator may bring an action in a court of appropriate jurisdiction to require the filing of the report and to enforce delivery of the property.</section>
     <section prefix="(b)">Any person who willfully fails to render any report or perform any other duty required by this subtitle is subject to a fine of $100 for each day the report is withheld, but not more than $5,000.</section>

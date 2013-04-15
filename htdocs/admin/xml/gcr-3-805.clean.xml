@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-805" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">In this section, "electronic communication" means the transmission of information, data, or a communication by the use of a computer or any other electronic means that is sent to a person and that is received by the person.</section>
     <section prefix="(b)">A person may not maliciously engage in a course of conduct, through the use of electronic communication, that alarms or seriously annoys another:<section prefix="(1)">with the intent to harass, alarm, or annoy the other;</section><section prefix="(2)">after receiving a reasonable warning or request to stop by or on behalf of the other; and</section><section prefix="(3)">without a legal purpose.</section></section>

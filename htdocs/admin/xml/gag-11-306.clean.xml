@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-306" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">A commodity in package form may not be wrapped deceptively or be in a container made, formed, or filled in a manner that misleads the purchaser in determining the quantity of the contents of the package. The contents of a container may not fall below any reasonable standard of fill the Secretary prescribes for the commodity in question.</section>
     <section prefix="(b)">If a commodity in package form is advertised in any manner and the retail price of the package is stated in the advertisement, a declaration of the basic quantity of contents of the package shall be closely and conspicuously associated with the price statement, as is required by law or rule or regulation to appear on the package. However, where the law or rule or regulation requires a dual declaration of net quantity to appear on the package, only the declaration that sets forth the quantity in terms of the smaller unit of weight or measure need appear in the advertisement.</section>

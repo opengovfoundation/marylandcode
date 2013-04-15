@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-503" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall collect the annual assessment fee from each insurer as calculated in &#xA7; 2-502 of this subtitle.</section>
     <section prefix="(b)">The assessment fee collected under this section is:<section prefix="(1)">in addition to any penalties or premium tax imposed under this article; and</section><section prefix="(2)">due and payable to the Commissioner on or before a date determined by the Commissioner each year.</section></section>

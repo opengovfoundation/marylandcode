@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-524" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-524</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>524</order_by>
   <text>
     <section prefix="(a)">Tariffs implementing a rate stabilization plan may provide that:<section prefix="(1)">residential customers shall be charged the full cost of residential standard offer service necessary to recover the electric company's costs under &#xA7; 7- 510(c)(3) of this subtitle; and</section><section prefix="(2)">any credits or recoveries required or authorized under this part shall be reflected as nonbypassable credits or charges on the electric distribution portion of each residential customer's bill.</section></section>
     <section prefix="(b)">As part of the submission of a rate stabilization plan, an electric company may apply to the Commission for a qualified rate order for the financing and recovery of its approved rate stabilization costs in accordance with this part.</section>

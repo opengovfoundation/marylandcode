@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-303" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-303</section_number>
-  <catch_line/>
+  <catch_line>A change of interest on the death of the insured does not void property insurance and the property i...</catch_line>
+  <order_by>303</order_by>
   <text>A change of interest on the death of the insured does not void property insurance and the property insurance passes to the person taking the interest in the property.</text>
 </law>

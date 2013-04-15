@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11B-111.5" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11B-111.5</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111.5</order_by>
   <text>
     <section prefix="(a)">If a homeowners association fails to fill vacancies on the governing body sufficient to constitute a quorum in accordance with the bylaws, three or more owners of lots may petition the circuit court for the county where the condominium is located to appoint a receiver to manage the affairs of the homeowners association.</section>
     <section prefix="(b)">

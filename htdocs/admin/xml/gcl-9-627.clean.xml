@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-627" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-627</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>627</order_by>
   <text>
     <section prefix="(a)">The fact that a greater amount could have been obtained by a collection, enforcement, disposition, or acceptance at a different time or in a different method from that selected by the secured party is not of itself sufficient to preclude the secured party from establishing that the collection, enforcement, disposition, or acceptance was made in a commercially reasonable manner.</section>
     <section prefix="(b)">A disposition of collateral is made in a commercially reasonable manner if the disposition is made:<section prefix="(1)">In the usual manner on any recognized market;</section><section prefix="(2)">At the price current in any recognized market at the time of the disposition; or</section><section prefix="(3)">Otherwise in conformity with reasonable commercial practices among dealers in the type of property that was the subject of the disposition.</section></section>

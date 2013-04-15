@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-102" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-3-102</section_number>
-  <catch_line/>
+  <catch_line>The General Assembly finds:...</catch_line>
+  <order_by>102</order_by>
   <text>The General Assembly finds:<section prefix=""><section prefix="(1)">That the people of this State have a right to an environment that is free from any noise that:<section prefix="(i)">May jeopardize their health, general welfare, or property; or</section><section prefix="(ii)">Degrades the quality of their lives; and</section></section><section prefix="(2)">That there is a substantial body of knowledge about the adverse effects of excessive noise on the public health, the general welfare, and property, and that this knowledge should be used to develop environmental noise standards that will protect the public health, the general welfare, and property with an adequate margin of safety.</section></section></text>
 </law>

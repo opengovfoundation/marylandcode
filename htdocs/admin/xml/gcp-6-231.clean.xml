@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-231" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-6-231</section_number>
-  <catch_line/>
+  <catch_line>Before the revocation of any probation ordered under this title, and in addition to any other factor...</catch_line>
+  <order_by>231</order_by>
   <text>Before the revocation of any probation ordered under this title, and in addition to any other factors the court considers in connection with the determination of an appropriate sentence, the court shall:<section prefix=""><section prefix="(1)">consider any evaluation or recommendation of any health professional licensed under the Health Occupations Article;</section><section prefix="(2)">consider relevant information about the defendant's drug or alcohol abuse; and</section><section prefix="(3)">make a finding on the record as to the defendant's amenability to treatment and the interest of justice.</section></section></text>
 </law>

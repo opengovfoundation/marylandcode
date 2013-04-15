@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-509" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On and after the initial implementation date, the generation, supply, and sale of electricity, including all related facilities and assets, may not be regulated as an electric company service or function except to:<section prefix="(i)">establish the price for standard offer service under &#xA7; 7-510(c) of this subtitle; and</section><section prefix="(ii)">review and approve transfers of generation assets under &#xA7; 7-508 of this subtitle.</section></section>
@@ -15,7 +15,7 @@
       <section prefix="(1)">Subject to paragraph (2) of this subsection, this section does not apply to an investor-owned electric company until the electric company:<section prefix="(i)">transfers generation facilities and generation assets to an affiliate of the electric company, and the affiliate operates the facilities and assets; or</section><section prefix="(ii)">sells the generation facilities and generation assets to a nonaffiliate.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Notwithstanding the provisions of paragraph (1) of this subsection, this section applies to an investor-owned electric company that does not transfer its generation facilities and generation assets to an affiliate or sell its generation facilities and generation assets to a nonaffiliate if, on January 1, 1999, the retail peak load of the investor-owned electric company in the State was less than 1,000 megawatts.</section>
-        <section prefix="(ii)">An investor-owned electric company to which this section applies through subparagraph (i) of this paragraph shall, by January 1, 2001:</section>
+        <section prefix="(ii)">An investor-owned electric company to which this section applies through subparagraph (i) of this paragraph shall, by January 1, 2001:<section prefix="1.">transfer its generation facilities and generation assets to an affiliate of the investor-owned electric company that operates the facilities and assets; or</section><section prefix="2.">sell the generation facilities and generation assets to a nonaffiliate.</section></section>
       </section>
     </section>
     <section prefix="(c)">The exceptions in subsection (a)(1) of this section as to any electric company shall remain in effect until the latest of:<section prefix="(1)">the date when all customers of that electric company are eligible for customer choice under &#xA7; 7-510 of this subtitle;</section><section prefix="(2)">the date when the amount of transition costs or benefits arising from the generation that is deregulated has been finally determined by the Commission under &#xA7; 7-513(a) through (c) of this subtitle; or</section><section prefix="(3)">the date on which the obligation of the electric company to provide standard offer service under &#xA7; 7-510(c)(3)(ii) of this subtitle terminates.</section></section>

@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-207" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-7-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">A credit under this section shall be applied to an applicant's score on any selection test administered to establish placement on a list of eligible candidates for which the applicant otherwise is qualified and has at least the minimum passing score on a selection test.</section>
     <section prefix="(b)">For a current State employee, an appointing authority shall apply a credit on a selection test, of one-quarter point for each year of service in State government, up to a maximum of five points for 20 years of State service.</section>
     <section prefix="(c)">
       <section prefix="(1)">In this subsection, "eligible veteran" means a veteran of any branch of the armed forces of the United States who has received an honorable discharge or a certificate of satisfactory completion of military service, including the National Guard and the military reserves.</section>
       <section prefix="(2)">
-        <section prefix="(i)">An appointing authority shall apply a credit of ten points on any selection test for:</section>
-        <section prefix="(ii)">An appointing authority shall apply a credit of two additional points on any selection test for:</section>
+        <section prefix="(i)">An appointing authority shall apply a credit of ten points on any selection test for:<section prefix="1.">an eligible veteran;</section><section prefix="2.">the spouse of an eligible veteran who has a service connected disability; or</section><section prefix="3.">the surviving spouse of a deceased eligible veteran.</section></section>
+        <section prefix="(ii)">An appointing authority shall apply a credit of two additional points on any selection test for:<section prefix="1.">an eligible veteran who has a service connected disability; or</section><section prefix="2.">a former prisoner of war.</section></section>
       </section>
       <section prefix="(3)">The following applicants are ineligible for a credit under this subsection:<section prefix="(i)">a current State employee; and</section><section prefix="(ii)">an eligible veteran who is convicted of a crime after being discharged from or completing military service.</section></section>
     </section>

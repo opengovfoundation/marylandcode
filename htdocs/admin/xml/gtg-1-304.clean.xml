@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-304" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-1-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Evaluation of a tax credit shall be completed by an evaluation committee appointed jointly by the President of the Senate and the Speaker of the House.</section>
     <section prefix="(b)">Each evaluation committee for a tax credit shall be appointed on or before May 31 of the year before the evaluation date of that tax modification or tax exemption.</section>

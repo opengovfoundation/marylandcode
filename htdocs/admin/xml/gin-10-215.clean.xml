@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-215" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">An agreement between an adviser and another person that relates to the giving of advice or information of the type given by advisers is not enforceable by or for the adviser unless:<section prefix="(1)">the agreement is in writing;</section><section prefix="(2)">the agreement is executed personally in duplicate by the person to be charged or by the legal representative of the person;</section><section prefix="(3)">a duplicate of the agreement is delivered to and kept by the person when it is signed by that person;</section><section prefix="(4)">the agreement plainly states the amount of the fee paid or to be paid by the person and the services to be performed by the adviser; and</section><section prefix="(5)">the agreement is in the form that the Commissioner currently approves.</section></section>
     <section prefix="(b)">

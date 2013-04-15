@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-117" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Assets" means assets that are:</section>
-        <section prefix="(ii)">"Assets" does not include:</section>
+        <section prefix="(i)">"Assets" means assets that are:<section prefix="1.">authorized under &#xA7; 14-120 of this subtitle; and</section><section prefix="2.">determined by the Commissioner to be admitted assets under the guidelines issued by the National Association of Insurance Commissioners.</section></section>
+        <section prefix="(ii)">"Assets" does not include:<section prefix="1.">cash, notes, or receivables that result from the sale of an asset of a nonprofit health service plan or its affiliate or subsidiary if the purchaser may require the plan to repurchase the asset; or</section><section prefix="2.">stock of an affiliate or subsidiary of the plan if the stock has not been issued in accordance with a public offering or is not publicly traded on a recognized stock exchange.</section></section>
         <section prefix="(iii)">Notwithstanding subparagraph (ii)2 of this paragraph, "assets" includes stock of an affiliate or subsidiary of a nonprofit health service plan to the extent that the Commissioner determines that the stock has a value that could be made available for the payment of claims and losses.</section>
       </section>
       <section prefix="(3)">"Earned premium" means earned premiums under:<section prefix="(i)">insurance contracts and policies; and</section><section prefix="(ii)">the insured part of other contracts.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "paper gaming" means a game of chance in which:<section prefix="(i)">prizes are awarded; and</section><section prefix="(ii)">the devices used to play the game are constructed out of paper or cardboard.</section></section>
@@ -33,11 +33,11 @@
       <section prefix="(3)">The Fund is a special continuing, nonlapsing fund.</section>
       <section prefix="(4)">The Fund may be used only to benefit fire and rescue departments and to pay for specified school costs.</section>
       <section prefix="(5)">
-        <section prefix="(i)">The Fund consists of:</section>
+        <section prefix="(i)">The Fund consists of:<section prefix="1.">revenue derived from the taxation of gross profits from tip jar sales; and</section><section prefix="2.">subject to subparagraph (ii) of this paragraph, money received from other sources.</section></section>
         <section prefix="(ii)">Money from the General Fund of the State or county, including any federal money, may not be transferred by budget amendment or otherwise to the Fund.</section>
       </section>
       <section prefix="(6)">The Fund shall be invested and reinvested in the same manner as other county funds.</section>
-      <section prefix="(7)">Annually the Board of County Commissioners shall:<section prefix="(i)">pay from the Fund all administrative costs of carrying out this section, including the hiring of additional necessary personnel; and</section><section prefix="(ii)">allocate the remaining money in the Fund as follows:</section></section>
+      <section prefix="(7)">Annually the Board of County Commissioners shall:<section prefix="(i)">pay from the Fund all administrative costs of carrying out this section, including the hiring of additional necessary personnel; and</section><section prefix="(ii)">allocate the remaining money in the Fund as follows:<section prefix="1.">at least 25% but not more than 35% to fire and rescue departments; and</section><section prefix="2.">the balance to pay for school construction, school supplies, and other nonmaintenance of effort costs.</section></section></section>
     </section>
     <section prefix="(k)">The Board of County Commissioners may adopt rules and regulations to administer and enforce this section.</section>
     <section prefix="(l)">The Board of County Commissioners may:<section prefix="(1)">hire one or more inspectors; and</section><section prefix="(2)">authorize each inspector to enter the premises of a licensee to ensure compliance with this section or a rule or regulation adopted under this section.</section></section>

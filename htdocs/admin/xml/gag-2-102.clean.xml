@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-102" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">The head of the Department is the Secretary of Agriculture, who shall be appointed by the Governor, with the advice and consent of the Senate.</section>
     <section prefix="(b)">The Secretary shall receive the salary provided in the State budget. He serves at the pleasure of the Governor and is responsible directly to the Governor. The Secretary shall counsel and advise the Governor on all matters assigned to the Department of Agriculture and is responsible for carrying out the Governor's policies with respect to these matters. The Secretary shall be responsible for the operation of the Department and shall establish guidelines and procedures to promote the orderly and efficient administration of the Department.</section>

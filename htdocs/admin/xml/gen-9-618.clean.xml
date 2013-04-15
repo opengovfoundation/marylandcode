@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-618" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-618</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>618</order_by>
   <text>
     <section prefix="(a)">Promptly after it is created and its officers are elected, each district shall notify the State Department of Assessments and Taxation of:<section prefix="(1)">The principal office of the district; and</section><section prefix="(2)">The name and address of each officer of the district.</section></section>
     <section prefix="(b)">Within 10 days after the district makes any change in the location of the district's principal office, the district shall notify the State Department of Assessments and Taxation of the change.</section>

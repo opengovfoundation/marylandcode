@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-801" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Abuse" means:<section prefix="(1)">Sexual abuse of a child, whether a physical injury is sustained or not; or</section><section prefix="(2)">Physical or mental injury of a child under circumstances that indicate that the child's health or welfare is harmed or is at substantial risk of being harmed by:<section prefix="(i)">A parent or other individual who has permanent or temporary care or custody or responsibility for supervision of the child; or</section><section prefix="(ii)">A household or family member.</section></section></section>
@@ -36,10 +36,10 @@
       <section prefix="(2)">"Party" does not include a foster parent.</section>
     </section>
     <section prefix="(v)">"Reasonable efforts" means efforts that are reasonably likely to achieve the objectives set forth in &#xA7; 3-816.1(b)(1) and (2) of this subtitle.</section>
-    <section prefix="(w)">"Relative" means an individual who is:<section prefix="(1)">Related to the child by blood or marriage within five degrees of consanguinity or affinity under the civil law; and</section><section prefix="(2)"><section prefix="(i)">At least 21 years old; or</section><section prefix="(ii)"/></section></section>
+    <section prefix="(w)">"Relative" means an individual who is:<section prefix="(1)">Related to the child by blood or marriage within five degrees of consanguinity or affinity under the civil law; and</section><section prefix="(2)"><section prefix="(i)">At least 21 years old; or</section><section prefix="(ii)"><section prefix="1.">At least 18 years old; and</section><section prefix="2.">Lives with a spouse who is at least 21 years old.</section></section></section></section>
     <section prefix="(x)">
       <section prefix="(1)">"Sexual abuse" means an act that involves sexual molestation or sexual exploitation of a child by:<section prefix="(i)">A parent or other individual who has permanent or temporary care or custody or responsibility for supervision of the child; or</section><section prefix="(ii)">A household or family member.</section></section>
-      <section prefix="(2)">"Sexual abuse" includes:<section prefix="(i)">Allowing or encouraging a child to engage in:</section><section prefix="(ii)">Human trafficking;</section><section prefix="(iii)">Incest;</section><section prefix="(iv)">Rape;</section><section prefix="(v)">Sexual offense in any degree;</section><section prefix="(vi)">Sodomy; and</section><section prefix="(vii)">Unnatural or perverted sexual practices.</section></section>
+      <section prefix="(2)">"Sexual abuse" includes:<section prefix="(i)">Allowing or encouraging a child to engage in:<section prefix="1.">Obscene photography, films, poses, or similar activity;</section><section prefix="2.">Pornographic photography, films, poses, or similar activity; or</section><section prefix="3.">Prostitution;</section></section><section prefix="(ii)">Human trafficking;</section><section prefix="(iii)">Incest;</section><section prefix="(iv)">Rape;</section><section prefix="(v)">Sexual offense in any degree;</section><section prefix="(vi)">Sodomy; and</section><section prefix="(vii)">Unnatural or perverted sexual practices.</section></section>
     </section>
     <section prefix="(y)">"Shelter care" means a temporary placement of a child outside of the home at any time before disposition.</section>
     <section prefix="(z)">"Shelter care hearing" means a hearing held before disposition to determine whether the temporary placement of the child outside of the home is warranted.</section>

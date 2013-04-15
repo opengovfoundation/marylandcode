@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-102" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-102</section_number>
-  <catch_line/>
+  <catch_line>"Administration" means the Motor Vehicle Administration....</catch_line>
+  <order_by>102</order_by>
   <text>"Administration" means the Motor Vehicle Administration.</text>
 </law>

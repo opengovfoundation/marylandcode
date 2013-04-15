@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-710" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-710</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>710</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">"Franchise" has the meaning stated in &#xA7; 14-201 of the Business Regulation Article.</section>
       <section prefix="(4)">
         <section prefix="(i)">"Retail establishment" means a place of business with the primary purpose of selling goods to a consumer who is present at the place of business at the time of sale.</section>
-        <section prefix="(ii)">"Retail establishment" does not include:</section>
+        <section prefix="(ii)">"Retail establishment" does not include:<section prefix="1.">a wholesaler, as defined in &#xA7; 11-401(i) of the Commercial Law Article; or</section><section prefix="2.">a restaurant.</section></section>
       </section>
     </section>
     <section prefix="(b)">This section does not apply to an employee:<section prefix="(1)">covered by a collective bargaining agreement or employment policy that includes shift breaks equal to or greater than those provided under this section;</section><section prefix="(2)">exempt from overtime pay requirements under the Fair Labor Standards Act;</section><section prefix="(3)">who works for a unit of the State, a county, or a municipality;</section><section prefix="(4)">who works in a corporate office or other office location; or</section><section prefix="(5)">who works for at least 4 consecutive hours for an employer at a single location with 5 or fewer employees.</section></section>
@@ -25,16 +25,16 @@
       <section prefix="(2)">An employer may not employ an employee at a retail establishment for more than 6 consecutive hours without providing a nonworking shift break of at least 30 minutes.</section>
       <section prefix="(3)">If an employee works 8 consecutive hours in a single shift, the employer shall provide an additional nonworking shift break of at least 15 minutes for every additional 4 consecutive hours the employer employs the employee in the shift.</section>
       <section prefix="(4)">If an employee's work hours do not exceed 6 consecutive hours, the provisions of paragraph (1) of this subsection may be waived by written agreement between the employer and employee.</section>
-      <section prefix="(5)">A shift break required under this subsection may be considered a working shift break if:<section prefix="(i)"/><section prefix="(ii)">the employer and employee mutually agree in writing to the working shift break.</section></section>
+      <section prefix="(5)">A shift break required under this subsection may be considered a working shift break if:<section prefix="(i)"><section prefix="1.">the type of work prevents an employee from being relieved of work during the nonworking shift break; or</section><section prefix="2.">the employee is allowed to consume a meal while working and the working shift break is counted towards the employee's work hours; and</section></section><section prefix="(ii)">the employer and employee mutually agree in writing to the working shift break.</section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">If an employer violates subsection (c) of this section, an employee of the employer may file a complaint with the Commissioner.</section>
       <section prefix="(2)">If the Commissioner receives a complaint under paragraph (1) of this subsection, the Commissioner shall:<section prefix="(i)">try to resolve the issue informally; or</section><section prefix="(ii)">determine whether the employer has violated this section.</section></section>
-      <section prefix="(3)">If the Commissioner determines that the employer has violated this section, the Commissioner shall:<section prefix="(i)">issue an order compelling compliance with this section; and</section><section prefix="(ii)">in the Commissioner's discretion, assess a civil penalty of:</section></section>
+      <section prefix="(3)">If the Commissioner determines that the employer has violated this section, the Commissioner shall:<section prefix="(i)">issue an order compelling compliance with this section; and</section><section prefix="(ii)">in the Commissioner's discretion, assess a civil penalty of:<section prefix="1.">up to $300 for each employee for whom the employer is not in compliance with this section; or</section><section prefix="2.">up to $600 for each employee for whom the employer is not in compliance with this section if the violation occurred within 3 years after an employee filed a previous complaint that led to a determination that a violation had occurred.</section></section></section>
       <section prefix="(4)">The provisions of paragraphs (2)(ii) and (3) of this subsection are subject to the notice and hearing requirements of Title 10, Subtitle 2 of the State Government Article.</section>
       <section prefix="(5)">
         <section prefix="(i)">In determining whether there is a violation of this section, the Commissioner shall consider if there was a threat to public health or safety at the time the violation is alleged to have occurred.</section>
-        <section prefix="(ii)">In determining the amount of any civil penalty to be imposed, the Commissioner shall consider the:</section>
+        <section prefix="(ii)">In determining the amount of any civil penalty to be imposed, the Commissioner shall consider the:<section prefix="1.">seriousness of the violation;</section><section prefix="2.">size of the employer's business;</section><section prefix="3.">employer's good faith in complying with this section; and</section><section prefix="4.">employer's history of violations under this section.</section></section>
       </section>
       <section prefix="(6)">If the employer fails to comply with an order issued for a violation under paragraph (3) of this subsection, the Commissioner may bring an action to enforce the order and civil penalty in the circuit court in the county where the employer is located.</section>
       <section prefix="(7)">If the employer fails to comply with an order issued for a subsequent violation against the same employee under paragraph (3) of this subsection within 3 years after the employee filed a complaint that is determined to be a violation under this subsection, the employee may bring an action to enforce the order in the circuit court in the county where the employer is located.</section>

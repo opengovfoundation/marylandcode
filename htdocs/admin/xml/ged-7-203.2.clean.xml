@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-203.2" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-203.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -24,13 +24,13 @@
       </section>
       <section prefix="(6)">
         <section prefix="(i)">"Transfer out" means a student who the county board confirms, via written documentation, has enrolled in another high school or other educational program from which that student is expected to receive a Maryland high school diploma.</section>
-        <section prefix="(ii)">"Transfer out" does not include a student enrolled in:</section>
+        <section prefix="(ii)">"Transfer out" does not include a student enrolled in:<section prefix="1.">A GED program; or</section><section prefix="2.">An alternative education program that does not issue or provide credits toward a Maryland high school diploma.</section></section>
       </section>
     </section>
     <section prefix="(b)">The purpose of this section is to:<section prefix="(1)">Initiate a process by which the State may achieve the goal of collecting, maintaining, analyzing, and publicly reporting data relating to the graduation rates of students in public high schools as an essential step in addressing gaps in educational achievement among a diverse student population; and</section><section prefix="(2)">Explicitly delineate the duties and responsibilities of the Department and the county boards in this regard.</section></section>
     <section prefix="(c)">
-      <section prefix="(1)">Beginning on or before September 1, 2011, and each year thereafter, a county board shall:<section prefix="(i)">Collect, maintain, and analyze graduation rates for public schools, local school systems, and the State; and</section><section prefix="(ii)">Report the information required under item (i) of this paragraph to the public and the Department in the aggregate and disaggregated by:</section></section>
-      <section prefix="(2)">Beginning on or before October 1, 2011, and each year thereafter, the Department shall:<section prefix="(i)">Compile the information received under paragraph (1) of this subsection and calculate a graduation rate for the State; and</section><section prefix="(ii)">Post the information obtained under this subsection for each county on its website in the aggregate and disaggregated by:</section></section>
+      <section prefix="(1)">Beginning on or before September 1, 2011, and each year thereafter, a county board shall:<section prefix="(i)">Collect, maintain, and analyze graduation rates for public schools, local school systems, and the State; and</section><section prefix="(ii)">Report the information required under item (i) of this paragraph to the public and the Department in the aggregate and disaggregated by:<section prefix="1.">Hispanic or Latino of any race;</section><section prefix="2.">For individuals who are nonHispanic or nonLatino only:</section><section prefix="3.">Students who are limited English proficient;</section><section prefix="4.">Students who receive free and reduced priced meals; and</section><section prefix="5.">Students who receive special education services.</section></section></section>
+      <section prefix="(2)">Beginning on or before October 1, 2011, and each year thereafter, the Department shall:<section prefix="(i)">Compile the information received under paragraph (1) of this subsection and calculate a graduation rate for the State; and</section><section prefix="(ii)">Post the information obtained under this subsection for each county on its website in the aggregate and disaggregated by:<section prefix="1.">Hispanic or Latino of any race;</section><section prefix="2.">For individuals who are nonHispanic or nonLatino only:</section><section prefix="3.">Students who are limited English proficient;</section><section prefix="4.">Students who receive free and reduced priced meals; and</section><section prefix="5.">Students who receive special education services.</section></section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">The county boards and the Department may develop and implement additional indicators to collect, maintain, analyze, and publicly report data regarding alternative high school completions.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-310" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commissioner may adopt a rule that requires that subsequent changes in the rates or supplementary rate information for a kind or line of insurance, subdivision of a kind or line of insurance, or rating class or rating territory be filed with the Commissioner at least 30 working days before they become effective if the Commissioner finds that with respect to that kind, line, subdivision, rating class, or rating territory:<section prefix="(i)">competition is not an effective regulator of the rates charged;</section><section prefix="(ii)">a substantial number of insurers are competing irresponsibly through the rates charged; or</section><section prefix="(iii)">there are widespread violations of this subtitle.</section></section>

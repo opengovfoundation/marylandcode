@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-805" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">Each subdivision shall take measures to enforce the provisions of this subtitle within its jurisdiction, including the enactment of a local law prescribing a civil penalty in the form of a fine not exceeding $500 for each day of violation of any local law the subdivision enacts to implement this subtitle. The local law shall provide that each day upon which a violation occurs or continues constitutes a separate offense. The local law shall provide that the total civil penalty may not exceed $10,000.</section>
     <section prefix="(b)">If a subdivision fails to enforce any provision of this subtitle, including any ordinance or local law the subdivision enacts pursuant to this subtitle, or if the subdivision does not possess the authority to correct a violation of this subtitle, the Department may request the Attorney General to take appropriate legal action to correct the violation.</section>

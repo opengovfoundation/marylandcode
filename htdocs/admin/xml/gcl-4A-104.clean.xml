@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-104</section_number>
-  <catch_line/>
+  <catch_line>In this title:...</catch_line>
+  <order_by>104</order_by>
   <text>In this title:<section prefix=""><section prefix="(1)">"Funds transfer" means the series of transactions, beginning with the originator's payment order, made for the purpose of making payment to the beneficiary of the order. The term includes any payment order issued by the originator's bank or by an intermediary bank intended to carry out the originator's payment order. A funds transfer is completed by acceptance by the beneficiary's bank of a payment order for the benefit of the beneficiary of the originator's payment order.</section><section prefix="(2)">"Intermediary bank" means a receiving bank other than:<section prefix="(i)">The originator's bank; or</section><section prefix="(ii)">The beneficiary's bank.</section></section><section prefix="(3)">"Originator" means the sender of the first payment order in a funds transfer.</section><section prefix="(4)">"Originator's bank" means:<section prefix="(i)">The receiving bank to which the payment order of the originator is issued if the originator is not a bank; or</section><section prefix="(ii)">The originator if the originator is a bank.</section></section></section></text>
 </law>

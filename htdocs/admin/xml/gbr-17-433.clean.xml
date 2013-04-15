@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-433" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-433</section_number>
-  <catch_line/>
+  <catch_line>Part IV of this subtitle applies only in Garrett County....</catch_line>
+  <order_by>433</order_by>
   <text>Part IV of this subtitle applies only in Garrett County.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-223" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-223</section_number>
-  <catch_line/>
+  <catch_line>If the attempt to incorporate a savings and loan association is unsuccessful:...</catch_line>
+  <order_by>223</order_by>
   <text>If the attempt to incorporate a savings and loan association is unsuccessful:<section prefix=""><section prefix="(1)">The chairman of the incorporators shall refund amounts paid to the initial accounts under this subtitle, except that the expense fund and paid-in surplus accounts are first subject to all reasonable expenses; and</section><section prefix="(2)">The Division Director shall release the surety bond of the chairman of the incorporators when the Director has satisfactory assurance that:<section prefix="(i)">All expenses have been paid; and</section><section prefix="(ii)">All amounts under item (1) of this section have been refunded.</section></section></section></text>
 </law>

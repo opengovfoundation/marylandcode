@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-106" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">A person must lawfully possess a dealer's license issued by the Secretary before the person engages in the business of selling, renting, or transferring regulated firearms.</section>
     <section prefix="(b)">One dealer's license is required for each place of business where regulated firearms are sold.</section>

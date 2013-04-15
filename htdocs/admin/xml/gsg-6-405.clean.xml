@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-405" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-6-405</section_number>
-  <catch_line/>
+  <catch_line>The Unit may:...</catch_line>
+  <order_by>405</order_by>
   <text>The Unit may:<section prefix=""><section prefix="(1)">review relevant laws, policies, procedures, and juvenile justice records, including records relating to individual youth;</section><section prefix="(2)">on request, conduct interviews with staff, youth, and others;</section><section prefix="(3)">review investigative reports produced by the Department relating to youth in facilities; and</section><section prefix="(4)">participate, within the context of the local department of social services' multidisciplinary team process, in a child protective services investigation conducted under Title 5, Subtitle 7 of the Family Law Article concerning any allegation of abuse or neglect within any assigned facility.</section></section></text>
 </law>

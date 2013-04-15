@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-210" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">In this section, "apparatus" means any apparatus, device, machinery, or mechanical equipment.</section>
     <section prefix="(b)">The Commissioner or an authorized representative of the Commissioner may prohibit use of any apparatus, if, after an inspection, the Commissioner or authorized representative of the Commissioner determines that:<section prefix="(1)">the apparatus or part of the apparatus violates an occupational safety and health standard; and</section><section prefix="(2)">there is a substantial probability that death or serious physical harm could result from continued use.</section></section>

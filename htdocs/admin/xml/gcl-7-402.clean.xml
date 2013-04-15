@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-402</section_number>
-  <catch_line/>
+  <catch_line>A duplicate or any other document of title purporting to cover goods already represented by an outst...</catch_line>
+  <order_by>402</order_by>
   <text>A duplicate or any other document of title purporting to cover goods already represented by an outstanding document of the same issuer does not confer any right in the goods, except as provided in the case of tangible bills of lading in a set of parts, overissue of documents for fungible goods, substitutes for lost, stolen, or destroyed documents, or substitute documents issued pursuant to &#xA7; 7-105. The issuer is liable for damages caused by its overissue or failure to identify a duplicate document by a conspicuous notation.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-306" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">A premium finance agreement may require the insured to pay a delinquency and collection charge on each installment that is in default for a period of not less than 5 days.</section>
     <section prefix="(b)">A delinquency and collection charge shall be at least $1, up to a maximum of 5% of the installment in default, but may not exceed:<section prefix="(1)">$8, with respect to private passenger automobile or personal fire or liability insurance; and</section><section prefix="(2)">$100, with respect to commercial automobile, fire, or liability insurance.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c3" order_by="" level="1"/>
-    <unit label="chapter" identifier="26" order_by="" level="2"/>
+    <unit label="article" identifier="c3" order_by="" level="1">III - Legislative Department</unit>
   </structure>
   <section_number>c3-26</section_number>
-  <catch_line/>
+  <catch_line>The House of Delegates shall have the sole power of impeachment in all cases; but a majority of all ...</catch_line>
+  <order_by>26</order_by>
   <text>The House of Delegates shall have the sole power of impeachment in all cases; but a majority of all the members elected must concur in the impeachment. All impeachments shall be tried by the Senate, and when sitting for that purpose, the Senators shall be on oath, or affirmation, to do justice according to the law and evidence; but no person shall be convicted without the concurrence of two-thirds of all the Senators elected.</text>
 </law>

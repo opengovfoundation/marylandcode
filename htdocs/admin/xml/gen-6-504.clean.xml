@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-504" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">The Department may adopt rules and regulations to provide for access by the public in an efficient manner that does not interrupt or impede the normal course of business of the Department to any information that the Department has concerning hazardous or toxic chemicals on chemical information lists and material safety data sheets.</section>
     <section prefix="(b)">The Department of the Environment shall consult with the Division of Labor and Industry of the Department of Labor, Licensing, and Regulation when the Department of the Environment adopts rules and regulations under this section.</section>

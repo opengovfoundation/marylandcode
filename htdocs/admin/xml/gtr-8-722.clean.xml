@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-722" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-722</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>722</order_by>
   <text>
     <section prefix="(a)">Except for payment of the annual fee required by &#xA7; 8-718 of this subtitle, this part does not affect any outdoor sign in existence on June 1, 1931, unless the sign:<section prefix="(1)">Affects adversely the safety of public travel on any State highway by dangerously obstructing the clear view of the highway by the driver of a motor vehicle on it; or</section><section prefix="(2)">Is lighted in a way that makes it dangerous to drive a motor vehicle on any State highway.</section></section>
     <section prefix="(b)">If the outdoor sign affects adversely the safety of public travel or is dangerously lighted as described in subsection (a) of this section, the Administration may remove the sign as provided in Part VI of this subtitle, after 15 days' written notice and an opportunity to be heard.</section>

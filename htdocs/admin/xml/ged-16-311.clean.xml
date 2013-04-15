@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-311" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, this section applies to every contract for any building, improvement, equipment, or supplies.</section>
@@ -18,7 +18,7 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">The board of trustees of each community college may provide for the prequalification of persons as prospective responsible bidders for procurements other than leases of real property.</section>
-      <section prefix="(2)">If a board of trustees uses a prequalification procedure for awarding a procurement contract:<section prefix="(i)">A person who is not prequalified may submit a bid or proposal; and</section><section prefix="(ii)">After bid opening or receipt of proposals and before awarding the procurement contract, a procurement officer may determine that:</section></section>
+      <section prefix="(2)">If a board of trustees uses a prequalification procedure for awarding a procurement contract:<section prefix="(i)">A person who is not prequalified may submit a bid or proposal; and</section><section prefix="(ii)">After bid opening or receipt of proposals and before awarding the procurement contract, a procurement officer may determine that:<section prefix="1.">A person who was not prequalified at the time of bid opening or receipt of proposals is a responsible bidder; or</section><section prefix="2.">A prequalified person is not a responsible bidder.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">Except as provided in subsection (f) of this section, the contract shall be awarded to the lowest responsible bidder, who conforms to the specifications, with consideration given to:<section prefix="(i)">The quantities involved;</section><section prefix="(ii)">The time required for delivery;</section><section prefix="(iii)">The purpose for which required;</section><section prefix="(iv)">The competence and responsibility of the bidder; and</section><section prefix="(v)">The ability of the bidder to perform the contract satisfactorily.</section></section>

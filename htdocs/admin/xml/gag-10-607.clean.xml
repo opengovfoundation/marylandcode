@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-607" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the Secretary shall deny access to any business-related information concerning any person who applies for a certificate or is certified under this subtitle.</section>
     <section prefix="(b)">If the Secretary determines that disclosure is necessary to protect the public health, the Secretary may disclose any business-related information concerning any person who applies for a certificate or is certified under this subtitle.</section>

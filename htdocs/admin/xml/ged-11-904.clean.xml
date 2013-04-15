@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-904" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-11-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">The electronic format of printed instructional material provided by a publisher to the Library for use by a student with a disability under this subtitle shall:<section prefix="(1)">Maintain the structural integrity of the printed instructional material;</section><section prefix="(2)">Be compatible with commonly used braille translation or speech synthesis software, if necessary; and</section><section prefix="(3)">Include corrections and revisions as necessary.</section></section>
     <section prefix="(b)">If the Library and a publisher cannot in good faith agree  on an electronic format that maintains the structural integrity of  the printed instructional material as required under subsection (a) of this section, the publisher shall provide the instructional material in an electronic format that maintains as much of the structural integrity of the printed instructional material as  possible.</section>

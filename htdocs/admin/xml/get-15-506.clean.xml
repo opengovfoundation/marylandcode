@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-506" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">A trustee shall allocate an income receipt or disbursement other than one to which &#xA7; 15-503(1) of this subtitle applies to principal if its due date occurs before a decedent dies in the case of an estate or before an income interest begins in the case of a trust or successive income interest.</section>
     <section prefix="(b)">A trustee shall allocate an income receipt or disbursement to income if its due date occurs on or after the date on which a decedent dies or an income interest begins and it is a periodic due date. An income receipt or disbursement shall be treated as accruing from day to day if its due date is not periodic or it has no due date. The portion of the receipt or disbursement accruing before the date on which a decedent dies or an income interest begins shall be allocated to principal and the balance shall be allocated to income.</section>

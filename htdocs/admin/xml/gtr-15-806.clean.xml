@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-806" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-806</section_number>
-  <catch_line/>
+  <catch_line>The license authorizes the licensee to be a driving instructor for a licensed drivers' school during...</catch_line>
+  <order_by>806</order_by>
   <text>The license authorizes the licensee to be a driving instructor for a licensed drivers' school during the license year for which it is issued.</text>
 </law>

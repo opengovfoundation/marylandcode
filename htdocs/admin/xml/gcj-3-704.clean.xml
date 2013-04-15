@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-704" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">On return of a writ of habeas corpus and production of a person and cause of his detention before a judge, the judge shall immediately inquire into the legality and propriety of the confinement or detention.</section>
     <section prefix="(b)">If it appears to the judge that the person is detained without legal warrant or authority, he shall release or discharge the person immediately.</section>

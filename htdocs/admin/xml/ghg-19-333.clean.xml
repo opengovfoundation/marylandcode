@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-333" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-333</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>333</order_by>
   <text>
     <section prefix="(a)">In Part V of this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Affiliate" means:<section prefix="(1)">Each partner of a partnership;</section><section prefix="(2)">Each officer, director, and stockholder who has direct or indirect ownership or control of 10 percent or more of the stock of a corporation; or</section><section prefix="(3)">Each individual who has direct or indirect ownership of 10 percent or more of a nursing home or community program.</section></section>

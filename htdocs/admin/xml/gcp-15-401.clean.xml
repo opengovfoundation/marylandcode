@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-15-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The State's Attorney for a county shall receive:<section prefix="(i)">an annual salary for performing the duties of the office as set forth in the public general laws and the public local laws of the county; and</section><section prefix="(ii)">an annual payment for office, travel, and other expenses as provided by law and the current practice of the county.</section></section>

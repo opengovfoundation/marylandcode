@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-406" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">After July 1, 1990, the owner of an incinerator for the disposal of solid waste as defined in &#xA7; 7-201 or &#xA7; 9-101 of this article may not operate or cause the incinerator to be operated unless the owner certifies to the Department that any person operating the incinerator has completed a course of instruction, approved by the Department, in the proper and safe operation of the incinerator.</section>
     <section prefix="(b)">An operator of an incinerator who meets the requirements of subsection (a) of this section shall be present at all times the incinerator is in operation.</section>

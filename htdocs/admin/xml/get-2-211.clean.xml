@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-211" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-2-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">The register shall maintain in the register's office, for the purpose of recording the proceedings in connection with the administration of estates, a wills record book, an administration proceedings record book, a release record book, and a claims docket in addition to the claims against the nonresident decedents book described in &#xA7; 5-503 of this article.</section>
     <section prefix="(b)">Immediately upon the administrative or judicial probate of a will the register shall record it, with every paper incidental to probate, in the wills record book, and the register shall index it under the name of the decedent.</section>

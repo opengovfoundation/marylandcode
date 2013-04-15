@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-401" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-1-401</section_number>
-  <catch_line/>
+  <catch_line>It is the intent of the General Assembly that property owners in this State have:...</catch_line>
+  <order_by>401</order_by>
   <text>It is the intent of the General Assembly that property owners in this State have:<section prefix=""><section prefix="(1)">knowledge that the valuation and assessment of property is the responsibility of the State Department of Assessments and Taxation;</section><section prefix="(2)">understanding of the valuation and assessment process;</section><section prefix="(3)">assurance that the valuation and assessment of property within classes is uniform;</section><section prefix="(4)">access to information which is the basis for the property valuation and assessment process in this State; and</section><section prefix="(5)">understanding that the setting of property tax rates and the collection of property taxes is a local government function.</section></section></text>
 </law>

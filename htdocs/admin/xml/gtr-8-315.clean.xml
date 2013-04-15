@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-315" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">Even if not needed for highway purposes, property along controlled access highways may be acquired under this subtitle if:<section prefix="(1)">The property is cut off from suitable access to a public highway because of the construction or reconstruction of any controlled access highway; or</section><section prefix="(2)">The property is needed to provide a right-of-way or entrance to a public highway from any property that has been denied access to a public highway because of the construction or reconstruction of a controlled access highway.</section></section>
     <section prefix="(b)">Property may be acquired under this subtitle for a highway beautification project as specified in Subtitles 7 and 8 of this title, by the means and for the purposes specified in those subtitles.</section>

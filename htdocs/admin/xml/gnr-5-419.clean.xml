@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-419" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-419</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>419</order_by>
   <text>
     <section prefix="(a)">An applicant shall pay to the Department at the time of making application, a fee of $30. An applicant who fails any examination, shall pay an additional fee of $20 for each subsequent examination the applicant takes.</section>
     <section prefix="(b)">A tree expert license shall be renewed annually. A person who holds a license and wishes to renew it shall pay a $10 annual renewal fee.</section>

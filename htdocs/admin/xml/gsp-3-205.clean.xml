@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-205" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-3-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Board is responsible for administering and enforcing provisions of this title relating to employees described in &#xA7; 3-102(a)(1)(i) through (iv) and (vi) through (ix) and (2) of this title.</section>
-    <section prefix="(b)">In addition to any other powers or duties provided for elsewhere in this title, the Board may:<section prefix="(1)"><section prefix="(i)">establish guidelines for creating new bargaining units that include a consideration of:</section><section prefix="(ii)">establish standards for determining an appropriate bargaining unit; and</section><section prefix="(iii)">investigate and resolve disputes about appropriate bargaining units;</section></section><section prefix="(2)">establish procedures for, supervise the conduct of, and resolve disputes about elections for exclusive representatives; and</section><section prefix="(3)">investigate and take appropriate action in response to complaints of unfair labor practices and lockouts.</section></section>
+    <section prefix="(b)">In addition to any other powers or duties provided for elsewhere in this title, the Board may:<section prefix="(1)"><section prefix="(i)">establish guidelines for creating new bargaining units that include a consideration of:<section prefix="1.">the effect of overfragmentation on the employer;</section><section prefix="2.">the administrative structures of the State employer;</section><section prefix="3.">the recommendations of the parties;</section><section prefix="4.">the recommendations of the Executive Director;</section><section prefix="5.">the desires of the employees involved;</section><section prefix="6.">the communities of interest of the employees involved; and</section><section prefix="7.">the wages, hours, and other working conditions of the employees;</section></section><section prefix="(ii)">establish standards for determining an appropriate bargaining unit; and</section><section prefix="(iii)">investigate and resolve disputes about appropriate bargaining units;</section></section><section prefix="(2)">establish procedures for, supervise the conduct of, and resolve disputes about elections for exclusive representatives; and</section><section prefix="(3)">investigate and take appropriate action in response to complaints of unfair labor practices and lockouts.</section></section>
     <section prefix="(c)">
       <section prefix="(1)">The Board may not designate a unique bargaining unit for each of the units of government identified in &#xA7; 3-102(a)(1)(vi) through (ix) of this title.</section>
       <section prefix="(2)">At the request of the exclusive representative, the Board shall:<section prefix="(i)">determine the appropriate existing bargaining unit into which to assign each employee in the units of government identified in &#xA7; 3-102(a)(1)(vi) through (ix) of this title; and</section><section prefix="(ii)">accrete all positions to appropriate existing bargaining units.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">Notwithstanding Subtitle 4 of this title, at the request of the exclusive representative, the Board shall conduct a self-determination election for each bargaining unit representative for the accreted employees in units of government identified in &#xA7; 3-102(a)(1)(vi) through (ix) of this title.</section>
         <section prefix="(ii)">All elections shall be conducted by secret ballot.</section>
-        <section prefix="(iii)">For each election, the Board shall place the following choices on the ballot:</section>
+        <section prefix="(iii)">For each election, the Board shall place the following choices on the ballot:<section prefix="1.">the name of the incumbent exclusive representative; and</section><section prefix="2.">a provision for "no exclusive representative".</section></section>
       </section>
     </section>
   </text>

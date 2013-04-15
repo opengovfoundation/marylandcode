@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-213" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-213</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213</order_by>
   <text>
     <section prefix="(a)">In this section, "agreement" means an agreement made under subsection (b) of this section.</section>
     <section prefix="(b)">The Department may make agreements with country clubs and golf courses that specify the manner of assessing the land of a country club or golf course. All agreements shall contain uniform provisions.</section>

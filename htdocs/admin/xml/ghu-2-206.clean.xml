@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-206" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-2-206</section_number>
-  <catch_line/>
+  <catch_line>If the Secretary is required by law to make an appointment with the approval of the Governor to a pa...</catch_line>
+  <order_by>206</order_by>
   <text>If the Secretary is required by law to make an appointment with the approval of the Governor to a particular office in the Department and the appointee is required to serve at the pleasure of the Secretary, the Secretary may not remove the appointee without first obtaining the Governor's approval.</text>
 </law>

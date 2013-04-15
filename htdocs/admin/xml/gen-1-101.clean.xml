@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-101" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-1-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this article the following words have the meanings indicated.</section>
     <section prefix="(b)">"Contested case hearing" means an adjudicatory hearing in accordance with the contested case procedures of Subtitle 2 of the Maryland Administrative Procedure Act.</section>

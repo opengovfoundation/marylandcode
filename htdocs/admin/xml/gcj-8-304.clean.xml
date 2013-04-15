@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-8-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Whenever a person fails to return a completed juror qualification form as instructed, a jury commissioner may summons the person to appear before the jury commissioner or jury judge.</section>
     <section prefix="(b)">Whenever a person appears under this section, a jury commissioner or jury judge:<section prefix="(1)">May require the person to complete, sign, and acknowledge a juror qualification form in the presence of the jury commissioner; and</section><section prefix="(2)">If, at that time, it seems to the jury commissioner or jury judge to be warranted, may question the person but only as to responses to questions in the form and grounds for disqualification, excusal, exemption, or rescheduling.</section></section>

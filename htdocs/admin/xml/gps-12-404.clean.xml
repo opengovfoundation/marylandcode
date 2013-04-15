@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-404" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">After notice and hearing as required under Title 10, Subtitle 1 of the State Government Article, the Department may determine whether a location is a hazardous location.</section>
     <section prefix="(b)">After notice and hearing, the Department may except from safety glazing requirements a panel in a hazardous location if the panel:<section prefix="(1)">is less than 200 square inches; and</section><section prefix="(2)">is located so that the use of material other than safety glazing material would not constitute an unreasonable hazard.</section></section>

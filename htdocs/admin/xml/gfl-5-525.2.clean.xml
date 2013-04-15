@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-525.2" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-525.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>525.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A local department shall place together siblings who are in an out-of-home placement under &#xA7; 5-525 of this subtitle if:<section prefix="(i)">it is in the best interests of the siblings to be placed together; and</section><section prefix="(ii)">placement of the siblings together does not conflict with a specific health or safety regulation.</section></section>

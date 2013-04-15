@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-222" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-222</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>222</order_by>
   <text>
-    <section prefix="(a)">In this section, "tax preference items" mean the items that:<section prefix="(1)">total more than $10,000 for an individual return or $20,000 for a joint return;</section><section prefix="(2)">are defined under &#xA7; 57 of the Internal Revenue Code;</section><section prefix="(3)">are modified and apportioned under &#xA7; 59 of the Internal Revenue Code; and</section><section prefix="(4)">are further modified by excluding:<section prefix="(i)">the oil percentage depletion allowance claimed under &#xA7; 613 or &#xA7; 613A of the Internal Revenue Code; and</section><section prefix="(ii)">interest described in &#xA7; 57(a)(5) of the Internal Revenue Code, if the interest is attributable to obligations of:</section></section></section>
+    <section prefix="(a)">In this section, "tax preference items" mean the items that:<section prefix="(1)">total more than $10,000 for an individual return or $20,000 for a joint return;</section><section prefix="(2)">are defined under &#xA7; 57 of the Internal Revenue Code;</section><section prefix="(3)">are modified and apportioned under &#xA7; 59 of the Internal Revenue Code; and</section><section prefix="(4)">are further modified by excluding:<section prefix="(i)">the oil percentage depletion allowance claimed under &#xA7; 613 or &#xA7; 613A of the Internal Revenue Code; and</section><section prefix="(ii)">interest described in &#xA7; 57(a)(5) of the Internal Revenue Code, if the interest is attributable to obligations of:<section prefix="1.">the State of Maryland;</section><section prefix="2.">a political subdivision or authority of the State; or</section><section prefix="3.">any other entity authorized under Maryland law to issue obligations the interest on which is excluded from gross income under &#xA7; 103 of the Internal Revenue Code.</section></section></section></section>
     <section prefix="(b)">Each shareholder of an S corporation shall report the shareholder's pro rata share of the tax preference items of the corporation.</section>
     <section prefix="(c)">
       <section prefix="(1)">A nonresident shall include as tax preference items only those items that are based on income taxable in the State.</section>

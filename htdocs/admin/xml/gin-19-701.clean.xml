@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-701" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-701</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
-      <section prefix="(1)">"Affected property" means:<section prefix="(i)"/><section prefix="(ii)">an individual rental dwelling unit within:</section></section>
+      <section prefix="(1)">"Affected property" means:<section prefix="(i)"><section prefix="1.">a residential rental property constructed before 1950 that contains not more than one rental dwelling unit; or</section><section prefix="2.">a residential rental property that contains not more than one rental dwelling unit for which the owner makes an election under &#xA7; 6-803(a)(2) of the Environment Article; or</section></section><section prefix="(ii)">an individual rental dwelling unit within:<section prefix="1.">a residential rental property constructed before 1950 that contains more than one rental dwelling unit; or</section><section prefix="2.">a residential rental property that contains more than one rental dwelling unit for which the owner makes an election under &#xA7; 6-803(a)(2) of the Environment Article.</section></section></section>
       <section prefix="(2)">"Affected property" does not include property exempted under &#xA7; 6-803(b) of the Environment Article.</section>
     </section>
     <section prefix="(c)">"Owner" has the meaning stated in &#xA7; 6-801(o) of the Environment Article.</section>

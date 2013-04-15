@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">This section applies to money, property, food stamps, or other assistance that is provided under a social or nutritional program based on need that is:<section prefix="(1)">financed wholly or partly by the State; and</section><section prefix="(2)">administered by the State or a political subdivision of the State.</section></section>
     <section prefix="(b)">By fraud, a person may not obtain, attempt to obtain, or help another person to obtain or attempt to obtain, money, property, food stamps, or other assistance to which the person is not entitled.</section>

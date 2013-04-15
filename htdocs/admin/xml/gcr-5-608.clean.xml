@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-608" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, a person who violates a provision of &#xA7;&#xA7; 5-602 through 5-606 of this subtitle with respect to a Schedule I or Schedule II narcotic drug is guilty of a felony and on conviction is subject to imprisonment not exceeding 20 years or a fine not exceeding $25,000 or both.</section>
     <section prefix="(b)">
@@ -15,7 +15,7 @@
       <section prefix="(4)">A person convicted under subsection (a) of this section is not prohibited from participating in a drug treatment program under &#xA7; 8-507 of the Health - General Article because of the length of the sentence.</section>
     </section>
     <section prefix="(c)">
-      <section prefix="(1)">A person who is convicted under subsection (a) of this section or of conspiracy to commit a crime included in subsection (a) of this section shall be sentenced to imprisonment for not less than 25 years and is subject to a fine not exceeding $100,000 if the person previously:<section prefix="(i)">has served at least one term of confinement of at least 180 days in a correctional institution as a result of a conviction:</section><section prefix="(ii)">has been convicted twice, if the convictions arise from separate occasions:</section></section>
+      <section prefix="(1)">A person who is convicted under subsection (a) of this section or of conspiracy to commit a crime included in subsection (a) of this section shall be sentenced to imprisonment for not less than 25 years and is subject to a fine not exceeding $100,000 if the person previously:<section prefix="(i)">has served at least one term of confinement of at least 180 days in a correctional institution as a result of a conviction:<section prefix="1.">under subsection (a) of this section or &#xA7; 5-609 or &#xA7; 5-614 of this subtitle;</section><section prefix="2.">of conspiracy to commit a crime included in subsection (a) of this section or &#xA7; 5-609 of this subtitle; or</section><section prefix="3.">	of a crime under the laws of another state or the United States that would be a crime included in subsection (a) of this section or &#xA7; 5-609 of this subtitle if committed in this State; and</section></section><section prefix="(ii)">has been convicted twice, if the convictions arise from separate occasions:<section prefix="1.">under subsection (a) of this section or &#xA7; 5-609 of this subtitle;</section><section prefix="2.">of conspiracy to commit a crime included in subsection (a) of this section or &#xA7; 5-609 of this subtitle;</section><section prefix="3.">of a crime under the laws of another state or the United States that would be a crime included in subsection (a) of this section or &#xA7; 5-609 of this subtitle if committed in this State; or</section><section prefix="4.">of any combination of these crimes.</section></section></section>
       <section prefix="(2)">The court may not suspend any part of the mandatory minimum sentence of 25 years.</section>
       <section prefix="(3)">Except as provided in &#xA7; 4-305 of the Correctional Services Article, the person is not eligible for parole during the mandatory minimum sentence.</section>
       <section prefix="(4)">A separate occasion is one in which the second or succeeding crime is committed after there has been a charging document filed for the preceding crime.</section>

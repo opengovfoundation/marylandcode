@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-425" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-425</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>425</order_by>
   <text>
     <section prefix="(a)">A savings and loan association may:<section prefix="(1)">Act as a depository of funds of:<section prefix="(i)">The federal government and its agencies; and</section><section prefix="(ii)">This State and any of its political subdivisions;</section></section><section prefix="(2)">Pledge collateral to secure deposits; and</section><section prefix="(3)">Comply with the terms required by the depositor.</section></section>
     <section prefix="(b)">Depositors under this section are general creditors under &#xA7; 9-329 of this title ("Priority of claims").</section>

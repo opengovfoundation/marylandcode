@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-702" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission shall issue a license to the Cecil County Breeders' Fair, Inc., or its successor to hold racing on at least 2 but not more than 8 one-day race meetings a year for steeplechase, hurdle, or flat racing at the Fair Hill Natural Resources Management Area.</section>

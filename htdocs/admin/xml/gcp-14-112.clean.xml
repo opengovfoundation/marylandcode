@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-112" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-14-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">The budget of the State Prosecutor and the Office of the State Prosecutor shall be a part of the budget of the Office of the Attorney General.</section>
     <section prefix="(b)">The State Prosecutor may appoint and employ the professional, investigative, and clerical staff provided in the State budget.</section>

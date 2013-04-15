@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-404" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-7-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">The Attorney General may seek an injunction to prohibit a person who has engaged or is engaging in a violation of this subtitle from engaging or continuing to engage in the violation.</section>
     <section prefix="(b)">The court may enter any order or judgment necessary to:<section prefix="(1)">Prevent the use by a person of any prohibited practice;</section><section prefix="(2)">Restore to a person any money or real or personal property acquired from the person by means of any prohibited practice; or</section><section prefix="(3)">Appoint a receiver in the case of a willful violation of this subtitle.</section></section>

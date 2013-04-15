@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-110" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-10-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">Unless the person holds a permit issued under this subtitle, a person may not:<section prefix="(1)">discharge fireworks; or</section><section prefix="(2)">possess fireworks:<section prefix="(i)">with intent to discharge or allow the discharge of the fireworks in violation of this subtitle; or</section><section prefix="(ii)">for the purpose of disposing or selling the fireworks to a person for use or discharge without a permit, if a permit is required by this subtitle.</section></section></section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-331" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-331</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>331</order_by>
   <text>
     <section prefix="(a)">Before termination of parental rights as to a child, a petition for adoption of the child may be filed only as provided in this Part III of this subtitle.</section>
     <section prefix="(b)">
@@ -13,7 +13,7 @@
       <section prefix="(2)">If a petitioner under this section is married, the petitioner's spouse shall join in the petition unless the spouse:<section prefix="(i)">is separated from the petitioner under a circumstance that gives the petitioner a ground for annulment or divorce; or</section><section prefix="(ii)">is not competent to join in the petition.</section></section>
     </section>
     <section prefix="(c)">
-      <section prefix="(1)">A petitioner under this section shall attach to a petition:<section prefix="(i)">for a parent who is dead, a death certificate;</section><section prefix="(ii)">for each other parent:</section><section prefix="(iii)">each other consent required under &#xA7; 5-338 of this subtitle;</section><section prefix="(iv)">a copy of an agreement, if any, for postadoption contact; and</section><section prefix="(v)">a notice of filing that:</section></section>
+      <section prefix="(1)">A petitioner under this section shall attach to a petition:<section prefix="(i)">for a parent who is dead, a death certificate;</section><section prefix="(ii)">for each other parent:<section prefix="1.">the consent required under this Part III of this subtitle;</section><section prefix="2.">an affidavit, by the local department with custody of the child, stating that:</section><section prefix="3.">if applicable:</section></section><section prefix="(iii)">each other consent required under &#xA7; 5-338 of this subtitle;</section><section prefix="(iv)">a copy of an agreement, if any, for postadoption contact; and</section><section prefix="(v)">a notice of filing that:<section prefix="1.">states the date on which the petition was filed;</section><section prefix="2.">identifies each person whose consent was filed with the petition;</section><section prefix="3.">states the obligation of a parent to give the juvenile court and local department notice of each change in the parent's address;</section><section prefix="4.">if applicable, states that a postadoption agreement was filed with the petition; and</section><section prefix="5.">includes no identifying information that would be in violation of an agreement or consent.</section></section></section>
       <section prefix="(2)">In addition to a copy of an agreement for postadoption contact, a petitioner shall file the original agreement under seal.</section>
     </section>
     <section prefix="(d)">If the marital status of a petitioner changes before entry of an order, the petitioner shall amend the petition accordingly.</section>

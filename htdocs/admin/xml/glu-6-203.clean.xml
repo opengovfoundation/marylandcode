@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-203" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-6-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The appellate board of the local jurisdiction where a platted street is located may grant a permit to develop a platted street on an appeal filed by the owner of the land on which the street is located:<section prefix="(1)">after a hearing at which the parties in interest have an opportunity to be heard; and</section><section prefix="(2)">by a vote of a majority of the authorized membership of the appellate board.</section></section>
     <section prefix="(b)">At least 15 days before the hearing required under subsection (a) of this section, the appellate board shall:<section prefix="(1)">mail to the appellant, at the address specified in the appeal petition, notice of the time and place of the hearing; and</section><section prefix="(2)">publish a notice of the hearing in a newspaper of general circulation in the local jurisdiction.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-303" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Real and personal property owned or purchased by a limited liability company may be acquired in the name of the limited liability company.</section>
     <section prefix="(b)">An instrument or document for the acquisition, mortgage, or disposition of property of the limited liability company shall be valid and binding upon the limited liability company if executed by 1 or more authorized persons.</section>

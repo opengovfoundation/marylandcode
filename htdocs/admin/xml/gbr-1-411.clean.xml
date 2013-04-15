@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-411" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-1-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">A mark and its registration may be assigned with:<section prefix="(1)">the good will of the business that uses the mark; or</section><section prefix="(2)">that part of the good will of the business connected with the mark.</section></section>
     <section prefix="(b)">The assignment shall be by a written, signed instrument.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-830" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-830</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>830</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -20,7 +20,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">Each carrier that does not allow direct access to specialists shall establish and implement a procedure by which a member may receive a standing referral to a specialist in accordance with this subsection.</section>
-      <section prefix="(2)">The procedure shall provide for a standing referral to a specialist if:<section prefix="(i)">the primary care physician of the member determines, in consultation with the specialist, that the member needs continuing care from the specialist;</section><section prefix="(ii)">the member has a condition or disease that:</section><section prefix="(iii)">the specialist:</section></section>
+      <section prefix="(2)">The procedure shall provide for a standing referral to a specialist if:<section prefix="(i)">the primary care physician of the member determines, in consultation with the specialist, that the member needs continuing care from the specialist;</section><section prefix="(ii)">the member has a condition or disease that:<section prefix="1.">is life threatening, degenerative, chronic, or disabling; and</section><section prefix="2.">requires specialized medical care; and</section></section><section prefix="(iii)">the specialist:<section prefix="1.">has expertise in treating the life-threatening, degenerative, chronic, or disabling disease or condition; and</section><section prefix="2.">is part of the carrier's provider panel.</section></section></section>
       <section prefix="(3)">Except as provided in subsection (c) of this section, a standing referral shall be made in accordance with a written treatment plan for a covered service developed by:<section prefix="(i)">the primary care physician;</section><section prefix="(ii)">the specialist; and</section><section prefix="(iii)">the member.</section></section>
       <section prefix="(4)">A treatment plan may:<section prefix="(i)">limit the number of visits to the specialist;</section><section prefix="(ii)">limit the period of time in which visits to the specialist are authorized; and</section><section prefix="(iii)">require the specialist to communicate regularly with the primary care physician regarding the treatment and health status of the member.</section></section>
       <section prefix="(5)">The procedure by which a member may receive a standing referral to a specialist may not include a requirement that a member see a provider in addition to the primary care physician before the standing referral is granted.</section>
@@ -28,7 +28,7 @@
     <section prefix="(c)">(1)	Notwithstanding any other provision of this section, a member who is pregnant shall receive a standing referral to an obstetrician in accordance with this subsection.<section prefix="(2)">After the member who is pregnant receives a standing referral to an obstetrician, the obstetrician is responsible for the primary management of the member's pregnancy, including the issuance of referrals in accordance with the carrier's policies and procedures, through the postpartum period.</section><section prefix="(3)">A written treatment plan may not be required when a standing referral is to an obstetrician under this subsection.</section></section>
     <section prefix="(d)">
       <section prefix="(1)">Each carrier shall establish and implement a procedure by which a member may request a referral to a specialist or nonphysician specialist who is not part of the carrier's provider panel in accordance with this subsection.</section>
-      <section prefix="(2)">The procedure shall provide for a referral to a specialist or nonphysician specialist who is not part of the carrier's provider panel if:<section prefix="(i)">the member is diagnosed with a condition or disease that requires specialized health care services or medical care; and</section><section prefix="(ii)"/></section>
+      <section prefix="(2)">The procedure shall provide for a referral to a specialist or nonphysician specialist who is not part of the carrier's provider panel if:<section prefix="(i)">the member is diagnosed with a condition or disease that requires specialized health care services or medical care; and</section><section prefix="(ii)"><section prefix="1.">the carrier does not have in its provider panel a specialist or nonphysician specialist with the professional training and expertise to treat or provide health care services for the condition or disease; or</section><section prefix="2.">the carrier cannot provide reasonable access to a specialist or nonphysician specialist with the professional training and expertise to treat or provide health care services for the condition or disease without unreasonable delay or travel.</section></section></section>
     </section>
     <section prefix="(e)">For purposes of calculating any deductible, copayment amount, or coinsurance payable by the member, a carrier shall treat services received in accordance with subsection (d) of this section as if the service was provided by a provider on the carrier's provider panel.</section>
     <section prefix="(f)">A decision by a carrier not to provide access to or coverage of treatment or health care services by a specialist or nonphysician specialist in accordance with this section constitutes an adverse decision as defined under Subtitle 10A of this title if the decision is based on a finding that the proposed service is not medically necessary, appropriate, or efficient.</section>

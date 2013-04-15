@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-405" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">This section applies only to a person employed in any capacity in the management or navigation of a vessel on a river, canal, bay, or other waters exclusively within the State whether or not the person is a co-owner of or has an interest in any of the cargo of the vessel.</section>
     <section prefix="(b)">A person may not sell, give away, pledge, or in any manner dispose of the cargo of a vessel or an article or commodity on the vessel:<section prefix="(1)">without the consent of the owner; and</section><section prefix="(2)">with the intent to defraud the owner.</section></section>

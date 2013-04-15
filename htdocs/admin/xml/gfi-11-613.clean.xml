@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-613" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-11-613</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>613</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any person aggrieved by the conduct of a licensee under this subtitle in connection with a mortgage loan may file a written complaint with the Commissioner who shall investigate the complaint.</section>

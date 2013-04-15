@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-302" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-8-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">A person shall file an application with the commission before constructing, reconstructing, altering, moving, or demolishing a site or structure located within a locally designated district if any exterior changes are involved that would affect the historic, archaeological, or architectural significance of the site or structure, any portion of which is visible or intended to be visible from a public way.</section>
     <section prefix="(b)">

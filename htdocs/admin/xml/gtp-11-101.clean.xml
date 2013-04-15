@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-101" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-11-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">On or before April 15 of each year, a person shall submit a report on personal property to the Department if:<section prefix="(1)">the person is a business trust, statutory trust, domestic corporation, limited liability company, limited liability partnership, or limited partnership;</section><section prefix="(2)">the person is a foreign corporation, foreign statutory trust, foreign limited liability company, foreign limited liability partnership, or foreign limited partnership registered or qualified to do business in the State; or</section><section prefix="(3)">the person owns or during the preceding calendar year owned property that is subject to property tax.</section></section>
     <section prefix="(b)">The report shall:<section prefix="(1)">be in the form that the Department requires;</section><section prefix="(2)">be under oath as the Department requires; and</section><section prefix="(3)">contain the information that the Department requires.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-605" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a candidate who is required by &#xA7; 15-601(a) of this subtitle to file a statement shall file the statement each year beginning with the year in which the candidate files a certificate of candidacy through the year of the election.</section>
     <section prefix="(b)">This section does not require the filing of a statement for any full year covered by a statement filed by the individual under &#xA7; 15-602 of this subtitle.</section>

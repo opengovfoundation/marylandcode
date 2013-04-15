@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-104" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">In addition to the specific powers granted and duties imposed by this title, the Administration has the powers and duties set forth in this section.</section>
     <section prefix="(b)">The Administration may adopt rules and regulations to carry out:<section prefix="(1)">Those provisions of the Maryland Vehicle Law that relate to or are administered and enforced by the Administration; and</section><section prefix="(2)">The provisions of any other law that the Administration is authorized to administer and enforce.</section></section>

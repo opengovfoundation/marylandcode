@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-406" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-8-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">A public service company may claim a credit against the public service company franchise tax equal to the estimated tax paid under &#xA7; 8-405(b) of this subtitle.</section>
     <section prefix="(b)">
@@ -17,9 +17,12 @@
         <section prefix="(i)">This paragraph applies only to credits claimed under this subsection for calendar years beginning on or after January 1, 2007.</section>
         <section prefix="(ii)">The amount claimed as a credit under this subsection may not exceed the amount approved by the Department under this paragraph.</section>
         <section prefix="(iii)">By January 15 of the calendar year following the end of the calendar year in which the Maryland-mined coal was purchased, a public service company, or a cogenerator or electricity supplier as defined in &#xA7; 10-704.1 of this article, shall submit an application to the Department for approval of the credit allowed under this paragraph.</section>
-        <section prefix="(iv)">Subject to subparagraph (vi) of this paragraph, the total amount of credits approved by the Department under this paragraph for any calendar year may not exceed:</section>
-        <section prefix="(v)">Subject to subparagraph (vi) of this paragraph, if the total amount of credits applied for in any calendar year under this paragraph exceeds the maximum specified under subparagraph (iv) of this paragraph, the Department shall approve a credit under this paragraph for each applicant in an amount equal to the product of multiplying the credit applied for by the applicant times a fraction:</section>
-        <section prefix="(vi)"/>
+        <section prefix="(iv)">Subject to subparagraph (vi) of this paragraph, the total amount of credits approved by the Department under this paragraph for any calendar year may not exceed:<section prefix="1.">$4,500,000 for a calendar year beginning after December 31, 2008, but before January 1, 2013;</section><section prefix="2.">$6,000,000 for a calendar year beginning after December 31, 2012, but before January 1, 2015; or</section><section prefix="3.">$3,000,000 for a calendar year beginning after December 31, 2014, but before January 1, 2021.</section></section>
+        <section prefix="(v)">Subject to subparagraph (vi) of this paragraph, if the total amount of credits applied for in any calendar year under this paragraph exceeds the maximum specified under subparagraph (iv) of this paragraph, the Department shall approve a credit under this paragraph for each applicant in an amount equal to the product of multiplying the credit applied for by the applicant times a fraction:<section prefix="1.">the numerator of which is the maximum specified under subparagraph (iv) of this paragraph; and</section><section prefix="2.">the denominator of which is the total of all credits applied for by all applicants under this paragraph for the calendar year.</section></section>
+        <section prefix="(vi)">
+          <section prefix="1.">Of the total credits approved for any calendar year beginning after December 31, 2006, but before January 1, 2021, the Department shall reserve $2,250,000 of the credits for purchases of Maryland-mined coal that will be used by a facility in Maryland.</section>
+          <section prefix="2.">If the total amount of credits applied for by all applicants for any calendar year for the purchase of Maryland-mined coal that will be used in Maryland exceeds $2,250,000, the Department shall approve a credit under this paragraph for each applicant in an amount equal to the product of multiplying the credit applied for by the applicant times a fraction:</section>
+        </section>
         <section prefix="(vii)">On or before February 15 of the calendar year following the end of the calendar year in which the Maryland-mined coal was purchased, the Department shall certify to each applicant claiming a credit the amount of the tax credits approved by the Department for that applicant under this paragraph.</section>
       </section>
     </section>

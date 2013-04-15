@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-502" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">As used in this section, "creditor process" means levy, attachment, garnishment, notice of lien, sequestration, or similar process issued by or on behalf of a creditor or other claimant with respect to an account.</section>
     <section prefix="(b)">This subsection applies to creditor process with respect to an authorized account of the sender of a payment order if the creditor process is served on the receiving bank. For the purpose of determining rights with respect to the creditor process, if the receiving bank accepts the payment order the balance in the authorized account is deemed to be reduced by the amount of the payment order to the extent the bank did not otherwise receive payment of the order, unless the creditor process is served at a time and in a manner affording the bank a reasonable opportunity to act on it before the bank accepts the payment order.</section>

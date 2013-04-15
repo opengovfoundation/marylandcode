@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-610" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-6-610</section_number>
-  <catch_line/>
+  <catch_line>The Commission may not operate any programs or provide any direct services....</catch_line>
+  <order_by>610</order_by>
   <text>The Commission may not operate any programs or provide any direct services.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">In this section, "offer for sale" includes to induce, solicit, attempt, or advertise in a manner intended to encourage a person to purchase an identification card.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, a person may not:<section prefix="(1)">sell, issue, offer for sale, or offer to issue an identification card or document that contains:<section prefix="(i)">a blank space for a person's age or date of birth; or</section><section prefix="(ii)">a person's incorrect age or date of birth; or</section></section><section prefix="(2)">knowingly sell, issue, offer for sale, or offer to issue an identification card or document that contains:<section prefix="(i)">an incorrect name instead of a person's true name; or</section><section prefix="(ii)">an incorrect address for a person.</section></section></section>

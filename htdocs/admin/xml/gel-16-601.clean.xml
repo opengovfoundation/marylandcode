@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-601" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-16-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">An election judge or other election official may not willfully and knowingly:<section prefix="(1)">Make, sign, publish, or deliver a false certificate or statement of the result of the election or any other false report of any kind; or</section><section prefix="(2)">Deface, destroy, or conceal any statement, tally, certificate, or other document entrusted to the official's care and custody.</section></section>
     <section prefix="(b)">A person who violates this section is guilty of a felony and is subject to imprisonment for not less than 1 year nor more than 10 years.</section>

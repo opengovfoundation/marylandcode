@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-211" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">In this section, "assisted living program" has the meaning stated in &#xA7; 19-1801 of the Health - General Article.</section>
     <section prefix="(b)">The Secretary shall develop assisted living programs for seniors in conjunction with:<section prefix="(1)">public or private for profit or nonprofit corporations; or</section><section prefix="(2)">State or federal units.</section></section>

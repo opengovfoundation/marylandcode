@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-315" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">The Board shall issue a license free of charge to any physician who:<section prefix="(1)">Provides medical services to patients for which the physician receives no personal remuneration;</section><section prefix="(2)">Is not engaged in the private practice of medicine; and</section><section prefix="(3)">Otherwise qualifies for a license under this title.</section></section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, each license issued under this section expires on the second anniversary of the date on which it is issued and may be renewed every 2 years on application to the Board.</section>

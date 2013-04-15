@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-605" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -20,7 +20,7 @@
     <section prefix="(c)">If a health care facility uses a remote automated medication system, a pharmacist shall review for accuracy, completeness, and appropriateness all medication orders after being entered into the system.</section>
     <section prefix="(d)">
       <section prefix="(1)">If a remote automated medication system, the pharmacy permit holder that manages the system, and the health care facility where the system is located meet the requirements of this subsection:<section prefix="(i)">A health care facility that uses a system does not need to have a pharmacist physically present to review the selection, packaging, or repackaging of medications by the system;</section><section prefix="(ii)">If the starter dose is reviewed by a pharmacist within 24 hours of delivery from a system, a system may deliver a starter dose or a dose in response to an emergency without prior review by a pharmacist; and</section><section prefix="(iii)">A system may allow simultaneous access to multiple drug strengths, dosage forms, or drug entities if contained within a patient-specific package.</section></section>
-      <section prefix="(2)">A remote automated medication system shall at least:<section prefix="(i)">Use bar code technology to ensure accuracy in loading and selection of medications in the system;</section><section prefix="(ii)">Have electronic reporting capability regarding the identity of all persons with access to the system and regarding all medications removed from the system; and</section><section prefix="(iii)">Before administration of a medication to a patient by an individual authorized to administer medication under this article, provide:</section></section>
+      <section prefix="(2)">A remote automated medication system shall at least:<section prefix="(i)">Use bar code technology to ensure accuracy in loading and selection of medications in the system;</section><section prefix="(ii)">Have electronic reporting capability regarding the identity of all persons with access to the system and regarding all medications removed from the system; and</section><section prefix="(iii)">Before administration of a medication to a patient by an individual authorized to administer medication under this article, provide:<section prefix="1.">A picture of the medication if available; or</section><section prefix="2.">If a picture is not available, a written report that describes the medication.</section></section></section>
       <section prefix="(3)">The health care facility where the system is located shall have at least:<section prefix="(i)">A pharmacist available for consultation 24 hours per day;</section><section prefix="(ii)">Technical assistance regarding operation of the system available 24 hours per day; and</section><section prefix="(iii)">A quality assurance program as described under subsection (e) of this section.</section></section>
       <section prefix="(4)">The pharmacy permit holder that manages a remote automated medication system shall provide a comprehensive training program to all persons with access to the system.</section>
     </section>

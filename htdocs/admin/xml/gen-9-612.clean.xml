@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-612" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-612</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>612</order_by>
   <text>
     <section prefix="(a)">The ordinance or resolution that creates a district shall include articles of incorporation that comply with this section.</section>
     <section prefix="(b)">The articles of incorporation shall include:<section prefix="(1)">The name of the district, using the word "district";</section><section prefix="(2)">A statement that the district is formed under this subtitle;</section><section prefix="(3)">The name of each member county;</section><section prefix="(4)">The name, address, and term of office of each of the first sanitary commissioners of the district;</section><section prefix="(5)">The purposes for which the district is created; and</section><section prefix="(6)">If the district is to exercise jurisdiction over a geographical area smaller than the maximum jurisdiction allowable to the district under this subtitle, a description of the geographical jurisdiction of the district.</section></section>

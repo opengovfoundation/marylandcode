@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-302" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-6-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section and after complying with &#xA7; 6-305 of this subtitle, in each year after the date of finality and before the following July 1, the Mayor and City Council of Baltimore City or the governing body of each county annually shall set the tax rate for the next taxable year on all assessments of property subject to that county's property tax.</section>
     <section prefix="(b)">

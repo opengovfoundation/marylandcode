@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-317" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-317</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>317</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Executive Director and each other officer authorized by the Authority may:<section prefix="(i)">allow copies to be made of the minutes and records of the Authority; and</section><section prefix="(ii)">certify records under seal showing that the copies are true copies.</section></section>

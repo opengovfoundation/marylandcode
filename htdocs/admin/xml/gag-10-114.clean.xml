@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-114" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">If the referendum is supported and the assessment is levied and collected as provided, any person upon whom an annual assessment was levied and collected, if dissatisfied with the assessment may demand and receive from the treasurer of the certified agency a refund of the collected annual assessment.</section>
     <section prefix="(b)">The demand for refund shall be made in writing within 30 days from the date of collection from the person.</section>

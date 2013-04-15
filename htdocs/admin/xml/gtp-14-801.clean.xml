@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-801" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In &#xA7;&#xA7; 14-801 through 14-854 of this subtitle, the following words have the meanings indicated.</section>
     <section prefix="(b)">"Other taxing agency" means any municipal corporation or other public or quasi-public corporation that may impose a tax of any kind which is or may become a lien on real property.</section>

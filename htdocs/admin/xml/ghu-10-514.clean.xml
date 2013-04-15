@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-514" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-514</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>514</order_by>
   <text>
     <section prefix="(a)">There is a Senior Citizen Activities Center Operating Fund.</section>
     <section prefix="(b)">The Fund shall be used to supplement, but may not be used to supplant, any existing funding for senior citizen activities centers in the State budget.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-608" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">Any person who violates any provision of this subtitle, and each of his managers, managing agents, directors, or officers who directly participates in a violation or consents to a violation, is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $500 or imprisonment not exceeding three months or both.</section>
     <section prefix="(b)">It is a defense to any prosecution brought under this subtitle that the item concerning which the prosecution is brought was manufactured before July 1, 1912.</section>

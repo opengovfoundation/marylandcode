@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-203" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-10-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The election director, with the approval of the local board, shall appoint the election judges for each polling place for a term that begins on the Tuesday that is 13 weeks before each statewide primary election.</section>
     <section prefix="(b)">One or two election judges in each precinct shall:<section prefix="(1)">be designated chief judge; and</section><section prefix="(2)">supervise the staff at the polling place.</section></section>

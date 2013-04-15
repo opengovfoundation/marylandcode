@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-301.3" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-301.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301.3</order_by>
   <text>
     <section prefix="(a)">There is a commemorative lifetime hunting license.</section>
     <section prefix="(b)">The Department shall issue a limited number of commemorative lifetime hunting licenses to certain nonprofit organizations, consistent with eligibility criteria developed by the Department, until December 31, 2011.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1904" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-1904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1904</order_by>
   <text>
     <section prefix="(a)">The powers and duties of the Chesapeake Bay Trust shall rest in and be exercised by a board of 19 trustees.</section>
     <section prefix="(b)">The Board of Trustees shall consist of:<section prefix="(1)">The President of the Senate, ex officio;</section><section prefix="(2)">The Speaker of the House, ex officio;</section><section prefix="(3)">The Secretaries of Agriculture, the Environment, and Natural Resources, ex officio, or their designees; and</section><section prefix="(4)">14 individuals appointed by the Governor as follows:<section prefix="(i)">8 shall represent the interests of local government, education, environmental conservation, and the general public; and</section><section prefix="(ii)">6 shall represent the business community.</section></section></section>

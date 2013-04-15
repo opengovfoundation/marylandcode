@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-10B-01" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-10B-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -14,7 +14,7 @@
     </section>
     <section prefix="(c)">"Certificate" means a certificate of registration granted by the Commissioner to a private review agent.</section>
     <section prefix="(d)">
-      <section prefix="(1)">"Employee assistance program" means a health care service plan that, in accordance with a contract with an employer or labor union:<section prefix="(i)">consults with employees or members of an employee's family or both to:</section><section prefix="(ii)">performs utilization review for the purpose of making claims or payment decisions on behalf of the employer's or labor union's health insurance or health benefit plan.</section></section>
+      <section prefix="(1)">"Employee assistance program" means a health care service plan that, in accordance with a contract with an employer or labor union:<section prefix="(i)">consults with employees or members of an employee's family or both to:<section prefix="1.">identify the employee's or the employee's family member's mental health, alcohol, or substance abuse problems; and</section><section prefix="2.">refer the employee or the employee's family member to health care providers or other community resources for counseling, therapy, or treatment; and</section></section><section prefix="(ii)">performs utilization review for the purpose of making claims or payment decisions on behalf of the employer's or labor union's health insurance or health benefit plan.</section></section>
       <section prefix="(2)">"Employee assistance program" does not include a health care service plan operated by a hospital solely for employees, or members of an employee's family, of that hospital.</section>
     </section>
     <section prefix="(e)">

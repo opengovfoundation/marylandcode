@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-215" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-215</section_number>
-  <catch_line/>
+  <catch_line>A political subdivision in which a development or project is located may:...</catch_line>
+  <order_by>215</order_by>
   <text>A political subdivision in which a development or project is located may:<section prefix=""><section prefix="(1)">vacate any street, alley, or other public place necessary to ensure the proper operation of the development or project and the full use of its facilities; and</section><section prefix="(2)">grant to the Authority the exclusive right to use the vacated street, alley, or other public place for the purpose of the development or project on terms agreed to by the Authority and the political subdivision.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-503" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except with respect to a tax collectable locally, immediately after September 30 of each year, the State Comptroller shall certify to the Department a list of every Maryland corporation which has not paid a tax due before October 1 of the year after the tax became due.</section>

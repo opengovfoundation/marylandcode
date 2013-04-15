@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-301" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Child" means an individual, whether over or under the age of majority, who is or is alleged to be owed a duty of support by the individual's parent or who is or is alleged to be the beneficiary of a support order directed to the parent.</section>
@@ -30,7 +30,7 @@
     <section prefix="(u)">"Spousal support order" means a support order for a spouse or former spouse of the obligor.</section>
     <section prefix="(v)">
       <section prefix="(1)">"State" means a state of the United States, the District of Columbia, Puerto Rico, the United States Virgin Islands or any territory or insular possession subject to the jurisdiction of the United States.</section>
-      <section prefix="(2)">"State" includes:<section prefix="(i)">an Indian tribe; and</section><section prefix="(ii)">a foreign country or political subdivision that has:</section></section>
+      <section prefix="(2)">"State" includes:<section prefix="(i)">an Indian tribe; and</section><section prefix="(ii)">a foreign country or political subdivision that has:<section prefix="1.">been declared to be a foreign reciprocating country or political subdivision under federal law;</section><section prefix="2.">established a reciprocal arrangement for child support with this State as provided in &#xA7; 10-320 of this subtitle; or</section><section prefix="3.">enacted a law or established procedures for issuance and enforcement of support orders which are substantially similar to the procedures under this subtitle.</section></section></section>
     </section>
     <section prefix="(w)">"Support enforcement agency" means a public official or agency authorized to seek:<section prefix="(1)">enforcement of support orders or laws relating to the duty of support;</section><section prefix="(2)">establishment or modification of child support;</section><section prefix="(3)">determination of parentage;</section><section prefix="(4)">the location of obligors or their assets; or</section><section prefix="(5)">determination of the controlling child support order.</section></section>
     <section prefix="(x)">"Support order" means a judgment, decree, order, or directive whether temporary, final, or subject to modification, issued by a tribunal for the benefit of a child, a spouse, or a former spouse, that provides for monetary support, health care, arrearages, or reimbursement, and may include related costs and fees, interest, income withholding, attorney's fees, and other relief.</section>

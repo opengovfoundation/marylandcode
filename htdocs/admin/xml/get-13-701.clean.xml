@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-701" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-701</section_number>
-  <catch_line/>
+  <catch_line>Unless prohibited by agreement or court order, the surviving parent of a minor may appoint by will o...</catch_line>
+  <order_by>701</order_by>
   <text>Unless prohibited by agreement or court order, the surviving parent of a minor may appoint by will one or more guardians and successor guardians of the person of an unmarried minor. The guardian need not be approved by or qualify in any court.</text>
 </law>

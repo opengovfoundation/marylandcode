@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">A person is insolvent if the present fair market value of his assets is less than the amount required to pay his probable liability on his existing debts as they become absolute and matured.</section>
     <section prefix="(b)">In determining if a partnership is insolvent, there shall be added to the partnership property:<section prefix="(1)">The present fair market value of the separate assets of each general partner in excess of the amount probably sufficient to meet the claims of his separate creditors; and</section><section prefix="(2)">The amount of any unpaid subscription to the partnership of each limited partner, if the present fair market value of the assets of the limited partner is probably sufficient to pay his debts, including the unpaid subscription.</section></section>

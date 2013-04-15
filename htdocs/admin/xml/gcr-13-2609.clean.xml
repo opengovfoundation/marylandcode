@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2609" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2609</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The board shall exercise control and supervision over all games of bingo to ensure that the games are conducted fairly in accordance with the provisions of the licenses issued under &#xA7; 13-2610 of this subtitle, the regulations adopted by the board, and this part.</section>

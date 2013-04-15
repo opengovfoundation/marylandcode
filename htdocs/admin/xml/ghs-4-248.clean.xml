@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-248" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-248</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>248</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The interest rate or rates on and the terms of any loans and the revenues from the terms of any other assets that are financed from the proceeds of bonds or notes of the Administration, any fees that the Administration charges, and any other available revenues shall be at least sufficient to ensure repayment in full of the principal of and interest on the bonds or notes as and when due.</section>

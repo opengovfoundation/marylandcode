@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-901" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">This section does not apply to vacancy in nomination in the office of a Governor and Lieutenant Governor unit.</section>
     <section prefix="(b)">This section applies to a vacancy in candidacy for a primary election that occurs because no candidate for the political party files a certificate of candidacy for the election.</section>

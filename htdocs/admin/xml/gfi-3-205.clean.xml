@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-205" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">When articles of incorporation are filed for record in accordance with &#xA7; 3-204 of this subtitle, the commercial bank becomes a corporation.</section>
     <section prefix="(b)">Notwithstanding any charter provision or provision of law, each commercial bank has the right to perpetual existence until forfeiture.</section>

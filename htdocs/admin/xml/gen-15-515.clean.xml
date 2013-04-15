@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-515" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-515</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>515</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any funds that the Department receives and retains from license and special reclamation fees, mine reclamation surcharge, forfeiture of bonds, cash deposits, or securities shall be deposited to the credit of the State Treasurer in a bank he designates. The funds shall be maintained as a special fund on the books of the Comptroller of the Treasury in an account known as the "Bituminous Coal Open-Pit Mining Reclamation Fund". The Secretary shall use the funds to implement this subtitle and to backfill, grade, and plant areas affected by open-pit mining. However, funds received from the reclamation surcharge under &#xA7; 15-509 of this subtitle shall only be used by the Secretary for reclamation of land affected by open-pit or strip method mining in the county in which the surcharge is assessed and collected.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-221" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-221</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -14,8 +14,8 @@
       <section prefix="(4)">"Health status-related factor" has the meaning stated in &#xA7; 15-1301 of this article.</section>
       <section prefix="(5)">"Individual contract" means a contract between a carrier and an individual covering:<section prefix="(i)">the individual;</section><section prefix="(ii)">the individual and the individual's family members; or</section><section prefix="(iii)">the family members of the individual.</section></section>
       <section prefix="(6)">
-        <section prefix="(i)">"Reunderwrite" means to reevaluate any health status-related factor, occupation, hobby, or activity of an individual for the purpose of:</section>
-        <section prefix="(ii)">"Reunderwrite" does not include:</section>
+        <section prefix="(i)">"Reunderwrite" means to reevaluate any health status-related factor, occupation, hobby, or activity of an individual for the purpose of:<section prefix="1.">terminating health coverage of the individual; or</section><section prefix="2.">moving the individual from a more favorable rate class to a less favorable rate class.</section></section>
+        <section prefix="(ii)">"Reunderwrite" does not include:<section prefix="1.">moving an individual from one rate tier to another rate tier solely due to the addition or deletion of a family member under the health coverage;</section><section prefix="2.">increasing the premium under an attained age rated contract solely due to the increasing age of the individual covered under the health coverage;</section><section prefix="3.">on receipt of an application from an insured to increase the benefits under an existing contract, evaluating the health status-related factors, occupation, hobbies, or activities of the insured for the purpose of increasing the benefits under the contract; or</section><section prefix="4.">during the period in which a carrier has the right to contest a policy, denying a claim, amending the policy, making an adjustment to the premium, or rescinding the policy based on a material misrepresentation or fraud in the application.</section></section>
       </section>
     </section>
     <section prefix="(b)">A carrier may not reunderwrite an individual for health coverage under an individual contract after the individual contract has been issued.</section>

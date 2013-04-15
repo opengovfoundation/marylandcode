@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-801" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">A person who is charged with the care of a child under the age of 8 years may not allow the child to be locked or confined in a dwelling, building, enclosure, or motor vehicle while the person charged is absent and the dwelling, building, enclosure, or motor vehicle is out of the sight of the person charged unless the person charged provides a reliable person at least 13 years old to remain with the child to protect the child.</section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $500 or imprisonment not exceeding 30 days, or both.</section>

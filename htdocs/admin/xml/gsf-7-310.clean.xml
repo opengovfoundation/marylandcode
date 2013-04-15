@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-310" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">In this section, "Account" means the Dedicated Purpose Account.</section>
     <section prefix="(b)">The Dedicated Purpose Account is established:<section prefix="(1)">to retain appropriations for major, multi-year expenditures where the magnitude and timing of cash needs are uncertain; and</section><section prefix="(2)">beginning in fiscal year 1996, to meet specific expenditure requirements.</section></section>

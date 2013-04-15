@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-463" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-463</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>463</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly make or cause a false statement or report to be made in an application or document submitted to the Authority.</section>
     <section prefix="(b)">A person may not knowingly make or cause a false statement or report to be made to influence an action of the Authority:<section prefix="(1)">on an application for financial assistance under this subtitle; or</section><section prefix="(2)">affecting financial assistance sought or awarded under this subtitle.</section></section>

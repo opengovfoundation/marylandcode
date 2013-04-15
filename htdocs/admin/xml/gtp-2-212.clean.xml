@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-212" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-2-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">Personal property assessment records shall be maintained and arranged in alphabetical order according to the owner by county, election district, taxing district, or assessment area.</section>
     <section prefix="(b)">Each record shall contain:<section prefix="(1)">a brief description of the nature of the personal property; and</section><section prefix="(2)">the value of the personal property.</section></section>

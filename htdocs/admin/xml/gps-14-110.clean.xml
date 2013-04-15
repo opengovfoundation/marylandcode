@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-110" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Each county shall:<section prefix="(i)">prepare an Emergency Preparedness Plan for responding to an emergency that involves hazardous materials or controlled hazardous substances, as defined in the Environment Article; and</section><section prefix="(ii)">review the Plan annually and submit any changes to the Director so that the Director may maintain current and accurate information about the Plan.</section></section>

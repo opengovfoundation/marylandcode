@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-735" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-735</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>735</order_by>
   <text>
     <section prefix="(a)">This section applies only to a prisoner who is a covered employee under &#xA7; 9-221 of this title.</section>
     <section prefix="(b)">A prisoner who is permanently partially disabled or temporarily totally disabled shall file a claim with the Commission in accordance with this subtitle.</section>

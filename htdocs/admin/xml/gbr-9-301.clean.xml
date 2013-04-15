@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-301" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-9-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">An employment agency shall submit to the Commissioner a penal bond.</section>
     <section prefix="(b)">The bond shall:<section prefix="(1)">run to the State;</section><section prefix="(2)">be in the amount of $7,000;</section><section prefix="(3)">be signed by an individual authorized to do so by the employment agency as principal and by a surety company authorized to do business in the State as surety; and</section><section prefix="(4)">be conditioned that the employment agency will comply with this title and will pay to any person all damages caused by deceit, fraud, misrepresentation, or misstatement of the employment agency or an agent or employee of the employment agency.</section></section>

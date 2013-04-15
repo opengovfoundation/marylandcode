@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-606" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
-    <section prefix="(a)">The court may order that restitution be paid to:<section prefix="(1)">the victim;</section><section prefix="(2)">the Department of Health and Mental Hygiene, the Criminal Injuries Compensation Board, or any other governmental unit;</section><section prefix="(3)">a third-party payor, including:<section prefix="(i)">an insurer; or</section><section prefix="(ii)">any other person that has, under Part I of this subtitle:</section></section><section prefix="(4)">any person for whom restitution is authorized by law; or</section><section prefix="(5)">a person who has provided to or for a victim goods, property, or services for which restitution is authorized under &#xA7; 11-603 of this subtitle.</section></section>
+    <section prefix="(a)">The court may order that restitution be paid to:<section prefix="(1)">the victim;</section><section prefix="(2)">the Department of Health and Mental Hygiene, the Criminal Injuries Compensation Board, or any other governmental unit;</section><section prefix="(3)">a third-party payor, including:<section prefix="(i)">an insurer; or</section><section prefix="(ii)">any other person that has, under Part I of this subtitle:<section prefix="1.">compensated the victim for a property or pecuniary loss; or</section><section prefix="2.">paid an expense on behalf of a victim;</section></section></section><section prefix="(4)">any person for whom restitution is authorized by law; or</section><section prefix="(5)">a person who has provided to or for a victim goods, property, or services for which restitution is authorized under &#xA7; 11-603 of this subtitle.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, payment of restitution to the victim has priority over payment of restitution to any other person or governmental unit.</section>
       <section prefix="(2)">If the victim has been fully compensated for the victim's loss by a third-party payor, the court may issue a judgment of restitution that directs the restitution obligor to pay restitution to the third-party payor.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-1111" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-1111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1111</order_by>
   <text>
     <section prefix="(a)">The Department may forfeit the right of any foreign limited liability partnership to do business as a foreign limited liability partnership in this State if the foreign limited liability partnership fails to file with the Department any report or fails to pay any late filing penalties required by law:<section prefix="(1)">Within the time required by law; and</section><section prefix="(2)">Thereafter, within 30 days after the Department makes a written demand for the delinquent report or late filing penalties.</section></section>
     <section prefix="(b)">Unless the Department excuses a reasonable delay for good cause shown, the forfeiture is effective 15 days after written notice of forfeiture from the Department, without proceedings of any kind either at law or in equity.</section>

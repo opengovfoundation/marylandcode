@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-703" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (g) of this section, this section applies to:<section prefix="(1)">Every motor vehicle carrying a passenger for hire;</section><section prefix="(2)">Every school vehicle carrying any passenger;</section><section prefix="(3)">Every bus that is owned or operated by a church and carrying any passenger;</section><section prefix="(4)">Every vehicle carrying as cargo a flammable liquid or an explosive; and</section><section prefix="(5)">Every vehicle carrying hazardous materials of a type and quantity requiring placarding under federal hazardous materials regulations.</section></section>
     <section prefix="(b)">If the driver of any vehicle described in subsection (a) of this section approaches a railroad grade crossing, the driver shall stop within 50 feet but not less than 15 feet from the nearest rail in the crossing.</section>

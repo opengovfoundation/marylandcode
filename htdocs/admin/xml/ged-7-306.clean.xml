@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-306" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any bylaw, rule, or regulation made or approved by the State Board, a principal, vice principal, or other employee may not administer corporal punishment to discipline a student in a public school in the State.</section>
     <section prefix="(b)">The State Board of Education shall:<section prefix="(1)">Establish guidelines that define a State code of discipline for all public schools with standards of conduct and consequences for violations of the standards; and</section><section prefix="(2)">Assist each county board with the implementation of the guidelines.</section></section>

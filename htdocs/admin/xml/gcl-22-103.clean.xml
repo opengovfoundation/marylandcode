@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">This title applies to computer information transactions.</section>
     <section prefix="(b)">Except as otherwise provided in subsection (d) of this section and &#xA7; 22-104 of this subtitle, if a computer information transaction includes subject matter other than computer information, the following rules apply:<section prefix="(1)">If a transaction includes computer information and goods, this title applies to the part of the transaction involving computer information, informational rights in it, and creation or modification of it. However, if a copy of a computer program is contained in and sold or leased as part of goods, this title applies to the copy and the computer program only if:<section prefix="(A)">The goods are a computer or computer peripheral; or</section><section prefix="(B)">Giving the buyer or lessee of the goods access to or use of the program is ordinarily a material purpose of transactions in goods of the type sold or leased.</section></section><section prefix="(2)">Subject to subsection (d)(3)(A) of this section, if a transaction includes an agreement for creating or for obtaining rights to create computer information and a motion picture, this title does not apply to the agreement if the dominant character of the agreement is for creating or obtaining rights to create a motion picture. In all other such agreements, this title does not apply to the part of the agreement that involves a motion picture excluded under subsection (d)(3) of this section, but does apply to the computer information.</section><section prefix="(3)">In all other cases, this title applies to the entire transaction if the computer information and informational rights, or access to them, is the primary subject matter, but otherwise applies only to the part of the transaction involving computer information, informational rights in it, and creation or modification of it.</section></section>

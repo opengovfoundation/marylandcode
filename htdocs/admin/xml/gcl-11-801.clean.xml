@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-801" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Consignee" means a commercial agent who is:<section prefix="(1)">Entrusted with the possession of goods or agricultural products, by or for the owner, to be sold for compensation in the ordinary course of the agent's trade or business; and</section><section prefix="(2)">Generally known by those dealing with him to be substantially engaged in selling the goods or agricultural products of others.</section></section>

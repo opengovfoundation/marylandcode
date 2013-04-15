@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-121" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-121</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>121</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a person who:<section prefix="(1)">was acting in the capacity of a licensee, or an employee of a licensee, under Article 2B of the Code; and</section><section prefix="(2)">has committed a violation of and is subject to the penalties under Article 2B, &#xA7; 12-108 of the Code.</section></section>
     <section prefix="(b)">An adult who violates &#xA7; 10-116 or &#xA7; 10-117 of this subtitle is guilty of a misdemeanor and on conviction is subject to:<section prefix="(1)">a fine not exceeding $2,500 for a first offense; or</section><section prefix="(2)">a fine not exceeding $5,000 for a second or subsequent offense.</section></section>

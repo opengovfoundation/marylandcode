@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-207" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a foreign banking corporation may not have an office in this State for any purpose unless:<section prefix="(1)">The foreign banking corporation obtains from the Commissioner a permit for the office; or</section><section prefix="(2)">The office is authorized under:<section prefix="(i)">The Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 or other federal law; or</section><section prefix="(ii)">Title 5, Subtitle 9 or Subtitle 10 of this article.</section></section></section>
     <section prefix="(b)">A foreign banking corporation that maintains another license issued by the Commissioner is exempt from obtaining a permit under this section.</section>

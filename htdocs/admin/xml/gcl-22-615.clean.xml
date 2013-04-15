@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-615" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-615</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>615</order_by>
   <text>
     <section prefix="(a)">Unless a party has assumed a different obligation, delay in performance by a party, or nonperformance in whole or part by a party, other than of an obligation to make payments or to conform to contractual use terms, is not a breach of contract if the delay or nonperformance is of a performance that has been made impracticable by:<section prefix="(1)">The occurrence of a contingency the nonoccurrence of which was a basic assumption on which the contract was made; or</section><section prefix="(2)">Compliance in good faith with any foreign or domestic statute, governmental rule, regulation, or order, whether or not it later proves to be invalid.</section></section>
     <section prefix="(b)">A party claiming excuse under subsection (a) of this section shall seasonably notify the other party that there will be delay or nonperformance.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-501" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-1-501</section_number>
-  <catch_line/>
+  <catch_line>It is the purpose of this subtitle to require certain reports and records of transactions involving ...</catch_line>
+  <order_by>501</order_by>
   <text>It is the purpose of this subtitle to require certain reports and records of transactions involving currency where such reports and records have a high degree of usefulness in criminal investigations or proceedings that pertain to the subject of the report.</text>
 </law>

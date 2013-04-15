@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-405" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">In this section, "net direct written premiums" means direct gross premiums written on all policies of motor vehicle liability insurance and motor vehicle physical damage insurance less return premiums or dividends paid or credited to policyholders with respect to those policies.</section>
     <section prefix="(b)">On or before June 30 of each year in which the Board of Directors receives the certification of an actual commercial auto or private passenger auto assessment for a preceding calendar year, the Board of Directors shall perform the duties specified in this section.</section>

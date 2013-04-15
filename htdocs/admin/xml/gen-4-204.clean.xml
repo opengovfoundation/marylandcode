@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-204" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">After July 1, 1984, unless exempted, a person may not develop any land for residential, commercial, industrial, or institutional use without submitting a stormwater management plan to the county or municipality that has jurisdiction, and obtaining approval of the plan from the county or municipality. A grading or building permit may not be issued for a property unless a stormwater management plan has been approved that is consistent with this subtitle.</section>
     <section prefix="(b)">The developer shall certify that all land clearing, construction, development, and drainage will be done according to the plan.</section>

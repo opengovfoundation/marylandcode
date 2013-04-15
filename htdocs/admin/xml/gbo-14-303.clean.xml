@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-303" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-14-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">Subject to this section, the following individuals may practice engineering without a license:<section prefix="(1)">an employee or other subordinate of a professional engineer; and</section><section prefix="(2)">an employee of an individual who is not licensed but is otherwise authorized under this title to practice engineering without supervision.</section></section>
     <section prefix="(b)">The authority to practice engineering under this section applies only while the employee or other subordinate works under the responsible charge of the licensee or other authorized individual.</section>

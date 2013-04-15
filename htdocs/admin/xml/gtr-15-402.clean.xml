@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-402" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-15-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">A person may not act as a vehicle salesman unless the person is licensed by the Administration under this subtitle.</section>
     <section prefix="(b)">Any person who has been refused a vehicle salesman's license in this State or whose vehicle salesman's license is revoked or suspended may not conduct the business of a vehicle salesman under any license, permit, or registration certificate issued by any other jurisdiction.</section>

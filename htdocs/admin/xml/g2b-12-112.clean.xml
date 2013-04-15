@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-112" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-12-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">This section applies only in the following jurisdictions:<section prefix="(1)">Baltimore City;</section><section prefix="(2)">Caroline;</section><section prefix="(3)">Cecil;</section><section prefix="(4)">Charles;</section><section prefix="(5)">Dorchester;</section><section prefix="(6)">Frederick;</section><section prefix="(7)">Garrett;</section><section prefix="(8)">Harford;</section><section prefix="(9)">Kent;</section><section prefix="(10)">Prince George's;</section><section prefix="(11)">Queen Anne's;</section><section prefix="(12)">St. Mary's;</section><section prefix="(13)">Somerset;</section><section prefix="(14)">Talbot;</section><section prefix="(15)">Washington;</section><section prefix="(16)">Wicomico; and</section><section prefix="(17)">Worcester.</section></section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, a manufacturer or wholesaler may not sell any beer to any retail dealer except for cash on delivery.</section>
@@ -15,7 +15,7 @@
       <section prefix="(3)">A wholesaler who extends credit under this subsection may establish different prices for cash and credit transactions.</section>
       <section prefix="(4)">A term of credit extended under this subsection may not exceed 10 days, with no grace period.</section>
       <section prefix="(5)">
-        <section prefix="(i)">A wholesaler may not intentionally deliver beer to a retail dealer to whom any wholesaler has extended credit under this subsection if the retail dealer:</section>
+        <section prefix="(i)">A wholesaler may not intentionally deliver beer to a retail dealer to whom any wholesaler has extended credit under this subsection if the retail dealer:<section prefix="1.">Fails to pay the balance owed or makes a payment on the debt by bad check; and</section><section prefix="2.">Is currently listed on the Worcester County beer credit control list in accordance with regulations issued by the Comptroller.</section></section>
         <section prefix="(ii)">A wholesaler who violates this paragraph is subject to a fine not exceeding $1,000 for each such delivery.</section>
       </section>
       <section prefix="(6)">The Board of License Commissioners may not transfer or renew the alcoholic beverages license of a retail dealer who has been extended credit under this subsection and who owes a balance on the debt at the time of the transfer or renewal.</section>

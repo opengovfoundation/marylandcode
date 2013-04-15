@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c0" order_by="" level="1"/>
-    <unit label="chapter" identifier="4" order_by="" level="2"/>
+    <unit label="article" identifier="c0" order_by="" level="1">Declaration of Rights</unit>
   </structure>
   <section_number>c0-4</section_number>
-  <catch_line/>
+  <catch_line>That the People of this State have the sole and exclusive right of regulating the internal governmen...</catch_line>
+  <order_by>4</order_by>
   <text>That the People of this State have the sole and exclusive right of regulating the internal government and police thereof, as a free, sovereign and independent State.</text>
 </law>

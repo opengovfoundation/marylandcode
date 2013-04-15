@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-110" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-110</section_number>
-  <catch_line/>
+  <catch_line>In addition to testing allowed under &#xA7; 11-112 of this subtitle, the court may order a person charge...</catch_line>
+  <order_by>110</order_by>
   <text>In addition to testing allowed under &#xA7; 11-112 of this subtitle, the court may order a person charged with a prohibited exposure to give a blood sample to be tested for the presence of HIV if:<section prefix=""><section prefix="(1)">the person is charged with a prohibited exposure within 1 year after the prohibited exposure occurred;</section><section prefix="(2)">a victim or victim's representative requests the testing in writing to the State's Attorney in the county where the prohibited exposure occurred; and</section><section prefix="(3)">the court finds probable cause to believe that a prohibited exposure occurred.</section></section></text>
 </law>

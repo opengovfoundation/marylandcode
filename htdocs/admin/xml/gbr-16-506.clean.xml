@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-506" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Not later than 21 days after the end of each calendar quarter, and more frequently if so directed by the Comptroller, each licensed wholesaler shall submit information in the form and manner the Comptroller requires to facilitate compliance with this subtitle, including a list by brand family of the total number of cigarettes, or in the case of roll-your-own cigarettes, the equivalent stick count for which the licensed wholesaler affixed stamps during the previous calendar quarter or otherwise paid the tax due for the cigarettes.</section>

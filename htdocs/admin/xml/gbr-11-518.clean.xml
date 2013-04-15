@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-518" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-518</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>518</order_by>
   <text>
     <section prefix="(a)">In this section, "open purse" means any purse, except for one offered in a race funded by the Maryland-Bred Race Fund.</section>
     <section prefix="(b)">The Commission may direct a deduction from open purse money of 0.25% of all mutuel pools to be paid to the Maryland Backstretch Employees Pension Fund.</section>

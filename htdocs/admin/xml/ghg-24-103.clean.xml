@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-103" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-103</section_number>
-  <catch_line/>
+  <catch_line>A permit expires on the July 1 after its effective date, unless it is renewed for a 1-year term....</catch_line>
+  <order_by>103</order_by>
   <text>A permit expires on the July 1 after its effective date, unless it is renewed for a 1-year term.</text>
 </law>

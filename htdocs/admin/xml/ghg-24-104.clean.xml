@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-104" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-104</section_number>
-  <catch_line/>
+  <catch_line>Each permit shall be displayed conspicuously in the facility for which it is issued....</catch_line>
+  <order_by>104</order_by>
   <text>Each permit shall be displayed conspicuously in the facility for which it is issued.</text>
 </law>

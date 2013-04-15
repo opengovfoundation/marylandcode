@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-340" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-340</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>340</order_by>
   <text>
     <section prefix="(a)">In this part the following words have the meanings indicated.</section>
     <section prefix="(b)">"Affiliate" means a person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with another person.</section>
@@ -18,7 +18,7 @@
     <section prefix="(f)">"Program" means the Maryland Hospital Bond Program under this part.</section>
     <section prefix="(g)">
       <section prefix="(1)">"Public obligation" means a bond, note, evidence of indebtedness, or other obligation, to repay borrowed money issued by the Authority, the State, a unit, instrumentality, or public corporation of the State, a public body as defined in Article 31, &#xA7; 9 of the Code, a county, or a municipal corporation.</section>
-      <section prefix="(2)">"Public obligation" does not include an obligation, or portion of an obligation, if:<section prefix="(i)">the principal of and interest on the obligation or the portion of the obligation is:</section><section prefix="(ii)">the proceeds of the obligation or the portion of the obligation are used to finance wholly or partly:</section></section>
+      <section prefix="(2)">"Public obligation" does not include an obligation, or portion of an obligation, if:<section prefix="(i)">the principal of and interest on the obligation or the portion of the obligation is:<section prefix="1.">insured by an effective municipal bond insurance policy; and</section><section prefix="2.">issued on behalf of a hospital that voluntarily closed in accordance with &#xA7; 19-120(l) of the Health - General Article; and</section></section><section prefix="(ii)">the proceeds of the obligation or the portion of the obligation are used to finance wholly or partly:<section prefix="1.">a facility or part of a facility that is used primarily to provide outpatient services at a location other than the hospital; or</section><section prefix="2.">a facility or part of a facility that is used primarily by physicians who are not employees of the hospital to provide services to nonhospital patients.</section></section></section>
     </section>
   </text>
 </law>

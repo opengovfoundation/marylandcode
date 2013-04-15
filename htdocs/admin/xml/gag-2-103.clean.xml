@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-103" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The Secretary is responsible for the budget of his office and for the budgets of positions and units within the Department.</section>
     <section prefix="(b)">The Secretary may adopt rules and regulations to carry out the provisions of this article. He is responsible for adopting and reviewing rules and regulations for the Department.</section>

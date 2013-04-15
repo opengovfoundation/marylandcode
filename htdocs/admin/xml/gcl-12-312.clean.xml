@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-312" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -38,7 +38,7 @@
       <section prefix="(3)">The amount of credit life insurance in force may not exceed the unpaid principal but shall include all accrued interest under the loan contract.</section>
       <section prefix="(4)">Credit involuntary unemployment benefit insurance shall provide that, in the event of involuntary loss of employment, the aggregate amount of periodic benefits payable in the event of involuntary loss of employment, as defined in the policy, may not exceed the then scheduled unpaid total of payments of the loan.</section>
       <section prefix="(5)">
-        <section prefix="(i)">Except as provided in this paragraph, a person making a covered loan may not finance as a part of the covered loan transaction single premium coverage for:</section>
+        <section prefix="(i)">Except as provided in this paragraph, a person making a covered loan may not finance as a part of the covered loan transaction single premium coverage for:<section prefix="1.">Credit health insurance;</section><section prefix="2.">Credit involuntary unemployment benefit insurance; or</section><section prefix="3.">Credit life insurance.</section></section>
         <section prefix="(ii)">Nothing in this paragraph shall prohibit the financing of any insurance coverage in connection with a mobile home or its premises, as those terms are defined in &#xA7; 8A-101 of the Real Property Article.</section>
       </section>
     </section>
@@ -46,7 +46,7 @@
       <section prefix="(1)">In this subsection, "property insurance coverage" means property insurance against losses caused by perils that commonly are covered in insurance policies described with terms similar to "standard fire" or "standard fire with extended coverage".</section>
       <section prefix="(2)">
         <section prefix="(i)">A lender may not require a borrower, as a condition to receiving or maintaining a loan secured by a first mortgage or first deed of trust, to provide or purchase property insurance coverage against risks to any improvements on any real property in an amount exceeding the replacement value of improvements on the real property.</section>
-        <section prefix="(ii)">In determining the replacement value of the improvements on any real property, the lender may:</section>
+        <section prefix="(ii)">In determining the replacement value of the improvements on any real property, the lender may:<section prefix="1.">Accept the value placed on the improvements by the insurer; or</section><section prefix="2.">Use the value placed on the improvements that is determined by the lender's appraisal of the real property.</section></section>
       </section>
       <section prefix="(3)">A violation of this subsection or of subsection (c)(1) of this section shall entitle the borrower to seek:<section prefix="(i)">An injunction to prohibit the lender who has engaged or is engaging in the violation from continuing or engaging in the violation;</section><section prefix="(ii)">Reasonable attorney's fees; and</section><section prefix="(iii)">Damages directly resulting from the violation.</section></section>
       <section prefix="(4)">A violation of this subsection or of subsection (c)(1) of this section does not affect the validity of the first mortgage or first deed of trust securing the loan.</section>

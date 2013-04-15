@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1322" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1322</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1322</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -18,11 +18,11 @@
       <section prefix="(8)">"Third-party vendor" means an entity not affiliated with a telephone company or reseller that:<section prefix="(i)">Provides products or services to a customer; and</section><section prefix="(ii)">Seeks to charge the customer through third-party vendor billing.</section></section>
       <section prefix="(9)">
         <section prefix="(i)">"Third-party vendor billing" means the use of a telephone company's or reseller's billing system, either directly or through a billing agent, to charge a customer for products or services provided by a third-party vendor.</section>
-        <section prefix="(ii)">"Third-party vendor billing" does not include billing for:</section>
+        <section prefix="(ii)">"Third-party vendor billing" does not include billing for:<section prefix="1.">Products or services offered by, or bundled with the products or services of, a telephone company, a reseller, or an affiliate of a telephone company or reseller;</section><section prefix="2.">Long distance services that a customer initiates by dialing 1+, 0+, 0-, or 1010XXX; or</section><section prefix="3.">Commercial mobile radio services.</section></section>
       </section>
     </section>
     <section prefix="(b)">Unless the third-party vendor or billing agent first obtains an ordering customer's express authorization, a third-party vendor or billing agent may not submit charges to a telephone company or reseller.</section>
-    <section prefix="(c)">The express authorization required under subsection (b) of this section shall:<section prefix="(1)">Be separate from any solicitation material or entry forms for sweepstakes or contests; and</section><section prefix="(2)">Include:<section prefix="(i)">The name and telephone number of the ordering customer;</section><section prefix="(ii)">The date of authorization;</section><section prefix="(iii)">An explanation of:</section><section prefix="(iv)">An affirmation by the ordering customer that:</section></section></section>
+    <section prefix="(c)">The express authorization required under subsection (b) of this section shall:<section prefix="(1)">Be separate from any solicitation material or entry forms for sweepstakes or contests; and</section><section prefix="(2)">Include:<section prefix="(i)">The name and telephone number of the ordering customer;</section><section prefix="(ii)">The date of authorization;</section><section prefix="(iii)">An explanation of:<section prefix="1.">The product or service offered; and</section><section prefix="2.">All applicable charges; and</section></section><section prefix="(iv)">An affirmation by the ordering customer that:<section prefix="1.">The ordering customer is at least 18 years of age and authorized to order services that will appear on the customer's telephone bill; and</section><section prefix="2.">Third-party vendor billing charges may be billed using the customer's telephone bill.</section></section></section></section>
     <section prefix="(d)">A third-party vendor or billing agent shall retain a copy of the express authorization required under subsection (b) of this section for 2 years after the date of authorization.</section>
     <section prefix="(e)">A customer is not liable for third-party vendor billing charges unless:<section prefix="(1)">The customer has been given notice that the telephone company or reseller may allow third-party vendor billing and that free blocking of certain third-party vendor billing may be available to the customer; and</section><section prefix="(2)">The customer is provided access to:<section prefix="(i)">An itemization of the third-party vendor billing charges identifying them separately from other charges; and</section><section prefix="(ii)">The name and telephone number of the third-party vendor or its billing agent.</section></section></section>
     <section prefix="(f)">Unless the third-party vendor or billing agent provides a copy of the authorization required under subsection (b) of this section to the customer and to the telephone company or reseller, a customer is not liable for third-party vendor billing charges if the customer, in good faith and in a reasonably timely manner, but not outside the time period specified in subsection (d) of this section, disputes that the charges were authorized.</section>

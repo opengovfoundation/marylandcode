@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-509" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-509</section_number>
-  <catch_line/>
+  <catch_line>Except as specifically provided by &#xA7; 11-505 of this subtitle with respect to combination sales and ...</catch_line>
+  <order_by>509</order_by>
   <text>Except as specifically provided by &#xA7; 11-505 of this subtitle with respect to combination sales and concessions, the Maryland Sales Below Cost Act does not apply to the sale of cigarettes.</text>
 </law>

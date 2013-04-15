@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-329" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-329</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>329</order_by>
   <text>
     <section prefix="(a)">If a lease for more than three months is assigned, the assignee is liable to distress for any goods on the leased premises as though originally named in the lease as tenant.</section>
     <section prefix="(b)">Any goods of the assignee on the leased premises shall be subject to the landlord's distress claim to the same extent as though the assignee was originally a tenant. This liability of goods exists regardless of whether the assignment was oral or written and regardless of the terms set out in the assignment. The obligation of the assignee of the lease for personal liability shall be restricted to the terms and agreements contained in the assignment of lease. The exercise of any right of the landlord against the assignee provided in this section does not bar any rights the landlord may have against the assignor.</section>

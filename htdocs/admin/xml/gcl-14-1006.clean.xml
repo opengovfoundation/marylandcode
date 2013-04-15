@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1006" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1006</section_number>
-  <catch_line/>
+  <catch_line>An automotive repair facility may not charge the customer for repairs not originally authorized or r...</catch_line>
+  <order_by>1006</order_by>
   <text>An automotive repair facility may not charge the customer for repairs not originally authorized or requested by the customer. Additional repairs may be charged to the customer if the automotive repair facility receives written or oral permission from the customer.</text>
 </law>

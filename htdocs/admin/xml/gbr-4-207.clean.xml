@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-207" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4-207</section_number>
-  <catch_line/>
+  <catch_line>The Commission exercises its powers and duties subject to the authority of the Secretary....</catch_line>
+  <order_by>207</order_by>
   <text>The Commission exercises its powers and duties subject to the authority of the Secretary.</text>
 </law>

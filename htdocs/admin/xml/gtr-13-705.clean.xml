@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-705" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Administration may suspend or revoke the registration or certificate of title of any vehicle if the Administration:<section prefix="(i)">Is satisfied that the registration or certificate was fraudulently obtained or erroneously issued;</section><section prefix="(ii)">Determines that the required fee has not been paid after reasonable notice and demand; or</section><section prefix="(iii)">Is so authorized under any other provision of law.</section></section>

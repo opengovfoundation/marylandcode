@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-904" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-904</section_number>
-  <catch_line/>
+  <catch_line>A person who violates this subtitle is guilty of a misdemeanor and on conviction is subject to a fin...</catch_line>
+  <order_by>904</order_by>
   <text>A person who violates this subtitle is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $3,000 or imprisonment not exceeding 1 year or both.</text>
 </law>

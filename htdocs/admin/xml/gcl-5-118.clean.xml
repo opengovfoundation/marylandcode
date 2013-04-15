@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-118" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-5-118</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>118</order_by>
   <text>
     <section prefix="(a)">An issuer or nominated person has a security interest in a document presented under a letter of credit to the extent that the issuer or nominated person honors or gives value for the presentation.</section>
     <section prefix="(b)">So long as and to the extent that an issuer or nominated person has not been reimbursed or has not otherwise recovered the value given with respect to a security interest in a document under subsection (a), the security interest continues and is subject to Title 9 of this article, but:<section prefix="(1)">A security agreement is not necessary to make the security interest enforceable under &#xA7; 9-203(b)(3);</section><section prefix="(2)">If the document is presented in a medium other than a written or other tangible medium, the security interest is perfected; and</section><section prefix="(3)">If the document is presented in a written or other tangible medium and is not a certificated security, chattel paper, a document of title, an instrument, or a letter of credit, the security interest is perfected and has priority over a conflicting security interest in the document so long as the debtor does not have possession of the document.</section></section>

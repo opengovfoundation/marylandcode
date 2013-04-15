@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-113" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">After conviction or a finding of a prohibited exposure, a finding of probable cause under &#xA7; 11-110(3) of this subtitle, or a granting of probation before judgment under &#xA7; 11-112 of this subtitle, the State's Attorney shall within 3 days notify the local health officer of the written request by the victim or victim's representative for testing.</section>

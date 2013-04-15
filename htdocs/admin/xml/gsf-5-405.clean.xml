@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-405" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-5-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">The Secretary may make an agreement with the head of another unit of the State government, of a local government, of a regional or local planning agency, or of a unit of the federal government for the temporary exchange or transfer of employees:<section prefix="(1)">from the Department to the unit, local government, or agency; or</section><section prefix="(2)">from the unit, local government, or agency to the Department.</section></section>
     <section prefix="(b)">An employee may not be transferred or exchanged under this section for more than 90 days at a time.</section>

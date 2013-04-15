@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-402" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-402</section_number>
-  <catch_line/>
+  <catch_line>A political subdivision that issues a license for an amusement device shall send to the Comptroller ...</catch_line>
+  <order_by>402</order_by>
   <text>A political subdivision that issues a license for an amusement device shall send to the Comptroller within 10 days after issuing the license:<section prefix=""><section prefix="(1)">a copy of the license;</section><section prefix="(2)">the name and address of the owner of the amusement device;</section><section prefix="(3)">the location of the amusement device;</section><section prefix="(4)">the name of the owner of the place where the amusement device is located; and</section><section prefix="(5)">a description of the amusement device.</section></section></text>
 </law>

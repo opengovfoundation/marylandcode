@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-902" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>902</order_by>
   <text>
     <section prefix="(a)">A person may not willfully make, circulate, or send to another person any untrue statement that is derogatory to the financial condition or that affects the solvency or financial standing of any credit union doing business in the State, or counsel, aid, procure, or induce another to make, circulate, or send to another person such a statement.</section>
     <section prefix="(b)">A person that violates any provision of this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $1,000 or imprisonment not exceeding 3 years or both.</section>

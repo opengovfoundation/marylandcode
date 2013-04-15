@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-602" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any other provision of this subtitle, "nighttime" means the time the Secretary of Interior of the United States adopts by rule or regulation.</section>
     <section prefix="(b)">A person may not hunt wild waterfowl in the State at nighttime in any manner whether from the shore or otherwise. A person may not possess at nighttime any gun or light used for hunting wild waterfowl in or near the vicinity of feeding and resting grounds. Any gun or light found in possession shall be prima facie evidence of intention of a violation of this section, and the light shall be confiscated and turned over to the Secretary.</section>

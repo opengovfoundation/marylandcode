@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-208" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">Every conveyance of partnership property and every partnership obligation incurred when the partnership is or will be rendered insolvent by it, is fraudulent as to partnership creditors, if the conveyance is made or the obligation is incurred to:<section prefix="(1)">A partner, whether with or without a promise by him to pay partnership debts, unless the conveyance or obligation represents fair and reasonable compensation for services provided or to be provided by the partner to the partnership and the services are provided or will be provided within 120 days before or after the date the conveyance is made or the obligation is incurred; or</section><section prefix="(2)">A person not a partner, without fair consideration to the partnership as distinguished from consideration to the individual partners.</section></section>
     <section prefix="(b)">Every conveyance of limited liability company property and every limited liability company obligation incurred when the limited liability company is or will be rendered insolvent by it, is fraudulent as to creditors of the limited liability company, if the conveyance is made or the obligation is incurred to:<section prefix="(1)">A member, whether with or without a promise by him to pay the limited liability company's debts, unless the conveyance or obligation represents fair and reasonable compensation for services provided or to be provided by the member to the limited liability company and the services are provided or will be provided within 120 days before or after the date the conveyance is made or the obligation is incurred; or</section><section prefix="(2)">A person not a member, without fair consideration to the limited liability company as distinguished from consideration to the individual members.</section></section>

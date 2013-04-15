@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="10" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-10</section_number>
-  <catch_line/>
+  <catch_line>The form of judicial and all other oaths to be taken or administered in this State, and not prescrib...</catch_line>
+  <order_by>10</order_by>
   <text>The form of judicial and all other oaths to be taken or administered in this State, and not prescribed by the Constitution, shall be as follows: "In the presence of Almighty God I do solemnly promise or declare", etc. And it shall not be lawful to add to any oath the words "So help me God", or any imprecatory words whatever.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-703" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-5-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">The initial time periods for filing a final report and for making distribution to each legatee and heir are extended for 90 days on a consent for extension of the time periods signed by the personal representative and each interested person and filed within 10 months from the date of appointment.</section>
     <section prefix="(b)">A register of wills or a court may not extend the time periods established under this subtitle.</section>

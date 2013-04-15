@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-233" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-233</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>233</order_by>
   <text>
     <section prefix="(a)">In this section, "change" includes an improvement or an addition.</section>
     <section prefix="(b)">Subject to the provisions of this section, a change to a building may not be assessed to the owner of the building for the period of time that a resident of the building with a health or medical condition occupies the building if:<section prefix="(1)">the building is used as a dwelling; and</section><section prefix="(2)">the change to the building is required for the health or medical condition of the resident of the building.</section></section>

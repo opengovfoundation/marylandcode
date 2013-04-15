@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-302" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-10-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">A person who fails to exercise due diligence under a court order to abate a condition under &#xA7; 10-202 of this title is guilty of a misdemeanor and on conviction is subject to:<section prefix="(1)">A fine not exceeding $10 for each day the condition is not abated; and</section><section prefix="(2)">The cost of prosecution.</section></section>
     <section prefix="(b)">A person who knowingly or willfully acts contrary to a court order to abate a condition under &#xA7; 10-202 of this title is guilty of a misdemeanor and on conviction is subject to:<section prefix="(1)">A fine not exceeding $20 for each day the violation continues; and</section><section prefix="(2)">The cost of prosecution.</section></section>

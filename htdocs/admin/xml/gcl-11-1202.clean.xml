@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-1202" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-1202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1202</order_by>
   <text>
     <section prefix="(a)">Actual or threatened misappropriation may be enjoined.</section>
     <section prefix="(b)">Upon application to the court, an injunction shall be terminated when the trade secret has ceased to exist, but the injunction may be continued for an additional reasonable period of time in order to eliminate commercial advantage that otherwise would be derived from the misappropriation.</section>

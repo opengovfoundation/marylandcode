@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-604" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-1-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">After the Department receives the permit application, the Department shall prepare a tentative determination, which shall include the following information:<section prefix="(i)">A proposal to issue or to not issue a permit;</section><section prefix="(ii)">Any proposed permit limitations and conditions;</section><section prefix="(iii)">A brief explanation of the Department's tentative determination; and</section><section prefix="(iv)">Any proposed schedule of compliance.</section></section>

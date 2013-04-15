@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-108" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-15-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">In this section, "employee leave time" means the following types of leave:<section prefix="(1)">Holiday leave;</section><section prefix="(2)">Annual leave;</section><section prefix="(3)">Personal leave;</section><section prefix="(4)">Sick leave; and</section><section prefix="(5)">Administrative and other related leave.</section></section>
     <section prefix="(b)">As provided in this section, each public institution of higher education is authorized to establish employee leave time for its skilled employees, professional employees, and employees in a status that is equivalent to skilled employees or professional employees in the State Personnel Management System, described in Title 6 of the State Personnel and Pensions Article.</section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-705" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"Conservation easement" means an easement, covenant, restriction, or condition on real property, including an amendment to an easement, covenant, restriction, or condition, as provided for in &#xA7; 2-118 of this article that is:<section prefix="(i)">Owned by:</section><section prefix="(ii)">Required by a permit issued by the Department of the Environment.</section></section>
+      <section prefix="(2)">"Conservation easement" means an easement, covenant, restriction, or condition on real property, including an amendment to an easement, covenant, restriction, or condition, as provided for in &#xA7; 2-118 of this article that is:<section prefix="(i)">Owned by:<section prefix="1.">The Maryland Environmental Trust;</section><section prefix="2.">The Maryland Historical Trust;</section><section prefix="3.">The Maryland Agricultural Land Preservation Foundation;</section><section prefix="4.">The Maryland Department of Natural Resources;</section><section prefix="5.">A county or municipal corporation and is funded by the Maryland Department of Natural Resources, the Rural Legacy Program, or a local agricultural preservation program; or</section><section prefix="6.">A land trust; or</section></section><section prefix="(ii)">Required by a permit issued by the Department of the Environment.</section></section>
       <section prefix="(3)">"Land trust" means an organization that:<section prefix="(i)">Is a qualified organization under &#xA7; 170(h)(3) of the Internal Revenue Code and regulations adopted under that section; and</section><section prefix="(ii)">Has executed a cooperative agreement with the Maryland Environmental Trust.</section></section>
     </section>
     <section prefix="(b)">

@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-409" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-8-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In Prince George's County, the Board of License Commissioners may approve the issuance of a beer tasting license, a wine tasting license, and a beer/wine tasting license.</section>
       <section prefix="(2)">
         <section prefix="(i)">A wine tasting or beer/wine tasting license is issued only to holders of a beer, wine and liquor (BWL) or a beer and wine (BW) license.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">A beer tasting or beer/wine tasting license is issued only to holders of a beer, wine and liquor (BWL) or a beer and wine (BW) license.</section>
+          <section prefix="2.">Holders of a beer (B) license may be issued only a beer tasting license.</section>
+        </section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">A wine tasting or beer/wine tasting license permits the consumption of wine, containing not more than 15.5 percent of alcohol by volume, for tasting or sampling purposes only.</section>
@@ -22,7 +25,7 @@
         <section prefix="(ii)">A beer tasting or beer/wine tasting licensee may not serve more than 3 ounces from each brand of beer to any one person.</section>
       </section>
       <section prefix="(5)">
-        <section prefix="(i)">The annual fee of a beer tasting or wine tasting license:</section>
+        <section prefix="(i)">The annual fee of a beer tasting or wine tasting license:<section prefix="1.">For holders of a BWL license, is $120 in addition to the cost of the BWL license;</section><section prefix="2.">For holders of a BW license, is $120 in addition to the cost of the BW license; and</section><section prefix="3.">For holders of a B license, is $110 in addition to the cost of the B license.</section></section>
         <section prefix="(ii)">The Board of License Commissioners shall set the annual fee for a beer/wine tasting license.</section>
       </section>
     </section>

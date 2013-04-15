@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-209" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-6-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">The purposes of a neighborhood intervention project are to provide financial assistance for:<section prefix="(1)">buying properties that need rehabilitation and redeveloping the properties through rehabilitation, demolition, reconstruction, or re-use; or</section><section prefix="(2)">demolishing property improvements and preparing property for revitalization, redevelopment, or re-use.</section></section>
     <section prefix="(b)">To be eligible for financial assistance for a neighborhood intervention project, an applicant shall be:<section prefix="(1)">a political subdivision; or</section><section prefix="(2)">a community development finance institution.</section></section>

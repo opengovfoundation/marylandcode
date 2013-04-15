@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-114" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-14-114</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>114</order_by>
   <text>
     <section prefix="(a)">Except in an emergency, a rule, regulation, order, or amendment may not be made by the Department without a public hearing upon at least ten days' notice. The public hearing shall be held at the time and place prescribed by the Department. Any interested person is entitled to be heard by the Department.</section>
     <section prefix="(b)">When an emergency requiring immediate action exists, the Department is authorized to issue an emergency order without notice or hearing. An emergency order takes effect upon promulgation. An emergency order may not remain effective for more than 15 days.</section>

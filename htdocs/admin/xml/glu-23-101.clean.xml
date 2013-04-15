@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-101" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-23-101</section_number>
-  <catch_line/>
+  <catch_line>This title does not apply to a good-faith division or partition of exclusively agricultural land tha...</catch_line>
+  <order_by>101</order_by>
   <text>This title does not apply to a good-faith division or partition of exclusively agricultural land that is not made for development purposes.  </text>
 </law>

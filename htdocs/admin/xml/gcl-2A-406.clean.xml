@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-406" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(1)">If the lessee receives notification of a material or indefinite delay or an allocation justified under &#xA7; 2A-405, the lessee may by written notification to the lessor as to any goods involved, and with respect to all of the goods if under an installment lease contract the value of the whole lease contract is substantially impaired (&#xA7; 2A-510):<section prefix="(a)">Terminate the lease contract (&#xA7; 2A-505(2)); or</section><section prefix="(b)">Except in a finance lease, modify the lease contract by accepting the available quota in substitution, with due allowance from the rent payable for the balance of the lease term for the deficiency but without further right against the lessor.</section></section>
     <section prefix="(2)">If, after receipt of a notification from the lessor under &#xA7; 2A-405, the lessee fails to so modify the lease agreement within a reasonable time not exceeding 30 days, the lease contract lapses with respect to any deliveries affected.</section>

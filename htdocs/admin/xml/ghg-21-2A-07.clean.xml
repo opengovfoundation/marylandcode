@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-2A-07" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-2A-07</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>07</order_by>
   <text>
     <section prefix="(a)">There is a technical advisory committee to the Program.</section>
     <section prefix="(b)">The purpose of the technical advisory committee is to review requests for information from the Program under &#xA7; 21-2A-06(b)(3), (4), (5), (7), and (8) of this subtitle.</section>

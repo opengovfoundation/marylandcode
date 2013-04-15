@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-703" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-703</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>703</order_by>
   <text>
     <section prefix="(a)">A vendor shall hold a limited lines license to sell coverage under a policy of portable electronics insurance before the vendor or the employees of or authorized representatives of the vendor may sell or offer to sell coverage under a policy of portable electronics insurance to a customer.</section>
     <section prefix="(b)">A limited lines license issued under this subtitle shall also authorize any salaried or hourly employee or authorized representative of the vendor to sell coverage under a policy of portable electronics insurance to a customer only if the employee or authorized representative is:<section prefix="(1)">trained under &#xA7; 10-705 of this subtitle to act on behalf of the vendor; and</section><section prefix="(2)">acting under the supervision of the vendor.</section></section>

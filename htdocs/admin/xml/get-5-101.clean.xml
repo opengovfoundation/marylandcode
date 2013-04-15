@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-101" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-5-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">This subtitle is applicable to the portion of the probate proceeding which relates to the probate of a will, if any, and the grant of letters.</section>
     <section prefix="(b)">Probate of a will, if any, and the grant of letters, may be accomplished after filing of a petition for probate by:<section prefix="(1)">Administrative probate by the register of wills as described in Subtitle 3 of this title; or</section><section prefix="(2)">Judicial probate by the court as described in Subtitle 4 of this title.</section></section>

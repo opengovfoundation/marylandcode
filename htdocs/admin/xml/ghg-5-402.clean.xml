@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-402" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-402</section_number>
-  <catch_line/>
+  <catch_line>There is a State Anatomy Board in the Department....</catch_line>
+  <order_by>402</order_by>
   <text>There is a State Anatomy Board in the Department.</text>
 </law>

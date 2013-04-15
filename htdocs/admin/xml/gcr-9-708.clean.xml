@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-708" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-708</section_number>
-  <catch_line/>
+  <catch_line>If conduct prohibited by this subtitle is also unlawful under another law, a person may be convicted...</catch_line>
+  <order_by>708</order_by>
   <text>If conduct prohibited by this subtitle is also unlawful under another law, a person may be convicted for the violation of this subtitle and the other law.</text>
 </law>

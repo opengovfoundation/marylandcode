@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="5A-340" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-5A-340</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>340</order_by>
   <text>
     <section prefix="(a)">Submerged archaeological historic property on or taken from underwater land over which the State has sovereign control is the property of the State.</section>
     <section prefix="(b)">The State may convey title to part or all of submerged archaeological historic property it owns in accordance with a permit, if the Board of Public Works approves the permit in accordance with Title 10, Subtitle 3 of this article.</section>

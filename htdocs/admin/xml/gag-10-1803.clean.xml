@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1803" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-1803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1803</order_by>
   <text>
     <section prefix="(a)">A person required to register annually with the Department under this subtitle as a transporter of waste kitchen grease shall submit an application for registration in the form required by the Department.</section>
     <section prefix="(b)">An application to register under subsection (a) of this section shall include:<section prefix="(1)">The applicant's name and address;</section><section prefix="(2)">The make, model, license number, and vehicle identification number of any vehicle that the applicant will use to transport waste kitchen grease;</section><section prefix="(3)">A description of the operations to be performed by the applicant; and</section><section prefix="(4)">Proof of vehicle insurance with personal injury and property damage combined single limit liability limits of at least $1,000,000.</section></section>

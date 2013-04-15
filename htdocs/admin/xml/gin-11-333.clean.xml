@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-333" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-333</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>333</order_by>
   <text>
     <section prefix="(a)">A rating organization may not provide a service that relates to the rates of insurance subject to this subtitle, and an insurer may not utilize the service of the rating organization for those purposes, unless the rating organization has obtained a license under &#xA7; 11-218 of this title.</section>
     <section prefix="(b)">A rating organization may not refuse to supply services for which it is licensed in the State to an authorized insurer that offers to pay the fair and usual compensation for the services.</section>

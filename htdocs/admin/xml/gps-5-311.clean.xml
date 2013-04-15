@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-311" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-5-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">A person who is denied a permit or renewal of a permit or whose permit is revoked or limited may request the Secretary to conduct an informal review by filing a written request within 10 days after receipt of written notice of the Secretary's initial action.</section>
     <section prefix="(b)">An informal review:<section prefix="(1)">may include a personal interview of the person who requested the informal review; and</section><section prefix="(2)">is not subject to Title 10, Subtitle 2 of the State Government Article.</section></section>

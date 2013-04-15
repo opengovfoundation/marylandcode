@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-602.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-602.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602.1</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds that the use of best management practices for the storage, application, and disposal of road salt is necessary to reduce the adverse impacts on the water and land resources of the State by preventing:<section prefix="(1)">An increase in chloride concentrations in the soils and waters of the State; and</section><section prefix="(2)">Harm to soil integrity, soil organisms, and vegetation.</section></section>
     <section prefix="(b)">The General Assembly intends, by enactment of this section, to reduce to the greatest extent possible the adverse effects of road salt runoff and to safeguard life, limb, property, and public welfare.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-301" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-4-301</section_number>
-  <catch_line/>
+  <catch_line>At any time, the Comptroller, the State Treasurer, or an individual designated in writing by either ...</catch_line>
+  <order_by>301</order_by>
   <text>At any time, the Comptroller, the State Treasurer, or an individual designated in writing by either of them, may examine a collector's records on State taxes.</text>
 </law>

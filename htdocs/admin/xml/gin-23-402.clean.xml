@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-402" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">At least 10 days before canceling an insurance contract, a premium finance company shall deliver or mail to the insured written notice of intent to cancel the insurance contract unless the defaulted installment payment is received within the 10-day notice period.</section>
     <section prefix="(b)">For an automobile liability insurance contract, the notice of intent to cancel shall include a statement in clear and specific terms that if the insured fails to replace the automobile liability insurance within the 10-day notice period, &#xA7; 17-106 of the Transportation Article provides that uninsured motorist penalties be assessed and that all evidences of registration be surrendered to the Motor Vehicle Administration and that failure to surrender the evidences of registration may result in suspension of current and future registration privileges.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">In this section, "place of business" means a place where a debtor conducts its affairs.</section>
     <section prefix="(b)">Except as otherwise provided in this section, the following rules determine a debtor's location:<section prefix="(1)">A debtor who is an individual is located at the individual's principal residence.</section><section prefix="(2)">A debtor that is an organization and has only one place of business is located at its place of business.</section><section prefix="(3)">A debtor that is an organization and has more than one place of business is located at its chief executive office.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="28-110" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-28-110</section_number>
-  <catch_line/>
+  <catch_line>This title is the Holocaust Victims Insurance Act....</catch_line>
+  <order_by>110</order_by>
   <text>This title is the Holocaust Victims Insurance Act.</text>
 </law>

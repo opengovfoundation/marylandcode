@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-311" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-24-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">Unless terminated under &#xA7; 24-309 of this subtitle, an agreement may be enforced by the parties to the agreement or their successors in interest using all remedies available by law.</section>
     <section prefix="(b)">No right to an administrative appeal arises from the negotiation or enforcement of an agreement.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-122" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-2-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On or before the third Wednesday of March of each year, the Commission shall publish an annual report that summarizes the activities of the Commission that includes:<section prefix="(i)">a summary of each regulation, opinion, or order that the Commission adopted, entered, or passed during the year; and</section><section prefix="(ii)">any other information that the Commission considers of value.</section></section>

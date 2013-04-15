@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-402.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-402.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402.1</order_by>
   <text>
     <section prefix="(a)">A nonresident may drive or permit the driving of a foreign vehicle in this State, without registering the vehicle in this State, if:<section prefix="(1)">At all times while driven in this State, the vehicle:<section prefix="(i)">Is registered in and displays current registration plates issued for it in the owner's place of residence; and</section><section prefix="(ii)">Carries as provided in &#xA7; 13-409(a) of this subtitle, a current registration card issued for it in the owner's place of residence; and</section></section><section prefix="(2)">Except as otherwise provided in this section or under an agreement in compliance with Title 12, Subtitle 4 of this article, the vehicle is not:<section prefix="(i)">Used for transporting persons for hire, compensation, or profit;</section><section prefix="(ii)">Regularly operated in carrying on business in this State;</section><section prefix="(iii)">Designed, used, or maintained primarily for the transportation of property; or</section><section prefix="(iv)">In the custody of any resident for more than 30 days during any registration year.</section></section></section>
     <section prefix="(b)">With the approval of the Governor, the Administration may permit a foreign vehicle to be driven in this State by:<section prefix="(1)">Issuing complimentary guest cards, permits, or licenses to persons visiting this State from any foreign country; or</section><section prefix="(2)">Recognizing and permitting the use of guest cards, permits, or licenses granted by other states.</section></section>
@@ -24,7 +24,10 @@
       <section prefix="(7)">
         <section prefix="(i)">A nonresident permit issued under paragraph (1) or (2) of this subsection shall be issued for a period not to exceed 1 year.</section>
         <section prefix="(ii)">A nonresident permit issued under paragraph (3) of this subsection shall be valid until the expiration date of the registration plates of the vehicle to which it is issued.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">A nonresident permit issued under paragraph (2) of this subsection may be renewed annually in accordance with the nonresident's eligibility for the exemption provided in subsection (d) of this section.</section>
+          <section prefix="2.">A renewal fee established by the Administration shall be paid at the time of renewal.</section>
+        </section>
       </section>
       <section prefix="(8)">
         <section prefix="(i)">Of the funds collected under paragraphs (5)(i) and (7)(iii)2 of this subsection, the Administration shall retain an amount equal to its administrative costs under this section.</section>

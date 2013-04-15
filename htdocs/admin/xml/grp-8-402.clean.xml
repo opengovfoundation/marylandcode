@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-402" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A tenant under any periodic tenancy, or at the expiration of a lease, and someone holding under the tenant, who shall unlawfully hold over beyond the expiration of the lease or termination of the tenancy, shall be liable to the landlord for the actual damages caused by the holding over.</section>
@@ -20,7 +20,12 @@
     <section prefix="(b)">
       <section prefix="(1)">
         <section prefix="(i)">Where any tenancy is for any definite term or at will, and the landlord shall desire to repossess the property after the expiration of the term for which it was leased and shall give notice in writing one month before the expiration of the term or determination of the will to the tenant or to the person actually in possession of the property to remove from the property at the end of the term, and if the tenant or person in actual possession shall refuse to comply, the landlord may make complaint in writing to the District Court of the county where the property is located.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The court shall issue a summons directed to any constable or sheriff of the county entitled to serve process, ordering the constable or sheriff to notify the tenant, assignee, or subtenant to appear on a day stated in the summons before the court to show cause why restitution should not be made to the landlord.</section>
+          <section prefix="2.">The constable or sheriff shall serve the summons on the tenant, assignee, or subtenant on the property, or on the known or authorized agent of the tenant, assignee, or subtenant.</section>
+          <section prefix="3.">If, for any reason those persons cannot be found, the constable or sheriff shall affix an attested copy of the summons conspicuously on the property.</section>
+          <section prefix="4.">After notice to the tenant, assignee, or subtenant by first-class mail, the affixing of the summons on the property shall be conclusively presumed to be a sufficient service to support restitution.</section>
+        </section>
         <section prefix="(iii)">Upon the failure of either of the parties to appear before the court on the day stated in the summons, the court may continue the case to a day not less than six nor more than ten days after the day first stated and notify the parties of the continuance.</section>
       </section>
       <section prefix="(2)">

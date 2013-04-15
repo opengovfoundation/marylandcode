@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-101.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-25-101.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101.1</order_by>
   <text>
     <section prefix="(a)">Except as otherwise expressly provided, the provisions of the Maryland Vehicle Law are statewide in their effect.</section>
     <section prefix="(b)">Except as otherwise expressly authorized in this subsection or by a public local law on the regulation of taxicabs and taxicab drivers or by any public general law, no local authority or political subdivision of this State may:<section prefix="(1)">Require the registration or licensing of any vehicle or driver in addition to the registration and licensing required or authorized in the Maryland Vehicle Law;</section><section prefix="(2)">Impose on the owner or driver of any vehicle any tax, registration fee, license fee, assessment, or charge of any kind for the use of a vehicle on any highway in this State, except for tolls to finance the cost of the construction, maintenance, and operation of any bridge, tunnel or approach thereto constructed as part of the interstate system of highways under Title 23 of the United States Code and from the payment of which vehicles owned by the State are exempt; or</section><section prefix="(3)">Otherwise make or enforce any local law, ordinance, or regulation on any subject covered by the Maryland Vehicle Law.</section></section>

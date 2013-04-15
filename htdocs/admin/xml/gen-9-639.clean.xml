@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-639" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-639</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>639</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, the powers of a district continue as to any territory of the district that is annexed by a municipality or by a county that is not a member county.</section>
     <section prefix="(b)">The continuation of powers under this section expires when each contract, obligation, bond, and indebtedness of the district, for which the district was liable at the time of annexation, is extinguished.</section>

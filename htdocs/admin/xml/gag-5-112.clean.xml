@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-112" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">The Secretary shall examine pesticides to determine whether they comply with the requirements of this subtitle. If it appears from the examination that a pesticide fails to comply with the provisions of this subtitle, and the Secretary contemplates instituting criminal proceedings against any person, he shall give appropriate notice to the person. Any person receiving notice shall be given an opportunity to present his views, orally or in writing, with regard to the contemplated proceedings.</section>
     <section prefix="(b)">If the Secretary determines that the provisions of the subtitle have been violated by the person, he shall refer the facts to the State's Attorney for the county in which the violation has occurred with a copy of the results of the analysis or the examination of the pesticide. This subtitle does not require the Secretary to report for prosecution, or for the institution of libel proceedings, any minor violation of the subtitle whenever he believes that the public interest is best served by a suitable written warning notice.</section>

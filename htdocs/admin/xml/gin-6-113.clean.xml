@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-113" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-6-113</section_number>
-  <catch_line/>
+  <catch_line>A declaration or report that must be filed under this subtitle complies with the filing requirement ...</catch_line>
+  <order_by>113</order_by>
   <text>A declaration or report that must be filed under this subtitle complies with the filing requirement if the declaration or report is:<section prefix=""><section prefix="(1)">mailed and postmarked by the United States Postal Service on or before the filing date; or</section><section prefix="(2)">delivered on or before the filing date to a private delivery service recognized by the Commissioner, if the delivery is evidenced by a receipt.</section></section></text>
 </law>

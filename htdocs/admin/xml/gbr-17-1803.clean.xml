@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-1803" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-1803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1803</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided by State law and notwithstanding any local ordinance or regulation to the contrary, a manufacturer located and doing business in the State may sell and deliver goods to licensed traders in the State and for doing so need not get a license from or pay a fee to a county, municipal corporation, or other political subdivision.</section>
     <section prefix="(b)">A county or municipal corporation may require a local license to sell goods at auction.</section>

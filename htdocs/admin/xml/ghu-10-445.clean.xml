@@ -1,19 +1,22 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-445" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-445</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>445</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">If a provider's feasibility study has been approved under &#xA7; 10-409 of this subtitle, the Department, within 120 days after receipt of a continuing care agreement or any other related agreement submitted by a provider, shall determine whether the agreement complies with the requirements of this subtitle.</section>
         <section prefix="(ii)">At any time during the review process, the Department may submit comments to or request additional information from the provider to determine whether the agreement complies with the requirements of this subtitle and other applicable law.</section>
         <section prefix="(iii)">If the Department submits comments or a request for additional information under subparagraph (ii) of this paragraph, the 120-day review period under subparagraph (i) of this paragraph is suspended.</section>
-        <section prefix="(iv)">On receipt of any requested information or modifications to the agreement necessitated by the Department's comments under subparagraph (iii) of this paragraph, the Department, within the number of days remaining in the 120-day review period, shall:</section>
-        <section prefix="(v)"/>
+        <section prefix="(iv)">On receipt of any requested information or modifications to the agreement necessitated by the Department's comments under subparagraph (iii) of this paragraph, the Department, within the number of days remaining in the 120-day review period, shall:<section prefix="1.">complete its review to determine whether the agreement meets the requirements of this subtitle and other applicable law identified by the Department in accordance with subparagraph (ii) of this paragraph; and</section><section prefix="2.">approve or disapprove the agreement.</section></section>
+        <section prefix="(v)">
+          <section prefix="1.">If the Department does not approve the agreement, the Department shall notify the provider in writing, including citations to the specific provisions of law that the Department determined were not complied with in the agreement.</section>
+          <section prefix="2.">A provider may appeal the disapproval of an agreement under subparagraph (iv) of this paragraph under the provisions of Title 10, Subtitle 2 of the State Government Article.</section>
+        </section>
       </section>
       <section prefix="(2)">If the Department does not act within 120 days, the agreement is deemed approved.</section>
     </section>

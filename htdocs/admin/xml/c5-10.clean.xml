@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c5" order_by="" level="1"/>
-    <unit label="chapter" identifier="10" order_by="" level="2"/>
+    <unit label="article" identifier="c5" order_by="" level="1">V - Attorney-General and State's Attorneys</unit>
   </structure>
   <section_number>c5-10</section_number>
-  <catch_line/>
+  <catch_line>No person shall be eligible to the office of State's Attorney, who has not been admitted to practice...</catch_line>
+  <order_by>10</order_by>
   <text>No person shall be eligible to the office of State's Attorney, who has not been admitted to practice Law in this State, and who has not resided, for at least two years, in the county, or city, in which he may be elected.</text>
 </law>

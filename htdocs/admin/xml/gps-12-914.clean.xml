@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-914" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-914</section_number>
-  <catch_line/>
+  <catch_line>A person who repairs or alters a boiler or pressure vessel shall:...</catch_line>
+  <order_by>914</order_by>
   <text>A person who repairs or alters a boiler or pressure vessel shall:<section prefix=""><section prefix="(1)">give notice to and obtain approval from the Chief Boiler Inspector, a deputy boiler inspector, or a special inspector before beginning a repair or alteration that:<section prefix="(i)">affects the working pressure or safety of a boiler or pressure vessel; or</section><section prefix="(ii)">involves fusion welding;</section></section><section prefix="(2)">repair the boiler or pressure vessel in accordance with regulations adopted under this subtitle; and</section><section prefix="(3)">provide reports, as required by regulations adopted under this subtitle, to the Chief Boiler Inspector and the owner of the boiler or pressure vessel.</section></section></text>
 </law>

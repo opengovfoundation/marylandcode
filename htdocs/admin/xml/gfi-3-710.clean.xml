@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-710" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-710</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>710</order_by>
   <text>
     <section prefix="(a)">The successor shall act promptly to file and record the agreement in the same manner as required for articles of incorporation.</section>
     <section prefix="(b)">One of the following certificates may be recorded in any office where deeds are recorded to evidence the new name in which the property of the constituent banks is held:<section prefix="(1)">A certificate of consolidation, merger, or transfer of assets that the Commissioner issues;</section><section prefix="(2)">A certificate that the Comptroller of the Currency of the United States or the Director of the Office of Thrift Supervision issues to effect a merger or consolidation in which a national banking association or a federally chartered savings bank or savings and loan association is the successor; or</section><section prefix="(3)">A certificate of consolidation, merger, or transfer of assets issued by the bank supervisory agency of the State by which an other-state bank is chartered.</section></section>

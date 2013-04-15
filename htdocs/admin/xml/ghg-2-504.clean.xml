@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-504" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-2-504</section_number>
-  <catch_line/>
+  <catch_line>The Inspector General, in collaboration with the appropriate departmental program, may:...</catch_line>
+  <order_by>504</order_by>
   <text>The Inspector General, in collaboration with the appropriate departmental program, may:<section prefix=""><section prefix="(1)">Take necessary steps to recover any mistaken claims paid or payments obtained in error or fraudulent claims paid to or obtained by a provider; and</section><section prefix="(2)">Take necessary steps to recover the cost of benefits mistakenly paid or obtained in error, or fraudulently paid to or obtained by a recipient.</section></section></text>
 </law>

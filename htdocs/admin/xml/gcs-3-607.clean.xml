@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-607" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">The Division shall provide a copy of a case record maintained under &#xA7; 3-601 of this subtitle to a police officer who presents an order for a copy of the record signed by the superintendent or other officer in charge of police in a municipal corporation or county.</section>
     <section prefix="(b)">On or before the 28th day of each month, the Division shall provide to the superintendent or other officer in charge of police in the municipal corporation or county from which the inmate was committed the following information about each inmate whose sentence expires the following month:<section prefix="(1)">the inmate's name;</section><section prefix="(2)">the date when the inmate's sentence commenced;</section><section prefix="(3)">the county from which the inmate was committed;</section><section prefix="(4)">the crime for which the inmate was committed; and</section><section prefix="(5)">the exact date when the inmate will be discharged.</section></section>

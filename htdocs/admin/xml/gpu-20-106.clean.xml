@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-106" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-20-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission may not award a contract unless the contract contains provisions obligating the contractor:<section prefix="(i)">not to discriminate in any manner against an employee or an applicant for employment on the basis of sex, race, creed, color, age, mental or physical disability, sexual orientation, or national origin; and</section><section prefix="(ii)">to include a similar nondiscrimination clause in all subcontracts.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">If the nondiscrimination clause is omitted from a contract or subcontract, the Commission shall provide the contractor a reasonable opportunity to cure the defect, subject to this section.</section>
-        <section prefix="(ii)">If the contractor fails to cure the defect:</section>
+        <section prefix="(ii)">If the contractor fails to cure the defect:<section prefix="1.">the Commission may declare the contract to be void; and</section><section prefix="2.">the contractor is entitled to the reasonable value of work performed and materials provided by the contractor.</section></section>
         <section prefix="(iii)">If the contractor cures the defect, the contract remains in force according to its revised terms.</section>
       </section>
     </section>

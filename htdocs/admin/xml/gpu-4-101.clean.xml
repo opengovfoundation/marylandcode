@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-101" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-4-101</section_number>
-  <catch_line/>
+  <catch_line>In this title, "just and reasonable rate" means a rate that:...</catch_line>
+  <order_by>101</order_by>
   <text>In this title, "just and reasonable rate" means a rate that:<section prefix=""><section prefix="(1)">does not violate any provision of this article;</section><section prefix="(2)">fully considers and is consistent with the public good; and</section><section prefix="(3)">except for rates of a common carrier, will result in an operating income to the public service company that yields, after reasonable deduction for depreciation and other necessary and proper expenses and reserves, a reasonable return on the fair value of the public service company's property used and useful in providing service to the public.</section></section></text>
 </law>

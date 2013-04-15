@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-206" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-10-206</section_number>
-  <catch_line/>
+  <catch_line>A proposed extension or revision in this State of a route of transit facilities of the Washington Me...</catch_line>
+  <order_by>206</order_by>
   <text>A proposed extension or revision in this State of a route of transit facilities of the Washington Metropolitan Area Transit Authority requires approval of the Secretary.</text>
 </law>

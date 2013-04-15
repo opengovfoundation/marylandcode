@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-308" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-308</section_number>
-  <catch_line/>
+  <catch_line>The Secretary of Budget and Management shall give each member of the General Assembly notice of:...</catch_line>
+  <order_by>308</order_by>
   <text>The Secretary of Budget and Management shall give each member of the General Assembly notice of:<section prefix=""><section prefix="(1)">the total reversions at the end of each fiscal year; and</section><section prefix="(2)">any revision of an estimated reversion from an appropriation in the State budget for the current fiscal year.</section></section></text>
 </law>

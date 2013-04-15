@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="3D" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-3D</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>3D</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">It has been and shall continue to be the policy of the State to authorize the county commissioners of each county to displace or limit competition in the area of public transportation in order to provide for adequate, economical, and efficient delivery of transportation services; to protect its citizens from inconsistent and excessive prices; to provide necessary and desired services in all areas of the county; to enable the county to provide public transportation in order to conserve energy and reduce air pollution, congestion, traffic hazards and accidents; to encourage the use of public transportation by the contribution by the county of capital and operating funds to enable transportation to be provided at the lowest cost to all citizens, especially the indigent; and to promote the general welfare by conducting a comprehensive transportation system.</section>
@@ -13,8 +13,14 @@
       <section prefix="(3)">
         <section prefix="(i)">Notwithstanding any anticompetitive effect, the County Commissioners of Somerset County may grant a franchise for a ferry company to operate between Somerset County and Reedville, Virginia on an exclusive basis.</section>
         <section prefix="(ii)">Before granting a franchise to a ferry company, the County Commissioners of Somerset County shall review the proposed business and financial plan of the ferry company.</section>
-        <section prefix="(iii)"/>
-        <section prefix="(iv)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">The County Commissioners of Somerset County may adopt regulations to carry out the provisions of this paragraph.</section>
+          <section prefix="2.">Regulations adopted under this subparagraph shall be consistent with any regulations adopted by the Public Service Commission that relate to ferry companies.</section>
+        </section>
+        <section prefix="(iv)">
+          <section prefix="1.">A ferry company that is granted a franchise under this paragraph has up to 18 months to exercise the franchise.</section>
+          <section prefix="2.">If the ferry company has not exercised the franchise after 18 months from the date it was granted, the franchise shall be null and void.</section>
+        </section>
         <section prefix="(v)">A ferry company that is granted a franchise under this paragraph may not conduct any gambling or gaming activities on any ferry that it operates under the franchise.</section>
       </section>
     </section>

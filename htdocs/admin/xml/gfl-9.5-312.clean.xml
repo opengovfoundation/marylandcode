@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9.5-312" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9.5-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">The court shall award the prevailing party, including a state, necessary and reasonable expenses incurred by or on behalf of the party, including costs, communication expenses, attorney's fees, investigative fees, expenses for witnesses, travel expenses, and child care expenses during the course of the proceedings, unless the party from whom fees or expenses are sought establishes that the award would be clearly inappropriate.</section>
     <section prefix="(b)">The court may not assess fees, costs, or expenses against a state unless authorized by law other than this title.</section>

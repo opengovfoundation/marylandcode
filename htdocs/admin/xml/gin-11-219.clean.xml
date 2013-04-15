@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-219" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">An insurer may deviate from the rates filed by a rating organization if:<section prefix="(1)">the insurer has filed the deviation to be applied with the rating organization and Commissioner;</section><section prefix="(2)">the deviation is uniform in its application to all risks in the State of the class of insurance to which the deviation is to apply; and</section><section prefix="(3)">the deviation is approved by the Commissioner.</section></section>
     <section prefix="(b)">The Commissioner may approve or disapprove a deviation as if the deviation filing were a rate filing and specify the period of time during which an approval will be effective.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-911" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-911</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>911</order_by>
   <text>
     <section prefix="(a)">Except with the written consent of the Division Director, a person who has been convicted, or who is convicted, of any crime involving dishonesty or a breach of trust, may not ever serve as an officer or director of an association.</section>
     <section prefix="(b)">However, the pendency of an appeal from the conviction stays the operation of the prohibition of subsection (a) of this section until the appeal is decided or dismissed.</section>

@@ -1,13 +1,13 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
-    <section prefix="(a)">Except as provided in &#xA7; 14-102 of this subtitle, each person who sells or offers or displays for sale a consumer commodity at retail shall disclose:<section prefix="(1)">The total price of the consumer commodity; or</section><section prefix="(2)">Except as provided in subsection (c) of this section, the unit price of the consumer commodity if:<section prefix="(i)">It is sold only by units; or</section><section prefix="(ii)">It is a prepackaged or retail-packaged consumer commodity within any of the following categories:</section></section></section>
+    <section prefix="(a)">Except as provided in &#xA7; 14-102 of this subtitle, each person who sells or offers or displays for sale a consumer commodity at retail shall disclose:<section prefix="(1)">The total price of the consumer commodity; or</section><section prefix="(2)">Except as provided in subsection (c) of this section, the unit price of the consumer commodity if:<section prefix="(i)">It is sold only by units; or</section><section prefix="(ii)">It is a prepackaged or retail-packaged consumer commodity within any of the following categories:<section prefix="1.">Foods, condiments, cooking oils, shortenings, and similar consumer commodities;</section><section prefix="2.">Paper products, including napkins, towels, and tissues;</section><section prefix="3.">Wrapping products, including those made of paper, plastic, and aluminum; and</section><section prefix="4.">Soaps, detergents, cleansing aids, deodorizing aids, and similar consumer commodities.</section></section></section></section>
     <section prefix="(b)">If a packaged consumer commodity described in subsection (a)(2)(ii) of this section is priced for a multiple-package purchase, the seller shall disclose the unit price of that commodity on the basis of the multiple package.</section>
     <section prefix="(c)">A person is not required to disclose the unit price of a consumer commodity described in subsection (a)(2) of this section if he then is disclosing unit prices for at least 90 percent of the dollar volume or number of items of all his consumer commodities which are subject to the disclosure requirements of subsection (a)(2) of this section.</section>
   </text>

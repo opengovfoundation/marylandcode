@@ -1,21 +1,25 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-909" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-909</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>909</order_by>
   <text>
     <section prefix="(a)">A correctional officer who has been charged with a felony may request a stay of all charges and proceedings under this section until after a verdict has been reached in the felony case.</section>
     <section prefix="(b)">A correctional officer who has been convicted of a felony is not entitled to a hearing under this section.</section>
     <section prefix="(c)">
       <section prefix="(1)">
-        <section prefix="(i)">The hearing board authorized under this section shall consist of at least three members.</section>
+        <section prefix="(i)">The hearing board authorized under this section shall consist of at least three members.<section prefix="1.">For correctional officers holding the rank of sergeant or below, the hearing board shall be composed of two correctional officers who are members of the bargaining unit, one of whom is the same rank as the correctional officer facing charges, and one correctional officer ranked lieutenant or higher.</section><section prefix="2.">For correctional officers holding the rank of lieutenant and above, the hearing board shall be composed of one correctional officer of equal rank, one correctional officer of equal or lower rank, and one correctional officer of equal or higher rank.</section></section>
         <section prefix="(ii)">Correctional officers assigned to serve on a hearing board shall be randomly selected from a rotating list of correctional officers eligible to serve on disciplinary hearing boards maintained by the Department.</section>
-        <section prefix="(iii)">The Department, after consultation with the exclusive representative for the correctional officers who are covered by this subtitle, shall determine:</section>
+        <section prefix="(iii)">The Department, after consultation with the exclusive representative for the correctional officers who are covered by this subtitle, shall determine:<section prefix="1.">the manner of selection of correctional officers who are eligible to serve on a rotating list; and</section><section prefix="2.">the manner of the selection of correctional officers for a hearing board.</section></section>
         <section prefix="(iv)">Correctional officers assigned to serve on a hearing board shall be from a facility other than the facility to which the correctional officer facing charges is regularly assigned, and may not have had a role in the investigation or the interrogation of the correctional officer against whom the charges are filed, or be involved in any way with the incidents that are the subject of the complaint.</section>
-        <section prefix="(v)"/>
+        <section prefix="(v)">
+          <section prefix="1.">The highest ranking member of the hearing board shall serve as the hearing board chair.</section>
+          <section prefix="2.">The chair of the hearing board:</section>
+          <section prefix="3.">The chair of the hearing board shall be from a different facility than the other board members.</section>
+        </section>
         <section prefix="(vi)">The appointing authority and the exclusive bargaining representative may negotiate an alternative method of forming the hearing board for members of the collective bargaining unit.</section>
       </section>
       <section prefix="(2)">
@@ -35,7 +39,7 @@
       <section prefix="(2)">The hearing board shall give the Department and correctional officer ample opportunity to present evidence and argument about the issues involved.</section>
       <section prefix="(3)">
         <section prefix="(i)">The correctional facility and correctional officer may be represented by legal counsel they each may select.</section>
-        <section prefix="(ii)">In the alternative, a correctional officer may be represented:</section>
+        <section prefix="(ii)">In the alternative, a correctional officer may be represented:<section prefix="1.">by an agent of the exclusive representative of the correctional officer designated under &#xA7; 3-406 of the State Personnel and Pensions Article; or</section><section prefix="2.">if the correctional officer is not within the bargaining unit for which an exclusive representative is designated under &#xA7; 3-406 of the State Personnel and Pensions Article, by any person chosen by the correctional officer.</section></section>
       </section>
       <section prefix="(4)">Each party has the right to cross-examine witnesses who testify, and each party may submit rebuttal evidence.</section>
     </section>

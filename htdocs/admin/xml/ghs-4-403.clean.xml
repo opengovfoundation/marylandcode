@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-403</section_number>
-  <catch_line/>
+  <catch_line>The purposes of the Program are to:...</catch_line>
+  <order_by>403</order_by>
   <text>The purposes of the Program are to:<section prefix=""><section prefix="(1)">stimulate the production of rental housing, including conversion of existing rental housing, for occupancy by elderly households;</section><section prefix="(2)">increase the supply of decent, safe, and sanitary rental housing at costs that are affordable to low-income elderly households;</section><section prefix="(3)">use available resources to serve the elderly households that are most in need; and</section><section prefix="(4)">relieve unemployment by stimulating the construction or substantial rehabilitation of elderly rental housing projects or the conversion of existing rental housing projects for occupancy by elderly households.</section></section></text>
 </law>

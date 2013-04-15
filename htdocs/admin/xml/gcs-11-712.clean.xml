@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-712" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-712</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>712</order_by>
   <text>
     <section prefix="(a)">This section applies only in Frederick County.</section>
     <section prefix="(b)">
       <section prefix="(1)">The Sheriff shall:<section prefix="(i)">establish a pretrial release program that offers alternatives to pretrial detention; and</section><section prefix="(ii)">adopt regulations to administer the program.</section></section>
       <section prefix="(2)">A court may order an individual to participate in the pretrial release program, if the individual:<section prefix="(i)">appears before the court after being charged and detained on bond; and</section><section prefix="(ii)">meets the eligibility requirements of paragraph (4) of this subsection.</section></section>
       <section prefix="(3)">The court may make the order at the imposition of bond, on review of bond, or any other time during the individual's pretrial detention.</section>
-      <section prefix="(4)">An individual is eligible for the pretrial release program if the individual:<section prefix="(i)">is recommended to the court for placement in the program by the program staff;</section><section prefix="(ii)">has no other charges pending in any jurisdiction; and</section><section prefix="(iii)">is not in detention for:</section></section>
+      <section prefix="(4)">An individual is eligible for the pretrial release program if the individual:<section prefix="(i)">is recommended to the court for placement in the program by the program staff;</section><section prefix="(ii)">has no other charges pending in any jurisdiction; and</section><section prefix="(iii)">is not in detention for:<section prefix="1.">a crime of violence; or</section><section prefix="2.">the crime of escape under &#xA7; 9-404 of the Criminal Law Article.</section></section></section>
     </section>
     <section prefix="(c)">
       <section prefix="(1)">The Sheriff's Department may:<section prefix="(i)">establish and direct a work release program; and</section><section prefix="(ii)">adopt guidelines for the operation of the program.</section></section>
@@ -24,8 +24,8 @@
       <section prefix="(4)">Unless the committing court directs otherwise, an inmate shall be confined in the detention center when not participating in the work release program.</section>
       <section prefix="(5)">
         <section prefix="(i)">The Sheriff or Sheriff's designee shall collect the earnings of an inmate in the work release program, less payroll deductions required by law.</section>
-        <section prefix="(ii)">From the earnings of the inmate, the Sheriff shall deduct and disburse:</section>
-        <section prefix="(iii)">The Sheriff shall:</section>
+        <section prefix="(ii)">From the earnings of the inmate, the Sheriff shall deduct and disburse:<section prefix="1.">an amount determined to be the cost to the county for food, lodging, and clothing for the inmate;</section><section prefix="2.">the actual cost of necessary food and travel and other expenses incidental to the inmate's participation in the program;</section><section prefix="3.">any amount a court imposes for a fine, cost, or restitution;</section><section prefix="4.">any amount that the inmate is legally obligated or reasonably desires to pay for support of a dependent; and</section><section prefix="5.">if applicable, any amount that a court orders the inmate to repay to the State or to the county for the services of an attorney appointed by the court.</section></section>
+        <section prefix="(iii)">The Sheriff shall:<section prefix="1.">credit to the inmate's account the remaining balance; and</section><section prefix="2.">dispose of the balance in the inmate's account as the inmate reasonably requests and as the Sheriff approves.</section></section>
       </section>
       <section prefix="(6)">If an inmate violates a trust or a condition that a judge or the Sheriff establishes for conduct or employment, after an administrative hearing that upholds the violation, the inmate is subject to:<section prefix="(i)">removal from the work release program; and</section><section prefix="(ii)">cancellation of any earned diminution of the inmate's term of confinement.</section></section>
     </section>
@@ -33,7 +33,7 @@
       <section prefix="(1)">The Sheriff shall:<section prefix="(i)">establish and administer a home detention program; and</section><section prefix="(ii)">adopt regulations for the program.</section></section>
       <section prefix="(2)">At the time of sentencing or at any time during an individual's confinement, the sentencing judge may require that the individual participate in the home detention program.</section>
       <section prefix="(3)">An inmate is eligible for the home detention program if:<section prefix="(i)">the sentencing judge recommended that the inmate participate in the program; and</section><section prefix="(ii)">the individual has no other charges pending in any jurisdiction.</section></section>
-      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:</section></section>
+      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:<section prefix="1.">child abuse under &#xA7; 3-601 or &#xA7; 3-602 of the Criminal Law Article; or</section><section prefix="2.">escape under &#xA7; 9-404 of the Criminal Law Article.</section></section></section>
     </section>
   </text>
 </law>

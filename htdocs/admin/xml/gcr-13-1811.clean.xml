@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1811" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1811</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1811</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a qualified organization that intends to conduct a raffle in the county shall obtain a permit from the county.</section>
     <section prefix="(b)">A permit is not required to conduct a 50/50 raffle.</section>

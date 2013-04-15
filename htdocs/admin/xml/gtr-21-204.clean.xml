@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-204" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">If a flashing red or yellow light is used in a traffic signal or with a traffic sign, it requires obedience by vehicular traffic as provided in this section.</section>
     <section prefix="(b)">If a red lens is lit with rapid intermittent flashes, the driver of a vehicle shall stop at the near side of the intersection at a clearly marked stop line.</section>

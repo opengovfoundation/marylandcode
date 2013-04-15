@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-202" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">Express warranties by a vendor are created as follows:<section prefix="(1)">Any written affirmation of fact or promise which relates to the improvement and is made a part of the basis of the bargain between the vendor and the purchaser creates an express warranty that the improvement conforms to the affirmation or promise.</section><section prefix="(2)">Any written description of the improvement, including plans and specifications of it, which is made a part of the basis of the bargain between the vendor and the purchaser creates an express warranty that the improvement conforms to the description.</section><section prefix="(3)">Any sample or model which is made a part of the basis of the bargain between the vendor and the purchaser creates an express warranty that the improvement conforms substantially to the sample or model.</section></section>
     <section prefix="(b)">To create an express warranty, it is not necessary to use formal words, such as "warranty" or "guarantee", or that there be a specific intention to make a warranty. However, an affirmation merely of the value of the improvement or a statement purporting to be an opinion or commendation of the improvement does not create a warranty.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-313.1" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-313.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Department shall impose an administrative civil penalty on a person who owns or operates a sewage treatment plant that is in violation of &#xA7; 4-302.1(b)(1), (c), or (d) of this subtitle.</section>

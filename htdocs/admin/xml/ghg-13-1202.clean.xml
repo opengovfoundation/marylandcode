@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1202" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-1202</section_number>
-  <catch_line/>
+  <catch_line>The General Assembly finds that:...</catch_line>
+  <order_by>1202</order_by>
   <text>The General Assembly finds that:<section prefix=""><section prefix="(1)">Maternal deaths are a serious public health concern and have a tremendous family and societal impact;</section><section prefix="(2)">Maternal deaths are significantly underestimated and inadequately documented, preventing efforts to identify and reduce or eliminate the causes of death;</section><section prefix="(3)">No processes exist in the State for the confidential identification, investigation, or dissemination of findings regarding maternal deaths; and</section><section prefix="(4)">There is a need to establish a Maternal Mortality Review Program to review maternal deaths and to develop strategies for the prevention of maternal deaths.</section></section></text>
 </law>

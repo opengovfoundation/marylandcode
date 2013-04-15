@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2A-503" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(1)">Except as otherwise provided in this title, the lease agreement may include rights and remedies for default in addition to or in substitution for those provided in this title and may limit or alter the measure of damages recoverable under this title.</section>
     <section prefix="(2)">Resort to a remedy provided under this title or in the lease agreement is optional unless the remedy is expressly agreed to be exclusive. If circumstances cause an exclusive or limited remedy to fail of its essential purpose, or provision for an exclusive remedy is unconscionable, remedy may be had as provided in this title.</section>

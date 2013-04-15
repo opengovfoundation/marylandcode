@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-116" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-116</section_number>
-  <catch_line/>
+  <catch_line>"Driver's license" means any license or permit to drive a motor vehicle that is issued under Title 1...</catch_line>
+  <order_by>116</order_by>
   <text>"Driver's license" means any license or permit to drive a motor vehicle that is issued under Title 16 of this article.</text>
 </law>

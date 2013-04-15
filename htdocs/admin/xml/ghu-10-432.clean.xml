@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-432" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-432</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>432</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subsection (b)(2) of this section does not apply to a transfer of ownership or control of a person that owns or controls a facility, if:<section prefix="(i)">the transfer is part of a business reorganization; and</section><section prefix="(ii)">the same person or persons holding the right to control or holding a majority of ownership before the business reorganization will retain, directly or indirectly, the right to control or a majority of ownership, respectively, after the business reorganization.</section></section>

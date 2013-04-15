@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-802" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Athletic official" means an individual who officiates, referees, or umpires an interscholastic, intercollegiate, or any other amateur athletic contest conducted by a nonprofit or governmental body.</section>
       <section prefix="(3)">
-        <section prefix="(i)">"Community recreation program" means an athletic, fitness, or recreation activity:</section>
+        <section prefix="(i)">"Community recreation program" means an athletic, fitness, or recreation activity:<section prefix="1.">Organized for pleasure, recreation, or other nonprofit purposes;</section><section prefix="2.">That has substantially all of its activities conducted for pleasure, recreation, or other nonprofit purposes; and</section><section prefix="3.">That does not have any part of the net earnings benefiting any private shareholder.</section></section>
         <section prefix="(ii)">"Community recreation program" does not include a public or private educational institution's athletic program.</section>
       </section>
       <section prefix="(4)">"Compensation" does not include actual and necessary expenses that are incurred by a volunteer in connection with the services provided or duties performed by the volunteer on behalf of a community recreation program, and that are reimbursed to the volunteer or otherwise paid.</section>

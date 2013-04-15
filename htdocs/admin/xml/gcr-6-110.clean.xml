@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-110" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-110</section_number>
-  <catch_line/>
+  <catch_line>If a structure is divided into separately owned or leased units, each unit is a separate structure f...</catch_line>
+  <order_by>110</order_by>
   <text>If a structure is divided into separately owned or leased units, each unit is a separate structure for purposes of prosecution under this subtitle.</text>
 </law>

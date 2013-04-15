@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-830" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-830</section_number>
-  <catch_line/>
+  <catch_line>If the tax, interest, and penalty are not paid when due, the tax collector, without notice to the pe...</catch_line>
+  <order_by>830</order_by>
   <text>If the tax, interest, and penalty are not paid when due, the tax collector, without notice to the person who posted the security under &#xA7; 13-829 of this subtitle, may:<section prefix=""><section prefix="(1)">apply a cash or security deposit to the tax, interest, or penalty; or</section><section prefix="(2)">sell a security at public or private auction and apply the proceeds of the sale to the tax, interest, or penalty.</section></section></text>
 </law>

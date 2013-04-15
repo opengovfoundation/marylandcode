@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-404" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">On or before March 15 of each year, the Fund shall determine and the Board of Trustees shall certify to the Board of Directors the information required under subsections (b) and (c) of this section.</section>
     <section prefix="(b)">Subject to subsection (f) of this section, the following information certified to the Board of Directors shall be separately identified by commercial auto and private passenger auto results:<section prefix="(1)">the statutory operating loss for the immediately preceding calendar year;</section><section prefix="(2)">a calculation to yield a private passenger auto assessment limit that is determined by subtracting the year-end total surplus of the Fund for the immediately preceding calendar year from an amount equal to 25% of the average of net direct written private passenger auto premiums of the Fund for each of the three immediately preceding calendar years; and</section><section prefix="(3)">a calculation to yield a commercial auto assessment limit that is determined by subtracting the year-end commercial auto surplus of the Fund for the immediately preceding calendar year from an amount equal to 25% of the average of net direct written commercial auto premiums of the Fund for each of the 3 immediately preceding calendar years.</section></section>

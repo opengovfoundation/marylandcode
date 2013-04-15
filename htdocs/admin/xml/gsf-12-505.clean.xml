@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-505" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-12-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">In conjunction with the submission of a bid or offer on a procurement contract to a unit of State or local government to provide MARC service, an entity shall submit to the unit:<section prefix="(1)">a statement that the entity had direct involvement in the deportation of victims; and</section><section prefix="(2)">an estimated date for completing the process of assembling the records and providing information to the State Archivist in accordance with &#xA7;&#xA7; 12-506 and 12-507 of this subtitle.</section></section>
     <section prefix="(b)">The entity shall notify the unit of any change in the estimated date that was submitted to the unit in accordance with subsection (a) of this section.</section>

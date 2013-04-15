@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-402" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a refusal to leave property based on a bona fide claim of ownership of or other right to the property.</section>
     <section prefix="(b)">An employee or former employee may not remain on property that is under the legal control of an employer after the employer or an agent of the employer gives the employee or former employee notice to leave if remaining deprives or is intended to deprive the employer of the substantial control, possession, or use of the property.</section>

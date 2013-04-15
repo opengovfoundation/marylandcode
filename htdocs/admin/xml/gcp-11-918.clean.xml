@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-918" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-918</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>918</order_by>
   <text>
     <section prefix="(a)">The Fund is subject to an audit by the Office of Legislative Audits under &#xA7; 2-1220 of the State Government Article.</section>
     <section prefix="(b)">Disbursements from the Fund shall supplement and may not be a substitute for any State, local government, or other funds existing on July 1, 1991, for assistance to crime victims or witnesses.</section>

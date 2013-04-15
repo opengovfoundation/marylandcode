@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-1005" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-1005</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1005</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">In this section, "abuse" means:<section prefix="(i)">Any physical injury that is inflicted willfully or with gross recklessness;</section><section prefix="(ii)">Inhumane treatment; or</section><section prefix="(iii)">Any of the following kinds of sexual abuse:</section></section>
-      <section prefix="(2)">In this section, "abuse" does not include:<section prefix="(i)">The performance of:</section><section prefix="(ii)">An action taken by an employee that complies with applicable State and federal laws and applicable Department policies on the use of physical intervention.</section></section>
+      <section prefix="(1)">In this section, "abuse" means:<section prefix="(i)">Any physical injury that is inflicted willfully or with gross recklessness;</section><section prefix="(ii)">Inhumane treatment; or</section><section prefix="(iii)">Any of the following kinds of sexual abuse:<section prefix="1.">A sexual act, as defined in &#xA7; 3-301 of the Criminal Law Article;</section><section prefix="2.">Sexual contact, as defined in &#xA7; 3-301 of the Criminal Law Article; or</section><section prefix="3.">Vaginal intercourse, as defined in &#xA7; 3-301 of the Criminal Law Article.</section></section></section>
+      <section prefix="(2)">In this section, "abuse" does not include:<section prefix="(i)">The performance of:<section prefix="1.">An accepted medical procedure that a physician orders;</section><section prefix="2.">An accepted behavioral procedure that a licensed psychologist or psychiatrist, as appropriate, orders; or</section></section><section prefix="(ii)">An action taken by an employee that complies with applicable State and federal laws and applicable Department policies on the use of physical intervention.</section></section>
     </section>
     <section prefix="(b)">
       <section prefix="(1)">In addition to any other reporting requirement of law, a person who believes that an individual with developmental disability has been abused promptly shall report the alleged abuse to the executive officer or administrative head of the licensee.</section>

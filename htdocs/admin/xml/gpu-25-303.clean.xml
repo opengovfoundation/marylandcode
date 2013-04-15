@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-303" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">If the Commission provides for a class of connections for unimproved areas as provided in &#xA7; 25-302 of this subtitle:<section prefix="(1)">the charges for water and sanitary sewer connections to similar properties in developed areas may be based on the Commission's calculation, based on its experience, of an average cost for connections in both unimproved and developed areas; and</section><section prefix="(2)">the Commission may specify this connection charge as the uniform connection charge provided in &#xA7; 25-301 of this subtitle for connections installed by the Commission in developed areas.</section></section>
     <section prefix="(b)">Any difference between the actual cost of the connections and the uniform connection charge shall be paid from the water service charge or a sewer usage charge, as applicable.</section>

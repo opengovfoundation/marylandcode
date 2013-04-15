@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-202" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of 16 members.</section>
@@ -22,8 +22,8 @@
       <section prefix="(6)">To the extent practicable, the members appointed to the Board shall reasonably reflect the geographic, racial, ethnic, cultural, and gender diversity of the State.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">For each licensed dentist vacancy, the Board shall:<section prefix="(i)">Send by electronic mail or regular mail a solicitation for nominations to fill the vacancy to:</section><section prefix="(ii)">Conduct a balloting process by which each dentist licensed by the State is eligible to vote to select the names of the licensed dentists to be submitted to the Governor.</section></section>
-      <section prefix="(2)">For each licensed dental hygienist vacancy, the Board shall:<section prefix="(i)">Send by electronic mail or regular mail a solicitation for nominations to fill the vacancy to:</section><section prefix="(ii)">Conduct a balloting process by which each dental hygienist licensed by the State is eligible to vote to select the names of the licensed dental hygienists to be submitted to the Governor.</section></section>
+      <section prefix="(1)">For each licensed dentist vacancy, the Board shall:<section prefix="(i)">Send by electronic mail or regular mail a solicitation for nominations to fill the vacancy to:<section prefix="1.">Each dentist licensed by the Board; and</section><section prefix="2.">Each State dental organization affiliated with a national organization; and</section></section><section prefix="(ii)">Conduct a balloting process by which each dentist licensed by the State is eligible to vote to select the names of the licensed dentists to be submitted to the Governor.</section></section>
+      <section prefix="(2)">For each licensed dental hygienist vacancy, the Board shall:<section prefix="(i)">Send by electronic mail or regular mail a solicitation for nominations to fill the vacancy to:<section prefix="1.">Each dental hygienist licensed by the Board; and</section><section prefix="2.">Each State dental hygienist organization affiliated with a national organization; and</section></section><section prefix="(ii)">Conduct a balloting process by which each dental hygienist licensed by the State is eligible to vote to select the names of the licensed dental hygienists to be submitted to the Governor.</section></section>
       <section prefix="(3)">The Board shall develop guidelines for the solicitation of nominations and balloting process that to the extent possible will result in the overall composition of the Board reasonably reflecting the geographic, racial, ethnic, and gender diversity of the State.</section>
     </section>
     <section prefix="(c)">Each dentist Board member:<section prefix="(1)">Shall be an individual of recognized ability and honor;</section><section prefix="(2)">Shall be a practicing holder of a general license to practice dentistry who has practiced dentistry actively in this State for at least 5 years immediately before appointment;</section><section prefix="(3)">Shall be a resident of this State; and</section><section prefix="(4)">In the case of a Board member belonging to an association whose members are regulated by the Board, may not be:<section prefix="(i)">An officer of the association;</section><section prefix="(ii)">A member of the association's governing board or committee;</section><section prefix="(iii)">A member of the association's house of delegates; or</section><section prefix="(iv)">A voting member of a committee of the association that contributes to the establishment of governmental, regulatory, or legislative policy objectives of the association.</section></section></section>

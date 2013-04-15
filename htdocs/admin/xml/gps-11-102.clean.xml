@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-102" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-11-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">This subtitle does not apply to explosives while being transported on vessels, vehicles, or railroad cars, or while being held for delivery, if the transportation or delivery is subject to and conforms with regulations adopted by the United States Department of Transportation or United States Coast Guard.</section>
     <section prefix="(b)">This subtitle does not apply to the receipt, possession, and use of signals required for the safe operation of vessels, motor vehicles, railroad cars, or aircraft by their operators.</section>

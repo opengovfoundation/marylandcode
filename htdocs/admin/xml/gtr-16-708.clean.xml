@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-708" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-708</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>708</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of subsection (b) of this section, an act or omission of an official or employee of this State done or omitted under, or in enforcement of, the provisions of the Compact shall be subject to judicial review under the provisions of Title 10, Subtitle 2 (Administrative Procedure Act) of the State Government Article.</section>
     <section prefix="(b)">Judicial review of the validity of a conviction in another state reported under Article III of the Compact shall be limited to establishing the identity of the individual who was convicted in another state.</section>

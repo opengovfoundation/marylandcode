@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-704" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">Except for Subtitles 2, 5, and 9 of this title, any act or part of an act that is inconsistent with the provisions of Part II of this subtitle is repealed to the extent of the inconsistency.</section>
     <section prefix="(b)">The provisions of Part II of this subtitle do not affect any power or duty of:<section prefix="(1)">The Secretary;</section><section prefix="(2)">The Washington Suburban Sanitary Commission;</section><section prefix="(3)">The Anne Arundel County Sanitary Commission;</section><section prefix="(4)">The Baltimore County Metropolitan District; or</section><section prefix="(5)">Baltimore City.</section></section>

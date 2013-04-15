@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-415" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-415</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>415</order_by>
   <text>
     <section prefix="(a)">In this section, "Fire Rescue Service" means the Maryland Aviation Administration Fire Rescue Service.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, the Fire Rescue Service shall charge an ambulance transport fee set in regulations adopted under subsection (d) of this section to an individual if the Fire Rescue Service transports the individual to a hospital from property owned by the Administration or property subject to a mutual aid agreement to which the Administration is a party.</section>

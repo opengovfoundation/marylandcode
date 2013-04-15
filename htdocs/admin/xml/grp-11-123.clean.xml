@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-123" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11-123</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123</order_by>
   <text>
     <section prefix="(a)">Except in the case of a taking of all the units by eminent domain under &#xA7; 11-112 of this title, a condominium may be terminated only by agreement of unit owners of units to which at least 80 percent of the votes in the council of unit owners are allocated, or any larger percentage the declaration specifies. The declaration may specify a smaller percentage only if all of the units in the condominium are restricted exclusively to nonresidential uses.</section>
     <section prefix="(b)">An agreement of unit owners to terminate a condominium must be evidenced by their execution of a termination agreement or ratifications thereof. If, pursuant to a termination agreement, the real estate constituting the condominium is to be sold following termination, the termination agreement must set forth the terms of the sale. A termination agreement and all ratifications thereof must be recorded in every county in which a portion of the condominium is situated, and is effective only upon recordation.</section>

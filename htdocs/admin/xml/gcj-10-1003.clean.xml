@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1003" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In a criminal proceeding, the prosecution shall, upon written demand of a defendant filed in the proceedings at least 5 days prior to a trial in the proceeding, require the presence of the chemist, analyst, or any person in the chain of custody as a prosecution witness.</section>

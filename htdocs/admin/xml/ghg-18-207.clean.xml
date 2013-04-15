@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-207" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"HIV/AIDS case report" means an abstract of the medical record of a patient diagnosed with human immunodeficiency virus or acquired immunodeficiency syndrome which contains:<section prefix="(i)">Reasonably obtained patient demographic information, including name and risk factors;</section><section prefix="(ii)">Relevant information on the:</section><section prefix="(iii)">Facility and other provider identification information.</section></section>
+      <section prefix="(2)">"HIV/AIDS case report" means an abstract of the medical record of a patient diagnosed with human immunodeficiency virus or acquired immunodeficiency syndrome which contains:<section prefix="(i)">Reasonably obtained patient demographic information, including name and risk factors;</section><section prefix="(ii)">Relevant information on the:<section prefix="1.">Initial diagnosis;</section><section prefix="2.">Treatment and referral; and</section><section prefix="3.">Clinical condition; and</section></section><section prefix="(iii)">Facility and other provider identification information.</section></section>
       <section prefix="(3)">"Report" means:<section prefix="(i)">A laboratory examination report for HIV or CD 4+ count as required by &#xA7; 18-205 of this subtitle;</section><section prefix="(ii)">A report for HIV or AIDS as required by &#xA7; 18-201.1, &#xA7; 18-202,  or &#xA7; 18-202.1 of this subtitle; or</section><section prefix="(iii)">An HIV/AIDS case report.</section></section>
       <section prefix="(4)">"Designated anonymous HIV test site" means an HIV counseling and testing site approved by the Department of Health and Mental Hygiene as a site where a patient may have an anonymous HIV test.</section>
     </section>

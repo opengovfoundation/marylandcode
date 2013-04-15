@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-9A-07" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-9A-07</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>07</order_by>
   <text>
     <section prefix="(a)">The Board and the sponsor of a designated Rural Legacy Area shall execute a grant agreement.</section>
     <section prefix="(b)">The sponsor shall comply with the terms of the grant agreement, carry out the Rural Legacy Plan, and adhere to regulations adopted by the Board.</section>

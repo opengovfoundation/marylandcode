@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-521" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-521</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>521</order_by>
   <text>
     <section prefix="(a)">In this section, "derivative" means a contract or financial instrument or a combination of contracts and financial instruments which gives a trust the right or obligation to participate in some or all changes in the price of a tangible or intangible asset or group of assets, or changes in a rate, an index of prices or rates, or other market indicator for an asset or a group of assets.</section>
     <section prefix="(b)">To the extent that a trustee does not account under &#xA7; 15-510 of this subtitle for transactions in derivatives, the trustee shall allocate to principal receipts from and disbursements made in connection with those transactions.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1012" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-1012</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1012</order_by>
   <text>
     <section prefix="(a)">At any time before the case is called for trial, the defendant may file a written answer to the complaint.</section>
     <section prefix="(b)">The answer need not be in any particular form.</section>

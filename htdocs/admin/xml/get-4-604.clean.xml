@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-604" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-4-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The signatures required under &#xA7; 4-603 of this subtitle shall be placed at the end of the will.</section>
       <section prefix="(2)">If the will consists of more than one sheet, each sheet shall be numbered.</section>
-      <section prefix="(3)">If a will consists of more than one sheet, each sheet shall be signed by:<section prefix="(i)">The testator; or</section><section prefix="(ii)"/></section>
+      <section prefix="(3)">If a will consists of more than one sheet, each sheet shall be signed by:<section prefix="(i)">The testator; or</section><section prefix="(ii)"><section prefix="1.">If the testator is unable to sign the testator's name, a person signing at the direction of the testator; or</section><section prefix="2.">If there is no person signing at the direction of the testator, the authorized person.</section></section></section>
     </section>
     <section prefix="(b)">The date of the will shall be:<section prefix="(1)">The date of the authorized person's signature on the will; and</section><section prefix="(2)">Noted at the end of the will by the authorized person.</section></section>
     <section prefix="(c)">

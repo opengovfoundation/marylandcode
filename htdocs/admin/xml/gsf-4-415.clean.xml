@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-415" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-4-415</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>415</order_by>
   <text>
     <section prefix="(a)">This section does not apply to any capital expenditures by the Department of Transportation or the Maryland Transportation Authority in connection with State roads, bridges, or highways.</section>
     <section prefix="(b)">Before execution, a contract for the acquisition of land shall be:<section prefix="(1)">reviewed by the Secretary of General Services; and</section><section prefix="(2)">except as provided in &#xA7; 12-204 of this article, after that review, approved by the Board of Public Works.</section></section>

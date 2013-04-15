@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-402" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-26-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Each motor club shall provide to its members:<section prefix="(1)">a service contract;</section><section prefix="(2)">a membership card; and</section><section prefix="(3)">the following information:<section prefix="(i)">the exact name of the motor club;</section><section prefix="(ii)">the street address of the motor club's home office;</section><section prefix="(iii)">the street address of the motor club's principal place of business in the State;</section><section prefix="(iv)">the telephone numbers of the motor club's home and business offices; and</section><section prefix="(v)">a description of the motor club services or benefits to which the member is entitled.</section></section></section>
     <section prefix="(b)">Unless a motor club provides and the Commissioner approves another form of service contract, the completed application and the description of motor club services constitute the service contract.</section>

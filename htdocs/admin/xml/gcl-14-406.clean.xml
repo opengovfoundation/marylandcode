@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-406" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">If a guarantor or provider violates any provision of this subtitle, the Attorney General may obtain a court order prohibiting the guarantor or provider from further violations.</section>
     <section prefix="(b)">At least 7 days before the filing of an action for the order, the Attorney General shall give appropriate notice to the guarantor or provider stating generally the relief sought.</section>

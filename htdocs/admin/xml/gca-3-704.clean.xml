@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-704" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 3-705 of this subtitle, if the acquiring person requests, at the time of delivery of an acquiring person statement, and gives a written undertaking to pay the corporation's expenses of a special meeting, except the expenses of opposing approval of the voting rights, within 10 days after the day on which the corporation receives both the request and undertaking, the directors of the corporation shall call a special meeting of stockholders of the corporation for the purpose of considering the voting rights to be accorded the shares acquired or to be acquired in the control share acquisition.</section>
     <section prefix="(b)">The directors may require the acquiring person to give bond, with sufficient surety, to reasonably assure the corporation that this undertaking will be satisfied.</section>

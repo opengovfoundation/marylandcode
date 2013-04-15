@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-113" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-10-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">A license authorizes the holder of the license to act as an insurance producer for the kind or subdivision of insurance or combination of kinds or subdivisions of insurance specified in the license.</section>
     <section prefix="(b)">The holder of a license may not use any name other than the name in which the license is issued or a trade name filed with the Commissioner under this subtitle to engage in any activity for which a license is required, including the execution of any document related to marketing, negotiation, selling, or issuance of insurance.</section>

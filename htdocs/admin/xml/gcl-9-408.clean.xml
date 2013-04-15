@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-408" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsection (b), a term in a promissory note or in an agreement between an account debtor and a debtor which relates to a health-care-insurance receivable or a general intangible, including a contract, permit, license, or franchise, and which term prohibits, restricts, or requires the consent of the person obligated on the promissory note or the account debtor to, the assignment or transfer of, or creation, attachment, or perfection of a security interest in, the promissory note, health-care-insurance receivable, or general intangible, is ineffective to the extent that the term:<section prefix="(1)">Would impair the creation, attachment, or perfection of a security interest; or</section><section prefix="(2)">Provides that the assignment or transfer or the creation, attachment, or perfection of the security interest may give rise to a default, breach, right of recoupment, claim, defense, termination, right of termination, or remedy under the promissory note, health-care-insurance receivable, or general intangible.</section></section>
     <section prefix="(b)">Subsection (a) applies to a security interest in a payment intangible or promissory note only if the security interest arises out of a sale of the payment intangible or promissory note, other than a sale pursuant to a disposition under &#xA7; 9-610 or an acceptance of collateral under &#xA7; 9-620.</section>

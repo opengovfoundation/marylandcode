@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-218" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-218</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>218</order_by>
   <text>
     <section prefix="(a)">Employment that an intern performs is not covered employment if:<section prefix="(1)">the employer is a hospital; and</section><section prefix="(2)">the intern has completed a 4-year course in a medical school that is chartered or approved under State law.</section></section>
     <section prefix="(b)">Employment that a patient of a hospital performs for the hospital is not covered employment.</section>

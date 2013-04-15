@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-617" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-617</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>617</order_by>
   <text>
     <section prefix="(a)">In this section, "animal control unit" means the local organization or governmental unit that the appropriate local governmental body designates to house, care for, and control domestic animals of unknown ownership.</section>
     <section prefix="(b)">An animal control unit shall dispose of an unclaimed dog or cat only by:<section prefix="(1)">placing the animal in a suitable home;</section><section prefix="(2)">retaining the animal in the animal control unit; or</section><section prefix="(3)">humanely destroying the animal.</section></section>

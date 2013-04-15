@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-101" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Consumer commodity" means any food, drug, cosmetic, or other article, product, or commodity of any kind or class which is:<section prefix="(1)">Customarily produced for sale at retail for consumption by individuals for purposes of personal care or in the performance of services ordinarily performed in or around the household; and</section><section prefix="(2)">Usually consumed or expended in the course of that use or performance other than by wear or deterioration from use.</section></section>

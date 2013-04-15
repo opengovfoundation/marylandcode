@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-915" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-915</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>915</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A certification by the Central Collection Unit to the Comptroller shall be made on or before November 1 of each calendar year in the form that the Comptroller prescribes.</section>
@@ -15,7 +15,7 @@
       <section prefix="(1)">The Comptroller shall:<section prefix="(i)">withhold any income tax refund that may be due to a debtor whose name has been certified by the Central Collection Unit; and</section><section prefix="(ii)">pay to the Central Collection Unit the entire refund or the amount certified by the Central Collection Unit, whichever is less.</section></section>
       <section prefix="(2)">All moneys paid to the Central Collection Unit by the Comptroller under this part shall be disposed of by the Central Collection Unit as provided in &#xA7; 3-305 of the State Finance and Procurement Article.</section>
       <section prefix="(3)">Any income tax refund in excess of the certified amount shall be paid to the debtor.</section>
-      <section prefix="(4)">The Comptroller shall notify the debtor of:<section prefix="(i)">any amount paid to the Central Collection Unit; and</section><section prefix="(ii)">the debtor's right:</section></section>
+      <section prefix="(4)">The Comptroller shall notify the debtor of:<section prefix="(i)">any amount paid to the Central Collection Unit; and</section><section prefix="(ii)">the debtor's right:<section prefix="1.">to request an investigation by the Central Collection Unit of the validity of the debt or correctness of the amount; and</section><section prefix="2.">to an administrative hearing and judicial appeal if the Central Collection Unit makes a determination adverse to the debtor.</section></section></section>
     </section>
     <section prefix="(c)">
       <section prefix="(1)">If a debtor has filed a joint income tax return and the debt is not the liability of both taxpayers, the Comptroller may not withhold that portion of an income tax refund attributable to the individual not owing the debt.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2112" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2112</section_number>
-  <catch_line/>
+  <catch_line>Members of the qualified organization shall personally manage the operation of the gaming device....</catch_line>
+  <order_by>2112</order_by>
   <text>Members of the qualified organization shall personally manage the operation of the gaming device.</text>
 </law>

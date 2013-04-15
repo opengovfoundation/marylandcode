@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-402" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Each corporation shall have at least one director.</section>
     <section prefix="(b)">Subject to the provisions of subsection (a) of this section and except for a corporation that has elected to be subject to &#xA7; 3-804(b) of this article, a Maryland corporation shall have the number of directors provided in its charter until changed by the bylaws.</section>

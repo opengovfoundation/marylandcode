@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-8-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">A person convicted of prostitution under &#xA7; 11-306 of the Criminal Law Article may file a motion to vacate the judgment if, when the person committed the act or acts of prostitution, the person was acting under duress caused by an act of another committed in violation of the prohibition against human trafficking under &#xA7; 11-303 of the Criminal Law Article or under federal law.</section>
     <section prefix="(b)">A motion filed under this section shall:<section prefix="(1)">be in writing;</section><section prefix="(2)">be signed and consented to by the State's Attorney;</section><section prefix="(3)">be made within a reasonable period of time after the conviction; and</section><section prefix="(4)">describe the evidence and provide copies of any documents showing that the defendant is entitled to relief under this section.</section></section>

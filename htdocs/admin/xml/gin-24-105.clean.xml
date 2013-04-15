@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-105" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-24-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Board of Directors determines that the affairs of the Society may be administered suitably and efficiently, the Society may enter into a contract with a licensed insurer to administer the affairs of the Society, subject to the continuing direction of the Board of Directors specified in the articles of incorporation and bylaws of the Society and the contract.</section>

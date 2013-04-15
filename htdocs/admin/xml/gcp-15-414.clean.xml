@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-414" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-15-414</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>414</order_by>
   <text>
     <section prefix="(a)">This section applies only in Howard County.</section>
     <section prefix="(b)">The State's Attorney's salary is equal to the salary of a judge of the District Court of Maryland.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-202" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">In this section, "block grant" means any federal grant-in-aid that:<section prefix="(1)">contains consolidated funding for 1 or more programs; and</section><section prefix="(2)">is designated by Congress as a block grant.</section></section>
     <section prefix="(b)">It is the policy of the State that the General Assembly and the Governor should consult before the Executive Branch of the State government adopts State policy on block grants.</section>

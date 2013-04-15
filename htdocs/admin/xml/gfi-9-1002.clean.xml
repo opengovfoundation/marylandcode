@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1002" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-1002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1002</order_by>
   <text>
     <section prefix="(a)">This subtitle sets forth the conditions under which an out-of-state association or out-of-state savings and loan holding company may acquire a Maryland association, a Maryland savings and loan holding company, an interstate association, or an out-of-state savings and loan holding company having a Maryland association subsidiary.</section>
     <section prefix="(b)">This subtitle does not authorize any acquisition other than an acquisition by an out-of-state association or an out-of-state savings and loan holding company.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-214" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall grant a hearing, if practicable, within 30 days after receipt of a notice that an employer or employee or representative of an employee submits under &#xA7; 5-213 of this subtitle.</section>
     <section prefix="(b)">An employee whom a hearing under this section affects or a representative of the employee may participate as a party in a hearing under this section.</section>

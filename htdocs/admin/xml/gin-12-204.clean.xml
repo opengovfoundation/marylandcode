@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-204" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">The Commissioner may hold hearings to determine if accident, disability, and health insurance policies meet the requirements of &#xA7; 12-205 of this subtitle, so that fraud and the issuance of insurance policies economically unsound to insureds may be prevented and to ensure that a minimum amount of benefits or coverage is made available to the policy or certificate holders.</section>
     <section prefix="(b)">After evaluating the results of a hearing, the Commissioner shall, in compliance with &#xA7; 12-205 of this subtitle, adopt reasonable regulations establishing minimum benefits or coverages necessary to meet the needs of insureds.</section>

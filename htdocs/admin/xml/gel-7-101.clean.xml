@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-101" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-7-101</section_number>
-  <catch_line/>
+  <catch_line>This title applies to the following types of ballot questions:...</catch_line>
+  <order_by>101</order_by>
   <text>This title applies to the following types of ballot questions:<section prefix=""><section prefix="(1)">a question relating to:<section prefix="(i)">the creation or adoption of a new Constitution or the calling of a constitutional convention; or</section><section prefix="(ii)">an amendment pursuant to Article XIV of the Maryland Constitution;</section></section><section prefix="(2)">referral of an enactment of the General Assembly pursuant to Article XVI of the Maryland Constitution;</section><section prefix="(3)">a question pursuant to Article XI-A of the Maryland Constitution relating to:<section prefix="(i)">the creation of a charter home rule county government;</section><section prefix="(ii)">the approval of a county charter; or</section><section prefix="(iii)">the amendment of a county charter;</section></section><section prefix="(4)">a question relating to the creation of a code home rule county government pursuant to Article XI-F of the Maryland Constitution;</section><section prefix="(5)">a question relating to the alteration of county boundaries or the creation of a new county pursuant to Article XIII of the Maryland Constitution;</section><section prefix="(6)">a question referred to the voters pursuant to an enactment of the General Assembly;</section><section prefix="(7)">a question on an enactment of a charter county pursuant to Article 25A, &#xA7; 8 of the Code or a code county pursuant to Article 25B, &#xA7; 10 of the Code;</section><section prefix="(8)">a question relating to the incorporation of a new municipality pursuant to Article 23A, &#xA7; 21 of the Code;</section><section prefix="(9)">a question on the issuance of a bond pursuant to &#xA7; 9-934 of the Environment Article; and</section><section prefix="(10)">any other question that will be voted on in an election conducted pursuant to this article.</section></section></text>
 </law>

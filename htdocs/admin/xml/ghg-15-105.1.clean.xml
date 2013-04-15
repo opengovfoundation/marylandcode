@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-105.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-105.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105.1</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a person providing pharmacy benefit manager services.</section>
     <section prefix="(b)">If a pharmacy is required to submit a request for payment electronically to the Department under &#xA7; 15-105(b) of this subtitle, then the pharmacy may choose to be reimbursed electronically, and in that event, the Department shall reimburse the pharmacy electronically under the Program.</section>

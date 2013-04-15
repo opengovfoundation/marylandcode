@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-630" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-630</section_number>
-  <catch_line/>
+  <catch_line>A person aggrieved by a final determination and order of the Attorney General under Part II of this ...</catch_line>
+  <order_by>630</order_by>
   <text>A person aggrieved by a final determination and order of the Attorney General under Part II of this subtitle may seek judicial review.</text>
 </law>

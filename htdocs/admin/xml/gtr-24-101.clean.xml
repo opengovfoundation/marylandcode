@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-101" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-24-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">The provisions of this subtitle governing size, weight, and load do not apply to:<section prefix="(1)">Emergency vehicles;</section><section prefix="(2)">Farm equipment temporarily moved on a highway; or</section><section prefix="(3)">A vehicle driven under the terms of a special permit issued under this subtitle.</section></section>
     <section prefix="(b)">A person may not drive on any publicly maintained highway any vehicle or combination of vehicles with a gross weight that exceeds:<section prefix="(1)">The maximum registered weight limit for which the vehicle or combination is registered under &#xA7; 24-110 of this subtitle; or</section><section prefix="(2)">Any other weight limit established under the Maryland Vehicle Law.</section></section>

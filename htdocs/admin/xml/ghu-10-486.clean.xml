@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-486" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-486</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>486</order_by>
   <text>
     <section prefix="(a)">During pendency of a delinquency proceeding for a provider, an attachment, garnishment, execution, or similar action or proceeding may not be commenced or maintained in a court of this State against the provider or its assets.</section>
     <section prefix="(b)">A lien obtained or an action or proceeding prohibited by subsection (a) of this section is void as against any rights arising in the delinquency proceeding, if the lien was obtained or the action or proceeding commenced within 4 months before or at any time after commencement of a delinquency proceeding.</section>

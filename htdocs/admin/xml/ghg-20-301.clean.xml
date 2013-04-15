@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle, "nuisance" means a condition that is dangerous to health or safety including:<section prefix="(1)">An inadequately protected swimming pool;</section><section prefix="(2)">An unprotected open ditch;</section><section prefix="(3)">An unsanitary outhouse;</section><section prefix="(4)">A foul pigpen;</section><section prefix="(5)">An improperly functioning sewage system;</section><section prefix="(6)">An unkempt junkyard;</section><section prefix="(7)">An unkempt scrap metal processing facility;</section><section prefix="(8)">An excessive accumulation of trash or garbage;</section><section prefix="(9)">A dead animal;</section><section prefix="(10)">A contaminated water supply;</section><section prefix="(11)">An inadequately protected water supply;</section><section prefix="(12)">A rodent harborage;</section><section prefix="(13)">Poor housekeeping that could endanger the health of the owner, occupant, employee, or a neighbor; or</section><section prefix="(14)">Any condition that may endanger health that may be transmitted by means including:<section prefix="(i)">Running streams;</section><section prefix="(ii)">Surface drainage;</section><section prefix="(iii)">Air currents;</section><section prefix="(iv)">Birds;</section><section prefix="(v)">Domestic animals; or</section><section prefix="(vi)">Human beings.</section></section></section>
     <section prefix="(b)">"Nuisance" does not include any condition resulting from a farm operation following generally accepted agricultural practices that are not creating a condition dangerous to health or safety.</section>

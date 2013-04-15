@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-205" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">For a corporation incorporated on or after October 1, 1995, unless the charter expressly grants such rights to the stockholder, a stockholder does not have any preemptive right to subscribe to:<section prefix="(1)">Any additional issue of stock; or</section><section prefix="(2)">Any security convertible into an additional issue of stock.</section></section>
     <section prefix="(b)">For a corporation incorporated before October 1, 1995, a stockholder shall have preemptive rights as and to the extent in existence before October 1, 1995, unless and until expressly changed or terminated by charter amendment.</section>

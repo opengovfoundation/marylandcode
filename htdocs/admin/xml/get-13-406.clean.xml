@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-406" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-406</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>406</order_by>
   <text>
     <section prefix="(a)">A trustee shall file a petition for withdrawal of any of the money of the minor in the original court action or in the equity court in the county where the money is on deposit.</section>
     <section prefix="(b)">The petition shall be verified and state in detail the purposes for which the withdrawal of the money is desired. Upon receiving a petition, the court shall make any inquiry necessary before granting or denying the petition in whole or in part.</section>

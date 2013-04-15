@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1001" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Civil Air Patrol leave" means leave requested by an employee who:<section prefix="(1)">is a volunteer member of the civilian auxiliary of the United States Air Force known as the Civil Air Patrol; and</section><section prefix="(2)">has been authorized by the United States Air Force, the Governor, or a political subdivision of the State to respond to an emergency mission.</section></section>

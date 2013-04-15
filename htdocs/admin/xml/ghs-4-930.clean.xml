@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-930" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-930</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>930</order_by>
   <text>
     <section prefix="(a)">There is a Radon and Asbestos Abatement Pilot Program.</section>
     <section prefix="(b)">The Department shall:<section prefix="(1)">operate the Radon and Asbestos Abatement Pilot Program; and</section><section prefix="(2)">make loans for rehabilitation projects for radon and asbestos abatement.</section></section>
     <section prefix="(c)">The terms of loans shall meet the requirements under &#xA7;&#xA7; 4-917 through 4-919 of this subtitle.</section>
     <section prefix="(d)">
-      <section prefix="(1)">To qualify for a loan, an applicant shall:<section prefix="(i)">own a building in need of radon or asbestos abatement:</section><section prefix="(ii)">make a proposal to the Department for treatment that complies with the requirements and procedures of the Department of the Environment for radon or asbestos abatement.</section></section>
+      <section prefix="(1)">To qualify for a loan, an applicant shall:<section prefix="(i)">own a building in need of radon or asbestos abatement:<section prefix="1.">that is otherwise structurally sound; or</section><section prefix="2.">for which the applicant provides a commitment from a lender to finance improvements to make the building structurally sound; and</section></section><section prefix="(ii)">make a proposal to the Department for treatment that complies with the requirements and procedures of the Department of the Environment for radon or asbestos abatement.</section></section>
       <section prefix="(2)">In addition to the requirements in paragraph (1) of this subsection, the applicant shall:<section prefix="(i)">live in the building and be a family of limited income;</section><section prefix="(ii)">agree to rent at least two-thirds of the dwellings in the building to families of limited income; or</section><section prefix="(iii)">agree to provide congregate or group housing or temporary shelters to families of limited income.</section></section>
     </section>
   </text>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-1203" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-1203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1203</order_by>
   <text>
     <section prefix="(a)">An employing unit or employer association that wishes to participate in the work sharing unemployment insurance program shall submit to the Secretary a written work sharing plan that the employing unit or representative of the employer association has signed.</section>
     <section prefix="(b)">Within 15 days after receipt of a work sharing plan, the Secretary shall give written approval or disapproval of the plan.</section>

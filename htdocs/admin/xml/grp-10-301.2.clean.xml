@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-301.2" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-301.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301.2</order_by>
   <text>
     <section prefix="(a)">A vendor or builder may deposit trust moneys in:<section prefix="(1)">A noninterest bearing checking account;</section><section prefix="(2)">One or more savings accounts; or</section><section prefix="(3)">Any combination of accounts in any bank or savings and loan association authorized by federal or State law to do business in the State.</section></section>
     <section prefix="(b)">Trust moneys in the hands of the vendor or builder may be invested in any other investment vehicle specified by the client or beneficial owner or as they and the licensee may agree.</section>

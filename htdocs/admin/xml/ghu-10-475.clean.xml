@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-475" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-475</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>475</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection applies even if a paper or instrument is not:<section prefix="(i)">executed by the Secretary or a deputy, employee, or attorney of record of the Secretary; and</section><section prefix="(ii)">connected with the commencement of an action or proceeding by or against the Secretary or with the subsequent conduct of the action or proceeding.</section></section>

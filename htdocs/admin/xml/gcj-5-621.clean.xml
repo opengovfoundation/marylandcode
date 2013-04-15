@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-621" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-621</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>621</order_by>
   <text>
     <section prefix="(a)">A physician who examines or treats a child under &#xA7; 5-712 of the Family Law Article is immune from any civil liability that may result from the failure to obtain consent from the child's parent, guardian, or custodian for the examination or treatment of the child.</section>
     <section prefix="(b)">The immunity described under subsection (a) of this section extends to:<section prefix="(1)">Any health care institution with which the physician is affiliated or to which the child is brought; and</section><section prefix="(2)">Any individual working under the control or supervision of the physician or under the control or supervision of the health care institution.</section></section>

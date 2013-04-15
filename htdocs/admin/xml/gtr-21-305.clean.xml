@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-305" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The driver of a vehicle may not drive to the left of the center of the roadway in overtaking and passing another vehicle going in the same direction unless:<section prefix="(i)">Authorized by this subtitle; and</section><section prefix="(ii)">The left side of the roadway is clearly visible and is free of approaching traffic for a sufficient distance ahead to permit the overtaking and passing to be completed without interfering with the operation of any other vehicle approaching from the opposite direction or any other vehicle overtaken.</section></section>

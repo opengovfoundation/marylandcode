@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-405" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-16-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">In this section, "taxable income" has the meaning that federal law gives to it for purposes of the Internal Revenue Code.</section>
     <section prefix="(b)">For purposes of &#xA7; 16-404(b)(2) of this subtitle, the liability of a chargeable person for the cost of care of an individual with an intellectual disability shall be determined in accordance with either of the following schedules, at the option of the chargeable person.</section>

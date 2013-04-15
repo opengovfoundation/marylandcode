@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2423" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-2423</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2423</order_by>
   <text>
     <section prefix="(a)">Unless otherwise authorized by the county commissioners, a tip jar licensee may operate a tip jar game only:<section prefix="(1)">during normal business hours; and</section><section prefix="(2)">on the tip jar licensee's premises.</section></section>
     <section prefix="(b)">A tip jar licensee may award prizes in money or merchandise for a tip jar game.</section>

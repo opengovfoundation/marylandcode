@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-142" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-142</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>142</order_by>
   <text>
     <section prefix="(a)">If a child support lien is not satisfied or released, the Administration may bring an action in a circuit court to enforce the lien.</section>
     <section prefix="(b)">The following persons shall be made parties to the proceeding:<section prefix="(1)">each person who has a recorded lien on the property that is sought to be subjected to the proceedings under this section; and</section><section prefix="(2)">each person who claims a right or interest in the property that is sought to be subjected to the proceedings under this section.</section></section>

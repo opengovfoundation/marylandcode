@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-301" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-23-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Equipment" includes all mechanisms that form part of or relate to vehicle equipment.</section>
     <section prefix="(c)">"Hazardous materials inspector" means a person who is assigned by the Department of the Environment and certified by the Department of State Police to perform an inspection authorized under this subtitle.</section>
     <section prefix="(d)">"Public Service Commission inspector" means a person who is assigned by the Public Service Commission and certified by the Department of State Police to perform an inspection authorized under this subtitle.</section>
     <section prefix="(e)">"State Police officer" means:<section prefix="(1)">Any uniformed law enforcement officer of the Department of State Police; or</section><section prefix="(2)">Any civilian employee of the Department of State Police assigned to enforce any rule or regulation adopted under this subtitle, but only while acting under written authorization of the Secretary of State Police.</section></section>
-    <section prefix="(f)">"Vehicle" means any vehicle registered in this State as:<section prefix="(1)">A Class E (truck) vehicle with a registered, operating, or rated gross vehicle weight of over 10,000 pounds;</section><section prefix="(2)">A Class F (tractor) vehicle;</section><section prefix="(3)">A Class G (trailer or semitrailer) vehicle with a registered, operating, or rated gross vehicle weight over 10,000 pounds;</section><section prefix="(4)">A Class P (passenger bus) vehicle; or</section><section prefix="(5)">A Class M (multipurpose) vehicle that:<section prefix="(i)">Is used primarily to transport passengers; and</section><section prefix="(ii)"/></section></section>
+    <section prefix="(f)">"Vehicle" means any vehicle registered in this State as:<section prefix="(1)">A Class E (truck) vehicle with a registered, operating, or rated gross vehicle weight of over 10,000 pounds;</section><section prefix="(2)">A Class F (tractor) vehicle;</section><section prefix="(3)">A Class G (trailer or semitrailer) vehicle with a registered, operating, or rated gross vehicle weight over 10,000 pounds;</section><section prefix="(4)">A Class P (passenger bus) vehicle; or</section><section prefix="(5)">A Class M (multipurpose) vehicle that:<section prefix="(i)">Is used primarily to transport passengers; and</section><section prefix="(ii)"><section prefix="1.">Is designed to transport 16 passengers or more, including the driver; or</section><section prefix="2.">Was previously registered under &#xA7; 13-932 or &#xA7; 13-933 of this article.</section></section></section></section>
   </text>
 </law>

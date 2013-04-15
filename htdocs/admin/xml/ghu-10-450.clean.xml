@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-450" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-450</section_number>
-  <catch_line/>
+  <catch_line>An act, agreement, or statement by a subscriber or by an individual purchasing care for a subscriber...</catch_line>
+  <order_by>450</order_by>
   <text>An act, agreement, or statement by a subscriber or by an individual purchasing care for a subscriber under an agreement to furnish care to the subscriber is not a valid waiver of any provision of this subtitle intended for the benefit or protection of the subscriber or the individual purchasing care for the subscriber.</text>
 </law>

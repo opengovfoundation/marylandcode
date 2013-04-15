@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-310" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "electronic terminal" means an automated electronic information processing device that:<section prefix="(i)">Stores information about a customer's account with a savings and loan association and transmits that information to an office of the association; and</section><section prefix="(ii)">Is activated by a machine-readable instrument issued to a customer.</section></section>

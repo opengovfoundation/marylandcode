@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-205" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, if there is clear evidence that an exception will not adversely affect the fire safety of a building or its occupants, the State Fire Marshal or a local authority with jurisdiction over the enforcement of fire and building codes may grant an exception to:<section prefix="(1)">a requirement of a State or local fire and building code if a sprinkler system is installed in a building as required by this subtitle; or</section><section prefix="(2)">the sprinkler system requirement of this subtitle if, on or before June 30, 1990:<section prefix="(i)">the local authority gave approval to a construction plan for a dormitory, hotel, lodging or rooming house, multifamily residential unit, or town house; and</section><section prefix="(ii)">the approved plan did not include the installation of a sprinkler system as required by this subtitle.</section></section></section>
     <section prefix="(b)">The State Fire Marshal or a local authority may not grant an exception under this section to a smoke detector requirement.</section>

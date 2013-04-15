@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-520" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-520</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>520</order_by>
   <text>
     <section prefix="(a)">A transfer agent or a transferee of an asset held in the name of a trustee of a common trust fund may presume conclusively that the trustee has an absolute right to transfer or assign the asset.</section>
     <section prefix="(b)">

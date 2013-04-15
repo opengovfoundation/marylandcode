@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-107" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-14-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Beneficiary" means an ascertainable person who has a present or future interest in a trust estate.</section>
-        <section prefix="(ii)">"Beneficiary" includes:</section>
+        <section prefix="(ii)">"Beneficiary" includes:<section prefix="1.">If the beneficiary is a minor, the beneficiary's natural or legal guardian; or</section><section prefix="2.">If the beneficiary is a disabled person, as defined in &#xA7; 13-101 of this article, any person acting on behalf of the beneficiary under a guardianship, conservatorship, or committee.</section></section>
       </section>
       <section prefix="(3)">"Corporate fiduciary" has the meaning stated in &#xA7; 15-1A-01 of this article.</section>
       <section prefix="(4)">"Life expectancy" means the life expectancy published in the life tables issued by the U.S. Department of Health and Human Services from time to time.</section>

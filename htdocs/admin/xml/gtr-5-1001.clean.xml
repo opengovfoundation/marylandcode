@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1001" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-1001</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1001</order_by>
   <text>
     <section prefix="(a)">There is a public right to freedom of transit in air commerce through the airspace of this State.</section>
     <section prefix="(b)">The operation of aircraft over the lands and waters of this State is lawful, unless the operation is:<section prefix="(1)">At so low an altitude as to interfere with any lawful existing use of the land or water or the space above the land or water; or</section><section prefix="(2)">Conducted in a manner imminently dangerous to persons or property on the land or water.</section></section>

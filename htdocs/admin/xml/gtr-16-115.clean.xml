@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-115" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraph (5) of this subsection, a license issued under this title to a driver at least 21 years old shall expire on the birth date of the licensee at the end of a period of not more than 8 years determined in regulations adopted by the Administration following the issuance of the license.</section>
@@ -27,7 +27,7 @@
     </section>
     <section prefix="(e)">
       <section prefix="(1)">A license held by an individual who is a member of the Foreign Service of the United States and is absent from the State due to employment in the Foreign Service, or a license held by the spouse or a dependent of the individual who is residing with the individual outside the State, shall remain in full force and effect during the absence.</section>
-      <section prefix="(2)">A license held by an individual described in paragraph (1) of this subsection shall also remain in effect, if it would otherwise have expired under this section, for a period of 30 days following the date of the individual's return to the State, or the individual's separation from employment in the Foreign Service of the United States if:<section prefix="(i)">The individual has in the individual's immediate possession, together with the individual's driver's license, documentation acceptable to the Administration indicating that:</section><section prefix="(ii)">The license is not otherwise suspended, revoked, or canceled under this title during the 30-day period.</section></section>
+      <section prefix="(2)">A license held by an individual described in paragraph (1) of this subsection shall also remain in effect, if it would otherwise have expired under this section, for a period of 30 days following the date of the individual's return to the State, or the individual's separation from employment in the Foreign Service of the United States if:<section prefix="(i)">The individual has in the individual's immediate possession, together with the individual's driver's license, documentation acceptable to the Administration indicating that:<section prefix="1.">The individual is a member of the Foreign Service of the United States, or the spouse or a dependent of a member of the Foreign Service of the United States and resides outside the State; or</section><section prefix="2.">The individual was formerly a member of the Foreign Service of the United States, or the spouse or a dependent of a former member of the Foreign Service, and has returned to the State on separation of the member from employment with the Foreign Service; and</section></section><section prefix="(ii)">The license is not otherwise suspended, revoked, or canceled under this title during the 30-day period.</section></section>
     </section>
     <section prefix="(f)">If a licensee is absent from this State for cause, other than as provided in subsection (d) of this section, and is unable to renew the licensee's license in the manner required by this section, the licensee may renew by mail to the Administration. The renewal application shall be accompanied by the prescribed fee and a statement giving the reason for and the expected length of the absence. On receipt of the application, the Administration may issue a regular license which bears a photo or a notation that it is valid without a photo until 15 days after the licensee first returns to this State.</section>
     <section prefix="(g)">An individual may not drive a motor vehicle on any highway in this State if the license issued to him under this title has expired.</section>

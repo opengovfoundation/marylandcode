@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-1003" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to &#xA7; 5-1004 of this subtitle and except as provided under &#xA7; 5-1005 of this subtitle, an insurer may not retain a risk on any one subject of insurance, whether located or to be performed in the State or outside of the State, in an amount exceeding 10% of the insurer's surplus to policyholders.</section>

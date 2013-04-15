@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-413" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-413</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>413</order_by>
   <text>
     <section prefix="(a)">The Secretary of State Police or the commander of the law enforcement agency of any political subdivision of this State may designate one or more law enforcement officers as a hostage and barricade communications specialist.</section>
     <section prefix="(b)">Each telephone company providing service to Maryland residents shall designate one or more individuals to provide liaison with law enforcement agencies for the purposes of this section.</section>

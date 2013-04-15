@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-702" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-4-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">A savings bank may dissolve voluntarily as provided in this section.</section>
     <section prefix="(b)">A proposed voluntary dissolution shall be approved by:<section prefix="(1)">The affirmative vote, in person or by proxy, of two thirds of the members; or</section><section prefix="(2)">If there are no members, the unanimous vote of the board of directors.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-201" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -20,7 +20,7 @@
       </section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">Subject to paragraph (2) of this subsection, this section does not apply to:<section prefix="(i)">authorizations for service for which:</section><section prefix="(ii)">authorizations for service for the relief of health hazards.</section></section>
+      <section prefix="(1)">Subject to paragraph (2) of this subsection, this section does not apply to:<section prefix="(i)">authorizations for service for which:<section prefix="1.">application was made with the Commission on or before June 30, 1999; and</section><section prefix="2.">	the Commission entered into a contract for construction of subdivision lines with notice to proceed issued by the Commission to its contractor on or before June 30, 2001; or</section></section><section prefix="(ii)">authorizations for service for the relief of health hazards.</section></section>
       <section prefix="(2)">Each part of a multipart authorization for service shall be considered a separate authorization under paragraph (1) of this subsection.</section>
     </section>
     <section prefix="(c)">Notwithstanding any other provision of law and except as provided in subsection (b) of this section, the owner or developer of a development in the sanitary district shall construct all subdivision lines for the development at the expense of the owner or developer.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-1304" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-1304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1304</order_by>
   <text>
     <section prefix="(a)">A United States manufacturer, or if the manufacturer is not a United States manufacturer, the importer of record, of a children's product for which a children's product certification is required under federal law shall:<section prefix="(1)">Test whether the children's product is a lead-containing product by using a testing entity qualified or certified under federal law; and</section><section prefix="(2)">If the children's product tested under item (1) of this subsection is not a lead-containing product, issue a certificate that certifies that the children's product is not a lead-containing product.</section></section>
     <section prefix="(b)">A person shall ensure that the certificate issued in accordance with subsection (a) of this section is transmitted with the children's product to any distributor or retailer who receives the children's product.</section>

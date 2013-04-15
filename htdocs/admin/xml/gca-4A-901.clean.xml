@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-901" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">The dissolution of a limited liability company is a change in the relationship between the members, not the winding up or the termination of the limited liability company.</section>
     <section prefix="(b)">On dissolution, the limited liability company is not terminated but continues until terminated in accordance with &#xA7; 4A-908 of this subtitle.</section>

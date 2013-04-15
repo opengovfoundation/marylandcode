@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-502" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-8-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">A real estate investment trust may terminate its existence by voluntary dissolution. The Department shall be notified of the effective date of the dissolution.</section>
     <section prefix="(b)">A real estate investment trust may curtail or cease its trust activities by partially or completely distributing its assets.</section>

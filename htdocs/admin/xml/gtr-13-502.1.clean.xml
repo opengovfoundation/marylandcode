@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-502.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-502.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502.1</order_by>
   <text>
     <section prefix="(a)">The former registered owner of a transferred vehicle may have its plates and registration number transferred to another vehicle in the same classification by applying to the Administration and paying a transfer fee established by the Administration.</section>
     <section prefix="(b)">

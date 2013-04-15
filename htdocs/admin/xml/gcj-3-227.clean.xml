@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-227" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-227</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>227</order_by>
   <text>
     <section prefix="(a)">A party may petition the court to confirm the award.</section>
     <section prefix="(b)">The court shall confirm the award, unless the other party has filed an application to vacate, modify, or correct the award within the time provided in &#xA7;&#xA7; 3-222 and 3-223 of this subtitle.</section>

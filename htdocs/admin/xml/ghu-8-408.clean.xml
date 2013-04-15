@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-408" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-8-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">A parent or guardian of a child and the child's attorney may attend any meeting of the Council or the local care team at which the child's care is discussed.</section>
     <section prefix="(b)">At least 10 days before the meeting, the Council or local care team shall notify each parent or guardian of the child and the child's attorney of the date, time, and location of any meeting the Council or the local care team plans to hold to discuss the child's out-of-state placement.</section>

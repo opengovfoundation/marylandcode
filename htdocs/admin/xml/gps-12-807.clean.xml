@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-807" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-807</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>807</order_by>
   <text>
     <section prefix="(a)">An elevator unit may not be operated in a building, structure, or place of employment in the State unless a certificate is issued by the Commissioner.</section>
     <section prefix="(b)">Notwithstanding subsection (a) of this section, the Commissioner shall accept certificates of inspection from a political subdivision or municipal corporation instead of the certificate required by subsection (a) of this section.</section>

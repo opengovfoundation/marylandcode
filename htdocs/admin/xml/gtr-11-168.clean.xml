@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-168" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-168</section_number>
-  <catch_line/>
+  <catch_line>"Traffic control signal" means any traffic control device, whether manually, electrically, or mechan...</catch_line>
+  <order_by>168</order_by>
   <text>"Traffic control signal" means any traffic control device, whether manually, electrically, or mechanically operated, by which traffic alternately is directed to stop and permitted to proceed.</text>
 </law>

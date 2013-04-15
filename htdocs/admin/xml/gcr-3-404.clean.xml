@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-404" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">An indictment, information, warrant, or other charging document for robbery is sufficient if it substantially states:</section>
     <section prefix="(b)">If a charging document alleges that the value of the property or service subject to this subtitle is $500 or more, the court shall instruct the jury to determine whether the value of the property or service is less than $500, or $500 or more.</section>

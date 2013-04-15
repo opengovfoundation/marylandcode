@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-709" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-709</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>709</order_by>
   <text>
     <section prefix="(a)">This section applies only in Cecil County.</section>
     <section prefix="(b)">
@@ -15,7 +15,7 @@
         <section prefix="(ii)">The Sheriff may place an inmate in the home detention program at any time after the inmate has served 25% of the inmate's sentence.</section>
       </section>
       <section prefix="(3)">Subject to paragraph (4) of this subsection, an inmate is eligible for the home detention program if the inmate:<section prefix="(i)">is placed in the program by the sentencing judge or the Sheriff; and</section><section prefix="(ii)">has no other charges pending in any jurisdiction.</section></section>
-      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:</section></section>
+      <section prefix="(4)">An inmate is not eligible for the home detention program if the inmate:<section prefix="(i)">is serving a sentence for a crime of violence; or</section><section prefix="(ii)">has been found guilty of the crime of:<section prefix="1.">child abuse under &#xA7; 3-601 or &#xA7; 3-602 of the Criminal Law Article; or</section><section prefix="2.">escape under &#xA7; 9-404 of the Criminal Law Article.</section></section></section>
       <section prefix="(5)">The Sheriff shall:<section prefix="(i)">determine the amount of a reasonable fee for the cost of electronic supervision, including the administrative costs associated with the supervision; and</section><section prefix="(ii)">collect the fee from each inmate in the program.</section></section>
     </section>
   </text>

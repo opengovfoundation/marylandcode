@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-306" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-10-306</section_number>
-  <catch_line/>
+  <catch_line>Under this subtitle, a tribunal of this State may serve as an initiating tribunal to forward proceed...</catch_line>
+  <order_by>306</order_by>
   <text>Under this subtitle, a tribunal of this State may serve as an initiating tribunal to forward proceedings to another state and as a responding tribunal for proceedings initiated in another state.</text>
 </law>

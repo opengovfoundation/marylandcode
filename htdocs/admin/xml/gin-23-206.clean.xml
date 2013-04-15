@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-206" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall require a premium finance company to report, on forms provided by the Commissioner, changes in officers, directors, owners, trade names, principals, partners, business addresses, and telephone numbers within 30 days after a change occurs.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-521" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-521</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>521</order_by>
   <text>
     <section prefix="(a)">Any person who violates any provision of this subtitle, or any rule, regulation, order, or permit issued pursuant thereto, shall be liable for a penalty not exceeding $10,000 for the violation, which may be recovered in a civil action, and the person may be enjoined from continuing the violation, as provided by this subtitle. Each day upon which the violation occurs constitutes a separate offense.</section>
     <section prefix="(b)">

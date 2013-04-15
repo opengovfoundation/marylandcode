@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">"Telephone" means a device used by a person for voice communications transmitted in analog, data, or any other form.</section>
       <section prefix="(4)">"Telephone company" means a person that provides commercial telephone service to a customer, regardless of the communication technology used, including:<section prefix="(i)">traditional wireline or cable telephone service;</section><section prefix="(ii)">cellular, broadband PCS, or other commercial mobile radiotelephone service;</section><section prefix="(iii)">microwave, satellite, or other terrestrial telephone service; and</section><section prefix="(iv)">voice over Internet telephone service.</section></section>
       <section prefix="(5)">
-        <section prefix="(i)">"Telephone record" means information retained by a telephone company that relates to:</section>
+        <section prefix="(i)">"Telephone record" means information retained by a telephone company that relates to:<section prefix="1.">the telephone number dialed by a customer or other person using the customer's telephone;</section><section prefix="2.">the incoming number of a call directed to a customer or other person using the customer's telephone; or</section><section prefix="3.">other data related to calls typically contained on a customer's telephone bill, such as the time the call started and ended, the duration of the call, and any charges applied.</section></section>
         <section prefix="(ii)">"Telephone record" does not include information collected or retained by customers using caller I.D. or similar technology.</section>
       </section>
     </section>

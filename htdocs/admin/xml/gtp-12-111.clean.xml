@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-111" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-12-111</section_number>
-  <catch_line/>
+  <catch_line>By agreement, recordation tax may be paid by any person....</catch_line>
+  <order_by>111</order_by>
   <text>By agreement, recordation tax may be paid by any person.</text>
 </law>

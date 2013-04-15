@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-732" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-732</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>732</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in Title 15, Subtitle 10A of the Insurance Article, a party aggrieved by a final action of the Commissioner under this subtitle has the right to a hearing and the right to appeal from the action of the Commissioner under &#xA7;&#xA7; 2-210 through 2-215 of the Insurance Article.</section>
     <section prefix="(b)">A party aggrieved by an order of the Secretary under this subtitle may appeal that order to the Board of Review of the Department and take any further appeal provided by the State Government Article.</section>

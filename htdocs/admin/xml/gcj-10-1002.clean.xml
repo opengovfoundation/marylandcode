@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1002" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-1002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1002</order_by>
   <text>
     <section prefix="(a)">In this part:<section prefix="(1)">"Chain of custody" means:<section prefix="(i)">The seizing officer;</section><section prefix="(ii)">The packaging officer, if the packaging officer is not also the seizing officer; and</section><section prefix="(iii)">The chemist or other person who actually touched the substance and not merely the outer sealed package in which the substance was placed by the law enforcement agency before or during the analysis of the substance; and</section></section><section prefix="(2)">"Chain of custody" does not include a person who handled the substance in any form after analysis of the substance.</section></section>
     <section prefix="(b)">

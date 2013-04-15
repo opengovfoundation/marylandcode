@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-408" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-408</section_number>
-  <catch_line/>
+  <catch_line>A person may not knowingly give false or misleading information to the Commissioner, an insurer, or ...</catch_line>
+  <order_by>408</order_by>
   <text>A person may not knowingly give false or misleading information to the Commissioner, an insurer, or another person if the information will affect the proper determination of rates or premiums or the proper issuance of a contract, policy, or guarantee of insurance.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-240" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-10-240</section_number>
-  <catch_line/>
+  <catch_line>The purposes of this Compact are to:...</catch_line>
+  <order_by>240</order_by>
   <text>The purposes of this Compact are to:<section prefix=""><section prefix="(1)">provide a legal framework for the establishment of a cooperative federal-state system for the interstate and federal-state exchange of criminal history records for noncriminal justice uses;</section><section prefix="(2)">require the FBI to permit use of the National Identification Index and the National Fingerprint File by each party state, and to provide, in a timely fashion, federal and state criminal history records to requesting states, in accordance with the terms of this Compact and with rules, procedures, and standards established by the Council under Section 10-244 of this subtitle;</section><section prefix="(3)">require party states to provide information and records for the National Identification Index and the National Fingerprint File and to provide criminal history records, in a timely fashion, to criminal history records repositories of other states and the federal government for noncriminal justice purposes, in accordance with the terms of this Compact and with rules, procedures, and standards established by the Council under Section 10-244 of this subtitle;</section><section prefix="(4)">provide for the establishment of a council to monitor III System operations and to prescribe System rules and procedures for the effective and proper operation of the III System for noncriminal justice purposes; and</section><section prefix="(5)">require the FBI and each party state to adhere to III System standards concerning record dissemination and use, response times, System security, data quality, and other duly established standards, including those that enhance the accuracy and privacy of such records.</section></section></text>
 </law>

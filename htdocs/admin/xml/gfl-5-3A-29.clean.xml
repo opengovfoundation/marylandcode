@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3A-29" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3A-29</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>29</order_by>
   <text>
     <section prefix="(a)">Any adult may petition a court for an adoption under this subtitle.</section>
     <section prefix="(b)">A petitioner may petition for adoption of a child 180 days or more after a child placement agency places the child with the petitioner.</section>

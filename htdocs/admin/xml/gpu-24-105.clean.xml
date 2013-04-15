@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-105" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-24-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In those parts of Prince George's County that are not in the sanitary district, the Commission's plumbing regulations:<section prefix="(i)">apply to plumbing installations that began on or after June 1, 1965; but</section><section prefix="(ii)">do not apply to plumbing installations that existed on July 1, 1965.</section></section>

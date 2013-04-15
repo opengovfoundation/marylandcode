@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-814.2" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-814.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>814.2</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (k) of this section, if, after an inspection or investigation, the Commissioner determines that, within the immediately preceding 6 months, an elevator unit is in violation of the Safety Code or another regulation adopted by the Commissioner under Part II of this subtitle, the Commissioner shall issue a citation to the owner.</section>
     <section prefix="(b)">Each citation under this section shall:<section prefix="(1)">be in writing;</section><section prefix="(2)">describe, with particularity, the nature of the alleged violation;</section><section prefix="(3)">reference the provision of the Safety Code or regulation that is alleged to be in violation; and</section><section prefix="(4)">set a reasonable period of time for abatement and correction of the alleged violation.</section></section>

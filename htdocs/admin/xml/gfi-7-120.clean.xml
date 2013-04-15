@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-120" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-7-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "assets" means:<section prefix="(i)">All net earnings of the Corporation accumulated under &#xA7; 7-114 of this subtitle; and</section><section prefix="(ii)">All real or tangible or intangible personal property of the Corporation.</section></section>

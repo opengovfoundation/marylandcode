@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8A-402" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8A-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">An entrance or exit fee is prohibited.</section>
     <section prefix="(b)">A fee may not be charged:<section prefix="(1)">In connection with the renewal of a rental agreement; or</section><section prefix="(2)">To determine if a resident is qualified under &#xA7; 8A-202(c) of this title.</section></section>

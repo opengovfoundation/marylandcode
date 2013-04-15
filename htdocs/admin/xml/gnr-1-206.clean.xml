@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-206" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-206</section_number>
-  <catch_line/>
+  <catch_line>A person may not willfully fail or refuse to comply with any lawful or reasonable order or direction...</catch_line>
+  <order_by>206</order_by>
   <text>A person may not willfully fail or refuse to comply with any lawful or reasonable order or direction of any Natural Resources police officer or any law enforcement officer in connection with the enforcement of any provisions of law required to be enforced by the Secretary or the Department.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-308" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-3-308</section_number>
-  <catch_line/>
+  <catch_line>If a health emergency exists, the Secretary may assign temporarily a health officer to another count...</catch_line>
+  <order_by>308</order_by>
   <text>If a health emergency exists, the Secretary may assign temporarily a health officer to another county or Baltimore City.</text>
 </law>

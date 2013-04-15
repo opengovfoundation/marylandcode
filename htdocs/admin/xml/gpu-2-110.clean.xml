@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-110" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-2-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">In this section, "public service company" includes an electricity supplier and a gas supplier as those terms are defined in &#xA7; 1-101 of this article.</section>
     <section prefix="(b)">
@@ -15,14 +15,14 @@
     </section>
     <section prefix="(c)">
       <section prefix="(1)">
-        <section prefix="(i)">Before each State fiscal year, the Chairman of the Commission shall estimate the Commission's total costs and expenses, including:</section>
+        <section prefix="(i)">Before each State fiscal year, the Chairman of the Commission shall estimate the Commission's total costs and expenses, including:<section prefix="1.">the compensation and expenses of the Commission, its officers, agents, and personnel;</section><section prefix="2.">the cost of retirement contributions, Social Security, health insurance, and other benefits required to be paid by the State for the personnel of the Commission;</section><section prefix="3.">all other maintenance and operation expenses of the Commission; and</section><section prefix="4.">all other direct and indirect costs of the Commission.</section></section>
         <section prefix="(ii)">The estimate shall exclude the expenses associated with services performed by the Commission for which the Commission is reimbursed under this division.</section>
-        <section prefix="(iii)">The estimate shall include, as provided by the Office of People's Counsel:</section>
+        <section prefix="(iii)">The estimate shall include, as provided by the Office of People's Counsel:<section prefix="1.">the compensation and expenses of the Office of People's Counsel, its officers, agents, and personnel;</section><section prefix="2.">the cost of retirement contributions, Social Security, health insurance, and other benefits required to be paid by the State for the personnel of the Office of People's Counsel;</section><section prefix="3.">all other maintenance and operation expenses of the Office of People's Counsel; and</section><section prefix="4.">all other direct and indirect costs of the Office of People's Counsel.</section></section>
       </section>
       <section prefix="(2)">Based on the estimate, the Chairman shall determine the amount to be paid by each public service company.</section>
       <section prefix="(3)">The Commission shall send a bill to each public service company on or before May 1 of each year.</section>
       <section prefix="(4)">
-        <section prefix="(i)">The bill shall equal the product of:</section>
+        <section prefix="(i)">The bill shall equal the product of:<section prefix="1.">the estimated total costs and expenses of the Commission and the Office of People's Counsel during the next fiscal year; multiplied by</section><section prefix="2.">the ratio of the gross operating revenues for the public service company derived from intrastate utility and electricity supplier operations in the preceding calendar year, or other 12-month period as the Chairman determines, to the total of the gross operating revenues derived from intrastate utility and electricity supplier operations for all public service companies that are billed under this section over that period.</section></section>
         <section prefix="(ii)">To the extent that the Commission requires an electric company to report the gross operating revenue derived from intrastate utility and electricity supplier operation in order to calculate the bill under subparagraph (i) of this paragraph, a small rural electric cooperative described in &#xA7; 7-502(a) of this article may satisfy the requirement by submitting to the Commission an estimate made in accordance with a formula approved by the Commission from information that the small rural electric cooperative submits to the rural utilities service.</section>
       </section>
       <section prefix="(5)">The minimum bill for a public service company shall be $10.</section>

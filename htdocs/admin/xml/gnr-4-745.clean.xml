@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-745" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-745</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>745</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsections (c) and (d) of this section and &#xA7; 4-217 of this title, a person may not fish for finfish in the Chesapeake Bay or in its tributaries up to tidal boundaries or in State waters of the Atlantic Ocean and the Atlantic coastal bays and their tributaries without first obtaining a Chesapeake Bay and coastal sport fishing license or registration issued under subsection (d)(3) of this section and possessing evidence of the license or registration.</section>
@@ -22,8 +22,8 @@
       <section prefix="(3)">The Chesapeake Bay and coastal sport fishing license shall be furnished to an agent upon satisfactory payment or upon consignment and only if the Department is given adequate security to insure ultimate payment by an agent to the Department for the licenses.</section>
       <section prefix="(4)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, all fees collected on behalf of the Department pursuant to this section shall be remitted to the Department in accordance with its rules and regulations for deposit with the State Treasurer to the credit of the Fisheries Research and Development Fund to be used for the replenishment, protection, and conservation of fish stocks caught by recreational fishermen, for enhancement of recreational fishing opportunities, and for research concerning tidal fishery resources. The Department shall publicly report annually the amounts collected and the expenditures.</section>
-        <section prefix="(ii)">In fiscal year 1999 and in each subsequent fiscal year, the Department, for the purposes set forth in subparagraph (iii) of this paragraph, shall use:</section>
-        <section prefix="(iii)">The Department shall use the moneys specified in subparagraph (ii) of this paragraph for:</section>
+        <section prefix="(ii)">In fiscal year 1999 and in each subsequent fiscal year, the Department, for the purposes set forth in subparagraph (iii) of this paragraph, shall use:<section prefix="1.">$2 from the sale of each license under subsection (a) of this section;</section><section prefix="2.">$20 from the sale of each license under subsection (d)(2) of this section; and</section><section prefix="3.">$225 of the special charter boat license under subsection (d)(1) of this section.</section></section>
+        <section prefix="(iii)">The Department shall use the moneys specified in subparagraph (ii) of this paragraph for:<section prefix="1.">Achieving the maximum federal fund apportionments;</section><section prefix="2.">Management assessment and sport fishing surveys; and</section><section prefix="3.">Angler outreach and public fishing information.</section></section>
       </section>
       <section prefix="(5)">In the preparation of plans for the expenditure of license receipts, the Secretary annually shall solicit the advice and opinions of the Department's Sport Fisheries Advisory Commission, representative fishing and boating associations, and other interested parties.</section>
     </section>
@@ -36,14 +36,20 @@
         <section prefix="(iii)">If a boat owner purchases the special license under this paragraph, the boat owner may fish anywhere in the Chesapeake Bay and its tributaries or the State waters of the Atlantic Ocean and the Atlantic coastal bays and their tributaries, whether the boat owner is fishing in the owner's boat, in another person's boat, on land, or elsewhere. The Department shall issue a complimentary Chesapeake Bay and coastal sport fishing license to the boat owner who purchases a special license under this paragraph. If a boat to which the special license is affixed has more than one owner, then only the individual applicant who signs the application for the special license shall be entitled to a complimentary Chesapeake Bay and coastal sport fishing license under this paragraph.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">An individual shall register with the Department before fishing in any of the following areas that do not require a Chesapeake Bay and coastal sport fishing license:</section>
+        <section prefix="(i)">An individual shall register with the Department before fishing in any of the following areas that do not require a Chesapeake Bay and coastal sport fishing license:<section prefix="1.">A free fishing area established under &#xA7; 4-214(b)(1) of this title with hook and line;</section><section prefix="2.">On private real property bordering on tidal water as an owner or tenant of the property, or a spouse or an immediate family member who resides on the property with the owner or tenant; and</section><section prefix="3.">On a boat licensed under paragraph (2) of this subsection.</section></section>
         <section prefix="(ii)">There is no fee for registration under this paragraph.</section>
         <section prefix="(iii)">An individual required to register under this paragraph shall provide all the information requested by the Department on forms issued by the Department.</section>
       </section>
       <section prefix="(4)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">The Department may provide by regulation for the issuance of a special commercial fishing pier license that is valid for all individuals fishing from the pier in tidal waters of the State.</section>
+          <section prefix="2.">The annual fee for the special commercial fishing pier license shall be $290.</section>
+        </section>
         <section prefix="(ii)">Individuals fishing from a licensed commercial fishing pier are exempt from purchasing a Chesapeake Bay and coastal sport fishing license.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">The owner or operator of a licensed commercial fishing pier shall maintain a log of the contact information of the persons fishing from that structure each day.</section>
+          <section prefix="2.">The logs required under subsubparagraph 1 of this subparagraph must be submitted electronically as prescribed or approved by the Department.</section>
+        </section>
       </section>
     </section>
     <section prefix="(e)">

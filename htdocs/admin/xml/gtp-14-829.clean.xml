@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-829" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-829</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>829</order_by>
   <text>
     <section prefix="(a)">If the property is redeemed after an action to foreclose the right of redemption is instituted and there is any dispute regarding redemption, the person redeeming may apply to the court before which the action is pending to fix the amount necessary for redemption in accordance with the provisions of this subtitle.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, the collector may accept money for redemption without an order of court.</section>

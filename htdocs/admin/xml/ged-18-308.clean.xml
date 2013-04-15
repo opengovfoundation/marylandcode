@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-308" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">In this section, "school" means an institution that meets the requirements of &#xA7; 18-305(a)(1) of this subtitle.</section>
     <section prefix="(b)">The Office may enter into reciprocal scholarship agreements with other states. However, the Office shall give priority to entering into reciprocal agreements with contiguous and nearby states.</section>

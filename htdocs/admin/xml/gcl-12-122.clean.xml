@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-122" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-122</section_number>
-  <catch_line/>
+  <catch_line>Any lender who knowingly and willfully violates any provision of &#xA7; 12-103, &#xA7; 12-109.2, &#xA7; 12-119, ...</catch_line>
+  <order_by>122</order_by>
   <text>Any lender who knowingly and willfully violates any provision of &#xA7; 12-103, &#xA7; 12-109.2, &#xA7; 12-119, &#xA7; 12-120, or &#xA7; 12-121 of this subtitle is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $500, or imprisonment not exceeding 6 months, or both.</text>
 </law>

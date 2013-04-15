@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-202" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-4-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">This deed, made this ........ day of .........., in the year ......, by me, (here insert the name of the grantor) witnesseth, that in consideration of, (here insert consideration) I, the said .........., do grant unto (here insert the name of the grantee), all that (here describe the property).</section>
     <section prefix="(b)">This deed, made this ........ day of .........., in the year ......, by me, ..............., witnesseth, that in consideration of ...... I, the said .........., do grant unto .........., to hold during his life and no longer.</section>

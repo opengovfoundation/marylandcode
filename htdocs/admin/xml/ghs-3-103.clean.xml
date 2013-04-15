@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-103" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-3-103</section_number>
-  <catch_line/>
+  <catch_line>The Division includes:...</catch_line>
+  <order_by>103</order_by>
   <text>The Division includes:<section prefix=""><section prefix="(1)">the Maryland Housing Fund, a governmental unit of the Department;</section><section prefix="(2)">loan asset management for the Department; and</section><section prefix="(3)">the administration of statewide building and material codes established under Title 12, Subtitles 2, 3, 4, 5, and 10 of the Public Safety Article.</section></section></text>
 </law>

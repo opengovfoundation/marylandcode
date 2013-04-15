@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-117" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-13-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">After notice and hearing, the Commissioner may adopt regulations to carry out this title.</section>
     <section prefix="(b)">If the Commissioner finds that an insurer or other person authorized or licensed by the Commissioner has violated this title or a regulation adopted under this title, then after written notice and a hearing, the Commissioner shall:<section prefix="(1)">set forth the details of the findings; and</section><section prefix="(2)">issue an order for compliance by a specified date.</section></section>

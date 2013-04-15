@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-317" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-4-317</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>317</order_by>
   <text>
     <section prefix="(a)">To protect the general public, the promoter of a contest shall have the price of seats at the contest published in at least 2 newspapers of general circulation in the county in which the contest is held.</section>
     <section prefix="(b)">The advertisement shall be in a space that is at least 2 inches by 3 inches.</section>

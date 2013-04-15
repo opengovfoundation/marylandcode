@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-603" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">A carrier subject to this subtitle may not charge a premium to a contract holder or to an individual covered under a health benefit plan before the applicable premium rate is filed with and approved by the Commissioner.</section>
     <section prefix="(b)">A carrier subject to this subtitle may not change the premium charged to a contract holder or to an individual covered under a health benefit plan until the applicable premium rate change has been filed with and approved by the Commissioner.</section>
@@ -13,7 +13,7 @@
       <section prefix="(1)">Any applicable premium rate or premium rate change of a carrier subject to this subtitle shall be filed with the Commissioner:<section prefix="(i)">for insurers, in accordance with &#xA7; 12-203 of this article and regulations adopted under Title 31, Subtitle 10 of the Code of Maryland Regulations;</section><section prefix="(ii)">for nonprofit health service plans, in accordance with &#xA7; 14-126 of this article; and</section><section prefix="(iii)">for health maintenance organizations, in accordance with &#xA7; 19-713 of the Health - General Article and regulations adopted under Title 31, Subtitle 12 of the Code of Maryland Regulations.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">The Commissioner shall disapprove or modify a proposed premium rate filing if the proposed premium rates appear, based on statistical analysis and reasonable assumptions, to be inadequate, unfairly discriminatory, or excessive in relation to benefits.</section>
-        <section prefix="(ii)">In determining whether to disapprove or modify a premium rate filing of a carrier, the Commissioner shall consider, to the extent appropriate:</section>
+        <section prefix="(ii)">In determining whether to disapprove or modify a premium rate filing of a carrier, the Commissioner shall consider, to the extent appropriate:<section prefix="1.">past and prospective loss experience in and outside the State;</section><section prefix="2.">underwriting practice and judgment;</section><section prefix="3.">a reasonable margin for reserve needs;</section><section prefix="4.">past and prospective expenses, both countrywide and those specifically applicable to the State; and</section><section prefix="5.">any other relevant factors in and outside the State.</section></section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">Each premium rate filing and any supporting information filed under this subtitle shall be open to public inspection as soon as filed.</section>

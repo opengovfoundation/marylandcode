@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-109" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-24-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">Policies that the Society issues to lawyers shall be essentially uniform in terms and conditions of coverage.</section>
     <section prefix="(b)">Notwithstanding subsection (a) of this section, the Society may:<section prefix="(1)">establish reasonable classifications of lawyers, insured activities, and exposures based on a good faith determination of relative exposures and hazards among classifications;</section><section prefix="(2)">vary the limits, coverages, exclusions, conditions, and loss-sharing provisions among classifications; and</section><section prefix="(3)">establish, for an individual lawyer within a classification, reasonable variations in the terms of coverage, including deductibles and loss-sharing provisions, based on the insured's prior loss experience.</section></section>

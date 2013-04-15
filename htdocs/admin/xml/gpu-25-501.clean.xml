@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-501" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">The Commission shall set a service rate that the Commission considers necessary to provide funds for:<section prefix="(1)">maintaining, repairing, and operating its water supply and sewer systems, including the overhead expense and depreciation allowance; and</section><section prefix="(2)">making any payments to the District of Columbia, as specified in this title.</section></section>
     <section prefix="(b)">The service rate:<section prefix="(1)">shall be chargeable against all properties for a connection with any line owned by the Commission;</section><section prefix="(2)">shall be uniform throughout the sanitary district; and</section><section prefix="(3)">may be changed as necessary.</section></section>

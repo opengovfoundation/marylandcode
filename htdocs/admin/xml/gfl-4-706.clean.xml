@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-706" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-4-706</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>706</order_by>
   <text>
     <section prefix="(a)">Meetings of a local team shall be closed to the public and not subject to Title 10, Subtitle 5 of the State Government Article when the local team is discussing individual cases.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, meetings of a local team shall be open to the public and subject to Title 10, Subtitle 5 of the State Government Article when the local team is not discussing individual cases.</section>

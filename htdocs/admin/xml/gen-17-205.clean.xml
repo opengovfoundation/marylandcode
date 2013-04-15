@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-205" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-17-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Board may:<section prefix="(1)">Recommend regulations for adoption by the Secretary to carry out the provisions of this title; and</section><section prefix="(2)">Make inquiries and conduct an investigation regarding any applicant for a license.</section></section>
     <section prefix="(b)">The Board shall:<section prefix="(1)">Carry out the provisions of this title;</section><section prefix="(2)">Collect and account for the fees provided for under this title; and</section><section prefix="(3)">Keep a current record of all individuals and entities licensed under this title, including:<section prefix="(i)">The names of individuals and entities that are licensed;</section><section prefix="(ii)">The issuance and expiration dates of the licenses; and</section><section prefix="(iii)">Any other information that the Board considers appropriate.</section></section></section>

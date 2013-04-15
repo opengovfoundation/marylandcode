@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-507" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-23-507</section_number>
-  <catch_line/>
+  <catch_line>The State Superintendent shall authorize the State Comptroller to withhold State funds from any coun...</catch_line>
+  <order_by>507</order_by>
   <text>The State Superintendent shall authorize the State Comptroller to withhold State funds from any county that fails:<section prefix=""><section prefix="(1)">To appropriate the amount of its share of the minimum program; or</section><section prefix="(2)">To meet the requirements of the law or of the State Board for operating the county library.</section></section></text>
 </law>

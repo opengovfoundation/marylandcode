@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-102.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-102.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"Distributable cash flow" means taxable income reportable by a pass-through entity on its federal income tax return for the taxable year:<section prefix="(i)">adjusted, in the case of an entity using the accrual method of accounting to report federal taxable income, to reflect the amount of taxable income that would have been reported under the cash method of accounting;</section><section prefix="(ii)">increased by the sum of:</section><section prefix="(iii)">decreased by the sum of:</section></section>
+      <section prefix="(2)">"Distributable cash flow" means taxable income reportable by a pass-through entity on its federal income tax return for the taxable year:<section prefix="(i)">adjusted, in the case of an entity using the accrual method of accounting to report federal taxable income, to reflect the amount of taxable income that would have been reported under the cash method of accounting;</section><section prefix="(ii)">increased by the sum of:<section prefix="1.">cash receipts for the taxable year that are not includable in the gross income of the entity, including capital contributions and loan proceeds;</section><section prefix="2.">amounts allowable to the entity for the taxable year as deductions for depreciation, amortization, and depletion; and</section><section prefix="3.">the decrease, if any, in the entity's liability reserve as of the end of the taxable year; and</section></section><section prefix="(iii)">decreased by the sum of:<section prefix="1.">cash expenditures for the taxable year that are not deductible in computing the taxable income of the entity, not including distributions to shareholders, partners, or members; and</section><section prefix="2.">the increase, if any, in the entity's liability reserve as of the end of the taxable year.</section></section></section>
       <section prefix="(3)">"Liability reserve" means accrued unpaid liabilities that are not deductible in computing taxable income.</section>
       <section prefix="(4)">"Member" means:<section prefix="(i)">a shareholder of an S corporation;</section><section prefix="(ii)">a general or limited partner of a partnership, limited partnership, or limited liability partnership;</section><section prefix="(iii)">a member of a limited liability company; or</section><section prefix="(iv)">a beneficiary of a business trust or statutory trust.</section></section>
       <section prefix="(5)">"Nonresident entity" means an entity that is not formed under the laws of the State and is not qualified by or registered with the Department of Assessments and Taxation to do business in the State.</section>

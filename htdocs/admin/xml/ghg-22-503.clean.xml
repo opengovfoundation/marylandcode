@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-503" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-503</section_number>
-  <catch_line/>
+  <catch_line>Hazardous material is considered to be misbranded if the hazardous material:...</catch_line>
+  <order_by>503</order_by>
   <text>Hazardous material is considered to be misbranded if the hazardous material:<section prefix=""><section prefix="(1)">Is intended or packaged in a form suitable for use in the home or by children; and</section><section prefix="(2)">Fails to meet the labeling requirements established by the rules and regulations adopted under this subtitle.</section></section></text>
 </law>

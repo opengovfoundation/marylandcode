@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-602" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-602</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>602</order_by>
   <text>
     <section prefix="(a)">In this subtitle, "construction or improvement" means the planning, design, engineering, alteration, construction, reconstruction, enlargement, expansion, extension, improvement, replacement, rehabilitation, renovation, upgrading, repair, or capital equipping.</section>
     <section prefix="(b)">A county may issue bonds to finance any or all of the costs of construction or improvement of public schools in the county provided that the construction and improvement contracts and subcontracts comply with the requirements of Title 17, Subtitle 2 and Title 14 of the State Finance and Procurement Article if the requirements would otherwise be applicable.</section>

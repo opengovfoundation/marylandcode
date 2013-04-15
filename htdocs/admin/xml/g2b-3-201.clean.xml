@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-201" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-3-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class B license shall be issued by the license issuing authority of the county in which the place of business is located. The holder of the license may keep for sale and sell beer at retail at any hotel or restaurant at the place described in the license for consumption on the premises or elsewhere.</section>
@@ -31,12 +31,12 @@
     </section>
     <section prefix="(m)">
       <section prefix="(1)">This subsection applies only  in Garrett County.</section>
-      <section prefix="(2)">The Board of License Commissioners may issue a Class B  beer license for use in:<section prefix="(i)">A bona fide hotel, motel, or inn that:</section><section prefix="(ii)">A restaurant that:</section></section>
+      <section prefix="(2)">The Board of License Commissioners may issue a Class B  beer license for use in:<section prefix="(i)">A bona fide hotel, motel, or inn that:<section prefix="1.">Accommodates the public;</section><section prefix="2.">Provides services ordinarily found in hotels, motels, or inns;</section><section prefix="3.">Is equipped with at least 10 bedrooms for public accommodation; and</section><section prefix="4.">Has a lobby with a registration and mail desk and seating facilities; or</section></section><section prefix="(ii)">A restaurant that:<section prefix="1.">Has a seating capacity at tables, not including seats at bars or counters, for at least 20 persons; and</section><section prefix="2.">Can prepare and serve full-course meals for at least 20 persons at one seating.</section></section></section>
       <section prefix="(3)">The Board of License Commissioners may issue the license with or without a catering option.</section>
       <section prefix="(4)">A holder of a license without a catering option may sell beer for consumption on or off the licensed premises.</section>
       <section prefix="(5)">
         <section prefix="(i)">In addition to exercising the privileges stated in paragraph (4) of this subsection, a holder of the license with a catering option may keep for sale and sell beer for consumption at events that the holder caters off the licensed premises.</section>
-        <section prefix="(ii)">To exercise the catering option, a holder of a license:</section>
+        <section prefix="(ii)">To exercise the catering option, a holder of a license:<section prefix="1.">Shall provide food if the holder provides beer at a catered event off the licensed premises; and</section><section prefix="2.">May exercise the catering option only during the hours and days that are allowed under the license.</section></section>
       </section>
       <section prefix="(6)">For a license without a catering option:<section prefix="(i)">The issuing fee is $150; and</section><section prefix="(ii)">The annual fee is $150.</section></section>
       <section prefix="(7)">For a license with a catering option:<section prefix="(i)">The issuing fee is $250; and</section><section prefix="(ii)">The annual fee is $250.</section></section>

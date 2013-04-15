@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-108" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">Any fiduciary making distribution or delivery of any property, in conformity to any decree or order of court passed pursuant to the Maryland Rules, shall be protected from any claim in respect to it by an absent or unknown beneficiary or life tenant proceeded against under the Maryland Rules, or his heirs, personal representatives, or assigns.</section>
     <section prefix="(b)">Nothing in this section limits any similar protection granted to fiduciaries by applicable laws in effect prior to the passage of the Maryland Rules.</section>

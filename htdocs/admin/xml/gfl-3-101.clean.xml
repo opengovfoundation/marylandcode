@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-101" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-3-101</section_number>
-  <catch_line/>
+  <catch_line>This title is remedial and shall be construed liberally to accomplish its purpose....</catch_line>
+  <order_by>101</order_by>
   <text>This title is remedial and shall be construed liberally to accomplish its purpose.</text>
 </law>

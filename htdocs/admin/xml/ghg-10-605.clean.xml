@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-605" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">Within 10 days after admission of an individual to a facility under this title, the facility shall submit to the Department an admission report on the individual.</section>
     <section prefix="(b)">The report shall:<section prefix="(1)">Be on the form that the Department requires; and</section><section prefix="(2)">Contain the information that the Department requires.</section></section>

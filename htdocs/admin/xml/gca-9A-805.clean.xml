@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-805" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">After dissolution, a partner who has not wrongfully dissociated may file a statement of dissolution stating the name of the partnership and that the partnership has dissolved and is winding up its business.</section>
     <section prefix="(b)">A filed statement of dissolution cancels a filed statement of partnership authority for the purposes of &#xA7; 9A-303(c) of this title and is a limitation on authority for the purposes of &#xA7; 9A-303(d) of this title.</section>

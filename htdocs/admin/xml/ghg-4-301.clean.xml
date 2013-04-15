@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-301" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -23,7 +23,7 @@
     <section prefix="(h)">"Health information exchange" means an infrastructure that provides organizational and technical capabilities for the exchange of protected health information electronically among entities not under common ownership.</section>
     <section prefix="(i)">
       <section prefix="(1)">"Medical record" means any oral, written, or other transmission in any form or medium of information that:<section prefix="(i)">Is entered in the record of a patient or recipient;</section><section prefix="(ii)">Identifies or can readily be associated with the identity of a patient or recipient; and</section><section prefix="(iii)">Relates to the health care of the patient or recipient.</section></section>
-      <section prefix="(2)">"Medical record" includes any:<section prefix="(i)">Documentation of disclosures of a medical record to any person who is not an employee, agent, or consultant of the health care provider;</section><section prefix="(ii)">File or record maintained under &#xA7; 12-403(b)(13) of the Health Occupations Article by a pharmacy of a prescription order for drugs, medicines, or devices that identifies or may be readily associated with the identity of a patient;</section><section prefix="(iii)">Documentation of an examination of a patient regardless of who:</section><section prefix="(iv)">File or record received from another health care provider that:</section></section>
+      <section prefix="(2)">"Medical record" includes any:<section prefix="(i)">Documentation of disclosures of a medical record to any person who is not an employee, agent, or consultant of the health care provider;</section><section prefix="(ii)">File or record maintained under &#xA7; 12-403(b)(13) of the Health Occupations Article by a pharmacy of a prescription order for drugs, medicines, or devices that identifies or may be readily associated with the identity of a patient;</section><section prefix="(iii)">Documentation of an examination of a patient regardless of who:<section prefix="1.">Requested the examination; or</section><section prefix="2.">Is making payment for the examination; and</section></section><section prefix="(iv)">File or record received from another health care provider that:<section prefix="1.">Relates to the health care of a patient or recipient received from that health care provider; and</section><section prefix="2.">Identifies or can readily be associated with the identity of the patient or recipient.</section></section></section>
     </section>
     <section prefix="(j)">
       <section prefix="(1)">"Mental health services" means health care rendered to a recipient primarily in connection with the diagnosis, evaluation, treatment, case management, or rehabilitation of any mental disorder.</section>

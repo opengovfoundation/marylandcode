@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-101.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-13-101.1</section_number>
-  <catch_line/>
+  <catch_line>The provisions of this title apply to the subject matter of a consumer contract as defined in &#xA7; 22-...</catch_line>
+  <order_by>101.1</order_by>
   <text>The provisions of this title apply to the subject matter of a consumer contract as defined in &#xA7; 22-102 of this article in the same manner they apply to consumer goods and consumer services.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-1909" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-13-1909</section_number>
-  <catch_line/>
+  <catch_line>A raffle shall be personally conducted and managed only by regular members of the qualified organiza...</catch_line>
+  <order_by>1909</order_by>
   <text>A raffle shall be personally conducted and managed only by regular members of the qualified organization.</text>
 </law>

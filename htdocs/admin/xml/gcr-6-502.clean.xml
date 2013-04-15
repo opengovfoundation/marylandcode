@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-502" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-6-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">In this section, "railroad" includes a switch, frog, rail, roadbed, tie, viaduct, bridge, trestle, culvert, embankment, structure, or appliance that pertains to or connects with a railroad.</section>
     <section prefix="(b)">A person may not, with the intent to obstruct or derail a railroad vehicle in the State:<section prefix="(1)">break or damage a railroad; or</section><section prefix="(2)">place or cause anything to be placed on a railroad.</section></section>

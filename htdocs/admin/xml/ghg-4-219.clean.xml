@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-219" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-219</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>219</order_by>
   <text>
     <section prefix="(a)">At least annually, the Secretary shall:<section prefix="(1)">Publish a report of vital statistics, including population estimates; and</section><section prefix="(2)">Print and distribute the report to any official, agency, library, or other person whom the Secretary considers entitled to the report.</section></section>
     <section prefix="(b)">In addition to the requirements of subsection (a) of this section, by June 30 of each year the Secretary shall report to the State Commission on Infant Mortality Prevention on the number and cause of death of Maryland children under the age of 1 year who died during the prior calendar year ending December 31st.</section>

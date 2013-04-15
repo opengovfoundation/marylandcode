@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-101" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title and Title 25 of this article the following words have the meanings indicated.</section>
     <section prefix="(b)">"Alley" means a street that:<section prefix="(1)">Is intended to provide access to the rear or side of a lot or building in an urban district; and</section><section prefix="(2)">Is not intended for through vehicular traffic.</section></section>

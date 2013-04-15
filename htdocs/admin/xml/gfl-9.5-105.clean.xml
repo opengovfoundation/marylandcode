@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9.5-105" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9.5-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">A child custody determination made by a court of this State that had jurisdiction under this title binds all persons who have been served in accordance with the laws of this State or notified in accordance with &#xA7; 9.5-107 of this subtitle or who have submitted to the jurisdiction of the court, and who have been given an opportunity to be heard.</section>
     <section prefix="(b)">As to those persons, the determination is conclusive as to all decided issues of law and fact except to the extent the determination is modified.</section>

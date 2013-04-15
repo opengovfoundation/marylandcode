@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-404" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-8-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">Notwithstanding &#xA7; 8-103(a) of this title, a trial judge may strike an individual who is party in a civil case while the individual is entitled to a jury trial in the county.</section>
     <section prefix="(b)">
       <section prefix="(1)">Whenever more individuals than are needed to impanel a jury have been summoned, an individual may be excused but only in accordance with rule or other law.</section>
-      <section prefix="(2)">An individual who is summoned for jury service may be struck from a particular jury only:<section prefix="(i)">In accordance with rule or other law, by a party on peremptory challenge;</section><section prefix="(ii)">For good cause shown, by a trial judge on a challenge by a party; or</section><section prefix="(iii)">Subject to paragraph (3) of this subsection, by a trial judge who finds that:</section></section>
+      <section prefix="(2)">An individual who is summoned for jury service may be struck from a particular jury only:<section prefix="(i)">In accordance with rule or other law, by a party on peremptory challenge;</section><section prefix="(ii)">For good cause shown, by a trial judge on a challenge by a party; or</section><section prefix="(iii)">Subject to paragraph (3) of this subsection, by a trial judge who finds that:<section prefix="1.">The individual may be unable to render impartial jury service;</section><section prefix="2.">The individual's service likely would disrupt the proceeding; or</section><section prefix="3.">The individual's service may threaten the secrecy of a proceeding or otherwise affect the integrity of the jury deliberations adversely.</section></section></section>
       <section prefix="(3)">A trial judge may not strike an individual under paragraph (2)(iii)3 of this subsection, unless the judge states on the record:<section prefix="(i)">Each reason for the strike; and</section><section prefix="(ii)">A finding that the strike is warranted and not inconsistent with &#xA7;&#xA7; 8-102(a) and (b) and 8-104 of this title.</section></section>
       <section prefix="(4)">An individual struck under this subsection may serve on another jury for which the basis for the strike is irrelevant.</section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-306" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-6-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">The Administration and its authorized agents and employees may enter on any lands, waters, and other property in this State to make any surveys, soundings, drillings, and examinations that it considers necessary for the purposes of this title.</section>
     <section prefix="(b)">An entry made under this section is not a trespass and may not be considered an entry under any pending condemnation proceeding.</section>

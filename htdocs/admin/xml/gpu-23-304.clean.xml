@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-304" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Before October 1 of each year, the Commission shall prepare and submit a Program to the County Executive and County Council of Montgomery County and the County Executive of Prince George's County.</section>
     <section prefix="(b)">In Montgomery County, the County Executive shall submit recommendations and suggested amendments about the Program to the County Council as an integral part of the comprehensive 6-year Capital Improvements Program required by the Montgomery County Charter.</section>

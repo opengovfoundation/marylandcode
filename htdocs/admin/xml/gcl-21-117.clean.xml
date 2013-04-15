@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-117" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-21-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in &#xA7; 21-111(f) of this title, each governmental agency shall determine whether, and the extent to which, it will send and accept electronic records and electronic signatures to and from other persons and otherwise create, generate, communicate, store, process, use, and rely upon electronic records and electronic signatures.</section>
     <section prefix="(b)">To the extent a governmental agency uses electronic records and electronic signatures under subsection (a) of this section, the governmental agency, giving due consideration to security, may specify:<section prefix="(1)">The manner and format in which the electronic records must be created, generated, sent, communicated, received, and stored and the systems established for those purposes;</section><section prefix="(2)">The electronic records must be signed by electronic means, the type of electronic signature required, the manner and format in which the electronic signature must be affixed to the electronic record, and the identity of, or criteria that must be met by, any third party used by a person filing a document to facilitate the process;</section><section prefix="(3)">Control processes and procedures as appropriate to ensure adequate preservation, disposition, integrity, security, confidentiality, and auditability of electronic records; and</section><section prefix="(4)">Any other required attributes for electronic records which are specified for corresponding nonelectronic records or reasonably necessary under the circumstances.</section></section>

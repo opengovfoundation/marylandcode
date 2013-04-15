@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-103.3" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-103.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103.3</order_by>
   <text>
     <section prefix="(a)">There is a HealthChoice Performance Incentive Fund established in the Department.</section>
     <section prefix="(b)">
@@ -16,7 +16,7 @@
       <section prefix="(1)">
         <section prefix="(i)">Except as otherwise provided in this paragraph, the Fund shall be used exclusively for the provider reimbursement budget under the HealthChoice Program, including providing financial incentives designed to improve the quality of care to managed care organizations that exceed performance targets.</section>
         <section prefix="(ii)">For fiscal years 2004 through 2006, the Fund shall be used exclusively to provide grants to Medbank of Maryland, Inc.</section>
-        <section prefix="(iii)">The grant to Medbank of Maryland, Inc. under this section may not exceed:</section>
+        <section prefix="(iii)">The grant to Medbank of Maryland, Inc. under this section may not exceed:<section prefix="1.">$1,200,000 in fiscal 2004;</section><section prefix="2.">$1,000,000 in fiscal 2005; and</section><section prefix="3.">$500,000 in fiscal 2006.</section></section>
       </section>
       <section prefix="(2)">The Fund is a continuing nonlapsing fund not subject to &#xA7; 7-302 of the State Finance and Procurement Article.</section>
       <section prefix="(3)">Except as provided in paragraph (4) of this subsection, any unspent portions of the Fund may not be transferred or revert to the General Fund of the State, but shall remain in the Fund to be used for the purposes specified in this section.</section>

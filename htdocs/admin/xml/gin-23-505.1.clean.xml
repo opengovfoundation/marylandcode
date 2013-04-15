@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-505.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-505.1</section_number>
-  <catch_line/>
+  <catch_line>An insurer that markets through independent insurance producers as defined in this article may not:...</catch_line>
+  <order_by>505.1</order_by>
   <text>An insurer that markets through independent insurance producers as defined in this article may not:<section prefix=""><section prefix="(1)">refuse to issue or deny the issuance of a policy because premiums have been advanced by a registered premium finance company not affiliated with the insurer; or</section><section prefix="(2)">require an insured to use a particular premium finance company or other installment plan.</section></section></text>
 </law>

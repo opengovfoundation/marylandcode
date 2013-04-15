@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-209" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-17-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">On due notice to the judgment creditor, a judgment debtor may apply to the court that rendered the judgment for the privilege of paying the judgment in installments. In its discretion, the court may order payment of the judgment in installments and may set and modify from time to time the amounts and times of the installment payments.</section>
     <section prefix="(b)">If the judgment debtor obtains an order permitting payment of the judgment in installments:<section prefix="(1)">The Administration shall reinstate any license or registration of the judgment debtor suspended under this subtitle; and</section><section prefix="(2)">As long as the installment payments are not in default, the Administration may not suspend the license or registration of the judgment debtor under this subtitle.</section></section>

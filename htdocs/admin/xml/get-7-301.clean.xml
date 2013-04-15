@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-301" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-301</section_number>
-  <catch_line/>
+  <catch_line>A personal representative shall file written accounts of his management and distribution of property...</catch_line>
+  <order_by>301</order_by>
   <text>A personal representative shall file written accounts of his management and distribution of property at the times and in the manner prescribed in this subtitle, with a certification that he has mailed or delivered a notice of the filing to all interested persons.</text>
 </law>

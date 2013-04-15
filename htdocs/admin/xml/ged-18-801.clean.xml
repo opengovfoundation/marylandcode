@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-801" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-801</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>801</order_by>
   <text>
     <section prefix="(a)">Each county may establish a program of county scholarships for students of medicine, dentistry, or nursing, and may levy and pay any amount required for this purpose.</section>
     <section prefix="(b)">The county council, board of county commissioners, or Mayor and City Council of Baltimore City may determine the amount to be awarded, the number of these scholarships, and the method of selecting the recipients.</section>

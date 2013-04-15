@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-102" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">Only a corporation that complies with this title and &#xA7; 1-201 of this article may conduct the business of a savings and loan association or do business under any name or make any representation that implies that it is a savings and loan association.</section>
     <section prefix="(b)">On application by the Division Director, a court of competent jurisdiction may issue an injunction to restrain any person from violating this section.</section>

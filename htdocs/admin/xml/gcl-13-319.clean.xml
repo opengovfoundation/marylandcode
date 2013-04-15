@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-319" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-13-319</section_number>
-  <catch_line/>
+  <catch_line>If a merchant advertises a rebate for consumer goods that is available only if a consumer mails in a...</catch_line>
+  <order_by>319</order_by>
   <text>If a merchant advertises a rebate for consumer goods that is available only if a consumer mails in a rebate form, the advertisement shall clearly state that the rebate is only available by mail. </text>
 </law>

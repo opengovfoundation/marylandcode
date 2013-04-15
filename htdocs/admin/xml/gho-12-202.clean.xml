@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-202" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of twelve members.</section>
-      <section prefix="(2)">Of the twelve Board members:<section prefix="(i)">Ten shall be licensed pharmacists, including:</section><section prefix="(ii)">Two shall be consumer members.</section></section>
+      <section prefix="(2)">Of the twelve Board members:<section prefix="(i)">Ten shall be licensed pharmacists, including:<section prefix="1.">Two who at the time of appointment practice primarily in chain store pharmacies;</section><section prefix="2.">Two who at the time of appointment practice primarily in independent pharmacies;</section><section prefix="3.">Two who at the time of appointment practice primarily in an acute-care hospital;</section><section prefix="4.">One who at the time of appointment practices primarily in a pharmacy that provides services to a long-term care facility;</section><section prefix="5.">One who at the time of appointment practices primarily in a pharmacy that specializes in the provision of home infusion/home care services; and</section><section prefix="6.">Two pharmacists at-large; and</section></section><section prefix="(ii)">Two shall be consumer members.</section></section>
       <section prefix="(3)">
         <section prefix="(i)">The Governor shall appoint the chain store pharmacist members, with the advice of the Secretary, from a list of names submitted to the Secretary and the Governor by the Maryland Association of Chain Drug Stores.</section>
         <section prefix="(ii)">The Governor shall appoint the independent pharmacist members, with the advice of the Secretary, from a list of names submitted to the Secretary and the Governor by the Maryland Pharmacists Association and the Maryland Pharmaceutical Society.</section>
@@ -19,7 +19,7 @@
         <section prefix="(vi)">The Governor shall appoint the at-large pharmacist members, with the advice of the Secretary, from a list of all names submitted to the Maryland Pharmacists Association, and then forwarded to the Secretary and the Governor.</section>
         <section prefix="(vii)">Except for the at-large vacancies, the number of names on each list submitted to the Secretary and the Governor under this paragraph shall be three times the number of vacancies.</section>
       </section>
-      <section prefix="(4)">For each pharmacist vacancy:<section prefix="(i)">The Board shall notify all licensed pharmacists and other interested parties of record in the State of the vacancy to solicit nominations to fill the vacancy and provide information for contacting a representative of the group that submits the list of names to the Governor under paragraph (3) of this subsection; and</section><section prefix="(ii)">Except for the at-large vacancies, each association that is responsible for submitting a list of nominees to the Secretary and the Governor under this section shall:</section></section>
+      <section prefix="(4)">For each pharmacist vacancy:<section prefix="(i)">The Board shall notify all licensed pharmacists and other interested parties of record in the State of the vacancy to solicit nominations to fill the vacancy and provide information for contacting a representative of the group that submits the list of names to the Governor under paragraph (3) of this subsection; and</section><section prefix="(ii)">Except for the at-large vacancies, each association that is responsible for submitting a list of nominees to the Secretary and the Governor under this section shall:<section prefix="1.">Issue a nomination form upon the request of any licensed pharmacist and consider all nominations received by the association's deadline;</section><section prefix="2.">Form a committee, which recognizes diversity within the State in geographic distribution, sex, race, and age, comprised of at least five pharmacists to review nominations, interview all qualified nominees in a meeting open to the public, and select three names for each vacancy to be submitted to the Secretary and the Governor; and</section><section prefix="3.">In the event that fewer than three qualified nominees are submitted to the association, select any additional names that are needed to complete the list required to be submitted to the Secretary and the Governor under this section.</section></section></section>
       <section prefix="(5)">The Governor shall appoint the consumer members with the advice of the Secretary and the advice and consent of the Senate.</section>
       <section prefix="(6)">Each member of the Board shall be a resident of this State.</section>
       <section prefix="(7)">A member of the Board shall be recused from all aspects of the licensing exam if that Board member:<section prefix="(i)">Is a member of the board of trustees at a school of pharmacy;</section><section prefix="(ii)">Is a teacher at a school of pharmacy; or</section><section prefix="(iii)">Acquires the member's primary source of income through employment by a school of pharmacy.</section></section>

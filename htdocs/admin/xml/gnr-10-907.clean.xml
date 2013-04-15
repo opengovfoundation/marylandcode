@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-907" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-907</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>907</order_by>
   <text>
     <section prefix="(a)">Any person desiring to take alive, possess, train, fly, and hunt with falcons, hawks, or owls shall first obtain a falconry permit from the Secretary.</section>
     <section prefix="(b)">The Secretary may issue a falconry permit, on the payment of a reasonable fee, to any properly accredited person who:<section prefix="(1)">Is at least 14 years old;</section><section prefix="(2)">Has demonstrated adequate knowledge and training in the care and handling of birds of prey; and</section><section prefix="(3)">Possesses facilities demonstrated to be of sufficient design and size to properly maintain the permitted wildlife in captivity.</section></section>

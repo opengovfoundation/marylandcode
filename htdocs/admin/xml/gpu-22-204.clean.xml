@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-204" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-22-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">The Commission may sell bonds issued under this subtitle:<section prefix="(1)">at public or private sale; and</section><section prefix="(2)">in a manner and for a price that the Commission determines to be in the best interests of the Commission.</section></section>
     <section prefix="(b)">Article 31, &#xA7;&#xA7; 9, 10, and 11 of the Code do not apply to the issuance and sale of bonds authorized by this subtitle.</section>

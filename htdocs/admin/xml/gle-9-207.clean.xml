@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-207" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">A registered crew member, a paid law enforcement employee, or an individual engaged for fire fighting by the Department of Natural Resources is a covered employee.</section>
     <section prefix="(b)">Notwithstanding &#xA7; 9-203 of this subtitle, an individual engaged for fire fighting who otherwise would be a covered employee under subsection (a) of this section is a covered employee even if the fire fighting takes place outside of the State.</section>

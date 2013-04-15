@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-211" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">The Department shall give notice and hold any hearing under this subtitle in accordance with the Administrative Procedure Act.</section>
     <section prefix="(b)">Within 10 days after being served with an order under &#xA7; 4-209(a)(1) of this subtitle or a notice under &#xA7; 4-209(a)(2) of this subtitle, the person served may request in writing a hearing before the Department.</section>

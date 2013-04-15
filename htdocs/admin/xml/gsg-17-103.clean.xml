@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-103" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-17-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">If a commission has been issued to an individual who is ineligible under &#xA7; 17-101 of this title, the Governor shall instruct the State's Attorney for the county in which the individual resides to obtain in the circuit court of that county a writ of mandamus directed to the individual who professes to hold the office specified in the commission to inquire into the right by which the individual holds the office.</section>
     <section prefix="(b)">If the circuit court finds that at the time of the election or appointment of an individual, the individual had not accounted for and paid into the Treasury of the State money that the individual should have accounted for and paid into the Treasury of the State before the election or appointment of the individual, then the circuit court shall declare the election or appointment of that individual to be void from the beginning and the office to be vacant.</section>

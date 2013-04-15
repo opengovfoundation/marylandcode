@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-504" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">A securities intermediary shall promptly obtain and thereafter maintain a financial asset in a quantity corresponding to the aggregate of all security entitlements the securities intermediary has established in favor of its entitlement holders with respect to that financial asset. The securities intermediary may maintain those financial assets directly or through one or more other securities intermediaries.</section>
     <section prefix="(b)">Except to the extent otherwise agreed by its entitlement holder, a securities intermediary may not grant any security interests in a financial asset it is obligated to maintain in accordance with subsection (a) of this section.</section>

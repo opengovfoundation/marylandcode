@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-16-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">There is a Board of Trustees of the Office of the Public Defender.</section>
     <section prefix="(b)">The Board of Trustees consists of 13 members.</section>
@@ -16,7 +16,7 @@
       <section prefix="(4)">One member shall be appointed by the President of the Senate.</section>
       <section prefix="(5)">One member shall be appointed by the Speaker of the House of Delegates.</section>
       <section prefix="(6)">Each member appointed to the Board of Trustees shall:<section prefix="(i)">have significant experience in criminal defense or other matters relevant to the work of the Board of Trustees; or</section><section prefix="(ii)">have demonstrated a strong commitment to quality representation of indigent defendants, including juvenile respondents.</section></section>
-      <section prefix="(7)">A member of the Board of Trustees may not be:<section prefix="(i)">a current member or employee of:</section><section prefix="(ii)"/></section>
+      <section prefix="(7)">A member of the Board of Trustees may not be:<section prefix="(i)">a current member or employee of:<section prefix="1.">the Judicial Branch; or</section><section prefix="2.">a law enforcement agency in the State; or</section></section><section prefix="(ii)"><section prefix="1.">a State's Attorney of a county or municipal corporation of the State;</section><section prefix="2.">the Attorney General of Maryland; or</section><section prefix="3.">the State Prosecutor.</section></section></section>
     </section>
     <section prefix="(d)">
       <section prefix="(1)">The term of an appointed member of the Board of Trustees is 3 years.</section>

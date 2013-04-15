@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-905" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-905</section_number>
-  <catch_line/>
+  <catch_line>The provisions of this subtitle do not prohibit or limit the application of any law to a criminal or...</catch_line>
+  <order_by>905</order_by>
   <text>The provisions of this subtitle do not prohibit or limit the application of any law to a criminal or motor vehicle violation by an individual who has or claims immunities or privileges under Title 22, Chapter 6 of the United States Code.</text>
 </law>

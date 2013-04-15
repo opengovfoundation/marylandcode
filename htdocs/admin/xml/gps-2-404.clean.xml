@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-404" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-404</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404</order_by>
   <text>
     <section prefix="(a)">In this section, "obsolete rank" means a rank designated by the Secretary to which no further promotions will be made.</section>
     <section prefix="(b)">The Secretary shall make all promotions.</section>
@@ -14,7 +14,7 @@
       <section prefix="(2)">For a noncommissioned rank that has fewer than 25 police employees, the Secretary by rule may direct that it is unnecessary to fill the noncommissioned rank for purposes of promotion.</section>
       <section prefix="(3)">
         <section prefix="(i)">This paragraph does not apply to a rank that requires technical knowledge.</section>
-        <section prefix="(ii)">Except as provided in subsection (d) of this section, a police employee may not be appointed or promoted to a rank unless the police employee:</section>
+        <section prefix="(ii)">Except as provided in subsection (d) of this section, a police employee may not be appointed or promoted to a rank unless the police employee:<section prefix="1.">is bypassing an obsolete rank and currently fills the rank immediately below the obsolete rank; or</section><section prefix="2.">has filled the rank immediately below the rank to which the police employee is to be promoted.</section></section>
       </section>
     </section>
     <section prefix="(d)">

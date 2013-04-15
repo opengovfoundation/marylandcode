@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-210" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the Administration issues an order directing compliance with a specific requirement or if the Administration denies, suspends, or revokes a license, certificate, or other approval, the order or the denial, suspension, or revocation, as the case may be, shall state the reasons for the Administration's action and shall specify the acts to be done or requirements to be met before approval by the Administration will be given, the license, certificate, or other approval granted or restored, or the order modified or changed.</section>

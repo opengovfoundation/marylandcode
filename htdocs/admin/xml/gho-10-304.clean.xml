@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-304" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-10-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">To apply for a license, an applicant shall:<section prefix="(1)">Submit an application to the Board in the form required by the Board; and</section><section prefix="(2)">Pay to the Board the application fee set by the Board.</section></section>
     <section prefix="(b)">If an applicant is required under this title to take an examination, the applicant shall submit the application and fee at least 30 days before the date of the examination that the applicant is required to take.</section>

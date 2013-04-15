@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-308" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">The Department may execute any agreement, lease, or equipment trust certificate for the purchase or rental of transit facilities or equipment such as rolling stock, substantially in the form customarily used in these cases and appropriate to effect the purchase or rental. The Department may dispose of an equipment trust certificate in the manner that it determines to be in its best interests.</section>
     <section prefix="(b)">Each vehicle covered by an equipment trust certificate shall have the name of the owner and lessor plainly marked on both sides, followed by the words "owner and lessor".</section>

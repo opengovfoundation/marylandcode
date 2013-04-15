@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-826" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-826</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>826</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in Part III of this subtitle, a person shall be licensed by the Board as an elevator mechanic before the person erects, constructs, wires, alters, replaces, maintains, repairs, dismantles, or services elevator units in the State.</section>
     <section prefix="(b)">Except as otherwise provided in Part III of this subtitle, a person shall be licensed by the Board as an elevator contractor before the person engages in the business of erecting, constructing, wiring, altering, replacing, maintaining, repairing, dismantling, or servicing elevator units in the State.</section>

@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-607" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">When a judgment of restitution has been entered under &#xA7; 11-603 of this subtitle, compliance with the judgment of restitution:<section prefix="(i)">may be a requirement in the judgment of conviction or disposition in a juvenile delinquency proceeding;</section><section prefix="(ii)">if work release is ordered, shall be a condition of work release;</section><section prefix="(iii)">if probation is ordered, shall be a condition of probation:</section></section>
+      <section prefix="(1)">When a judgment of restitution has been entered under &#xA7; 11-603 of this subtitle, compliance with the judgment of restitution:<section prefix="(i)">may be a requirement in the judgment of conviction or disposition in a juvenile delinquency proceeding;</section><section prefix="(ii)">if work release is ordered, shall be a condition of work release;</section><section prefix="(iii)">if probation is ordered, shall be a condition of probation:<section prefix="1.">in addition to a sentence or disposition; or</section><section prefix="2.">instead of a sentence if the probation is ordered before judgment under &#xA7; 6-220 of this article.</section></section></section>
       <section prefix="(2)">Subject to federal law, the Department or the Department of Juvenile Services shall obtain the Social Security number of the restitution obligor to facilitate the collection of restitution.</section>
     </section>
     <section prefix="(b)">

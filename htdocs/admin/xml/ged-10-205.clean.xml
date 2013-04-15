@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-205" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-10-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">Institutions of higher education should utilize educational resources to provide the greatest possible benefit to the citizens of the State and to foster economic development.</section>
     <section prefix="(b)">In each region of the State, institutions of higher education should cooperate to assure an effective and efficient education system.</section>

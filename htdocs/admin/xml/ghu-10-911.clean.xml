@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-911" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-911</section_number>
-  <catch_line/>
+  <catch_line>An ombudsman is not liable under State law for good faith performance of official duties....</catch_line>
+  <order_by>911</order_by>
   <text>An ombudsman is not liable under State law for good faith performance of official duties.</text>
 </law>

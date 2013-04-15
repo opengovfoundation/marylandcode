@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-905" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">The investigation or interrogation by the appointing authority or by the Internal Investigative Unit of a correctional officer for a reason that may lead to disciplinary action, demotion, or dismissal shall be conducted in accordance with this section.</section>
     <section prefix="(b)">The investigating officer or interrogating officer shall be a member of the Internal Investigative Unit or a designee of the appointing authority.</section>
@@ -22,7 +22,7 @@
     </section>
     <section prefix="(h)">The correctional officer under interrogation may not be threatened with criminal prosecution, transfer, dismissal, or disciplinary action.</section>
     <section prefix="(i)">
-      <section prefix="(1)">If requested by or on behalf of the correctional officer under investigation, the correctional officer may not be questioned or interrogated, and any current questioning or interrogation must cease, unless:<section prefix="(i)"/><section prefix="(ii)">the legal counsel or the agent selected by the correctional officer is present and available for consultation at all times during the interrogation.</section></section>
+      <section prefix="(1)">If requested by or on behalf of the correctional officer under investigation, the correctional officer may not be questioned or interrogated, and any current questioning or interrogation must cease, unless:<section prefix="(i)"><section prefix="1.">the correctional officer is represented by legal counsel selected by the correctional officer;</section><section prefix="2.">the correctional officer is represented by an agent of the exclusive representative of the correctional officer designated under &#xA7; 3-406 of the State Personnel and Pensions Article; or</section><section prefix="3.">the correctional officer chooses an agent of the employee organization selected by the correctional officer for an investigation under this subtitle if the correctional officer is not within the bargaining unit for which an exclusive representative is designated; and</section></section><section prefix="(ii)">the legal counsel or the agent selected by the correctional officer is present and available for consultation at all times during the interrogation.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Subject to subparagraph (ii) of this paragraph, if representation is not available, the interrogation shall be suspended until representation is obtained.</section>
         <section prefix="(ii)">A suspension of interrogation under subparagraph (i) of this paragraph may not exceed 10 days unless the appointing authority, for good cause shown, extends the period for obtaining representation.</section>

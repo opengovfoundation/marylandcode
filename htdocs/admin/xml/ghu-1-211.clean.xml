@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-211" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-1-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A public agency may not disclose information or records under &#xA7; 1-210 of this subtitle if:<section prefix="(i)">disclosure is prohibited by federal law; or</section><section prefix="(ii)">the public agency has not obtained written consent if required by &#xA7; 1-212 of this subtitle.</section></section>

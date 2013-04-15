@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-117" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-12-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -17,10 +17,10 @@
       </section>
       <section prefix="(5)">
         <section prefix="(i)">"Real property" means real property located in the State.</section>
-        <section prefix="(ii)">"Real property" does not include:</section>
+        <section prefix="(ii)">"Real property" does not include:<section prefix="1.">a leasehold, unless created by a lease that is required to be recorded under &#xA7; 3-101(a) of the Real Property Article; or</section><section prefix="2.">any mortgage, deed of trust, or other lien on or security interest in real property that secures an indebtedness.</section></section>
       </section>
       <section prefix="(6)">
-        <section prefix="(i)">"Real property entity" means a corporation, partnership, association, limited liability company, limited liability partnership, other unincorporated form of doing business, or trust that directly or beneficially owns real property that:</section>
+        <section prefix="(i)">"Real property entity" means a corporation, partnership, association, limited liability company, limited liability partnership, other unincorporated form of doing business, or trust that directly or beneficially owns real property that:<section prefix="1.">constitutes at least 80% of the value of its assets; and</section><section prefix="2.">has an aggregate value of at least $1,000,000.</section></section>
         <section prefix="(ii)">For the purposes of this paragraph, the value of real property shall be determined without reduction for any mortgage, deed of trust, or other lien on or security interest in the real property.</section>
         <section prefix="(iii)">"Real property entity" does not include an entity with land holdings that, other than homesites or areas of commercial activity related to agricultural production, are entirely subject to an agricultural use assessment under &#xA7; 8-209 of this article.</section>
       </section>
@@ -29,7 +29,7 @@
       <section prefix="(1)">The recordation tax is imposed on the transfer of a controlling interest in a real property entity, as if the real property directly or beneficially owned by the real property entity, was conveyed by an instrument of writing that is recorded with the clerk of the circuit court for a county or filed with the Department under &#xA7; 12-102 of this title.</section>
       <section prefix="(2)">
         <section prefix="(i)">The recordation tax is imposed on the consideration payable for the transfer of the controlling interest in the real property entity.</section>
-        <section prefix="(ii)">The consideration to which the recordation tax applies includes the amount of:</section>
+        <section prefix="(ii)">The consideration to which the recordation tax applies includes the amount of:<section prefix="1.">any mortgage, deed of trust, or other lien on or security interest in the real property directly or beneficially owned by the real property entity; and</section><section prefix="2.">any other debt or encumbrance of the real property entity.</section></section>
         <section prefix="(iii)">The consideration to which the recordation tax applies is reduced by the amount allocable to the assets of the real property entity other than real property.</section>
         <section prefix="(iv)">The real property entity has the burden of establishing to the satisfaction of the Department the consideration referred to in subparagraph (i) of this paragraph and the amount of any consideration allocable to assets other than real property referred to in subparagraph (iii) of this paragraph.</section>
         <section prefix="(v)">If the real property entity fails to establish the amount of consideration referred to in subparagraph (i) of this paragraph, the recordation tax is imposed on the value of the real property, directly or beneficially owned by the real property entity, determined by the Department at the date of finality immediately before the date of the final transfer.</section>

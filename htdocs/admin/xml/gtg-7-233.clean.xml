@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-233" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-233</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>233</order_by>
   <text>
     <section prefix="(a)">Each month, each register shall pay into the State Treasury an amount equal to the inheritance tax collected in the preceding month, less the commission allowed in subsection (b) of this section.</section>
     <section prefix="(b)">A register is allowed a 25% commission on the inheritance tax collected.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-909" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-909</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>909</order_by>
   <text>
     <section prefix="(a)">In connection with an initial application, a renewal application, and at any other time the Commissioner requests, an applicant or licensee shall provide fingerprints for use by the Federal Bureau of Investigation and the Maryland Criminal Justice Information System Central Repository of the Department of Public Safety and Correctional Services to conduct criminal history records checks.</section>
     <section prefix="(b)">An applicant or licensee required to provide fingerprints under this section shall pay any processing or other required fee.</section>

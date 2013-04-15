@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-411" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">On a vehicle for which two registration plates are required, one plate shall be attached on the front and the other on the rear of the vehicle.</section>
     <section prefix="(b)">On a vehicle for which one registration plate is required, the plate shall be attached on the:<section prefix="(1)">Front of the vehicle for a Class F (tractor) vehicle; and</section><section prefix="(2)">Rear of the vehicle for every other vehicle.</section></section>

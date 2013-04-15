@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-304" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-8-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The Baltimore County Board of License Commissioners may issue a special wine festival license.</section>
     <section prefix="(b)">Notwithstanding any other provision to the contrary, an applicant for a special wine festival license shall be a holder of a requisite existing retail alcoholic beverages license issued in the State, State Class 3 winery license, or State Class 4 winery license issued pursuant to this article.</section>

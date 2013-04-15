@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-605" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">After the Fund negotiates with a plaintiff or claimant a settlement offer that the Fund finds reasonable, the Fund shall give notice to the defendant or uninsured party of the offer in accordance with regulations of the Fund.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-901.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-901.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901.1</order_by>
   <text>
     <section prefix="(a)">A community mental health services program shall submit annually financial statements and salary information in accordance with the Department's regulations.</section>
     <section prefix="(b)">The Administration may impose a penalty not exceeding $500 per day per violation for each day a violation occurs on a licensee that fails to comply with subsection (a) of this section.</section>

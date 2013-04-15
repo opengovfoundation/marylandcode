@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c1" order_by="" level="1"/>
-    <unit label="chapter" identifier="10" order_by="" level="2"/>
+    <unit label="article" identifier="c1" order_by="" level="1">I - Elective Franchise</unit>
   </structure>
   <section_number>c1-10</section_number>
-  <catch_line/>
+  <catch_line>Any officer elected or appointed in pursuance of the provisions of this Constitution, may qualify, e...</catch_line>
+  <order_by>10</order_by>
   <text>Any officer elected or appointed in pursuance of the provisions of this Constitution, may qualify, either according to the existing provisions of law, in relation to officers under the present Constitution, or before the Governor of the State, or before any Clerk of any Court of Record in any part of the State; but in case an officer shall qualify out of the County in which he resides, an official copy of his oath shall be filed and recorded in the Clerk's office of the Circuit Court of the County in which he may reside, or in the Clerk's office of the Superior Court of the City of Baltimore, if he shall reside therein. All words or phrases, used in creating public offices and positions under the Constitution and laws of this State, which denote the masculine gender shall be construed to include the feminine gender, unless the contrary intention is specifically expressed.</text>
 </law>

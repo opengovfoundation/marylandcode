@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-204" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -24,12 +24,12 @@
     </section>
     <section prefix="(e)">An individual shall be referred to the law enforcement agency that notified the Administration of the outstanding warrant to resolve any question of whether the warrant has been satisfied.</section>
     <section prefix="(f)">
-      <section prefix="(1)">The Administration shall continue the suspension of a license or privilege to drive that was suspended under this section until:<section prefix="(i)">The Administration is ordered by a court to reinstate the license or privilege to drive; or</section><section prefix="(ii)">A law enforcement agency notifies the Administration that:</section></section>
+      <section prefix="(1)">The Administration shall continue the suspension of a license or privilege to drive that was suspended under this section until:<section prefix="(i)">The Administration is ordered by a court to reinstate the license or privilege to drive; or</section><section prefix="(ii)">A law enforcement agency notifies the Administration that:<section prefix="1.">The individual named in the outstanding warrant has been arrested; or</section><section prefix="2.">The outstanding warrant has been otherwise satisfied.</section></section></section>
       <section prefix="(2)">On receipt of an order or notice under paragraph (1) of this subsection, the Administration shall reinstate a license or privilege to drive unless the license or privilege has been refused, revoked, suspended, or canceled under any other provision of the Maryland Vehicle Law.</section>
     </section>
     <section prefix="(g)">
       <section prefix="(1)">The Administration, in consultation with the primary law enforcement officers of the State, shall adopt regulations to implement this section.</section>
-      <section prefix="(2)">The regulations shall include:<section prefix="(i)">Criteria that a law enforcement agency must meet prior to notifying the Administration that an individual is named in an outstanding warrant;</section><section prefix="(ii)">A procedure for informing an individual named in an outstanding warrant:</section><section prefix="(iii)">A procedure which must be followed by the law enforcement agency to notify the Administration of changes in the status of an outstanding warrant; and</section><section prefix="(iv)">A procedure for the Administration to carry out the suspension of a license or privilege to drive as authorized under this section.</section></section>
+      <section prefix="(2)">The regulations shall include:<section prefix="(i)">Criteria that a law enforcement agency must meet prior to notifying the Administration that an individual is named in an outstanding warrant;</section><section prefix="(ii)">A procedure for informing an individual named in an outstanding warrant:<section prefix="1.">That the individual's license or privilege to drive has been suspended; and</section><section prefix="2.">Of the manner in which the individual may contest or resolve the suspension;</section></section><section prefix="(iii)">A procedure which must be followed by the law enforcement agency to notify the Administration of changes in the status of an outstanding warrant; and</section><section prefix="(iv)">A procedure for the Administration to carry out the suspension of a license or privilege to drive as authorized under this section.</section></section>
     </section>
     <section prefix="(h)">If a law enforcement agency meets the criteria established under subsection (g) of this section, the Administration shall enter into an agreement with the appropriate primary law enforcement officer that provides for the notification to the Administration of individuals named in outstanding warrants.</section>
     <section prefix="(i)">The procedures specified in this section are in addition to any other penalty provided by law for the failure to meet the demands specified in a warrant.</section>

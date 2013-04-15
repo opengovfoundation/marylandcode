@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12.5-601" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12.5-601</section_number>
-  <catch_line/>
+  <catch_line>This title may be cited as the "Maryland Locksmiths Act"....</catch_line>
+  <order_by>601</order_by>
   <text>This title may be cited as the "Maryland Locksmiths Act".</text>
 </law>

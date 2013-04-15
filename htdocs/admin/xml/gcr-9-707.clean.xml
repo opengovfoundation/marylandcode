@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-707" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-707</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not impair, curtail, or destroy the rights of employees and their representatives...</catch_line>
+  <order_by>707</order_by>
   <text>This subtitle does not impair, curtail, or destroy the rights of employees and their representatives to:<section prefix=""><section prefix="(1)">self-organization;</section><section prefix="(2)">form, join, or assist labor organizations;</section><section prefix="(3)">bargain collectively through representatives of their own choosing; and</section><section prefix="(4)">strike, picket, or engage in concerted activities for the purpose of collective bargaining or other mutual aid or protection.</section></section></text>
 </law>

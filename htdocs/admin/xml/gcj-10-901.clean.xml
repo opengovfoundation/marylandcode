@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-901" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>901</order_by>
   <text>
     <section prefix="(a)">During the trial of a criminal case in which the defendant is charged with a felonious violation of Title 5 of the Criminal Law Article or with the commission of a crime of violence as defined in &#xA7; 14-101 of the Criminal Law Article, a statement as defined in Maryland Rule 5-801(a) is not excluded by the hearsay rule if the statement is offered against a party that has engaged in, directed, or conspired to commit wrongdoing that was intended to and did procure the unavailability of the declarant of the statement, as defined in Maryland Rule 5-804.</section>
     <section prefix="(b)">Subject to subsection (c) of this section, before admitting a statement under this section, the court shall hold a hearing outside the presence of the jury at which:<section prefix="(1)">The Maryland Rules of Evidence are strictly applied; and</section><section prefix="(2)">The court finds by clear and convincing evidence that the party against whom the statement is offered engaged in, directed, or conspired to commit the wrongdoing that procured the unavailability of the declarant.</section></section>

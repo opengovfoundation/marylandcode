@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-106" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">A pesticide is subject to the requirements of this section if it is distributed, sold, offered for sale, delivered for transportation or transported in intrastate commerce or between points in the State through any point outside the State.</section>
     <section prefix="(b)">Any pesticide subject to this section shall be in the registrant's or manufacturer's unbroken, immediate container.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-504" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-504</section_number>
-  <catch_line/>
+  <catch_line>The Comptroller shall pay out money from each fund as approved in the State budget....</catch_line>
+  <order_by>504</order_by>
   <text>The Comptroller shall pay out money from each fund as approved in the State budget.</text>
 </law>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-402" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-2-402</section_number>
-  <catch_line/>
+  <catch_line>The Governor is the official of this State responsible for dealing with the federal government as to...</catch_line>
+  <order_by>402</order_by>
   <text>The Governor is the official of this State responsible for dealing with the federal government as to programs and activities under the federal Highway Safety Act of 1966 and acts amendatory or supplemental to it.</text>
 </law>

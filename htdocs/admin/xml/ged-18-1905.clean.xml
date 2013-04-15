@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-1905" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-1905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1905</order_by>
   <text>
     <section prefix="(a)">The Board, from among the members of the Board, shall elect a chairman and may elect additional officers that the Board considers necessary.</section>
     <section prefix="(b)">The Board shall determine the times and places of meetings.</section>
@@ -14,8 +14,8 @@
       <section prefix="(1)">The Board:<section prefix="(i)">Shall appoint a Program executive director who is in the executive service of the State Personnel Management System; and</section><section prefix="(ii)">May employ additional staff in accordance with the budget.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">Except for employees described in subparagraph (ii) or (iii) of this paragraph, the employees shall be skilled service employees subject to the provisions of the State Personnel and Pensions Article that govern skilled service employees.</section>
-        <section prefix="(ii)">An employee is in the professional service and subject to the provisions of the State Personnel and Pensions Article that govern professional service employees if the position:</section>
-        <section prefix="(iii)">An employee is in the management service and subject to the provisions of the State Personnel and Pensions Article that govern management service employees if the position:</section>
+        <section prefix="(ii)">An employee is in the professional service and subject to the provisions of the State Personnel and Pensions Article that govern professional service employees if the position:<section prefix="1.">Requires knowledge of an advanced type in a field of science or learning customarily acquired by a course of specialized intellectual instruction and study; and</section><section prefix="2.">Normally requires a professional license, an advanced degree, or both.</section></section>
+        <section prefix="(iii)">An employee is in the management service and subject to the provisions of the State Personnel and Pensions Article that govern management service employees if the position:<section prefix="1.">Primarily involves direct responsibility for the oversight and management of personnel and financial resources;</section><section prefix="2.">Requires the exercise of discretion and independent judgment; and</section><section prefix="3.">Is not in the executive service.</section></section>
       </section>
       <section prefix="(3)">The Board may retain the services of consultants, administrators, and other personnel, as necessary, to administer the Trust, the Plan, or the Broker-Dealer Plan.</section>
       <section prefix="(4)">The budget for the Program, the Board, and its staff is subject to review by the General Assembly for information purposes only.</section>

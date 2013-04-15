@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-804" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-804</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>804</order_by>
   <text>
     <section prefix="(a)">No person may pack, sell, offer to sell, possess, or transport any apples in closed packages not properly designated with respect to the following:<section prefix="(1)">A grade standard, as provided in this subtitle;</section><section prefix="(2)">The variety;</section><section prefix="(3)">The minimum size;</section><section prefix="(4)">A count or quantity declaration; and</section><section prefix="(5)">The name and address of the packer or distributor.</section></section>
     <section prefix="(b)">The designation shall be shown plainly and conspicuously on each package. However, in any transparent consumer pack, a stuffer may be used for markings and placed inside the package in a manner that is plainly readable.</section>

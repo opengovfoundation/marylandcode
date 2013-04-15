@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-403" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">A person may not hunt, purchase, sell, barter, exchange, or attempt to hunt, purchase, sell, barter, or exchange any game bird except as provided by federal or State laws and rules and regulations.</section>
     <section prefix="(b)">A person may not hunt or possess any game bird in excess of the limits prescribed by federal or State laws and rules and regulations.</section>

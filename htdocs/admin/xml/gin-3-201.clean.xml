@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-201" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-3-201</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "subscriber" means a person that exchanges a mutual agreement of indemnity with ot...</catch_line>
+  <order_by>201</order_by>
   <text>In this subtitle, "subscriber" means a person that exchanges a mutual agreement of indemnity with other persons through a common attorney in fact.</text>
 </law>

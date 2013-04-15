@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-122" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-14-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">There is an Oil and Gas Fund.</section>
     <section prefix="(b)">The Fund consists of:<section prefix="(1)">Fees collected by the Department under &#xA7; 14-105 of this subtitle;</section><section prefix="(2)">Funds appropriated by the General Assembly for deposit to the Fund;</section><section prefix="(3)">Fines and bond forfeitures collected by the Department in accordance with this subtitle that exceed the amount necessary to restore a site; and</section><section prefix="(4)">Any additional money made available from any sources, public or private, for the purposes for which the Fund has been established.</section></section>

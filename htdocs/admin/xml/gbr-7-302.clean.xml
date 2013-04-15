@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-302" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-7-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">An applicant for a license shall:<section prefix="(i)">submit to the Board an application on the form that the Board provides; and</section><section prefix="(ii)">pay to the Board:</section></section>
+      <section prefix="(1)">An applicant for a license shall:<section prefix="(i)">submit to the Board an application on the form that the Board provides; and</section><section prefix="(ii)">pay to the Board:<section prefix="1.">an application fee in the amount set by the Board; and</section><section prefix="2.">an investigation fee in the amount set by the Board.</section></section></section>
       <section prefix="(2)">The fees authorized under this subsection may not exceed a total of $900 for a 2-year term.</section>
     </section>
     <section prefix="(b)">An application shall be made under oath.</section>

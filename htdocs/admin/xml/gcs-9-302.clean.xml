@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-302" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">If an individual whose trial has been removed is convicted of a crime punishable by imprisonment in a local correctional facility, any sentence of imprisonment imposed by a court shall be to a local correctional facility of the county from which the case was removed.</section>
     <section prefix="(b)">The sheriff of the county in which the conviction occurred shall place the individual who was convicted and a certified copy of the docket entries in the case in the custody of the sheriff of the county in which the charging document was filed.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-506" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">Before State funds are paid under this Program, the grantee shall:<section prefix="(1)">record the notice of the State's right to recovery in the land records of the county in which the senior citizen activities center is or will be located; and</section><section prefix="(2)">provide evidence of the recordation to the Department.</section></section>
     <section prefix="(b)">The recordation constitutes notice to any potential transferee, potential creditor, or other interested party of the possibility that the State may obtain a lien under this part, but the act of recordation does not create a lien against the property.</section>

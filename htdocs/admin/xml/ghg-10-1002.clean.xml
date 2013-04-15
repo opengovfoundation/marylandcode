@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1002" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-1002</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1002</order_by>
   <text>
     <section prefix="(a)">A person may not:<section prefix="(1)">Knowingly make a false application or certificate in connection with the admission or detention of any individual; or</section><section prefix="(2)">Detain an individual in a manner contrary to Subtitle 6 or Subtitle 8 of this title.</section></section>
     <section prefix="(b)">A person who violates any provision of this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $5,000 or imprisonment not exceeding 2 years or both.</section>

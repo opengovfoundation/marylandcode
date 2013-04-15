@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-505" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">In addition to the other powers granted and duties imposed by this title, and subject to the authority of the Commission, the Board of Trustees has the powers and duties set forth in this section.</section>
     <section prefix="(b)">
@@ -25,7 +25,11 @@
       <section prefix="(2)">Subject to the prior approval of the Board of Public Works, the Board may sell, lease, encumber, or otherwise dispose of any real property, improvement to real property, or license of the College.</section>
       <section prefix="(3)">
         <section prefix="(i)">All proceeds and income from any sale, lease, disposition, encumbrance, or development of any property, right, or interest of the College shall be used for the benefit of the College and may not revert to the general funds of the State or be applied to the Annuity Bond Fund of the State.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">The proceeds and income from the sale of any real property, improvement to real property, or license of the College shall be deposited in a special fund.</section>
+          <section prefix="2.">The principal of the special fund may be used for capital expenditures, subject to the approval of the Board of Public Works on a pay-as-you-go basis, and may not be used to pay the operating expenses of the College.</section>
+          <section prefix="3.">The Board of Trustees shall develop the commercial potential of the Inner Harbor site to maximize revenue to the College without jeopardizing the educational mission of the College.</section>
+        </section>
       </section>
     </section>
     <section prefix="(f)">The Board of Trustees may apply for, accept, and spend any gift or grant from any government, foundation, or person.</section>

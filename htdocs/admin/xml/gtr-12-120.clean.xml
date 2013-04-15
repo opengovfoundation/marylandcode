@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-120" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">In this section, "miscellaneous fees" means all fees collected by the Administration under this article other than:<section prefix="(1)">The vehicle titling tax;</section><section prefix="(2)">One-half of the certificate of title fee under &#xA7; 13-802 of this article; and</section><section prefix="(3)">Vehicle registration fees under Part II of Title 13, Subtitle 9 of this article.</section></section>
     <section prefix="(b)">Except as provided in this section, the Administration may not alter the miscellaneous fees that the Administration is authorized under this article to establish.</section>

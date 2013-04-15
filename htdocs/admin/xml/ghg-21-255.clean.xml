@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-255" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-255</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>255</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, the Secretary shall report to the State's Attorney any alleged criminal violation of this subtitle.</section>
     <section prefix="(b)">Before the Secretary reports any alleged violation of this subtitle to a State's Attorney for the institution of a criminal proceeding, the Secretary shall give the alleged violator notice and an opportunity to present that person's views to the Secretary either orally or in writing. The views of the alleged violator may be presented by counsel.</section>

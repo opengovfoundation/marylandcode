@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-409" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">"Acceptance" means the drawee's signed agreement to pay a draft as presented. It must be written on the draft and may consist of the drawee's signature alone. Acceptance may be made at any time and becomes effective when notification pursuant to instructions is given or the accepted draft is delivered for the purpose of giving rights on the acceptance to any person.</section>
     <section prefix="(b)">A draft may be accepted although it has not been signed by the drawer, is otherwise incomplete, is overdue, or has been dishonored.</section>

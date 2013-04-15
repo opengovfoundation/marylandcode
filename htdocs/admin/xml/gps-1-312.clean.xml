@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-312" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-1-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">During each county's fiscal year, the county may spend the amounts distributed to it from 9-1-1 fee collections for the installation, enhancement, maintenance, and operation of a county or multicounty 9-1-1 system.</section>
     <section prefix="(b)">Subject to the provisions of subsection (c) of this section, maintenance and operation costs may include telephone company charges, equipment costs, equipment lease charges, repairs, utilities, personnel costs, and appropriate carryover costs from previous years.</section>
     <section prefix="(c)">During a year in which a county raises its local additional charge under &#xA7; 1-311 of this subtitle, the county:<section prefix="(1)">may use 9-1-1 trust funds only to supplement levels of spending by the county for 9-1-1 maintenance or operations; and</section><section prefix="(2)">may not use 9-1-1 trust funds to supplant spending by the county for 9-1-1 maintenance or operations.</section></section>
     <section prefix="(d)">The Board shall provide for an audit of each county's expenditures for the maintenance and operation of the county's 9-1-1 system.</section>
     <section prefix="(e)">
-      <section prefix="(1)">For a county without an operational Phase II wireless enhanced 9-1-1 system within the time frames established by the Board under &#xA7; 1-306(b)(6) of this subtitle, the Board shall adopt procedures, to take effect on or after January 1, 2006, to assure that:<section prefix="(i)">the money collected from the additional charge and distributed to the county are expended during the county's fiscal year as follows:</section><section prefix="(ii)">the total amount collected from the 9-1-1 fee and the additional charge shall be expended only for the installation, enhancement, maintenance, and operation of a county or multicounty system.</section></section>
+      <section prefix="(1)">For a county without an operational Phase II wireless enhanced 9-1-1 system within the time frames established by the Board under &#xA7; 1-306(b)(6) of this subtitle, the Board shall adopt procedures, to take effect on or after January 1, 2006, to assure that:<section prefix="(i)">the money collected from the additional charge and distributed to the county are expended during the county's fiscal year as follows:<section prefix="1.">for a 9-1-1 system in a county or a multicounty area with a population of 100,000 individuals or less, a maximum of 85% may be spent for personnel costs; and</section><section prefix="2.">for a 9-1-1 system in a county or multicounty area with a population of over 100,000 individuals, a maximum of 70% may be spent for personnel costs; and</section></section><section prefix="(ii)">the total amount collected from the 9-1-1 fee and the additional charge shall be expended only for the installation, enhancement, maintenance, and operation of a county or multicounty system.</section></section>
       <section prefix="(2)">The Board may grant an exception to the provisions of paragraph (1) of this subsection in extenuating circumstances.</section>
       <section prefix="(3)">A county with an operational Phase II wireless enhanced 9-1-1 system is exempt from the provisions of paragraph (1) of this subsection.</section>
     </section>

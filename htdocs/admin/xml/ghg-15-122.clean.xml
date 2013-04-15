@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-122" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The spouse of a Program recipient is responsible for payments for the health care needs of the Program recipient to the extent that the spouse is able to pay any of the cost of care. Except as provided in paragraph (2) of this subsection, the total liability shall be limited to the amount spent for the care under the Program.</section>

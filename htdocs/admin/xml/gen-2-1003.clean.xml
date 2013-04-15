@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1003" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-1003</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1003</order_by>
   <text>
     <section prefix="(a)">Beginning December 1, 2007, and each year thereafter, a person that owns, leases, operates, or controls an affected facility shall submit to the Department, the Department of Natural Resources, and the Public Service Commission, a report that includes:<section prefix="(1)">Emissions performance results related to compliance with the emissions requirements under &#xA7; 2-1002 of this subtitle;</section><section prefix="(2)">The number of pounds of oxides of nitrogen, sulfur dioxide, mercury, and carbon dioxide emitted during the previous calendar year from the affected facility;</section><section prefix="(3)">A current compliance plan; and</section><section prefix="(4)">Any other information requested by the Department.</section></section>
     <section prefix="(b)">The Department shall review the information submitted under this section to determine whether the actual and proposed modifications and permit and construction schedules are adequate to achieve the emissions requirements under this subtitle and shall make these determinations publicly available on an annual basis.</section>

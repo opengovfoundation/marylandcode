@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-117" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-6-117</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>117</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -13,7 +13,7 @@
       <section prefix="(3)">"Earned compliance credit" means a 20-day reduction from the period of active supervision of the supervised individual for every month that a supervised individual:<section prefix="(i)">exhibits full compliance with the conditions, goals, and treatment as part of the supervised individual's probation, parole, or mandatory release supervision, as determined by the Department;</section><section prefix="(ii)">has no new arrests;</section><section prefix="(iii)">has not violated any conditions of no contact imposed on the supervised individual;</section><section prefix="(iv)">is current on court ordered payments for restitution, fines, and fees relating to the offense for which earned compliance credits are being accrued; and</section><section prefix="(v)">is current in completing any community supervision requirements included in the conditions of the supervised individual's probation, parole, or mandatory release supervision.</section></section>
       <section prefix="(4)">
         <section prefix="(i)">"Supervised individual" means an individual placed on probation by a court or serving a period of parole or mandatory release supervision after release from a correctional facility.</section>
-        <section prefix="(ii)">"Supervised individual" does not include:</section>
+        <section prefix="(ii)">"Supervised individual" does not include:<section prefix="1.">a person incarcerated, on probation, or convicted in this State for a crime of violence;</section><section prefix="2.">a person incarcerated, on probation, or convicted in this State for a crime under Title 3, Subtitle 3, of the Criminal Law Article;</section><section prefix="3.">a person incarcerated, on probation, or convicted in this State for a violation of &#xA7; 2-503, &#xA7; 5-602 through &#xA7; 5-617, &#xA7; 5-627, or &#xA7; 5-628 of the Criminal Law Article;</section><section prefix="4.">a person registered or eligible for registration under Title 11, Subtitle 7 of the Criminal Procedure Article;</section><section prefix="5.">a person who was convicted in any other jurisdiction of a crime and the person's supervision was transferred to this State; or</section><section prefix="6.">a person who was convicted in this State of a crime and the person's supervision was transferred to another state.</section></section>
       </section>
     </section>
     <section prefix="(b)">The Department shall:<section prefix="(1)">establish a program to implement earned compliance credits; and</section><section prefix="(2)">adopt policies and procedures to implement the program.</section></section>

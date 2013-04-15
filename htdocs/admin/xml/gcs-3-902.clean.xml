@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-902" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>902</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"State postconviction review process" means the initial adjudication of a postconviction petition filed under &#xA7; 7-103 of the Criminal Procedure Article, including any appellate review of the postconviction proceeding.</section>
-        <section prefix="(ii)">"State postconviction review process" does not include:</section>
+        <section prefix="(ii)">"State postconviction review process" does not include:<section prefix="1.">a postconviction proceeding that has been reopened under &#xA7; 7-104 of the Criminal Procedure Article or any appellate review of the proceeding; or</section><section prefix="2.">a postconviction proceeding on a second petition filed before October 1, 1995, or any appellate review of the proceeding.</section></section>
       </section>
       <section prefix="(3)">"Warrant of execution" means a warrant for the execution of a sentence of death on the individual against whom the sentence was imposed.</section>
     </section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-210" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-23-210</section_number>
-  <catch_line/>
+  <catch_line>Suspension, revocation, or surrender of a registration does not affect the obligation of an insured ...</catch_line>
+  <order_by>210</order_by>
   <text>Suspension, revocation, or surrender of a registration does not affect the obligation of an insured under a lawful premium finance agreement previously acquired or held by the registrant.</text>
 </law>

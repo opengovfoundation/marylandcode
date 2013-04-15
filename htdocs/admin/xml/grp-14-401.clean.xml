@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-401" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-401</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "Maryland Coordinate System" means the system of plane rectangular coordinates tha...</catch_line>
+  <order_by>401</order_by>
   <text>In this subtitle, "Maryland Coordinate System" means the system of plane rectangular coordinates that has been established and adopted by the National Geodetic Survey for defining and stating the positions or locations of points on the surface of the earth within the State.</text>
 </law>

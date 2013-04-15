@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-509" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, the liability of an employer under this title is exclusive.</section>
     <section prefix="(b)">Except as otherwise provided in this title, the compensation provided under this title to a covered employee or the dependents of a covered employee is in place of any right of action against any person.</section>

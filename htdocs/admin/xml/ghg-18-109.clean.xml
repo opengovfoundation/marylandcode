@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-109" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -19,7 +19,7 @@
       <section prefix="(1)">An individual, or the parent or guardian of a minor child who has received an immunization, may refuse to permit disclosure of confidential information collected by ImmuNet, to an authorized user.</section>
       <section prefix="(2)">If the individual or the parent or guardian of a minor child does not want the release of the individual's or child's confidential information, the individual or the parent or guardian of a minor child shall complete a "refusal to permit" form, provided by the Department, to be returned to the Department.</section>
       <section prefix="(3)">The Secretary shall distribute "refusal to permit" forms to each health care provider who gives immunizations.</section>
-      <section prefix="(4)">The Department shall:<section prefix="(i)">Develop brochures about ImmuNet that:</section><section prefix="(ii)">Distribute copies of the brochure to each health care provider who administers immunizations.</section></section>
+      <section prefix="(4)">The Department shall:<section prefix="(i)">Develop brochures about ImmuNet that:<section prefix="1.">Describe the benefits of ImmuNet for authorized users;</section><section prefix="2.">Describe privacy protections in ImmuNet;</section><section prefix="3.">Notify an individual of the right to refuse to permit disclosure to an authorized user;</section><section prefix="4.">Notify an individual that the individual may correct any inaccurate information;</section><section prefix="5.">Provide a list of addresses where an individual may obtain a form to request the correction or removal of inaccurate information from ImmuNet;</section><section prefix="6.">Explain the right of an individual who has received an immunization to have the individual's personal information kept confidential;</section><section prefix="7.">Describe the kind of information collected and retained by ImmuNet about an individual who receives an immunization;</section><section prefix="8.">Describe who has access to the information in ImmuNet; and</section><section prefix="9.">Describe how the information is used by ImmuNet; and</section></section><section prefix="(ii)">Distribute copies of the brochure to each health care provider who administers immunizations.</section></section>
       <section prefix="(5)">Prior to administering immunizations to a newborn child, each birth hospital or birthing center shall distribute the form and the brochure described in paragraphs (2) and (4) of this subsection to the parent of a newborn child.</section>
       <section prefix="(6)">A health care provider who administers an immunization, or the agent of the health care provider, shall:<section prefix="(i)">Provide the individual with a copy of the form and the brochure described in paragraphs (2) and (4) of this subsection; and</section><section prefix="(ii)">Notify the individual or the parent or guardian of a minor of the right to refuse to disclose to ImmuNet.</section></section>
     </section>

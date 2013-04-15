@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-8A-20.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-8A-20.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>20.1</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "treatment service plan" means a plan recommended at a disposition hearing under &#xA7; 3-8A-19 of this subtitle or at a disposition review hearing under this section by the Department of Juvenile Services to the court proposing specific assistance, guidance, treatment, or rehabilitation of a child.</section>

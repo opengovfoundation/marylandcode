@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-109" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-3-109</section_number>
-  <catch_line/>
+  <catch_line>The areas of critical State concern element shall include the planning commission's recommendations ...</catch_line>
+  <order_by>109</order_by>
   <text>The areas of critical State concern element shall include the planning commission's recommendations for the determination, identification, and designation of areas within the local jurisdiction that are of critical State concern.</text>
 </law>

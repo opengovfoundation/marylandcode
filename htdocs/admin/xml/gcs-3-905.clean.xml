@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-905" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">The manner of inflicting the punishment of death shall be the continuous intravenous administration of a lethal quantity of an ultrashort-acting barbiturate or other similar drug in combination with a chemical paralytic agent until a licensed physician pronounces death according to accepted standards of medical practice.</section>
     <section prefix="(b)">

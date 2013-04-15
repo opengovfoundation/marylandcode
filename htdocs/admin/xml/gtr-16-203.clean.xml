@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-203" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">In this section, "Child Support Enforcement Administration" means the Child Support Enforcement Administration of the Department of Human Resources.</section>
     <section prefix="(b)">On notification by the Child Support Enforcement Administration in accordance with &#xA7; 10-119 of the Family Law Article that an obligor is 60 days or more out of compliance with the most recent order of the court in making child support payments, the Administration:<section prefix="(1)">Shall suspend an obligor's license or privilege to drive in the State; and</section><section prefix="(2)">May issue a work-restricted license or work-restricted privilege to drive.</section></section>

@@ -38,9 +38,10 @@ $body = '';
  * Initialize the sidebar variable.
  */
 $sidebar = '
-	<section>
-	<p>Powered by <a href="http://www.statedecoded.com/">The State Decoded</a>.</p>
-	</section>';
+<section>
+<p>Powered by <a href="http://www.statedecoded.com/">The State Decoded</a>.</p>
+</section>
+';
 
 
 /*

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-202" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-1-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">No person who has received an absolute divorce from the decedent or whose marriage to the decedent has been validly annulled is a surviving spouse.</section>
     <section prefix="(b)">No person who has voluntarily appeared in a proceeding in which an absolute divorce between the decedent and the survivor, or an annulment of their marriage was obtained, even though not recognized as valid in this State, is a surviving spouse. This subsection does not apply if the parties to the divorce or annulment subsequently remarry each other.</section>

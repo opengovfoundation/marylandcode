@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-107" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-5-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">If the county commissioners or county council does not appropriate the amount requested by the county board for capital projects, it shall indicate in writing which projects have been reduced, deferred, or eliminated and the reason for the reduction, deferral, or elimination.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-201" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-26-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this section, "academic paper" means any theme, essay, term paper, book report, report, thesis, dissertation, or other written assignment.</section>
     <section prefix="(b)">A person may not sell or offer for sale any assistance in the preparation, research, or writing of an academic paper if he knows that the buyer intends to submit the academic paper substantially unchanged to an educational institution as the original work of someone other than the author, in fulfilling the requirements for a degree, diploma, certificate, or course of study.</section>

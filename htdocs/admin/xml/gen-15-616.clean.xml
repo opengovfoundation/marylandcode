@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-616" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-616</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>616</order_by>
   <text>
     <section prefix="(a)">Within 30 days after an operation is abandoned or completed, the operator shall file with the Department a completion report on a form prescribed and furnished by the Secretary.</section>
     <section prefix="(b)">The operator shall attach to the completion report:<section prefix="(1)">A map of the operation certified by a surveyor or engineer that shows the boundary lines of the tract and the access to the operation from the nearest public highway;</section><section prefix="(2)">The area of land affected by the deep mining operation; and</section><section prefix="(3)">Details of the completed reclamation work.</section></section>

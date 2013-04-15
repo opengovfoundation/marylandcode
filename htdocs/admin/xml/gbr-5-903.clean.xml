@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-903" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-903</section_number>
-  <catch_line/>
+  <catch_line>Unless a person is authorized as a registrant, a person may not represent to the public, by use of a...</catch_line>
+  <order_by>903</order_by>
   <text>Unless a person is authorized as a registrant, a person may not represent to the public, by use of a title, including cemeterian, registered cemeterian, crematory operator, registered crematory operator, burial goods seller, or registered seller, by description of services, methods, or procedures, or otherwise, that the person is authorized to engage in the operation of a cemetery or crematory or provide burial goods.</text>
 </law>

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-125.2" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-125.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>125.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Local code violation" means a violation under the following provisions of the Harford County Code as amended from time to time or under any applicable code relating to the following provisions incorporated in the Harford County Code by reference, or comparable provisions within the codes of the incorporated municipalities of Aberdeen, Havre de Grace, and Bel Air:<section prefix="(i)">Chapter 64 - Animals;</section><section prefix="(ii)">Chapter 82 - Building Construction;</section><section prefix="(iii)">Chapter 84 - Buildings, General;</section><section prefix="(iv)">Chapter 109 - Environmental Control;</section><section prefix="(v)">Chapter 157 - Licenses and Permits;</section><section prefix="(vi)">Chapter 162 - Livability Code;</section><section prefix="(vii)">Chapter 173 - Mobile Homes and Trailers; and</section><section prefix="(viii)">Chapter 179 - Nuisances and Public Health.</section></section>
-      <section prefix="(3)">"Nuisance" means:<section prefix="(i)">An act or condition created, performed, or maintained on private property that constitutes a local code violation and that:</section><section prefix="(ii)">A property where the tenant, owner, or other occupant has been convicted of violations of &#xA7; 10-201 or &#xA7; 10-202 of the Criminal Law Article for conduct occurring on, in, or in relation to the property;</section><section prefix="(iii)">A property to which police or other law enforcement agencies have responded to complaints or calls for service 4 or more times within any 30-day period and that:</section><section prefix="(iv)">A property where the tenant, owner, or other occupant has been convicted of violations of any criminal law occurring on, in, or in relation to the property and is related to the activities of a criminal gang as defined in &#xA7; 9-801 of the Criminal Law Article; or</section><section prefix="(v)">A building, structure, dwelling, dwelling unit, or accessory structure that:</section></section>
+      <section prefix="(3)">"Nuisance" means:<section prefix="(i)">An act or condition created, performed, or maintained on private property that constitutes a local code violation and that:<section prefix="1.">Negatively impacts the well-being of other residents; and</section><section prefix="2."/></section><section prefix="(ii)">A property where the tenant, owner, or other occupant has been convicted of violations of &#xA7; 10-201 or &#xA7; 10-202 of the Criminal Law Article for conduct occurring on, in, or in relation to the property;</section><section prefix="(iii)">A property to which police or other law enforcement agencies have responded to complaints or calls for service 4 or more times within any 30-day period and that:<section prefix="1.">Negatively impacts the well-being of other residents; and</section><section prefix="2."/></section><section prefix="(iv)">A property where the tenant, owner, or other occupant has been convicted of violations of any criminal law occurring on, in, or in relation to the property and is related to the activities of a criminal gang as defined in &#xA7; 9-801 of the Criminal Law Article; or</section><section prefix="(v)">A building, structure, dwelling, dwelling unit, or accessory structure that:<section prefix="1.">Contains defects due to inadequate maintenance, obsolescence, or abandonment that increase the hazard of fire, accident, or other calamity; or</section><section prefix="2.">Is unsafe, unsanitary, dangerous, or detrimental to the health, safety, or general welfare of the community due to lack of maintenance, inadequate ventilation, light, sanitary facilities, or other conditions.</section></section></section>
     </section>
     <section prefix="(b)">This section only applies to a nuisance located within the boundaries of Harford County.</section>
     <section prefix="(c)">An action to abate a nuisance may be brought under this section and &#xA7; 4-401 of the Courts Article by the State's Attorney for Harford County.</section>
@@ -22,8 +22,8 @@
       </section>
       <section prefix="(3)">
         <section prefix="(i)">An action may not be brought under this section until 60 days after the tenant, if any, and owner of record receive notice from the State's Attorney that a nuisance exists and that legal action may be taken if the nuisance is not abated.</section>
-        <section prefix="(ii)">The notice shall specify:</section>
-        <section prefix="(iii)">The notice shall indicate:</section>
+        <section prefix="(ii)">The notice shall specify:<section prefix="1.">The nature of the alleged nuisance;</section><section prefix="2.">The date and time of day the nuisance was first discovered;</section><section prefix="3.">The location on the property where the nuisance is allegedly occurring; and</section><section prefix="4.">The relief sought.</section></section>
+        <section prefix="(iii)">The notice shall indicate:<section prefix="1.">The nature of the proceedings;</section><section prefix="2.">The time and place of the hearing; and</section><section prefix="3.">The name and telephone number of the person to contact for additional information.</section></section>
       </section>
       <section prefix="(4)">In filing a suit under this section, the State's Attorney shall certify to the court:<section prefix="(i)">What steps the State's Attorney has taken to satisfy the notice requirements under this subsection; and</section><section prefix="(ii)">That each condition precedent to the filing of an action under this section has been met.</section></section>
     </section>

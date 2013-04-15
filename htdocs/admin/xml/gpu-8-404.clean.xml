@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-404" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-404</section_number>
-  <catch_line/>
+  <catch_line>Unless the telephone company or reseller complies with authorization and confirmation procedures ado...</catch_line>
+  <order_by>404</order_by>
   <text>Unless the telephone company or reseller complies with authorization and confirmation procedures adopted by the Commission and by federal law and regulation, a telephone company or reseller may not, on behalf of a customer:<section prefix=""><section prefix="(1)">change, or direct another telephone company or reseller to change, the customer's telephone company or reseller;</section><section prefix="(2)">select a telecommunications service option for which the telephone company or reseller imposes a charge; or</section><section prefix="(3)">change the person who bills the customer or the customer's billing arrangement.</section></section></text>
 </law>

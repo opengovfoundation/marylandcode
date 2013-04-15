@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-606" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except for life insurance, health insurance, and annuities, an insurer that intends to cancel or not renew a line of business shall file a plan of withdrawal with the Commissioner at least 180 days before the date of the proposed withdrawal.</section>

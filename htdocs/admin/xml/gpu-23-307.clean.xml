@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-307" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-23-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">If the statement of objectives included in the Program as provided in &#xA7; 23-303 of this subtitle declares that a major project to be constructed in whole or in part in one county is designed to provide services in whole or in substantial part to the other county, the major project may be disapproved with the concurrence of the county council of the county that is to receive the services.</section>
     <section prefix="(b)">

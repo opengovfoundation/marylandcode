@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="9A-803" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-9A-803</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803</order_by>
   <text>
     <section prefix="(a)">After dissolution, a partner who has not wrongfully dissociated may participate in winding up the partnership's business, but on application of any partner, partner's legal representative, or transferee, the circuit court for the county in which the principal office of the partnership is located, for good cause shown, may order judicial supervision of the winding up.</section>
     <section prefix="(b)">The legal representative of the last surviving partner may wind up a partnership's business.</section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-805" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-805</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>805</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Participation in the Fund by a medical professional liability insurer shall be voluntary.</section>
-      <section prefix="(2)">A medical professional liability insurer seeking reimbursement from the Rate Stabilization Account shall:<section prefix="(i)">determine the amount of the subsidy for each policyholder; and</section><section prefix="(ii)">send a written notice to each policyholder stating:</section></section>
+      <section prefix="(2)">A medical professional liability insurer seeking reimbursement from the Rate Stabilization Account shall:<section prefix="(i)">determine the amount of the subsidy for each policyholder; and</section><section prefix="(ii)">send a written notice to each policyholder stating:<section prefix="1.">the amount of the estimated annual subsidy provided by the State; and</section><section prefix="2.">the procedure a health care provider shall follow if electing not to receive a rate reduction, credit, or refund.</section></section></section>
     </section>
     <section prefix="(b)">Subject to &#xA7; 19-804(d) of this subtitle and subsection (c) of this section, the subsidy provided to each policyholder shall be:<section prefix="(1)">for medical professional liability insurance policies subject to rates that were approved for an initial effective date on or after January 1, 2005, but prior to January 1, 2006, the amount of a premium increase that is greater than 5% of the approved rates in effect 1 year prior to the effective date of the policy; and</section><section prefix="(2)">for medical professional liability insurance policies subject to rates that were approved for an initial effective date on or after January 1, 2006, a percentage of the policyholder's premium for the prior year that equals the quotient, measured as a percentage of the balance of the Rate Stabilization Account for the current calendar year divided by the aggregate amount of premiums for medical professional liability insurance that would have been paid by health care providers at the approved rate during the prior calendar year.</section></section>
     <section prefix="(c)">The State subsidy calculated under subsection (b) of this section may not include the amount of a rate increase resulting from a premium surcharge or the loss of a discount due to a health care provider's loss experience.</section>

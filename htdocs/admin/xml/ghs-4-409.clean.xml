@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-409" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-409</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>409</order_by>
   <text>
     <section prefix="(a)">Money in the Fund may be used to make a deferred payment loan to an approved applicant to:<section prefix="(1)">acquire, construct, or rehabilitate an elderly rental housing project; or</section><section prefix="(2)">convert existing rental housing to an elderly rental housing project.</section></section>
     <section prefix="(b)">A deferred payment loan under this section may be subordinate to other financing.</section>

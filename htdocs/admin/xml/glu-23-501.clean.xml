@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="23-501" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-23-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">The county planning board or the governing body of the appropriate county may institute injunction, mandamus, or other appropriate action or proceedings to compel the construction and installation of improvements or conservation of resources at a time and according to specifications set by or in accordance with this division.</section>
     <section prefix="(b)">Any court of competent jurisdiction has jurisdiction to issue restraining orders, temporary or permanent injunctions, mandamus, or other appropriate forms of remedy or relief.</section>

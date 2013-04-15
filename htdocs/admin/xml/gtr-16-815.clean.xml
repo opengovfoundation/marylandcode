@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-815" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-815</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>815</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A Class A commercial driver's license authorizes the licensee to drive the following motor vehicles and combinations of motor vehicles:<section prefix="(i)">Any combination of vehicles with a gross combination weight rating of 26,001 or more pounds if the GVWR of the vehicles being towed is in excess of 10,000 pounds; and</section><section prefix="(ii)">Any vehicle or combination of vehicles that a Class B commercial driver's license authorizes its holder to drive.</section></section>

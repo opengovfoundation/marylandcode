@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-107" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-5-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">A confirmer is directly obligated on a letter of credit and has the rights and obligations of an issuer to the extent of its confirmation. The confirmer also has rights against and obligations to the issuer as if the issuer were an applicant and the confirmer had issued the letter of credit at the request and for the account of the issuer.</section>
     <section prefix="(b)">A nominated person who is not a confirmer is not obligated to honor or otherwise give value for a presentation.</section>

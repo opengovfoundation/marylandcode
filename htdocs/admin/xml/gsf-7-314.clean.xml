@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-314" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-7-314</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>314</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Account" means the Economic Development Opportunities Program Account.</section>
       <section prefix="(3)">"Executive agency" means an executive department or agency in the Executive Branch of State government, including all offices of the Executive Department or agency directly responsible to the Governor.</section>
-      <section prefix="(4)">"Extraordinary economic development opportunity" means the:<section prefix="(i)">attraction of a new private sector enterprise to the State or retention or expansion of an existing private sector enterprise in the State that:</section><section prefix="(ii)">retention or expansion of an existing public institution, private institution, or federal research and development institute that:</section><section prefix="(iii)">establishment or attraction of a public institution, a private institution, or a federal research and development institute new to the State that:</section></section>
+      <section prefix="(4)">"Extraordinary economic development opportunity" means the:<section prefix="(i)">attraction of a new private sector enterprise to the State or retention or expansion of an existing private sector enterprise in the State that:<section prefix="1.">maintains a strong financial condition and minimal credit risk profile;</section><section prefix="2.">is capable of accessing alternative sources of financing through financial institutions or capital markets;</section><section prefix="3.">is consistent with the strategic plan of the State for economic development;</section><section prefix="4.">creates or retains substantial employment, particularly in areas of high unemployment; and</section><section prefix="5.">invests in capital at a level equal to five times the value of the incentive offered;</section></section><section prefix="(ii)">retention or expansion of an existing public institution, private institution, or federal research and development institute that:<section prefix="1.">is consistent with the strategic plan of the State for economic development; and</section><section prefix="2.">creates or retains substantial employment, particularly in areas of high unemployment; or</section></section><section prefix="(iii)">establishment or attraction of a public institution, a private institution, or a federal research and development institute new to the State that:<section prefix="1.">is consistent with the strategic plan of the State for economic development; and</section><section prefix="2.">creates or retains substantial employment, particularly in areas of high unemployment.</section></section></section>
       <section prefix="(5)">
         <section prefix="(i)">"Performance requirement" means a contractual agreement between an executive agency and an Account recipient that requires the Account recipient to meet minimum economic development outcomes in exchange for a grant or a loan under this section.</section>
         <section prefix="(ii)">"Performance requirement" includes claw-back, penalty, rescission, and recalibration clauses that utilize job creation, capital investment, and other measures of economic development.</section>
@@ -65,7 +65,7 @@
       <section prefix="(4)">
         <section prefix="(i)">In this paragraph, "minority business enterprise" has the meaning stated in &#xA7; 14-301 of this article.</section>
         <section prefix="(ii)">With respect to financial assistance under this section to an entity other than a political subdivision, the entity shall agree to include in the agreement providing the financial assistance a provision acceptable to the Department of Business and Economic Development that would encourage the procurement from minority business enterprises of goods or services purchased with the proceeds from the financial assistance.</section>
-        <section prefix="(iii)">In negotiating the provision required under subparagraph (ii) of this paragraph, the Department of Business and Economic Development shall take into account relevant factors, including:</section>
+        <section prefix="(iii)">In negotiating the provision required under subparagraph (ii) of this paragraph, the Department of Business and Economic Development shall take into account relevant factors, including:<section prefix="1.">the intended use of the proceeds from the financial assistance; and</section><section prefix="2.">the feasibility of obtaining the required goods or services from minority business enterprises.</section></section>
       </section>
       <section prefix="(5)">The Department of Business and Economic Development may require that a recipient of financial assistance under this section submit to the Department of Business and Economic Development a list, or an updated list, of the minority business enterprises from which goods or services were procured and the nature and dollar amount of the goods or services.</section>
     </section>

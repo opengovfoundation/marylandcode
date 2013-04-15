@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-205" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">In this section, "smoking" means the act of smoking or carrying a burning:<section prefix="(1)">Cigar;</section><section prefix="(2)">Cigarette;</section><section prefix="(3)">Pipe; or</section><section prefix="(4)">Other tobacco product of any kind.</section></section>
     <section prefix="(b)">Every director of a nursing home, health clinic, or physician's office shall make and carry out a plan that adequately protects the health of nonsmoking patients by regulating the smoking of tobacco products on the premises.</section>

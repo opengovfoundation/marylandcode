@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-105" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-105</section_number>
-  <catch_line/>
+  <catch_line>In any custody or visitation proceeding, if the court determines that a party to a custody or visita...</catch_line>
+  <order_by>105</order_by>
   <text>In any custody or visitation proceeding, if the court determines that a party to a custody or visitation order has unjustifiably denied or interfered with visitation granted by a custody or visitation order, the court may, in addition to any other remedy available to the court and in a manner consistent with the best interests of the child, take any or all of the following actions:<section prefix=""><section prefix="(1)">order that the visitation be rescheduled;</section><section prefix="(2)">modify the custody or visitation order to require additional terms or conditions designed to ensure future compliance with the order; or</section><section prefix="(3)">assess costs or counsel fees against the party who has unjustifiably denied or interfered with visitation rights.</section></section></text>
 </law>

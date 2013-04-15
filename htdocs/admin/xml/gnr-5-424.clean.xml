@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-424" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-424</section_number>
-  <catch_line/>
+  <catch_line>"Urban and community forestry" means the management of forests and trees in urban and community area...</catch_line>
+  <order_by>424</order_by>
   <text>"Urban and community forestry" means the management of forests and trees in urban and community areas to improve their health, vigor, and composition.</text>
 </law>

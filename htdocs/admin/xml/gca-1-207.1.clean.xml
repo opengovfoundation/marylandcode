@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-207.1" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-207.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207.1</order_by>
   <text>
     <section prefix="(a)">A corporation may file a certificate of notice for record with the Department.</section>
     <section prefix="(b)">A certificate of notice may describe:<section prefix="(1)">An action by the corporation, its board of directors, or its stockholders;</section><section prefix="(2)">The occurrence of or change to facts ascertainable outside of the charter, as defined in &#xA7; 2-105(b) of this article;</section><section prefix="(3)">The expiration of the period of existence of the corporation in accordance with &#xA7; 3-519 of this article; or</section><section prefix="(4)">Any other information that the corporation determines should be disclosed.</section></section>

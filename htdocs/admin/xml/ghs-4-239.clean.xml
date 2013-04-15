@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-239" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-239</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>239</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A loan from the Administration to an eligible mortgage lender shall require the eligible mortgage lender to make mortgage loans in principal amounts that add up to at least the amount of the loan from the Administration to:<section prefix="(i)">families of limited income; or</section><section prefix="(ii)">sponsors of community development projects.</section></section>
@@ -20,7 +20,7 @@
       <section prefix="(2)">The Administration shall require that:<section prefix="(i)">the collateral be held by a bank or trust company as independent custodian; or</section><section prefix="(ii)">the mortgage lender enter into a security agreement containing provisions that the Administration considers necessary to identify, maintain, and service the collateral.</section></section>
     </section>
     <section prefix="(d)">
-      <section prefix="(1)">The security agreement shall:<section prefix="(i)">provide that the mortgage lender:</section><section prefix="(ii)">require that the income from the collateral be applied only in accordance with the agreement.</section></section>
+      <section prefix="(1)">The security agreement shall:<section prefix="(i)">provide that the mortgage lender:<section prefix="1.">holds the collateral as an agent for the Administration; and</section><section prefix="2.">is accountable as the trustee of an express trust for the application and disposition of the collateral; and</section></section><section prefix="(ii)">require that the income from the collateral be applied only in accordance with the agreement.</section></section>
       <section prefix="(2)">A copy of each security agreement shall be filed with the Secretary of State.</section>
       <section prefix="(3)">Further filing or other action under the Commercial Law Article or any other law of the State is not required to perfect the security interest of the Administration in the collateral or its proceeds or in any addition to or substitution for the collateral or its proceeds.</section>
       <section prefix="(4)">Once filed, liens and trusts created for the benefit of the Administration under this subsection are binding against each person with a claim against the mortgage lender.</section>

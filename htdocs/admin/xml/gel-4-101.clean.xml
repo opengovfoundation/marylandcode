@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-101" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-4-101</section_number>
-  <catch_line/>
+  <catch_line>Except as to a matter of compelling State interest, if any provision of this title relating to party...</catch_line>
+  <order_by>101</order_by>
   <text>Except as to a matter of compelling State interest, if any provision of this title relating to party governance conflicts with the constitution and bylaws of a political party, the constitution and bylaws shall apply to the extent of the conflict.</text>
 </law>

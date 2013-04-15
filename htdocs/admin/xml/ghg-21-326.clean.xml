@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-326" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-326</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>326</order_by>
   <text>
     <section prefix="(a)">Each food service facility which prepares food and provides seating for patrons shall post a diagram or illustrative directions on the use of manual maneuvers to prevent asphyxiation due to choking.</section>
     <section prefix="(b)">A person who applies the maneuvers depicted in a diagram posted under this section to remove food lodged in the throat of another is liable only if the person's actions amount to gross negligence.</section>

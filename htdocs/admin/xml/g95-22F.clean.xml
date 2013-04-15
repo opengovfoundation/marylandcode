@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g95" order_by="" level="1"/>
-    <unit label="chapter" identifier="22F" order_by="" level="2"/>
+    <unit label="article" identifier="g95" order_by="" level="1">Treasurer</unit>
   </structure>
   <section_number>g95-22F</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>22F</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -18,7 +18,7 @@
       <section prefix="(5)">"Governing body" means:<section prefix="(i)">For Baltimore City, the Baltimore City Board of Estimates;</section><section prefix="(ii)">For a nonhome rule county, the county commissioners;</section><section prefix="(iii)">For a charter county, as provided by local law, the county council or the county executive and the county council;</section><section prefix="(iv)">For a code county, the county commissioners;</section><section prefix="(v)">For a community college, the board of trustees;</section><section prefix="(vi)">For a municipal corporation, the body provided by the municipal charter;</section><section prefix="(vii)">For the Washington Suburban Sanitary Commission, the Commission;</section><section prefix="(viii)">For a public corporation, the board of directors; and</section><section prefix="(ix)">For an authority, the board of the authority.</section></section>
       <section prefix="(6)">"Local government unit" means:<section prefix="(i)">Baltimore City;</section><section prefix="(ii)">A community college;</section><section prefix="(iii)">A county;</section><section prefix="(iv)">A municipal corporation;</section><section prefix="(v)">The Washington Suburban Sanitary Commission;</section><section prefix="(vi)">A public corporation authorized to issue debt; or</section><section prefix="(vii)">An authority of the State authorized to issue debt.</section></section>
       <section prefix="(7)">
-        <section prefix="(i)">"Public funds" means any revenue held by a local government unit as part of:</section>
+        <section prefix="(i)">"Public funds" means any revenue held by a local government unit as part of:<section prefix="1.">A general fund;</section><section prefix="2.">A special fund;</section><section prefix="3.">A capital improvement fund;</section><section prefix="4.">A debt service fund;</section><section prefix="5.">An enterprise fund;</section><section prefix="6.">An internal service fund; or</section><section prefix="7.">Except as otherwise provided in subparagraph (ii) of this paragraph, any other account of the local government unit.</section></section>
         <section prefix="(ii)">"Public funds" does not include revenues held as part of a pension fund, other postemployment benefits fund, trust fund account, or for self-insurance purposes.</section>
       </section>
     </section>
@@ -26,10 +26,10 @@
     <section prefix="(c)">
       <section prefix="(1)">
         <section prefix="(i)">After consulting with local government officials, the State Treasurer shall adopt by regulation local government investment guidelines to govern the investment of public funds by local government units in a manner that will facilitate sound cash management while protecting the public and assuring that a local government unit has access to its public funds as required.</section>
-        <section prefix="(ii)">The State Treasurer's local government investment guidelines shall:</section>
+        <section prefix="(ii)">The State Treasurer's local government investment guidelines shall:<section prefix="1.">State the types of investments in which public funds may be invested;</section><section prefix="2.">Include guidance for the prudent investment of public funds based on cash flow projections, income, liquidity, investment ratings, and risk;</section><section prefix="3.">Require that investments by a board of education and a board of library trustees are in compliance with the local investment policy of the respective county; and</section><section prefix="4.">Prohibit borrowing of funds for the express purpose of investing those funds.</section></section>
       </section>
       <section prefix="(2)">
-        <section prefix="(i)">The governing body of each local government unit shall adopt by resolution a local investment policy that:</section>
+        <section prefix="(i)">The governing body of each local government unit shall adopt by resolution a local investment policy that:<section prefix="1.">Is consistent with the local government investment guidelines adopted by the State Treasurer; and</section><section prefix="2.">Meets the individual needs of the local government unit.</section></section>
         <section prefix="(ii)">Promptly after the adoption of a local investment policy, the local government unit shall mail a certified copy to the State Treasurer.</section>
         <section prefix="(iii)">If the State Treasurer determines that the local investment policy is not consistent with the local government investment guidelines adopted by the State Treasurer, the State Treasurer shall notify the local government unit and the governing body of the local government unit shall prepare and submit a revised local investment policy that is consistent with the State Treasurer's guidelines.</section>
       </section>
@@ -38,9 +38,9 @@
     </section>
     <section prefix="(d)">
       <section prefix="(1)">
-        <section prefix="(i)">On or before September 1, 2009, each local government unit shall adopt by resolution, motion, or ordinance a local debt policy that:</section>
+        <section prefix="(i)">On or before September 1, 2009, each local government unit shall adopt by resolution, motion, or ordinance a local debt policy that:<section prefix="1.">Is consistent with the Maryland Constitution, Articles 23A, 24, and 31 of the Code, and all other applicable statutes, charters, and local laws; and</section><section prefix="2.">Meets the individual needs of the local government unit.</section></section>
         <section prefix="(ii)">Promptly after the adoption of a local debt policy, the local government unit shall mail a certified copy to the State Treasurer.</section>
-        <section prefix="(iii)">If the State Treasurer determines that the local debt policy is not consistent with the Maryland Constitution, Articles 23A, 24, and 31 of the Code, or other applicable statutes, charters, or local law:</section>
+        <section prefix="(iii)">If the State Treasurer determines that the local debt policy is not consistent with the Maryland Constitution, Articles 23A, 24, and 31 of the Code, or other applicable statutes, charters, or local law:<section prefix="1.">The State Treasurer shall notify the local government unit; and</section><section prefix="2.">The local government unit shall prepare and submit a revised local debt policy.</section></section>
       </section>
       <section prefix="(2)">If the local government unit amends its local debt policy, the local government shall submit its revised policy to the State Treasurer consistent with the provisions of paragraph (1) of this subsection.</section>
     </section>

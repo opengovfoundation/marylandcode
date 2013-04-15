@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-902" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>902</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, each individual, partnership, or corporation required to file quarterly estimated income tax returns shall pay:<section prefix="(1)">at least 25% of the estimated income tax shown on the declaration or amended declaration for a taxable year:<section prefix="(i)">with the declaration or amended declaration that covers that year; and</section><section prefix="(ii)">with each quarterly return for that year; and</section></section><section prefix="(2)">any unpaid income tax for the year shown on the income tax return that covers that year, with the return.</section></section>
     <section prefix="(b)">If an individual under subsection (a) of this section files a final income tax return on or before January 31 of a taxable year, as allowed under &#xA7; 10-820(b)(3) of this title instead of paying 25% of the estimated income tax shown on the declaration or amended declaration for that year with the estimated tax return on January 15, the individual shall pay in full the unpaid income tax for that year with the final return.</section>

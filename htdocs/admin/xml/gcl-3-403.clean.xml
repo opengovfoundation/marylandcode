@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-403" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">Unless otherwise provided in this title or Title 4, an unauthorized signature is ineffective except as the signature of the unauthorized signer in favor of a person who in good faith pays the instrument or takes it for value. An unauthorized signature may be ratified for all purposes of this title.</section>
     <section prefix="(b)">If the signature of more than one person is required to constitute the authorized signature of an organization, the signature of the organization is unauthorized if one of the required signatures is lacking.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-504" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-2-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In accordance with regulations adopted under this subtitle, an individual who is convicted of a felony or a violation of &#xA7; 6-205 or &#xA7; 6-206 of the Criminal Law Article shall:<section prefix="(i)">have a DNA sample collected either at the time of sentence or on intake to a correctional facility, if the individual is sentenced to a term of imprisonment; or</section><section prefix="(ii)">provide a DNA sample as a condition of sentence or probation, if the individual is not sentenced to a term of imprisonment.</section></section>

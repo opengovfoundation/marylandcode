@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1101" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-3-1101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1101</order_by>
   <text>
     <section prefix="(a)">The St. Mary's Board consists of:<section prefix="(1)">Five voting members; and</section><section prefix="(2)">One student member.</section></section>
     <section prefix="(b)">The student member shall:<section prefix="(1)">Be an 11th or 12th grade student in the St. Mary's County Public School System;</section><section prefix="(2)">Serve for 1 year;</section><section prefix="(3)">Be a nonvoting member; and</section><section prefix="(4)">Advise the county board on the thoughts and feelings of the students.</section></section>

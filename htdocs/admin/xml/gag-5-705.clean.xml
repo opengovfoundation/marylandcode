@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-705" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">In each party state there shall be a compact administrator, who shall be selected and serve in such manner as the laws of his state may provide, and who shall:<section prefix="(1)">Assist in the coordination of activities pursuant to the compact in his state; and</section><section prefix="(2)">Represent his state on the governing board of the Insurance Fund.</section></section>
     <section prefix="(b)">If the laws of the United States specifically so provide, or if administrative provision is made therefor within the federal government, the United States may be represented on the governing board of the Insurance Fund by not to exceed three representatives. Any such representative or representatives of the United States shall be appointed and serve in such manner as may be provided by or pursuant to federal law, but no such representatives shall have a vote on the governing board or on the executive committee thereof.</section>

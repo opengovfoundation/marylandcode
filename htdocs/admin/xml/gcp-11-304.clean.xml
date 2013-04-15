@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">In this section, "statement" means:<section prefix="(1)">an oral or written assertion; or</section><section prefix="(2)">nonverbal conduct intended as an assertion, including sounds, gestures, demonstrations, drawings, and similar actions.</section></section>
     <section prefix="(b)">Subject to subsections (c), (d), and (e) of this section, the court may admit into evidence in a juvenile court proceeding or in a criminal proceeding an out of court statement to prove the truth of the matter asserted in the statement made by a child victim who:<section prefix="(1)">is under the age of 13 years; and</section><section prefix="(2)">is the alleged victim or the child alleged to need assistance in the case before the court concerning:<section prefix="(i)">child abuse under &#xA7; 3-601 or &#xA7; 3-602 of the Criminal Law Article;</section><section prefix="(ii)">rape or sexual offense under &#xA7;&#xA7; 3-303 through 3-307 of the Criminal Law Article;</section><section prefix="(iii)">attempted rape or attempted sexual offense in the first degree or in the second degree under &#xA7;&#xA7; 3-309 through 3-312 of the Criminal Law Article; or</section><section prefix="(iv)">in a juvenile court proceeding, abuse or neglect as defined in &#xA7; 5-701 of the Family Law Article.</section></section></section>
@@ -13,13 +13,13 @@
     <section prefix="(d)">
       <section prefix="(1)">Under this section, an out of court statement by a child victim may come into evidence in a criminal proceeding or in a juvenile court proceeding other than a child in need of assistance proceeding under Title 3, Subtitle 8 of the Courts Article to prove the truth of the matter asserted in the statement:<section prefix="(i)">if the statement is not admissible under any other hearsay exception; and</section><section prefix="(ii)">if the child victim testifies.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">In a child in need of assistance proceeding in the juvenile court under Title 3, Subtitle 8 of the Courts Article, an out of court statement by a child victim may come into evidence to prove the truth of the matter asserted in the statement:</section>
+        <section prefix="(i)">In a child in need of assistance proceeding in the juvenile court under Title 3, Subtitle 8 of the Courts Article, an out of court statement by a child victim may come into evidence to prove the truth of the matter asserted in the statement:<section prefix="1.">if the statement is not admissible under any other hearsay exception; and</section><section prefix="2.">regardless of whether the child victim testifies.</section></section>
         <section prefix="(ii)">If the child victim does not testify, the child victim's out of court statement will be admissible only if there is corroborative evidence that the alleged offender had the opportunity to commit the alleged abuse or neglect.</section>
       </section>
       <section prefix="(3)">To provide the defendant, child respondent, or alleged offender with an opportunity to prepare a response to the statement, the prosecuting attorney shall serve on the defendant, child respondent, or alleged offender and the attorney for the defendant, child respondent, or alleged offender within a reasonable time before the juvenile court proceeding and at least 20 days before the criminal proceeding in which the statement is to be offered into evidence, notice of:<section prefix="(i)">the State's intention to introduce the statement;</section><section prefix="(ii)">any audio or visual recording of the statement; and</section><section prefix="(iii)">if an audio or visual recording of the statement is not available, the content of the statement.</section></section>
       <section prefix="(4)">
         <section prefix="(i)">The defendant, child respondent, or alleged offender may depose a witness who will testify under this section.</section>
-        <section prefix="(ii)">Unless the State and the defendant, child respondent, or alleged offender agree or the court orders otherwise, the defendant, child respondent, or alleged offender shall file a notice of deposition:</section>
+        <section prefix="(ii)">Unless the State and the defendant, child respondent, or alleged offender agree or the court orders otherwise, the defendant, child respondent, or alleged offender shall file a notice of deposition:<section prefix="1.">in a criminal proceeding, at least 5 days before the date of the deposition; or</section><section prefix="2.">in a juvenile court proceeding, within a reasonable time before the date of the deposition.</section></section>
         <section prefix="(iii)">Except where inconsistent with this paragraph, Maryland Rule 4-261 applies to a deposition taken under this paragraph.</section>
       </section>
     </section>
@@ -29,7 +29,7 @@
     </section>
     <section prefix="(f)">In a hearing outside of the presence of the jury or before the juvenile court proceeding, the court shall:<section prefix="(1)">make a finding on the record as to the specific guarantees of trustworthiness that are in the statement; and</section><section prefix="(2)">determine the admissibility of the statement.</section></section>
     <section prefix="(g)">
-      <section prefix="(1)">In making a determination under subsection (f) of this section, the court shall examine the child victim in a proceeding in the judge's chambers, the courtroom, or another suitable location that the public may not attend unless:<section prefix="(i)">the child victim:</section><section prefix="(ii)">the court determines that an audio or visual recording of the child victim's statement makes an examination of the child victim unnecessary.</section></section>
+      <section prefix="(1)">In making a determination under subsection (f) of this section, the court shall examine the child victim in a proceeding in the judge's chambers, the courtroom, or another suitable location that the public may not attend unless:<section prefix="(i)">the child victim:<section prefix="1.">is deceased; or</section><section prefix="2.">is absent from the jurisdiction for good cause shown or the State has been unable to procure the child victim's presence by subpoena or other reasonable means; or</section></section><section prefix="(ii)">the court determines that an audio or visual recording of the child victim's statement makes an examination of the child victim unnecessary.</section></section>
       <section prefix="(2)">Except as provided in paragraph (3) of this subsection, any defendant or child respondent, attorney for a defendant or child respondent, and the prosecuting attorney may be present when the court hears testimony on whether to admit into evidence the out of court statement of a child victim under this section.</section>
       <section prefix="(3)">When the court examines the child victim as paragraph (1) of this subsection requires:<section prefix="(i)">one attorney for each defendant or child respondent, one attorney for the child victim, and one prosecuting attorney may be present at the examination; and</section><section prefix="(ii)">the court may not allow a defendant or child respondent to be present at the examination.</section></section>
     </section>

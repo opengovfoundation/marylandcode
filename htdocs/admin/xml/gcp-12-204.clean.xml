@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-12-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">In exercising the authority to seize motor vehicles under this title, a seizing authority shall apply the standards listed in subsection (b) of this section.</section>
     <section prefix="(b)">A motor vehicle used in violation of the Controlled Dangerous Substances law or this title shall be seized and forfeiture shall be recommended to the forfeiting authority if:<section prefix="(1)">any quantity of a controlled dangerous substance is sold or attempted to be sold in violation of the Controlled Dangerous Substances law or this title;</section><section prefix="(2)">an amount of the controlled dangerous substance or paraphernalia is found that reasonably shows that the violator intended to sell the controlled dangerous substance in violation of the Controlled Dangerous Substances law; or</section><section prefix="(3)">the total circumstances of the case as listed in subsection (c) of this section dictate that seizure and forfeiture are justified.</section></section>

@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-130" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-130</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>130</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Single-family property" includes:</section>
+        <section prefix="(i)">"Single-family property" includes:<section prefix="1.">A single-family detached home;</section><section prefix="2.">A townhouse; and</section><section prefix="3.">A property that is subject to:</section></section>
         <section prefix="(ii)">"Single-family property" does not include property that contains more than four dwelling units.</section>
       </section>
       <section prefix="(3)">"Townhouse" means a single-family dwelling unit that is constructed in a horizontal series of attached units with property lines separating the units.</section>

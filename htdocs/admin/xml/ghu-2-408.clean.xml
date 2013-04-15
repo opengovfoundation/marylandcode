@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-408" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-2-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the approval of the Secretary, the Commission may accept for the purposes of this subtitle:<section prefix="(i)">federal funds granted by Congress or executive order; and</section><section prefix="(ii)">private donations from individuals, organizations, or foundations.</section></section>

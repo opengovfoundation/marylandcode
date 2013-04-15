@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-1201" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-1201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
-    <section prefix="(b)">"Comprehensive physical rehabilitation services" means:<section prefix="(1)">A program of coordinated, integrated, interdisciplinary, physician-directed services provided by or under the supervision of physicians qualified or experienced in rehabilitation that:<section prefix="(i)">Includes evaluation and treatment of individuals with physical disabilities;</section><section prefix="(ii)">Emphasizes education and training of individuals with disabilities; and</section><section prefix="(iii)">Incorporates:</section></section><section prefix="(2)">Any other service that the Secretary may designate by regulation.</section></section>
+    <section prefix="(b)">"Comprehensive physical rehabilitation services" means:<section prefix="(1)">A program of coordinated, integrated, interdisciplinary, physician-directed services provided by or under the supervision of physicians qualified or experienced in rehabilitation that:<section prefix="(i)">Includes evaluation and treatment of individuals with physical disabilities;</section><section prefix="(ii)">Emphasizes education and training of individuals with disabilities; and</section><section prefix="(iii)">Incorporates:<section prefix="1.">At least 4 of the following core disciplines:</section><section prefix="2.">At least 2 of the following disciplines:</section></section></section><section prefix="(2)">Any other service that the Secretary may designate by regulation.</section></section>
     <section prefix="(c)">"Comprehensive rehabilitation facility" means:<section prefix="(1)">Any person that provides or holds himself out as providing comprehensive physical rehabilitation services on an out-patient basis; or</section><section prefix="(2)">A hospital that is licensed as a special rehabilitation hospital under Subtitle 3 of this title.</section></section>
     <section prefix="(d)">
       <section prefix="(1)">"Health care facility" includes any facility defined in &#xA7; 19-114(d) of this title.</section>

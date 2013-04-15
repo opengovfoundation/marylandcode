@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-497" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-497</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>497</order_by>
   <text>
     <section prefix="(a)">The Secretary may impose a civil money penalty against a provider for an action or inaction that violates this subtitle or any regulation adopted by the Department under this subtitle.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-624" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-624</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>624</order_by>
   <text>
     <section prefix="(a)">In this section, "drug" does not include alcohol.</section>
     <section prefix="(b)">A person may not administer a controlled dangerous substance or other drug to another without that person's knowledge and commit against that other:<section prefix="(1)">a crime of violence as defined in &#xA7; 14-101 of this article; or</section><section prefix="(2)">a sexual offense in the third degree under &#xA7; 3-307 of this article.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-307.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-2-307.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307.1</order_by>
   <text>
     <section prefix="(a)">In reviewing an application for licensure of a veterinarian or in investigating any matter brought against a veterinary practitioner, the Board may direct the applicant, veterinarian, or veterinary practitioner to submit to a mental or physical examination when the Board has reasonable evidence indicating the inability of that individual to practice veterinary medicine competently.</section>
     <section prefix="(b)">In return for the privilege given by the State in issuing a license or registration, the applicant, veterinarian, or veterinary practitioner is deemed to have:<section prefix="(1)">Consented to submit to an examination under this section if directed by the Board in writing; and</section><section prefix="(2)">Waived any claim of privilege as to the examination report or testimony regarding the report.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-803.1" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-803.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>803.1</order_by>
   <text>
     <section prefix="(a)">In this section, "gross income" means the actual income that is received in a calendar year that results directly from the farm or agricultural use of the land.</section>
     <section prefix="(b)">This section does not apply to:<section prefix="(1)">An agricultural operation with less than $2,500 in gross income; or</section><section prefix="(2)">A livestock operation with less than eight animal units defined as 1,000 pounds of live animal weight per animal unit.</section></section>
@@ -36,7 +36,7 @@
     </section>
     <section prefix="(i)">
       <section prefix="(1)">A person who violates any provision of subsection (f) of this section or of any rule, regulation, or order adopted or issued under this section is subject to:<section prefix="(i)">For a first violation, a warning; and</section><section prefix="(ii)">For a second or subsequent violation, after an opportunity for a hearing which may be waived in writing by the person accused of a violation, an administrative penalty that may be imposed by the Department of Agriculture.</section></section>
-      <section prefix="(2)">The penalty imposed on a person under paragraph (1)(ii) of this subsection shall be:<section prefix="(i)">Up to $100 for each violation, but not exceeding $2,000 per farmer or operator per year; and</section><section prefix="(ii)">Assessed with consideration given to:</section></section>
+      <section prefix="(2)">The penalty imposed on a person under paragraph (1)(ii) of this subsection shall be:<section prefix="(i)">Up to $100 for each violation, but not exceeding $2,000 per farmer or operator per year; and</section><section prefix="(ii)">Assessed with consideration given to:<section prefix="1.">The willfulness of the violation, the extent to which the existence of the violation was known to but uncorrected by the violator, and the extent to which the violator exercised reasonable care;</section><section prefix="2.">Any actual harm to the environment or to human health;</section><section prefix="3.">The available technology and economic reasonableness of controlling, reducing, or eliminating the violation; and</section><section prefix="4.">The extent to which the current violation is part of a recurrent pattern of the same or similar type of violation committed by the violator.</section></section></section>
       <section prefix="(3)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, each day a violation occurs is a separate violation under this subsection.</section>
         <section prefix="(ii)">Daily penalties do not continue to accrue as long as the farmer takes reasonable steps to correct the violation.</section>

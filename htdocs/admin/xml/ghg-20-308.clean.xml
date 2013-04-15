@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-308" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">If, after investigation, the Secretary or a local health officer finds that a nuisance exists that presents an immediate hazard to public health, the Secretary or local health officer may summarily abate the nuisance.</section>
     <section prefix="(b)">Before summarily abating a nuisance under this section, the Secretary or a local health officer shall:<section prefix="(1)">Serve an abatement order on the owner of the property where the nuisance exists or, if the owner cannot be found, on the occupant or tenant of the property; or</section><section prefix="(2)">If the property is unoccupied and the owner cannot be found, attach an abatement order to the property where the nuisance exists.</section></section>

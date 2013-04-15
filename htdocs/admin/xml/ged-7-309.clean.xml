@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-309" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "residential child care program" means a program that:<section prefix="(i)">Provides care for children 24 hours a day within a structured set of services and activities designed to achieve objectives related to the needs of the children served; and</section><section prefix="(ii)">Is licensed by the Department of Health and Mental Hygiene, the Department of Human Resources, or the Department of Juvenile Services.</section></section>

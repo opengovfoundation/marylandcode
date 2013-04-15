@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-503" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4A-503</section_number>
-  <catch_line/>
+  <catch_line>Unless otherwise agreed:...</catch_line>
+  <order_by>503</order_by>
   <text>Unless otherwise agreed:<section prefix=""><section prefix="(1)">The profits and losses of a limited liability company shall be allocated among the members in proportion to their respective capital contribution values; and</section><section prefix="(2)">Distributions by the limited liability company shall be made to the members in proportion to their right to share in the profits of the limited liability company.</section></section></text>
 </law>

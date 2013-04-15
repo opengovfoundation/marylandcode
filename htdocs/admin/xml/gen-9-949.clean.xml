@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-949" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-949</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>949</order_by>
   <text>
     <section prefix="(a)">An authority has a lien on real estate:<section prefix="(1)">For:<section prefix="(i)">The amount of any fee, rent, or charge, including a tapping fee, imposed on an owner, tenant, or occupant of the real estate for the use and services of a project of the authority; and</section><section prefix="(ii)">Any accrued interest on the fee, rent, or charge; and</section></section><section prefix="(2)">From the time when the fee, rent, or charge is due and payable.</section></section>
     <section prefix="(b)">A lien under this section is superior to any interest of an owner, tenant, or occupant of the affected real estate.</section>

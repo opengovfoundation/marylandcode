@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-302" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The governing body of each district consists of five supervisors.</section>
     <section prefix="(b)">Each supervisor shall be interested and knowledgeable in conservation of soil, water, and related natural resources. By training and experience, each supervisor shall be qualified to perform the specialized skilled services which are required in performing the duties under this subtitle.</section>

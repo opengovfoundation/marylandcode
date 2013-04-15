@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-847" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-847</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>847</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An owner who receives the blood lead test results of a person at risk under this subtitle may not disclose those results to another person except:<section prefix="(i)">The insurer of the owner;</section><section prefix="(ii)">A medical doctor or other health professional with whom the owner consults; or</section><section prefix="(iii)">An attorney of the owner or any person specified in subparagraph (i) or (ii) of this paragraph.</section></section>

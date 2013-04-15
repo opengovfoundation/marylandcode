@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-19-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to &#xA7; 19-203 of this subtitle, whenever a dealer enters into a contract in which the dealer agrees to maintain inventory and the contract is terminated by either party, the supplier shall repurchase the dealer's inventory on the terms specified in &#xA7; 19-202 of this subtitle unless the dealer chooses to keep the inventory.</section>

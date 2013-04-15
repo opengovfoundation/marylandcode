@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-303" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-3-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">No person may be a livestock dealer without first obtaining an annual livestock dealer's license from the Secretary. No person may operate a livestock market without first obtaining an annual livestock market license from the Secretary for each market he operates.</section>
     <section prefix="(b)">

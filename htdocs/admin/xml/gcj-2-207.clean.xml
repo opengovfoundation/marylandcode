@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-207" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">For purposes of this section, "person in interest" has the meaning stated in &#xA7; 10-611 of the State Government Article.</section>
     <section prefix="(b)">The clerk of the circuit court of each county shall keep a book and record and index in the book the discharge papers of any person who:<section prefix="(1)">At any time has served in the armed forces of the United States; and</section><section prefix="(2)">Presents the discharge papers of the person for recording.</section></section>

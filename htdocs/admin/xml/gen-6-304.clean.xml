@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-304" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The Secretary shall assist local governments, if necessary, to provide case management of children with elevated blood lead levels greater than or equal to 15 micrograms per deciliter (&#xB5;g/dl).</section>
     <section prefix="(b)">A local health department that receives the results of a blood test for lead poisoning indicating that a child under 6 years of age has an elevated blood lead level greater than or equal to 15 &#xB5;g/dl and less than 20 &#xB5;g/dl shall notify:<section prefix="(1)">The child's parents; and</section><section prefix="(2)">In the case of a child who lives in a rental dwelling unit, the owner of the rental dwelling unit where the child resides.</section></section>

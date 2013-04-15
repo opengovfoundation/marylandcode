@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-304" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">The Maryland Advisory Council shall meet at the times and places that it determines.</section>
     <section prefix="(b)">A member of the Maryland Advisory Council:<section prefix="(1)">May not receive compensation; but</section><section prefix="(2)">Is entitled to reimbursement for expenses under the Standard State Travel Regulations, as provided in the State budget.</section></section>

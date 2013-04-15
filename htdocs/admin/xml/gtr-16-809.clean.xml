@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-809" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-809</section_number>
-  <catch_line/>
+  <catch_line>A person may drive a commercial motor vehicle if:...</catch_line>
+  <order_by>809</order_by>
   <text>A person may drive a commercial motor vehicle if:<section prefix=""><section prefix="(1)">The person holds a valid commercial driver's license issued by any:<section prefix="(i)">State in accordance with the minimum federal standards for the issuance of a commercial driver's license; or</section><section prefix="(ii)">Foreign jurisdiction that the United States Department of Transportation has determined issues commercial drivers' licenses in accordance with the minimum federal standards;</section></section><section prefix="(2)">The person's driver's license is not refused, suspended, revoked, or canceled;</section><section prefix="(3)">The person is not disqualified from driving a commercial motor vehicle in any state;</section><section prefix="(4)">The person is not disqualified from driving a commercial vehicle by the United States Department of Transportation;</section><section prefix="(5)">The person is not subject to an out-of-service order as defined in &#xA7; 16-812(i)(1)(ii) of this subtitle;</section><section prefix="(6)">The person has the commercial driver's license in the person's possession; and</section><section prefix="(7)">The person's commercial driver's license is valid for the type of vehicle being driven, as determined by regulation established by the United States Department of Transportation.</section></section></text>
 </law>

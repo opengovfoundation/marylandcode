@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-613" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-2-613</section_number>
-  <catch_line/>
+  <catch_line>From the income tax revenue from corporations, the Comptroller shall distribute the amount necessary...</catch_line>
+  <order_by>613</order_by>
   <text>From the income tax revenue from corporations, the Comptroller shall distribute the amount necessary to pay refunds relating to income tax from corporations to the income tax refund account.</text>
 </law>

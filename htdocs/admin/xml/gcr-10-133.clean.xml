@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-133" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-133</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>133</order_by>
   <text>
     <section prefix="(a)">A person who violates &#xA7; 10-132 of this part shall be issued a citation under this section.</section>
     <section prefix="(b)">A citation for a violation of &#xA7; 10-132 of this part may be issued by:<section prefix="(1)">a police officer authorized to make arrests; and</section><section prefix="(2)">in State forestry reservations, State parks, historic monuments, and recreation areas, a forest or park warden under &#xA7; 5-206(a) of the Natural Resources Article.</section></section>

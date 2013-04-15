@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-201" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this section, "gift" has the meaning stated in Article 1, &#xA7; 22 of the Code.</section>
     <section prefix="(b)">Except as otherwise expressly provided by law, an officer or unit of the State government may not spend any money that derives from a gift until the Governor assents to the acceptance of the gift.</section>

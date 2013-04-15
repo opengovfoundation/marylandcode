@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-203" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-12-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">This section applies to a form for a life insurance or health insurance policy, an annuity contract, an application for that policy or contract that is required to be written, a rider, or an endorsement that:<section prefix="(i)">is delivered or issued for delivery in the State; or</section><section prefix="(ii)">is used by domestic insurers for delivery in a jurisdiction outside the State, if:</section></section>
+      <section prefix="(1)">This section applies to a form for a life insurance or health insurance policy, an annuity contract, an application for that policy or contract that is required to be written, a rider, or an endorsement that:<section prefix="(i)">is delivered or issued for delivery in the State; or</section><section prefix="(ii)">is used by domestic insurers for delivery in a jurisdiction outside the State, if:<section prefix="1.">the insurance supervisory official of the jurisdiction informs the Commissioner that the form is not subject to approval or disapproval by the official; and</section><section prefix="2.">the Commissioner requires the form to be submitted to the Commissioner for approval.</section></section></section>
       <section prefix="(2)">This section does not apply to unique riders, endorsements, or forms that are:<section prefix="(i)">designed for and relate to the manner of distribution of benefits or to the reservation of rights and benefits under life insurance or health insurance policies or annuity contracts; and</section><section prefix="(ii)">used at the request of the individual policyholder, contract holder, or certificate holder.</section></section>
     </section>
     <section prefix="(b)">
@@ -27,7 +27,7 @@
       <section prefix="(1)">The Commissioner may order an exemption from this section for as long as the Commissioner considers proper for an insurance document or form or type of insurance document or form if the Commissioner finds that:<section prefix="(i)">this section is not practicably applicable; or</section><section prefix="(ii)">the filing and approval of the document or form or type of document or form are not desirable or necessary to protect the public.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">The Commissioner may adopt regulations to allow a type or kind of form to be effective upon receipt of the filing by the Commissioner.</section>
-        <section prefix="(ii)">If an insurer uses a form which becomes effective in accordance with the provisions of subparagraph (i) of this paragraph and the form would be subject to disapproval under &#xA7; 12-205(b) of this subtitle, the Commissioner may:</section>
+        <section prefix="(ii)">If an insurer uses a form which becomes effective in accordance with the provisions of subparagraph (i) of this paragraph and the form would be subject to disapproval under &#xA7; 12-205(b) of this subtitle, the Commissioner may:<section prefix="1.">subsequently disapprove the form; and</section><section prefix="2.">impose on the insurer a penalty under &#xA7; 4-113 of this article.</section></section>
         <section prefix="(iii)">If an insurer files a form with the Commissioner which becomes effective in accordance with the provisions of subparagraph (i) of this paragraph, the insurer shall pay the applicable filing fee provided in &#xA7; 2-112 of this article.</section>
       </section>
     </section>

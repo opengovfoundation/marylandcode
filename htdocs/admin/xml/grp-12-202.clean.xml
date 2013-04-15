@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-202" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-12-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In addition to payment otherwise authorized, a displacing agency  shall make an additional payment not in excess of $45,000 to any displaced person who is displaced from a dwelling actually owned and occupied by the displaced  person for not less than 180 days prior to the initiation of negotiations for the acquisition of the real property.</section>

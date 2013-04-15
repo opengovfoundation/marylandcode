@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-5-402</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>402</order_by>
   <text>
     <section prefix="(a)">Schedule I consists of each controlled dangerous substance:<section prefix="(1)">listed in this section;</section><section prefix="(2)">added to Schedule I by the Department under &#xA7; 5-202(b) of this title; or</section><section prefix="(3)">designated as a Schedule I controlled dangerous substance by the federal government unless the Department objects under &#xA7; 5-202(f) of this title.</section></section>
     <section prefix="(b)">
@@ -25,7 +25,7 @@
       <section prefix="(2)">Any material, compound, mixture, or preparation that contains any of the following substances is a substance listed in Schedule I:<section prefix="(i)">3-methylfentanyl (N-3-methyl-1-(2-phenylethyl)-4-piperidyl-1-N-phenylpropanamide), its optical and geometric isomers, salts, and salts of isomers;</section><section prefix="(ii)">acetyl-alpha-methylfentanyl;</section><section prefix="(iii)">alpha-methylthiofentanyl;</section><section prefix="(iv)">benzylfentanyl;</section><section prefix="(v)">beta-hydroxy-3-methylfentanyl;</section><section prefix="(vi)">beta-hydroxyfentanyl;</section><section prefix="(vii)">thenylfentanyl;</section><section prefix="(viii)">thiofentanyl; and</section><section prefix="(ix)">3-methylthiofentanyl.</section></section>
     </section>
     <section prefix="(f)">
-      <section prefix="(1)">In this subsection:<section prefix="(i)">"controlled dangerous substance analogue" means a substance:</section><section prefix="(ii)">"controlled dangerous substance analogue" does not include:</section></section>
+      <section prefix="(1)">In this subsection:<section prefix="(i)">"controlled dangerous substance analogue" means a substance:<section prefix="1.">that has a chemical structure substantially similar to the chemical structure of a controlled dangerous substance listed in Schedule I or Schedule II; and</section><section prefix="2.">that has a stimulant, depressant, or hallucinogenic effect on the central nervous system that is substantially similar to or greater than the stimulant, depressant, or hallucinogenic effect on the central nervous system of a controlled dangerous substance listed in Schedule I or Schedule II; but</section></section><section prefix="(ii)">"controlled dangerous substance analogue" does not include:<section prefix="1.">a controlled dangerous substance;</section><section prefix="2.">a substance for which there is an approved new drug application; or</section><section prefix="3.">a substance exempted for investigational use under &#xA7; 506 of the Federal Food, Drug, and Cosmetic Act.</section></section></section>
       <section prefix="(2)">To the extent intended for human consumption, each controlled dangerous substance analogue is a substance listed in Schedule I.</section>
     </section>
     <section prefix="(g)">The Department may not add a substance to Schedule I under &#xA7; 5-202 of this title unless the Department finds:<section prefix="(1)">a high potential for abuse of the substance;</section><section prefix="(2)">no accepted medical use in the United States for the substance; and</section><section prefix="(3)">a lack of accepted safety for use of the substance under medical supervision.</section></section>

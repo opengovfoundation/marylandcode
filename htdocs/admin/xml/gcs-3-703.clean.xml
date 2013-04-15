@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-703" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-703</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other provision of this subtitle, an inmate who serves a concurrent Maryland sen...</catch_line>
+  <order_by>703</order_by>
   <text>Notwithstanding any other provision of this subtitle, an inmate who serves a concurrent Maryland sentence in a foreign jurisdiction may be allowed diminution credits under this subtitle only from the date that the inmate is received into the physical custody of the Commissioner.</text>
 </law>

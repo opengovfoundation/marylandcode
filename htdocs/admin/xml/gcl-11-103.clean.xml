@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-103</section_number>
-  <catch_line/>
+  <catch_line>It is unlawful for a person to:...</catch_line>
+  <order_by>103</order_by>
   <text>It is unlawful for a person to:<section prefix="(a)">Knowingly participate in a discriminatory boycott; or</section><section prefix="(b)">Knowingly aid or assist any other person in participating in a discriminatory boycott. However, nothing in this subtitle shall make it unlawful for any person who does not otherwise participate or agree to participate in a "discriminatory boycott" merely to handle or ship the goods of a person who may be in violation of this subtitle.</section></text>
 </law>

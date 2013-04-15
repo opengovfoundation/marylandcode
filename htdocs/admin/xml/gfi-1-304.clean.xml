@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-304" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-1-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">In this section, "subpoena" means a subpoena, summons, warrant, or court order that appears on its face to have been issued on lawful authority.</section>
     <section prefix="(b)">A fiduciary institution may disclose or produce financial records or information derived from financial records in compliance with a subpoena served on the fiduciary institution, if:<section prefix="(1)">The subpoena contains a certification that a copy of the subpoena has been served on the person whose records are sought by the party seeking the disclosure or production of the records; or</section><section prefix="(2)">Contains a certification that service has been waived by the court for good cause.</section></section>

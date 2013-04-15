@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-702" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-702</section_number>
-  <catch_line/>
+  <catch_line>A credit union is subject to the provisions of 12 C.F.R., Part 702 (Prompt Corrective Action) and 12...</catch_line>
+  <order_by>702</order_by>
   <text>A credit union is subject to the provisions of 12 C.F.R., Part 702 (Prompt Corrective Action) and 12 U.S.C. &#xA7; 1790d (Net Worth Provisions).</text>
 </law>

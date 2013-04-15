@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-505" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">The Board of Dental Examiners shall:<section prefix="(1)">Define, for the purpose of this section, the terms "dental radiation technologist" and "practice dental radiation technology";</section><section prefix="(2)">Adopt rules and regulations concerning qualifications, training, certification, monitoring of, and enforcement requirements for a dental radiation technologist; and</section><section prefix="(3)">Provide for a requirement to ensure competency in new safety and technological advances.</section></section>
     <section prefix="(b)">The qualifications required of applicants for Board certification as a dental radiation technologist shall include requirements established by:<section prefix="(1)">The American Dental Association; or</section><section prefix="(2)">Any applicable federal standards for training and certification.</section></section>

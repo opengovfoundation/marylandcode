@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-509.1" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-2-509.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509.1</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the State shall continue to include a prescription drug benefit plan in the health insurance benefit options established under the Program and available to retirees under &#xA7;&#xA7; 2-508 and 2-509 of this subtitle notwithstanding the enactment of the federal Medicare Prescription Drug, Improvement, and Modernization Act of 2003 or any other federal law permitting states to discontinue prescription drug benefit plans to retirees of a state.</section>
     <section prefix="(b)">The State shall discontinue prescription drug benefits for Medicare-eligible retirees in fiscal year 2020.</section>

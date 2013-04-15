@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-303" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-303</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>303</order_by>
   <text>
     <section prefix="(a)">The Administration shall provide for a method by which an applicant for a driver's license or identification card can designate that the applicant consents to the gift of all body organs or parts for the purposes of transplantation, therapy, or medical research and education.</section>
     <section prefix="(b)">If an applicant designates that he is such a donor, the Administration may make a notation of this fact on the driver's license or identification card issued to the applicant.</section>

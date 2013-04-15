@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-108" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-108</section_number>
-  <catch_line/>
+  <catch_line>"Combination" means a combination of a motor vehicle with one or more other vehicles propelled or pu...</catch_line>
+  <order_by>108</order_by>
   <text>"Combination" means a combination of a motor vehicle with one or more other vehicles propelled or pushed as a unit.</text>
 </law>

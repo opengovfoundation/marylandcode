@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-819" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-819</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>819</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Unless a CINA petition under this subtitle is dismissed, the court shall hold a separate disposition hearing after an adjudicatory hearing to determine whether the child is a CINA.</section>
@@ -13,9 +13,12 @@
       <section prefix="(3)">If the court delays a disposition hearing, it shall be held no later than 30 days after the conclusion of the adjudicatory hearing unless good cause is shown.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">In making a disposition on a CINA petition under this subtitle, the court shall:<section prefix="(i)">Find that the child is not in need of assistance and, except as provided in subsection (e) of this section, dismiss the case;</section><section prefix="(ii)">Hold in abeyance a finding on whether a child with a developmental disability or a mental illness is a child in need of assistance and:</section><section prefix="(iii)">Subject to paragraph (2) of this subsection, find that the child is in need of assistance and:</section></section>
+      <section prefix="(1)">In making a disposition on a CINA petition under this subtitle, the court shall:<section prefix="(i)">Find that the child is not in need of assistance and, except as provided in subsection (e) of this section, dismiss the case;</section><section prefix="(ii)">Hold in abeyance a finding on whether a child with a developmental disability or a mental illness is a child in need of assistance and:<section prefix="1.">Order the local department to assess or reassess the family's and child's eligibility for placement of the child in accordance with a voluntary placement agreement under &#xA7; 5-525(b)(1)(i) of the Family Law Article;</section><section prefix="2.">Order the local department to report back to the court in writing within 30 days unless the court extends the time period for good cause shown;</section><section prefix="3.">If the local department does not find the child eligible for placement in accordance with a voluntary placement agreement, hold a hearing to determine whether the family and child are eligible for placement of the child in accordance with a voluntary placement agreement; and</section><section prefix="4.">After the hearing:</section></section><section prefix="(iii)">Subject to paragraph (2) of this subsection, find that the child is in need of assistance and:<section prefix="1.">Not change the child's custody status; or</section><section prefix="2.">Commit the child on terms the court considers appropriate to the custody of:</section></section></section>
       <section prefix="(2)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">In this paragraph, "disability" means:</section>
+          <section prefix="2.">"Disability" includes:</section>
+        </section>
         <section prefix="(ii)">In making a disposition on a CINA petition under this subtitle, a disability of the child's parent, guardian, or custodian is relevant only to the extent that the court finds, based on evidence in the record, that the disability affects the ability of the parent, guardian, or custodian to give proper care and attention to the child and the child's needs.</section>
       </section>
       <section prefix="(3)">Unless good cause is shown, a court shall give priority to the child's relatives over nonrelatives when committing the child to the custody of an individual other than a parent.</section>

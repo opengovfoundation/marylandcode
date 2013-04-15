@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-449" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-449</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>449</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, a person must obtain a license issued under Title 10, Subtitle 1 of this article before the person acts as an insurance producer for a fraternal benefit society.</section>
     <section prefix="(b)">Subsection (a) of this section does not apply to a regular salaried officer or employee of a licensed society who:<section prefix="(1)">devotes substantially all of the officer's or employee's services to activities other than soliciting insurance contracts; and</section><section prefix="(2)">does not receive, for soliciting insurance contracts, a commission or other compensation that is directly dependent on the amount of business obtained.</section></section>

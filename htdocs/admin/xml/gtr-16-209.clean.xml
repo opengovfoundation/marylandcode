@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-209" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">On filing an application for a new license or for reinstatement of the privilege to drive, any individual whose license or privilege to drive has been revoked shall pay to the Administration a fee established by the Administration.</section>
     <section prefix="(b)">If the applicant's license was revoked as a result of a conviction under &#xA7; 21-902 of this article or a violation of an alcohol restriction, the applicant shall pay a fee established by the Administration in addition to the amount charged under subsection (a) of this section.</section>

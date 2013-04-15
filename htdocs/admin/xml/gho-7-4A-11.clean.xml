@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-4A-11" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-7-4A-11</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>11</order_by>
   <text>
     <section prefix="(a)">The Board shall order full or partial payment of a claim by the Fund if, on the hearing, the claimant proves that the claimant has a valid claim under this subtitle.</section>
     <section prefix="(b)">The Board may order full or partial payment by the Fund only for the actual monetary loss suffered by the claimant as a result of the claim proven by the claimant.</section>

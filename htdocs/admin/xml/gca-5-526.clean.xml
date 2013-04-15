@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-526" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-526</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>526</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A cooperative may operate as an agent to sell the products of its members or nonmember patrons on a nonprofit basis by contracting to pay the members or nonmember patrons the resale price for products sold by them to or through the cooperative, less a uniform charge to cover the expenses involved in the handling of these products.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-302" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-3-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The clerk of the circuit court of each county shall make and maintain a full and complete general alphabetical index of every deed, and other instrument in a well-bound book in his office. The index shall be both in the name of each grantor, donor, mortgagor, and assignor, and each grantee, donee, mortgagee, or assignee. It shall include the book and page of the recordation of every instrument designating these names. The clerk shall index every deed or other instrument retaining a vendor's lien both as a deed and as a vendor's lien, in the same manner as mortgages are indexed.</section>
     <section prefix="(b)">In every clerk's office where land records are not recorded in book form, the clerk shall index every assignment of a mortgage, deed of trust, and release or partial releases of a deed of trust, whether in long or short form, in the general alphabetical index, and shall place an entry in the general alphabetical index where the instrument is indexed, on the same horizontal line, indicating the place of record of the original instrument being assigned or released.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-411" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-411</section_number>
-  <catch_line/>
+  <catch_line>An appointment issued under this subtitle remains in effect until:...</catch_line>
+  <order_by>411</order_by>
   <text>An appointment issued under this subtitle remains in effect until:<section prefix=""><section prefix="(1)">terminated by the railroad company that employs the railroad police officer; or</section><section prefix="(2)">revoked for cause by the Governor.</section></section></text>
 </law>

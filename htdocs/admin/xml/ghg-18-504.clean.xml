@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-504" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">The Department and all persons shall maintain and treat all information derived from testing as confidential medical records as provided in &#xA7; 13-109 of this article.</section>
     <section prefix="(b)">Notwithstanding any other provision to the contrary, the Department may disclose confidential information, obtained pursuant to this title, to the Department of the Environment, as determined to be appropriate and necessary by the Secretary and consistent with the statutory responsibilities vested in the Secretary of the Environment.</section>

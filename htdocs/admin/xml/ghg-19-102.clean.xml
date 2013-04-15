@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-102" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds that the health care regulatory system in this State is a highly complex structure that needs to be constantly reevaluated and modified in order to better reflect and be more responsive to the ever changing health care environment and the needs of the citizens of this State.</section>
     <section prefix="(b)">The purpose of this subtitle is to establish a streamlined health care regulatory system in this State in a manner such that a single State health policy can be better articulated, coordinated, and implemented in order to better serve the citizens of this State.</section>

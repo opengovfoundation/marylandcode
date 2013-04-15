@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-401" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-25-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Fixture unit" means the assigned value for a plumbing fixture or group of plumbing fixtures, as set forth in the Commission's plumbing and gas fitting regulations, that is standardized with a common lavatory having an assigned value of one based on its probable discharge into the drainage system or hydraulic demand on the water supply.</section>

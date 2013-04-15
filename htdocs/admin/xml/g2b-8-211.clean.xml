@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-211" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-8-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">The provisions of this section apply only in Frederick County.</section>
     <section prefix="(b)">A license for the sale of alcoholic beverages authorized by this article may not be issued for any place of business located in any of the following election districts:<section prefix="(1)">Catoctin (6th);</section><section prefix="(2)">Hauvers (10th);</section><section prefix="(3)">Jackson (16th);</section><section prefix="(4)">Linganore (19th); and</section><section prefix="(5)">Ballenger (23rd).</section></section>

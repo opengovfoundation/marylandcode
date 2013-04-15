@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-116" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-11-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as otherwise provided in paragraph (2) of this subsection, a person who violates &#xA7; 11-114(b) of this subtitle is guilty of a felony and on conviction is subject to imprisonment not exceeding 20 years or a fine not exceeding $10,000 or both.</section>

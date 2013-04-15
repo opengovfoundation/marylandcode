@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -20,8 +20,17 @@
       <section prefix="(1)">
         <section prefix="(i)">The blood shall be obtained by a qualified medical person using equipment approved by the toxicologist under the Postmortem Examiners Commission acting at the request of a police officer.</section>
         <section prefix="(ii)">A certified statement by the qualified medical person who obtained the blood shall be prima facie evidence of that person's qualifications and that the blood was obtained in compliance with this section.</section>
-        <section prefix="(iii)"/>
-        <section prefix="(iv)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">A certified statement that complies with the requirements of this paragraph is admissible as substantive evidence without the presence or testimony of the qualified medical person who obtained the blood.</section>
+          <section prefix="2.">If the State decides to offer the certified statement without the testimony of the qualified medical person, the State shall, at least 30 days before trial, notify the defendant or the defendant's attorney in writing of the State's intention and deliver to the defendant or the defendant's attorney a copy of the certified statement to be offered.</section>
+          <section prefix="3.">If the District Court is deprived of jurisdiction under circumstances in which a defendant is entitled to and demands a jury trial, or appeals from the District Court to a circuit court, the State is not required to file a second notice.</section>
+        </section>
+        <section prefix="(iv)">
+          <section prefix="1.">If the defendant desires the qualified medical person to be present and testify at trial, the defendant shall notify the court and the State in writing no later than 20 days before trial.</section>
+          <section prefix="2.">If the District Court is deprived of jurisdiction under circumstances in which a defendant is entitled to and demands a jury trial, or appeals from the District Court to a circuit court, the defendant shall notify the circuit court and the State in writing no later than 20 days before trial.</section>
+          <section prefix="3.">If the timely and proper notice required under this subparagraph is provided by the defendant, the certified statement is inadmissible without the testimony of the qualified medical person.</section>
+          <section prefix="4.">Failure to give the timely and proper notice constitutes a waiver of the defendant's right to the presence and testimony of the qualified medical person.</section>
+        </section>
       </section>
       <section prefix="(2)">The test of blood shall be conducted by a qualified person using equipment approved by the toxicologist under the Postmortem Examiners Commission in a laboratory approved by the toxicologist.</section>
     </section>

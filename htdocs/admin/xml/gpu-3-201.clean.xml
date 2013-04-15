@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-201" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-3-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Notwithstanding &#xA7; 10-120 of the State Government Article, the validity of a regulation of the Commission shall be challenged in accordance with &#xA7; 10-125 of the State Government Article.</section>
     <section prefix="(b)">A party to a Commission proceeding, a person that has been granted intervention in a Commission proceeding, or a person that has been ordered to participate in a Commission proceeding that seeks to challenge a decision by the Commission to act by order rather than regulation shall seek judicial review of the Commission's decision within 30 days after the Commission issues a final order in that proceeding.</section>

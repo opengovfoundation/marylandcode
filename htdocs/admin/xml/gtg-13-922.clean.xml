@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-922" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-922</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>922</order_by>
   <text>
     <section prefix="(a)">A certification by a taxing official to the Comptroller shall include:<section prefix="(1)">the full name and address of the individual and any other names known to be used by the individual;</section><section prefix="(2)">the Social Security number or federal tax identification number;</section><section prefix="(3)">the amount of the income tax liability including a detailed statement for each taxable year showing tax, interest, and penalty; and</section><section prefix="(4)">a statement that all administrative remedies and appeals have been exhausted and that the assessment of tax, interest, and penalty has become final.</section></section>
     <section prefix="(b)">The Comptroller shall determine if an individual for whom a certification is received is due a refund of Maryland income tax.</section>

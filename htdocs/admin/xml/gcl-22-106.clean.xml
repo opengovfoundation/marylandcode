@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">This title shall be liberally construed and applied to promote its underlying purposes and policies to:<section prefix="(1)">Support and facilitate the realization of the full potential of computer information transactions;</section><section prefix="(2)">Clarify the law governing computer information transactions;</section><section prefix="(3)">Enable expanding commercial practice in computer information transactions by commercial usage and agreement of the parties;</section><section prefix="(4)">Promote uniformity of the law with respect to the subject matter of this title among states that enact it; and</section><section prefix="(5)">Permit the continued expansion of commercial practices in the excluded transactions through custom, usage, and agreement of the parties.</section></section>
     <section prefix="(b)">Except as otherwise provided in &#xA7; 22-113(a) of this subtitle, the use of mandatory language or the absence of a phrase such as "unless otherwise agreed" in a provision of this title does not preclude the parties from varying the effect of the provision by agreement.</section>

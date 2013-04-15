@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-105</section_number>
-  <catch_line/>
+  <catch_line>In this title:...</catch_line>
+  <order_by>105</order_by>
   <text>In this title:<section prefix=""><section prefix="(1)">"Bank" means a person engaged in the business of banking, including a savings bank, savings and loan association, credit union, or trust company;</section><section prefix="(2)">"Depositary bank" means the first bank to take an item even though it is also the payor bank unless the item is presented for immediate payment over the counter;</section><section prefix="(3)">"Payor bank" means a bank that is the drawee of a draft;</section><section prefix="(4)">"Intermediary bank" means a bank to which an item is transferred in course of collection except the depositary or payor bank;</section><section prefix="(5)">"Collecting bank" means a bank handling an item for collection except the payor bank; and</section><section prefix="(6)">"Presenting bank" means a bank presenting an item except a payor bank.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-609" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-609</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>609</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A health care provider is not subject to criminal prosecution or civil liability or deemed to have engaged in unprofessional conduct as determined by the appropriate licensing authority as a result of withholding or withdrawing any health care under authorization obtained in accordance with this subtitle.</section>

@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Political subdivision" includes a:<section prefix="(i)">county;</section><section prefix="(ii)">municipal corporation;</section><section prefix="(iii)">bi-county or multicounty agency;</section><section prefix="(iv)">county board of education;</section><section prefix="(v)">public authority; or</section><section prefix="(vi)">special taxing district that is not a homeowner's association.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">"Public employee" means an officer or employee of:</section>
-        <section prefix="(ii)">"Public employee" includes:</section>
+        <section prefix="(i)">"Public employee" means an officer or employee of:<section prefix="1.">the State; or</section><section prefix="2.">a political subdivision of the State.</section></section>
+        <section prefix="(ii)">"Public employee" includes:<section prefix="1.">an executive officer of the State;</section><section prefix="2.">a judge of the State;</section><section prefix="3.">a judicial officer of the State;</section><section prefix="4.">a member or officer of the General Assembly;</section><section prefix="5.">a member of the police force of Baltimore City or the Department of State Police; and</section><section prefix="6.">a member, officer, or executive officer of a political subdivision.</section></section>
       </section>
     </section>
     <section prefix="(b)">A person may not bribe or attempt to bribe a public employee to influence the public employee in the performance of an official duty of the public employee.</section>

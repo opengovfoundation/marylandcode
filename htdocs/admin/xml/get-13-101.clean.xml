@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-101" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
     <section prefix="(b)">"Classification of abode" means one of the following types of abode licensed or certified by a State agency:<section prefix="(1)">Related institutions under &#xA7; 19-114 of the Health - General Article;</section><section prefix="(2)">Private or public group homes under &#xA7; 7-601 of the Health - General Article;</section><section prefix="(3)">CARE homes under Title 6, Subtitle 5, Part II of the Human Services Article;</section><section prefix="(4)">Adult foster care homes regulated by the Department of Human Resources; or</section><section prefix="(5)">Senior assisted housing facilities under Title 10 of the Human Services Article.</section></section>

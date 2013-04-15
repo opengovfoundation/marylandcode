@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-103" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-18-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An application for original appointment as a notary public shall be made on forms prepared by the Secretary of State and shall be sworn to by the applicant.</section>
@@ -34,7 +34,10 @@
       <section prefix="(4)">The fee shall be paid by the clerk to the Treasury of the State.</section>
       <section prefix="(5)">The Secretary of State may fix other reasonable fees as required for the processing of applications and the issuance and renewal of notarial commissions and may charge a reasonable fee not exceeding $25 for checks returned for insufficient funds.</section>
       <section prefix="(6)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Except as provided under subparagraph (ii) of this paragraph, if a payment of a fee under this section is made by a check or other negotiable instrument that is dishonored, the commission shall be revoked by operation of law.</section>
+          <section prefix="2.">The revocation is effective beginning on the 60th day after the day on which the notice is sent in accordance with subparagraph (ii) of this paragraph.</section>
+        </section>
         <section prefix="(ii)">When the Secretary of State receives notice that a check or other negotiable instrument, given by an applicant in payment of a fee under this section has been dishonored, the Secretary shall inform the applicant, by regular mail, sent to the last home address the applicant has given to the Secretary, that the commission will be revoked by operation of law if within 60 days after the date of the notice the applicant fails to make payment of the fee and any late charge, or fails to provide evidence that the notice of dishonor was in error.</section>
         <section prefix="(iii)">The removal of a notary public from office under this paragraph is not subject to the provisions applicable to removal under &#xA7; 18-104 of this title.</section>
       </section>

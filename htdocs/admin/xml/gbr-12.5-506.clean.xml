@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12.5-506" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-12.5-506</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>506</order_by>
   <text>
     <section prefix="(a)">Subject to the notice and hearing provisions of Title 10, Subtitle 2 of the State Government Article, the Secretary may bring a civil administrative action against a person that violates &#xA7; 12.5-505(a) of this subtitle.</section>
     <section prefix="(b)">After a hearing, if the Secretary finds that a person has violated &#xA7; 12.5-505(a) of this subtitle, the Secretary may:<section prefix="(1)">order the person to cease and desist from unlawful practice; and</section><section prefix="(2)">impose a civil penalty not exceeding $100 for each day of unlawful practice.</section></section>

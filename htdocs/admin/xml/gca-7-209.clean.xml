@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-209" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-7-209</section_number>
-  <catch_line/>
+  <catch_line>The Department shall keep a public index of:...</catch_line>
+  <order_by>209</order_by>
   <text>The Department shall keep a public index of:<section prefix=""><section prefix="(1)">The name and address of the resident agent and address of each foreign corporation registered or qualified with the Department; and</section><section prefix="(2)">The address of any principal office in this State which is certified to the Department by a foreign corporation.</section></section></text>
 </law>

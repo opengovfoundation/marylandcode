@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-614" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-614</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>614</order_by>
   <text>
     <section prefix="(a)">In this section, "amendment" means an amendment to the articles of incorporation of a district.</section>
     <section prefix="(b)">In accordance with this section, a district may adopt amendments that:<section prefix="(1)">Can be included lawfully in original articles of incorporation; and</section><section prefix="(2)">Change the district's:<section prefix="(i)">Name;</section><section prefix="(ii)">Powers; or</section><section prefix="(iii)">Purposes.</section></section></section>

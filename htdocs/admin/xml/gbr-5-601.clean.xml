@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-601" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-601</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "perpetual care":...</catch_line>
+  <order_by>601</order_by>
   <text>In this subtitle, "perpetual care":<section prefix=""><section prefix="(1)">means the maintenance, including the cutting of grass abutting memorials or monuments, administration, supervision, and embellishment of a cemetery and its grounds, roads, and paths; and</section><section prefix="(2)">includes the repair and renewal of buildings, including columbaria and mausoleums, and the property of the cemetery.</section></section></text>
 </law>

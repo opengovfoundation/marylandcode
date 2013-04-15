@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-206" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">The Secretary may investigate any complaint of any violation of this title. Upon his own initiative, the Secretary also may conduct any investigation he deems appropriate and advisable to develop information on prevailing procedures in commercial quantity determinations and on possible violations of the provisions of this title, and to promote accuracy in the determination and representation of quantity in commercial transactions.</section>
     <section prefix="(b)">The Secretary shall weigh or measure and inspect any package or amount of a commodity possessed, offered, or exposed for sale, sold, or being delivered, to determine whether it contains the amount represented and whether it is possessed, offered, or exposed for sale, sold, or is being delivered in accordance with this title.</section>

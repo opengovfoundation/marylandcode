@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-504" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">A presenting bank that, following the dishonor of a documentary draft, has seasonably requested instructions but does not receive them within a reasonable time may store, sell, or otherwise deal with the goods in any reasonable manner.</section>
     <section prefix="(b)">For its reasonable expenses incurred by action under subsection (a) the presenting bank has a lien upon the goods or their proceeds, which may be foreclosed in the same manner as an unpaid seller's lien.</section>

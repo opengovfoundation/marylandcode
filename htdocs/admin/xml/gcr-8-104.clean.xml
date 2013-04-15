@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">The drawer or representative drawer is presumed to know that there are insufficient funds whenever the drawer of a check has insufficient funds with the drawee to cover the check and other outstanding checks when issuing the check.</section>
     <section prefix="(b)">The drawer or representative drawer of a dishonored check is presumed to have intended or believed that the check would be dishonored on presentment if:<section prefix="(1)">the drawer had no account with the drawee when issuing the check; or</section><section prefix="(2)"><section prefix="(i)">when issuing the check, the drawer had insufficient funds with the drawee to cover the check and other outstanding checks;</section><section prefix="(ii)">the check was presented to the drawee for payment not more than 30 days after the date of issuing the check; and</section><section prefix="(iii)">the drawer had insufficient funds with the drawee at the time of presentment.</section></section></section>

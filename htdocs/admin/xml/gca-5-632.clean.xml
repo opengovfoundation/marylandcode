@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-632" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-632</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>632</order_by>
   <text>
     <section prefix="(a)">A cooperative that has begun doing business may be dissolved as provided in this section.</section>
     <section prefix="(b)">A proposed dissolution shall be approved by the affirmative vote of not less than two-thirds of the members voting on the matter at an annual or special meeting of the members.</section>
@@ -24,7 +24,7 @@
       <section prefix="(3)">The board shall collect money owing to the cooperative, liquidate its assets, discharge its debts, obligations, and liabilities, and do all other acts required to wind up the business and affairs of the cooperative.</section>
       <section prefix="(4)">
         <section prefix="(i)">After discharging, or adequately providing for the discharge of, all of the debts, obligations, and liabilities of the cooperative, the board shall distribute any remaining money among the current and former members of the cooperative.</section>
-        <section prefix="(ii)">The money shall be distributed in proportion to the patronage of each current or former member:</section>
+        <section prefix="(ii)">The money shall be distributed in proportion to the patronage of each current or former member:<section prefix="1.">During the 7-year period immediately preceding the date on which the certificate of election to dissolve is accepted for record by the Department; or</section><section prefix="2.">If the cooperative has been in existence for less than 7 years, during the period of its existence.</section></section>
       </section>
     </section>
     <section prefix="(e)">

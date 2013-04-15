@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-203" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this subsection, "taxing official" means:<section prefix="(i)">a unit or official of another state whom the laws of that state charge with the imposition, assessment, or collection of state taxes;</section><section prefix="(ii)">an employee of the United States Treasury Department; or</section><section prefix="(iii)">a collector of United States taxes.</section></section>

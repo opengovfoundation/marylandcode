@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-4A-01" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-4A-01</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>01</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Home health care" includes any of the following services:<section prefix="(1)">Audiology and speech pathology;</section><section prefix="(2)">Dietary and nutritional services;</section><section prefix="(3)">Drug services;</section><section prefix="(4)">Home health aid;</section><section prefix="(5)">Laboratory;</section><section prefix="(6)">Medical social services;</section><section prefix="(7)">Nursing;</section><section prefix="(8)">Occupational therapy;</section><section prefix="(9)">Physical therapy;</section><section prefix="(10)">Provision of invasive medical equipment; and</section><section prefix="(11)">Home medical equipment services.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-224" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-12-224</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>224</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In Worcester County it is unlawful for any licensee under this article to employ any person under the age of 18 years in the sale of alcoholic beverages, unless a permit is obtained from the Sheriff and State's Attorney of Worcester County.</section>

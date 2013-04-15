@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-3B-26" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-3B-26</section_number>
-  <catch_line/>
+  <catch_line>If a petition to invalidate an order under this subtitle on the basis of a jurisdictional or procedu...</catch_line>
+  <order_by>26</order_by>
   <text>If a petition to invalidate an order under this subtitle on the basis of a jurisdictional or procedural defect is filed more than 1 year after entry of the order, a court shall dismiss the petition.</text>
 </law>

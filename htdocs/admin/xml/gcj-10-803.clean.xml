@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-803" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-10-803</section_number>
-  <catch_line/>
+  <catch_line>Where there is no sufficient evidence that two joint tenants or tenants by the entirety have died ot...</catch_line>
+  <order_by>803</order_by>
   <text>Where there is no sufficient evidence that two joint tenants or tenants by the entirety have died other than simultaneously, the property held shall be distributed one half as if one had survived and one half as if the other had survived. If there are more than two joint tenants and all of them have so died, the property distributed shall be in the proportion that one bears to the whole number of joint tenants.</text>
 </law>

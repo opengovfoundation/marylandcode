@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-401" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-12-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">A party in a civil case may appeal from a final judgment entered in the District Court.</section>
     <section prefix="(b)">In a criminal case:<section prefix="(1)">The State may appeal from a final judgment entered in the District Court:<section prefix="(i)">If the State alleges that the trial judge failed to impose the sentence specifically mandated by the Code; or</section><section prefix="(ii)">Granting a motion to dismiss, or quashing or dismissing a charging document.</section></section><section prefix="(2)">The defendant may appeal even from a final judgment entered in the District Court though imposition or execution of sentence has been suspended.</section></section>

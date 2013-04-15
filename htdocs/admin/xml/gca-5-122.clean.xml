@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-122" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-5-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">If all the stockholders of merging corporations are qualified to be stockholders of the surviving corporation, a professional corporation may merge with another domestic or foreign professional corporation or with a domestic or foreign business corporation.</section>
     <section prefix="(b)">If the surviving corporation is to render professional services in this State, it must comply with the provisions of this subtitle.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-102.2" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-102.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102.2</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, the provisions of &#xA7; 19-706.1 of this article (Rehabilitation and liquidation) shall apply to managed care organizations in the same manner they apply to health maintenance organizations.</section>
     <section prefix="(b)">

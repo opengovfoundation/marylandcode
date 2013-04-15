@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-903" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-903</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>903</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Governor by proclamation may require that each able-bodied individual in the State between 18 and 50 years old, inclusive, who is not regularly or continuously employed or engaged in a lawful and useful business, occupation, trade, or profession immediately register for work under this subtitle.</section>

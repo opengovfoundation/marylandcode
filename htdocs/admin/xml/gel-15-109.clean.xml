@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-109" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-15-109</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>109</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to &#xA7; 15-103 of this title, the State Board shall administer this title.</section>
@@ -13,7 +13,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">The State Board shall adopt comprehensive regulations to implement this title.</section>
-      <section prefix="(2)">The regulations shall include provisions relating to:<section prefix="(i)">the manner and deadline for a gubernatorial ticket to notify the State Board of its intention to qualify for a public contribution;</section><section prefix="(ii)">the deadline for a gubernatorial ticket to submit a request for a public contribution;</section><section prefix="(iii)">the dates when the State Board will authorize, and the Comptroller will make, distributions of public contributions to gubernatorial tickets in accordance with this title;</section><section prefix="(iv)">a proportionate distribution when there is not, or may not be, sufficient money in the Fund;</section><section prefix="(v)">a formula for distributing a supplementary public contribution to the other eligible gubernatorial tickets if additional money becomes available because:</section><section prefix="(vi)">the standards by which expenditures by campaign finance entities with which an eligible gubernatorial ticket is affiliated are applied to the expenditure limit prescribed in &#xA7; 15-105 of this title;</section><section prefix="(vii)">thresholds for in-kind contributions that are not considered contributions or expenditures for the purposes of this title;</section><section prefix="(viii)">distributions to:</section><section prefix="(ix)">the purposes for which a public contribution may not be used.</section></section>
+      <section prefix="(2)">The regulations shall include provisions relating to:<section prefix="(i)">the manner and deadline for a gubernatorial ticket to notify the State Board of its intention to qualify for a public contribution;</section><section prefix="(ii)">the deadline for a gubernatorial ticket to submit a request for a public contribution;</section><section prefix="(iii)">the dates when the State Board will authorize, and the Comptroller will make, distributions of public contributions to gubernatorial tickets in accordance with this title;</section><section prefix="(iv)">a proportionate distribution when there is not, or may not be, sufficient money in the Fund;</section><section prefix="(v)">a formula for distributing a supplementary public contribution to the other eligible gubernatorial tickets if additional money becomes available because:<section prefix="1.">an eligible gubernatorial ticket fails to request a public contribution;</section><section prefix="2.">an eligible gubernatorial ticket withdraws as a gubernatorial ticket; or</section><section prefix="3.">an eligible gubernatorial ticket is disqualified;</section></section><section prefix="(vi)">the standards by which expenditures by campaign finance entities with which an eligible gubernatorial ticket is affiliated are applied to the expenditure limit prescribed in &#xA7; 15-105 of this title;</section><section prefix="(vii)">thresholds for in-kind contributions that are not considered contributions or expenditures for the purposes of this title;</section><section prefix="(viii)">distributions to:<section prefix="1.">an unopposed gubernatorial ticket;</section><section prefix="2.">a gubernatorial ticket composed of members from other than the two principal political parties; and</section><section prefix="3.">a write-in gubernatorial ticket; and</section></section><section prefix="(ix)">the purposes for which a public contribution may not be used.</section></section>
     </section>
   </text>
 </law>

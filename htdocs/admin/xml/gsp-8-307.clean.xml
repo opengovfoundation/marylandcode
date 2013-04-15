@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-307" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-8-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">By regulations consistent with the federal Fair Labor Standards Act, the Secretary may provide for employees who otherwise would be entitled to payment for overtime work to elect to receive compensatory time instead.</section>
     <section prefix="(b)">These regulations shall provide that an employee who elects to receive compensatory time must notify the employee's supervisor of that election before the overtime work is performed.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-361" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-361</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>361</order_by>
   <text>
     <section prefix="(a)">In Part VIII of this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Hazardous condition" means a condition existing in a related institution that does not constitute a life-threatening, health, or fire safety deficiency, as described in &#xA7; 19-328 of this subtitle, but which is a violation of departmental regulations which is likely to endanger the health, life, or safety of patients.</section>

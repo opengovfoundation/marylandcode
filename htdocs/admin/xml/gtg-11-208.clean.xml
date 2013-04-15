@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-208" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">The sales and use tax does not apply to:<section prefix="(1)">a sale of equipment or machinery that is used only to load, unload, and handle cargo of ocean going vessels within an international marine terminal; or</section><section prefix="(2)">a rental of equipment or machinery that:<section prefix="(i)">is owned by the Maryland Port Administration; and</section><section prefix="(ii)">is used only to load and unload ocean going vessels.</section></section></section>
     <section prefix="(b)">The sales and use tax does not apply to a sale of film or video tape for use only in television broadcasting by a television station that the Federal Communications Commission licenses specifically to broadcast to a city or town outside the State.</section>

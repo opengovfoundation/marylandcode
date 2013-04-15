@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-818" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-818</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>818</order_by>
   <text>
     <section prefix="(a)">Any person may apply for a permit.</section>
     <section prefix="(b)">An applicant for a permit shall submit to the executive director of the Commission an application in the form that the Commission requires.</section>

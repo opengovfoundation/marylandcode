@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-604" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section and notwithstanding any other law, if a child is the defendant or child respondent, the court may order the child, the child's parent, or both to pay restitution.</section>
     <section prefix="(b)">A judgment of restitution for $10,000 issued under Part I of this subtitle is the absolute limit for each child's acts arising out of a single incident.</section>

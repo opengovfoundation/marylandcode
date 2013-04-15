@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-415" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-1-415</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>415</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person may not, with intent to defraud, do business in the State under or imitate a name, title, or trade name that is the same as, or similar to, that used by another person already doing business in the State.</section>
     <section prefix="(b)">This section does not apply to individuals with similar names.</section>

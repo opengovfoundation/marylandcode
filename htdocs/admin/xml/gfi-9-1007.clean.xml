@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1007" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-9-1007</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1007</order_by>
   <text>
     <section prefix="(a)">The Division Director may enter into cooperative agreements with any other savings and loan regulatory unit to facilitate the regulation of savings and loan associations and savings and loan holding companies doing business in this State.</section>
     <section prefix="(b)">The Division Director may accept reports of examinations and other records from any other unit instead of conducting its own examinations of interstate associations and associations controlled by savings and loan holding companies located in other jurisdictions.</section>

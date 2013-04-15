@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-501.1" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-4-501.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501.1</order_by>
   <text>
     <section prefix="(a)">In this section, "Dental Well-Being Committee" means the committee of the Maryland State Dental Association that evaluates and provides assistance to any provider of dental care in need of treatment and rehabilitation for alcoholism, drug abuse, chemical dependency, or other physical, emotional, or mental condition.</section>
     <section prefix="(b)">

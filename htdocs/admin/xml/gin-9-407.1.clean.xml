@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-407.1" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-407.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>407.1</order_by>
   <text>
     <section prefix="(a)">At any time within 180 days after the date of an order of liquidation, the Corporation may elect to succeed to the rights and obligations of the ceding member insurer that relate to policies or annuities covered, in whole or in part, by the Corporation, in each case under any one or more reinsurance contracts entered into by the insolvent insurer and its reinsurers and selected by the Corporation.</section>
     <section prefix="(b)">Any assumption under subsection (a) of this section is effective as of the date of the order of liquidation.</section>

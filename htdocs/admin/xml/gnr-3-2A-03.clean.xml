@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-03" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-3-2A-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">All receipts designated for the Grant Fund shall be placed in the Grant Fund held by the Department and administered by the Trust, including:<section prefix="(1)">Moneys appropriated by the State to the Grant Fund;</section><section prefix="(2)">Premiums, fees, and payments on reimbursement of grants, where required;</section><section prefix="(3)">Income from investments that the State Treasurer, on instruction of the Department, makes for the Department under this subtitle; and</section><section prefix="(4)">Any other moneys made available to the Grant Fund.</section></section>
     <section prefix="(b)">Any unspent moneys in the Grant Fund at the end of the fiscal year shall remain in the Grant Fund and may not revert to the General Fund of the State.</section>

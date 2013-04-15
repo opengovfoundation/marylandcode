@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-222" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-222</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>222</order_by>
   <text>
     <section prefix="(a)">After passing a stop order, the Commissioner promptly shall send to the applicant or registrant a notice that:<section prefix="(1)">states that the stop order has been passed;</section><section prefix="(2)">states the reasons for the stop order; and</section><section prefix="(3)">informs the applicant or registrant of the right to a hearing under this section.</section></section>
     <section prefix="(b)">

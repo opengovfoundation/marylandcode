@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-206" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">At least twice a year, the Commissioner shall ask every banking institution to submit a financial report that shows in detail the assets and liabilities of the institution as of the close of the business day that the Commissioner specifies.</section>
     <section prefix="(b)">The Commissioner shall:<section prefix="(1)">Provide forms that conform as closely as practicable to the forms that the federal banking authorities use; or</section><section prefix="(2)">Accept from a banking institution a copy of a reasonably recent report that the institution submitted to a federal banking authority.</section></section>

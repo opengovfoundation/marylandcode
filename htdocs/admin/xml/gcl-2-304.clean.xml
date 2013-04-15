@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(1)">The price can be made payable in money or otherwise. If it is payable in whole or in part in goods each party is a seller of the goods which he is to transfer.</section>
     <section prefix="(2)">Even though all or part of the price is payable in an interest in realty the transfer of the goods and the seller's obligations with reference to them are subject to this title, but not the transfer of the interest in realty or the transferor's obligations in connection therewith.</section>

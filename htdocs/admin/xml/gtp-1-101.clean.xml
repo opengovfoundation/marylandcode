@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-101" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-1-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this article the following words have the meanings indicated.</section>
     <section prefix="(b)">"Assess" means:<section prefix="(1)">for real property, to determine the phased-in full cash value or use value to which the property tax rate may be applied; and</section><section prefix="(2)">for personal property, to determine the value to which the property tax rate may be applied.</section></section>

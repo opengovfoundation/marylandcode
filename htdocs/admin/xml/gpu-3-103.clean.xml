@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-103" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-3-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The service of a document or notice relating to a proceeding before the Commission under this division shall be sufficient:<section prefix="(1)">if made personally through the sheriff's office in the county in which service may be made or by an adult; or</section><section prefix="(2)">except as provided in subsections (b) and (c) of this section, if mailed by first-class mail, postage prepaid, to the last known address of the person to be served.</section></section>
     <section prefix="(b)">Service of complaints and accompanying documents shall be sufficient if they are mailed by registered first-class mail, postage prepaid, to the last known address of the person to be served.</section>

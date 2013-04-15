@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-401" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">Each operator shall notify the Bureau immediately in the manner the Bureau prescribes if:<section prefix="(1)">Any change occurs in the name of the operator of a mine, an executive official concerned with its operation, or in the designation of the mine;</section><section prefix="(2)">A mine has been abandoned or work discontinued;</section><section prefix="(3)">Work has commenced for the purpose of opening a new mine. The notice shall include sketch maps outlining the plans intended to be pursued in the opening;</section><section prefix="(4)">The working of a mine is resumed after an abandonment or discontinuance for a period exceeding two months; or</section><section prefix="(5)">A squeeze, crush, or fire occurs, or a dangerous body of water, explosive, or noxious gas is found.</section></section>
     <section prefix="(b)">Each operator shall obtain from the Bureau and keep accessible at the mine a supply of the printed laws, rules, regulations, notices, forms, and record books required by law. He shall see that this material is delivered to every worker.</section>

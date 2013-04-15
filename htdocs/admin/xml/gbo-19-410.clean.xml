@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-410" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-19-410</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>410</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in &#xA7; 10-226 of the State Government Article, before the Secretary takes any final action under &#xA7; 19-408 of this subtitle, the Secretary shall give the individual against whom the action is contemplated an opportunity for a hearing before the Secretary.</section>
     <section prefix="(b)">The Secretary shall give notice and hold the hearing in accordance with Title 10, Subtitle 2 of the State Government Article.</section>

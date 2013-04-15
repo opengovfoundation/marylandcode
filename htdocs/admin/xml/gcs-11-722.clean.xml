@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-722" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-722</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>722</order_by>
   <text>
     <section prefix="(a)">This section applies only in Talbot County.</section>
     <section prefix="(b)">While confined in the Talbot County Jail, an inmate employed under &#xA7; 11-602 of this title shall pay:<section prefix="(1)">court-ordered payments for restitution; and</section><section prefix="(2)">the cost of the food, lodging, and clothing of the inmate.</section></section>

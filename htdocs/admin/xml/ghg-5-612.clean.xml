@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-612" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-612</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>612</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A health care provider for an individual incapable of making an informed decision who believes that an instruction to withhold or withdraw a life-sustaining procedure from the patient is inconsistent with generally accepted standards of patient care shall:<section prefix="(i)">Petition a patient care advisory committee for advice concerning the withholding or withdrawal of the life-sustaining procedure from the patient if the patient is in a hospital or related institution; or</section><section prefix="(ii)">File a petition in a court of competent jurisdiction seeking injunctive or other relief relating to the withholding or withdrawal of the life-sustaining procedure from the patient.</section></section>

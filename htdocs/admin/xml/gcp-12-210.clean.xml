@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-210" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-12-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Subject to the rights of a lienholder to sell the real property, an owner or owner's tenant may remain in possession of seized real property until forfeiture is ordered.</section>
     <section prefix="(b)">The forfeiting authority may apply to the court for the appointment of a receiver to apply income from income-producing property.</section>

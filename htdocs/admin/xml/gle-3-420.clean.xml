@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-420" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-420</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>420</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, an employer shall compute the wage for overtime under &#xA7; 3-415 of this subtitle on the basis of each hour over 40 hours that an employee works during 1 workweek.</section>
     <section prefix="(b)">Notwithstanding &#xA7; 3-415(b)(8) of this subtitle, an employer that is not a not for profit organization and is a concert promoter, legitimate theater, music festival, music pavilion, or theatrical show shall pay overtime for a craft or trade employee as required in subsection (a) of this section.</section>
     <section prefix="(c)">The wage for overtime may be computed on the basis of each hour over 60 hours that an employee works during 1 workweek for an employee who:<section prefix="(1)">is engaged in agriculture; and</section><section prefix="(2)">is exempt from the overtime provisions of the federal Act.</section></section>
-    <section prefix="(d)">The wage for overtime may be computed on the basis of each hour over 48 hours that an employee works during 1 workweek:<section prefix="(1)">for an employee of a bowling establishment; and</section><section prefix="(2)">for an employee of an institution that:<section prefix="(i)">is not a hospital; but</section><section prefix="(ii)">is engaged primarily in the care of individuals who:</section></section></section>
+    <section prefix="(d)">The wage for overtime may be computed on the basis of each hour over 48 hours that an employee works during 1 workweek:<section prefix="(1)">for an employee of a bowling establishment; and</section><section prefix="(2)">for an employee of an institution that:<section prefix="(i)">is not a hospital; but</section><section prefix="(ii)">is engaged primarily in the care of individuals who:<section prefix="1.">are aged, intellectually disabled, or sick or have a mental disorder; and</section><section prefix="2.">reside at the institution.</section></section></section></section>
   </text>
 </law>

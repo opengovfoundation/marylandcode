@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="32-207" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-32-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">A State supplemental plan that is authorized for eligible employees by an employing institution as defined in &#xA7; 30-101 of this article may be offered only on the same basis and to the same class of employees as authorized under Chapter 619, &#xA7; 2 of the Acts of the General Assembly of 1996.</section>
     <section prefix="(b)">The employing institution, in consultation with the State Retirement Agency, shall determine which employees of its institution are eligible employees.</section>

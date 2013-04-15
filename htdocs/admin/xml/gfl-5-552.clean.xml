@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-552" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-552</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>552</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section, a family child care home or large family child care home may not operate unless it is registered.</section>
     <section prefix="(b)">A family child care home is not required to be registered if the child care provider:<section prefix="(1)">is related to each child by blood or marriage;</section><section prefix="(2)">is a friend of each child's parents or legal guardian and the care is provided on an occasional basis; or</section><section prefix="(3)">has received the care of the child from a child placement agency licensed by the Department of Human Resources or by a local department of social services.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-205" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-11-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">This section is broadly applicable to all procurements by the State.</section>
     <section prefix="(b)">A person who, for the purpose of defrauding the State, acts in collusion with another person in connection with the procurement process is liable for damages equal to 3 times the value of the loss to the State that is attributable to the collusion.</section>

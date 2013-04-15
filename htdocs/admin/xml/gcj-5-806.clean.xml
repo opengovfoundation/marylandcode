@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-806" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-5-806</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>806</order_by>
   <text>
     <section prefix="(a)">This section applies to:<section prefix="(1)">An action by an unemancipated child against a parent of the child; and</section><section prefix="(2)">An action by a parent against an unemancipated child of the parent.</section></section>
     <section prefix="(b)">The right of action by a parent or the estate of a parent against a child of the parent, or by a child or the estate of a child against a parent of the child, for wrongful death, personal injury, or property damage arising out of the operation of a motor vehicle, as defined in Title 11 of the Transportation Article, may not be restricted by the doctrine of parent-child immunity or by any insurance policy provisions, up to the limits of motor vehicle liability coverage or uninsured motor vehicle coverage.</section>

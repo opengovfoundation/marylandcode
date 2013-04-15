@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-103" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-11-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">If a person who has filed a report under this title determines that information was not reported accurately, the person may file an amended report within 3 years after the April 15th that the original report was due.</section>
     <section prefix="(b)">A person filing an amended report under subsection (a) of this section may only claim an exemption for personal property used in manufacturing if an exemption for personal property used in the manufacturing process was previously approved for that taxable year under &#xA7;&#xA7; 7-104(b) and 7-225(d), under &#xA7;&#xA7; 7-104(c) and 7-225(d), or under &#xA7;&#xA7; 7-104(d) and 7-225(d) of this article.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-514" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-514</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>514</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in subsection (c), an initial financing statement may reflect an assignment of all of the secured party's power to authorize an amendment to the financing statement by providing the name and mailing address of the assignee as the name and address of the secured party.</section>
     <section prefix="(b)">Except as otherwise provided in subsection (c), a secured party of record may assign of record all or part of its power to authorize an amendment to a financing statement by filing in the filing office an amendment of the financing statement which:<section prefix="(1)">Identifies, by its file number, the initial financing statement to which it relates;</section><section prefix="(2)">Provides the name of the assignor; and</section><section prefix="(3)">Provides the name and mailing address of the assignee.</section></section>

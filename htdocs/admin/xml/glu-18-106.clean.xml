@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-106" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-18-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">After public notice, each county council shall hold a public hearing on the Commission's proposed budgets at least 21 days after receiving the budgets from the county executive.</section>
     <section prefix="(b)">On or before June 1 of each year, each county council shall, by resolution:<section prefix="(1)">approve the portion of the budgets allocable to that county, with any alterations made under subsection (c) of this section; and</section><section prefix="(2)">subject to the requirements and limitations of Subtitles 3 and 4 of this title and Title 21 of this article, impose taxes in the amounts the county council determines to be necessary to finance the portion of the budgets allocable to that county.</section></section>

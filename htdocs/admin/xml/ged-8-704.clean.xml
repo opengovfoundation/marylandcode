@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-704" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-8-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">The Department may contract with an operator to provide at-risk youth in the State with the opportunity to participate in a program.</section>
     <section prefix="(b)">The operator shall meet the qualifications established by the Department including:<section prefix="(1)">Previous experience with a comparable program;</section><section prefix="(2)">Measured success with a comparable program; and</section><section prefix="(3)">The capacity to finance and secure private funds for the development of a campus for the program.</section></section>

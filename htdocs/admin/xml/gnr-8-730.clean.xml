@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-730" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-8-730</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>730</order_by>
   <text>
     <section prefix="(a)">The provisions of this section apply if an owner creates a security interest in a vessel.</section>
     <section prefix="(b)">The owner immediately shall execute the application in the space provided on the certificate of title or a separate form the Department prescribes, naming the secured party on the certificate of title, showing the name and address of the secured party, the amount of the security interest, and the date of the security agreement, and cause the certificate of title and application to be delivered to the Department.</section>

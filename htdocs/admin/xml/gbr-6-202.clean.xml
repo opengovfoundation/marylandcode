@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-202" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">In this section, "foreign charitable organization or representative" means a charitable organization or charitable representative who:<section prefix="(1)">has its principal place of business out of state; or</section><section prefix="(2)">is organized under the laws of another state.</section></section>
     <section prefix="(b)">By soliciting a charitable contribution in the State, a foreign charitable organization or representative irrevocably appoints the Secretary of State as agent to receive a subpoena, summons, or other process that is:<section prefix="(1)">issued in an action brought under this title; and</section><section prefix="(2)">directed to:<section prefix="(i)">the foreign charitable organization or representative; or</section><section prefix="(ii)">a partner, principal officer, or director of the foreign charitable organization or representative.</section></section></section>

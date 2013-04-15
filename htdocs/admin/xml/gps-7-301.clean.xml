@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-301" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-7-301</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "commanding officer" means the captain, chief, or other officer in charge of a fir...</catch_line>
+  <order_by>301</order_by>
   <text>In this subtitle, "commanding officer" means the captain, chief, or other officer in charge of a fire company or ambulance company.</text>
 </law>

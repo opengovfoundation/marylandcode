@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-205" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-5-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">A District Court judge may:<section prefix="(1)">set bond or bail;</section><section prefix="(2)">release a defendant on personal recognizance or on a personal or other bail bond;</section><section prefix="(3)">commit a defendant to a correctional facility in default of a bail bond;</section><section prefix="(4)">order a bail bond forfeited if the defendant fails to meet the conditions of the bond; and</section><section prefix="(5)">exercise all of the powers of a justice of the peace under the Constitution of 1867.</section></section>
     <section prefix="(b)">
       <section prefix="(1)">This subsection does not apply to a defendant who has been arrested for failure to appear in court or for contempt of court.</section>
       <section prefix="(2)">
-        <section prefix="(i)">Notwithstanding any other law or rule to the contrary, in a criminal or traffic case in the District Court in which a bail bond has been set and if expressly authorized by the court or District Court commissioner, the defendant or a private surety acting for the defendant may post the bail bond by:</section>
+        <section prefix="(i)">Notwithstanding any other law or rule to the contrary, in a criminal or traffic case in the District Court in which a bail bond has been set and if expressly authorized by the court or District Court commissioner, the defendant or a private surety acting for the defendant may post the bail bond by:<section prefix="1.">executing it in the full penalty amount; and</section><section prefix="2.">depositing with the clerk of the court or a commissioner the greater of 10% of the penalty amount or $25.</section></section>
         <section prefix="(ii)">A judicial officer may increase the percentage of cash surety required in a particular case but may not authorize a cash deposit of less than $25.</section>
       </section>
       <section prefix="(3)">On depositing the amount required under paragraph (2) of this subsection and executing the recognizance, the defendant shall be released from custody subject to the conditions of the bail bond.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-113" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">In this section, "unit counsel" has the meaning stated in &#xA7; 10-107 of this subtitle.</section>
     <section prefix="(b)">If a unit wishes to change the text of a proposed regulation so that any part of the text differs substantively from the text previously published in the Register, the unit may not adopt the proposed regulation unless it is proposed anew and adopted in accordance with the requirements of &#xA7;&#xA7; 10-111 and 10-112 of this subtitle.</section>

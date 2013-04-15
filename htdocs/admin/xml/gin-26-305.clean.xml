@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="26-305" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-26-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">A registration expires on the first August 31 after its effective date unless it is renewed as provided in this section.</section>
     <section prefix="(b)">At least 1 month before a registration expires, the Commissioner shall mail to the licensee, at the last known address of the licensee:<section prefix="(1)">a renewal application form; and</section><section prefix="(2)">a notice that states:<section prefix="(i)">the date on which the current registration expires;</section><section prefix="(ii)">the date by which the Commissioner must receive the renewal application for the renewal to be issued and mailed before the registration expires; and</section><section prefix="(iii)">the amount of the renewal fee.</section></section></section>

@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-203" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Advisory Council consists of 24 members appointed by the Governor.</section>
-      <section prefix="(2)">Of the 24 Advisory Council members:<section prefix="(i)">Except as provided in paragraph (4) of this subsection, 1 member shall be appointed from a list of qualified individuals submitted to the Governor by each of the following organizations:</section><section prefix="(ii)">Six shall be members of the general public.</section></section>
+      <section prefix="(2)">Of the 24 Advisory Council members:<section prefix="(i)">Except as provided in paragraph (4) of this subsection, 1 member shall be appointed from a list of qualified individuals submitted to the Governor by each of the following organizations:<section prefix="1.">The American Heart Association - Mid-Atlantic, Inc.;</section><section prefix="2.">The Department;</section><section prefix="3.">The Johns Hopkins Medical Institutions;</section><section prefix="4.">The Maryland Association of County Health Officers;</section><section prefix="5.">The Maryland Hospital Association, Inc.;</section><section prefix="6.">The Maryland Nurses Association;</section><section prefix="7.">The Medical and Chirurgical Faculty of the State of Maryland;</section><section prefix="8.">The Monumental City Medical Society;</section><section prefix="9.">The Baltimore Alliance for the Prevention and Control of Hypertension and Diabetes;</section><section prefix="10.">The University of Maryland Hospital and School of Medicine;</section><section prefix="11.">The Maryland Academy of Family Physicians;</section><section prefix="12.">The American College of Emergency Physicians Maryland Chapter;</section><section prefix="13.">The American Stroke Association;</section><section prefix="14.">The American Society of Internal Medicine;</section><section prefix="15.">The Maryland Institute for Emergency Medical Services Systems;</section><section prefix="16.">The Maryland State Council on Physical Fitness;</section><section prefix="17.">The Maryland Chapter of the American College of Cardiology; and</section><section prefix="18.">The Maryland Pharmacy Association; and</section></section><section prefix="(ii)">Six shall be members of the general public.</section></section>
       <section prefix="(3)">The number of names on a list shall be 3.</section>
       <section prefix="(4)">If a vacancy occurs for a reason other than expiration of the term, the Governor may appoint any individual without the list.</section>
     </section>

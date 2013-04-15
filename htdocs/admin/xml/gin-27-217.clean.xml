@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-217" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-217</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>217</order_by>
   <text>
     <section prefix="(a)">This section does not apply to:<section prefix="(1)">life insurance;</section><section prefix="(2)">health insurance;</section><section prefix="(3)">annuity contracts; or</section><section prefix="(4)">a pooling arrangement by athletic clubs, charitable organizations, community associations, homeowners' associations, and public entities under Title 19, Subtitle 6 of this article to purchase insurance under this section.</section></section>
     <section prefix="(b)">An authorized insurer or unauthorized insurer may not make available to a firm, corporation, or association of individuals through a rating plan or form, property insurance, casualty insurance, or surety insurance at a preferred rate or premium based on a fictitious group of the firm, corporation, or association of individuals.</section>

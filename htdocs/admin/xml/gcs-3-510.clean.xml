@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-510" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-510</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>510</order_by>
   <text>
     <section prefix="(a)">The Legislative Auditor shall conduct audits of Maryland Correctional Enterprises in accordance with Title 2, Subtitle 12, Part IV of the State Government Article.</section>
     <section prefix="(b)">The Legislative Auditor shall advise officials of Maryland Correctional Enterprises of the frequency of audits to be conducted.</section>

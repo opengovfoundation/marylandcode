@@ -57,7 +57,7 @@ class Law
 		 * Assemble the query that we'll use to get this law.
 		 */
 		$sql = 'SELECT id AS section_id, structure_id, section AS section_number, catch_line,
-				history, text AS full_text, repealed
+				history, text AS full_text
 				FROM laws';
 		
 		/*

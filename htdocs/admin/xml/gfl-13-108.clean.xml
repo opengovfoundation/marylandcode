@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-108" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-13-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">An individual who fails to give bond after being ordered to give bond under &#xA7; 13-107 of this title is subject to imprisonment until bond is given, not exceeding 1 year.</section>
     <section prefix="(b)">In consideration of the financial circumstances of the accused individual, and on the individual's entering into a recognizance, the court may:<section prefix="(1)">suspend imposition of the sentence for failure to give bond; and</section><section prefix="(2)">place the individual on probation for the period that the individual is required to pay support.</section></section>

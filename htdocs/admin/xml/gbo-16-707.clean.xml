@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-707" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-16-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">The Commission may impose on a person who violates this title a civil penalty not exceeding $5,000 for each violation, whether or not the person is licensed or holds a certificate under this title.</section>
     <section prefix="(b)">In setting the amount of a civil penalty, the Commission shall consider:<section prefix="(1)">the seriousness of the violation;</section><section prefix="(2)">the good faith of the violator;</section><section prefix="(3)">any previous violations;</section><section prefix="(4)">the harmful effect of the violation on the complainant, the public, and the business of home inspections or real estate appraisals;</section><section prefix="(5)">the assets of the violator; and</section><section prefix="(6)">any other relevant factors.</section></section>

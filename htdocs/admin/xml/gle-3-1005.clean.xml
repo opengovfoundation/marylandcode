@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-1005" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-1005</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1005</order_by>
   <text>
     <section prefix="(a)">The use of Civil Air Patrol leave under this subtitle may not result in the loss of an employee benefit accrued before the first date of leave.</section>
     <section prefix="(b)">An employee using leave under Title 13 of the Public Safety Article may not concurrently use leave granted under this subtitle.</section>

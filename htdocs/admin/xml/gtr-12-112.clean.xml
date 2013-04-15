@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-112" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-12-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">Unless the information is classified as confidential under &#xA7; 12-111 of this subtitle or otherwise as provided by law, and subject to &#xA7; 10-616(p) of the State Government Article, the Administration may furnish listings of vehicle registration and other public information in its records to those persons who request them, but only if the Administration approves of the purpose for which the information is requested.</section>
     <section prefix="(b)">The Administration shall charge a fee for any listing furnished under this section. The fee charged may not be less than the cost to this State of preparing that listing. The revenue from the fee shall not be subject to the distribution provisions of Title 8, Subtitle 4 of this article.</section>

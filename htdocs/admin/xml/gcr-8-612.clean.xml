@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-612" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-612</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>612</order_by>
   <text>
     <section prefix="(a)">In this section, "token" means a ticket, coupon, coin, disc, slug, or any other thing that:<section prefix="(1)">is evidence of the right of an individual to enter, leave, ride on, or pass through or over any thing or place for which a fee is charged, including a building, ground, public conveyance, vessel, or bridge; and</section><section prefix="(2)">is intended or designed to be inserted into a box or machine for the collection of fees or given to a collector.</section></section>
     <section prefix="(b)">

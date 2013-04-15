@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-235" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-235</section_number>
-  <catch_line/>
+  <catch_line>The Department shall send to the local health official and the local soil conservation district:...</catch_line>
+  <order_by>235</order_by>
   <text>The Department shall send to the local health official and the local soil conservation district:<section prefix=""><section prefix="(1)">A copy of any sewage sludge utilization permit issued in the county;</section><section prefix="(2)">Notice of the denial of an application in the county for a sewage sludge utilization permit;</section><section prefix="(3)">Notice of the suspension, revocation, modification, or termination of a sewage sludge utilization permit issued in the county;</section><section prefix="(4)">A copy of any notice, complaint, or order that the Department issues in the county under Part III of this subtitle; and</section><section prefix="(5)">A copy of any report filed with the Department pursuant to a condition of the permit.</section></section></text>
 </law>

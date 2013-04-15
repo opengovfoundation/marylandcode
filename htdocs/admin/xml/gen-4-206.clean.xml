@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-206" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">After July 1, 1984, the Department shall periodically, but at least once every 3 years, inspect and review the stormwater management programs of the counties and municipalities and their field implementation.</section>
     <section prefix="(b)">These periodic reviews shall be conducted under rules and regulations adopted by the Department.</section>

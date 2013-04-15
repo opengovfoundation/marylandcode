@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-202" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-202</section_number>
-  <catch_line/>
+  <catch_line>Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise s...</catch_line>
+  <order_by>202</order_by>
   <text>Terms with respect to which the confirmatory memoranda of the parties agree or which are otherwise set forth in a writing intended by the parties as a final expression of their agreement with respect to such terms as are included therein may not be contradicted by evidence of any prior agreement or of a contemporaneous oral agreement but may be explained or supplemented<section prefix=""><section prefix="(a)">By course of performance, course of dealing, or usage of trade (&#xA7; 1-303); and</section><section prefix="(b)">By evidence of consistent additional terms unless the court finds the writing to have been intended also as a complete and exclusive statement of the terms of the agreement.</section></section></text>
 </law>

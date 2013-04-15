@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-909" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-909</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>909</order_by>
   <text>
     <section prefix="(a)">Any properly accredited person of known scientific attainment desiring to collect wildlife, nests, or eggs from the wild for scientific or educational purposes shall first obtain a scientific collection permit from the Secretary.</section>
     <section prefix="(b)">The Secretary may issue a scientific collecting permit, on the payment of a reasonable fee, to any properly accredited person who has demonstrated a legitimate scientific or educational need for the requested wildlife.</section>

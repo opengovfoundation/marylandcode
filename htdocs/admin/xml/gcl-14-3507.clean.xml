@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-3507" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-3507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>3507</order_by>
   <text>
     <section prefix="(a)">In this section, "affiliate" means a company that controls, is controlled by, or is under common control with a business described in subsection (c)(1) of this section.</section>
     <section prefix="(b)">A business that complies with the requirements for notification procedures, the protection or security of personal  information, or the destruction of personal information under the rules, regulations, procedures, or guidelines established by the primary or functional federal or State regulator of the business shall be deemed to be in compliance with this subtitle.</section>

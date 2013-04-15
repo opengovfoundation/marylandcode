@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-220" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>220</order_by>
   <text>
     <section prefix="(a)">An employee, an employer, or a labor organization may submit to the Mediation Service a petition for decertification of an organization that:<section prefix="(1)">the Mediation Service has certified as a bargaining representative after a consent election; or</section><section prefix="(2)">an employer currently recognizes as the bargaining representative without a consent election.</section></section>
     <section prefix="(b)">A petition for decertification of an organization as bargaining representative for a bargaining unit:<section prefix="(1)">shall be supported by at least 30% of the employees in the bargaining unit; and</section><section prefix="(2)">may not be submitted within 1 year after certification of the bargaining representative as a result of a consent election.</section></section>

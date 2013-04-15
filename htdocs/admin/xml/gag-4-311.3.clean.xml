@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-311.3" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-4-311.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311.3</order_by>
   <text>
     <section prefix="(a)">Unless a registration for a packer or distributor of shell eggs is renewed for a 1-year term, the registration expires on January 1.</section>
     <section prefix="(b)">Before a registration expires, the registration may be renewed for an additional 1-year term, if the applicant:<section prefix="(1)">Is a packer or distributor of shell eggs;</section><section prefix="(2)">Pays the applicable fee as provided in &#xA7; 4-311.2 of this subtitle; and</section><section prefix="(3)">Submits to the Secretary a renewal application on a form that the Secretary provides.</section></section>

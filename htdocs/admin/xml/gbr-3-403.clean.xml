@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-403" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-3-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">An amusement owner shall obtain insurance against liability for injury to an individual that arises out of the use of an amusement attraction.</section>
-      <section prefix="(2)">The insurance shall be in the amount of at least:<section prefix="(i)">$350,000 for an amusement ride that operates by mechanical means; or</section><section prefix="(ii)">$200,000 for:</section></section>
+      <section prefix="(2)">The insurance shall be in the amount of at least:<section prefix="(i)">$350,000 for an amusement ride that operates by mechanical means; or</section><section prefix="(ii)">$200,000 for:<section prefix="1.">an amusement ride that operates only by human power or gravity, including a water slide or water flume; or</section><section prefix="2.">any other amusement attraction.</section></section></section>
     </section>
     <section prefix="(b)">An amusement owner shall obtain insurance from an insurer or surety that is acceptable to the State Insurance Commissioner.</section>
     <section prefix="(c)">

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-402" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-19-402</section_number>
-  <catch_line/>
+  <catch_line>Unless authorized to practice social work under this title, a person may not:...</catch_line>
+  <order_by>402</order_by>
   <text>Unless authorized to practice social work under this title, a person may not:<section prefix=""><section prefix="(1)">Represent to the public that the person is a licensed social worker; or</section><section prefix="(2)">Use any title, abbreviation, sign, card, or other representation that the person is a licensed social worker, including the use of the words "social worker" or "social work" and the use of the abbreviations "LSWA", "LGSW", "LCSW", or "LCSW-C".</section></section></text>
 </law>

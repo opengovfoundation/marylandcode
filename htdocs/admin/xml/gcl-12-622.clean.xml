@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-622" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-622</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>622</order_by>
   <text>
     <section prefix="(a)">After the buyer has paid all sums due under an agreement, the holder shall deliver or mail to the buyer at his last known address, within 15 days after the holder receives a written request from the buyer:<section prefix="(1)">A signed statement which describes the goods and states that all payments due or to become due under the agreement are paid in full;</section><section prefix="(2)">Good and sufficient instruments to release all security interests in the goods and collateral security owned by the buyer; and</section><section prefix="(3)">Good and sufficient assignments and instruments necessary to vest the buyer with complete evidence of title.</section></section>
     <section prefix="(b)">After the buyer has paid all sums due under an agreement, the holder shall deliver or mail to each surety for the buyer and to each person who is the owner of collateral security, within 15 days after the holder receives a request from the buyer, surety, or other person:<section prefix="(1)">A signed statement which shows that the suretyship is completely discharged; and</section><section prefix="(2)">Good and sufficient instruments to release any collateral security owned by that person.</section></section>

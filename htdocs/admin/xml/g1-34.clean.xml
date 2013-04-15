@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="34" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-34</section_number>
-  <catch_line/>
+  <catch_line>In this Code, unless the context requires otherwise, each reference to a local department of social ...</catch_line>
+  <order_by>34</order_by>
   <text>In this Code, unless the context requires otherwise, each reference to a local department of social services includes the Montgomery County government.</text>
 </law>

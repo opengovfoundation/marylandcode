@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-318" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-318</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>318</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In addition to any hearing required under this subsection or &#xA7; 5-306(b)(2) of this subtitle, a juvenile court may hold a hearing before entering a guardianship order under &#xA7; 5-320(a)(1) of this subtitle or otherwise ruling on a guardianship petition.</section>
-      <section prefix="(2)">If a party becomes aware, before a juvenile court rules on a guardianship petition, that a condition of consent under &#xA7; 5-320(b) of this subtitle may not be fulfilled:<section prefix="(i)">the party promptly shall:</section><section prefix="(ii)">the juvenile court shall schedule a hearing to occur within 30 days after the filing of the notice; and</section><section prefix="(iii)">if the party, unit, or person whose condition cannot be fulfilled fails to enter into a new consent, the juvenile court shall set the case in for a prompt trial on the merits of the petition.</section></section>
+      <section prefix="(2)">If a party becomes aware, before a juvenile court rules on a guardianship petition, that a condition of consent under &#xA7; 5-320(b) of this subtitle may not be fulfilled:<section prefix="(i)">the party promptly shall:<section prefix="1.">file notice with the juvenile court;</section><section prefix="2.">give notice to all of the other parties; and</section><section prefix="3.">if consent was received from a governmental unit or person who is not a party, give notice to that unit or person;</section></section><section prefix="(ii)">the juvenile court shall schedule a hearing to occur within 30 days after the filing of the notice; and</section><section prefix="(iii)">if the party, unit, or person whose condition cannot be fulfilled fails to enter into a new consent, the juvenile court shall set the case in for a prompt trial on the merits of the petition.</section></section>
     </section>
     <section prefix="(b)">Before a juvenile court grants guardianship under &#xA7; 5-320(a)(2) of this subtitle, the juvenile court shall hold a trial on the merits of the petition.</section>
     <section prefix="(c)">Before a trial or other hearing under this section, a juvenile court shall give notice to all of the parties.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2501" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-2501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2501</order_by>
   <text>
     <section prefix="(a)">In this subtitle, "Program" means the Oral Health Safety Net Program.</section>
     <section prefix="(b)">There is an Oral Health Safety Net Program in the Office of Oral Health in the Department.</section>

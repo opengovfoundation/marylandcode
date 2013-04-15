@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="12" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-12</section_number>
-  <catch_line/>
+  <catch_line>The boundaries and limits of each of the counties of this State and of the City of Baltimore shall r...</catch_line>
+  <order_by>12</order_by>
   <text>The boundaries and limits of each of the counties of this State and of the City of Baltimore shall remain as now established.</text>
 </law>

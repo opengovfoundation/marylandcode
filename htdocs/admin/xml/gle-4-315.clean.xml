@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-315" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-4-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">If, in addition to meeting the requirements for an injunction under &#xA7; 4-314 of this subtitle, a plaintiff alleges that, unless a temporary restraining order is issued before a court holds a hearing on issuance of other injunctive relief in a case that involves or grows out of a labor dispute, substantial and irreparable injury to the property of the plaintiff is unavoidable, the court may issue a temporary restraining order in accordance with this section.</section>
     <section prefix="(b)">

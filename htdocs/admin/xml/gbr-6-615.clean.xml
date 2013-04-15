@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-615" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-6-615</section_number>
-  <catch_line/>
+  <catch_line>A person may not act as a fund-raising counsel unless the person's agreement with the charitable org...</catch_line>
+  <order_by>615</order_by>
   <text>A person may not act as a fund-raising counsel unless the person's agreement with the charitable organization states:<section prefix=""><section prefix="(1)">the names and addresses of the parties;</section><section prefix="(2)">the services to be provided;</section><section prefix="(3)">the number of persons to be involved in providing the services;</section><section prefix="(4)">the time when the services are to be provided; and</section><section prefix="(5)">the method and formula for compensation.</section></section></text>
 </law>

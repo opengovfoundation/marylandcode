@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-202" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-18-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of 9 members.</section>
-      <section prefix="(2)">Of the 9 Board members:<section prefix="(i)">2 shall be consumer members; and</section><section prefix="(ii)">7 shall be licensed psychologists, of whom:</section></section>
+      <section prefix="(2)">Of the 9 Board members:<section prefix="(i)">2 shall be consumer members; and</section><section prefix="(ii)">7 shall be licensed psychologists, of whom:<section prefix="1.">At least 2 shall be engaged primarily in providing psychological services; and</section><section prefix="2.">At least 2 shall be engaged primarily in teaching, training, or research in psychology.</section></section></section>
       <section prefix="(3)">The Governor shall appoint the psychologist members, with the advice of the Secretary and the advice and consent of the Senate, from a list of names submitted to the Secretary by the Maryland Psychological Association.</section>
       <section prefix="(4)">For each vacancy of a psychologist member, the Maryland Psychological Association shall:<section prefix="(i)">Notify all licensed psychologists in the State of the vacancy to solicit nominations to fill the vacancy; and</section><section prefix="(ii)">Conduct a balloting process where every licensed psychologist is eligible to vote to select the names of the licensed psychologists that will be submitted to the Governor.</section></section>
       <section prefix="(5)">The Governor shall appoint the consumer members with the advice of the Secretary and the advice and consent of the Senate.</section>

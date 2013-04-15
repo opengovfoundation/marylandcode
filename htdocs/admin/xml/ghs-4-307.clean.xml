@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-307" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Proceeds of a Program loan shall be used only to make a down payment or pay settlement expenses for an eligible homebuyer to purchase a personal residence.</section>
     <section prefix="(b)">A Program loan shall be secured by a mortgage lien that:<section prefix="(1)">may be subordinate to other mortgage liens; and</section><section prefix="(2)">may include terms, including deferred payment of principal and interest, that the Department considers necessary to make housing purchases affordable to eligible homebuyers.</section></section>

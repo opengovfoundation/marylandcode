@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-512" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-11-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">The Commissioner by order summarily may postpone or suspend the effectiveness of the registration statement pending final determination of any proceeding under &#xA7; 11-511 of this subtitle.</section>
     <section prefix="(b)">On the entry of the order, the Commissioner promptly shall notify each person specified in &#xA7; 11-513 of this subtitle:<section prefix="(1)">That it has been entered;</section><section prefix="(2)">The reasons for its entry; and</section><section prefix="(3)">That within 15 days after the receipt of a written request the matter will be set down for hearing.</section></section>

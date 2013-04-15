@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-706" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-706</section_number>
-  <catch_line/>
+  <catch_line>There is an Advisory Council to the Center for the Study of the Health Effects of Fire....</catch_line>
+  <order_by>706</order_by>
   <text>There is an Advisory Council to the Center for the Study of the Health Effects of Fire.</text>
 </law>

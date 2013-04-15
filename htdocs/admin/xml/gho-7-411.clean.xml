@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-411" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-7-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">Before burial or interment, a mortician shall affix to the long bones of the deceased human body a plastic or metal identification tag.</section>
     <section prefix="(b)">After cremation, a licensee shall ensure that a metal or plastic identification tag is placed in the cremains container.</section>

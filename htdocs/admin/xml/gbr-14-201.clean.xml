@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-201" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Advertisement" means a communication that:<section prefix="(1)">is published in connection with an offer to sell or sale of a franchise; and</section><section prefix="(2)">is:<section prefix="(i)">written or printed;</section><section prefix="(ii)">made by means of a recorded telephone message; or</section><section prefix="(iii)">spoken on radio, television, or similar communications media.</section></section></section>

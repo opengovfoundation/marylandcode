@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-209" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">A licensee shall display a license in the way that the Comptroller requires by regulation.</section>
     <section prefix="(b)">A licensee who sells cigarettes through a vending machine:<section prefix="(1)">shall place each package of cigarettes in the machine so that when the package is visible the tax stamps required by &#xA7; 12-304 of the Tax - General Article are also visible; and</section><section prefix="(2)">in the way that the Comptroller requires by regulation, shall:<section prefix="(i)">identify each vending machine with a conspicuous label that states the licensee's name, address, and telephone number; and</section><section prefix="(ii)">display on a conspicuous label applicable prohibitions and penalties under &#xA7; 10-107 of the Criminal Law Article.</section></section></section>

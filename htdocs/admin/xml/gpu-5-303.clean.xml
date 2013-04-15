@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-303" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-5-303</section_number>
-  <catch_line/>
+  <catch_line>A public service company shall furnish equipment, services, and facilities that are safe, adequate, ...</catch_line>
+  <order_by>303</order_by>
   <text>A public service company shall furnish equipment, services, and facilities that are safe, adequate, just, reasonable, economical, and efficient, considering the conservation of natural resources and the quality of the environment.</text>
 </law>

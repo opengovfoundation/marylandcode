@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-302" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-9-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">The Commission consists of 10 members, appointed by the Governor with the advice and consent of the Senate.</section>
     <section prefix="(b)">
@@ -35,8 +35,15 @@
       </section>
       <section prefix="(5)">A former commissioner temporarily assigned under this section has all the power and authority of a member of this Commission.</section>
       <section prefix="(6)">
-        <section prefix="(i)"/>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Notwithstanding the receipt of a retirement allowance, a former commissioner temporarily assigned under this section shall receive per diem compensation for each day actually engaged in the discharge of Commission duties.</section>
+          <section prefix="2.">The per diem shall be based on the current annual salary of a member of the Commission and computed on the basis of 246 working days a year.</section>
+          <section prefix="3.">If the sum of the per diem payments received by a former commissioner in any one calendar year, when added to the retirement allowance the former commissioner is entitled to receive during that calendar year, equals the annual salary of a member of the Commission, no further per diem may be paid to the former commissioner in that calendar year.</section>
+        </section>
+        <section prefix="(ii)">
+          <section prefix="1.">A deduction may not be withheld for health benefits or retirement purposes from the compensation paid to a former commissioner during the time of the temporary assignment.</section>
+          <section prefix="2.">A commissioner on temporary assignment does not earn additional creditable service under the State retirement or pension system.</section>
+        </section>
         <section prefix="(iii)">In addition to the per diem compensation provided for in subparagraph (i) of this paragraph, a former commissioner shall be reimbursed for reasonable expenses actually incurred by reason of the temporary assignment, in accordance with Standard State Travel Regulations.</section>
       </section>
       <section prefix="(7)">The Commission shall adopt regulations consistent with those for the recall of former circuit and District Court judges.</section>

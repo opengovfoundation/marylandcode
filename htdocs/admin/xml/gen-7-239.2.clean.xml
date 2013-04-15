@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-239.2" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-239.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>239.2</order_by>
   <text>
     <section prefix="(a)">The State of Maryland finds that the chemical warfare materials specified under &#xA7; 7-239.1 of this subtitle were designed for warfare, specifically the destruction of human beings, and for no legitimate civilian industrial use.</section>
     <section prefix="(b)">The State recognizes the need to dispose of these chemical warfare materials as safely as possible, ensuring the health and safety of State residents by the regulation of their release into the environment.</section>

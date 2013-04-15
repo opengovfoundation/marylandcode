@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-834" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-834</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>834</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The provisions of this subtitle do not apply to activities of the State Highway Administration, any county roads department in the State, any legally constituted public governing entities such as municipal corporations, or to activities of any person acting under contract with any of these public agencies or entities, on highway rights-of-way or borrow pits owned, operated, or maintained solely in connection with the construction, repair, and maintenance of the public roads systems of the State or other public facilities.</section>

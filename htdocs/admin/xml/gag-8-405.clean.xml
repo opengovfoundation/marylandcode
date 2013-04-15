@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-405" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-8-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds that, from fiscal year 1991 through fiscal year 1998, inadequate resources have been provided for the soil conservation districts to employ adequate field personnel to assist farmers in the preparation of soil conservation and water quality plans.</section>
     <section prefix="(b)">It is the intent of the General Assembly to provide sufficient technical assistance and resources through the soil conservation districts to assist farmers in pursuit of soil conservation and water quality plans and other activities authorized under this title.</section>

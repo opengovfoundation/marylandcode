@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-205" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-22-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">After July 1, 1971, every motor vehicle, trailer, semitrailer, and pole trailer, and any special mobile equipment being towed, shall carry on the rear, either as part of the tail lamps or separately, two or more red reflectors meeting the requirements of this section, except that:<section prefix="(i)">Motorcycles shall carry at least one reflector; and</section><section prefix="(ii)">Vehicles of the types mentioned in &#xA7; 22-208 of this subtitle shall be equipped with reflectors meeting the requirements of &#xA7;&#xA7; 22-210 and 22-211(a) and (b) of this subtitle.</section></section>

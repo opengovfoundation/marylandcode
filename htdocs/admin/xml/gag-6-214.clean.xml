@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-214" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-6-214</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>214</order_by>
   <text>
     <section prefix="(a)">The Secretary may issue and enforce a written stop-sale order to the registrant, owner, custodian, or distributor of any fertilizer or soil conditioner that the Secretary finds is in violation of any provision of this subtitle or regulation under this subtitle, or has been found by federal or State authorities to cause unreasonable adverse effects to humans, animals, plants, or the environment.</section>
     <section prefix="(b)">The order prohibits sale or distribution of the fertilizer or soil conditioner until the Secretary:<section prefix="(1)">Has evidence that the product is in compliance with the law; and</section><section prefix="(2)">Provides a written release from the stop-sale order.</section></section>

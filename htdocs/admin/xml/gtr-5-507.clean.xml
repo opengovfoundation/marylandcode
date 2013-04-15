@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-507" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-5-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">In a case of practical difficulty or unnecessary hardship, the Board, after public notice and hearing, may grant a specific variance from the airport zoning regulations adopted under this subtitle.</section>
     <section prefix="(b)">Any person who desires to use his property in a manner prohibited by an airport zoning regulation adopted under this subtitle may apply to the Board for a variance from the regulation.</section>

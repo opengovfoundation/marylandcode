@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1201" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-1201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1201</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Mineral" includes:<section prefix="(1)">Gas;</section><section prefix="(2)">Oil and oil shale;</section><section prefix="(3)">Coal;</section><section prefix="(4)">Gaseous, liquid, and solid hydrocarbons;</section><section prefix="(5)">Cement materials, sand and gravel, road materials, and building stone;</section><section prefix="(6)">Chemical substances;</section><section prefix="(7)">Gemstone, metallic, fissionable, and nonfissionable ores; and</section><section prefix="(8)">Colloidal and other clay, steam, and geothermal resources.</section></section>

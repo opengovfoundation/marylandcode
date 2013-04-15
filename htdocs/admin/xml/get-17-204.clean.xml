@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-204" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-204</section_number>
-  <catch_line/>
+  <catch_line>The following optional form may be used by an agent to certify facts concerning a power of attorney:...</catch_line>
+  <order_by>204</order_by>
   <text>The following optional form may be used by an agent to certify facts concerning a power of attorney:<section prefix="(1)">The principal is alive and has not revoked the power of attorney or my authority to act under the power of attorney and the power of attorney and my authority to act under the power of attorney have not terminated;</section><section prefix="(2)">If the power of attorney was drafted to become effective on the happening of an event or contingency, the event or contingency has occurred;</section><section prefix="(3)">If I was named as a successor agent, the prior agent is no longer able or willing to serve; and</section><section prefix="(4)">____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________(Insert other relevant statements)</section></text>
 </law>

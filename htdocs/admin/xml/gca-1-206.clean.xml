@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-206" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Unless otherwise provided in this article, all charter documents are effective when accepted for recording or filing by the Department.</section>
     <section prefix="(b)">Except in a proceeding by the State for the forfeiture of a charter or in a proceeding by the State or any of its political subdivisions for the enforcement of any other right or remedy, the acceptance for record or filing of any charter document by the Department is conclusive evidence of the payment of all recording, filing, and special fees and of all bonus and other taxes payable by law.</section>

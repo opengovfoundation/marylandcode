@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-702" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person may not buy, sell, ship, transport, or otherwise deal in finfish or shellfish unless the person is licensed by the Department.</section>
     <section prefix="(b)">The following persons are not required to obtain a license under this section:<section prefix="(1)">A person licensed by the Department to catch finfish or shellfish for sale;</section><section prefix="(2)">A retail market, restaurant, or other establishment where finfish or shellfish are sold or served to ultimate consumers, and not for resale;</section><section prefix="(3)">A person who buys finfish or shellfish for personal use or consumption; and</section><section prefix="(4)">A person who catches and sells as bait finfish or shellfish species defined as bait under subsection (c) of this section.</section></section>

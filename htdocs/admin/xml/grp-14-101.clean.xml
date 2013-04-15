@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-101" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-101</section_number>
-  <catch_line/>
+  <catch_line>Any alien who is not an enemy, may own, sell, devise, dispose of, or otherwise deal with property in...</catch_line>
+  <order_by>101</order_by>
   <text>Any alien who is not an enemy, may own, sell, devise, dispose of, or otherwise deal with property in the same manner as if he had been a citizen of the State by birth.</text>
 </law>

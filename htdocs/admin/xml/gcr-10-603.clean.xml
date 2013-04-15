@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-603" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-603</section_number>
-  <catch_line/>
+  <catch_line>Sections 10-601 through 10-608 of this subtitle do not apply to:...</catch_line>
+  <order_by>603</order_by>
   <text>Sections 10-601 through 10-608 of this subtitle do not apply to:<section prefix=""><section prefix="(1)">customary and normal veterinary and agricultural husbandry practices including dehorning, castration, tail docking, and limit feeding;</section><section prefix="(2)">research conducted in accordance with protocols approved by an animal care and use committee, as required under the federal Animal Welfare Act or the federal Health Research Extension Act;</section><section prefix="(3)">an activity that may cause unavoidable physical pain to an animal, including food processing, pest elimination, animal training, and hunting, if the person performing the activity uses the most humane method reasonably available; or</section><section prefix="(4)">normal human activities in which the infliction of pain to an animal is purely incidental and unavoidable.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-309" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">A person may not violate this subtitle or an order, rule, or regulation promulgated under this subtitle.</section>
     <section prefix="(b)">In meeting the requirements of an order, rule, or regulation promulgated under this subtitle or in applying for a service or benefit provided by the State in the allocation or assignment of energy supplies, a person may not willfully:<section prefix="(1)">conceal a material fact;</section><section prefix="(2)">make a false, fictitious, or fraudulent statement or representation; or</section><section prefix="(3)">use a false writing or document that contains a false, fictitious, or fraudulent statement.</section></section>

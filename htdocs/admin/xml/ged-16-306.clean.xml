@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-306" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, a public junior or community college shall reimburse the State annually for the employer contributions made by the State for an employee who:<section prefix="(i)">Is a member of the Teachers' Retirement System or the Teachers' Pension System under Division II of the State Personnel and Pensions Article; and</section><section prefix="(ii)">Is receiving a salary funded by a source other than State or local aid.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-203.3" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-1-203.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203.3</order_by>
   <text>
     <section prefix="(a)">There is a continuing, nonlapsing fund that is not subject to &#xA7; 7-302 of the State Finance and Procurement Article.</section>
     <section prefix="(b)">Subject to the appropriation process in the State budget, the Department shall use the fund:<section prefix="(1)">For the costs of reviewing, processing, and auditing documents filed or requested under this article or other articles of the Code; and</section><section prefix="(2)">To pay redemption or extinguishment amounts to former owners of ground rents redeemed or extinguished in accordance with &#xA7; 8-110 of the Real Property Article.</section></section>

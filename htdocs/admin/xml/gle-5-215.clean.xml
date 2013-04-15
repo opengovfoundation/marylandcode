@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-215" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-215</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>215</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person adversely affected or aggrieved by any order that the Commissioner passes under this title or any regulation that the Commissioner adopts to carry out this title may file a complaint within 30 days after issuance of the order or regulation to have it modified or set aside.</section>
-      <section prefix="(2)">A complaint filed under this subsection shall be filed in the circuit court for:<section prefix="(i)">Baltimore City; or</section><section prefix="(ii)">the county where:</section></section>
+      <section prefix="(2)">A complaint filed under this subsection shall be filed in the circuit court for:<section prefix="(i)">Baltimore City; or</section><section prefix="(ii)">the county where:<section prefix="1.">the employer has its principal office; or</section><section prefix="2.">the violation allegedly occurred.</section></section></section>
       <section prefix="(3)">A copy of the complaint shall be served on the Commissioner and other affected parties.</section>
     </section>
     <section prefix="(b)">In a proceeding under this section, a court may not stay an order or regulation of the Commissioner unless:<section prefix="(1)">the court gives the Commissioner notice and an opportunity for a hearing; and</section><section prefix="(2)">the aggrieved person posts security and meets each other condition that the court considers proper.</section></section>

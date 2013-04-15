@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-304" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">If, after a public hearing, the Commissioner finds that there is an abnormally high incidence of arson in properties that are insured through commercial monoline fire policies, have a certain type of occupancy, or are located in a certain geographic area of the State, the Commissioner shall require that an antiarson application be used to obtain property insurance covering the peril of fire for property that is insured through that type of policy, has that type of occupancy, or is located in that geographic area of the State.</section>
     <section prefix="(b)">The Commissioner shall require that an antiarson application be completed when a property insurance policy or contract covering the peril of fire is assigned because of the transfer of a major financial interest in the insured real property, if an antiarson application otherwise would be required under this subtitle.</section>

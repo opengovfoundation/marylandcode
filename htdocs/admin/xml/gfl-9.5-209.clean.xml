@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9.5-209" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9.5-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In a child custody proceeding, each party, in its first pleading or in an attached affidavit, shall give information, if reasonably ascertainable, under oath as to the child's present address or whereabouts, the places where the child has lived during the last 5 years, and the names and present addresses of the persons with whom the child has lived during that period.</section>

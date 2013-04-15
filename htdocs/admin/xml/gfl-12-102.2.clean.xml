@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-102.2" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-12-102.2</section_number>
-  <catch_line/>
+  <catch_line>An administrative order or a medical support notice for health insurance coverage issued in any othe...</catch_line>
+  <order_by>102.2</order_by>
   <text>An administrative order or a medical support notice for health insurance coverage issued in any other state or territory will be enforced to the same extent in a proceeding under this subtitle as an order or a medical support notice for health insurance coverage issued in this State.</text>
 </law>

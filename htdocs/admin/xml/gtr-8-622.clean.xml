@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-622" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-8-622</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>622</order_by>
   <text>
     <section prefix="(a)">If property held under one ownership is divided by a freeway, the Administration may provide access across the freeway from one tract to the other and may specify the terms and conditions of that access.</section>
     <section prefix="(b)">If the tracts cease to be held under one ownership, the Administration may terminate the access.</section>

@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="3A-313" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-3A-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
         <section prefix="(i)">"Payee" means any party who receives from the State an aggregate payment of $25,000 in a fiscal year.</section>
-        <section prefix="(ii)">"Payee" does not include:</section>
+        <section prefix="(ii)">"Payee" does not include:<section prefix="1.">a State employee with respect to the employee's compensation; or</section><section prefix="2.">a State retiree with respect to the retiree's retirement allowance.</section></section>
       </section>
       <section prefix="(3)">"Searchable website" means a website created in accordance with this section that displays and searches State payment data.</section>
     </section>

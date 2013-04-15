@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-307" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-12-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">Because of an act of God, or condemnation or abandonment of the primary business by the owner of a business operating on the premises, a person may:<section prefix="(1)">remove a slot machine from any premises on which a slot machine is allowed to operate under law; and</section><section prefix="(2)">transfer the slot machine to another premises within the same county.</section></section>
     <section prefix="(b)">A person who transfers a slot machine from one premises to another may not increase the total number of machines allowed by law.</section>

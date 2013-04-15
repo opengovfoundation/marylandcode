@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-905" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">On or before May 1 of each year, the Department shall notify each local governing body of its allocation of local acquisition and development funds for the next fiscal year within the limits imposed by the formula developed for the apportionment of the annual appropriations for Program Open Space.</section>
@@ -30,13 +30,13 @@
       <section prefix="(4)">If federal funds are provided on any acquisition project, the State shall provide 100 percent of the difference between the total project cost and the federal contribution.</section>
       <section prefix="(5)">
         <section prefix="(i)">A local governing body shall use part of its funds reserved for acquisition for a local advance option and purchase fund. The funding level of the local advance option and purchase fund shall be determined on an annual basis and submitted as part of the annual program under subsection (a) of this section. The local advance option and purchase fund may be used to obtain an option on any parcel of land identified by the local governing body as facing intense development pressure within that county in advance of purchase or to purchase specific tracts of land.</section>
-        <section prefix="(ii)">Funds available in a local advance option and purchase fund shall be allocated in the following order of priority:</section>
+        <section prefix="(ii)">Funds available in a local advance option and purchase fund shall be allocated in the following order of priority:<section prefix="1.">First to obtain an option on any parcel of land identified by the local governing body as facing intense or immediate development pressure within that county in advance of purchase, or to purchase a specific tract of land identified by the local governing body as facing intense development pressure within that county; and</section><section prefix="2.">Then to purchase property on which an option has been obtained or any other parcel of land.</section></section>
       </section>
       <section prefix="(6)">
         <section prefix="(i)">A local governing body may use part of its funds reserved for acquisition for a local land trust grant fund.</section>
-        <section prefix="(ii)">A local land trust grant fund may be used to:</section>
+        <section prefix="(ii)">A local land trust grant fund may be used to:<section prefix="1.">Make matching or reimbursable grants to land trusts for the acquisition of interests or rights in real property for recreational or open space purposes; or</section><section prefix="2.">Acquire, under an agreement with a land trust, title to or an interest or right in property owned by a land trust or property on which the land trust holds an option or a contract to purchase.</section></section>
         <section prefix="(iii)">As a condition to any agreement under which a local government agrees to acquire title to or an interest or rights in property owned by a land trust or property on which the land trust holds an option or a contract to purchase, a perpetual conservation easement on the land shall be donated.</section>
-        <section prefix="(iv)">A project may not receive funds from a local land trust grant fund unless:</section>
+        <section prefix="(iv)">A project may not receive funds from a local land trust grant fund unless:<section prefix="1.">The project is approved in the local governing body's grant agreement; or</section><section prefix="2.">The Department and the Board of Public Works approve the project as being in conformity with criteria governing land acquired under a local grant from Program Open Space.</section></section>
         <section prefix="(v)">The Department may approve a grant from a local land trust grant fund conditional upon modifying its terms.</section>
       </section>
       <section prefix="(7)">
@@ -49,13 +49,18 @@
       <section prefix="(1)">
         <section prefix="(i)">One half of any local governing body's annual apportionment shall be used for acquisition or development projects provided that up to 20 percent of the funds authorized for acquisition or development projects under this subparagraph may be used for capital renewal as defined in &#xA7; 5-901 of this subtitle.</section>
         <section prefix="(ii)">If the Department and the Department of Planning certify that acquisition goals set forth in the current, approved local land preservation and recreation plan have been met and that such acreage attainment equals or exceeds the minimum recommended acreage goals developed for that jurisdiction under the Maryland Land Preservation and Recreation Plan, a local governing body may use up to 75 percent of its future annual apportionment for development projects for a period of 5 years after attainment, provided that up to 20 percent of the funds authorized for use for development projects under this subparagraph may be used for capital renewal.</section>
-        <section prefix="(iii)">If a county determines that it qualifies for the additional funds for development and capital renewal projects under subparagraph (ii) of this paragraph, before the due date for all local governing bodies to submit revised local land preservation and recreation plans, that county may submit an interim local land preservation and recreation plan:</section>
+        <section prefix="(iii)">If a county determines that it qualifies for the additional funds for development and capital renewal projects under subparagraph (ii) of this paragraph, before the due date for all local governing bodies to submit revised local land preservation and recreation plans, that county may submit an interim local land preservation and recreation plan:<section prefix="1.">Prior to the submission under subsection (b)(2) of this section; and</section><section prefix="2.">In addition to the submission required under subsection (b)(2) of this section.</section></section>
       </section>
       <section prefix="(2)">The State shall provide 100 percent of the total project cost of each approved local acquisition project or, if federal funds are provided, 100 percent of the difference between the total project cost and the federal contribution.</section>
       <section prefix="(3)">
-        <section prefix="(i)">Except as provided in subparagraph (iii) of this paragraph, if the local governing body is unable to obtain federal funds pursuant to &#xA7; 5-906 of this subtitle, for each approved local development project the State shall provide:</section>
-        <section prefix="(ii)">Except as provided in subparagraph (iii) of this paragraph, if federal funds are provided on any development project cost, the State shall provide 50 percent of the difference between the total project cost and the federal contribution. Subject to the limitation that total State funds, when added to every other available fund, may not exceed 100 percent of a project's cost, the minimum State contribution to a project shall be 25 percent. If the federal funds are less than 50 percent of the total project cost, the State shall provide an amount equal to the difference between the federal contribution and:</section>
-        <section prefix="(iii)"/>
+        <section prefix="(i)">Except as provided in subparagraph (iii) of this paragraph, if the local governing body is unable to obtain federal funds pursuant to &#xA7; 5-906 of this subtitle, for each approved local development project the State shall provide:<section prefix="1.">75 percent of the total project cost; or</section><section prefix="2.">If the Department has certified pursuant to paragraph (1) of this subsection that acquisition goals have been met, 90 percent of the total project cost.</section></section>
+        <section prefix="(ii)">Except as provided in subparagraph (iii) of this paragraph, if federal funds are provided on any development project cost, the State shall provide 50 percent of the difference between the total project cost and the federal contribution. Subject to the limitation that total State funds, when added to every other available fund, may not exceed 100 percent of a project's cost, the minimum State contribution to a project shall be 25 percent. If the federal funds are less than 50 percent of the total project cost, the State shall provide an amount equal to the difference between the federal contribution and:<section prefix="1.">75 percent of the total project cost; or</section><section prefix="2.">If the Department has certified pursuant to paragraph (1) of this subsection that acquisition goals have been met, 90 percent of the total project cost.</section></section>
+        <section prefix="(iii)">
+          <section prefix="1.">Subject to the requirement in subsubparagraph 3 of this subparagraph, if a local governing body uses its funds appropriated under &#xA7; 5-903(b)(1) of this subtitle to build a recreational facility within a priority funding area, as defined in &#xA7; 5-7B-02 of the State Finance and Procurement Article, the State shall provide 90 percent of the total project cost.</section>
+          <section prefix="2.">Subject to subsubparagraph 4 of this subparagraph, if a local governing body uses its funds appropriated under &#xA7; 5-903(b)(1) of this subtitle to construct an indoor recreational facility that is not ancillary and necessary for outdoor recreation, and will be located outside of a priority funding area, as defined in &#xA7; 5-7B-02 of the State Finance and Procurement Article, the State shall provide 50 percent of the total project cost.</section>
+          <section prefix="3.">The State shall provide 90 percent of the total project cost under subsubparagraph 1 of this subparagraph if the local governing body agrees to limit the amount of impervious surface on the land acquired within a priority funding area, as defined in &#xA7; 5-7B-02 of the State Finance and Procurement Article, to no more than 10 percent of the land.</section>
+          <section prefix="4.">The 50% funding limit under subsubparagraph 2 of this subparagraph does not apply if the Department determines that:</section>
+        </section>
       </section>
     </section>
     <section prefix="(d)">If land is donated to local governing bodies during the fiscal year, 75 percent of the appraised value the Department approves may be applied as a portion of, or all of, the local governing body's share of the project's cost for the projects referred to in &#xA7; 5-904 of this subtitle.</section>

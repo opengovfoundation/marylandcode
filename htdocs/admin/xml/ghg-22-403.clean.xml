@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-22-403</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>403</order_by>
   <text>
     <section prefix="(a)">At any reasonable time, a representative of the Department may enter any factory, warehouse, or establishment in which a product is manufactured, processed, packaged, or stored and inspect any pertinent equipment, labeling, or finished or unfinished products.</section>
     <section prefix="(b)">On entering any factory, warehouse, or establishment to make an inspection under this section, the representative of the Department shall present appropriate credentials to the owner, operator, or agent in charge.</section>

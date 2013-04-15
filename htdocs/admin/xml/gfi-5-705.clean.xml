@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-705" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to paragraph (2) of this subsection, each banking institution shall be closed on the following legal holidays:<section prefix="(i)">New Year's Day;</section><section prefix="(ii)">Dr. Martin Luther King, Jr.'s Birthday;</section><section prefix="(iii)">Washington's Birthday;</section><section prefix="(iv)">Good Friday;</section><section prefix="(v)">Memorial Day;</section><section prefix="(vi)">Independence Day;</section><section prefix="(vii)">Labor Day;</section><section prefix="(viii)">Columbus Day;</section><section prefix="(ix)">Veterans' Day;</section><section prefix="(x)">Thanksgiving Day; and</section><section prefix="(xi)">Christmas Day.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">When a legal holiday differs from the corresponding federal holiday, a banking institution:</section>
-        <section prefix="(ii)">When there is no corresponding federal holiday for a legal holiday listed in paragraph (1) of this subsection, a banking institution:</section>
+        <section prefix="(i)">When a legal holiday differs from the corresponding federal holiday, a banking institution:<section prefix="1.">May be closed on both holidays; and</section><section prefix="2.">Shall be closed on one of the holidays.</section></section>
+        <section prefix="(ii)">When there is no corresponding federal holiday for a legal holiday listed in paragraph (1) of this subsection, a banking institution:<section prefix="1.">May be closed on the legal holiday; or</section><section prefix="2.">May remain open on the legal holiday.</section></section>
       </section>
     </section>
     <section prefix="(b)">

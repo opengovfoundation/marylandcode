@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-518" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-20-518</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>518</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Executive Director shall refer the status of an insured's driver's license to the Motor Vehicle Administration for a determination whenever the Executive Director finds that the insured, in the last 12-month period, had three or more chargeable accidents under the rules and rate schedules of the Fund filed with the Commissioner involving third-party liability, regardless of the number of points assessed for those accidents.</section>

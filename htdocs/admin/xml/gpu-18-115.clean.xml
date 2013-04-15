@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-115" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-18-115</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>115</order_by>
   <text>
     <section prefix="(a)">Each merit system employee is entitled to the number of days of annual leave with pay that the Commission specifies by regulation.</section>
     <section prefix="(b)">The number of days of annual leave with pay specified by a regulation adopted under this section shall be:<section prefix="(1)">at least 10 days but not more than 30 days in a calendar year; and</section><section prefix="(2)">generally consistent with the annual leave schedules provided by other governmental agencies in the area of the sanitary district.</section></section>

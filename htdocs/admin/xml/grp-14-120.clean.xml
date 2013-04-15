@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-120" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Commercial property" does not include residential rental property.</section>
-      <section prefix="(3)">"Community association" means:<section prefix="(i)">A nonprofit association, corporation, or other organization that is:</section><section prefix="(ii)">A nonprofit association, corporation, or other organization that is:</section></section>
+      <section prefix="(3)">"Community association" means:<section prefix="(i)">A nonprofit association, corporation, or other organization that is:<section prefix="1.">Comprised of residents of a community within which a nuisance is located;</section><section prefix="2.">Operated exclusively for the promotion of social welfare and general neighborhood improvement and enhancement; and</section><section prefix="3.">Exempt from taxation under &#xA7; 501(c)(3) or (4) of the Internal Revenue Code; or</section></section><section prefix="(ii)">A nonprofit association, corporation, or other organization that is:<section prefix="1.">Comprised of residents of a contiguous community that is defined by specific geographic boundaries, within which a nuisance is located; and</section><section prefix="2.">Operated for the promotion of the welfare, improvement and enhancement of that community.</section></section></section>
       <section prefix="(4)">"Controlled dangerous substance" means a substance listed in Schedule I or Schedule II under &#xA7; 5-402 or &#xA7; 5-403 of the Criminal Law Article.</section>
-      <section prefix="(5)">"Nuisance" means a property that is used:<section prefix="(i)"/><section prefix="(ii)">For prostitution.</section></section>
+      <section prefix="(5)">"Nuisance" means a property that is used:<section prefix="(i)"><section prefix="1.">By persons who assemble for the specific purpose of illegally administering a controlled dangerous substance;</section><section prefix="2.">For the illegal manufacture, or distribution of:</section><section prefix="3.">For the illegal storage or concealment of a controlled dangerous substance in sufficient quantity to reasonably indicate under all the circumstances an intent to manufacture, distribute, or dispense:</section></section><section prefix="(ii)">For prostitution.</section></section>
       <section prefix="(6)">
         <section prefix="(i)">"Operator" means a person that exercises control over property.</section>
         <section prefix="(ii)">"Operator" includes a property manager or any other person that is authorized to evict a tenant.</section>
@@ -24,7 +24,7 @@
       <section prefix="(11)">
         <section prefix="(i)">"Tenant" means the lessee or a person occupying property, whether or not a party to a lease.</section>
         <section prefix="(ii)">"Tenant" includes a lessee or a person occupying a mobile home, whether or not a party to a lease.</section>
-        <section prefix="(iii)">"Tenant" does not include:</section>
+        <section prefix="(iii)">"Tenant" does not include:<section prefix="1.">The owner of the property; or</section><section prefix="2.">A mobile home owner who leases or rents a site for residential use and resides in a mobile home park.</section></section>
       </section>
     </section>
     <section prefix="(b)">An action under &#xA7; 4-401 of the Courts Article to abate a nuisance may be brought by:<section prefix="(1)">The State's Attorney of the county in which the nuisance is located;</section><section prefix="(2)">The county attorney or solicitor of the county in which the nuisance is located;</section><section prefix="(3)">A community association within whose boundaries the nuisance is located; or</section><section prefix="(4)">A municipal corporation within whose boundaries the nuisance is located.</section></section>
@@ -44,7 +44,7 @@
     <section prefix="(f)">A plaintiff is entitled to relief under this section whether or not an adequate remedy exists at law.</section>
     <section prefix="(g)">
       <section prefix="(1)">If, after a hearing, the court determines that a nuisance exists, the court may order any appropriate injunctive or other equitable relief.</section>
-      <section prefix="(2)">Notwithstanding any other provision of law, and in addition to or as a component of any remedy ordered under paragraph (1) of this subsection, the court may order:<section prefix="(i)">A tenant who knew or should have known of the existence of the nuisance to vacate the property within 72 hours; or</section><section prefix="(ii)">An owner or operator of the property to submit for court approval a plan of correction to ensure, to the extent reasonably possible, that the property will not again be used for a nuisance if:</section></section>
+      <section prefix="(2)">Notwithstanding any other provision of law, and in addition to or as a component of any remedy ordered under paragraph (1) of this subsection, the court may order:<section prefix="(i)">A tenant who knew or should have known of the existence of the nuisance to vacate the property within 72 hours; or</section><section prefix="(ii)">An owner or operator of the property to submit for court approval a plan of correction to ensure, to the extent reasonably possible, that the property will not again be used for a nuisance if:<section prefix="1.">The owner or operator is a party to the action; and</section><section prefix="2.">The owner or operator knew or should have known of the existence of the nuisance.</section></section></section>
     </section>
     <section prefix="(h)">
       <section prefix="(1)">
@@ -53,7 +53,7 @@
       </section>
       <section prefix="(2)">
         <section prefix="(i)">This paragraph does not apply to an action brought under this section alleging the use of a property for prostitution.</section>
-        <section prefix="(ii)">If an owner, including an owner-occupant, fails to comply with an order under subsection (g) of this section, after a hearing the court may, in addition to issuing a contempt order or an order for any other relief, order that:</section>
+        <section prefix="(ii)">If an owner, including an owner-occupant, fails to comply with an order under subsection (g) of this section, after a hearing the court may, in addition to issuing a contempt order or an order for any other relief, order that:<section prefix="1.">The property be sold, at the owner's expense, in accordance with the Maryland Rules governing judicial sales; or</section><section prefix="2.">The property be demolished if the property is unfit for habitation and the estimated cost of rehabilitation significantly exceeds the estimated market value of the property after rehabilitation.</section></section>
       </section>
       <section prefix="(3)">
         <section prefix="(i)">This paragraph applies only to an action brought under this section alleging the use of a property for prostitution.</section>

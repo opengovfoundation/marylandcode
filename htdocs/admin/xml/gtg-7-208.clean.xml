@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-208" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If there is a formal administration of an estate, the court with jurisdiction to administer the estate shall determine, for purposes of the inheritance tax, the value of any concurrent absolute interest or less than absolute interest in property that passes from the decedent, that is listed in an account required under &#xA7; 7-305 of the Estates and Trusts Article, and that is not valued in the manner required in &#xA7;&#xA7; 7-209 through 7-211 of this subtitle.</section>

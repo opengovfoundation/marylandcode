@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-208" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">Every sheriff and law enforcement officer has the powers of a Natural Resources police officer.</section>
     <section prefix="(b)">Whenever the Secretary or any Natural Resources police officer requires the advice and assistance of the State's Attorneys, sheriffs of the several counties of the State or Baltimore City, or any law enforcement officer, these officers shall render the required assistance as in other State cases.</section>

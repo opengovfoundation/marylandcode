@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-405" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-11-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">Every purchaser or hauler of milk or other fluid dairy products who is involved in the testing of samples shall have these operations performed only by individuals licensed by the Secretary.</section>
     <section prefix="(b)">Any person who calibrates a farm milk tank, other than the owner of the tank, first shall obtain a license from the Secretary.</section>

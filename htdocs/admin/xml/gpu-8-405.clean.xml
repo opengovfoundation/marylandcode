@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-405" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">This section applies to a telephone company or reseller that initiates an unauthorized change in violation of this subtitle in:<section prefix="(1)">a customer's telephone company;</section><section prefix="(2)">a customer's reseller;</section><section prefix="(3)">a customer's telecommunications service options; or</section><section prefix="(4)">the person who bills the customer or the customer's billing arrangement.</section></section>
     <section prefix="(b)">A telephone company or reseller that is subject to this section is liable:<section prefix="(1)">to the customer, the customer's previously selected telephone company or reseller, or both, as determined by the Commission, for all intrastate long distance charges, interstate long distance charges, local exchange service charges, provider switching fees, the value of any premiums to which the customer would have been entitled, and other relevant charges incurred by the customer in the first 30 days of the unauthorized change; and</section><section prefix="(2)">to the customer's local exchange provider for the change fees for the unauthorized change and reinstating the customer to the original telephone company or reseller.</section></section>

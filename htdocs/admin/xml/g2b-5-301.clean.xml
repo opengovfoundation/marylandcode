@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-301" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-5-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided in subsection (n) of this section, a Class C beer and light wine license shall be issued by the license issuing authority of the county in which the place of business is located. The holder of the license may keep for sale and sell beer and light wines at retail to bona fide members and their guests, at any club, at the place described in the license, for consumption on the premises only.</section>
@@ -30,16 +30,25 @@
     <section prefix="(n)">
       <section prefix="(1)">This subsection applies only in Harford County.</section>
       <section prefix="(2)">
-        <section prefix="(i)">The Liquor Control Board may issue a 6-day, Monday through Saturday, or a 7-day Class C-1 beer and light wine license for the sale of beer and light wine for consumption on the premises only to a bona fide not for profit association or corporation that:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">The Liquor Control Board may issue a 6-day, Monday through Saturday, or a 7-day Class C-1 beer and light wine license for the sale of beer and light wine for consumption on the premises only to a bona fide not for profit association or corporation that:<section prefix="1.">Is organized for patriotic or war veterans purposes; and</section><section prefix="2.">Has held regular meetings at an established headquarters for a period of 1 year prior to the application for the license.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">The annual fee for a 6-day license under this paragraph is $150.</section>
+          <section prefix="2.">The annual fee for a 7-day license under this paragraph is $225.</section>
+        </section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">The Liquor Control Board may issue a 6-day, Monday through Saturday, or a 7-day Class C-2 beer and light wine license for the sale of beer and light wine for consumption on the premises only to a bona fide not for profit association or corporation that:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">The Liquor Control Board may issue a 6-day, Monday through Saturday, or a 7-day Class C-2 beer and light wine license for the sale of beer and light wine for consumption on the premises only to a bona fide not for profit association or corporation that:<section prefix="1.">Is organized for fraternal purposes; and</section><section prefix="2.">Has held regular meetings at an established headquarters for a period of 1 year prior to the application for the license.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">The annual fee for a 6-day license under this paragraph is $350.</section>
+          <section prefix="2.">The annual fee for a 7-day license under this paragraph is $425.</section>
+        </section>
       </section>
       <section prefix="(4)">
-        <section prefix="(i)">The Liquor Control Board may issue a 6-day, Monday through Saturday, or a 7-day Class C-3 beer and light wine license for the sale of beer and light wine for consumption on the premises only to a bona fide not for profit association or corporation that:</section>
-        <section prefix="(ii)"/>
+        <section prefix="(i)">The Liquor Control Board may issue a 6-day, Monday through Saturday, or a 7-day Class C-3 beer and light wine license for the sale of beer and light wine for consumption on the premises only to a bona fide not for profit association or corporation that:<section prefix="1.">Is organized for social, educational, or athletic purposes; and</section><section prefix="2.">Has held regular meetings at an established headquarters for a period of 1 year prior to the application for the license.</section></section>
+        <section prefix="(ii)">
+          <section prefix="1.">The annual fee for a 6-day license under this paragraph is $450.</section>
+          <section prefix="2.">The annual fee for a 7-day license under this paragraph is $525.</section>
+        </section>
       </section>
     </section>
     <section prefix="(o)">

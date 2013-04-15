@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-621" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-621</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>621</order_by>
   <text>
     <section prefix="(a)">At any time after execution of an agreement, but not later than one year after the last payment is made under it, the holder shall deliver or mail to the buyer at his last known address, within 10 days after the holder receives a written request from the buyer, a copy of the agreement and a signed statement which sets forth:<section prefix="(1)">The amount paid by or on behalf of the buyer, and the allocation of the amount between principal obligations and charges, including charges for delinquencies, expenses of repossession, extensions, and refunds;</section><section prefix="(2)">Any amount which remains payable, and the allocation of the amount between principal obligations and charges, including charges for delinquencies, expenses of repossessions, extensions, and refunds; and</section><section prefix="(3)">The number of installments payable in the future, and the amount and time of each.</section></section>
     <section prefix="(b)">The statement shall be supplied free of charge, except that a fee of 50 cents may be charged for any statement supplied within 60 days after a prior statement was supplied.</section>

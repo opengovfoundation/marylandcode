@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-203" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-11-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Commission may require any institution of postsecondary education that is required to obtain a certificate of approval or required to register under &#xA7; 11-202.2 of this subtitle to furnish a performance bond or other form of financial guarantee for either the certificate of approval or the registration to the State conditioned that the institution will:<section prefix="(1)">Perform faithfully all agreements or contracts it makes with its students; and</section><section prefix="(2)">Comply with this article.</section></section>
     <section prefix="(b)">Any bond or guarantee required under this section shall be in the form and amount the Secretary requires.</section>
@@ -16,10 +16,18 @@
     <section prefix="(d)">
       <section prefix="(1)">By rule and regulation, the Commission may create and provide for the operation of three separate guaranty funds for:<section prefix="(i)">For-profit institutions of higher education;</section><section prefix="(ii)">Private career schools; and</section><section prefix="(iii)">Institutions of postsecondary education that are required to register under &#xA7; 11-202.2 of this subtitle.</section></section>
       <section prefix="(2)">
-        <section prefix="(i)">The private career school fund shall be used:</section>
+        <section prefix="(i)">The private career school fund shall be used:<section prefix="1.">To reimburse any student at a private career school who is entitled to a refund of tuition and fees because the institution has failed to perform faithfully any agreement or contract with the student or failed to comply with any provision of this article; or</section><section prefix="2.">For any other function directly related to the original purpose of the fund deemed appropriate by the Secretary.</section></section>
         <section prefix="(ii)">The for-profit institution of higher education fund shall be used to reimburse any student at a for-profit institution of higher education who is entitled to a refund of tuition and fees because the institution has failed to perform faithfully any agreement or contract with the student or failed to comply with any provision of this article.</section>
-        <section prefix="(iii)"/>
-        <section prefix="(iv)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">The fund for institutions of postsecondary education that are required to register under &#xA7; 11-202.2 of this subtitle shall be used to reimburse any student at any of these institutions who is entitled to a refund of tuition and fees because the institution has failed to perform faithfully any agreement or contract with the student or failed to comply with any provision of this article.</section>
+          <section prefix="2."/>
+          <section prefix="3.">Notwithstanding subsubparagraph 2 of this subparagraph, a student who takes courses from an institution exempted from contribution to the fund under subsubparagraph 2 of this subparagraph may make a claim against the fund in accordance with subsubparagraph 1 of this subparagraph.</section>
+        </section>
+        <section prefix="(iv)">
+          <section prefix="1.">The funds shall be continuing, nonlapsing funds, not subject to &#xA7; 7-302 of the State Finance and Procurement Article.</section>
+          <section prefix="2.">Any unspent portions of the funds may not be transferred or revert to the General Fund of the State, but shall remain in the funds to be used for the purposes specified in this subsection.</section>
+          <section prefix="3.">No other State money may be used to support the funds.</section>
+        </section>
         <section prefix="(v)">The Commission shall be subrogated to and may enforce the claim of any student to the extent of any actual or authorized reimbursement from the funds.</section>
       </section>
       <section prefix="(3)">

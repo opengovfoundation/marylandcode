@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-112" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (c) of this section, after a verdict of not criminally responsible, the court immediately shall commit the defendant to the Health Department for institutional inpatient care or treatment.</section>
     <section prefix="(b)">If the court commits a defendant who was found not criminally responsible primarily because of mental retardation, the Health Department shall designate a facility for mentally retarded persons for care and treatment of the committed person.</section>

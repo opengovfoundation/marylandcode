@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-103" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-3-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, each board consists of 3 regular members and 1 alternate member.</section>
         <section prefix="(ii)">In Anne Arundel County, Baltimore City, Baltimore County, Montgomery County, and Prince George's County, each board consists of 3 regular members and 3 alternate members.</section>
       </section>
-      <section prefix="(2)">The Governor shall appoint the members from a list of names submitted as follows:<section prefix="(i)">for Baltimore City, by the Mayor of Baltimore City; or</section><section prefix="(ii)">for a county other than Baltimore City, by:</section></section>
+      <section prefix="(2)">The Governor shall appoint the members from a list of names submitted as follows:<section prefix="(i)">for Baltimore City, by the Mayor of Baltimore City; or</section><section prefix="(ii)">for a county other than Baltimore City, by:<section prefix="1.">the county commissioners or the county council of the county; or</section><section prefix="2.">if the county charter provides for a county executive, by the county executive with the approval of the county council.</section></section></section>
       <section prefix="(3)">The number of names on each list shall be 3 times the number of vacancies.</section>
       <section prefix="(4)">Each list shall be submitted at least 3 months before the end of a term.</section>
     </section>

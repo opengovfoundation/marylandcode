@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-421" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-421</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>421</order_by>
   <text>
     <section prefix="(a)">Grants and loans may be awarded to any State or local governmental entity responsible by law for the provision of water supply systems in order to finance eligible costs of those systems that are necessary to satisfy State drinking water standards and policies or to protect the public health and comfort.</section>
     <section prefix="(b)">State assistance under this Part II of this subtitle, may not exceed 87.5 percent of eligible costs for each project or part of a project.</section>

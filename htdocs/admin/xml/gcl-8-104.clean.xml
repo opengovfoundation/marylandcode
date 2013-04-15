@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">A person acquires a security or an interest in a security, under this title, if:<section prefix="(1)">The person is a purchaser to whom a security is delivered in accordance with &#xA7; 8-301 of this title; or</section><section prefix="(2)">The person acquires a security entitlement to the security in accordance with &#xA7; 8-501 of this title.</section></section>
     <section prefix="(b)">A person acquires a financial asset, other than a security, or an interest in a financial asset, under this title, if the person acquires a security entitlement to the financial asset.</section>

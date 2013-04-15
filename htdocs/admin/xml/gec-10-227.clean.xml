@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-227" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-227</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>227</order_by>
   <text>
     <section prefix="(a)">The Legislative Auditor:<section prefix="(1)">may conduct a fiscal and compliance audit of the accounts and transactions of the Authority yearly or every 2 years; and</section><section prefix="(2)">shall advise officials of the Authority whether the audit will be yearly or every 2 years.</section></section>
     <section prefix="(b)">The Authority shall pay the cost of the fiscal part of the post audit examination.</section>

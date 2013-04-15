@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-564" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-564</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>564</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">
@@ -16,7 +16,7 @@
       <section prefix="(3)">The employee, employer, volunteer, or other individual identified in &#xA7; 5-561 of this subtitle is not responsible for payment of any fee to update criminal history records checks.</section>
     </section>
     <section prefix="(b)">
-      <section prefix="(1)">The Department shall provide an initial and a revised statement of the applicant's State criminal record to:<section prefix="(i)">the recipients of the printed statement specified in subsection (c) of this section; and</section><section prefix="(ii)">the State Department of Education if the applicant is an employee of:</section></section>
+      <section prefix="(1)">The Department shall provide an initial and a revised statement of the applicant's State criminal record to:<section prefix="(i)">the recipients of the printed statement specified in subsection (c) of this section; and</section><section prefix="(ii)">the State Department of Education if the applicant is an employee of:<section prefix="1.">a child care center that is required to be licensed or to hold a letter of compliance under Part VII of this subtitle; or</section><section prefix="2.">a family child care home or large family child care home that is required to be registered under Part V of this subtitle.</section></section></section>
       <section prefix="(2)">The Department shall distribute the printed statement in accordance with federal law and regulations on dissemination of FBI identification records.</section>
     </section>
     <section prefix="(c)">

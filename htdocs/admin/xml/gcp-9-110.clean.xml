@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-110" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-9-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person arrested upon a warrant issued under &#xA7; 9-107 of this title may not be delivered over to the agent whom the executive authority demanding the person has appointed to receive the person unless the person is first taken forthwith before a judge of a court of record in this State, who shall inform the person:<section prefix="(i)">of the demand made for surrender;</section><section prefix="(ii)">of the crime charged; and</section><section prefix="(iii)">of the right to demand and procure legal counsel.</section></section>

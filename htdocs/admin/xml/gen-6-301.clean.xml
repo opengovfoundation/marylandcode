@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-301" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-6-301</section_number>
-  <catch_line/>
+  <catch_line>A person may not use lead-based paint:...</catch_line>
+  <order_by>301</order_by>
   <text>A person may not use lead-based paint:<section prefix=""><section prefix="(1)">On any interior surface;</section><section prefix="(2)">On any exterior surface to which children commonly may be exposed;</section><section prefix="(3)">On any porch of any dwelling; or</section><section prefix="(4)">Except for a lead-based industrial paint that is applied to a household appliance, on any article that is intended for household use.</section></section></text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-135" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-135</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>135</order_by>
   <text>
     <section prefix="(a)">The Commission may implement a system to encourage health care practitioners to voluntarily control the costs of health care services.</section>
     <section prefix="(b)">The Commission may require health care practitioners of selected health care specialties to cooperate with licensed operators of clinical resource management systems that allow health care practitioners to critically analyze their charges and utilization of services in comparison to their peers.</section>

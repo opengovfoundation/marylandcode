@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-342" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-342</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>342</order_by>
   <text>
     <section prefix="(a)">Each administrator of a hospital is responsible for making available to each patient in the hospital a copy of the patient's bill of rights that the hospital adopts under the Joint Commission on Accreditation of Hospitals' guidelines.</section>
     <section prefix="(b)">The patient's bill of rights shall include a statement that a patient has a right to expect and receive appropriate assessment, management, and treatment of pain as an integral component of the patient's care.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-604" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">This section provides a fund to pay the expense of protecting and managing game and freshwater fish and preventing unauthorized persons from fishing or attempting to fish for any game and freshwater fish without first procuring an angler's license.</section>
     <section prefix="(b)">Any person 16 years old or older shall secure an angler's license to fish in the nontidal waters of the State. An angler's license entitles the holder to fish in the nontidal waters of the State only during the open season.</section>
@@ -14,7 +14,7 @@
     <section prefix="(e)">An applicant for a license issued under this section shall provide all the information requested by the Department on forms issued by the Department.</section>
     <section prefix="(f)">
       <section prefix="(1)">The following annual license fees shall apply:<section prefix="(i)">Resident$20.50</section><section prefix="(ii)">Subject to paragraph (2)(ii) of this subsection, short-term license valid for 7 consecutive days from date of issuance$7.50</section><section prefix="(iii)">Resident and nonresident blind personsNo fee</section><section prefix="(iv)">Complimentary licenseNo fee</section></section>
-      <section prefix="(2)">For a nonresident:<section prefix="(i)">The fee for an annual angler's license is the greater of:</section><section prefix="(ii)">The fee for a short-term license valid for 7 consecutive days from the date of issuance is the greater of:</section><section prefix="(iii)">The fee for a short-term license valid for 3 consecutive days from the date of issuance is the greater of:</section></section>
+      <section prefix="(2)">For a nonresident:<section prefix="(i)">The fee for an annual angler's license is the greater of:<section prefix="1.">$30.50; or</section><section prefix="2.">A fee equal to the fee charged a Maryland resident by the nonresident's home state for a similar license; and</section></section><section prefix="(ii)">The fee for a short-term license valid for 7 consecutive days from the date of issuance is the greater of:<section prefix="1.">$7.50; or</section><section prefix="2.">A fee equal to the fee charged a Maryland resident by the nonresident's home state for a license that permits an equal number of days of fishing or the next higher number of days as permitted by the Maryland license.</section></section><section prefix="(iii)">The fee for a short-term license valid for 3 consecutive days from the date of issuance is the greater of:<section prefix="1.">$5; or</section><section prefix="2.">A fee equal to the fee charged a Maryland resident by the nonresident's home state for a license that permits an equal number of days of fishing or the next higher number of days as permitted by the Maryland license.</section></section></section>
       <section prefix="(3)">
         <section prefix="(i)">All fees collected by the Department under this section may only be used in accordance with &#xA7; 4-208 of this title.</section>
         <section prefix="(ii)">The Department shall publicly report annually the amounts collected and the expenditures under this section.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-301" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-9-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">
@@ -21,7 +21,7 @@
       <section prefix="(2)">"Distributor" does not include:<section prefix="(i)">a licensed dealer;</section><section prefix="(ii)">a licensed special fuel seller;</section><section prefix="(iii)">a licensed special fuel user;</section><section prefix="(iv)">a licensed turbine fuel seller;</section><section prefix="(v)">a marina; or</section><section prefix="(vi)">a retail service station dealer.</section></section>
     </section>
     <section prefix="(e)">
-      <section prefix="(1)">"Engage in the business of a dealer" means to:<section prefix="(i)">import any gasoline into the State;</section><section prefix="(ii)">blend, in the State, any gasoline on which the motor fuel tax has not been paid;</section><section prefix="(iii)">refine, in the State, any gasoline on which the motor fuel tax has not been paid; or</section><section prefix="(iv)">acquire, in the State, any gasoline on which the motor fuel tax has not been paid, for:</section></section>
+      <section prefix="(1)">"Engage in the business of a dealer" means to:<section prefix="(i)">import any gasoline into the State;</section><section prefix="(ii)">blend, in the State, any gasoline on which the motor fuel tax has not been paid;</section><section prefix="(iii)">refine, in the State, any gasoline on which the motor fuel tax has not been paid; or</section><section prefix="(iv)">acquire, in the State, any gasoline on which the motor fuel tax has not been paid, for:<section prefix="1.">export; or</section><section prefix="2.">wholesale distribution.</section></section></section>
       <section prefix="(2)">"Engage in the business of a dealer" does not include bringing gasoline into the State in the fuel supply tank of an aircraft, motor vehicle, or vessel.</section>
     </section>
     <section prefix="(f)">"Engage in the business of a distributor" means to buy for resale motor fuel on which the motor fuel tax has been paid from a licensed dealer, licensed special fuel seller, licensed special fuel user, or licensed turbine fuel seller.</section>

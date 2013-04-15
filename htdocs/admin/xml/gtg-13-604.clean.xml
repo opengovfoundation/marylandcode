@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-604" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-604</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>604</order_by>
   <text>
     <section prefix="(a)">The rate of interest for each month or fraction of a month is the percent equal to one-twelfth of the annual interest rate that the Comptroller sets for the calendar year under subsection (b) of this section.</section>
     <section prefix="(b)">On or before October 1 of each year, the Comptroller shall set the annual interest rate for the next calendar year on refunds and moneys owed to the State as the percent, rounded to the nearest whole number, that is at the percent that equals the greater of:<section prefix="(1)">13%; or</section><section prefix="(2)">3 percentage points above the average prime rate of interest quoted by commercial banks to large businesses during the State's previous fiscal year, based on determination by the Board of Governors of the Federal Reserve Bank.</section></section>

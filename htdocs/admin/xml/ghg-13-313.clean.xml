@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-313" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-313</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>313</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Prior to receiving Program benefits, each recipient whose family income exceeds 175 percent of the federal poverty income guidelines shall be required to pay an annual fee equal to the sum of:<section prefix="(i)">5 percent of the amount by which the sum of the recipient's adjusted gross income as defined in the Internal Revenue Code for federal income tax purposes plus Social Security benefits and tier 1 railroad retirement benefits not otherwise included in the recipient's gross income under &#xA7; 86 of the Internal Revenue Code exceeds 175 percent of the federal poverty guidelines adjusted for family size; and</section><section prefix="(ii)">5 percent of the value of the recipient's liquid assets above 200 percent of the federal poverty guidelines adjusted for family size.</section></section>

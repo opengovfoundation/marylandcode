@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-202" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-20-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of 12 members.</section>
-      <section prefix="(2)">Of the 12 Board members:<section prefix="(i)">Six members shall be appointed as follows:</section><section prefix="(ii)">Six shall be appointed by the Governor.</section></section>
+      <section prefix="(2)">Of the 12 Board members:<section prefix="(i)">Six members shall be appointed as follows:<section prefix="1.">Two by the Secretary of Health and Mental Hygiene, one each for the Developmental Disabilities Administration and the Mental Hygiene Administration;</section><section prefix="2.">One by the Secretary of Juvenile Services for the agency;</section><section prefix="3.">One by the Secretary of Human Resources for the agency;</section><section prefix="4.">One by the State Superintendent of Schools; and</section><section prefix="5.">One by the Subcabinet; and</section></section><section prefix="(ii)">Six shall be appointed by the Governor.</section></section>
       <section prefix="(3)">Of the six appointed by the Governor:<section prefix="(i)">Three shall be program administrators;</section><section prefix="(ii)">One shall be a residential child and youth care practitioner; and</section><section prefix="(iii)">Two shall be consumer members.</section></section>
     </section>
     <section prefix="(b)">The Governor shall appoint members with the advice and consent of the Senate.</section>

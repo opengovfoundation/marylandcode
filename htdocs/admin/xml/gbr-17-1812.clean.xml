@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-1812" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-1812</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1812</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If a trader disputes the value of the trader's stock-in-trade on which the license fee is based, the trader may submit in accordance with the Tax - Property Article an appeal to the State Department of Assessments and Taxation as to the value of the stock-in-trade.</section>

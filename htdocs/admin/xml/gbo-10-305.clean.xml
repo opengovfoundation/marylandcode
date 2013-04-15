@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbo" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-305" order_by="" level="2"/>
+    <unit label="article" identifier="gbo" order_by="" level="1">Business Occupations and Professions</unit>
   </structure>
   <section_number>gbo-10-305</section_number>
-  <catch_line/>
+  <catch_line>Except for trust money that a lawyer is required to deposit in an attorney trust account that earns ...</catch_line>
+  <order_by>305</order_by>
   <text>Except for trust money that a lawyer is required to deposit in an attorney trust account that earns interest payable to the Maryland Legal Services Corporation, a lawyer may withdraw trust money from an attorney trust account and invest it:<section prefix=""><section prefix="(1)">as the client or beneficial owner of the trust money instructs; or</section><section prefix="(2)">as the lawyer and the client or beneficial owner of the trust money agree.</section></section></text>
 </law>

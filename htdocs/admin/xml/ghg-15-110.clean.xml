@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-110" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-110</section_number>
-  <catch_line/>
+  <catch_line>The Department shall reimburse acute general and chronic care hospitals that participate in the Prog...</catch_line>
+  <order_by>110</order_by>
   <text>The Department shall reimburse acute general and chronic care hospitals that participate in the Program for care provided to Program recipients in accordance with rates that the Health Services Cost Review Commission approves under Title 19, Subtitle 2 of this article, if the United States Department of Health and Human Services approves this method of reimbursement.</text>
 </law>

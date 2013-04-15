@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-702" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-7-702</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>702</order_by>
   <text>
     <section prefix="(a)">In this section, "supervisee" means an individual supervised by the Division of Parole and Probation for the Commission.</section>
     <section prefix="(b)">Unless a supervisee is exempted by the Commission under subsection (d) of this section, the Commission shall assess a monthly fee of $50 as a condition of supervision for each supervisee.</section>

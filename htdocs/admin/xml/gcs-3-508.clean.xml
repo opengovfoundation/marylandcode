@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-508" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-508</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>508</order_by>
   <text>
     <section prefix="(a)">The Division shall:<section prefix="(1)">formulate an accounting and record system that at all times indicates the source, nature, and extent of purchases and sales of Maryland Correctional Enterprises; and</section><section prefix="(2)">maintain accounting records and prepare financial statements in accordance with generally accepted accounting principles for enterprise fund type activities.</section></section>
     <section prefix="(b)">The financial statements required under subsection (a)(2) of this section shall be prepared and available for audit purposes not later than 60 days after the close of each fiscal year.</section>

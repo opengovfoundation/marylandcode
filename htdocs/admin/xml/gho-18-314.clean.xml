@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-314" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-18-314</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>314</order_by>
   <text>
     <section prefix="(a)">If, in investigating an allegation brought against a licensee under this title, the Board has reason to believe that the licensee may cause harm to persons affected by the licensee's practice of psychology, the Board, on its own initiative, may direct the licensee to submit to an appropriate examination by a psychologist or physician designated by the Board.</section>
     <section prefix="(b)">In return for the privilege given to a licensee to practice psychology in the State, the licensee is deemed to have:<section prefix="(1)">Consented to submit to an examination under this section, if requested by the Board in writing; and</section><section prefix="(2)">Waived any claim of privilege as to the testimony or examination reports of the examining psychologist or physician.</section></section>

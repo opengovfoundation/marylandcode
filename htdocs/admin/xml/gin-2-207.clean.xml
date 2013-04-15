@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-207" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-2-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commissioner shall conduct an examination of an insurer, health maintenance organization, or private review agent at:<section prefix="(i)">the home office of a domestic insurer, foreign insurer, health maintenance organization, or private review agent;</section><section prefix="(ii)">the United States branch office of an alien insurer, health maintenance organization, or private review agent; or</section><section prefix="(iii)">a branch or agency office of the insurer, health maintenance organization, or private review agent.</section></section>

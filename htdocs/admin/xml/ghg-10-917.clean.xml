@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-917" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-10-917</section_number>
-  <catch_line/>
+  <catch_line>The administrative head of any facility may appoint any employee as a law enforcement officer and, w...</catch_line>
+  <order_by>917</order_by>
   <text>The administrative head of any facility may appoint any employee as a law enforcement officer and, while the employee holds a special police commission issued by the Governor, the employee may:<section prefix=""><section prefix="(1)">Return an individual to the facility from which the individual escaped; and</section><section prefix="(2)">Be used to protect individuals or property at the facility.</section></section></text>
 </law>

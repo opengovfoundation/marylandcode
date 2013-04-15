@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-916" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-916</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>916</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall prepare in clear, plain English the text of a Medicare supplement buyer's guide that carriers must provide to prospective buyers of Medicare supplement policies under this section.</section>
     <section prefix="(b)">The buyer's guide shall:<section prefix="(1)">contain an outline of Medicare coverage; and</section><section prefix="(2)">include advice and other information about purchasing Medicare supplement policies, including a reference to the right of the buyer to cancel a Medicare supplement policy during the first 30 days after it is delivered, as provided in &#xA7; 15-910 of this subtitle.</section></section>

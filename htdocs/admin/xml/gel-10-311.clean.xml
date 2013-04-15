@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-311" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-10-311</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>311</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The following persons or entities have the right to designate a registered voter as a challenger or a watcher at each place of registration and election:<section prefix="(i)">the State Board for any polling place in the State;</section><section prefix="(ii)">a local board for any polling place located in the county of the local board;</section><section prefix="(iii)">a candidate;</section><section prefix="(iv)">a political party; and</section><section prefix="(v)">any other group of voters supporting or opposing a candidate, principle, or proposition on the ballot.</section></section>

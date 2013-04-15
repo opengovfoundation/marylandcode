@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-705" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-19-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A person who purchased a dog from a retail pet store is entitled to a remedy under this section if:<section prefix="(i)">within 7 days after the date of the sale, the person had the dog examined by a veterinarian licensed in the State and, within 14 days after the date of the sale, the licensed veterinarian states in writing that the dog suffers from or has died of a disease or illness adversely affecting the health of the dog and that existed in the dog on or before the date of delivery to the purchaser; or</section><section prefix="(ii)">within 180 days after the date of the sale, a licensed veterinarian states in writing that the dog possesses or has died of a congenital or hereditary condition adversely affecting the health of the dog or that requires hospitalization or a nonelective surgical procedure.</section></section>

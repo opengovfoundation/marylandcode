@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="22-210" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-22-210</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>210</order_by>
   <text>
     <section prefix="(a)">Bonds issued under this subtitle, including their interest and any profit from their sale or exchange, are exempt from taxation by the State and its counties and municipalities.</section>
     <section prefix="(b)">If bonds are issued under this subtitle with the expectation that their interest may be excluded from the gross income of the bondholders, the Commission shall enter into all agreements and make all certifications necessary or advisable to show compliance with the applicable provisions of federal tax law.</section>

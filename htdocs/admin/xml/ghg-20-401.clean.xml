@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-401" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-20-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Born" means the complete expulsion or extraction of a product of human conception from the mother, regardless of the period of gestation, if, after the expulsion or extraction, it breathes or shows any other evidence of life, such as heartbeat, pulsation of the umbilical cord, or definite movement of voluntary muscle, whether or not the umbilical cord is cut or the placenta is attached.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-203" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-20-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The regional functions within the jurisdiction of the Commission include:<section prefix="(1)">preparation, adoption, and amendment of the general plan or parts of the general plan for the physical development of the regional district in accordance with Title 21 of this article; and</section><section prefix="(2)">mandatory referrals from the United States or the State, or any unit of the United States or the State, in accordance with Subtitle 3, Part I of this title.</section></section>
     <section prefix="(b)">The Commission or the county planning boards may recommend to the proper authorities amendments to the zoning laws, subdivision regulations, and any other rules and regulations authorized in this title.</section>

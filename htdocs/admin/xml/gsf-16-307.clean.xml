@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-307" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-16-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">A business is debarred from entering into a contract with a public body if the Board debars:<section prefix="(1)">an officer, director, controlling shareholder, or partner; or</section><section prefix="(2)">an employee directly involved in the process of obtaining contracts with public bodies.</section></section>
     <section prefix="(b)">The business is debarred under subsection (a) of this section to the same extent as the person debarred by the Board.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-502" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">The personal representative shall give written notice to each creditor who has filed a claim under &#xA7; 8-104 of this article which is still open and to all interested persons of a claim, petition, or other request which could result, directly or indirectly, in the payment of a debt, commission, fee, or other compensation to or for the benefit of the personal representative or the attorney for the estate. The notice shall state the amount requested, and set forth in reasonable detail the basis for the request. It shall also state that a request for hearing may be made within 20 days after the notice is sent.</section>
     <section prefix="(b)">Unless there was fraud, material mistake, or substantial irregularity in the proceeding, or a request for a hearing is filed within 20 days of the sending of the notice, any action taken by the court on the petition is final and binding on all persons to whom the notice was given.</section>

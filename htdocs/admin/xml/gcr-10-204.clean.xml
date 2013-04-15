@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">
-        <section prefix="(i)">"Medical facility" means:</section>
+        <section prefix="(i)">"Medical facility" means:<section prefix="1.">a facility as defined in &#xA7; 10-101 of the Health - General Article; or</section><section prefix="2.">a health care facility as defined in &#xA7; 19-114 of the Health - General Article.</section></section>
         <section prefix="(ii)">"Medical facility" includes an agency, clinic, or office operated under the direction of the local health officer or under the regulatory authority of the Department of Health and Mental Hygiene.</section>
       </section>
     </section>

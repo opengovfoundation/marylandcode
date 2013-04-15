@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">This section does not apply to:<section prefix="(1)">a physician licensed to practice medicine;</section><section prefix="(2)">a government unit; or</section><section prefix="(3)">the otherwise lawful conduct of business between commercial, medical, pharmaceutical, scientific, or government units.</section></section>
     <section prefix="(b)">Except in accordance with a prescription written by a physician licensed to practice medicine, a person may not sell, dispense, or give to another a drug, medicine, preparation, substance, or a preparation containing a sulfonamide drug to alleviate, treat, or cure venereal disease.</section>

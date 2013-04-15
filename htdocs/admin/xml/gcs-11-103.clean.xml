@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-103" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">The managing official of a local correctional facility is responsible for the safekeeping and care of each inmate or other individual detained in or sentenced to the local correctional facility from the time the inmate or individual is lawfully detained in or committed to the local correctional facility until discharged, released, or withdrawn under a court order or other lawful authority.</section>
     <section prefix="(b)">Except when an inmate or other individual is lawfully assigned to a local correctional facility operated by more than one county, this section does not affect the powers and duties of the sheriff of a county with respect to the safekeeping and custody of an inmate or other individual.</section>

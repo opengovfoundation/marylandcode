@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-203" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-4-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">In Anne Arundel County, the members of the Democratic and Republican Party Central Committees for the county shall be elected as follows:<section prefix="(1)">three members shall be elected from each legislative district wholly contained within Anne Arundel County; and</section><section prefix="(2)">one member shall be elected from that portion within Anne Arundel County of any legislative district that is partially contained within Anne Arundel County.</section></section>
     <section prefix="(b)">
@@ -33,12 +33,15 @@
     </section>
     <section prefix="(g)">
       <section prefix="(1)">
-        <section prefix="(i)">In Prince George's County, members of the Republican Party Central Committee:</section>
+        <section prefix="(i)">In Prince George's County, members of the Republican Party Central Committee:<section prefix="1.">may not run at large; and</section><section prefix="2.">shall be elected from within legislative districts of Prince George's County or within that portion of any legislative district lying within Prince George's County.</section></section>
         <section prefix="(ii)">The number of members of the Republican Party Central Committee shall consist of two members from each of the eight legislative districts lying within Prince George's County.</section>
       </section>
       <section prefix="(2)">
         <section prefix="(i)">In Prince George's County, the Democratic Party Central Committee consists of 24 members.</section>
-        <section prefix="(ii)"/>
+        <section prefix="(ii)">
+          <section prefix="1.">Two members shall reside in and be elected by the eligible voters of each of the eight legislative districts lying within Prince George's County.</section>
+          <section prefix="2.">At least one member shall reside in each single-member or two-member delegate district of any district in which there are such districts.</section>
+        </section>
         <section prefix="(iii)">In addition to the members of the committee elected from legislative districts, eight members of the committee shall be elected by all the eligible voters in the county, and at the time of election, each member shall reside in a different one of the eight legislative districts within Prince George's County.</section>
         <section prefix="(iv)">A candidate for election to the Democratic Party Central Committee shall declare at the time of filing for candidacy which seat on the Central Committee the candidate is seeking.</section>
         <section prefix="(v)">If a member who was elected from a specific legislative district ceases to reside in that district, the member may not continue to serve on the Central Committee.</section>

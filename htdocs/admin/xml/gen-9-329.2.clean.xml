@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-329.2" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-329.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>329.2</order_by>
   <text>
     <section prefix="(a)">Except as provided in this section and notwithstanding any other provision of this article, on or after July 1, 1988 a person may not discharge any chlorine or chlorine products into the Chesapeake Bay or its tributaries in excess of a concentration that the Department of the Environment, in consultation with the Department of Natural Resources, determines to be the lowest practicably attainable concentration.</section>
     <section prefix="(b)">To determine the allowable concentrations of chlorine or chlorine products under this section, the Secretary of the Environment, in consultation with the Secretary of Natural Resources, shall adopt regulations that:<section prefix="(1)">Use the best practicable management technologies; and</section><section prefix="(2)">Set forth approved monitoring technologies.</section></section>

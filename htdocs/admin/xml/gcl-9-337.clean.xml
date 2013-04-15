@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-337" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-337</section_number>
-  <catch_line/>
+  <catch_line>If, while a security interest in goods is perfected by any method under the law of another jurisdict...</catch_line>
+  <order_by>337</order_by>
   <text>If, while a security interest in goods is perfected by any method under the law of another jurisdiction, this State issues a certificate of title that does not show that the goods are subject to the security interest or contain a statement that they may be subject to security interests not shown on the certificate:<section prefix=""><section prefix="(1)">A buyer of the goods, other than a person in the business of selling goods of that kind, takes free of the security interest if the buyer gives value and receives delivery of the goods after issuance of the certificate and without knowledge of the security interest; and</section><section prefix="(2)">The security interest is subordinate to a conflicting security interest in the goods that attaches, and is perfected under &#xA7; 9-311(b), after issuance of the certificate and without the conflicting secured party's knowledge of the security interest.</section></section></text>
 </law>

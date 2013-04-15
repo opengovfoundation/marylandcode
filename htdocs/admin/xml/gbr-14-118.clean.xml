@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-118" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-14-118</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>118</order_by>
   <text>
     <section prefix="(a)">Each contract for the sale of a business opportunity shall be in writing.</section>
     <section prefix="(b)">The contract shall include:<section prefix="(1)">the terms and conditions of payment;</section><section prefix="(2)">a full and detailed description of the acts or services that the seller agrees to perform for the buyer;</section><section prefix="(3)">the address of the seller's principal office;</section><section prefix="(4)">the name and address of the seller's resident agent; and</section><section prefix="(5)">the approximate date that the seller will deliver to the buyer any products, equipment, or supplies.</section></section>

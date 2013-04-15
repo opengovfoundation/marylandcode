@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-403" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-16-403</section_number>
-  <catch_line/>
+  <catch_line>Notwithstanding any other provision of this title, the amount to be charged to chargeable persons fo...</catch_line>
+  <order_by>403</order_by>
   <text>Notwithstanding any other provision of this title, the amount to be charged to chargeable persons for services received by a recipient of services under the Maryland Developmental Disabilities Law shall be as provided in this subtitle.</text>
 </law>

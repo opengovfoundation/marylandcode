@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-315" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-315</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>315</order_by>
   <text>
     <section prefix="(a)">The Commission shall adopt guidelines for financial record keeping and the preparation of annual audit reports by the community colleges. The community colleges shall comply with the guidelines of the Commission.</section>
     <section prefix="(b)">Each community college in the State shall have an annual audit of its books of accounts, accounting procedures and principles, and other fiscal and operational methods and procedures in accordance with guidelines as prescribed by the Commission. A copy of the audit report, together with the related management letter, shall be submitted to the Commission for review and assessment and to the Legislative Auditor within 90 days of the close of each fiscal year. The Commission shall ascertain that the community colleges are audited in accordance with this section.</section>

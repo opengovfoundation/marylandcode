@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="5" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-5</section_number>
-  <catch_line/>
+  <catch_line>Whenever the word administrator is used in this Code it shall include executor and personal represen...</catch_line>
+  <order_by>5</order_by>
   <text>Whenever the word administrator is used in this Code it shall include executor and personal representative, whenever the word executor is used in this Code it shall include administrator and personal representative, and whenever the words personal representative are used in this Code they shall include administrator and executor, unless such an application of such terms would be unreasonable.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1307" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1307</order_by>
   <text>
     <section prefix="(a)">The actuarial value of benefits provided under individual health insurance coverage shall be calculated based on a standardized population and a set of standardized utilization and cost factors.</section>
     <section prefix="(b)">A carrier shall submit any information the Commissioner may require to support and justify the carrier's calculations of actuarial values.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(1)">In this title unless the context otherwise requires "contract" and "agreement" are limited to those relating to the present or future sale of goods. "Contract for sale" includes both a present sale of goods and a contract to sell goods at a future time. A "sale" consists in the passing of title from the seller to the buyer for a price (&#xA7; 2-401). A "present sale" means a sale which is accomplished by the making of the contract.</section>
     <section prefix="(2)">Goods or conduct including any part of a performance are "conforming" or conform to the contract when they are in accordance with the obligations under the contract.</section>

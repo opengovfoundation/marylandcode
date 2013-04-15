@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-618" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-618</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>618</order_by>
   <text>
     <section prefix="(a)">The Administration shall issue a special Chesapeake Bay Commemorative Registration Plate.</section>
     <section prefix="(b)">The owner of a vehicle, or a lessee of the vehicle under a lease not intended as security, or a director, officer, employee, or partner of a business entity that owns the vehicle considered eligible by the Administration may apply to the Administration for the assignment of a commemorative registration plate under this section if the vehicle is included in one of the following classes:<section prefix="(1)">A Class A (passenger) vehicle;</section><section prefix="(2)">A Class E (truck) vehicle with a manufacturer's rated capacity of one ton or less;</section><section prefix="(3)">A Class G (trailer) vehicle; or</section><section prefix="(4)">A Class M (multipurpose) vehicle.</section></section>
@@ -26,7 +26,7 @@
     </section>
     <section prefix="(e)">The additional fees to the annual registration fee required by this section are not required for special registration of a vehicle that is exempt under &#xA7; 13-903 of this title.</section>
     <section prefix="(f)">
-      <section prefix="(1)">A commemorative registration plate issued under this section shall display:<section prefix="(i)">A special registration number assigned by the Administration that may consist of any combination of:</section><section prefix="(ii)">A design approved by the Administration that adequately reflects the Chesapeake Bay theme that the plate commemorates.</section></section>
+      <section prefix="(1)">A commemorative registration plate issued under this section shall display:<section prefix="(i)">A special registration number assigned by the Administration that may consist of any combination of:<section prefix="1.">Letters; and</section><section prefix="2.">Numerals; and</section></section><section prefix="(ii)">A design approved by the Administration that adequately reflects the Chesapeake Bay theme that the plate commemorates.</section></section>
       <section prefix="(2)">The Administration shall consult with the Chesapeake Bay Trust with respect to the design of the Chesapeake Bay Commemorative Registration Plate.</section>
     </section>
   </text>

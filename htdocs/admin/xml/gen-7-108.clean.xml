@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-108" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-7-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">Unless it is renewed for another term, a facility permit expires on the expiration date the Department specifies at the time of issuance or renewal.</section>
     <section prefix="(b)">Subject to &#xA7; 7-110 of this subtitle, the Department may deny renewal of a facility permit if the permit holder:<section prefix="(1)">Has violated any appropriate law, regulation, order, or permit condition;</section><section prefix="(2)">Has failed to pay to the Department the renewal fee set by the Department; or</section><section prefix="(3)">Has failed to submit to the Department a renewal application on the form the Department requires.</section></section>

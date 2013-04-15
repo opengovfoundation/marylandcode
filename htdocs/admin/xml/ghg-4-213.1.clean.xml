@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-213.1" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-213.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>213.1</order_by>
   <text>
     <section prefix="(a)">The Secretary shall establish procedures for the issuance of a certificate of birth resulting in stillbirth.</section>
     <section prefix="(b)">The Department shall make available a certificate of birth resulting in stillbirth to the parent or parents of a stillborn child for whom a fetal death was registered.</section>

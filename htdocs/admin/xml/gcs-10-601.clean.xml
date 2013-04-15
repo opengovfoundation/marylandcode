@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-601" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">As used in this section, "facility" means a correctional facility of any kind for adults or juveniles.</section>
     <section prefix="(b)">Another state may not begin construction or otherwise locate a facility in this State unless the other state submits a written request for approval to construct or locate the facility to and receives approval from:<section prefix="(1)">the Secretary of Public Safety and Correctional Services, in the case of a facility for adults; or</section><section prefix="(2)">the Secretary of Juvenile Services, in the case of a facility for juveniles.</section></section>

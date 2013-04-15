@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-106" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-27-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">Any person who is convicted of a violation of &#xA7; 22-404.4 of this article shall be fined $250.</section>
     <section prefix="(b)">Any person who is convicted of a violation of &#xA7; 22-412.3 of this article is subject to a fine of not more than $25, including court costs.</section>

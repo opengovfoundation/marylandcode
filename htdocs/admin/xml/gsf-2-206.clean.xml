@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-206" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-2-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -22,7 +22,7 @@
         <section prefix="(ii)">The Treasurer shall separately hold and the Comptroller shall account for the Fund.</section>
         <section prefix="(iii)">The Treasurer may invest moneys in the Fund in the same manner as other State money may be invested.</section>
       </section>
-      <section prefix="(4)">Expenditures from the Fund may only be made:<section prefix="(i)">pursuant to an appropriation approved by the General Assembly in the annual State budget; or</section><section prefix="(ii)">by the budget amendment procedure provided for in &#xA7; 7-209 of this article, provided that:</section></section>
+      <section prefix="(4)">Expenditures from the Fund may only be made:<section prefix="(i)">pursuant to an appropriation approved by the General Assembly in the annual State budget; or</section><section prefix="(ii)">by the budget amendment procedure provided for in &#xA7; 7-209 of this article, provided that:<section prefix="1.">the budget amendment and supporting information have been submitted to the budget committees for their review and comment; and</section><section prefix="2.">at least 45 days have elapsed from the time the budget amendment and supporting information were submitted to the budget committees.</section></section></section>
     </section>
     <section prefix="(d)">The Council shall award grants on the basis of the binding recommendations of the Maryland Agricultural Education and Rural Development Assistance Board.</section>
     <section prefix="(e)">

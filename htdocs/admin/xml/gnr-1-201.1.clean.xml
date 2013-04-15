@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-201.1" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-201.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201.1</order_by>
   <text>
     <section prefix="(a)">There is a Natural Resources Police Force in the Department that serves as a public safety agency with statewide authority to enforce conservation, boating, and criminal laws.</section>
     <section prefix="(b)">The responsibilities of the Natural Resources Police Force include:<section prefix="(1)">Providing maritime and rural search and rescue services;</section><section prefix="(2)">Providing public education in hunting, boating, and water safety;</section><section prefix="(3)">Providing primary law enforcement services for State parks, State forests, wildlife management areas, and public lands owned and managed by the Department; and</section><section prefix="(4)">Serving as the lead agency for maritime homeland security on State waterways.</section></section>

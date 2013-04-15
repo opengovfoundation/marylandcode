@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="24-207" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-24-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">The Department shall adopt rules and regulations to carry out the provisions of this section, including:<section prefix="(1)">Standards for marking transparent glass doors; and</section><section prefix="(2)">Definitions of "business establishment", "public building", and "commercial building or structure".</section></section>
     <section prefix="(b)">In each business establishment, public building, or commercial building or structure, each door that has a surface area of at least 80 percent transparent glass shall be marked so that it warns any individual nearing it that a glass door is present.</section>

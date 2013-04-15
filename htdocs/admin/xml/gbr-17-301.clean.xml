@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-301" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-301</section_number>
-  <catch_line/>
+  <catch_line>In this subtitle, "license" has the meaning stated in &#xA7; 17-201 of this title....</catch_line>
+  <order_by>301</order_by>
   <text>In this subtitle, "license" has the meaning stated in &#xA7; 17-201 of this title.</text>
 </law>

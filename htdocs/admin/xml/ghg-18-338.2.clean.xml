@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-338.2" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-338.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>338.2</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -18,7 +18,7 @@
     <section prefix="(c)">A health care provider who provides labor and delivery services to pregnant women shall offer:<section prefix="(1)">A rapid HIV test to pregnant women with unknown or undocumented HIV status during labor and delivery; and</section><section prefix="(2)">Antiretroviral prophylaxis prior to receiving the results of the confirmatory test if a rapid HIV test during labor and delivery is positive.</section></section>
     <section prefix="(d)">
       <section prefix="(1)">As part of a health care provider's patient acceptance procedures or protocol, a health care provider shall provide a pregnant woman with counseling concerning being tested for the presence of HIV as part of the woman's prenatal care program.</section>
-      <section prefix="(2)">The counseling shall include:<section prefix="(i)">Information required for pretest counseling under &#xA7; 18-336 of this subtitle; and</section><section prefix="(ii)">Education on:</section></section>
+      <section prefix="(2)">The counseling shall include:<section prefix="(i)">Information required for pretest counseling under &#xA7; 18-336 of this subtitle; and</section><section prefix="(ii)">Education on:<section prefix="1.">The effect of a positive HIV test result on the pregnant woman and the fetus concerning the risk of transmission of HIV to the fetus; and</section><section prefix="2.">Recognized methods of reducing that risk, including the use of pharmaceuticals during pregnancy known to reduce the risk of transmission of HIV to the fetus.</section></section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">Except as otherwise provided in paragraph (2) of this subsection, the record of an HIV test performed under this section is confidential and not discoverable or admissible in evidence in any criminal, civil, or administrative action.</section>

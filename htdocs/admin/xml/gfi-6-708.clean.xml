@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-708" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-708</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>708</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Subject to the provisions of paragraph (2) of this subsection, a credit union may borrow money for the purchase of fixed assets.</section>

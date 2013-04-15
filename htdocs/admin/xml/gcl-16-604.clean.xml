@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-604" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-16-604</section_number>
-  <catch_line/>
+  <catch_line>Any person who is legally liable for or against whom a claim is asserted by a patient for compensati...</catch_line>
+  <order_by>604</order_by>
   <text>Any person who is legally liable for or against whom a claim is asserted by a patient for compensation for injuries shall be permitted to inspect the records of the hospital in order to evaluate the basis of the hospital's lien and to ascertain the itemized hospital departmental charges for the period of the patient's confinement. Notice of the inspection shall be mailed to the patient.</text>
 </law>

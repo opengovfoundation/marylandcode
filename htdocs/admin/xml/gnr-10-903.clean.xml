@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-903" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-10-903</section_number>
-  <catch_line/>
+  <catch_line>The Secretary may adopt regulations prohibiting or restricting the importation, exportation, sale, r...</catch_line>
+  <order_by>903</order_by>
   <text>The Secretary may adopt regulations prohibiting or restricting the importation, exportation, sale, release, or possession of wildlife not native to Maryland on a finding that the wildlife is harmful to native wildlife or to natural ecosystems.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-205" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-4-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Commission may set a temporary rate for any public service company that is higher or lower than the rate previously in effect.</section>
     <section prefix="(b)">The Commission may set a temporary rate after hearing only if the Commission finds that:<section prefix="(1)">pending a final rate proceeding, the rate in force is not a just and reasonable rate; and</section><section prefix="(2)">the temporary rate is necessary in the interest of justice in view of the length of time that must elapse before a final order may be entered.</section></section>

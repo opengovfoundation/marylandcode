@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-704.1" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-7-704.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704.1</order_by>
   <text>
     <section prefix="(a)">In this section, "unattended transit vehicle or facility" means a transit vehicle or facility the entrance of which is not controlled by the presence of an authorized fare collection agent of the Administration.</section>
     <section prefix="(b)">Any person entering an unattended transit vehicle or facility owned or controlled by the Administration for the purpose of obtaining transit service shall prepay the applicable fare charged by the Administration in the required manner.</section>
@@ -19,7 +19,7 @@
       <section prefix="(1)">A person shall comply with the notice to appear in District Court by:<section prefix="(i)">Appearing in person;</section><section prefix="(ii)">Appearance by counsel; or</section><section prefix="(iii)">Payment of the fine in advance of trial.</section></section>
       <section prefix="(2)">
         <section prefix="(i)">A person who fails to comply with the notice to appear shall be guilty of a misdemeanor and subject to a fine of $100.</section>
-        <section prefix="(ii)">In addition, the court may notify the person by mail at the address indicated on the citation that a warrant for the person's arrest may be issued unless, within 15 days from the mailing of the notice, the person:</section>
+        <section prefix="(ii)">In addition, the court may notify the person by mail at the address indicated on the citation that a warrant for the person's arrest may be issued unless, within 15 days from the mailing of the notice, the person:<section prefix="1.">Pays the fine or posts a penalty deposit on the charge as stated on the citation; and</section><section prefix="2.">Posts a penalty deposit of $100 for failing to appear.</section></section>
       </section>
     </section>
     <section prefix="(g)">Notwithstanding any other provision of this section, by July 1, 1997, the Administration shall:<section prefix="(1)">Install and maintain a video monitoring system on all light rail transit vehicles to enhance security on the light rail transit system; and</section><section prefix="(2)">Take any other actions reasonably considered by the Administrator to be necessary to restrict public access to any unattended transit vehicle within the light rail transit system.</section></section>

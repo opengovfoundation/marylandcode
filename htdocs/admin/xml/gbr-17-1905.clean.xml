@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-1905" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-1905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1905</order_by>
   <text>
     <section prefix="(a)">The clerk shall give each vending machine licensee an identification label for each vending machine.</section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-308" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-16-308</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>308</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the parties to collective bargaining have not reached an agreement on or before December 1 or any later date determined by mutual agreement of the parties on a collective bargaining agreement that would succeed the existing collective bargaining agreement:<section prefix="(i)">either party may declare a bargaining impasse; and</section><section prefix="(ii)">the parties jointly shall appoint an arbitrator.</section></section>

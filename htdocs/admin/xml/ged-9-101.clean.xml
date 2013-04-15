@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-101" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-9-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Public Charter School Program.</section>
     <section prefix="(b)">The general purpose of the Program is to establish an alternative means within the existing public school system in order to provide innovative learning opportunities and creative educational approaches to improve the education of students.</section>

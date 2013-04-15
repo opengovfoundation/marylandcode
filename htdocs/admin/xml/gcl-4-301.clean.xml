@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-301" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">If a payor bank settles for a demand item other than a documentary draft presented otherwise than for immediate payment over the counter before midnight of the banking day of receipt, the payor bank may revoke the settlement and recover the item if, before it has made final payment and before its midnight deadline, it<section prefix="(1)">Returns the item; or</section><section prefix="(2)">Sends written notice of dishonor or nonpayment if the item is unavailable for return.</section></section>
     <section prefix="(b)">If a demand item is received by a payor bank for credit on its books it may return the item or send notice of dishonor and may revoke any credit given or recover the amount thereof withdrawn by its customer, if it acts within the time limit and in the manner specified in subsection (a).</section>

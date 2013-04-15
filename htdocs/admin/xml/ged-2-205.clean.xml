@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-205" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-2-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">In addition to the other powers granted and duties imposed under this article, the State Board has the powers and duties set forth in this section.</section>
     <section prefix="(b)">The State Board shall:<section prefix="(1)">Determine the elementary and secondary educational policies of this State; and</section><section prefix="(2)">Cause to be carried out those provisions of this article that are within its jurisdiction.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-105" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-7-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">Each fire department in the State may have members trained in response measures that involve fire and other emergency techniques including, if approved by the Secretary of State Police, the use of helicopters or other equipment of the Department of State Police.</section>
     <section prefix="(b)">On request of a fire chief at any location in the State, a firefighter or member of the Department of State Police who has been trained in the response measures described in subsection (a) of this section may function at that location.</section>

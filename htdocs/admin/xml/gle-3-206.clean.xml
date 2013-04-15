@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-206" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-3-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">A work permit shall be issued:<section prefix="(1)">by the Commissioner; or</section><section prefix="(2)">in accordance with the requirements of the Commissioner, by a county superintendent of schools or designee of the superintendent.</section></section>
     <section prefix="(b)">Before issuing a work permit, the issuing officer shall confirm the age of the minor for whom the permit is sought by examining:<section prefix="(1)">a baptismal certificate for the minor;</section><section prefix="(2)">a birth certificate or other official government document that attests to the age of the minor; or</section><section prefix="(3)">a school record for the minor.</section></section>
     <section prefix="(c)">The official to whom an application for a work permit is submitted shall issue the work permit, by signing and dating the application, if:<section prefix="(1)">the document submitted under subsection (b) of this section attests to the age stated on the application; and</section><section prefix="(2)">the employment is allowed under this subtitle for the minor for whom the permit is sought.</section></section>
     <section prefix="(d)">
       <section prefix="(1)">An official may issue a work permit that authorizes a minor to be employed in an occupation that otherwise would be restricted under &#xA7; 3-213 of this subtitle, if the minor:<section prefix="(i)">is exempted, under &#xA7; 7-301(d)(2)(i) of the Education Article, from attendance in public school because the emotional, mental, or physical condition of the minor makes instruction detrimental to the progress of the minor;</section><section prefix="(ii)">is to be employed only in office work;</section><section prefix="(iii)">is to be employed in work that is performed outside of all rooms where goods are manufactured or processed; or</section><section prefix="(iv)">is to be employed in work that a county school system obtains and supervises as part of a work-study, student-learner, or similar program for which the employment is an integral part of the course of study.</section></section>
-      <section prefix="(2)">An official shall issue a work permit that authorizes a minor to be employed:<section prefix="(i)">in an occupation that otherwise would be restricted under &#xA7; 3-213 of this subtitle if the minor is granted an exception by the Commissioner because, after investigation, the Commissioner determines that neither the work nor the work site where the work is to be performed is hazardous to the minor; or</section><section prefix="(ii)">in an occupation that otherwise would be restricted under &#xA7; 3-213(c)(1) or (2) of this subtitle, if the minor:</section></section>
+      <section prefix="(2)">An official shall issue a work permit that authorizes a minor to be employed:<section prefix="(i)">in an occupation that otherwise would be restricted under &#xA7; 3-213 of this subtitle if the minor is granted an exception by the Commissioner because, after investigation, the Commissioner determines that neither the work nor the work site where the work is to be performed is hazardous to the minor; or</section><section prefix="(ii)">in an occupation that otherwise would be restricted under &#xA7; 3-213(c)(1) or (2) of this subtitle, if the minor:<section prefix="1.">has completed a course of study in that occupation at an accredited school and has been graduated from the school; or</section><section prefix="2.">is granted an exception by the Commissioner because employment in that occupation is part of a work-study, student-learner, or apprentice program under a federal, State, or local governmental agency.</section></section></section>
     </section>
   </text>
 </law>

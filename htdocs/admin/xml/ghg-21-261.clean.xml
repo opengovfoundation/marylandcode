@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-261" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-261</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>261</order_by>
   <text>
     <section prefix="(a)">If the Department believes that a person is violating any provision of this subtitle or any regulation adopted under this subtitle, the Department may have the person served with a written order that directs the person served to abate the violation within a time specified in the order.</section>
     <section prefix="(b)">Except as otherwise provided in the Administrative Procedure Act, the Department shall give any person served with an order under this section an opportunity for a hearing before the Department.</section>

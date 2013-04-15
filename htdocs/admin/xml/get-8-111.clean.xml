@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-111" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-8-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">Payment of a secured claim shall be upon the basis of the full amount if the creditor shall surrender his security. If payment is not made on this basis, it shall be made as provided in subsection (b) or (c) of this section.</section>
     <section prefix="(b)">If during administration, the creditor exhausts the security before receiving payment, he is entitled to the full amount of his allowed claim less the amount realized upon exhausting the security.</section>

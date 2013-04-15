@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-915" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-915</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>915</order_by>
   <text>
     <section prefix="(a)">A credit grantor making a loan or extension of credit under this subtitle is subject to the licensing, investigatory, enforcement and penalty provisions of Title 11, Subtitle 3 of the Financial Institutions Article unless the credit grantor or the loan or extension of credit is exempt under Title 11, Subtitle 3 of the Financial Institutions Article.</section>
     <section prefix="(b)">In addition to any license which may be required by subsection (a) of this section, a credit grantor making a loan or extension of credit under this subtitle secured by any lien on residential real property is subject to the licensing, investigatory, enforcement and penalty provisions of Title 11, Subtitle 5 of the Financial Institutions Article unless the credit grantor or the loan or extension of credit is exempt under Title 11, Subtitle 5 of the Financial Institutions Article.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-601" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">There shall be a chief clerk of the District Court, four assistant chief clerks, a supervising auditor, a coordinator of commissioner activity, a chief administrative clerk in each district, a clerk in each county, and other clerical and administrative employees necessary to conduct the business of the court.</section>
     <section prefix="(b)">Except as otherwise provided by law, the clerical, administrative, and constabulary employees of the District Court shall be appointed by the Chief Judge of the District Court on the recommendation of the administrative judge for the district and shall be in the personnel system of the Judicial Branch.</section>

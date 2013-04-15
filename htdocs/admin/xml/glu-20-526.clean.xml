@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-526" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-20-526</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>526</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In Montgomery County, it is a misdemeanor to:<section prefix="(i)">construct, alter structurally, or use any building, structure, or land in violation of this title, a local law adopted under this title, or a decision made under this title; or</section><section prefix="(ii)">willfully issue a building, use, or occupancy permit in violation of this title, a local law adopted under this title, or a decision made under this title.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-301" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-5-301</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>301</order_by>
   <text>
     <section prefix="(a)">An individual may become a candidate for a public or party office only if:<section prefix="(1)">the individual files a certificate of candidacy in accordance with this subtitle; and</section><section prefix="(2)">the individual does not file a certificate of withdrawal under Subtitle 5 of this title.</section></section>
     <section prefix="(b)">The appropriate board shall determine whether an individual filing a certificate of candidacy meets the requirements of this article, including:<section prefix="(1)">the voter registration and party affiliation requirements under Subtitle 2 of this title; and</section><section prefix="(2)">the campaign finance reporting requirements under Title 13 of this article.</section></section>
@@ -20,7 +20,7 @@
     <section prefix="(f)">
       <section prefix="(1)">
         <section prefix="(i)">On or before August 31 in the year in which a judge of the Court of Appeals must stand for continuance in office, the Clerk of the Court of Appeals shall provide written notice to the State Board of the name of the judge that is to be placed on the ballot at the next succeeding general election together with the identification of the judicial circuit from which the qualified voters of that circuit may cast a vote for the judge's continuance in office.</section>
-        <section prefix="(ii)">On or before August 31 in the year in which a judge of the Court of Special Appeals must stand for continuance in office, the Clerk of the Court of Special Appeals shall provide written notice to the State Board of the name of the judge that is to be placed on the ballot at the next succeeding general election together with:</section>
+        <section prefix="(ii)">On or before August 31 in the year in which a judge of the Court of Special Appeals must stand for continuance in office, the Clerk of the Court of Special Appeals shall provide written notice to the State Board of the name of the judge that is to be placed on the ballot at the next succeeding general election together with:<section prefix="1.">the identification of the judicial circuit from which the qualified voters of that circuit may cast a vote for the judge's continuance in office; or</section><section prefix="2.">a statement that the voters of the entire State may cast a vote for the judge's continuance in office.</section></section>
       </section>
       <section prefix="(2)">An incumbent judge of the Court of Appeals or Court of Special Appeals is not required to file a certificate of candidacy for an election for continuance in office.</section>
     </section>

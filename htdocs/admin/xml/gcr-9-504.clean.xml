@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-504" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-9-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a statement made or rumor circulated by an officer, employee, or agent of a bona fide civilian defense organization or unit, if made in the regular course of the person's duties.</section>
     <section prefix="(b)">A person may not circulate or transmit to another, with intent that it be acted on, a statement or rumor that the person knows to be false about the location or possible detonation of a destructive device or the location or possible release of toxic material, as those terms are defined in &#xA7; 4-501 of this article.</section>

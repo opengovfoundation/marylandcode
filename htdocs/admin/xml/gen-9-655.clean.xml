@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-655" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-655</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>655</order_by>
   <text>
     <section prefix="(a)">After the hearing processes required in &#xA7; 9-648 or &#xA7; 9-649 of this subtitle are complete, a sanitary district may begin construction on a project that has been approved under either of those sections.</section>
     <section prefix="(b)">The sanitary commission shall follow the bid solicitation procedure of this section for any construction work on the project, unless the cost will be $5,000 or less.</section>

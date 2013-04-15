@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-208" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-12-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">The governing body of a political subdivision may adopt a resolution creating a special fund for a development district even though no bonds:<section prefix="(1)">have been issued for the development district; or</section><section prefix="(2)">are outstanding at the time of adoption.</section></section>
     <section prefix="(b)">The taxes allocated to the special fund in accordance with &#xA7; 12-203(a)(3)(ii) of this subtitle shall be deposited in the special fund while the resolution that created the special fund remains in effect.</section>

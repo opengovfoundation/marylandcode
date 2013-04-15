@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-502" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-17-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">Except as provided under subsection (b) of this section and &#xA7; 17-503 of this subtitle, a person shall obtain a permit from the Department before:<section prefix="(1)">Offering to provide a test to detect the amount of cholesterol in an individual's blood; and</section><section prefix="(2)">Conducting the cholesterol test outside a permanently located medical laboratory issued a permit or excepted from a permit under Subtitle 2 of this title.</section></section>
     <section prefix="(b)">A cholesterol testing permit is not required under this subtitle for a medical laboratory that:<section prefix="(1)">Is licensed under Subtitle 2 of this title; and</section><section prefix="(2)">As set forth in the license, provides tests or services in the discipline of chemistry or health awareness.</section></section>

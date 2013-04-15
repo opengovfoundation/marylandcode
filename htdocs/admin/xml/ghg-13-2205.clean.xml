@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-2205" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-2205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>2205</order_by>
   <text>
     <section prefix="(a)">The Secretary shall appoint and convene an expert panel on child abuse and neglect relating to research and data collection at least one time each year.</section>
     <section prefix="(b)">The panel shall assist the Secretary in:<section prefix="(1)">Reviewing the appropriateness of current procedural terminology (CPT) codes and billing protocols for services provided regarding child abuse and neglect; and</section><section prefix="(2)">Determining how diagnosis and treatment data may be preserved to provide statistics on the extent of child abuse and neglect in the State, including through the creation of a special billing code.</section></section>

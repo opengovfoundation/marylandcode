@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-111" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-3-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">In this section, "personal information" means an individual's:<section prefix="(1)">Social Security number; or</section><section prefix="(2)">Driver's license number.</section></section>
     <section prefix="(b)">On or after June 1, 2010, a person may not include personal information in a deed or other recordable instrument intended for recording.</section>

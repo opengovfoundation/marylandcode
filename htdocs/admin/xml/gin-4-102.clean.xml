@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-102" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">To engage in the insurance business in the State, an insurer must:<section prefix="(1)">be in compliance with its charter powers and with this article; and</section><section prefix="(2)">be an incorporated stock insurer, incorporated mutual insurer, or reciprocal insurer.</section></section>
     <section prefix="(b)">An insurer may not be authorized to engage in the insurance business in the State if the insurer has or uses a name that is so similar to the name of an insurer already so authorized as to tend to cause uncertainty or confusion or that tends to deceive or mislead about the type of organization of the insurer.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-619" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-619</section_number>
-  <catch_line/>
+  <catch_line>A licensee shall:...</catch_line>
+  <order_by>619</order_by>
   <text>A licensee shall:<section prefix=""><section prefix="(1)">deduct the fee for a driver from the purse of an owner; and</section><section prefix="(2)">pay the fee to the driver not later than 7 work days after the last day of the month in which the driver earns the fee.</section></section></text>
 </law>

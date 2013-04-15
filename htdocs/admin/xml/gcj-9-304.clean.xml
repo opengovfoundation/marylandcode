@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-9-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">If a person comes into this State in obedience to a summons directing him to attend and testify in this State he shall not while in this State pursuant to such summons be subject to arrest or the service of process, civil or criminal, in connection with matters which arose before his entrance into this State under the summons.</section>
     <section prefix="(b)">If a person passes through this State while going to another state in obedience to a summons to attend and testify in that state or while returning therefrom, he shall not while so passing through this State be subject to arrest or the service of process, civil or criminal, in connection with matters which arose before his entrance into this State under the summons.</section>

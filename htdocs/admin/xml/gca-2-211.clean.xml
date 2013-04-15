@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-211" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">Each stock certificate shall include on its face:<section prefix="(1)">The name of the corporation that issues it;</section><section prefix="(2)">The name of the stockholder or other person to whom it is issued; and</section><section prefix="(3)">The class of stock and number of shares it represents.</section></section>
     <section prefix="(b)">If the corporation has authority to issue stock of more than one class, the stock certificate shall contain on its face or back a full statement or summary of:<section prefix="(1)">The designations and any preferences, conversion and other rights, voting powers, restrictions, limitations as to dividends, qualifications, and terms and conditions of redemption of the stock of each class which the corporation is authorized to issue; and</section><section prefix="(2)">If the corporation is authorized to issue any preferred or special class in series:<section prefix="(i)">The differences in the relative rights and preferences between the shares of each series to the extent they have been set; and</section><section prefix="(ii)">The authority of the board of directors to set the relative rights and preferences of subsequent series.</section></section></section>

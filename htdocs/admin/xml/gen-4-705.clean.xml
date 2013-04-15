@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-705" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-705</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>705</order_by>
   <text>
     <section prefix="(a)">The owner or operator of an underground oil storage tank eligible under &#xA7; 4-704(b)(1)(ii) of this subtitle may apply to the Fund for reimbursement, until December 31, 2007, for usual, customary, and reasonable costs incurred on or after October 1, 2000 in performing site rehabilitation.</section>
     <section prefix="(b)">The owner of a heating oil tank eligible under &#xA7; 4-704(b)(1)(iii) of this subtitle may apply to the Fund no later than 6 months after rehabilitation completion for reimbursement, until June 30, 2013, for usual, customary, and reasonable costs incurred on or after October 1, 2000 in performing site rehabilitation.</section>

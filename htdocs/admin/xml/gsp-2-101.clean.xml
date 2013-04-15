@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-101" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-2-101</section_number>
-  <catch_line/>
+  <catch_line>Except as expressly provided by law, this title does not limit any express or implied management pre...</catch_line>
+  <order_by>101</order_by>
   <text>Except as expressly provided by law, this title does not limit any express or implied management prerogative or other authority belonging to an appointing authority and management.</text>
 </law>

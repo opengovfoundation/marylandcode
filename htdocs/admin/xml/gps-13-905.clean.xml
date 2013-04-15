@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-905" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-905</section_number>
-  <catch_line/>
+  <catch_line>A member of the organized militia may not be arrested on any process not issued by a military author...</catch_line>
+  <order_by>905</order_by>
   <text>A member of the organized militia may not be arrested on any process not issued by a military authority while going to, remaining at, or returning from a place that the member is required to attend for military duty.</text>
 </law>

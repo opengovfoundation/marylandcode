@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-424.3" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-424.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>424.3</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"Bullying, harassment, and intimidation" means any intentional written, verbal, or physical act, including an electronic communication, that:<section prefix="(i)"/><section prefix="(ii)"/></section>
+      <section prefix="(2)">"Bullying, harassment, and intimidation" means any intentional written, verbal, or physical act, including an electronic communication, that:<section prefix="(i)"><section prefix="1.">Physically harms an individual;</section><section prefix="2.">Damages an individual's property;</section><section prefix="3.">Substantially interferes with an individual's education or learning environment; or</section><section prefix="4.">Places an individual in reasonable fear of harm to the individual's person or property; and</section></section><section prefix="(ii)"><section prefix="1.">Occurs on school property, at a school activity or event, or on a school bus; or</section><section prefix="2.">Substantially disrupts the orderly operation of a school.</section></section></section>
       <section prefix="(3)">"Electronic communication" means a communication transmitted by means of an electronic device, including a telephone, cellular phone, computer, or pager.</section>
       <section prefix="(4)">"Nonpublic school" means a nonpublic school that participates in State-funded education programs.</section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-222" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-222</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>222</order_by>
   <text>
     <section prefix="(a)">A guardian, conservator, committee, or other similar fiduciary, appointed by the appropriate court of another jurisdiction to manage the property of a protected person who is a resident of that jurisdiction, may exercise in the State all powers of his office, including the power to sell, purchase, or mortgage real estate in the State, collect, receipt for, and take possession of money due, tangible personal property, or an instrument evidencing a debt, obligation, stock, or chose in action located in the State, and remove it to the other jurisdiction. Subject to any statute or rule relating to nonresidents, he may sue and be sued in the State.</section>
     <section prefix="(b)">Before receiving actual notice of the pendency of a guardianship proceeding in the State, a person who has changed his position by relying on the powers granted by this section may not be prejudiced by the pendency of the proceeding.</section>

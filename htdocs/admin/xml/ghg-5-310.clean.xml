@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-310" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">If the cause of death is established to a reasonable degree of medical certainty, the medical examiner who investigates the case shall file in the medical examiner's office a report on the cause of death within 30 days after notification of the case.</section>
     <section prefix="(b)">
@@ -28,7 +28,7 @@
         <section prefix="(i)">Except in a case of a finding of homicide, a person in interest as defined in &#xA7; 10-611(e)(3) of the State Government Article may request the medical examiner to correct findings and conclusions on the cause and manner of death recorded on a certificate of death under &#xA7; 10-625 of the State Government Article within 60 days after the medical examiner files those findings and conclusions.</section>
         <section prefix="(ii)">If the Chief Medical Examiner denies the request of a person in interest to correct findings and conclusions on the cause of death, the person in interest may appeal the denial to the Secretary, who shall refer the matter to the Office of Administrative Hearings. A contested case hearing under this paragraph shall be a hearing both on the denial and on the establishment of the findings and conclusions on the cause of death.</section>
         <section prefix="(iii)">The administrative law judge shall submit findings of fact to the Secretary.</section>
-        <section prefix="(iv)">After reviewing the findings of the administrative law judge, the Secretary, or the Secretary's designee, shall issue an order to:</section>
+        <section prefix="(iv)">After reviewing the findings of the administrative law judge, the Secretary, or the Secretary's designee, shall issue an order to:<section prefix="1.">Adopt the findings of the administrative law judge; or</section><section prefix="2.">Reject the findings of the administrative law judge, and affirm the findings of the medical examiner.</section></section>
         <section prefix="(v)">The appellant may appeal a rejection under subparagraph (iv)2 of this paragraph to a circuit court of competent jurisdiction.</section>
         <section prefix="(vi)">If the final decision of the Secretary, or of the Secretary's designee, or of a court of competent jurisdiction on appeal, establishes a different finding or conclusion on the cause or manner of death of a deceased than that recorded on the certificate of death, the medical examiner shall amend the certificate to reflect the different finding or conclusion under &#xA7;&#xA7; 4-212 and 4-214 of this article and &#xA7; 10-625 of the State Government Article.</section>
         <section prefix="(vii)">The final decision of the Secretary, or the Secretary's designee, or of a court under this paragraph may not give rise to any presumption concerning the application of any provision of or the resolution of any claim concerning a policy of insurance relating to the deceased.</section>

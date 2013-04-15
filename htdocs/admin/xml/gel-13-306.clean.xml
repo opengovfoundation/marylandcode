@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-306" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-13-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -17,7 +17,7 @@
       </section>
       <section prefix="(5)">
         <section prefix="(i)">"Public communication" means a communication by means of any broadcast, cable, or satellite communication, newspaper, magazine, outdoor advertising facility, mass mailing, or telephone bank to the general public, or any other form of general public political advertising.</section>
-        <section prefix="(ii)">"Public communication" does not include:</section>
+        <section prefix="(ii)">"Public communication" does not include:<section prefix="1.">a news story, a commentary, or an editorial disseminated by a broadcasting station, including a cable television operator, programmer, or producer, satellite television or radio provider, Web site, newspaper, magazine, or other periodical publication, including any Internet or electronic publication, that is not controlled by a candidate or political party; or</section><section prefix="2.">a candidate debate or forum.</section></section>
       </section>
       <section prefix="(6)">"Telephone bank" means more than 500 telephone calls of an identical or substantially similar nature within any 30-day period.</section>
     </section>

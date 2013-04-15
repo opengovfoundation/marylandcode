@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-905" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-905</section_number>
-  <catch_line/>
+  <catch_line>A carrier shall restore any benefit that was eliminated from a Medicare supplement policy because of...</catch_line>
+  <order_by>905</order_by>
   <text>A carrier shall restore any benefit that was eliminated from a Medicare supplement policy because of the federal Medicare Catastrophic Coverage Act of 1988.</text>
 </law>

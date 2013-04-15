@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-115" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-2-115</section_number>
-  <catch_line/>
+  <catch_line>There is no implied covenant or warranty by the grantor as to title or possession in any grant of la...</catch_line>
+  <order_by>115</order_by>
   <text>There is no implied covenant or warranty by the grantor as to title or possession in any grant of land or of any interest or estate in land. However, in a lease, unless the lease provides otherwise, there is an implied covenant by the lessor that the lessee shall quietly enjoy the land.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-2A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-2A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as provided under paragraph (2) of this subsection, all issues of law shall be referred by the Director to the panel chairman. All issues of fact shall be referred by the Director to the arbitration panel.</section>
@@ -40,7 +40,7 @@
         <section prefix="(ii)">The panel chairman shall receive such evidence in support and opposition to a request for reduction, including evidence of the cost to obtain such payment, reimbursement, or indemnity.</section>
         <section prefix="(iii)">After hearing the evidence in support and opposition to the request, the panel chairman may modify the award if satisfied that modification is supported by the evidence.</section>
         <section prefix="(iv)">The award may not be modified as to any sums paid or payable to a claimant under any workers' compensation act, criminal injuries compensation act, employee benefit plan established under a collective bargaining agreement between an employer and an employee or a group of employers and a group of employees that is subject to the provisions of the federal Employee Retirement Income Security Act of 1974, program of the Department of Health and Mental Hygiene for which a right of subrogation exists under &#xA7;&#xA7; 15-120 and 15-121.1 of the Health - General Article, or as a benefit under any contract or policy of life insurance or Social Security Act of the United States.</section>
-        <section prefix="(v)">An award may not be modified as to any damages assessed for any future expenses, costs, and losses unless:</section>
+        <section prefix="(v)">An award may not be modified as to any damages assessed for any future expenses, costs, and losses unless:<section prefix="1.">The panel chairman orders the defendant or the defendant's insurer to provide adequate security; or</section><section prefix="2.">The insurer is authorized to do business in this State and maintains reserves in compliance with rules of the Insurance Commissioner to assure the payment of all such future damages up to the amount by which the award has been modified as to such future damages in the event of termination.</section></section>
         <section prefix="(vi)">Except as expressly provided by federal law, no person may recover from the claimant or assert a claim of subrogation against a defendant for any sum included in the modification of an award.</section>
       </section>
     </section>

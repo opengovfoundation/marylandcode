@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-208" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>208</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (c) of this section, each policy of health insurance shall contain the following provision:<section prefix="(2)">"No claim for loss incurred or disability (as defined in the policy) commencing after two years from the date of issue of this policy shall be reduced or denied on the ground that a disease or physical condition not excluded from coverage by name or specific description effective on the date of loss had existed prior to the effective date of coverage of this policy."</section></section>
     <section prefix="(b)">The first provision set forth in subsection (a) of this section does not:<section prefix="(1)">affect a legal requirement for avoidance of a policy or denial of a claim during the initial two-year period after the issuance of the policy; or</section><section prefix="(2)">limit the application of &#xA7;&#xA7; 15-219 through 15-223 of this subtitle if there is a misstatement with respect to age, occupation, or other insurance.</section></section>

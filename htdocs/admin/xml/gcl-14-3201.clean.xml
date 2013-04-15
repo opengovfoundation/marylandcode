@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-3201" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-3201</section_number>
-  <catch_line/>
+  <catch_line>A person may not violate:...</catch_line>
+  <order_by>3201</order_by>
   <text>A person may not violate:<section prefix=""><section prefix="(1)">The Telemarketing and Consumer Fraud and Abuse Prevention Act, 15 U.S.C. &#xA7;&#xA7; 6101 through 6108, as implemented by the Federal Trade Commission in the Telemarketing Sales Rule (16 C.F.R. Part 310); or</section><section prefix="(2)">The Telephone Consumer Protection Act, 47 U.S.C. &#xA7; 227, as implemented by the Federal Communications Commission in the Restrictions on Telemarketing and Telephone Solicitations Rule (47 C.F.R. Part 64, Subpart L).</section></section></text>
 </law>

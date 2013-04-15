@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-205" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-10-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Food Center Authority.</section>
     <section prefix="(b)">The Authority is a body politic and corporate and an instrumentality of the State.</section>
@@ -16,7 +16,7 @@
         <section prefix="(i)">Each member shall be a resident of the State.</section>
         <section prefix="(ii)">One member shall reside in Howard County.</section>
       </section>
-      <section prefix="(3)">Of the 12 members:<section prefix="(i)">four shall be ex officio members:</section><section prefix="(ii)">eight shall be outstanding residents appointed by the Governor with the advice and consent of the Senate.</section></section>
+      <section prefix="(3)">Of the 12 members:<section prefix="(i)">four shall be ex officio members:<section prefix="1.">the Director of Agricultural Extension;</section><section prefix="2.">the Comptroller;</section><section prefix="3.">the Secretary of Agriculture; and</section><section prefix="4.">the Secretary of General Services; and</section></section><section prefix="(ii)">eight shall be outstanding residents appointed by the Governor with the advice and consent of the Senate.</section></section>
     </section>
     <section prefix="(e)">
       <section prefix="(1)">The term of an appointed member is 5 years.</section>

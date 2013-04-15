@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g1" order_by="" level="1"/>
-    <unit label="chapter" identifier="2" order_by="" level="2"/>
+    <unit label="article" identifier="g1" order_by="" level="1">Rules of Interpretation</unit>
   </structure>
   <section_number>g1-2</section_number>
-  <catch_line/>
+  <catch_line>If any crime, misdemeanor or other violation of law hath been committed and no prosecution or other ...</catch_line>
+  <order_by>2</order_by>
   <text>If any crime, misdemeanor or other violation of law hath been committed and no prosecution or other proceeding hath been commenced against the offender before the adoption of this Code, then such offender may be proceeded against by indictment or otherwise, and punished in the same manner as if this Code had not been adopted.</text>
 </law>

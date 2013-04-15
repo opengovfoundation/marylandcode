@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-118" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-4-118</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>118</order_by>
   <text>
     <section prefix="(a)">The Commissioner may not recognize any person as a qualified independent certified public accountant unless the person:<section prefix="(1)">is in good standing:<section prefix="(i)">with the Maryland State Board of Public Accountancy; and</section><section prefix="(ii)">with the appropriate state board of accountancy of any other state in which the accountant is licensed to practice; or</section></section><section prefix="(2)">in the case of a Canadian or British accountant, is a chartered accountant.</section></section>
     <section prefix="(b)">Except as otherwise provided in this section, an independent certified public accountant shall be recognized as qualified as long as the accountant conforms to:<section prefix="(1)">for any certified public accountant not licensed in this State, the standards of the accountancy profession, as contained in the Code of Professional Ethics of the American Institute of Certified Public Accountants; or</section><section prefix="(2)"><section prefix="(i)">Title 2 of the Business Occupations and Professions Article; and</section><section prefix="(ii)">the regulations and rules of professional conduct established by the Maryland State Board of Public Accountancy.</section></section></section>
@@ -16,7 +16,7 @@
       </section>
       <section prefix="(2)">
         <section prefix="(i)">An insurer may apply to the Commissioner for an exception from the prohibition of paragraph (1) of this subsection on the basis of unusual circumstances.</section>
-        <section prefix="(ii)">In determining whether unusual circumstances exist that would justify the granting of an exception, the Commissioner may consider:</section>
+        <section prefix="(ii)">In determining whether unusual circumstances exist that would justify the granting of an exception, the Commissioner may consider:<section prefix="1.">the number of partners in the accounting firm currently used by the insurer, the expertise of the partners in that firm, and the number of insurance clients of that firm;</section><section prefix="2.">the premium volume of the insurer; and</section><section prefix="3.">the number of jurisdictions in which the insurer transacts business.</section></section>
       </section>
     </section>
     <section prefix="(d)">The Commissioner may not recognize as a qualified independent certified public accountant, or accept any audited financial report prepared in whole or in part by, any individual who:<section prefix="(1)">has been convicted of fraud, bribery, a violation of the Racketeer Influenced and Corrupt Organizations Act, 18 U.S.C. &#xA7;&#xA7; 1961-1968, or any dishonest conduct or practices under federal or State law;</section><section prefix="(2)">has violated the insurance laws of this State with respect to any audited financial reports previously submitted by that individual;</section><section prefix="(3)">has violated any provision of Title 2 of the Business Occupations and Professions Article or any regulation or rule of professional conduct established by the State Board of Public Accountancy; or</section><section prefix="(4)">has demonstrated a pattern or practice of failing to detect or disclose material information in any audited financial reports previously submitted by that individual.</section></section>

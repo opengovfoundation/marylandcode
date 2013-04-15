@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-2-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">A person who is required to take an oath under &#xA7; 2-104 of this subtitle or to file a bond under &#xA7; 2-105 of this subtitle but who fails to qualify for office by taking and subscribing the required oath or affirmation or giving the required bond within 30 days from the date his commission is received by the clerk, or if no commission is sent to the clerk, within 30 days after receiving his commission or notice of appointment, is deemed to have refused the office, and the office shall be considered vacant, unless the time is extended by the court for good cause shown.</section>
     <section prefix="(b)">A clerk of a circuit court for a county who fails to execute the required bond may not receive fees or compensation. A clerk who violates this subsection is subject to a penalty of $1,000.</section>

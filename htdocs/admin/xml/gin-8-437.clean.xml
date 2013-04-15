@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-437" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-437</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>437</order_by>
   <text>
     <section prefix="(a)">A society may create, maintain, and operate charitable, benevolent, or educational institutions for the benefit of:<section prefix="(1)">society members;</section><section prefix="(2)">families and dependents of society members; and</section><section prefix="(3)">children insured by the society.</section></section>
     <section prefix="(b)">

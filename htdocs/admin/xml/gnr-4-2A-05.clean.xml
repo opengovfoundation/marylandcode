@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-2A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-2A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">Except with respect to species of fish determined to be endangered or threatened pursuant to the Endangered Species Act, the Secretary, upon the petition of an interested person, shall conduct a review of any listed or unlisted species proposed to be removed from or added to the lists published pursuant to &#xA7; 4-2A-04(f) of this subtitle, if he makes and publishes a public notice that the person has presented substantial evidence which warrants a review.</section>
     <section prefix="(b)">When any species of fish is listed as a threatened species pursuant to &#xA7; 4-2A-04(f) of this subtitle, the Secretary shall adopt regulations necessary and advisable to provide for the conservation of the species. The Secretary, by regulation, shall prohibit with respect to any threatened species of fish any act prohibited under subsection (c).</section>

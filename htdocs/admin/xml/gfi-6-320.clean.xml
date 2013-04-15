@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-320" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-6-320</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>320</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The board may amend the articles of incorporation only if the members approve the amendment.</section>
       <section prefix="(2)">
         <section prefix="(i)">Except as provided in subparagraph (ii) of this paragraph, the board may amend the bylaws without approval of the members.</section>
-        <section prefix="(ii)">The board may amend the bylaws only with the approval of the members for any amendment that addresses one of the following subjects:</section>
+        <section prefix="(ii)">The board may amend the bylaws only with the approval of the members for any amendment that addresses one of the following subjects:<section prefix="1.">The manner or method by which a meeting of the members can be convened;</section><section prefix="2.">Quorum requirements for a meeting of the members;</section><section prefix="3.">The voting rights of members;</section><section prefix="4.">Except as provided in &#xA7; 6-303(b) of this subtitle, any change in the field of membership;</section><section prefix="5.">Requirements for the number, classifications, qualifications, and term of office for directors;</section><section prefix="6.">Procedures for removing directors;</section><section prefix="7.">Procedures for filling vacancies on the board; and</section><section prefix="8.">Any other issue as determined by the Commissioner.</section></section>
       </section>
     </section>
     <section prefix="(b)">At any meeting of the members, the members may amend the articles of incorporation or, may approve an amendment to the bylaws as provided in subsection (a)(2)(ii) of this section, if:<section prefix="(1)">The notice of the meeting specifies the amendment to be considered; and</section><section prefix="(2)">Two-thirds of the members present vote for the amendment.</section></section>

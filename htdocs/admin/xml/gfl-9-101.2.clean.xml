@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-101.2" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-101.2</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101.2</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, unless good cause for the award of custody or visitation is shown by clear and convincing evidence, a court may not award custody of a child or visitation with a child:<section prefix="(1)">to a parent who has been found by a court of this State to be guilty of first degree or second degree murder of the other parent of the child, another child of the parent, or any family member residing in the household of either parent of the child; or</section><section prefix="(2)">to a parent who has been found by a court of any state or of the United States to be guilty of a crime that, if committed in this State, would be first degree murder or second degree murder of the other parent of the child, another child of the parent, or any family member residing in the household of either parent of the child.</section></section>
     <section prefix="(b)">If it is in the best interest of the child, the court may approve a supervised visitation arrangement that assures the safety and the physiological, psychological, and emotional well-being of the child.</section>

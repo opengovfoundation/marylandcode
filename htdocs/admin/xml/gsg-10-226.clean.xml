@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-226" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-226</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>226</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
-      <section prefix="(2)">"License" means all or any part of permission that:<section prefix="(i)">is required by law to be obtained from a unit;</section><section prefix="(ii)">is not required only for revenue purposes; and</section><section prefix="(iii)">is in any form, including:</section></section>
+      <section prefix="(2)">"License" means all or any part of permission that:<section prefix="(i)">is required by law to be obtained from a unit;</section><section prefix="(ii)">is not required only for revenue purposes; and</section><section prefix="(iii)">is in any form, including:<section prefix="1.">an approval;</section><section prefix="2.">a certificate;</section><section prefix="3.">a charter;</section><section prefix="4.">a permit; or</section><section prefix="5.">a registration.</section></section></section>
       <section prefix="(3)">"Unit" means an officer or unit that is authorized by law to:<section prefix="(i)">adopt regulations subject to Subtitle 1 of this title; or</section><section prefix="(ii)">adjudicate contested cases under this subtitle.</section></section>
     </section>
     <section prefix="(b)">If, at least 2 calendar weeks before a license expires, the licensee makes sufficient application for renewal of the license, the license does not expire until:<section prefix="(1)">the unit takes final action on the application; and</section><section prefix="(2)">either:<section prefix="(i)">the time for seeking judicial review of the action expires; or</section><section prefix="(ii)">any judicial stay of the unit's final action expires.</section></section></section>
     <section prefix="(c)">
       <section prefix="(1)">Except as provided in paragraph (2) of this subsection, a unit may not revoke or suspend a license unless the unit first gives the licensee:<section prefix="(i)">written notice of the facts that warrant suspension or revocation; and</section><section prefix="(ii)">an opportunity to be heard.</section></section>
-      <section prefix="(2)">A unit may order summarily the suspension of a license if the unit:<section prefix="(i)">finds that the public health, safety, or welfare imperatively requires emergency action; and</section><section prefix="(ii)">promptly gives the licensee:</section></section>
+      <section prefix="(2)">A unit may order summarily the suspension of a license if the unit:<section prefix="(i)">finds that the public health, safety, or welfare imperatively requires emergency action; and</section><section prefix="(ii)">promptly gives the licensee:<section prefix="1.">written notice of the suspension, the finding, and the reasons that support the finding; and</section><section prefix="2.">an opportunity to be heard.</section></section></section>
     </section>
   </text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-902" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-5-902</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>902</order_by>
   <text>
     <section prefix="(a)">The General Assembly declares that there is need for a program to make funds available to State agencies and any subdivision to:<section prefix="(1)">Expedite acquisition of outdoor recreation and open space areas before escalating cost of land prevents its purchase for public use and before potential areas are devoted to some other use; and</section><section prefix="(2)">Accelerate development and capital renewal of needed outdoor recreation facilities.</section></section>
     <section prefix="(b)">This program is known as Program Open Space and carries out the recommendations of the 1968 Legislative Council committee on recreational areas. By enacting this program, the General Assembly intends to provide funds to the State and its subdivisions to enable them to acquire land for outdoor public recreation and open space use and develop the land for public recreation.</section>

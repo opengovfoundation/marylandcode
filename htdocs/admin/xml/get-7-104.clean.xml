@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-104" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-7-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Not later than 20 days after his appointment the personal representative shall deliver to the register the text of the first published newspaper notice of his appointment and shall advise the register of the names and addresses of the heirs of the decedent and of the legatees to the extent known by him, so that the register may issue the notices provided in &#xA7; 2-210 in this article.</section>
     <section prefix="(b)">The provisions of this section do not apply to a successor personal representative if notice under this section has been given previously, or to a person appointed pursuant to judicial probate.</section>

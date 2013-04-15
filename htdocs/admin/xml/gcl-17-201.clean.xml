@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-17-201</section_number>
-  <catch_line/>
+  <catch_line>The Administrator shall:...</catch_line>
+  <order_by>201</order_by>
   <text>The Administrator shall:<section prefix=""><section prefix="(1)">Attempt to discover abandoned property in federal custody that is unclaimed by an owner who is presumed to have an address in this State; and</section><section prefix="(2)">Institute proceedings for a judicial determination of this State's rights to receive custody of any abandoned property in federal custody.</section></section></text>
 </law>

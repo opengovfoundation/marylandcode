@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-801" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-801</section_number>
-  <catch_line/>
+  <catch_line>The fees specified in this part for a certificate of title shall be paid to the Administration befor...</catch_line>
+  <order_by>801</order_by>
   <text>The fees specified in this part for a certificate of title shall be paid to the Administration before issuance of the certificate.</text>
 </law>

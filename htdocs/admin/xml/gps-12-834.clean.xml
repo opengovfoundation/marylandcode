@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-834" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-834</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>834</order_by>
   <text>
     <section prefix="(a)">A licensed elevator contractor shall notify the Board if there are no licensed elevator mechanics available to perform elevator work.</section>
     <section prefix="(b)">The licensed elevator contractor may request that the Board issue temporary elevator mechanic licenses to individuals certified by the licensed elevator contractor to have an acceptable combination of documented experience and education to perform elevator work without direct and immediate supervision.</section>

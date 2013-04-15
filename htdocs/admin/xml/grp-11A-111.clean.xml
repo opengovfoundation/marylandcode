@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11A-111" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-11A-111</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>111</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Prior to the sale of any time-share, and while there exist any time-shares, the managing entity shall maintain for the benefit of the developer, association, and owners property insurance on the time-share project and any personal property available for use by time-share owners, other than personal property separately owned by a time-share owner, insuring against all risks of direct physical loss commonly insured against, in a total amount, after application of any deductibles, of not less than 80 percent of the actual cash value of the insured property, exclusive of land excavations, foundations, and other items normally excluded from property policies.</section>

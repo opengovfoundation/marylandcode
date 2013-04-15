@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-605" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-605</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>605</order_by>
   <text>
     <section prefix="(a)">The Secretary shall solicit grant proposals to implement the Program priorities approved by the Governor and the General Assembly under &#xA7; 10-603(a) of this subtitle.</section>
     <section prefix="(b)">With the advice of the Council, the Secretary shall award grants funded in accordance with the approved Program priorities.</section>

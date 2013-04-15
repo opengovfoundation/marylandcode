@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-906" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-906</section_number>
-  <catch_line/>
+  <catch_line>A person may not catch conch for commercial purposes unless the person first obtains a license from ...</catch_line>
+  <order_by>906</order_by>
   <text>A person may not catch conch for commercial purposes unless the person first obtains a license from the Department.</text>
 </law>

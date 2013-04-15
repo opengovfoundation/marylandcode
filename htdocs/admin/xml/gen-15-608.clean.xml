@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-608" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-608</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>608</order_by>
   <text>
     <section prefix="(a)">Nothing in this subtitle shall be construed as affecting the right of any person to enforce or protect that person's interest in water resources affected by deep mining.</section>
     <section prefix="(b)">The operator of a deep mine shall replace the water supply of an owner of interest in real property who obtains all or part of the owner's supply of water for domestic, agricultural, industrial, or other legitimate use from an underground or surface source where the supply has been affected by contamination, diminution, or interruption proximately resulting from deep mining operations.</section>
@@ -26,7 +26,7 @@
       <section prefix="(1)">The operator shall reimburse the Fund for all moneys expended by the Department to replace the water supply if:<section prefix="(i)">After final administrative and judicial review of the Department's determination or order issued under subsection (c) of this section, it is determined that the water supply contamination, diminution, or interruption did proximately result from the operator's deep mining operation; and</section><section prefix="(ii)">The Department has expended moneys from the Deep Mining Fund to replace the water supply.</section></section>
       <section prefix="(2)">The property owner shall reimburse the Fund for all moneys expended by the Department to replace the water supply if:<section prefix="(i)">After final administrative and judicial review of the Department's determination or order issued under subsection (c) of this section, it is determined that the water supply contamination, diminution, or interruption did not proximately result from the operator's deep mining operation; and</section><section prefix="(ii)">The Department has expended moneys from the Fund to replace the water supply.</section></section>
       <section prefix="(3)">
-        <section prefix="(i)">The operator may request reimbursement from the Department for the actual direct costs incurred by the operator to replace the water supply if:</section>
+        <section prefix="(i)">The operator may request reimbursement from the Department for the actual direct costs incurred by the operator to replace the water supply if:<section prefix="1.">After final administrative and judicial review of the Department's determination or order issued under subsection (c) of this section, it is determined that the water supply contamination, diminution, or interruption did not proximately result from the operator's deep mining operation; and</section><section prefix="2.">The operator has replaced the water supply.</section></section>
         <section prefix="(ii)">The request shall be in writing, signed by the operator, and include a statement of the actual direct costs incurred by the operator to replace the water supply and a statement that the operator is not eligible for reimbursement for all or any part of the costs for which reimbursement is requested from any other source.</section>
         <section prefix="(iii)">The Department shall reimburse the operator for the operator's eligible costs to replace the water supply from the Deep Mining Fund.</section>
       </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-106" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">The Administration shall:<section prefix="(1)">File each application for a certificate of title that it receives; and</section><section prefix="(2)">Issue a certificate of title of the vehicle if:<section prefix="(i)">It finds that the applicant is entitled to the certificate of title; and</section><section prefix="(ii)">It has received the required fees.</section></section></section>
     <section prefix="(b)">The Administration shall keep a record of all certificates of title that it issues, as follows:<section prefix="(1)">Under a distinctive title number assigned to the vehicle;</section><section prefix="(2)">Under the vehicle identification number of the vehicle or, if a distinguishing number has been assigned to it, under the distinguishing number; and</section><section prefix="(3)">Under any other method that the Administration determines.</section></section>

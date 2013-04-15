@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-611" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-611</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>611</order_by>
   <text>
     <section prefix="(a)">Viatical settlement contracts and applications for viatical settlement contracts shall contain the following statement or a substantially similar statement:</section>
     <section prefix="(b)">The absence of a statement as required in subsection (a) of this section does not constitute a defense in any prosecution for a fraudulent viatical settlement act.</section>

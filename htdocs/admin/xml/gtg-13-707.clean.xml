@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-707" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">If an employer or payor, as defined in &#xA7; 10-905 of this article, willfully fails to withhold or pay over the income tax as required in Title 10 of this article, the Comptroller may suspend or revoke any business license issued by the State to the employer or payor.</section>
     <section prefix="(b)">If a motor carrier fails to file a motor carrier tax return or pay the motor carrier tax when required under Title 9, Subtitle 2 of this article, the Comptroller may suspend or revoke any identification marker, permit, or temporary authorization issued to the motor carrier under Title 9, Subtitle 2 of this article.</section>

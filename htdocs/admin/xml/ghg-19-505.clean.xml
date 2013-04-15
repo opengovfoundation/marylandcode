@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-505" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>505</order_by>
   <text>
     <section prefix="(a)">Admission of an individual to a center shall be based on:<section prefix="(1)">The statement of a physician who, after an examination of the individual, finds that the individual needs care at a center; and</section><section prefix="(2)">The review and approval of an application for admission of the individual by the center.</section></section>
     <section prefix="(b)">If an individual cannot be placed in a special facility in this State that can treat the condition of the individual, the individual may be admitted to a center.</section>

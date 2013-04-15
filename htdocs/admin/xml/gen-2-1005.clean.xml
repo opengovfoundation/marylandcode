@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-1005" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-1005</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1005</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The allowance penalty provisions of this section are in addition to the administrative and civil penalty provisions provided under &#xA7;&#xA7; 2-604, 2-609, 2-610, and 2-610.1 of this title.</section>

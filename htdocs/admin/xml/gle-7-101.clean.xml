@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-101" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-7-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In this title the following words have the meanings indicated.</section>
-    <section prefix="(b)">"Agricultural operation" means:<section prefix="(1)">a person:<section prefix="(i)">who performs a farm labor contracting service; and</section><section prefix="(ii)">who:</section></section><section prefix="(2)">a not-for-profit or cooperative association that:<section prefix="(i)">performs a farm labor contracting service;</section><section prefix="(ii)">consists of owners or operators of farms; and</section><section prefix="(iii)">is incorporated or qualified under the laws of the State.</section></section></section>
+    <section prefix="(b)">"Agricultural operation" means:<section prefix="(1)">a person:<section prefix="(i)">who performs a farm labor contracting service; and</section><section prefix="(ii)">who:<section prefix="1.">owns or operates a farm;</section><section prefix="2.">owns or operates a cannery, packing shed, or other processing establishment; or</section><section prefix="3.">produces or conditions seed; or</section></section></section><section prefix="(2)">a not-for-profit or cooperative association that:<section prefix="(i)">performs a farm labor contracting service;</section><section prefix="(ii)">consists of owners or operators of farms; and</section><section prefix="(iii)">is incorporated or qualified under the laws of the State.</section></section></section>
     <section prefix="(c)">"Agricultural work" means employment:<section prefix="(1)">on a farm, in any activity that relates to the maintenance, management, or operation of the farm or its tools or other equipment, including cultivation of soil, raising of bees, or the growing, harvesting, or producing of an agricultural or horticultural commodity; or</section><section prefix="(2)">by the owner or operator of a farm, to dry, to freeze, to grade, to pack, to package, to plant, to process, or otherwise to handle an agricultural or horticultural commodity in its unmanufactured state before delivery for storage.</section></section>
     <section prefix="(d)">"Commissioner" means the Commissioner of Labor and Industry.</section>
     <section prefix="(e)">
@@ -19,7 +19,7 @@
     <section prefix="(g)">"License" means a license issued by the Commissioner to perform farm labor contracting services for consideration.</section>
     <section prefix="(h)">"Licensed farm labor contractor" means an individual who is licensed by the Commissioner to perform farm labor contracting services for consideration.</section>
     <section prefix="(i)">
-      <section prefix="(1)">"Migrant agricultural worker" means, except as provided in paragraph (2) of this subsection, an individual who:<section prefix="(i)">is employed to perform agricultural work of a seasonal or other temporary nature; and</section><section prefix="(ii)">in the course of employment:</section></section>
+      <section prefix="(1)">"Migrant agricultural worker" means, except as provided in paragraph (2) of this subsection, an individual who:<section prefix="(i)">is employed to perform agricultural work of a seasonal or other temporary nature; and</section><section prefix="(ii)">in the course of employment:<section prefix="1.">is absent overnight from the permanent place of residence of the individual; or</section><section prefix="2.">as part of a day-haul operation, is transported or caused to be transported by a farm labor contractor or an agent of a farm labor contractor to or from the place of employment.</section></section></section>
       <section prefix="(2)">"Migrant agricultural worker" does not include:<section prefix="(i)">an immediate family member of the owner or operator of a farm or a cannery, packing shed, or other processing establishment;</section><section prefix="(ii)">an immediate family member of an individual who produces or conditions seeds;</section><section prefix="(iii)">an immediate family member of a farm labor contractor; or</section><section prefix="(iv)">a nonimmigrant alien, as defined in 8 U.S.C. &#xA7; 1101(a)(15)(H)(ii)(a), who is authorized under federal law to work in agricultural employment in the United States.</section></section>
     </section>
     <section prefix="(j)">"Perform a farm labor contracting service" means to recruit, to employ, to hire, to provide, to solicit, to transport, or to provide housing for a migrant agricultural worker.</section>

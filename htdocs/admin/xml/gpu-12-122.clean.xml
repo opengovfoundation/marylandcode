@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-122" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-12-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person that operates a one-call system in the State shall register with and obtain certification to operate from the Commission.</section>
     <section prefix="(b)">A person operating a one-call system on or before July 1, 1990, is automatically registered with and certified by the Commission to continue to operate.</section>

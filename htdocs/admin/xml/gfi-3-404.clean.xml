@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-404" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-404</section_number>
-  <catch_line/>
+  <catch_line>Each director of a commercial bank shall take an oath:...</catch_line>
+  <order_by>404</order_by>
   <text>Each director of a commercial bank shall take an oath:<section prefix=""><section prefix="(1)">To perform diligently and honestly the duties of the office; and</section><section prefix="(2)">Not to violate knowingly or permit knowingly a violation of any law that relates to the commercial bank.</section></section></text>
 </law>

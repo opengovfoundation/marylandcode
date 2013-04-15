@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-120" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-12-120</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>120</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 15-802(b) of the Commercial Law Article and subsection (b) of this section, a licensee may not charge any other fee, including late fees or other service fees, for accepting or cashing a payment instrument in excess of the greater of:<section prefix="(1)">2% of the face amount of the payment instrument or $3, if the payment instrument is issued by the federal government or a state or local government;</section><section prefix="(2)">10% of the face amount of a payment instrument or $5, if the payment instrument is a personal check; or</section><section prefix="(3)">4% of the face amount of the payment instrument or $5, for any other payment instrument.</section></section>
     <section prefix="(b)">A licensee may charge a customer a one-time membership fee not to exceed $5.</section>

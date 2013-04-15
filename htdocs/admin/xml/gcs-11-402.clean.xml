@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-402" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-402</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not apply to Frederick, Garrett, Harford, Howard, Washington, and Worcester count...</catch_line>
+  <order_by>402</order_by>
   <text>This subtitle does not apply to Frederick, Garrett, Harford, Howard, Washington, and Worcester counties.</text>
 </law>

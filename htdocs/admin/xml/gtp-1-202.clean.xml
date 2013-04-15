@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-202" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-1-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">A person doing business in the State is deemed a resident of the State and of the county and any municipal corporation where the business is conducted if personal property is used in or in connection with the business.</section>
     <section prefix="(b)">A personal representative of the estate of a decedent is deemed a resident of the county where appointed.</section>

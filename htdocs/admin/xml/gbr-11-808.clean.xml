@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-808" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-808</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>808</order_by>
   <text>
     <section prefix="(a)">An employee of a receiving track is not considered an employee of the sending track because of this part.</section>
     <section prefix="(b)">The Commission has jurisdiction over all intertrack betting and other activities at a receiving track to the same extent as when live racing is held at the track.</section>

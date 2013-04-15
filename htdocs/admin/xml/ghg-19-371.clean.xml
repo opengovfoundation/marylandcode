@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-371" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-371</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>371</order_by>
   <text>
     <section prefix="(a)">Each hospital and each related institution shall establish:<section prefix="(1)">An advisory committee as provided in this Part IX of this subtitle; and</section><section prefix="(2)">A written procedure by which the advisory committee shall be convened.</section></section>
     <section prefix="(b)">An advisory committee at a related institution may function:<section prefix="(1)">Solely at that related institution;</section><section prefix="(2)">Jointly with a hospital advisory committee; or</section><section prefix="(3)">Jointly with an advisory committee representing no more than 30 other related institutions.</section></section>

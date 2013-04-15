@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-1023.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-1023.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1023.1</order_by>
   <text>
     <section prefix="(a)">Any statement or characterization that indicates the borrower intends to obtain a loan solely to acquire an interest in or to carry on a business or commercial enterprise may be relied upon by a credit grantor in making the loan, unless the credit grantor knows or should know that the statement or characterization is false or misleading.</section>
     <section prefix="(b)">As a condition to making a loan, a credit grantor may not require a borrower to make any false or misleading statement or characterization that the loan is a commercial loan or for a commercial purpose if the credit grantor knows or should know it is not a commercial loan or for a commercial purpose.</section>

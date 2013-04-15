@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-302" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-4-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">An election to have no board of directors becomes effective at the later of:<section prefix="(1)">The time that the organization meeting of directors and the issuance of at least one share of stock of the corporation are completed;</section><section prefix="(2)">The time the charter document in which the election is made becomes effective; or</section><section prefix="(3)">The time specified in the charter document in which the election is made.</section></section>
     <section prefix="(b)">A director automatically ceases to be a director when an election to have no board of directors becomes effective.</section>

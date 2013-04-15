@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-607" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-5-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">Before investing in other classes of securities or types of investments, each insurer shall invest its funds in securities of the classes described in subsection (b) of this section in an amount equal in value to the minimum capital stock and surplus required of a domestic stock insurer authorized to transact the same kind of insurance business.</section>
     <section prefix="(b)">

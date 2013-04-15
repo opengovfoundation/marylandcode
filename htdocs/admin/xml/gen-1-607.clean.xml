@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-607" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-1-607</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>607</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">This subsection applies to applications for all licenses and permits issued, or required to be reissued, by the Department.</section>
@@ -19,7 +19,7 @@
         <section prefix="(i)">For permits identified in &#xA7; 1-601(a) of this subtitle, the notice of completed application shall include an estimated time for issuance of the tentative determination if requested by the applicant.</section>
         <section prefix="(ii)">For permits issued under Title 5, Subtitle 9 of this article, the notice of completed application shall include an estimate of the date by which the Department will grant, deny, or condition the permit.</section>
       </section>
-      <section prefix="(4)">A permit applicant may apply to the Department for a refund of all or a portion of the application fee if:<section prefix="(i)"/><section prefix="(ii)">The applicant demonstrates that the delay was caused solely by the Department and was not the result of procedures or requirements outside the control of the Department, including:</section><section prefix="(iii)"/></section>
+      <section prefix="(4)">A permit applicant may apply to the Department for a refund of all or a portion of the application fee if:<section prefix="(i)"><section prefix="1.">For permits identified in &#xA7; 1-601(a) of this subtitle, the Department fails to issue a tentative determination regarding the application within the estimated time provided in the notice of completed application; or</section><section prefix="2.">For permits issued under Title 5, Subtitle 9 of this article, the Department fails to grant, deny, or condition a permit within the time periods provided under &#xA7; 5-906 of this article;</section></section><section prefix="(ii)">The applicant demonstrates that the delay was caused solely by the Department and was not the result of procedures or requirements outside the control of the Department, including:<section prefix="1.">Reviews by federal, local, or other State governmentagencies;</section><section prefix="2.">Procedures for public participation; or</section><section prefix="3.">The failure of the applicant to submit information to the Department in a timely manner; and</section></section><section prefix="(iii)"><section prefix="1.">For permits identified in &#xA7; 1-601(a) of this subtitle, the applicant applies to the Department within 60 days after the estimated time for issuance of a tentative determination; or</section><section prefix="2.">For permits issued under Title 5, Subtitle 9 of this article, the applicant applies to the Department within 60 days after the date by which the Department was to have granted, denied, or conditioned a permit under the time periods provided under &#xA7; 5-906 of this article.</section></section></section>
       <section prefix="(5)">The Secretary, or the Secretary's designee, shall review the refund request and determine if a refund of any amount is appropriate.</section>
       <section prefix="(6)">If the Secretary denies the refund request, the Department shall provide the applicant a written explanation of the denial and of the procedures and requirements outside the control of the Department on which the denial was based within 60 days.</section>
     </section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g25" order_by="" level="1"/>
-    <unit label="chapter" identifier="122E" order_by="" level="2"/>
+    <unit label="article" identifier="g25" order_by="" level="1">County Commisioners</unit>
   </structure>
   <section_number>g25-122E</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122E</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
@@ -14,7 +14,7 @@
         <section prefix="(ii)">"Fair market value" does not include a value for loss of revenue.</section>
       </section>
       <section prefix="(3)">
-        <section prefix="(i)">"Outdoor advertising sign" means an off-premises outdoor sign:</section>
+        <section prefix="(i)">"Outdoor advertising sign" means an off-premises outdoor sign:<section prefix="1.">Commercially owned and maintained; and</section><section prefix="2.">Used to advertise goods or services for sale in a location other than that on which the sign is placed.</section></section>
         <section prefix="(ii)">"Outdoor advertising sign" includes signs composed of painted bulletin or poster panel, and usually referred to as billboards.</section>
       </section>
     </section>

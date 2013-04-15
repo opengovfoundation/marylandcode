@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-606" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-7-606</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>606</order_by>
   <text>
     <section prefix="(a)">An insurer, a member of an insurance holding company system, or any other person may file with the Commissioner a disclaimer of affiliation with an authorized insurer that fully discloses:<section prefix="(1)">all material relationships and bases for affiliation between the person filing the disclaimer and the authorized insurer; and</section><section prefix="(2)">the basis for disclaiming the affiliation.</section></section>
     <section prefix="(b)">After giving all parties in interest notice and an opportunity to be heard, the Commissioner may disallow a disclaimer based on specific findings of fact.</section>

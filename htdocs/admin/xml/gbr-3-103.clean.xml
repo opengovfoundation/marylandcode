@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-103" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-3-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">This title does not apply to a single-passenger, coin-activated amusement ride that is electrically, manually, or mechanically operated unless admission is charged for access to the place where the amusement ride is located.</section>
     <section prefix="(b)">This title does not repeal or modify &#xA7; 21-1112 ("Medicine or patent medicine shows") or &#xA7; 21-1212 ("Violation of &#xA7; 21-1112") of the Health - General Article.</section>

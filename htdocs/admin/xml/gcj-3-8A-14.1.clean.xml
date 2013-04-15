@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-8A-14.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-8A-14.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>14.1</order_by>
   <text>
     <section prefix="(a)">After an inquiry conducted in accordance with &#xA7; 3-8A-10 of this subtitle, an intake officer may file with the court an application for an arrest warrant prepared by a law enforcement officer.</section>
-    <section prefix="(b)">An application for an arrest warrant under this section shall be:<section prefix="(1)">In writing;</section><section prefix="(2)">Signed and sworn to by the law enforcement officer; and</section><section prefix="(3)">Accompanied by an affidavit that sets forth the basis for there being probable cause to believe that:<section prefix="(i)">The child who is the subject of the warrant has committed a delinquent act; and</section><section prefix="(ii)">Unless the child who is the subject of the warrant is taken into custody, the child:</section></section></section>
+    <section prefix="(b)">An application for an arrest warrant under this section shall be:<section prefix="(1)">In writing;</section><section prefix="(2)">Signed and sworn to by the law enforcement officer; and</section><section prefix="(3)">Accompanied by an affidavit that sets forth the basis for there being probable cause to believe that:<section prefix="(i)">The child who is the subject of the warrant has committed a delinquent act; and</section><section prefix="(ii)">Unless the child who is the subject of the warrant is taken into custody, the child:<section prefix="1.">Is likely to leave the jurisdiction of the court;</section><section prefix="2.">May not be apprehended;</section><section prefix="3.">May cause physical injury or property damage to another; or</section><section prefix="4.">May tamper with, dispose of, or destroy evidence.</section></section></section></section>
     <section prefix="(c)">An arrest warrant requested under subsection (a) of this section may only be issued by the court on a finding of probable cause and shall direct the law enforcement officer to take immediate custody of the child.</section>
   </text>
 </law>

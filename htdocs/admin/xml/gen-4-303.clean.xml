@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-303" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-303</section_number>
-  <catch_line/>
+  <catch_line>Every person who disposes of or treats sewage in the Watershed shall anticipate the need for advance...</catch_line>
+  <order_by>303</order_by>
   <text>Every person who disposes of or treats sewage in the Watershed shall anticipate the need for advanced waste treatment and removal of nutrients, in providing land and planning construction of sewage treatment plants, so that effluent from sewage treatment plants is sufficiently treated to meet the effluent water quality standard for bacteriological values, dissolved oxygen, pH, and temperature conditions defined by the Secretary of the Environment. Every future sewage treatment plant located within the Watershed shall be constructed to conform with these standards.</text>
 </law>

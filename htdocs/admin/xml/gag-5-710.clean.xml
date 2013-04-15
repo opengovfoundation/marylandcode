@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-710" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-5-710</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>710</order_by>
   <text>
     <section prefix="(a)">This compact shall enter into force when enacted into law by any five or more states. Thereafter, this compact shall become effective as to any other state upon its enactment thereof.</section>
     <section prefix="(b)">Any party state may withdraw from this compact by enacting a statute repealing the same, but no such withdrawal shall take effect until two years after the executive head of the withdrawing state has given notice in writing of the withdrawal to the executive heads of all other party states. No withdrawal shall affect any liability already incurred by or chargeable to a party state prior to the time of such withdrawal.</section>

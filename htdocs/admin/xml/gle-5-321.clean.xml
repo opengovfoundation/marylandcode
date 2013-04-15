@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-321" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-5-321</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>321</order_by>
   <text>
     <section prefix="(a)">An applicant for a temporary variance shall:<section prefix="(1)">give a copy of the application to its employees or their authorized representative;</section><section prefix="(2)">post, where notices to employees normally are posted, a statement that summarizes the application and specifies where a copy of the application may be examined; and</section><section prefix="(3)">give notice by using any other appropriate means.</section></section>
     <section prefix="(b)">An applicant for a permanent variance shall give each employee whom the variance would affect notice:<section prefix="(1)">of the application; and</section><section prefix="(2)">that the Commissioner shall give each employee whom the variance would affect an opportunity to participate in a hearing on the application.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-304" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Every marketing agreement is subject to the provisions of this section, whether or not expressly set forth in the agreement.</section>
     <section prefix="(b)">
@@ -38,7 +38,7 @@
       <section prefix="(1)">A franchise created by a marketing agreement under this subtitle is personal property and shall devolve on death or retirement of a service station dealer to a designated successor in interest of the dealer, limited to the dealer's spouse, adult child, or adult stepchild.</section>
       <section prefix="(2)">
         <section prefix="(i)">Subject to the distributor's approval which may not be unreasonably withheld, the successor dealer shall be granted a 1 year trial marketing agreement by the distributor, in the name of the successor dealer, under the same terms and conditions as were contained in the original agreement.</section>
-        <section prefix="(ii)">In accordance with subsection (g) of this section, during the period of the trial marketing agreement, and with the consent of the distributor, the successor dealer may:</section>
+        <section prefix="(ii)">In accordance with subsection (g) of this section, during the period of the trial marketing agreement, and with the consent of the distributor, the successor dealer may:<section prefix="1.">Sell the business assets;</section><section prefix="2.">Assign the marketing agreement; or</section><section prefix="3.">Renew the marketing agreement under terms and conditions agreeable to the distributor and the successor dealer.</section></section>
       </section>
     </section>
   </text>

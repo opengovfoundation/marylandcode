@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c0" order_by="" level="1"/>
-    <unit label="chapter" identifier="10" order_by="" level="2"/>
+    <unit label="article" identifier="c0" order_by="" level="1">Declaration of Rights</unit>
   </structure>
   <section_number>c0-10</section_number>
-  <catch_line/>
+  <catch_line>That freedom of speech and debate, or proceedings in the Legislature, ought not to be impeached in a...</catch_line>
+  <order_by>10</order_by>
   <text>That freedom of speech and debate, or proceedings in the Legislature, ought not to be impeached in any Court of Judicature.</text>
 </law>

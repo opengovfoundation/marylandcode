@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-253" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-253</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>253</order_by>
   <text>
     <section prefix="(a)">For purposes of the Federal Water Pollution Control Act, the Secretary is the State water pollution control agency in this State.</section>
     <section prefix="(b)">The Secretary has all powers that are necessary to comply with and represent this State under the Federal Water Pollution Control Act.</section>

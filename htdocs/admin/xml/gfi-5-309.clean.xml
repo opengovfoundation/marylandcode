@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-309" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-309</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>309</order_by>
   <text>
     <section prefix="(a)">In this section, "payor institution" means a bank, credit union, or savings and loan association by which an item is payable as drawn or accepted.</section>
     <section prefix="(b)">As to each account of each depositor in a banking institution, the banking institution shall give to the customer, on opening of the account and on any later demand of the customer, written notice of the time after which the funds represented by an item deposited to the account shall be available for withdrawal as of right, for each of the situations where the banking institution:<section prefix="(1)">Is also the payor institution;</section><section prefix="(2)">Is located in the same state as the payor institution; and</section><section prefix="(3)">Is located in a different state from that in which the payor institution is located.</section></section>

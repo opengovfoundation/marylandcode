@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-428" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-428</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>428</order_by>
   <text>
     <section prefix="(a)">A provider shall establish an internal grievance procedure to address a subscriber's grievance.</section>
     <section prefix="(b)">The internal grievance procedure shall at least:<section prefix="(1)">allow a subscriber or group of subscribers collectively to submit a written grievance to the provider;</section><section prefix="(2)">require the provider to send a written acknowledgment to the subscriber or group of subscribers within 5 days after receipt of the written grievance;</section><section prefix="(3)">require the provider to assign personnel to investigate the grievance;</section><section prefix="(4)">give a subscriber or group of subscribers who file a written grievance the right to meet with management of the provider within 30 days after receipt of the written grievance to present the grievance; and</section><section prefix="(5)">require the provider to respond in writing within 45 days after receipt of the written grievance regarding the investigation and resolution of the grievance.</section></section>

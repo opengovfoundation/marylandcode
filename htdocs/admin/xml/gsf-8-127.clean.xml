@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-127" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-8-127</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>127</order_by>
   <text>
     <section prefix="(a)">Except as provided in &#xA7; 8-129 of this subtitle, the proceeds of a sale of State bonds may be used only in the manner and for a project or program that is specified in an enabling act authorizing the issuance of State bonds.</section>
     <section prefix="(b)">

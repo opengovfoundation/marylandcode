@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-113" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-7-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">A fiduciary may not:<section prefix="(1)">fraudulently and willfully appropriate money or a thing of value that the fiduciary holds in a fiduciary capacity contrary to the requirements of the fiduciary's trust responsibility; or</section><section prefix="(2)">secrete money or a thing of value that the fiduciary holds in a fiduciary capacity with a fraudulent intent to use the money or thing of value contrary to the requirements of the fiduciary's trust responsibility.</section></section>
     <section prefix="(b)">A person who violates this section is guilty of the misdemeanor of embezzlement and on conviction is subject to imprisonment for not less than 1 year and not exceeding 5 years.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-107" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-7-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A credit union becomes a member of the Corporation when:<section prefix="(i)">The financial affairs, solvency, and management of a credit union have been certified by the Commissioner as approved for insurance of its share and deposit accounts; and</section><section prefix="(ii)">The application of the credit union is accepted by the Board of Directors of the Corporation.</section></section>

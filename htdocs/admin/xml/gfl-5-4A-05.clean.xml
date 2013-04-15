@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-4A-05" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-4A-05</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>05</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A child with special needs who resides in this State and who is the subject of an adoption assistance agreement with another state shall be entitled to receive a medical assistance identification from this State upon filing with the Administration a certified copy of the adoption assistance agreement obtained from the adoption assistance state which certifies to the eligibility of the child for medical assistance.</section>

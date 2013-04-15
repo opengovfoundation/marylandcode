@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-1208" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1208</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1208</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and the dispute is directly conveyed to the consumer reporting agency in writing by the consumer, the consumer reporting agency shall within 30 days reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant.</section>

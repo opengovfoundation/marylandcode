@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-10A-03" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-7-10A-03</section_number>
-  <catch_line/>
+  <catch_line>The purpose of the pilot program is to introduce elementary age students to computer technology and ...</catch_line>
+  <order_by>03</order_by>
   <text>The purpose of the pilot program is to introduce elementary age students to computer technology and train teachers to integrate such technology into their curriculum.</text>
 </law>

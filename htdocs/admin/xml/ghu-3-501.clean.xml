@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-501" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-3-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">This section does not apply in Baltimore City.</section>
     <section prefix="(b)">Each local department shall have a local board.</section>
@@ -14,14 +14,17 @@
       <section prefix="(1)">On July 1 of each year, each local governing authority shall designate one member of the local governing authority to serve as an ex officio member of the local board.</section>
       <section prefix="(2)">
         <section prefix="(i)">The other members of the local board shall be appointed by the local governing authority.</section>
-        <section prefix="(ii)">The local governing authority shall seek out and appoint individuals who:</section>
+        <section prefix="(ii)">The local governing authority shall seek out and appoint individuals who:<section prefix="1.">have a high degree of interest, capacity, and objectivity; and</section><section prefix="2.">in the aggregate, give a countywide representative character to the local board.</section></section>
       </section>
     </section>
     <section prefix="(e)">On July 1 of each year, each local board shall select a chairman.</section>
     <section prefix="(f)">A member of a local board:<section prefix="(1)">may not receive compensation; but</section><section prefix="(2)">is entitled to reimbursement for expenses under the Standard State Travel Regulations, as provided in the State budget.</section></section>
     <section prefix="(g)">
       <section prefix="(1)">
-        <section prefix="(i)"/>
+        <section prefix="(i)">
+          <section prefix="1.">Except as provided in subsubparagraph 2 of this subparagraph, the term of an appointed member is 3 years.</section>
+          <section prefix="2.">In Charles County, the term of an appointed member is 4 years.</section>
+        </section>
         <section prefix="(ii)">A term expires on June 30 of the year of expiration.</section>
         <section prefix="(iii)">At the end of a term, a member continues to serve until a successor is appointed.</section>
         <section prefix="(iv)">Once an appointed member of a local board serves two consecutive full terms, the member is ineligible for reappointment for a period of 1 year.</section>

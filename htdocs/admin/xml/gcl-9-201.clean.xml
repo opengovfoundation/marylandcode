@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-201" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-201</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>201</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided by Titles 1 through 10 of this article, a security agreement is effective according to its terms between the parties, against purchasers of the collateral, and against creditors.</section>
     <section prefix="(b)">A transaction subject to this title may also be subject to other statutes or regulations which establish different rules for consumers, including other statutes or regulations that regulate the rates, charges, agreements, and practices for loans, credit sales, or other extensions of credit and consumer protection statutes or regulations.</section>

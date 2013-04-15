@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-102" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-20-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">This section applies only in Baltimore City.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, an establishment that is not licensed by the Board of License Commissioners may not give, serve, dispense, keep, or allow to be consumed on its premises, or on premises under its control or possession, any alcoholic beverages.</section>

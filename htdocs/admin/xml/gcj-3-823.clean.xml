@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-823" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-3-823</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>823</order_by>
   <text>
     <section prefix="(a)">In this section, "out-of-home placement" has the meaning stated in &#xA7; 5-501 of the Family Law Article.</section>
     <section prefix="(b)">
@@ -19,7 +19,7 @@
     </section>
     <section prefix="(d)">At least 10 days before the permanency planning hearing, the local department shall provide all parties and the court with a copy of the local department's permanency plan for the child.</section>
     <section prefix="(e)">
-      <section prefix="(1)">At a permanency planning hearing, the court shall:<section prefix="(i)">Determine the child's permanency plan, which, to the extent consistent with the best interests of the child, may be, in descending order of priority:</section><section prefix="(ii)">For a child who has attained the age of 16 years, determine the services needed to assist the child to make the transition from placement to independent living.</section></section>
+      <section prefix="(1)">At a permanency planning hearing, the court shall:<section prefix="(i)">Determine the child's permanency plan, which, to the extent consistent with the best interests of the child, may be, in descending order of priority:<section prefix="1.">Reunification with the parent or guardian;</section><section prefix="2.">Placement with a relative for:</section><section prefix="3.">Adoption by a nonrelative;</section><section prefix="4.">Custody and guardianship by a nonrelative under &#xA7; 3-819.2 of this subtitle; or</section><section prefix="5.">Another planned permanent living arrangement that:</section></section><section prefix="(ii)">For a child who has attained the age of 16 years, determine the services needed to assist the child to make the transition from placement to independent living.</section></section>
       <section prefix="(2)">In determining the child's permanency plan, the court shall consider the factors specified in &#xA7; 5-525(f)(1) of the Family Law Article.</section>
     </section>
     <section prefix="(f)">The court may not order a child to be continued in a placement under subsection (e)(1)(i)5 of this section unless the court finds that the person or agency to which the child is committed has documented a compelling reason for determining that it would not be in the best interest of the child to:<section prefix="(1)">Return home;</section><section prefix="(2)">Be referred for termination of parental rights; or</section><section prefix="(3)">Be placed for adoption or guardianship with a specified and appropriate relative or legal guardian willing to care for the child.</section></section>
@@ -28,7 +28,11 @@
       <section prefix="(1)">
         <section prefix="(i)">Except as provided in subparagraphs (ii) and (iii) of this paragraph, the court shall conduct a hearing to review the permanency plan at least every 6 months until commitment is rescinded or a voluntary placement is terminated.</section>
         <section prefix="(ii)">The court shall conduct a review hearing every 12 months after the court determines that the child shall be continued in out-of-home placement with a specific caregiver who agrees to care for the child on a permanent basis.</section>
-        <section prefix="(iii)"/>
+        <section prefix="(iii)">
+          <section prefix="1.">Unless the court finds good cause, a case shall be terminated after the court grants custody and guardianship of the child to a relative or other individual.</section>
+          <section prefix="2.">If the court finds good cause not to terminate a case, the court shall conduct a review hearing every 12 months until the case is terminated.</section>
+          <section prefix="3.">The court may not conclude a review hearing under subsubparagraph 2 of this subparagraph unless the court has seen the child in person.</section>
+        </section>
       </section>
       <section prefix="(2)">At the review hearing, the court shall:<section prefix="(i)">Determine the continuing necessity for and appropriateness of the commitment;</section><section prefix="(ii)">Determine and document in its order whether reasonable efforts have been made to finalize the permanency plan that is in effect;</section><section prefix="(iii)">Determine the extent of progress that has been made toward alleviating or mitigating the causes necessitating commitment;</section><section prefix="(iv)">Project a reasonable date by which a child in placement may be returned home, placed in a preadoptive home, or placed under a legal guardianship;</section><section prefix="(v)">Evaluate the safety of the child and take necessary measures to protect the child; and</section><section prefix="(vi)">Change the permanency plan if a change in the permanency plan would be in the child's best interest.</section></section>
       <section prefix="(3)">Every reasonable effort shall be made to effectuate a permanent placement for the child within 24 months after the date of initial placement.</section>
@@ -46,7 +50,7 @@
     <section prefix="(k)">
       <section prefix="(1)">At least every 12 months at a hearing under this section, the court shall consult on the record with the child in an age-appropriate manner to obtain the child's views on permanency.</section>
       <section prefix="(2)">
-        <section prefix="(i)">If, after a hearing or with the agreement of all parties, the court determines that the child is medically fragile and that it is detrimental to the child's physical or mental health to be transported to the courthouse, the court may, subject to subparagraph (ii) of this paragraph:</section>
+        <section prefix="(i)">If, after a hearing or with the agreement of all parties, the court determines that the child is medically fragile and that it is detrimental to the child's physical or mental health to be transported to the courthouse, the court may, subject to subparagraph (ii) of this paragraph:<section prefix="1.">Visit the child at the child's placement and use appropriate technology to document the consultation for the record; or</section><section prefix="2.">Use video conferencing to consult with the child on the record during the hearing.</section></section>
         <section prefix="(ii)">If the court visits the child at the child's placement under subparagraph (i)1 of this paragraph or uses video conferencing under subparagraph (i)2 of this paragraph, the court shall give each party notice and an opportunity to attend the visit or the video conferencing, unless the court determines that it is not in the best interest of the child for a party to attend the visit or the video conferencing.</section>
       </section>
       <section prefix="(3)">Subject to the provisions of paragraph (2)(ii) of this subsection, if the child's placement is outside the State and, after a hearing or with the agreement of all parties, the court determines that it is not in the best interest of the child to be transported to the court, the court may use video conferencing to consult with the child on the record during the hearing.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-106" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-106</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>106</order_by>
   <text>
     <section prefix="(a)">A person has control of an electronic document of title if a system employed for evidencing the transfer of interests in the electronic document reliably establishes that person as the person to which the electronic document was issued or transferred.</section>
     <section prefix="(b)">A system satisfies subsection (a), and a person is deemed to have control of an electronic document of title, if the document is created, stored, and assigned in such a manner that:<section prefix="(1)">A single authoritative copy of the document exists which is unique, identifiable, and, except as otherwise provided in paragraphs (4), (5), and (6), unalterable;</section><section prefix="(2)">The authoritative copy identifies the person asserting control as:<section prefix="(A)">The person to which the document was issued; or</section><section prefix="(B)">If the authoritative copy indicates that the document has been transferred, the person to which the document was most recently transferred;</section></section><section prefix="(3)">The authoritative copy is communicated to and maintained by the person asserting control or its designated custodian;</section><section prefix="(4)">Copies or amendments that add or change an identified assignee of the authoritative copy can be made only with the consent of the person asserting control;</section><section prefix="(5)">Each copy of the authoritative copy and any copy of a copy is readily identifiable as a copy that is not the authoritative copy; and</section><section prefix="(6)">Any amendment of the authoritative copy is readily identifiable as authorized or unauthorized.</section></section>

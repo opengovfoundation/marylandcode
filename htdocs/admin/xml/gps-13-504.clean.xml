@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-504" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">An officer or warrant officer commissioned or appointed in the Maryland Defense Force shall take the oath prescribed in &#xA7; 13-509 of this subtitle.</section>
     <section prefix="(b)">An individual who enlists in the Maryland Defense Force shall take an oath substantially in the form required for enlisted personnel of the National Guard, substituting "Maryland Defense Force" where necessary in the oath.</section>

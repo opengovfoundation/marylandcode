@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="29-110" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-29-110</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>110</order_by>
   <text>
     <section prefix="(a)">This section does not apply to the State Police Retirement System.</section>
     <section prefix="(b)">Except as provided in subsection (c) of this section, an accidental disability retirement allowance equals the lesser of:<section prefix="(1)">the member's average final compensation; or</section><section prefix="(2)">the sum of:<section prefix="(i)">an annuity that is the actuarial equivalent of the member's accumulated contributions at retirement; and</section><section prefix="(ii)">a pension equal to two-thirds of the member's average final compensation.</section></section></section>

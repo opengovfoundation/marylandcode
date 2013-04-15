@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-1505" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-10-1505</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1505</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board may pay credits as calculated under this section to certified producers of ethanol or biodiesel in the State for ethanol or biodiesel produced on or after December 31, 2007.</section>
@@ -16,7 +16,7 @@
     </section>
     <section prefix="(b)">
       <section prefix="(1)">For an ethanol producer, a credit may not exceed the maximum amount certified by the Board and shall be:<section prefix="(i)">20 cents per gallon of ethanol produced from small grains; and</section><section prefix="(ii)">5 cents per gallon of ethanol produced from other agricultural products.</section></section>
-      <section prefix="(2)">For a biodiesel producer, a credit may not exceed the maximum amount certified by the Board and shall be:<section prefix="(i)">20 cents per gallon of biodiesel produced from soybean oil produced:</section><section prefix="(ii)">5 cents per gallon of biodiesel produced from other feedstock, including soybean oil produced in a facility that began operating on or before December 31, 2004.</section></section>
+      <section prefix="(2)">For a biodiesel producer, a credit may not exceed the maximum amount certified by the Board and shall be:<section prefix="(i)">20 cents per gallon of biodiesel produced from soybean oil produced:<section prefix="1.">In a facility that began operating after December 31, 2004; or</section><section prefix="2.">Under the expanded capacity of a facility, the expansion of which occurred after December 31, 2004; and</section></section><section prefix="(ii)">5 cents per gallon of biodiesel produced from other feedstock, including soybean oil produced in a facility that began operating on or before December 31, 2004.</section></section>
     </section>
     <section prefix="(c)">The Board may not pay a credit for ethanol or biodiesel produced after December 31, 2017.</section>
   </text>

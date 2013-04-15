@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-107" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-2-107</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>107</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Clean Air Fund.</section>
     <section prefix="(b)">Except as provided in &#xA7; 2-1002(g) of this title, all application fees, permit fees, renewal fees, and funds collected by the Department under this title, Title 6, Subtitle 4 of this article, or received from the Maryland Strategic Energy Investment Fund under &#xA7; 9-20B-05(g)(4)(iii) of the State Government Article, including any civil or administrative penalty or any fine imposed by a court under these provisions, shall be paid into the Maryland Clean Air Fund.</section>

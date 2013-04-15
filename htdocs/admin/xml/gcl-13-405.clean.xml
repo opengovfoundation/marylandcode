@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-405" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-13-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">In the course of any examination, investigation, or hearing conducted by him, the Attorney General may subpoena witnesses, administer oaths, examine an individual under oath, and compel production of records, books, papers, contracts, and other documents.</section>
     <section prefix="(b)">Information obtained under this section is not admissible in a later criminal proceeding against the person who provides the evidence.</section>

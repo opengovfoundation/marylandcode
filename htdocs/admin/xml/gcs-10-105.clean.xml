@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-105" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-105</section_number>
-  <catch_line/>
+  <catch_line>The Department shall:...</catch_line>
+  <order_by>105</order_by>
   <text>The Department shall:<section prefix=""><section prefix="(1)">represent the Board at the opening of bids for contracts related to construction of a State correctional facility;</section><section prefix="(2)">tabulate and record the bids; and</section><section prefix="(3)">advise the Board on the bids.</section></section></text>
 </law>

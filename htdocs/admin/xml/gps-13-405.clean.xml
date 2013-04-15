@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-405" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Institution" means:<section prefix="(i)">any campus of the University System of Maryland, any community college established under Title 16 of the Education Article, Morgan State University, or St. Mary's College;</section><section prefix="(ii)">any private institution of higher education that grants a member a tuition waiver of at least 50%;</section><section prefix="(iii)">any public postsecondary vocational-technical or trade school; or</section><section prefix="(iv)">any private postsecondary vocational-technical or trade school that grants a member a tuition waiver of at least 50%.</section></section>
-      <section prefix="(3)">"Member" means an individual who:<section prefix="(i)">is regularly enlisted in the National Guard; or</section><section prefix="(ii)">holds a commission in the National Guard as:</section></section>
+      <section prefix="(3)">"Member" means an individual who:<section prefix="(i)">is regularly enlisted in the National Guard; or</section><section prefix="(ii)">holds a commission in the National Guard as:<section prefix="1.">an officer in the grade of major or below; or</section><section prefix="2.">a warrant officer.</section></section></section>
       <section prefix="(4)">
         <section prefix="(i)">"Tuition" means the basic instructional charge for undergraduate graduate, professional, vocational-technical, and trade school credit courses and related fees at an institution.</section>
         <section prefix="(ii)">"Tuition" does not include charges for self-supporting programs.</section>

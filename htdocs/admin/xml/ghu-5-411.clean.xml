@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghu" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-411" order_by="" level="2"/>
+    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-5-411</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>411</order_by>
   <text>
     <section prefix="(a)">Except in connection with a criminal proceeding brought under this part, a person may not charge or receive a fee from an applicant, recipient, or any other person:<section prefix="(1)">with respect to an application under this part; or</section><section prefix="(2)">to represent an applicant or recipient in any proceeding under this part.</section></section>
     <section prefix="(b)">A person who violates this section is guilty of a misdemeanor and on conviction is subject to a fine not exceeding $500.</section>

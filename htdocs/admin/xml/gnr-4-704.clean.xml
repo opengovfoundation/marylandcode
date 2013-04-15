@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gnr" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-704" order_by="" level="2"/>
+    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-4-704</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>704</order_by>
   <text>
     <section prefix="(a)">An applicant for a license to catch finfish shall furnish information the Department requires.</section>
     <section prefix="(b)">The Department may not grant a license to any person, under the provisions of this subtitle, to set a pound net on the location occupied by any other pound net or within 4,500 feet in the Chesapeake Bay or 1,500 feet in a tributary of the Chesapeake Bay measured at right angles to the line of stakes, unless the other licensee failed to apply for renewal of his license by the expiration date of the year for which it was granted.</section>

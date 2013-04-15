@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-408" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-17-408</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>408</order_by>
   <text>
     <section prefix="(a)">Unless the Commission takes precautions to make a composting facility free of offensive off-site odors, the Commission may not construct the facility in an area that has more than 100 homes that are located within 5 miles of the facility.</section>
     <section prefix="(b)">The Commission shall adopt regulations that provide standards for the construction and operation of a composting facility that is free of offensive off-site odors.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="g2b" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-701.1" order_by="" level="2"/>
+    <unit label="article" identifier="g2b" order_by="" level="1">Alcoholic Beverages</unit>
   </structure>
   <section_number>g2b-6-701.1</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>701.1</order_by>
   <text>
     <section prefix="(a)">This section applies only in Baltimore City.</section>
     <section prefix="(b)">In this section, "caterer" means any beer and wine or beer, wine and liquor licensee who contracts to provide food and alcoholic beverages to sponsors of public or private events held off the licensed premises.</section>

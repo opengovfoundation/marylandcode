@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-403.1" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-403.1</section_number>
-  <catch_line/>
+  <catch_line>In granting or denying any application for a loan, a lender may not discriminate against any loan ap...</catch_line>
+  <order_by>403.1</order_by>
   <text>In granting or denying any application for a loan, a lender may not discriminate against any loan applicant solely on the basis of age. Refusal to grant a loan to an applicant who is under the age of 18 is not discrimination solely on the basis of age.</text>
 </law>

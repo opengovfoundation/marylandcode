@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-108" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-11-108</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>108</order_by>
   <text>
     <section prefix="(a)">Unless the instrument creating a power of appointment expressly provides to the contrary, the power may be wholly or partially released as to all or a portion of the assets subject to it by an instrument signed by the person holding the power and attested by two witnesses. If the person is under 18 years of age or is otherwise under disability, a release pursuant to this section may be executed by order of the court having jurisdiction of the person or property of the person under disability.</section>
     <section prefix="(b)">

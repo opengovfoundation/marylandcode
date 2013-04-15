@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-203" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-5-203</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>203</order_by>
   <text>
     <section prefix="(a)">The Department has general supervisory power, regulation, and control over the water resources of the State within the boundaries of the tidal waters as provided in this article.</section>
     <section prefix="(b)">The Department shall exercise to the fullest extent possible the State's responsibility for its water resources by planning and supervising multiple purpose development and conservation of the waters of the State for the State's best interests and benefit. The Department shall develop a general water resources program which contemplates proper conservation and development of the waters of the State, in a manner compatible with multiple purpose management on a watershed or aquifer basis, or any other appropriate geographical unit. The program shall recognize and be consistent with functions of other State units. The Department shall be guided by the program in the performance of its duties.</section>

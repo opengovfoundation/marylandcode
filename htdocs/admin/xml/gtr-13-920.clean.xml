@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-920" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-920</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>920</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "tow truck" means a vehicle that:<section prefix="(i)">Is a Class E (truck) vehicle that is designed to lift, pull, or carry a vehicle by a hoist or mechanical apparatus;</section><section prefix="(ii)">Has a manufacturer's gross vehicle weight rating of 10,000 pounds or more; and</section><section prefix="(iii)">Is equipped as a tow truck or designed as a rollback as defined in &#xA7; 11-151.1 of this article.</section></section>
@@ -16,8 +16,8 @@
     <section prefix="(d)">
       <section prefix="(1)">Subject to the provisions of paragraph (2) of this subsection, for each vehicle registered under this section, the annual registration fee is based on the manufacturer's gross vehicle weight rating as follows:</section>
       <section prefix="(2)">
-        <section prefix="(i)">The annual registration fee for a vehicle registered under this section that is used for any purpose other than that described in subsection (c) of this section shall be determined under subparagraph (ii) of this paragraph if the maximum gross weight of the vehicle or combination of vehicles:</section>
-        <section prefix="(ii)">The annual registration fee shall be the greater of:</section>
+        <section prefix="(i)">The annual registration fee for a vehicle registered under this section that is used for any purpose other than that described in subsection (c) of this section shall be determined under subparagraph (ii) of this paragraph if the maximum gross weight of the vehicle or combination of vehicles:<section prefix="1.">Exceeds 18,000 pounds and the vehicle has a manufacturer's gross weight rating of 26,000 pounds or less; or</section><section prefix="2.">Exceeds 35,000 pounds and the vehicle has a manufacturer's gross weight rating of more than 26,000 pounds.</section></section>
+        <section prefix="(ii)">The annual registration fee shall be the greater of:<section prefix="1.">The fees set forth in paragraph (1) of this subsection; or</section><section prefix="2.">The fees set forth in &#xA7; 13-916(b) of this subtitle.</section></section>
       </section>
     </section>
     <section prefix="(e)">Notwithstanding &#xA7;&#xA7; 24-104.1, 24-108, and 24-109 of this article, a tow truck registered under this section, while engaged in a tow, may move a vehicle or vehicle combination on a highway for safety reasons if:<section prefix="(1)">The tow truck and the vehicle or vehicle combination being towed comply with all applicable statutory weight and size restrictions under Title 24 of this article when measured or weighed separately; and</section><section prefix="(2)">The vehicle or vehicle combination is being towed by the safest and shortest practical route possible to the vehicle's destination.</section></section>

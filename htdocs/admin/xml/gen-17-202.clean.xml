@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-202" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-17-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Board consists of seven members appointed by the Governor, with the advice of the Secretary, and with the advice and consent of the Senate.</section>
-      <section prefix="(2)">Of the seven members:<section prefix="(i)">One shall be employed by the Department;</section><section prefix="(ii)">One shall be employed by the Department of Natural Resources;</section><section prefix="(iii)">Three shall be licensed marine contractors and shall include:</section><section prefix="(iv)">Two shall be private citizens, appointed at large, who represent diverse interests, and shall include:</section></section>
+      <section prefix="(2)">Of the seven members:<section prefix="(i)">One shall be employed by the Department;</section><section prefix="(ii)">One shall be employed by the Department of Natural Resources;</section><section prefix="(iii)">Three shall be licensed marine contractors and shall include:<section prefix="1.">One from Anne Arundel, Calvert, Charles, Prince George's, or St. Mary's counties;</section><section prefix="2.">One from Baltimore City, or Baltimore, Cecil, Harford, Kent, or Queen Anne's counties; and</section><section prefix="3.">One from Caroline, Dorchester, Somerset, Talbot, Wicomico, or Worcester counties; and</section></section><section prefix="(iv)">Two shall be private citizens, appointed at large, who represent diverse interests, and shall include:<section prefix="1.">One from Baltimore City, or Anne Arundel, Baltimore, Calvert, Charles, Harford, Prince George's, or St. Mary's counties; and</section><section prefix="2.">One from Caroline, Cecil, Dorchester, Kent, Queen Anne's, Somerset, Talbot, Wicomico, or Worcester counties.</section></section></section>
     </section>
     <section prefix="(b)">Before taking office, each appointee to the Board shall take the oath required by Article I, &#xA7; 9 of the Maryland Constitution.</section>
     <section prefix="(c)">

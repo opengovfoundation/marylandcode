@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-1802" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-9-1802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1802</order_by>
   <text>
     <section prefix="(a)">By January 1, 1990, each county shall prepare and submit an assessment of the feasibility of establishing a program for the acceptance of household hazardous waste from residents of the county to the Secretary.</section>
     <section prefix="(b)">The assessment prepared and submitted under subsection (a) of this section shall include:<section prefix="(1)">The estimated cost of providing one household hazardous waste collection day every year;</section><section prefix="(2)">The feasibility and estimated cost of establishing a regional household hazardous waste collection day every year for the county's geographic region of the State; and</section><section prefix="(3)">Any other information that would be of use to the State in determining whether to mandate household hazardous waste collection days in each county.</section></section>

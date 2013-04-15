@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-711" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-8-711</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>711</order_by>
   <text>
     <section prefix="(a)">This section applies only in Prince George's County.</section>
     <section prefix="(b)">An owner of private property may request the assignment of a community service worker to clean up and dispose of rubbish on the owner's property as a work project under this subtitle if:<section prefix="(1)">the rubbish was dumped on the property without the knowledge and consent of the owner; and</section><section prefix="(2)">the owner provides a signed release of all the owner's personal and property claims that may arise from the performance of the work project.</section></section>

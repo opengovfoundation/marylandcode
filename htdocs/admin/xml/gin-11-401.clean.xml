@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-401" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-11-401</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>401</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to all kinds and classes of insurance that:<section prefix="(1)">insure or guarantee titles to real or leasehold property or an estate in real or leasehold property;</section><section prefix="(2)">insure or guarantee against loss by reason of defects, encumbrances, liens, or charges on real or leasehold property or an estate in real or leasehold property;</section><section prefix="(3)">insure or guarantee the validity, priority, and status of liens on real or leasehold property or an estate in real or leasehold property; or</section><section prefix="(4)">insure or guarantee the correctness and sufficiency of searches for instruments, liens, charges, or other matters affecting the title to real or leasehold property or an estate in real or leasehold property.</section></section>
     <section prefix="(b)">This subtitle applies to a person that makes guarantees or issues insurance described in subsection (a) of this section.</section>

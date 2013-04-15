@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-302" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to each individual or group policy, contract, or certificate of an insurer or nonprofit health service plan that:<section prefix="(1)">is delivered or issued in the State;</section><section prefix="(2)">is issued to a group that has a main office in the State; or</section><section prefix="(3)">covers individuals who reside or work in the State.</section></section>
     <section prefix="(b)">This subtitle does not apply to:<section prefix="(1)">reinsurance;</section><section prefix="(2)">workers' compensation insurance; or</section><section prefix="(3)">surety insurance.</section></section>

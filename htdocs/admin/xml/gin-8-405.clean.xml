@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-405" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-405</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>405</order_by>
   <text>
     <section prefix="(a)">A society organized or authorized to transact business under this subtitle is deemed to be a charitable and benevolent institution.</section>
     <section prefix="(b)">The funds of a society organized or authorized to transact business under this subtitle are exempt from all taxes, except taxes on real estate and office equipment.</section>

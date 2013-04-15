@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-603" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-13-603</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>603</order_by>
   <text>
     <section prefix="(a)">There is an Advisory Council for the program.</section>
     <section prefix="(b)">
       <section prefix="(1)">The Advisory Council consists of 11 members appointed by the Secretary.</section>
-      <section prefix="(2)">Of the 11 members:<section prefix="(i)">1 shall be a physician with expertise in childhood hearing loss;</section><section prefix="(ii)">3 shall be from the field of education:</section><section prefix="(iii)">1 shall be from the Maryland Department of Health and Mental Hygiene;</section><section prefix="(iv)">1 shall be a mental health professional with expertise in the area of deafness;</section><section prefix="(v)">2 shall be parents of hearing-impaired children;</section><section prefix="(vi)">1 shall be from the Maryland Association of the Deaf;</section><section prefix="(vii)">1 shall be an audiologist with expertise in childhood hearing loss; and</section><section prefix="(viii)">1 shall be from the Alexander Graham Bell Association of Maryland.</section></section>
+      <section prefix="(2)">Of the 11 members:<section prefix="(i)">1 shall be a physician with expertise in childhood hearing loss;</section><section prefix="(ii)">3 shall be from the field of education:<section prefix="1.">1 shall be from the Maryland State Department of Education;</section><section prefix="2.">1 shall be from the Maryland School for the Deaf; and</section><section prefix="3.">1 shall be an educator of the deaf from a local education agency;</section></section><section prefix="(iii)">1 shall be from the Maryland Department of Health and Mental Hygiene;</section><section prefix="(iv)">1 shall be a mental health professional with expertise in the area of deafness;</section><section prefix="(v)">2 shall be parents of hearing-impaired children;</section><section prefix="(vi)">1 shall be from the Maryland Association of the Deaf;</section><section prefix="(vii)">1 shall be an audiologist with expertise in childhood hearing loss; and</section><section prefix="(viii)">1 shall be from the Alexander Graham Bell Association of Maryland.</section></section>
     </section>
     <section prefix="(c)">The Advisory Council shall elect a chairperson from among its members.</section>
     <section prefix="(d)">The Advisory Council shall meet at least 6 times a year at the times and places that it determines.</section>

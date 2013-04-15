@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-202" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-5-202</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>202</order_by>
   <text>
     <section prefix="(a)">The Commissioner or deputy Commissioner may:<section prefix="(1)">Summon any officer, manager, trustee, employee, or agent of any banking institution and any other witness that the Commissioner thinks proper;</section><section prefix="(2)">Administer an oath to that person; and</section><section prefix="(3)">Question that person about the affairs of the institution.</section></section>
     <section prefix="(b)">The Commissioner or deputy Commissioner may not delegate the powers granted by subsection (a) of this section.</section>

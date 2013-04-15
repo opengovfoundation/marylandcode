@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="17-1010" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-17-1010</section_number>
-  <catch_line/>
+  <catch_line>A nonresident junk dealer or nonresident scrap metal processor may not keep a fixed place of busines...</catch_line>
+  <order_by>1010</order_by>
   <text>A nonresident junk dealer or nonresident scrap metal processor may not keep a fixed place of business in the State.</text>
 </law>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-509" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-8-509</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>509</order_by>
   <text>
     <section prefix="(a)">In this section, "law enforcement agency" includes:<section prefix="(1)">A State, county, or municipal police department or agency;</section><section prefix="(2)">A sheriff's office;</section><section prefix="(3)">A State's Attorney's office; and</section><section prefix="(4)">The Office of the Attorney General.</section></section>
     <section prefix="(b)">A law enforcement agency that receives a complaint of death or bodily harm allegedly caused by a nurse who holds a license or certificate under this title shall notify the Board of the complaint.</section>

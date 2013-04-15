@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-103" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-19-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">In this section, "truck stop" means a facility:<section prefix="(1)">the primary purpose of which is to provide services to long-haul truck drivers; and</section><section prefix="(2)">that provides:<section prefix="(i)">shower facilities to the truck drivers for a fee; or</section><section prefix="(ii)">parking for the truck drivers' vehicles.</section></section></section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="20-105" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-20-105</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>105</order_by>
   <text>
     <section prefix="(a)">The Commission shall award contracts by:<section prefix="(1)">competitive sealed bids in accordance with subsection (b) of this section; or</section><section prefix="(2)">competitive sealed proposals in accordance with subsection (c) of this section.</section></section>
     <section prefix="(b)">
@@ -13,7 +13,7 @@
       <section prefix="(2)">Subject to paragraphs (3) through (5) of this subsection, an invitation for bids shall:<section prefix="(i)">include the contract specifications, including the expected degree of minority business enterprise participation provided under Subtitle 2 of this title; and</section><section prefix="(ii)">state whether the contract will be awarded based on the lowest bid price or the lowest evaluated bid price.</section></section>
       <section prefix="(3)">If a contract will be awarded based on an evaluated bid price, the invitation for bids shall include the objective measurable criteria by which the lowest evaluated bid price will be determined.</section>
       <section prefix="(4)">The Commission shall award contracts based on competitive sealed bids to the responsible bidder who submits the lowest bid price or lowest evaluated bid price, as appropriate.</section>
-      <section prefix="(5)">If the Commission determines that an initial preparation of specifications for price bids is impractical, the invitation for bids may:<section prefix="(i)">include a request for an unpriced technical offer or sample; and</section><section prefix="(ii)">direct a bidder to submit:</section></section>
+      <section prefix="(5)">If the Commission determines that an initial preparation of specifications for price bids is impractical, the invitation for bids may:<section prefix="(i)">include a request for an unpriced technical offer or sample; and</section><section prefix="(ii)">direct a bidder to submit:<section prefix="1.">a sealed price bid with the unpriced technical offer or sample; or</section><section prefix="2.">a price bid after the Commission:</section></section></section>
       <section prefix="(6)">If an invitation for bids includes a request for an unpriced technical offer or sample, the Commission shall:<section prefix="(i)">consider the price bid of a bidder whose technical offer or sample is acceptable;</section><section prefix="(ii)">return unopened the price bid of a bidder whose technical offer or sample is unacceptable; and</section><section prefix="(iii)">award the contract to the responsible bidder whose technical offer or sample is acceptable and who submits the lowest bid price or lowest evaluated bid price, as specified in the invitation for bids.</section></section>
     </section>
     <section prefix="(c)">

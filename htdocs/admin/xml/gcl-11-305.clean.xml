@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-305" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-11-305</section_number>
-  <catch_line/>
+  <catch_line>Subject to the notice requirements of &#xA7; 11-306 of this subtitle, in any action filed under this sub...</catch_line>
+  <order_by>305</order_by>
   <text>Subject to the notice requirements of &#xA7; 11-306 of this subtitle, in any action filed under this subtitle which is based on a termination or cancellation of a marketing agreement, it is a defense that the marketing agreement was terminated or canceled:<section prefix=""><section prefix="(1)">By mutual agreement of the parties, provided however, that the mutual agreement is void and unenforceable unless it clearly states that it is not effective until the seventh business day after the date of its execution during which time either the dealer or the distributor have the absolute right to rescind such mutual agreement by written notice to the other;</section><section prefix="(2)">Because of the bankruptcy or insolvency of the dealer;</section><section prefix="(3)">Because the dealer failed to comply with an express requirement of the marketing agreement; or</section><section prefix="(4)">Because the dealer failed to act in good faith in carrying out the terms of the marketing agreement.</section></section></text>
 </law>

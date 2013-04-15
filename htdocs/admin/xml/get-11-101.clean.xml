@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-101" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-11-101</section_number>
-  <catch_line/>
+  <catch_line>Any contingent remainder arising under any will or inter vivos transfer shall be capable of taking e...</catch_line>
+  <order_by>101</order_by>
   <text>Any contingent remainder arising under any will or inter vivos transfer shall be capable of taking effect, regardless of the determination of any preceding estate of freehold, in the same manner and in all respects as if the determination had not happened. It is not necessary to appoint trustees to support the contingent remainder in order to prevent the destruction of it.</text>
 </law>

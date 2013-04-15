@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-122" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-122</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>122</order_by>
   <text>
     <section prefix="(a)">In this section, "burial site" means any natural or prepared physical location, whether originally below, on, or above the surface of the earth into which human remains are deposited as a part of a death rite or ceremony of any culture, religion, or group.</section>
     <section prefix="(b)">Any county or municipal corporation that has within its jurisdiction a burial site in need of repair or maintenance may, upon the request of the owner or with permission of the owner of the burial site in need of repair or maintenance, maintain and preserve the burial site for the owner.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-205" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-205</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>205</order_by>
   <text>
     <section prefix="(a)">The Commissioner may adopt regulations for the operation and maintenance of the units in the Division.</section>
     <section prefix="(b)">The regulations shall provide for:<section prefix="(1)">the discipline and conduct of inmates, including the character of punishments for violations of discipline; and</section><section prefix="(2)">the duties, discipline, and conduct of officers and other employees of the units in the Division.</section></section>

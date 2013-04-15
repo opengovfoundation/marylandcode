@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-302" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-6-302</section_number>
-  <catch_line/>
+  <catch_line>The appointment of a personal representative shall be terminated in accordance with Title 10 of this...</catch_line>
+  <order_by>302</order_by>
   <text>The appointment of a personal representative shall be terminated in accordance with Title 10 of this article and may be terminated sooner by his death, disability, resignation, or removal as provided in &#xA7;&#xA7; 6-303 through 6-307 of this subtitle.</text>
 </law>

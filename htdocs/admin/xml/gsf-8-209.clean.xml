@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsf" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-209" order_by="" level="2"/>
+    <unit label="article" identifier="gsf" order_by="" level="1">State Financial and Procurement</unit>
   </structure>
   <section_number>gsf-8-209</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>209</order_by>
   <text>
     <section prefix="(a)">Subject to the limitations in this section, with the approval of the Board of Public Works, a State unit authorized to issue bonds may issue new bonds to refund its outstanding bonds.</section>
     <section prefix="(b)">The power to issue bonds under this section is in addition to any other power to borrow.</section>
@@ -24,7 +24,7 @@
       <section prefix="(1)">A State unit shall invest and apply proceeds of a sale of bonds issued under this section to ensure that the principal and redemption premium of, and interest on, the bonds that are being refunded will be paid in full when due.</section>
       <section prefix="(2)">The State unit may deposit any part of the proceeds of the sale of bonds issued under this section in a trust fund with a trust company or other banking institution, in the name of the State unit.</section>
       <section prefix="(3)">The trustee may invest and reinvest money in the trust fund in:<section prefix="(i)">obligations of the United States;</section><section prefix="(ii)">obligations guaranteed by the United States;</section><section prefix="(iii)">certificates of deposit or time deposits secured by an obligation of the United States; or</section><section prefix="(iv)">certificates of deposit or time deposits secured by an obligation guaranteed by the United States.</section></section>
-      <section prefix="(4)">Interest, income, and profits on the investment may be:<section prefix="(i)">considered to be revenue of a revenue project; and</section><section prefix="(ii)">applied in any lawful manner, including to the payment of:</section></section>
+      <section prefix="(4)">Interest, income, and profits on the investment may be:<section prefix="(i)">considered to be revenue of a revenue project; and</section><section prefix="(ii)">applied in any lawful manner, including to the payment of:<section prefix="1.">the bonds that are being refunded; and</section><section prefix="2.">the bonds issued under this section.</section></section></section>
       <section prefix="(5)">The trustee shall make money in the trust fund available, as the State unit requires, for the payment of:<section prefix="(i)">the principal and redemption premium of, and interest on, the bonds that are being refunded;</section><section prefix="(ii)">the principal and redemption premium of, and interest on, the bonds issued under this section; or</section><section prefix="(iii)">any other related costs.</section></section>
     </section>
     <section prefix="(i)">All or any part of the bonds issued under this section may be made payable from and secured by:<section prefix="(1)">money in the trust fund; or</section><section prefix="(2)">other money or security that the State unit provides.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-112" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-15-112</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>112</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A court shall remove a fiduciary who has:<section prefix="(i)">Willfully misrepresented material facts leading to his appointment or to other action by the court in reference to the fiduciary estate;</section><section prefix="(ii)">Willfully disregarded an order of court;</section><section prefix="(iii)">Shown himself incapable, with or without fault to properly perform the duties of his office; or</section><section prefix="(iv)">Breached his duty of good faith or loyalty in the management of property of the fiduciary estate.</section></section>

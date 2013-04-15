@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="get" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-221" order_by="" level="2"/>
+    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-13-221</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>221</order_by>
   <text>
     <section prefix="(a)">The minor or disabled person, his personal representative, the guardian, or any other interested person may petition the court to terminate the guardianship proceedings.</section>
     <section prefix="(b)">A guardianship proceeding shall terminate upon:<section prefix="(1)">The cessation of the minority or disability;</section><section prefix="(2)">The death or presumptive death of the minor or disabled person;</section><section prefix="(3)">Transfer of all the assets of the estate to a foreign fiduciary; or</section><section prefix="(4)">Other good cause for termination as may be shown to the satisfaction of the court.</section></section>

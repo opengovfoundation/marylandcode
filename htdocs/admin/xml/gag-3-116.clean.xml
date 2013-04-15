@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gag" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-116" order_by="" level="2"/>
+    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-3-116</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>116</order_by>
   <text>
     <section prefix="(a)">In lieu of or in addition to any penalty provided by this title, the Secretary may impose an administrative penalty on any person who violates any provision of this title.</section>
     <section prefix="(b)">The penalty imposed under this section may not exceed $10,000.</section>

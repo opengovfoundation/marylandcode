@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-829" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-829</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>829</order_by>
   <text>
     <section prefix="(a)">An applicant who otherwise qualifies for an elevator mechanic license is entitled to be examined as provided in this section on payment of an examination fee to the Board or designee of the Board.</section>
     <section prefix="(b)">The Board periodically shall give examinations to applicants at the times and places that the Board determines.</section>

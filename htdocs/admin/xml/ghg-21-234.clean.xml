@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-234" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-234</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>234</order_by>
   <text>
     <section prefix="(a)">The Secretary may adopt rules and regulations to carry out the provisions of this subtitle.</section>
     <section prefix="(b)">Except for a State adopted federal rule or regulation, the Secretary may not adopt any rule or regulation under this subtitle unless the requirements of this subtitle and the Administrative Procedure Act are met.</section>

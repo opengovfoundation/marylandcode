@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-205" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-205</section_number>
-  <catch_line/>
+  <catch_line>If a vendor grants an improvement to an intermediate purchaser to evade any liability to a user and ...</catch_line>
+  <order_by>205</order_by>
   <text>If a vendor grants an improvement to an intermediate purchaser to evade any liability to a user and purchaser imposed by this subtitle, the vendor is liable on the subsequent sale of the improvement by the intermediate purchaser as if the subsequent sale had been effectuated by the vendor without regard to the intervening grant.</text>
 </law>

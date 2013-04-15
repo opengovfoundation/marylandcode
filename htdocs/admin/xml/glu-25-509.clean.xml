@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="25-509" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-25-509</section_number>
-  <catch_line/>
+  <catch_line>The parties to an agreement may amend the agreement by mutual consent if the district council:...</catch_line>
+  <order_by>509</order_by>
   <text>The parties to an agreement may amend the agreement by mutual consent if the district council:<section prefix=""><section prefix="(1)">approves any substantive amendment; and</section><section prefix="(2)">determines that the proposed amendment to the agreement is consistent with the Commission's general plan.</section></section></text>
 </law>

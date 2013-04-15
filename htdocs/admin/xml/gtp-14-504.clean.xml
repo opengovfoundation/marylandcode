@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtp" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-504" order_by="" level="2"/>
+    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">For personal property assessed by the Department, any taxpayer, a county, a municipal corporation, or the Attorney General may submit a written appeal to the Department as to a value or classification in a notice of assessment on or before 45 days from the date of the notice.</section>
     <section prefix="(b)">If the requirements of subsection (a) of this section are met, the Department shall hold a hearing as provided under &#xA7; 14-510 of this subtitle.</section>

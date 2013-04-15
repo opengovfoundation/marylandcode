@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-613" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-15-613</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>613</order_by>
   <text>
     <section prefix="(a)">The performance bond or cash deposit in lieu of a bond shall be forfeited on failure of the operator to perform in the manner set forth in the authorized mining and reclamation plan and to reclaim the land as provided for in the permit or on revocation of the permit. The Department shall notify the operator by certified mail, return receipt requested, bearing a postmark from the United States Postal Service, of its intention to initiate forfeiture proceedings. The operator has 30 days to show cause why the bond or cash deposit should not be forfeited.</section>
     <section prefix="(b)">If the operator shows cause, the Department shall provide a reasonable time, but not less than six months, for the operator to restore the land to comply with the permit.</section>

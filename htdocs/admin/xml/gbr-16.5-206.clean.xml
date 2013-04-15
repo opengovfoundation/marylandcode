@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="16.5-206" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-16.5-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Unless a license is renewed for a 1-year term as provided in this section, the license expires on the first April 30 after its effective date.</section>
     <section prefix="(b)">At least 1 month before a license issued under this subtitle expires, the issuing official shall mail to the licensee, at the last known address of the licensee, a renewal notice that states:<section prefix="(1)">the date on which the current license expires; and</section><section prefix="(2)">the date by which the issuing official must receive the renewal application for the renewal to be issued and mailed before the license expires.</section></section>

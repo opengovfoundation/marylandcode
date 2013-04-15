@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-206" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-3-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">An indictment, information, other charging document, or warrant for a crime described in &#xA7; 3-202, &#xA7; 3-203, or &#xA7; 3-205 of this subtitle is sufficient if it substantially states:</section>
     <section prefix="(b)">If the general form of indictment or information described in subsection (a) of this section is used to charge a crime described in &#xA7; 3-202, &#xA7; 3-203, or &#xA7; 3-205 of this subtitle in a case in the circuit court, the defendant, on timely demand, is entitled to a bill of particulars.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-207" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, if, in a payment order received by the beneficiary's bank, the name, bank account number, or other identification of the beneficiary refers to a nonexistent or unidentifiable person or account, no person has rights as a beneficiary of the order and acceptance of the order cannot occur.</section>
     <section prefix="(b)">If a payment order received by the beneficiary's bank identifies the beneficiary both by name and by an identifying or bank account number and the name and number identify different persons, the following rules apply:<section prefix="(1)">Except as otherwise provided in subsection (c) of this section, if the beneficiary's bank does not know that the name and number refer to different persons, it may rely on the number as the proper identification of the beneficiary of the order. The beneficiary's bank need not determine whether the name and number refer to the same person.</section><section prefix="(2)">If the beneficiary's bank pays the person identified by name or knows that the name and number identify different persons, no person has rights as beneficiary except the person paid by the beneficiary's bank if that person was entitled to receive payment from the originator of the funds transfer. If no person has rights as beneficiary, acceptance of the order cannot occur.</section></section>

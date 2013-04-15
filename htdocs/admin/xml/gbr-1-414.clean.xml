@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-414" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-1-414</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>414</order_by>
   <text>
     <section prefix="(a)">Subject to &#xA7; 1-402 of this subtitle, a person may not:<section prefix="(1)">use, without the consent of the registrant, a reproduction or colorable imitation of a mark registered under this subtitle in connection with the sale, offering for sale, or advertising of goods or services if the use is likely to confuse or deceive about the origin of the goods or services; or</section><section prefix="(2)">reproduce or colorably imitate a mark registered under this subtitle and apply the reproduction or colorable imitation to an advertisement, label, package, print, receptacle, sign, or wrapper that is intended to be used:<section prefix="(i)">with goods or services; or</section><section prefix="(ii)">in conjunction with the sale or other distribution of goods or services in the State.</section></section></section>
     <section prefix="(b)">

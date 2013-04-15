@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gpu" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-113" order_by="" level="2"/>
+    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-2-113</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>113</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">The Commission shall:<section prefix="(i)">supervise and regulate the public service companies subject to the jurisdiction of the Commission to:</section><section prefix="(ii)">enforce compliance with the requirements of law by public service companies, including requirements with respect to financial condition, capitalization, franchises, plant, manner of operation, rates, and service.</section></section>
+      <section prefix="(1)">The Commission shall:<section prefix="(i)">supervise and regulate the public service companies subject to the jurisdiction of the Commission to:<section prefix="1.">ensure their operation in the interest of the public; and</section><section prefix="2.">promote adequate, economical, and efficient delivery of utility services in the State without unjust discrimination; and</section></section><section prefix="(ii)">enforce compliance with the requirements of law by public service companies, including requirements with respect to financial condition, capitalization, franchises, plant, manner of operation, rates, and service.</section></section>
       <section prefix="(2)">In supervising and regulating public service companies, the Commission shall consider the public safety, the economy of the State, the conservation of natural resources, and the preservation of environmental quality.</section>
     </section>
     <section prefix="(b)">The powers and duties listed in this title do not limit the scope of the general powers and duties of the Commission provided for by this division.</section>

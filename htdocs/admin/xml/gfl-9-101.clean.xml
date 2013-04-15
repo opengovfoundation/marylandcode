@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-101" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-9-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">In any custody or visitation proceeding, if the court has reasonable grounds to believe that a child has been abused or neglected by a party to the proceeding, the court shall determine whether abuse or neglect is likely to occur if custody or visitation rights are granted to the party.</section>
     <section prefix="(b)">Unless the court specifically finds that there is no likelihood of further child abuse or neglect by the party, the court shall deny custody or visitation rights to that party, except that the court may approve a supervised visitation arrangement that assures the safety and the physiological, psychological, and emotional well-being of the child.</section>

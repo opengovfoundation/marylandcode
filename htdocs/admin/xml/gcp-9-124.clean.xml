@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-124" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-9-124</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>124</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Any person arrested in this State charged with having committed any crime in another state or alleged to have escaped from confinement, or broken the terms of bail, probation, or parole, may waive the issuance and service of the warrant provided for in &#xA7;&#xA7; 9-107 and 9-108 of this title, and all other procedure incidental to extradition proceedings, by executing or subscribing in the presence of a judge of any court of record within this State a writing that states that the person consents to return to the demanding state.</section>

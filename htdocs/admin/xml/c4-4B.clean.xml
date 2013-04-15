@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="c4" order_by="" level="1"/>
-    <unit label="chapter" identifier="4B" order_by="" level="2"/>
+    <unit label="article" identifier="c4" order_by="" level="1">IV - Judiciary Department</unit>
   </structure>
   <section_number>c4-4B</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>4B</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">The Commission on Judicial Disabilities has the power to:<section prefix="(i)">Investigate complaints against any judge of the Court of Appeals, any intermediate courts of appeal, the circuit courts, the District Court of Maryland, or the orphans' court; and</section><section prefix="(ii)">Conduct hearings concerning such complaints, administer oaths and affirmations, issue process to compel the attendance of witnesses and the production of evidence, and require persons to testify and produce evidence by granting them immunity from prosecution or from penalty or forfeiture.</section></section>

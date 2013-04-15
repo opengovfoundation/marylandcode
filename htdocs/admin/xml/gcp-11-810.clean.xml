@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-810" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-810</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>810</order_by>
   <text>
     <section prefix="(a)">
-      <section prefix="(1)">The Board may make an award only if the Board finds that:<section prefix="(i)">a crime or delinquent act was committed;</section><section prefix="(ii)">the crime or delinquent act directly resulted in:</section><section prefix="(iii)">police, other law enforcement, or judicial records show that the crime or delinquent act or the discovery of child abuse was reported to the proper authorities within 48 hours after the occurrence of the crime or delinquent act or the discovery of the child abuse; and</section><section prefix="(iv)">the victim has cooperated fully with all law enforcement units.</section></section>
+      <section prefix="(1)">The Board may make an award only if the Board finds that:<section prefix="(i)">a crime or delinquent act was committed;</section><section prefix="(ii)">the crime or delinquent act directly resulted in:<section prefix="1.">physical injury to or death of the victim; or</section><section prefix="2.">psychological injury to the victim that necessitated mental health counseling;</section></section><section prefix="(iii)">police, other law enforcement, or judicial records show that the crime or delinquent act or the discovery of child abuse was reported to the proper authorities within 48 hours after the occurrence of the crime or delinquent act or the discovery of the child abuse; and</section><section prefix="(iv)">the victim has cooperated fully with all law enforcement units.</section></section>
       <section prefix="(2)">For good cause, the Board may waive the requirements of paragraph (1)(iii) and (iv) of this subsection.</section>
     </section>
     <section prefix="(b)">Unless total dependency is established, family members are considered to be partly dependent on a parent with whom they reside without regard to actual earnings.</section>
@@ -16,7 +16,7 @@
     <section prefix="(d)">
       <section prefix="(1)">
         <section prefix="(i)">Except as provided under subparagraph (ii) of this paragraph, in considering a claim and in determining the amount of an award, the Board shall determine whether the victim's conduct contributed to the infliction of the victim's injury, and, if so, reduce the amount of the award or reject the claim.</section>
-        <section prefix="(ii)">The Board may disregard the responsibility of the victim for the victim's own injury if that responsibility is attributable to efforts by the victim:</section>
+        <section prefix="(ii)">The Board may disregard the responsibility of the victim for the victim's own injury if that responsibility is attributable to efforts by the victim:<section prefix="1.">to prevent a crime or delinquent act or an attempted crime or delinquent act from occurring in the victim's presence; or</section><section prefix="2.">to apprehend an offender who had committed a crime or delinquent act in the victim's presence or had committed a felony or delinquent act that would be a felony if committed by an adult.</section></section>
       </section>
       <section prefix="(2)">A claimant filing for injuries incurred as the occupant of a motor vehicle or a dependent of an occupant of a motor vehicle operated in violation of &#xA7; 21-902 of the Transportation Article may not receive an award unless the claimant proves that the occupant did not know or could not have known of the condition of the operator of the vehicle.</section>
       <section prefix="(3)">A claimant may not receive an award if:<section prefix="(i)">the victim initiated, consented to, provoked, or unreasonably failed to avoid a physical confrontation with the offender; or</section><section prefix="(ii)">the victim was participating in a crime or delinquent act when the injury was inflicted.</section></section>

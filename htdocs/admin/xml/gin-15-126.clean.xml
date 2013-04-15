@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-126" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-126</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>126</order_by>
   <text>
     <section prefix="(a)">In this section, "emergency medical condition" means a medical condition that manifests itself by symptoms of sufficient severity, including severe pain, that the absence of immediate medical attention could reasonably be expected by a prudent layperson, who possesses an average knowledge of health and medicine, to result in:<section prefix="(1)">placing the patient's health in serious jeopardy;</section><section prefix="(2)">serious impairment to bodily functions; or</section><section prefix="(3)">serious dysfunction of any bodily organ or part.</section></section>
     <section prefix="(b)">This section applies to:<section prefix="(1)">insurers and nonprofit health service plans that provide hospital, medical, or surgical benefits to individuals or groups under health insurance policies that are issued or delivered in the State; and</section><section prefix="(2)">health maintenance organizations that provide hospital, medical, or surgical benefits to individuals or groups under contracts that are issued or delivered in the State.</section></section>

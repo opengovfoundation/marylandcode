@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-602" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-10-602</section_number>
-  <catch_line/>
+  <catch_line>The State, a political subdivision, or a unit of the State or of a political subdivision may keep on...</catch_line>
+  <order_by>602</order_by>
   <text>The State, a political subdivision, or a unit of the State or of a political subdivision may keep only the information about a person that:<section prefix=""><section prefix="(1)">is needed by the State, the political subdivision, or the unit to accomplish a governmental purpose that is authorized or required to be accomplished under:<section prefix="(i)">a statute or other legislative mandate;</section><section prefix="(ii)">an executive order of the Governor;</section><section prefix="(iii)">an executive order of the chief executive of a local jurisdiction; or</section><section prefix="(iv)">a judicial rule; and</section></section><section prefix="(2)">is relevant to accomplishment of the purpose.</section></section></text>
 </law>

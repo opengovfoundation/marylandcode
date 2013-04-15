@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-310" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-3-310</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>310</order_by>
   <text>
     <section prefix="(a)">In this section, "government obligations" means direct obligations of, or obligations the principal of and interest on which are unconditionally guaranteed by the United States of America.</section>
     <section prefix="(b)">Adequate and complete provision for payment of the principal and interest of any issue or series of county transportation bonds may be made by the Secretary and the State Treasurer by making a transfer of government obligations from the Transportation Trust Fund to the State Treasurer or to a bank or trust company as escrow fund agent in an amount which, together with the income due thereon, will be sufficient to pay in full when due the maturing principal of and interest on the county transportation bonds.</section>

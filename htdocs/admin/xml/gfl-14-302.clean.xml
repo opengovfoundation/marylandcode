@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-302" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-14-302</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>302</order_by>
   <text>
     <section prefix="(a)">Notwithstanding any law on privileged communications, each health practitioner, police officer, or human service worker who contacts, examines, attends, or treats an alleged vulnerable adult, and who has reason to believe that the alleged vulnerable adult has been subjected to abuse, neglect, self-neglect, or exploitation shall:<section prefix="(1)">notify the local department; and</section><section prefix="(2)">if acting as a staff member of a hospital or public health agency, immediately notify and give all the information required by this section to the head of the institution or the designee of the head.</section></section>
     <section prefix="(b)">An individual who is required to make a report under subsection (a) of this section shall make the report by telephone, direct communication, or in writing to the local department as soon as possible.</section>

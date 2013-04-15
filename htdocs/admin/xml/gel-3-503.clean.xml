@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gel" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-503" order_by="" level="2"/>
+    <unit label="article" identifier="gel" order_by="" level="1">Education</unit>
   </structure>
   <section_number>gel-3-503</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>503</order_by>
   <text>
     <section prefix="(a)">If a voter fails to respond to a confirmation notice under &#xA7; 3-502(c) of this subtitle, the voter's name shall be placed into inactive status on the statewide voter registration list.</section>
     <section prefix="(b)">A voter shall be restored to active status on the statewide voter registration list after completing and signing any of the following election documents:<section prefix="(1)">a voter registration application;</section><section prefix="(2)">a petition governed by Title 6;</section><section prefix="(3)">a certificate of candidacy;</section><section prefix="(4)">an absentee ballot application; or</section><section prefix="(5)">a written affirmation of residence completed on election day to entitle the voter to vote either at the election district or precinct for the voter's current residence or the voter's previous residence, as determined by the State Board.</section></section>

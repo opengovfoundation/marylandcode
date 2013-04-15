@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gps" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-502" order_by="" level="2"/>
+    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">In this section, "police officer" means a member of:<section prefix="(1)">a police force of this State or another state;</section><section prefix="(2)">a police force of a county or municipal corporation of this State or another state;</section><section prefix="(3)">the United States Secret Service Uniformed Division;</section><section prefix="(4)">the United States Park Police;</section><section prefix="(5)">the Washington Metropolitan Area Transit Authority (WMATA) Metro Transit Police;</section><section prefix="(6)">the Federal Bureau of Investigation;</section><section prefix="(7)">the Drug Enforcement Administration; or</section><section prefix="(8)">a division of a federal agency the primary duties of which are the investigation, apprehension, or detention of individuals suspected or convicted of federal crimes.</section></section>
     <section prefix="(b)">A person may not, with fraudulent design on person or property, falsely represent that the person is a police officer, special police officer, sheriff, deputy sheriff, or constable.</section>

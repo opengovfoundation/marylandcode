@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-102" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-8-102</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>102</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, a person convicted of a crime by a circuit court and sentenced to serve a sentence that exceeds 2 years in a correctional facility is entitled to a single sentence review by a review panel.</section>
     <section prefix="(b)">A person is not entitled:<section prefix="(1)">to a sentence review if the sentence was imposed by more than one circuit court judge; or</section><section prefix="(2)">to a review of an order requiring a suspended part of a sentence to be served if:<section prefix="(i)">the sentence originally was wholly or partly suspended;</section><section prefix="(ii)">the sentence was reviewed; and</section><section prefix="(iii)">the suspended sentence or suspended part of that sentence later was required to be served.</section></section></section>

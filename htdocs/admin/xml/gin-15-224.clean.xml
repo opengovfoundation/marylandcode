@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-224" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-224</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>224</order_by>
   <text>
     <section prefix="(a)">A policy of health insurance may contain the following provision:</section>
     <section prefix="(b)">The policy provision set forth in subsection (a) of this section may be inserted only in a policy that the insured may continue in effect subject to its terms by the timely payment of premiums:<section prefix="(1)">until the insured is at least 50 years old; or</section><section prefix="(2)">if the policy is issued after the insured is 44 years old, for at least 5 years after its date of issue.</section></section>
     <section prefix="(c)">
-      <section prefix="(1)">The insurer may include in the provision set forth in subsection (a) of this section a definition of "valid loss-of-time coverage" if the definition:<section prefix="(i)">is approved as to form by the Commissioner;</section><section prefix="(ii)">is limited to:</section></section>
+      <section prefix="(1)">The insurer may include in the provision set forth in subsection (a) of this section a definition of "valid loss-of-time coverage" if the definition:<section prefix="(i)">is approved as to form by the Commissioner;</section><section prefix="(ii)">is limited to:<section prefix="1.">coverage provided by governmental units or organizations subject to regulation by insurance law or insurance authorities of this State, another state, or a province of Canada;</section><section prefix="2.">any other coverage that the Commissioner may approve for inclusion; or</section><section prefix="3.">a combination of these coverages.</section></section></section>
       <section prefix="(2)">Unless defined otherwise, "valid loss-of-time coverage" does not include:<section prefix="(i)">coverage provided for the insured under a compulsory benefit statute, including a workers' compensation or employer's liability statute; or</section><section prefix="(ii)">coverage provided by union welfare plans or by employer or employee benefit organizations.</section></section>
     </section>
   </text>

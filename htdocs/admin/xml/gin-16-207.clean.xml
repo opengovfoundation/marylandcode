@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-207" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-16-207</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>207</order_by>
   <text>
     <section prefix="(a)">This section does not apply to:<section prefix="(1)">term policies;</section><section prefix="(2)">term insurance benefits provided by rider or supplemental policy provisions; or</section><section prefix="(3)">industrial life insurance policies.</section></section>
     <section prefix="(b)">Each policy of life insurance shall contain a provision that, on proper assignment or pledge of the policy and on the sole security of the policy, the insurer shall advance an amount equal to, or at the option of the party entitled to the advance, an amount not exceeding the loan value of the policy:<section prefix="(1)">after premiums have been paid for at least 3 years;</section><section prefix="(2)">after the policy has a cash surrender value; and</section><section prefix="(3)">while no premium is in default beyond the grace period.</section></section>

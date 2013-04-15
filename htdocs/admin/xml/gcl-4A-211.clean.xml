@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="4A-211" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-211</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>211</order_by>
   <text>
     <section prefix="(a)">A communication of the sender of a payment order cancelling or amending the order may be transmitted to the receiving bank orally, electronically, or in writing. If a security procedure is in effect between the sender and the receiving bank, the communication is not effective to cancel or amend the order unless the communication is verified pursuant to the security procedure or the bank agrees to the cancellation or amendment.</section>
     <section prefix="(b)">Subject to subsection (a) of this section, a communication by the sender cancelling or amending a payment order is effective to cancel or amend the order if notice of the communication is received at a time and in a manner affording the receiving bank a reasonable opportunity to act on the communication before the bank accepts the payment order.</section>

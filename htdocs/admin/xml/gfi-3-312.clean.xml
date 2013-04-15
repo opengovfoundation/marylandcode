@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfi" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-312" order_by="" level="2"/>
+    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-3-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">If the Commissioner approves, a commercial bank may issue and sell debt instruments that are repayable on the terms and bear the rate of interest, if any, stated in the instruments.</section>
     <section prefix="(b)">The issuance of a debt instrument does not impair the capital stock of a commercial bank if the amount of the debt instrument is represented by cash or sound assets that exceed the impairment determined by the Commissioner.</section>

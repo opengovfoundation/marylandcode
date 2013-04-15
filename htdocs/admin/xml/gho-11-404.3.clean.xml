@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gho" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-404.3" order_by="" level="2"/>
+    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-11-404.3</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>404.3</order_by>
   <text>
     <section prefix="(a)">The Maryland Optometric Association and the Maryland Society of Eye Physicians and Surgeons shall recommend to the Secretary quality assurance guidelines for therapeutically certified optometrists and optometric care.</section>
     <section prefix="(b)">

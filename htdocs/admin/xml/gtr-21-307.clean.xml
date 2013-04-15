@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-307" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-307</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>307</order_by>
   <text>
     <section prefix="(a)">The State Highway Administration may determine those parts of any highway in its jurisdiction where overtaking and passing or driving on the left of the roadway would be especially dangerous and, by appropriate signs or markings on the roadway, may indicate the beginning and end of these zones. Where the signs or markings are in place and clearly visible to an ordinarily observant individual, every driver of a vehicle shall obey their directions.</section>
     <section prefix="(b)">Except as provided in subsection (d) of this section, where signs or markings defining a no-passing zone are placed as provided in subsection (a) of this section, a driver may not drive on the left side of the roadway within the no-passing zone.</section>

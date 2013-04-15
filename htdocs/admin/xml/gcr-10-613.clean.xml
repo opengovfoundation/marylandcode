@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-613" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-613</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>613</order_by>
   <text>
     <section prefix="(a)">This section does not apply to:<section prefix="(1)">a biomedical facility that is licensed by the United States Department of Agriculture; or</section><section prefix="(2)">an animal that is accompanied by a signed statement from a licensed veterinarian stating that the animal's dam is incapacitated for humane or medical reasons and cannot care for the animal.</section></section>
     <section prefix="(b)">

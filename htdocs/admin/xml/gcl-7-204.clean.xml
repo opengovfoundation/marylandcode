@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="7-204" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-204</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>204</order_by>
   <text>
     <section prefix="(a)">A warehouse is liable for damages for loss of or injury to the goods caused by its failure to exercise care with regard to the goods that a reasonably careful person would exercise under similar circumstances. Unless otherwise agreed, the warehouse is not liable for damages that could not have been avoided by the exercise of that care.</section>
     <section prefix="(b)">Damages may be limited by a term in the warehouse receipt or storage agreement limiting the amount of liability in case of loss or damage beyond which the warehouse is not liable. Such a limitation is not effective with respect to the warehouse's liability for conversion to its own use. On request of the bailor in a record at the time of signing the storage agreement or within a reasonable time after receipt of the warehouse receipt, the warehouse's liability may be increased on part or all of the goods covered by the storage agreement or the warehouse receipt. In this event, increased rates may be charged based on an increased valuation of the goods.</section>

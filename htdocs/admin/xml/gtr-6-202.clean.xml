@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="6-202" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-6-202</section_number>
-  <catch_line/>
+  <catch_line>There is a Maryland Port Administration....</catch_line>
+  <order_by>202</order_by>
   <text>There is a Maryland Port Administration.</text>
 </law>

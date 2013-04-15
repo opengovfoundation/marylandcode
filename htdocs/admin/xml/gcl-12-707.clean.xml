@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="12-707" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-707</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>707</order_by>
   <text>
     <section prefix="(a)">Notwithstanding the provisions of &#xA7; 12-703 of this subtitle, any creditor who violates any provisions of this subtitle is liable to the applicant in an amount equal to the sum of any actual damages sustained by the applicant acting either in an individual capacity or as a representative of a class.</section>
     <section prefix="(b)">Any creditor who fails to comply with any requirement imposed under this subtitle shall be liable to the aggrieved applicant for punitive damages in an amount not greater than $10,000, as determined by the court, in addition to any actual damages provided in subsection (a). In pursuing the recovery allowed under this subsection, the applicant may proceed only in an individual capacity and not as a representative of a class.</section>

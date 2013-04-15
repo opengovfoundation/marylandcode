@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcj" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-505" order_by="" level="2"/>
+    <unit label="article" identifier="gcj" order_by="" level="1">Courts and Judicial Proceedings</unit>
   </structure>
   <section_number>gcj-11-505</section_number>
-  <catch_line/>
+  <catch_line>In addition to any other requirement under the Maryland Rules, before the court may ratify a sheriff...</catch_line>
+  <order_by>505</order_by>
   <text>In addition to any other requirement under the Maryland Rules, before the court may ratify a sheriff's sale of real property under levy pursuant to a writ of execution, the judgment creditor who requested the issuance of the writ shall provide to the court a copy of the public assessment record for the real property kept by the supervisor of assessments in accordance with &#xA7; 2-211 of the Tax - Property Article.</text>
 </law>

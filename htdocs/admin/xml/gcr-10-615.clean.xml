@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcr" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-615" order_by="" level="2"/>
+    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-10-615</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>615</order_by>
   <text>
     <section prefix="(a)">If an owner or custodian of an animal is convicted of an act of animal cruelty, the court may order the removal of the animal or any other animal at the time of conviction for the protection of the animal.</section>
     <section prefix="(b)">
       <section prefix="(1)">An officer or authorized agent of a humane society, or a police officer or other public official required to protect animals may seize an animal if necessary to protect the animal from cruelty.</section>
       <section prefix="(2)">
         <section prefix="(i)">An animal that a medical and scientific research facility possesses may be removed under this subsection only after review by and a recommendation from the Department of Health and Mental Hygiene, Center for Veterinary Public Health.</section>
-        <section prefix="(ii)">The Department of Health and Mental Hygiene shall:</section>
+        <section prefix="(ii)">The Department of Health and Mental Hygiene shall:<section prefix="1.">conduct an investigation within 24 hours after receiving a complaint; and</section><section prefix="2.">within 24 hours after completing the investigation, report to the State's Attorney for the county in which the facility is situated.</section></section>
       </section>
     </section>
     <section prefix="(c)">

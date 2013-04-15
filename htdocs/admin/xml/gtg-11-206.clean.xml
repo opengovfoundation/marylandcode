@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-206" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Facility for food consumption" does not include parking spaces for vehicles as the sole accommodation.</section>
       <section prefix="(3)">
         <section prefix="(i)">"Food" means food for human consumption.</section>
-        <section prefix="(ii)">"Food" includes the following foods and their products:</section>
-        <section prefix="(iii)">"Food" does not include:</section>
+        <section prefix="(ii)">"Food" includes the following foods and their products:<section prefix="1.">beverages, including coffee, coffee substitutes, cocoa, fruit juices, and tea;</section><section prefix="2.">condiments;</section><section prefix="3.">eggs;</section><section prefix="4.">fish, meat, and poultry;</section><section prefix="5.">fruit, grain, and vegetables;</section><section prefix="6.">milk, including ice cream; and</section><section prefix="7.">sugar.</section></section>
+        <section prefix="(iii)">"Food" does not include:<section prefix="1.">an alcoholic beverage as defined in &#xA7; 5-101 of this article;</section><section prefix="2.">a soft drink or carbonated beverage; or</section><section prefix="3.">candy or confectionery.</section></section>
       </section>
       <section prefix="(4)">"Food for immediate consumption" means:<section prefix="(i)">food obtained from a salad, soup, or dessert bar;</section><section prefix="(ii)">party platters;</section><section prefix="(iii)">heated food;</section><section prefix="(iv)">sandwiches suitable for immediate consumption; or</section><section prefix="(v)">ice cream, frozen yogurt, and other frozen desserts, sold in containers of less than 1 pint.</section></section>
       <section prefix="(5)">"Premises" includes any building, grounds, parking lot, or other area that:<section prefix="(i)">a food vendor owns or controls; or</section><section prefix="(ii)">another person makes available primarily for the use of the patrons of 1 or more food vendors.</section></section>

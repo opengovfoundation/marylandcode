@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-305" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-13-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Subject to the provisions of this section, the Board may make a reciprocal agreement with any other state to waive any examination or fee requirement of this title for an applicant who is licensed to practice well drilling in that state.</section>
     <section prefix="(b)">An agreement made under this section may allow the Board to grant a waiver only if the applicant provides adequate evidence that the applicant:<section prefix="(1)">Meets the qualifications or requirements established by the Board under this title; and</section><section prefix="(2)">Became licensed in the other state after passing in that or any other state an examination that is similar to any required examination for which the applicant is seeking the waiver.</section></section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-513" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-19-513</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>513</order_by>
   <text>
     <section prefix="(a)">This section does not prohibit a nonprofit health service plan or an authorized insurer, with the approval of the Commissioner, from providing medical, hospital, and disability benefits in connection with motor vehicle accidents.</section>
     <section prefix="(b)">Notwithstanding any other provision of this subtitle, a person may not recover benefits under the coverages described in &#xA7;&#xA7; 19-504, 19-505, 19-509, and 19-512 of this subtitle from more than one motor vehicle liability insurance policy or insurer on a duplicative or supplemental basis.</section>

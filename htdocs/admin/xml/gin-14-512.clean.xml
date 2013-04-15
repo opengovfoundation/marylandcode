@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-512" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-512</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>512</order_by>
   <text>
     <section prefix="(a)">The Program shall:<section prefix="(1)">provide a prescription drug benefit subsidy, as determined by the Board, that may pay all or some of the deductibles, coinsurance payments, premiums, and copayments under the federal Medicare Part D Pharmaceutical Assistance Program for enrollees of the Program; and</section><section prefix="(2)">provide the subsidy to the maximum number of individuals eligible for enrollment in the Program, subject to the moneys available in the segregated account under &#xA7; 14-504 of this subtitle.</section></section>
     <section prefix="(b)">The Program may limit payment of any subsidy by paying the subsidy only on behalf of eligible individuals enrolled in a Medicare Part D Prescription Drug Plan or Medicare Advantage Plan that coordinates with the Program in accordance with federal requirements.</section>

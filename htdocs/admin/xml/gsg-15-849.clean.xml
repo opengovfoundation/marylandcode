@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-849" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-849</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>849</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">When an application is filed, the applicant shall file an affidavit, under oath, stating whether the applicant:<section prefix="(i)">has made any contribution or contributions having a cumulative value of $500 or more to the treasurer of a candidate or the treasurer of a political committee during the 48-month period before the application is filed, to the best of the applicant's information, knowledge, and belief; or</section><section prefix="(ii)">is currently engaging in business with an elected official.</section></section>

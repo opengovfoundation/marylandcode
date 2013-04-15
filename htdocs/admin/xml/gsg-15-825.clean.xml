@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsg" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-825" order_by="" level="2"/>
+    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-825</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>825</order_by>
   <text>
     <section prefix="(a)">Each bicounty commission shall adopt regulations relating to financial disclosure by its employees.</section>
     <section prefix="(b)">The regulations required by this section:<section prefix="(1)">shall be substantially similar to the State financial disclosure provisions of Subtitle 6 of this title; and</section><section prefix="(2)">may not conflict with the financial disclosure provisions for commissioners and applicants specified in &#xA7;&#xA7; 15-820 through 15-824 of this subtitle.</section></section>

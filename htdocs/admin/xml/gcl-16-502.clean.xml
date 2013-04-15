@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-502" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-16-502</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>502</order_by>
   <text>
     <section prefix="(a)">A hotel keeper has a lien on the baggage or other property in the hotel which belong to or are under the control of a guest for any charge due or to become due to the hotel keeper for:<section prefix="(1)">The price or value of food or accommodation;</section><section prefix="(2)">The amount of any loan or advance; or</section><section prefix="(3)">The amount provided by cashing a check, draft, or otherwise.</section></section>
     <section prefix="(b)">The hotel keeper may retain possession of the property to which the lien attaches until all charges due or to become due to him are paid.</section>

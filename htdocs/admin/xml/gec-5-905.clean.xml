@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-905" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-905</section_number>
-  <catch_line/>
+  <catch_line>The Program shall:...</catch_line>
+  <order_by>905</order_by>
   <text>The Program shall:<section prefix=""><section prefix="(1)">seek money from federal programs to administer the Program;</section><section prefix="(2)">engage in public-private partnerships and provide financial assistance to foster the development, construction, and operation of dredged material reuse facilities in the State in an economically beneficial manner;</section><section prefix="(3)">provide financial assistance to develop end-use markets for dredged material; and</section><section prefix="(4)">promote the reuse of dredged material and market resulting products.</section></section></text>
 </law>

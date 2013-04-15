@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-501" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-8-501</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>501</order_by>
   <text>
     <section prefix="(a)">In accordance with &#xA7; 10-226 of the State Government Article and after notice and hearing, the Department may suspend, modify, or revoke any general or specific license issued under &#xA7; 8-301 of this title or any license issued under &#xA7; 8-304 of this title for violation of this title or any regulation adopted under this title.</section>
     <section prefix="(b)">The Department may revoke any license issued under this title if the Department finds that:<section prefix="(1)">False or inaccurate information was willfully, deliberately, or knowingly contained in the application;</section><section prefix="(2)">Conditions or requirements of the license have been violated;</section><section prefix="(3)">Substantial deviation from plans, specifications, or requirements has occurred;</section><section prefix="(4)">The Department has been refused lawful entry to the premises for the purpose of inspecting to insure compliance with the conditions of the license; or</section><section prefix="(5)">A change in conditions exists that requires temporary or permanent reduction or elimination of the source or discharge of radiation.</section></section>

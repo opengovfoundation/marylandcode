@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-833" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-833</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>833</order_by>
   <text>
     <section prefix="(a)">A policy will be considered to provide benefits on an expense-incurred basis if benefits payable under the policy are based on both medical expenses incurred and flat fees regardless of actual expenses incurred.</section>
     <section prefix="(b)">This section applies to health benefit plans issued under Subtitle 12 of this title.</section>

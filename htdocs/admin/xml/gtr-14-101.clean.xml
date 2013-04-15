@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="14-101" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-14-101</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>101</order_by>
   <text>
     <section prefix="(a)">This title does not apply to the following:<section prefix="(1)">A vehicle moved only by human or animal power; or</section><section prefix="(2)">A self-propelled invalid:<section prefix="(i)">Wheelchair; or</section><section prefix="(ii)">Tricycle.</section></section></section>
     <section prefix="(b)">This title does not apply to the following unless a certificate of title has been issued for them under Title 13 of this article:<section prefix="(1)">Any farm equipment; or</section><section prefix="(2)">Any special mobile equipment.</section></section>

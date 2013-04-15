@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-922" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-922</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>922</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section, "compensation" means any pecuniary or nonpecuniary remuneration related to the sale or renewal of a Medicare supplement policy or certificate.</section>

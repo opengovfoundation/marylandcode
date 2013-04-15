@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-507" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-8-507</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>507</order_by>
   <text>
     <section prefix="(a)">In a proceeding before a hearing examiner, a claimant may be represented by a lawyer or another agent authorized by the claimant.</section>
     <section prefix="(b)">A lawyer may charge and accept compensation in an amount not greater than that approved by the chief hearing examiner.</section>

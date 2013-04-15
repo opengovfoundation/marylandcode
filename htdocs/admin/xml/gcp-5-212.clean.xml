@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcp" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-212" order_by="" level="2"/>
+    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-5-212</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>212</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a citation:<section prefix="(1)">for a violation of a parking ordinance or regulation adopted under Title 26, Subtitle 3 of the Transportation Article;</section><section prefix="(2)">adopted by the Chief Judge of the District Court under &#xA7; 1-605(d) of the Courts Article, for use in traffic offenses; or</section><section prefix="(3)">issued by a Natural Resources police officer under &#xA7; 1-205 of the Natural Resources Article.</section></section>
     <section prefix="(b)">A bench warrant may be issued for the arrest of a defendant who fails to appear in court in response to a citation.</section>

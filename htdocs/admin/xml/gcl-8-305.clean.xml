@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="8-305" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">If an instruction has been originated by an appropriate person but is incomplete in any other respect, any person may complete it as authorized and the issuer may rely on it as completed, even though it has been completed incorrectly.</section>
     <section prefix="(b)">Unless otherwise agreed, a person initiating an instruction assumes only the obligations imposed by &#xA7; 8-108 of this title and not an obligation that the security will be honored by the issuer.</section>

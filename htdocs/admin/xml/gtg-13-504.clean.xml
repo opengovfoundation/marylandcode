@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-504" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-504</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>504</order_by>
   <text>
     <section prefix="(a)">In this section, "state tax":<section prefix="(1)">means a tax that is lawfully imposed by another state and is similar to a tax imposed under this article; and</section><section prefix="(2)">includes interest and penalties on the tax.</section></section>
     <section prefix="(b)">A court of this State shall recognize and enforce the liability for a state tax if the state that imposes the tax similarly recognizes and enforces the liability for a tax that this State lawfully imposes.</section>

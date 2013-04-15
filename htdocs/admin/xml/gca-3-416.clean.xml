@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gca" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-416" order_by="" level="2"/>
+    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-3-416</section_number>
-  <catch_line/>
+  <catch_line>The court may appoint any person as receiver, including an officer, director, or stockholder of the ...</catch_line>
+  <order_by>416</order_by>
   <text>The court may appoint any person as receiver, including an officer, director, or stockholder of the corporation.</text>
 </law>

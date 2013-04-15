@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="16-312" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-16-312</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>312</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">In this section the following words have the meanings indicated.</section>
       <section prefix="(2)">"Bonus points" means established bonus or percentage points used during the bid evaluation process to adjust the bid price submitted by minority business enterprises for the purpose of ascertaining the lowest bidder.</section>
       <section prefix="(3)">"Mandatory set-asides" means a procedure designating a certain percentage of total contract dollars for award to minority business enterprises.</section>
       <section prefix="(4)">"Mandatory subcontracting" means a procedure mandating that a certain percentage of the dollar amount of designated contracts be subcontracted to minority business enterprises.</section>
-      <section prefix="(5)">"Minority business enterprise" means any business enterprise:<section prefix="(i)"/><section prefix="(ii)">Whose management and daily business operations are controlled by 1 or more minority individuals.</section></section>
+      <section prefix="(5)">"Minority business enterprise" means any business enterprise:<section prefix="(i)"><section prefix="1.">That is at least 51 percent owned by 1 or more minority individuals; or</section><section prefix="2.">In the case of any publicly owned corporation, at least 51 percent of the stock of which is owned by 1 or more minority individuals; and</section></section><section prefix="(ii)">Whose management and daily business operations are controlled by 1 or more minority individuals.</section></section>
       <section prefix="(6)">"Percentage points" means established percentage points given for minority business enterprise participation in a sealed proposal process.</section>
       <section prefix="(7)">"Restrictive bidding" means competitive bidding of designated contracts that are restricted to minority business enterprises.</section>
       <section prefix="(8)">"Restrictive price quotations" means negotiated small procurements that are restricted to minority business enterprises.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gec" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-206" order_by="" level="2"/>
+    <unit label="article" identifier="gec" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>gec-5-206</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>206</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this subtitle, the Department may set the terms and conditions for loans and grants made under this subtitle.</section>
     <section prefix="(b)">The Department shall:<section prefix="(1)">determine whether to approve loan requests from qualified applicants for loans under this subtitle;</section><section prefix="(2)">set the terms and conditions for loans made under this subtitle; and</section><section prefix="(3)">determine that the applicant was unable to obtain the financing necessary for the activities on affordable terms through the normal lending channels.</section></section>

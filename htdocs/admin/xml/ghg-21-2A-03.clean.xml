@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghg" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-2A-03" order_by="" level="2"/>
+    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-21-2A-03</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>03</order_by>
   <text>
     <section prefix="(a)">The Department shall implement the Program, subject to the availability of funds.</section>
     <section prefix="(b)">The Secretary may:<section prefix="(1)">Assign responsibility for the operation of the Program to any unit in the Department; and</section><section prefix="(2)">Contract with any qualified person for the efficient and economical operation of the Program.</section></section>

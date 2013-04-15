@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="9-306" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-9-306</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>306</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">Except as to surety bonds, the Corporation shall be obligated to the extent of the covered claims existing on or before the determination of insolvency or arising:<section prefix="(i)">within 30 days after the determination of insolvency;</section><section prefix="(ii)">before the policy expiration date, if that date is less than 30 days after the determination of insolvency; or</section><section prefix="(iii)">before the insured replaces the policy or causes its cancellation, if the insured does so within 30 days after the determination of insolvency.</section></section>
@@ -22,7 +22,7 @@
     </section>
     <section prefix="(c)">The Corporation shall be deemed the insurer to the extent of the Corporation's obligation on the covered claims and, to that extent, shall have the rights, duties, and obligations that the insolvent insurer would have had if the insurer had not become insolvent.</section>
     <section prefix="(d)">
-      <section prefix="(1)">The Corporation shall:<section prefix="(i)">allocate claims paid and expenses incurred among the four accounts separately; and</section><section prefix="(ii)">assess member insurers separately for each account in amounts necessary to pay:</section></section>
+      <section prefix="(1)">The Corporation shall:<section prefix="(i)">allocate claims paid and expenses incurred among the four accounts separately; and</section><section prefix="(ii)">assess member insurers separately for each account in amounts necessary to pay:<section prefix="1.">the obligation of the Corporation under subsection (a) or (b) of this section after an insolvency;</section><section prefix="2.">the expense of handling covered claims after an insolvency; and</section><section prefix="3.">other expenses authorized by this subtitle.</section></section></section>
       <section prefix="(2)">The Corporation shall assess each member insurer in the proportion that the net direct written premiums of the member insurer for the preceding calendar year on the kinds of insurance covered by the account bears to the net direct written premiums of all member insurers for the preceding calendar year on the kinds of insurance covered by the account.</section>
       <section prefix="(3)">The Corporation shall give each member insurer at least 30 days' notice of an assessment before it is due.</section>
       <section prefix="(4)">The Corporation may not assess a member insurer in any year on an account in an amount greater than 2% of that member insurer's net direct written premiums for the preceding calendar year on the kinds of insurance covered by the account.</section>

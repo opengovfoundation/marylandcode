@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="glu" order_by="" level="1"/>
-    <unit label="chapter" identifier="1-418" order_by="" level="2"/>
+    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
   </structure>
   <section_number>glu-1-418</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>418</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, on or before October 1, 2009, a charter county shall include in its comprehensive plan any plan element that is required under Part II of this subtitle.</section>
     <section prefix="(b)">On request of a charter county and for good cause, the Department of Planning may extend the deadline under subsection (a) of this section for that charter county by no more than two 6-month extensions.</section>

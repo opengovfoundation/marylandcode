@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcs" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-305" order_by="" level="2"/>
+    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-305</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>305</order_by>
   <text>
     <section prefix="(a)">Subject to regulations adopted by the Commissioner, the Commissioner may delegate to the facility administrator of a prerelease unit for women the authority to grant inmates the privilege of leaving the confines of the unit for the purpose of:<section prefix="(1)">engaging in or seeking employment;</section><section prefix="(2)">participating in educational programs or vocational training;</section><section prefix="(3)">participating in community or civic activities;</section><section prefix="(4)">participating in volunteer work;</section><section prefix="(5)">participating in athletic competition; or</section><section prefix="(6)">making personal or family visits.</section></section>
     <section prefix="(b)">When outside the confines of a prerelease unit for women, an inmate shall carry, at all times, a copy of the form signed by the facility administrator containing the conditions governing the grant of leave.</section>

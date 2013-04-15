@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gen" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-304" order_by="" level="2"/>
+    <unit label="article" identifier="gen" order_by="" level="1">Environment</unit>
   </structure>
   <section_number>gen-4-304</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>304</order_by>
   <text>
     <section prefix="(a)">Any owner or operator of a sewage disposal plant which does not meet the prescribed water quality standards, within 180 days' notice of failure to meet these standards, shall submit an improved sewage disposal plan to the Department of the Environment for approval. The Department of the Environment, within ten days, shall refer copies of the plan to the appropriate county governing unit of the county in which the plant is located, the Department of Natural Resources and, in Montgomery and Prince George's counties, to the Washington Suburban Sanitary Commission and the Maryland-National Capital Park and Planning Commission, for review and recommendation. They have 30 days to respond to the Department of the Environment.</section>
     <section prefix="(b)">The sewage plan shall indicate necessary improvements required to insure that purity of the effluent meets required standards, and shall include a time schedule to construct necessary improvements within three years.</section>

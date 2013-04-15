@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="18-1901" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-18-1901</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1901</order_by>
   <text>
     <section prefix="(a)">In this subtitle the following words have the meanings indicated.</section>
     <section prefix="(b)">"Account holder" means an individual who:<section prefix="(1)">Makes or undertakes the obligation to make advance payments of qualified higher education expenses as provided under a prepaid contract; and</section><section prefix="(2)">Except as provided in &#xA7; 18-1909(b) of this subtitle, is a resident of Maryland or of the District of Columbia at the time that the account holder enters into a prepaid contract.</section></section>

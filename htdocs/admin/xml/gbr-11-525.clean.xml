@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-525" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-11-525</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>525</order_by>
   <text>
     <section prefix="(a)">On all races the State Fair Society holds each year, the State Fair Society may keep:<section prefix="(1)">10.25% of each regular mutuel pool;</section><section prefix="(2)">10.25% of each multiple mutuel pool on 2 horses;</section><section prefix="(3)">10.25% of the money bet in the first race of the day with a multiple mutuel pool on 3 or more horses;</section><section prefix="(4)">14% of the money bet in every other race with a multiple mutuel pool on 3 or more horses; and</section><section prefix="(5)">50% of the breakage.</section></section>
     <section prefix="(b)">

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gsp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-601" order_by="" level="2"/>
+    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-2-601</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>601</order_by>
   <text>
     <section prefix="(a)">Except as provided for in subsection (c)(2) of this section, a former nontemporary State employee who returns to State employment in a position in the State Personnel Management System within 3 years from separation is reinstated.</section>
     <section prefix="(b)">A reinstated State employee shall have unused accumulated sick leave restored.</section>

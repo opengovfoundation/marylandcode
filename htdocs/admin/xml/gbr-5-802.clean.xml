@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gbr" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-802" order_by="" level="2"/>
+    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-5-802</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>802</order_by>
   <text>
     <section prefix="(a)">Within 1,000 yards of Druid Hill Park:<section prefix="(1)">a cemetery corporation may not allow burial or establish or maintain a cemetery; and</section><section prefix="(2)">a person may not participate in any way in a burial in a cemetery of a cemetery corporation.</section></section>
     <section prefix="(b)">A person may not cause a funeral procession to or from a cemetery of a cemetery corporation to pass through Druid Hill Park without the written permission of the Department of Recreation and Parks.</section>

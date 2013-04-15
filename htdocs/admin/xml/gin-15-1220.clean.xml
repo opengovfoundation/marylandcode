@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="15-1220" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-15-1220</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>1220</order_by>
   <text>
     <section prefix="(a)">The Pool shall manage and invest all moneys collected by or on behalf of the Pool through premium charges, assessments, earnings from investments, or otherwise, through a financial management committee composed of the Executive Director and two members of the Board.</section>
     <section prefix="(b)">All operating expenses of the Pool shall be paid from funds collected by or on behalf of the Pool.</section>

@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gin" order_by="" level="1"/>
-    <unit label="chapter" identifier="27-905" order_by="" level="2"/>
+    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
   </structure>
   <section_number>gin-27-905</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>905</order_by>
   <text>
     <section prefix="(a)">An insurer may not send a billing statement to a policyholder under a policy or contract of motor vehicle liability insurance unless the billing statement includes a date by which any payment due under the billing statement must be received by the insurer for the insurance coverage to continue without penalty.</section>
     <section prefix="(b)">An insurer may not use false or misleading language in a billing statement to induce the policyholder to pay a premium before it is required by the insurer.</section>

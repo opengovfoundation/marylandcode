@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gfl" order_by="" level="1"/>
-    <unit label="chapter" identifier="5-555" order_by="" level="2"/>
+    <unit label="article" identifier="gfl" order_by="" level="1">Family Law</unit>
   </structure>
   <section_number>gfl-5-555</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>555</order_by>
   <text>
     <section prefix="(a)">The Department shall prepare and, as needed, update an informational pamphlet for parents of children in family child care.</section>
     <section prefix="(b)">The pamphlet shall contain:<section prefix="(1)">an outline of family child care regulations;</section><section prefix="(2)">a description of parental rights and responsibilities;</section><section prefix="(3)">a description of complaint procedures; and</section><section prefix="(4)">the address and telephone number of the local department.</section></section>

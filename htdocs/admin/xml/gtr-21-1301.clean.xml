@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-1301" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-1301</section_number>
-  <catch_line/>
+  <catch_line>Every person operating a motorcycle has all the rights granted to and is subject to all the duties r...</catch_line>
+  <order_by>1301</order_by>
   <text>Every person operating a motorcycle has all the rights granted to and is subject to all the duties required of the driver of any other vehicle under this title, except:<section prefix=""><section prefix="(1)">As otherwise provided in this title; and</section><section prefix="(2)">For those provisions of this title that by their very nature cannot apply.</section></section></text>
 </law>

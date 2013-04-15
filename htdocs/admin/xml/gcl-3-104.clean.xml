@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gcl" order_by="" level="1"/>
-    <unit label="chapter" identifier="3-104" order_by="" level="2"/>
+    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-104</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>104</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsections (c) and (d), "negotiable instrument" means an unconditional promise or order to pay a fixed amount of money, with or without interest or other charges described in the promise or order, if it:<section prefix="(1)">Is payable to bearer or to order at the time it is issued or first comes into possession of a holder;</section><section prefix="(2)">Is payable on demand or at a definite time; and</section><section prefix="(3)">Does not state any other undertaking or instruction by the person promising or ordering payment to do any act in addition to the payment of money, but the promise or order may contain (i) an undertaking or power to give, maintain, or protect collateral to secure payment, (ii) an authorization or power to the holder to confess judgment or realize on or dispose of collateral, or (iii) a waiver of the benefit of any law intended for the advantage or protection of an obligor.</section></section>
     <section prefix="(b)">"Instrument" means a negotiable instrument.</section>

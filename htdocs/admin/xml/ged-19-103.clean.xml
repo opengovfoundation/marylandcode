@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ged" order_by="" level="1"/>
-    <unit label="chapter" identifier="19-103" order_by="" level="2"/>
+    <unit label="article" identifier="ged" order_by="" level="1">Economic Development</unit>
   </structure>
   <section_number>ged-19-103</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>103</order_by>
   <text>
     <section prefix="(a)">
       <section prefix="(1)">A system may provide, by resolution, from time to time, for the issuance, in series, of its bonds for the purpose of:<section prefix="(i)">Financing or refinancing all or any part of the costs of any 1 or more projects of a system, including any project previously financed by a system or any predecessor; or</section><section prefix="(ii)">Acquiring any auxiliary facility or academic facility previously financed through a capital lease with a system or any predecessor.</section></section>

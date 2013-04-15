@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtg" order_by="" level="1"/>
-    <unit label="chapter" identifier="10-203" order_by="" level="2"/>
+    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-203</section_number>
-  <catch_line/>
+  <catch_line>Except as provided in Subtitle 4 of this title, the Maryland adjusted gross income of an individual ...</catch_line>
+  <order_by>203</order_by>
   <text>Except as provided in Subtitle 4 of this title, the Maryland adjusted gross income of an individual is the individual's federal adjusted gross income for the taxable year as adjusted under this Part II of this subtitle.</text>
 </law>

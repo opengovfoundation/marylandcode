@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="ghs" order_by="" level="1"/>
-    <unit label="chapter" identifier="4-234" order_by="" level="2"/>
+    <unit label="article" identifier="ghs" order_by="" level="1">Housing and Community Development</unit>
   </structure>
   <section_number>ghs-4-234</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>234</order_by>
   <text>
     <section prefix="(a)">In this section, "government-sponsored enterprise" means the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Bank, or other agency or instrumentality of or chartered by the federal government that has similar powers.</section>
     <section prefix="(b)">To finance community development projects, public purpose projects, or residential mortgage loans, the Administration may purchase or issue securities that are backed by mortgage loans and guaranteed by the Government National Mortgage Association or a government-sponsored enterprise.</section>

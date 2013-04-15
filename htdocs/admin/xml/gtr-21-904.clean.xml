@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="21-904" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-21-904</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>904</order_by>
   <text>
     <section prefix="(a)">In this section, "visual or audible signal" includes a signal by hand, voice, emergency light or siren.</section>
     <section prefix="(b)">If a police officer gives a visual or audible signal to stop and the police officer is in uniform, prominently displaying the police officer's badge or other insignia of office, a driver of a vehicle may not attempt to elude the police officer by:<section prefix="(1)">Willfully failing to stop the driver's vehicle;</section><section prefix="(2)">Fleeing on foot; or</section><section prefix="(3)">Any other means.</section></section>

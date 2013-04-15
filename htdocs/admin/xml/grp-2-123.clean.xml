@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="grp" order_by="" level="1"/>
-    <unit label="chapter" identifier="2-123" order_by="" level="2"/>
+    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
   </structure>
   <section_number>grp-2-123</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>123</order_by>
   <text>
     <section prefix="(a)">In this section, "instrument" means a deed, grant, or other written instrument other than a will as defined in &#xA7; 4-414 of the Estates and Trusts Article.</section>
     <section prefix="(b)">This section does not limit the right of an individual to provide for distribution of property by will.</section>

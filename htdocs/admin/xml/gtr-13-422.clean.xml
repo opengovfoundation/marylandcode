@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gtr" order_by="" level="1"/>
-    <unit label="chapter" identifier="13-422" order_by="" level="2"/>
+    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-13-422</section_number>
-  <catch_line/>
+  <catch_line>...</catch_line>
+  <order_by>422</order_by>
   <text>
     <section prefix="(a)">A motor vehicle used in vanpool operations shall be registered under this section.</section>
     <section prefix="(b)">Before the Administration initially registers any used vehicle as a vanpool vehicle or renews the registration of any vanpool vehicle, the applicant shall present to the Administration an inspection certificate for the vehicle issued under Title 23 of this article with a date of issuance not more than 90 days prior to the date of application for or renewal of registration.</section>

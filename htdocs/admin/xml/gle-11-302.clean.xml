@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="title" identifier="gle" order_by="" level="1"/>
-    <unit label="chapter" identifier="11-302" order_by="" level="2"/>
+    <unit label="article" identifier="gle" order_by="" level="1">Labor and Employment</unit>
   </structure>
   <section_number>gle-11-302</section_number>
-  <catch_line/>
+  <catch_line>This subtitle does not apply to reductions in operations if the reduction:...</catch_line>
+  <order_by>302</order_by>
   <text>This subtitle does not apply to reductions in operations if the reduction:<section prefix=""><section prefix="(1)">results solely from labor disputes;</section><section prefix="(2)">occurs in a commercial, industrial, or agricultural enterprise operated by this State or its political subdivisions;</section><section prefix="(3)">occurs at construction sites or other temporary workplaces;</section><section prefix="(4)">results from seasonal factors that are determined by the Department to be customary in the industry; or</section><section prefix="(5)">results when an employer files for bankruptcy under federal bankruptcy laws.</section></section></text>
 </law>
