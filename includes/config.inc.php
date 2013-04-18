@@ -77,7 +77,7 @@ define('INCLUDES_REPEALED', TRUE);
 /*
  * The DSN to connect to MySQL.
  */
-define('MYSQL_DSN', 'mysql://root:birk1954@localhost/statedecoded');
+define('MYSQL_DSN', 'mysql://user:password@localhost/statedecoded');
 
 /*
  * Specify the structural identifier ancestry for the unit of the code that contains definitions of
