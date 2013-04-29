@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
+    <unit label="article" identifier="gpu" order_by="gpu" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-206</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section applies to telephone directories distributed by, or on behalf of, a telephone company o...</catch_line>
   <order_by>206</order_by>
   <text>
     <section prefix="(a)">This section applies to telephone directories distributed by, or on behalf of, a telephone company other than advertisement-based business directories.</section>

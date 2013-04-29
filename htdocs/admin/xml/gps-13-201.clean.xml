@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-201</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This title applies to all uniformed volunteer companies....</catch_line>
   <order_by>201</order_by>
   <text>
     <section prefix="(a)">This title applies to all uniformed volunteer companies.</section>

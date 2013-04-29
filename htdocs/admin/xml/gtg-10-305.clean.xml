@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-305</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>To the extent excluded from federal taxable income, the amounts under this section are added to the ...</catch_line>
   <order_by>305</order_by>
   <text>
     <section prefix="(a)">To the extent excluded from federal taxable income, the amounts under this section are added to the federal taxable income of a corporation to determine Maryland modified income.</section>

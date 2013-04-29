@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-520</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Management Council shall determine the times and places of its meetings....</catch_line>
   <order_by>520</order_by>
   <text>
     <section prefix="(a)">The Management Council shall determine the times and places of its meetings.</section>

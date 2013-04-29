@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-104</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Real property shall be valued separately for:...</catch_line>
   <order_by>104</order_by>
   <text>
     <section prefix="(a)">Real property shall be valued separately for:<section prefix="(1)">the land; and</section><section prefix="(2)">the improvements on the land.</section></section>

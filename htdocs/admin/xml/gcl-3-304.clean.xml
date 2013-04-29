@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-304</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An instrument payable on demand becomes overdue at the earliest of the following times:...</catch_line>
   <order_by>304</order_by>
   <text>
     <section prefix="(a)">An instrument payable on demand becomes overdue at the earliest of the following times:<section prefix="(1)">On the day after the day demand for payment is duly made;</section><section prefix="(2)">If the instrument is a check, 90 days after its date; or</section><section prefix="(3)">If the instrument is not a check, when the instrument has been outstanding for a period of time after its date which is unreasonably long under the circumstances of the particular case in light of the nature of the instrument and usage of the trade.</section></section>

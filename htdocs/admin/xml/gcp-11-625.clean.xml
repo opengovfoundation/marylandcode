@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
+    <unit label="article" identifier="gcp" order_by="gcp" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-11-625</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Attorney General shall pay the defendant from the escrow account the money that a court of compe...</catch_line>
   <order_by>625</order_by>
   <text>
     <section prefix="(a)">The Attorney General shall pay the defendant from the escrow account the money that a court of competent jurisdiction in an order finds will be used to hire legal counsel at any stage of the criminal case, including an appeal.</section>

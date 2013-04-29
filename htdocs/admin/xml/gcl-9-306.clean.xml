@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-306</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Subject to subsection (c), the local law of the issuer's jurisdiction or a nominated person's jurisd...</catch_line>
   <order_by>306</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (c), the local law of the issuer's jurisdiction or a nominated person's jurisdiction governs perfection, the effect of perfection or nonperfection, and the priority of a security interest in a letter-of-credit right if the issuer's jurisdiction or nominated person's jurisdiction is a state.</section>

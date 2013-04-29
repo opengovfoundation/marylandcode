@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-8-709</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A county shall report to the administering unit at the times and in the manner that the administerin...</catch_line>
   <order_by>709</order_by>
   <text>
     <section prefix="(a)">A county shall report to the administering unit at the times and in the manner that the administering unit determines.</section>

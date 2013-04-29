@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-209</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A person who encodes information on or with respect to an item after issue warrants to any subsequen...</catch_line>
   <order_by>209</order_by>
   <text>
     <section prefix="(a)">A person who encodes information on or with respect to an item after issue warrants to any subsequent collecting bank and to the payor bank or other payor that the information is correctly encoded. If the customer of a depositary bank encodes, that bank also makes the warranty.</section>

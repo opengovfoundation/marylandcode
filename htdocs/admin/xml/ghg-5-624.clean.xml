@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-624</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Registry shall consist of a secure, electronic database to which authorized access is available ...</catch_line>
   <order_by>624</order_by>
   <text>
     <section prefix="(a)">The Registry shall consist of a secure, electronic database to which authorized access is available 24 hours per day, 7 days per week.</section>

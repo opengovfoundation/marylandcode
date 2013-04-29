@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-14-3A-02</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If the Governor determines that a catastrophic health emergency exists, the Governor may issue a pro...</catch_line>
   <order_by>02</order_by>
   <text>
     <section prefix="(a)">If the Governor determines that a catastrophic health emergency exists, the Governor may issue a proclamation under this subtitle.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-502</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In a license:...</catch_line>
   <order_by>502</order_by>
   <text>
     <section prefix="(a)">In a license:<section prefix="(1)">Title to a copy is determined by the license;</section><section prefix="(2)">A licensee's right under the license to possession or control of a copy is governed by the license and does not depend solely on title to the copy; and</section><section prefix="(3)">If a licensor reserves title to a copy, the licensor retains title to that copy and any copies made of it, unless the license grants the licensee a right to make and sell copies to others, in which case the reservation of title applies only to copies delivered to the licensee by the licensor.</section></section>

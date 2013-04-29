@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-356</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A hospital or related institution may not grant a discount to or receive a discount from any medical...</catch_line>
   <order_by>356</order_by>
   <text>
     <section prefix="(a)">A hospital or related institution may not grant a discount to or receive a discount from any medical referral service or in any manner split fees with a medical referral service.</section>

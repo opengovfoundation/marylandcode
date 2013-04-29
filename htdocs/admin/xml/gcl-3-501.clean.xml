@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-501</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>"Presentment" means a demand made by or on behalf of a person entitled to enforce an instrument (i) ...</catch_line>
   <order_by>501</order_by>
   <text>
     <section prefix="(a)">"Presentment" means a demand made by or on behalf of a person entitled to enforce an instrument (i) to pay the instrument made to the drawee or a party obliged to pay the instrument or, in the case of a note or accepted draft payable at a bank, to the bank, or (ii) to accept a draft made to the drawee.</section>

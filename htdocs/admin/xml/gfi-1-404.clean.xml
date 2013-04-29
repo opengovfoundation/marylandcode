@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gfi" order_by="" level="1">Financial Institutions</unit>
+    <unit label="article" identifier="gfi" order_by="gfi" level="1">Financial Institutions</unit>
   </structure>
   <section_number>gfi-1-404</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>At or before the time a transaction is initiated, the operator of an automated teller machine shall ...</catch_line>
   <order_by>404</order_by>
   <text>
     <section prefix="(a)">At or before the time a transaction is initiated, the operator of an automated teller machine shall provide the person using the automated teller machine with notice of the fee to be charged by the operator for use of the automated teller machine by persons using access devices not issued by the operator.</section>

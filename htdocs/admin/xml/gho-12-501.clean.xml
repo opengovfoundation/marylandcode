@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
+    <unit label="article" identifier="gho" order_by="gho" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-12-501</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A pharmacist may refuse to dispense or refill a prescription if the decision is based on professiona...</catch_line>
   <order_by>501</order_by>
   <text>
     <section prefix="(a)">A pharmacist may refuse to dispense or refill a prescription if the decision is based on professional judgment, experience, knowledge, or available reference materials.</section>

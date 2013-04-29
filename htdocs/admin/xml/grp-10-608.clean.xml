@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
+    <unit label="article" identifier="grp" order_by="grp" level="1">Real Property</unit>
   </structure>
   <section_number>grp-10-608</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Any warranties provided in accordance with the requirements of this subtitle are in addition to all ...</catch_line>
   <order_by>608</order_by>
   <text>
     <section prefix="(a)">Any warranties provided in accordance with the requirements of this subtitle are in addition to all other implied or express warranties provided by law or agreement.</section>

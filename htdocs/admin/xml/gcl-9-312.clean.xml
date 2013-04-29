@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-312</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A security interest in chattel paper, negotiable documents, instruments, or investment property may ...</catch_line>
   <order_by>312</order_by>
   <text>
     <section prefix="(a)">A security interest in chattel paper, negotiable documents, instruments, or investment property may be perfected by filing.</section>

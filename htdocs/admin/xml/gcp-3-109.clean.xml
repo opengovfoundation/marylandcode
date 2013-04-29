@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
+    <unit label="article" identifier="gcp" order_by="gcp" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-109</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A defendant is not criminally responsible for criminal conduct if, at the time of that conduct, the ...</catch_line>
   <order_by>109</order_by>
   <text>
     <section prefix="(a)">A defendant is not criminally responsible for criminal conduct if, at the time of that conduct, the defendant, because of a mental disorder or mental retardation, lacks substantial capacity to:<section prefix="(1)">appreciate the criminality of that conduct; or</section><section prefix="(2)">conform that conduct to the requirements of law.</section></section>

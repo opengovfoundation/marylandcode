@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
+    <unit label="article" identifier="gpu" order_by="gpu" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-8-407</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If the Commission determines that a hold order or freeze is necessary, the Commission may require a ...</catch_line>
   <order_by>407</order_by>
   <text>
     <section prefix="(a)">If the Commission determines that a hold order or freeze is necessary, the Commission may require a telephone company or reseller that operates the network facilities that control routing, selection, or billing functions necessary to implement the hold order or freeze to offer the hold order or freeze to the telephone company's end-use customers or to the reseller's end-use customers as a method of reducing incidents of unauthorized changes in a customer's telephone company, reseller, or telecommunications service options, or in the person who bills the customer or the customer's billing arrangement.</section>

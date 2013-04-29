@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-601</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>As used in this section, "facility" means a correctional facility of any kind for adults or juvenile...</catch_line>
   <order_by>601</order_by>
   <text>
     <section prefix="(a)">As used in this section, "facility" means a correctional facility of any kind for adults or juveniles.</section>

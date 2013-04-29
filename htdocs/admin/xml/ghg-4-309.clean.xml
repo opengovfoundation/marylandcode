@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-309</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If a health care provider knowingly refuses to disclose a medical record within a reasonable time bu...</catch_line>
   <order_by>309</order_by>
   <text>
     <section prefix="(a)">If a health care provider knowingly refuses to disclose a medical record within a reasonable time but no more than 21 working days after the date a person in interest requests the disclosure, the health care provider is liable for actual damages.</section>

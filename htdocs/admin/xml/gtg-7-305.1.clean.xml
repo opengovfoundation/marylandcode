@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-305.1</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section does not apply to an amended estate tax return....</catch_line>
   <order_by>305.1</order_by>
   <text>
     <section prefix="(a)">This section does not apply to an amended estate tax return.</section>

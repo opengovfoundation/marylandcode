@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-214</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, "vaccine" means a product intended to elicit, in humans, active or passive immunity...</catch_line>
   <order_by>214</order_by>
   <text>
     <section prefix="(a)">In this section, "vaccine" means a product intended to elicit, in humans, active or passive immunity against an infectious agent or product of an infectious agent.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
+    <unit label="article" identifier="gho" order_by="gho" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-2-314.1</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, "medical examination" means a physical examination of the ear of an individual by a...</catch_line>
   <order_by>314.1</order_by>
   <text>
     <section prefix="(a)">In this section, "medical examination" means a physical examination of the ear of an individual by an otolaryngologist, otologist, or other physician.</section>

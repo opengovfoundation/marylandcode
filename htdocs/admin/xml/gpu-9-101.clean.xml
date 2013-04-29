@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
+    <unit label="article" identifier="gpu" order_by="gpu" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-9-101</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each common carrier shall provide reasonable, proper, and equal facilities for the prompt interchang...</catch_line>
   <order_by>101</order_by>
   <text>
     <section prefix="(a)">Each common carrier shall provide reasonable, proper, and equal facilities for the prompt interchange and transfer of passengers between its lines and the lines of every other common carrier.</section>

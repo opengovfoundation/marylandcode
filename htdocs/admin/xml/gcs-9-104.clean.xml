@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-104</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section does not apply to an individual sentenced in Baltimore City....</catch_line>
   <order_by>104</order_by>
   <text>
     <section prefix="(a)">This section does not apply to an individual sentenced in Baltimore City.</section>

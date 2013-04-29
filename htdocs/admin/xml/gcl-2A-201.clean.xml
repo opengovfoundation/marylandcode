@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-201</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A lease contract is not enforceable by way of action or defense unless:...</catch_line>
   <order_by>201</order_by>
   <text>
     <section prefix="(1)">A lease contract is not enforceable by way of action or defense unless:<section prefix="(a)">The total payments to be made under the lease contract, excluding payments for options to renew or buy, are less than $1,000; or</section><section prefix="(b)">There is a writing signed by the party against whom enforcement is sought or by that party's authorized agent, sufficient to indicate that a lease contract has been made between the parties and to describe the goods leased and the lease term.</section></section>

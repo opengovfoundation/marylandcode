@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-911</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If the report filed in accordance with &#xA7; 12-910(a) of this subtitle shows that a boiler or pressure...</catch_line>
   <order_by>911</order_by>
   <text>
     <section prefix="(a)">If the report filed in accordance with &#xA7; 12-910(a) of this subtitle shows that a boiler or pressure vessel complies with regulations adopted under this subtitle, the Chief Boiler Inspector shall issue to the owner or user of the boiler or pressure vessel a certificate that bears the date of inspection, specifies the inspection interval, and specifies the maximum pressure under which the boiler or pressure vessel may be operated.</section>

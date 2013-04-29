@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-2-505</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A person is not civilly liable for:...</catch_line>
   <order_by>505</order_by>
   <text>
     <section prefix="(a)">A person is not civilly liable for:<section prefix="(1)">Making a report in good faith of fraud, waste, or abuse; or</section><section prefix="(2)">Participating in any investigation related to fraud, waste, or abuse.</section></section>

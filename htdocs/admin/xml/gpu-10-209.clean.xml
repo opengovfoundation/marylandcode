@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
+    <unit label="article" identifier="gpu" order_by="gpu" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-10-209</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A taxicab driver shall make maximum use of service communications with the driver's switchboard oper...</catch_line>
   <order_by>209</order_by>
   <text>
     <section prefix="(a)">A taxicab driver shall make maximum use of service communications with the driver's switchboard operator or dispatcher in order to keep the driver's taxicab available for response to calls.</section>

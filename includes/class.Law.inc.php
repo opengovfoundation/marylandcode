@@ -433,7 +433,7 @@ class Law
 				INNER JOIN laws_references
 					ON laws.id = laws_references.law_id
 				WHERE laws_references.target_law_id =  '.$db->escape($this->section_id).'
-				ORDER BY laws.order_by, laws.section ASC';
+				ORDER BY cast(laws.order_by as UNSIGNED), laws.section ASC';
 		
 		/*
 		 * Execute the query.

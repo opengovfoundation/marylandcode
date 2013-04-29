@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
+    <unit label="article" identifier="gin" order_by="gin" level="1">Insurance</unit>
   </structure>
   <section_number>gin-14-502</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>There is a Maryland Health Insurance Plan....</catch_line>
   <order_by>502</order_by>
   <text>
     <section prefix="(a)">There is a Maryland Health Insurance Plan.</section>

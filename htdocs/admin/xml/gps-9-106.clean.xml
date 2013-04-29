@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-9-106</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If approved by the State Fire Prevention Commission, an approved automatic fire sprinkler system may...</catch_line>
   <order_by>106</order_by>
   <text>
     <section prefix="(a)">If approved by the State Fire Prevention Commission, an approved automatic fire sprinkler system may be installed instead of a smoke detection system.</section>

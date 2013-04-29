@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-305</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If a funds transfer is completed but execution of a payment order by the receiving bank in breach of...</catch_line>
   <order_by>305</order_by>
   <text>
     <section prefix="(a)">If a funds transfer is completed but execution of a payment order by the receiving bank in breach of &#xA7; 4A-302 of this subtitle results in delay in payment to the beneficiary, the bank is obliged to pay interest to either the originator or the beneficiary of the funds transfer for the period of delay caused by the improper execution. Except as provided in subsection (c) of this section, additional damages are not recoverable.</section>

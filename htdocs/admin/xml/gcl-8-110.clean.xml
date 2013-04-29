@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-110</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The local law of the issuer's jurisdiction, as specified in subsection (d) of this section, governs:...</catch_line>
   <order_by>110</order_by>
   <text>
     <section prefix="(a)">The local law of the issuer's jurisdiction, as specified in subsection (d) of this section, governs:<section prefix="(1)">The validity of a security;</section><section prefix="(2)">The rights and duties of the issuer with respect to registration of transfer;</section><section prefix="(3)">The effectiveness of registration of transfer by the issuer;</section><section prefix="(4)">Whether the issuer owes any duties to an adverse claimant to a security; and</section><section prefix="(5)">Whether an adverse claim can be asserted against a person to whom transfer of a certificated or uncertificated security is registered or a person who obtains control of an uncertificated security.</section></section>

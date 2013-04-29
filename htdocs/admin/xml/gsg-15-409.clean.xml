@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
+    <unit label="article" identifier="gsg" order_by="gsg" level="1">State Government</unit>
   </structure>
   <section_number>gsg-15-409</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An entity that is required to file a report, statement, or record under this title shall obtain each...</catch_line>
   <order_by>409</order_by>
   <text>
     <section prefix="(a)">An entity that is required to file a report, statement, or record under this title shall obtain each account, bill, receipt, book, paper, or other document necessary to complete and substantiate the report or statement.</section>

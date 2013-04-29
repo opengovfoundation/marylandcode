@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-824</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Except as provided in subsection (b) of this section, the governing body of a county or other taxing...</catch_line>
   <order_by>824</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, the governing body of a county or other taxing agency shall buy in and hold any property in their respective counties offered for sale for nonpayment of any taxes for which there is no private purchaser.</section>

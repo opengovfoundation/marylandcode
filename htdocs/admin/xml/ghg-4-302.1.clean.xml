@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-4-302.1</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Payors that accept claims originating in this State from medical care electronic claims clearinghous...</catch_line>
   <order_by>302.1</order_by>
   <text>
     <section prefix="(a)">Payors that accept claims originating in this State from medical care electronic claims clearinghouses shall accept claims only from medical care electronic claims clearinghouses that are:<section prefix="(1)">Accredited by the Electronic Healthcare Network Accreditation Commission; or</section><section prefix="(2)">Certified by the Maryland Health Care Commission.</section></section>

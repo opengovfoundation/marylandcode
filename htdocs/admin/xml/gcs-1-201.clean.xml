@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-1-201</section_number>
   <catch_line>A requirement in this article that a document be verified means that the document shall be verified ...</catch_line>

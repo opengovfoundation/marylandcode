@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-7-207</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Unless the warehouse receipt provides otherwise, a warehouse shall keep separate the goods covered b...</catch_line>
   <order_by>207</order_by>
   <text>
     <section prefix="(a)">Unless the warehouse receipt provides otherwise, a warehouse shall keep separate the goods covered by each receipt so as to permit at all times identification and delivery of those goods. However, different lots of fungible goods may be commingled.</section>

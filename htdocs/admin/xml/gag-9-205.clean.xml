@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gag" order_by="" level="1">Agriculture</unit>
+    <unit label="article" identifier="gag" order_by="gag" level="1">Agriculture</unit>
   </structure>
   <section_number>gag-9-205</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each wholesaler whose name appears on the label or who handles agricultural, vegetable, herb, tree, ...</catch_line>
   <order_by>205</order_by>
   <text>
     <section prefix="(a)">Each wholesaler whose name appears on the label or who handles agricultural, vegetable, herb, tree, shrub, or flower seeds subject to this subtitle shall maintain for two years a complete record of each lot of agricultural, vegetable, herb, tree, shrub, or flower seed handled. He shall keep for one year a file sample of each lot of seed after final disposition of the lot.</section>

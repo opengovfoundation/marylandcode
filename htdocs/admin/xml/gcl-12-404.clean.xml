@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-404</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A lender may:...</catch_line>
   <order_by>404</order_by>
   <text>
     <section prefix="(a)">A lender may:<section prefix="(1)">Make a loan in such an amount that the net proceeds of the loan equal a predetermined sum; and</section><section prefix="(2)">Take interest in advance on the full amount of the loan for the period from the date the loan is made to the date of maturity of the final installment.</section></section>

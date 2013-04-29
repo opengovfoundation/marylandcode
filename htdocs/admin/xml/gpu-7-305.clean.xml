@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
+    <unit label="article" identifier="gpu" order_by="gpu" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-7-305</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A gas company or electric company may bill its customers for gas, electricity, or any other service ...</catch_line>
   <order_by>305</order_by>
   <text>
     <section prefix="(a)">A gas company or electric company may bill its customers for gas, electricity, or any other service it renders only on the basis of the net total cost of the service under the applicable rate that is filed for that service.</section>

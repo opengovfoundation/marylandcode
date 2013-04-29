@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
+    <unit label="article" identifier="glu" order_by="glu" level="1">Land Use</unit>
   </structure>
   <section_number>glu-22-112</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section applies to any official or body authorized to issue a license or permit....</catch_line>
   <order_by>112</order_by>
   <text>
     <section prefix="(a)">This section applies to any official or body authorized to issue a license or permit.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-511</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, "billing error" means the initial occurrence of an error in a billing statement giv...</catch_line>
   <order_by>511</order_by>
   <text>
     <section prefix="(a)">In this section, "billing error" means the initial occurrence of an error in a billing statement given to a buyer by the holder of an account, which error results from:<section prefix="(1)">An omission or commission by the holder in posting any debit or credit;</section><section prefix="(2)">The computation of any amount; or</section><section prefix="(3)">Any similar error of an accounting nature.</section></section>

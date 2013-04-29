@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-13-713</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If a person pays a tax, interest, or penalties under this article by a check that is not honored by ...</catch_line>
   <order_by>713</order_by>
   <text>
     <section prefix="(a)">If a person pays a tax, interest, or penalties under this article by a check that is not honored by the bank on which it is drawn, the tax collector shall assess a service charge of $30 against the person.</section>

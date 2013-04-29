@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-305</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If an assignee files or threatens to file an action to enforce any assignment of wages which does no...</catch_line>
   <order_by>305</order_by>
   <text>
     <section prefix="(a)">If an assignee files or threatens to file an action to enforce any assignment of wages which does not comply with any provision of this subtitle, on petition of the assignor or his employer, a court of equity may enjoin the threatened or attempted enforcement of the assignment.</section>

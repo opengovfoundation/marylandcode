@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
+    <unit label="article" identifier="gtr" order_by="gtr" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-11-148</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>"Regular schedule" means the carriage of property or passengers by at least:...</catch_line>
   <order_by>148</order_by>
   <text>
     <section prefix="(a)">"Regular schedule" means the carriage of property or passengers by at least:<section prefix="(1)">One single trip between fixed termini per week, for 4 consecutive weeks; or</section><section prefix="(2)">Three single trips between fixed termini within a period of 10 days.</section></section>

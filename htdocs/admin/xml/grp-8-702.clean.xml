@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
+    <unit label="article" identifier="grp" order_by="grp" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-702</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This subtitle applies to residential property that was or is used, intended to be used, or authorize...</catch_line>
   <order_by>702</order_by>
   <text>
     <section prefix="(a)">This subtitle applies to residential property that was or is used, intended to be used, or authorized to be used for four or fewer dwelling units.</section>

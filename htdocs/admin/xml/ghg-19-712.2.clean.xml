@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-19-712.2</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A health maintenance organization that provides pharmaceutical benefits shall notify all pharmacies ...</catch_line>
   <order_by>712.2</order_by>
   <text>
     <section prefix="(a)">A health maintenance organization that provides pharmaceutical benefits shall notify all pharmacies under contract with the health maintenance organization in writing of changes in the pharmaceutical benefit program rules or requirements at least 30 days before the change is effective.</section>

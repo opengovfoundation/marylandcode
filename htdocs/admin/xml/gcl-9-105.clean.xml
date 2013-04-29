@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-105</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A secured party has control of electronic chattel paper if a system employed for evidencing the tran...</catch_line>
   <order_by>105</order_by>
   <text>
     <section prefix="(a)">A secured party has control of electronic chattel paper if a system employed for evidencing the transfer of interests in the chattel paper reliably establishes the secured party as the person to which the chattel paper was assigned.</section>

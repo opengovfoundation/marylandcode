@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
+    <unit label="article" identifier="gcr" order_by="gcr" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-4-503</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A person may not knowingly:...</catch_line>
   <order_by>503</order_by>
   <text>
     <section prefix="(a)">A person may not knowingly:<section prefix="(1)">manufacture, transport, possess, control, store, sell, distribute, or use a destructive device; or</section><section prefix="(2)">possess explosive material, incendiary material, or toxic material with intent to create a destructive device.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gbr" order_by="" level="1">Business Regulation</unit>
+    <unit label="article" identifier="gbr" order_by="gbr" level="1">Business Regulation</unit>
   </structure>
   <section_number>gbr-10-501</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each container of automotive crankcase oil offered for sale at wholesale or retail shall be labeled ...</catch_line>
   <order_by>501</order_by>
   <text>
     <section prefix="(a)">Each container of automotive crankcase oil offered for sale at wholesale or retail shall be labeled with the appropriate API/SAE classification and SAE viscosity number, as defined by the API engine service classification system.</section>

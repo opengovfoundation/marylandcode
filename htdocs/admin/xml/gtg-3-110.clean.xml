@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-3-110</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Tax Court may appoint 1 or more deputy clerks....</catch_line>
   <order_by>110</order_by>
   <text>
     <section prefix="(a)">The Tax Court may appoint 1 or more deputy clerks.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
+    <unit label="article" identifier="gsg" order_by="gsg" level="1">State Government</unit>
   </structure>
   <section_number>gsg-12-106</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section does not apply to a claim that is asserted by cross-claim, counterclaim, or third-party...</catch_line>
   <order_by>106</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a claim that is asserted by cross-claim, counterclaim, or third-party claim.</section>

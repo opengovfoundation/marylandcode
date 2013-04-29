@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
+    <unit label="article" identifier="gho" order_by="gho" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-14-605</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section does not apply to a physician or group of physicians who:...</catch_line>
   <order_by>605</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a physician or group of physicians who:<section prefix="(1)">Have exclusive contracts with a health maintenance organization;</section><section prefix="(2)">Treat only the patients of the health maintenance organization; and</section><section prefix="(3)">Agree to accept full assignment for covered services rendered.</section></section>

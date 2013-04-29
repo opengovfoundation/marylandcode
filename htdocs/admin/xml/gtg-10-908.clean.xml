@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-10-908</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An employer shall withhold from the wages of an individual the amount indicated in the income tax wi...</catch_line>
   <order_by>908</order_by>
   <text>
     <section prefix="(a)">An employer shall withhold from the wages of an individual the amount indicated in the income tax withholding tables or income tax percentage withholding schedules that the Comptroller prepares.</section>

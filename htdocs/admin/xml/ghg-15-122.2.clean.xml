@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-15-122.2</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, "converted funds" means the amount received in payment by a person from an insurer ...</catch_line>
   <order_by>122.2</order_by>
   <text>
     <section prefix="(a)">In this section, "converted funds" means the amount received in payment by a person from an insurer for the cost of health services provided to a child which was not used to reimburse the Department for Medicaid costs incurred.</section>

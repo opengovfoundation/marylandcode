@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-901</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Whenever an individual is sentenced to death, the judge of the court where the conviction takes plac...</catch_line>
   <order_by>901</order_by>
   <text>
     <section prefix="(a)">Whenever an individual is sentenced to death, the judge of the court where the conviction takes place shall cause the individual to be taken into custody by the sheriff of the county in which the individual was indicted.</section>

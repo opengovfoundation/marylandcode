@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-204</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Personal property subject to assessment shall be assessed annually....</catch_line>
   <order_by>204</order_by>
   <text>
     <section prefix="(a)">Personal property subject to assessment shall be assessed annually.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
+    <unit label="article" identifier="gsg" order_by="gsg" level="1">State Government</unit>
   </structure>
   <section_number>gsg-6.5-307</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This title does not apply to the acquisition of a foreign nonprofit health entity operating in this ...</catch_line>
   <order_by>307</order_by>
   <text>
     <section prefix="(a)">This title does not apply to the acquisition of a foreign nonprofit health entity operating in this State if the appropriate regulating entity determines, based on the standards set forth in this title, that any public or charitable assets of the nonprofit health entity that serve health care needs in this State will be adequately protected.</section>

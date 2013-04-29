@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghu" order_by="" level="1">Human Services</unit>
+    <unit label="article" identifier="ghu" order_by="ghu" level="1">Human Services</unit>
   </structure>
   <section_number>ghu-10-456</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A provider may collect deposits from prospective subscribers if:...</catch_line>
   <order_by>456</order_by>
   <text>
     <section prefix="(a)">A provider may collect deposits from prospective subscribers if:<section prefix="(1)">the Department has approved the provider's feasibility study; and</section><section prefix="(2)">the provider maintains the funds collected in an escrow account.</section></section>

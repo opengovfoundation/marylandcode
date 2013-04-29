@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-507</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The following rules apply unless the affected parties otherwise agree or subsection (c) of this sect...</catch_line>
   <order_by>507</order_by>
   <text>
     <section prefix="(a)">The following rules apply unless the affected parties otherwise agree or subsection (c) of this section applies:<section prefix="(1)">The rights and obligations between the sender of a payment order and the receiving bank are governed by the law of the jurisdiction in which the receiving bank is located.</section><section prefix="(2)">The rights and obligations between the beneficiary's bank and the beneficiary are governed by the law of the jurisdiction in which the beneficiary's bank is located.</section><section prefix="(3)">The issue of when payment is made pursuant to a funds transfer by the originator to the beneficiary is governed by the law of the jurisdiction in which the beneficiary's bank is located.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-411</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, "obligated bank" means the acceptor of a certified check or the issuer of a cashier...</catch_line>
   <order_by>411</order_by>
   <text>
     <section prefix="(a)">In this section, "obligated bank" means the acceptor of a certified check or the issuer of a cashier's check or teller's check bought from the issuer.</section>

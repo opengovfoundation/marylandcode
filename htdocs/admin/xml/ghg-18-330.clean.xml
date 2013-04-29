@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-18-330</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>At the time of administration of pertussis vaccine to an individual, the health care provider shall ...</catch_line>
   <order_by>330</order_by>
   <text>
     <section prefix="(a)">At the time of administration of pertussis vaccine to an individual, the health care provider shall record in a permanent record to which the patient or the patient's parent or guardian shall have access on request:<section prefix="(1)">The date of each vaccination;</section><section prefix="(2)">The manufacturer and lot number of the vaccine used for each;</section><section prefix="(3)">Any other identifying information on the vaccine used; and</section><section prefix="(4)">The name and title of the health care provider.</section></section>

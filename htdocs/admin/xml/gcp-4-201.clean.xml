@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
+    <unit label="article" identifier="gcp" order_by="gcp" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-4-201</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In the District Court, a prosecution for a crime shall be brought in the district that includes the ...</catch_line>
   <order_by>201</order_by>
   <text>
     <section prefix="(a)">In the District Court, a prosecution for a crime shall be brought in the district that includes the county where the crime was committed, and the trial shall be held in that county unless the case is lawfully removed.</section>

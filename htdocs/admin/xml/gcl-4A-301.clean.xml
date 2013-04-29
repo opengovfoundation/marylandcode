@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-301</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A payment order is "executed" by the receiving bank when it issues a payment order intended to carry...</catch_line>
   <order_by>301</order_by>
   <text>
     <section prefix="(a)">A payment order is "executed" by the receiving bank when it issues a payment order intended to carry out the payment order received by the bank. A payment order received by the beneficiary's bank can be accepted but cannot be executed.</section>

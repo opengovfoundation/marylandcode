@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-202</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A contract may be formed in any manner sufficient to show agreement, including offer and acceptance ...</catch_line>
   <order_by>202</order_by>
   <text>
     <section prefix="(a)">A contract may be formed in any manner sufficient to show agreement, including offer and acceptance or conduct of both parties or operations of electronic agents which recognize the existence of a contract.</section>

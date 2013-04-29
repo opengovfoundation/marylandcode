@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-206</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An indorsement limiting payment to a particular person or otherwise prohibiting further transfer or ...</catch_line>
   <order_by>206</order_by>
   <text>
     <section prefix="(a)">An indorsement limiting payment to a particular person or otherwise prohibiting further transfer or negotiation of the instrument is not effective to prevent further transfer or negotiation of the instrument.</section>

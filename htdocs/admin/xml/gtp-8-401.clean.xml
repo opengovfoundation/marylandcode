@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-8-401</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>When any change as provided in subsection (b) of this section occurs in the value or classification ...</catch_line>
   <order_by>401</order_by>
   <text>
     <section prefix="(a)">When any change as provided in subsection (b) of this section occurs in the value or classification of any real property that a supervisor assesses, the supervisor shall notify the owner or other appropriate person by a written notice of the proposed change.</section>

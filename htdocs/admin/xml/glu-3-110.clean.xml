@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
+    <unit label="article" identifier="glu" order_by="glu" level="1">Land Use</unit>
   </structure>
   <section_number>glu-3-110</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The goals and objectives element shall include a statement of goals and objectives, principles, poli...</catch_line>
   <order_by>110</order_by>
   <text>
     <section prefix="(a)">The goals and objectives element shall include a statement of goals and objectives, principles, policies, and standards.</section>

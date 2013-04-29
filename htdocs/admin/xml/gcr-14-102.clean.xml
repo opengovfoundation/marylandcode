@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
+    <unit label="article" identifier="gcr" order_by="gcr" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-14-102</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Subject to subsection (b) of this section, if a law sets a maximum and a minimum penalty for a crime...</catch_line>
   <order_by>102</order_by>
   <text>
     <section prefix="(a)">Subject to subsection (b) of this section, if a law sets a maximum and a minimum penalty for a crime, the court may impose instead of the minimum penalty a lesser penalty of the same character.</section>

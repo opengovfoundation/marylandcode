@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-7-905</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An applicant for a license shall submit an application to the Administration on the form that the Ad...</catch_line>
   <order_by>905</order_by>
   <text>
     <section prefix="(a)">An applicant for a license shall submit an application to the Administration on the form that the Administration requires.</section>

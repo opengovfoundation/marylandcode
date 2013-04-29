@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
+    <unit label="article" identifier="gcp" order_by="gcp" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-12-310</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Forfeiture proceedings for real property may be brought in the jurisdiction where:...</catch_line>
   <order_by>310</order_by>
   <text>
     <section prefix="(a)">Forfeiture proceedings for real property may be brought in the jurisdiction where:<section prefix="(1)">the criminal charges are pending;</section><section prefix="(2)">the owner resides; or</section><section prefix="(3)">the real property is located.</section></section>

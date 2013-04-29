@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
+    <unit label="article" identifier="gcp" order_by="gcp" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-6-224</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section applies to a defendant who is convicted of a crime for which the court:...</catch_line>
   <order_by>224</order_by>
   <text>
     <section prefix="(a)">This section applies to a defendant who is convicted of a crime for which the court:<section prefix="(1)">does not impose a sentence;</section><section prefix="(2)">suspends the sentence generally;</section><section prefix="(3)">places the defendant on probation for a definite time; or</section><section prefix="(4)">passes another order and imposes other conditions of probation.</section></section>

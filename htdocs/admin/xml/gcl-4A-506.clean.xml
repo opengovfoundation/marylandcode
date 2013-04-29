@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-506</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If, under this title, a receiving bank is obliged to pay interest with respect to a payment order is...</catch_line>
   <order_by>506</order_by>
   <text>
     <section prefix="(a)">If, under this title, a receiving bank is obliged to pay interest with respect to a payment order issued to the bank, the amount payable may be determined: (i) by agreement of the sender and receiving bank; or (ii) by a funds-transfer system rule if the payment order is transmitted through a funds-transfer system.</section>

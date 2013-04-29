@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-619</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, "transfer statement" means a record authenticated by a secured party stating:...</catch_line>
   <order_by>619</order_by>
   <text>
     <section prefix="(a)">In this section, "transfer statement" means a record authenticated by a secured party stating:<section prefix="(1)">That the debtor has defaulted in connection with an obligation secured by specified collateral;</section><section prefix="(2)">That the secured party has exercised its post-default remedies with respect to the collateral;</section><section prefix="(3)">That, by reason of the exercise, a transferee has acquired the rights of the debtor in the collateral; and</section><section prefix="(4)">The name and mailing address of the secured party, debtor, and transferee.</section></section>

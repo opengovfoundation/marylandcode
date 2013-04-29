@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-8-204</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A financial institution shall compute its net earnings:...</catch_line>
   <order_by>204</order_by>
   <text>
     <section prefix="(a)">A financial institution shall compute its net earnings:<section prefix="(1)">based on the accounting period used as its fiscal year; and</section><section prefix="(2)">subject to the modifications required under this section, in the manner that a corporation computes, for purposes of the income tax, the Maryland modified income.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-5-310</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If the cause of death is established to a reasonable degree of medical certainty, the medical examin...</catch_line>
   <order_by>310</order_by>
   <text>
     <section prefix="(a)">If the cause of death is established to a reasonable degree of medical certainty, the medical examiner who investigates the case shall file in the medical examiner's office a report on the cause of death within 30 days after notification of the case.</section>

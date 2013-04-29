@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-2-213</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each supervisor shall maintain for public inspection, without charge:...</catch_line>
   <order_by>213</order_by>
   <text>
     <section prefix="(a)">Each supervisor shall maintain for public inspection, without charge:<section prefix="(1)">a complete set of tax maps for the county together with parcel reference lists; and</section><section prefix="(2)">on request of an interested party, sales records or transfer voucher forms that relate to sales of real property.</section></section>

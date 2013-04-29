@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-102</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Except as otherwise provided in this title, a tax is imposed on:...</catch_line>
   <order_by>102</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this title, a tax is imposed on:<section prefix="(1)">a retail sale in the State; and</section><section prefix="(2)">a use, in the State, of tangible personal property or a taxable service.</section></section>

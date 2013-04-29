@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-7-203</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The inheritance tax does not apply to the receipt of an annuity or other payment under a public or p...</catch_line>
   <order_by>203</order_by>
   <text>
     <section prefix="(a)">The inheritance tax does not apply to the receipt of an annuity or other payment under a public or private employees' pension or benefit plan if the annuity or other payment is not taxable for federal estate tax purposes.</section>

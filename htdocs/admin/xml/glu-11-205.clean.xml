@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="glu" order_by="" level="1">Land Use</unit>
+    <unit label="article" identifier="glu" order_by="glu" level="1">Land Use</unit>
   </structure>
   <section_number>glu-11-205</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If a person that receives a citation for a violation fails to pay the fine by the date of payment se...</catch_line>
   <order_by>205</order_by>
   <text>
     <section prefix="(a)">If a person that receives a citation for a violation fails to pay the fine by the date of payment set forth in the citation and fails to file a notice of intention to stand trial, the zoning official shall mail a notice of the violation to the person's last known address.</section>

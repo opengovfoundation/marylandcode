@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gsp" order_by="" level="1">State Personnel and Pensions</unit>
+    <unit label="article" identifier="gsp" order_by="gsp" level="1">State Personnel and Pensions</unit>
   </structure>
   <section_number>gsp-25-206</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>For members who transfer from a local pension system, the local pension system shall transfer to the...</catch_line>
   <order_by>206</order_by>
   <text>
     <section prefix="(a)">For members who transfer from a local pension system, the local pension system shall transfer to the Board of Trustees the employer contributions that were made to the local pension system on behalf of those members who transferred, plus the interest earned on those contributions through the date of transfer.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-108</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A promise or order is "payable on demand" if it (i) states that it is payable on demand or at sight,...</catch_line>
   <order_by>108</order_by>
   <text>
     <section prefix="(a)">A promise or order is "payable on demand" if it (i) states that it is payable on demand or at sight, or otherwise indicates that it is payable at the will of the holder, or (ii) does not state any time of payment.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-204</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, an acceptance materially alters an offer if it contains a term that materially conf...</catch_line>
   <order_by>204</order_by>
   <text>
     <section prefix="(a)">In this section, an acceptance materially alters an offer if it contains a term that materially conflicts with or varies a term of the offer or that adds a material term not contained in the offer.</section>

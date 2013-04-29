@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-210</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The certification of a police officer automatically lapses 3 years after the date of the previous ce...</catch_line>
   <order_by>210</order_by>
   <text>
     <section prefix="(a)">The certification of a police officer automatically lapses 3 years after the date of the previous certification.</section>

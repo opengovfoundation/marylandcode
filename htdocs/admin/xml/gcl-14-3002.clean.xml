@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-3002</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section does not apply to an interactive computer service provider or a telecommunication utili...</catch_line>
   <order_by>3002</order_by>
   <text>
     <section prefix="(a)">This section does not apply to an interactive computer service provider or a telecommunication utility to the extent that the interactive computer service provider or the telecommunication utility merely handles, retransmits, or carries a transmission of commercial electronic mail.</section>

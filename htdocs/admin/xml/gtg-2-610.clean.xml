@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-2-610</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Comptroller shall make the distributions of income tax revenue from individuals attributable to ...</catch_line>
   <order_by>610</order_by>
   <text>
     <section prefix="(a)">The Comptroller shall make the distributions of income tax revenue from individuals attributable to county income tax periodically to a county, municipal corporation, or special taxing district.</section>

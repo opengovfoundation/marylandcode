@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-14-1003</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An automotive repair facility shall prepare an invoice which describes:...</catch_line>
   <order_by>1003</order_by>
   <text>
     <section prefix="(a)">An automotive repair facility shall prepare an invoice which describes:<section prefix="(1)">All work done by it, including all warranty work; and</section><section prefix="(2)">All parts supplied by it.</section></section>

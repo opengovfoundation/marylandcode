@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
+    <unit label="article" identifier="grp" order_by="grp" level="1">Real Property</unit>
   </structure>
   <section_number>grp-4-101</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Any deed containing the names of the grantor and grantee, a description of the property sufficient t...</catch_line>
   <order_by>101</order_by>
   <text>
     <section prefix="(a)">

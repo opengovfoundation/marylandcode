@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-502</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Dishonor of a note is governed by the following rules:...</catch_line>
   <order_by>502</order_by>
   <text>
     <section prefix="(a)">Dishonor of a note is governed by the following rules:<section prefix="(1)">If the note is payable on demand, the note is dishonored if presentment is duly made to the maker and the note is not paid on the day of presentment.</section><section prefix="(2)">If the note is not payable on demand and is payable at or through a bank or the terms of the note require presentment, the note is dishonored if presentment is duly made and the note is not paid on the day it becomes payable or the day of presentment, whichever is later.</section><section prefix="(3)">If the note is not payable on demand and paragraph (2) does not apply, the note is dishonored if it is not paid on the day it becomes payable.</section></section>

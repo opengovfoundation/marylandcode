@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-8-705</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A nonprofit charitable institution, public association, community service association, or government...</catch_line>
   <order_by>705</order_by>
   <text>
     <section prefix="(a)">A nonprofit charitable institution, public association, community service association, or governmental unit may provide work projects for a community service program.</section>

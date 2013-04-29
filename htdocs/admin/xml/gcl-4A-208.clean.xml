@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4A-208</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In the case where a payment order identifies an intermediary bank or the beneficiary's bank only by ...</catch_line>
   <order_by>208</order_by>
   <text>
     <section prefix="(a)">In the case where a payment order identifies an intermediary bank or the beneficiary's bank only by an identifying number:<section prefix="(1)">The receiving bank may rely on the number as the proper identification of the intermediary or beneficiary's bank and need not determine whether the number identifies a bank; and</section><section prefix="(2)">The sender is obliged to compensate the receiving bank for any loss and expenses incurred by the receiving bank as a result of its reliance on the number in executing or attempting to execute the order.</section></section>

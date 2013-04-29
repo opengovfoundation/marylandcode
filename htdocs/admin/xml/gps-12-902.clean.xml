@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-902</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The General Assembly finds that there have been many incidents of danger to public safety because of...</catch_line>
   <order_by>902</order_by>
   <text>
     <section prefix="(a)">The General Assembly finds that there have been many incidents of danger to public safety because of improper or inadequate construction, installation, maintenance, use, repair, or inspection of boilers and pressure vessels that operate in the State.</section>

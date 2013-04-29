@@ -521,7 +521,7 @@ class Structure
 		$sql = 'SELECT id, structure_id, section AS section_number, catch_line
 				FROM laws
 				WHERE structure_id='.$db->escape($this->id).'
-				ORDER BY order_by, section';
+				ORDER BY cast(order_by as UNSIGNED), section';
 		
 		// Execute the query.
 		$result =& $db->query($sql);

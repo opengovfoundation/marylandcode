@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcr" order_by="" level="1">Criminal Law</unit>
+    <unit label="article" identifier="gcr" order_by="gcr" level="1">Criminal Law</unit>
   </structure>
   <section_number>gcr-8-522</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section applies to a simulated document even if the document contains a statement that it is no...</catch_line>
   <order_by>522</order_by>
   <text>
     <section prefix="(a)">This section applies to a simulated document even if the document contains a statement that it is not legal process or a government document.</section>

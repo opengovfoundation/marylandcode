@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-1-303</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A "course of performance" is a sequence of conduct between the parties to a particular transaction t...</catch_line>
   <order_by>303</order_by>
   <text>
     <section prefix="(a)">A "course of performance" is a sequence of conduct between the parties to a particular transaction that exists if:<section prefix="(1)">The agreement of the parties with respect to the transaction involves repeated occasions for performance by a party; and</section><section prefix="(2)">The other party, with knowledge of the nature of the performance and opportunity for objection to it, accepts the performance or acquiesces in it without objection.</section></section>

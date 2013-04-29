@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-3-205</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A majority of the Commission is a quorum....</catch_line>
   <order_by>205</order_by>
   <text>
     <section prefix="(a)">A majority of the Commission is a quorum.</section>

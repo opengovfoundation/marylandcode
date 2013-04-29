@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gnr" order_by="" level="1">Natural Resources</unit>
+    <unit label="article" identifier="gnr" order_by="gnr" level="1">Natural Resources</unit>
   </structure>
   <section_number>gnr-1-102</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Department shall include all units, programs, boards, commissions, and advisory boards and commi...</catch_line>
   <order_by>102</order_by>
   <text>
     <section prefix="(a)">The Department shall include all units, programs, boards, commissions, and advisory boards and commissions referenced in this article.</section>

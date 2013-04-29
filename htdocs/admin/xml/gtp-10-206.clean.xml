@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-10-206</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If a corporation submits articles of dissolution to the Department, the Department shall immediately...</catch_line>
   <order_by>206</order_by>
   <text>
     <section prefix="(a)">If a corporation submits articles of dissolution to the Department, the Department shall immediately certify to the collector the assessment of any personal property of the corporation that is subject to property tax on the most recent date of finality.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-303</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Commissioner shall:...</catch_line>
   <order_by>303</order_by>
   <text>
     <section prefix="(a)">The Commissioner shall:<section prefix="(1)">develop comprehensive rehabilitative prerelease services; and</section><section prefix="(2)">make these services available to inmates of a prerelease unit for women.</section></section>

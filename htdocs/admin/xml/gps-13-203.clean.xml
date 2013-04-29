@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-13-203</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>There are two classes of State militia:...</catch_line>
   <order_by>203</order_by>
   <text>
     <section prefix="(a)">There are two classes of State militia:<section prefix="(1)">the organized militia; and</section><section prefix="(2)">the unorganized militia.</section></section>

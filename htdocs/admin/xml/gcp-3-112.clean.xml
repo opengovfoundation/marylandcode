@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcp" order_by="" level="1">Criminal Procedure</unit>
+    <unit label="article" identifier="gcp" order_by="gcp" level="1">Criminal Procedure</unit>
   </structure>
   <section_number>gcp-3-112</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Except as provided in subsection (c) of this section, after a verdict of not criminally responsible,...</catch_line>
   <order_by>112</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (c) of this section, after a verdict of not criminally responsible, the court immediately shall commit the defendant to the Health Department for institutional inpatient care or treatment.</section>

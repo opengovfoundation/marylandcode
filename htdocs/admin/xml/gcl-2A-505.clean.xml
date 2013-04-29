@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-505</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>On cancellation of the lease contract, all obligations that are still executory on both sides are di...</catch_line>
   <order_by>505</order_by>
   <text>
     <section prefix="(1)">On cancellation of the lease contract, all obligations that are still executory on both sides are discharged, but any right based on prior default or performance survives, and the cancelling party also retains any remedy for default of the whole lease contract or any unperformed balance.</section>

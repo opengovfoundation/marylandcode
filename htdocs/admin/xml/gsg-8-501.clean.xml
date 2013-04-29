@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gsg" order_by="" level="1">State Government</unit>
+    <unit label="article" identifier="gsg" order_by="gsg" level="1">State Government</unit>
   </structure>
   <section_number>gsg-8-501</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A member of a State board or commission appointed by the Governor who fails to attend at least 50% o...</catch_line>
   <order_by>501</order_by>
   <text>
     <section prefix="(a)">A member of a State board or commission appointed by the Governor who fails to attend at least 50% of the meetings of the board or commission during any consecutive 12-month period shall be considered to have resigned.</section>

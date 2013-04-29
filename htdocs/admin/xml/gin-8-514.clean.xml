@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gin" order_by="" level="1">Insurance</unit>
+    <unit label="article" identifier="gin" order_by="gin" level="1">Insurance</unit>
   </structure>
   <section_number>gin-8-514</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A reinsurance broker shall keep a record of each transaction that relates to a contract of reinsuran...</catch_line>
   <order_by>514</order_by>
   <text>
     <section prefix="(a)">A reinsurance broker shall keep a record of each transaction that relates to a contract of reinsurance transacted by the reinsurance broker for at least 10 years after the contract expires.</section>

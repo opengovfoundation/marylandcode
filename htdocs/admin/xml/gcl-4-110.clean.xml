@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-110</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>"Agreement for electronic presentment" means an agreement, clearing-house rule, or federal reserve r...</catch_line>
   <order_by>110</order_by>
   <text>
     <section prefix="(a)">"Agreement for electronic presentment" means an agreement, clearing-house rule, or federal reserve regulation or operating circular, providing that presentment of an item may be made by transmission of an image of an item or information describing the item ("presentment notice") rather than delivery of the item itself. The agreement may provide for procedures governing retention, presentment, payment, dishonor, and other matters concerning items subject to the agreement.</section>

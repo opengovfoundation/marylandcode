@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-5-106</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A letter of credit is issued and becomes enforceable according to its terms against the issuer when ...</catch_line>
   <order_by>106</order_by>
   <text>
     <section prefix="(a)">A letter of credit is issued and becomes enforceable according to its terms against the issuer when the issuer sends or otherwise transmits it to the person requested to advise or to the beneficiary. A letter of credit is revocable only if it so provides.</section>

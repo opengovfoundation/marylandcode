@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="get" order_by="" level="1">Estates and Trusts</unit>
+    <unit label="article" identifier="get" order_by="get" level="1">Estates and Trusts</unit>
   </structure>
   <section_number>get-17-111</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A power of attorney is effective when executed, unless the principal provides in the power of attorn...</catch_line>
   <order_by>111</order_by>
   <text>
     <section prefix="(a)">A power of attorney is effective when executed, unless the principal provides in the power of attorney that it becomes effective at a future date or on the occurrence of a future event or contingency.</section>

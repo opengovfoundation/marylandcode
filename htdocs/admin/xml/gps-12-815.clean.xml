@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-12-815</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each passenger elevator in a permanent installation used by the public shall have a sign that reads ...</catch_line>
   <order_by>815</order_by>
   <text>
     <section prefix="(a)">Each passenger elevator in a permanent installation used by the public shall have a sign that reads "Warning - Elevators shall not be used in event of fire - Use marked exit stairways".</section>

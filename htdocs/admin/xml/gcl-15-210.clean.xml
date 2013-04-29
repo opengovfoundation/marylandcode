@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-15-210</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If a conveyance made or obligation incurred is fraudulent as to a creditor whose claim has not matur...</catch_line>
   <order_by>210</order_by>
   <text>
     <section prefix="(a)">If a conveyance made or obligation incurred is fraudulent as to a creditor whose claim has not matured, he may proceed in a court of competent jurisdiction against any person against whom he could have proceeded had his claim matured.</section>

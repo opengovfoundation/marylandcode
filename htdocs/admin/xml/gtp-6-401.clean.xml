@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-6-401</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Except as otherwise provided in this article, to determine the amount of State, county, or municipal...</catch_line>
   <order_by>401</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this article, to determine the amount of State, county, or municipal corporation property tax that is due, the assessment of the property is multiplied by the applicable rate.</section>

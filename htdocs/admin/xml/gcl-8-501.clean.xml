@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-501</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>"Securities account" means an account to which a financial asset is or may be credited in accordance...</catch_line>
   <order_by>501</order_by>
   <text>
     <section prefix="(a)">"Securities account" means an account to which a financial asset is or may be credited in accordance with an agreement under which the person maintaining the account undertakes to treat the person for whom the account is maintained as entitled to exercise the rights that comprise the financial asset.</section>

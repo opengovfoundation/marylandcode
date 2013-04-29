@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
+    <unit label="article" identifier="grp" order_by="grp" level="1">Real Property</unit>
   </structure>
   <section_number>grp-14-112</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>In this section, "trustee" includes any escrowee, agent, attorney, representative, or fiduciary....</catch_line>
   <order_by>112</order_by>
   <text>
     <section prefix="(a)">In this section, "trustee" includes any escrowee, agent, attorney, representative, or fiduciary.</section>

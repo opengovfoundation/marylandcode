@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtg" order_by="" level="1">Tax - General</unit>
+    <unit label="article" identifier="gtg" order_by="gtg" level="1">Tax - General</unit>
   </structure>
   <section_number>gtg-11-211</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The sales and use tax does not apply to:...</catch_line>
   <order_by>211</order_by>
   <text>
     <section prefix="(a)">The sales and use tax does not apply to:<section prefix="(1)">a sale, to or by a physician or hospital, of drugs or medical supplies;</section><section prefix="(2)">a sale of medicine;</section><section prefix="(3)">a sale of disposable medical supplies; or</section><section prefix="(4)">a sale of a patient's medical records to the patient or the patient's representative.</section></section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-1-310</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each subscriber to switched local exchange access service or CMRS or other 9-1-1-accessible service ...</catch_line>
   <order_by>310</order_by>
   <text>
     <section prefix="(a)">Each subscriber to switched local exchange access service or CMRS or other 9-1-1-accessible service shall pay a 9-1-1 fee.</section>

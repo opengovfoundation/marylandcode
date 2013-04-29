@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-8-115</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If the Commission or an authorized inspector finds a condition in a correctional facility that is li...</catch_line>
   <order_by>115</order_by>
   <text>
     <section prefix="(a)">If the Commission or an authorized inspector finds a condition in a correctional facility that is life threatening or health endangering, the Commission or inspector may order the immediate cessation of operation.</section>

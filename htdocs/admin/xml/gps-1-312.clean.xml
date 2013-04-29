@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gps" order_by="" level="1">Public Safety</unit>
+    <unit label="article" identifier="gps" order_by="gps" level="1">Public Safety</unit>
   </structure>
   <section_number>gps-1-312</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>During each county's fiscal year, the county may spend the amounts distributed to it from 9-1-1 fee ...</catch_line>
   <order_by>312</order_by>
   <text>
     <section prefix="(a)">During each county's fiscal year, the county may spend the amounts distributed to it from 9-1-1 fee collections for the installation, enhancement, maintenance, and operation of a county or multicounty 9-1-1 system.</section>

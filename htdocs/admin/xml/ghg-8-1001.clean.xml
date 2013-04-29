@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="ghg" order_by="" level="1">Health - General</unit>
+    <unit label="article" identifier="ghg" order_by="ghg" level="1">Health - General</unit>
   </structure>
   <section_number>ghg-8-1001</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each county shall have a local drug and alcohol abuse council....</catch_line>
   <order_by>1001</order_by>
   <text>
     <section prefix="(a)">Each county shall have a local drug and alcohol abuse council.</section>

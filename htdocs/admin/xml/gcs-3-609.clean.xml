@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-3-609</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A correctional facility in the Division shall maintain a reserve financial account and a spending fi...</catch_line>
   <order_by>609</order_by>
   <text>
     <section prefix="(a)">A correctional facility in the Division shall maintain a reserve financial account and a spending financial account for each inmate in the correctional facility.</section>

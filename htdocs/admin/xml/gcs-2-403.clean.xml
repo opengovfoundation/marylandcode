@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-2-403</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A correctional unit may enter into or renew a mutual aid agreement with any other correctional unit ...</catch_line>
   <order_by>403</order_by>
   <text>
     <section prefix="(a)">A correctional unit may enter into or renew a mutual aid agreement with any other correctional unit in accordance with this section.</section>

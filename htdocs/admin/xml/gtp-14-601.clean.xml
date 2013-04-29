@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-601</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Except as provided in subsection (b) of this section, interest is calculated on and charged against ...</catch_line>
   <order_by>601</order_by>
   <text>
     <section prefix="(a)">Except as provided in subsection (b) of this section, interest is calculated on and charged against the total tax liability on property.</section>

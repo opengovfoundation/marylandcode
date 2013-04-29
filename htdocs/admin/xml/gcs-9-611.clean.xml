@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-611</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An individual who is committed or detained, or another individual on that individual's behalf, may d...</catch_line>
   <order_by>611</order_by>
   <text>
     <section prefix="(a)">An individual who is committed or detained, or another individual on that individual's behalf, may demand a true copy of the warrant of commitment or detainer.</section>

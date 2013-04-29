@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-2A-310</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Goods are "accessions" when they are installed in or affixed to other goods....</catch_line>
   <order_by>310</order_by>
   <text>
     <section prefix="(1)">Goods are "accessions" when they are installed in or affixed to other goods.</section>

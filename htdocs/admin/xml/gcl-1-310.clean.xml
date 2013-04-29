@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-1-310</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An obligation may be issued as subordinated to performance of another obligation of the person oblig...</catch_line>
   <order_by>310</order_by>
   <text>
     <section prefix="(a)">An obligation may be issued as subordinated to performance of another obligation of the person obligated, or a creditor may subordinate its right to performance of an obligation by agreement with either the person obligated or another creditor of the person obligated.</section>

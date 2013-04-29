@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-206</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A contract may be formed by the interaction of electronic agents. If the interaction results in the ...</catch_line>
   <order_by>206</order_by>
   <text>
     <section prefix="(a)">A contract may be formed by the interaction of electronic agents. If the interaction results in the electronic agents' engaging in operations that under the circumstances indicate acceptance of an offer, a contract is formed, but a court may grant appropriate relief if the operations resulted from fraud, electronic mistake, or the like.</section>

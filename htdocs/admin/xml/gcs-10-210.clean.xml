@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-10-210</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A court may not consider an individual's grievance that is within the jurisdiction of the Office or ...</catch_line>
   <order_by>210</order_by>
   <text>
     <section prefix="(a)">A court may not consider an individual's grievance that is within the jurisdiction of the Office or the Office of Administrative Hearings unless the individual has exhausted the remedies provided in this subtitle.</section>

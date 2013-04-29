@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-9-609</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Whenever a date of release from confinement in a State correctional facility is a Saturday, Sunday, ...</catch_line>
   <order_by>609</order_by>
   <text>
     <section prefix="(a)">Whenever a date of release from confinement in a State correctional facility is a Saturday, Sunday, or legal holiday, the inmate shall be released on the first preceding day that is not a Saturday, Sunday, or legal holiday.</section>

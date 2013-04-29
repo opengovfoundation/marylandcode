@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-803</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The managing official of a local correctional facility or the managing official's designee may issue...</catch_line>
   <order_by>803</order_by>
   <text>
     <section prefix="(a)">The managing official of a local correctional facility or the managing official's designee may issue a retake warrant for the apprehension and return of an escapee.</section>

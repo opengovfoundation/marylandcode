@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-17-308</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>All unclaimed wages or outstanding payroll checks held or owing in the ordinary course of the holder...</catch_line>
   <order_by>308</order_by>
   <text>
     <section prefix="(a)">All unclaimed wages or outstanding payroll checks held or owing in the ordinary course of the holder's business, that have remained unclaimed by the owner for more than 3 years after they became payable, are presumed abandoned.</section>

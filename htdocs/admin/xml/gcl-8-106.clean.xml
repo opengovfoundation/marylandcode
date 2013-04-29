@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-8-106</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A purchaser has "control" of a certificated security in bearer form if the certificated security is ...</catch_line>
   <order_by>106</order_by>
   <text>
     <section prefix="(a)">A purchaser has "control" of a certificated security in bearer form if the certificated security is delivered to the purchaser.</section>

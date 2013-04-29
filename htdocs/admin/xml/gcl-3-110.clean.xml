@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-110</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The person to whom an instrument is initially payable is determined by the intent of the person, whe...</catch_line>
   <order_by>110</order_by>
   <text>
     <section prefix="(a)">The person to whom an instrument is initially payable is determined by the intent of the person, whether or not authorized, signing as, or in the name or behalf of, the issuer of the instrument. The instrument is payable to the person intended by the signer even if that person is identified in the instrument by a name or other identification that is not that of the intended person. If more than one person signs in the name or behalf of the issuer of an instrument and all the signers do not intend the same person as payee, the instrument is payable to any person intended by one or more of the signers.</section>

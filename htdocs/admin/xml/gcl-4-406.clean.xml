@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-4-406</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A bank that sends or makes available to a customer a statement of account showing payment of items f...</catch_line>
   <order_by>406</order_by>
   <text>
     <section prefix="(a)">A bank that sends or makes available to a customer a statement of account showing payment of items for the account shall either return or make available to the customer the items paid or provide information in the statement of account sufficient to allow the customer reasonably to identify the items paid. The statement of account provides sufficient information if the item is described by item number, amount, and date of payment.</section>

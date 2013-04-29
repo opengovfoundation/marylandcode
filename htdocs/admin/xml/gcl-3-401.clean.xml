@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-401</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A person is not liable on an instrument unless (i) the person signed the instrument, or (ii) the per...</catch_line>
   <order_by>401</order_by>
   <text>
     <section prefix="(a)">A person is not liable on an instrument unless (i) the person signed the instrument, or (ii) the person is represented by an agent or representative who signed the instrument and the signature is binding on the represented person under &#xA7; 3-402.</section>

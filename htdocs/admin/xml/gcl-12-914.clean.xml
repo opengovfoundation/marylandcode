@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-12-914</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If any provision of this subtitle is held invalid, the invalidity shall not affect any other provisi...</catch_line>
   <order_by>914</order_by>
   <text>
     <section prefix="(a)">If any provision of this subtitle is held invalid, the invalidity shall not affect any other provision of this subtitle which can be given effect without the invalid provision.</section>

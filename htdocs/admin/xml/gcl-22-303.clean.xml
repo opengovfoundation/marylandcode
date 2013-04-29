@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-303</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An agreement modifying a contract subject to this title needs no consideration to be binding....</catch_line>
   <order_by>303</order_by>
   <text>
     <section prefix="(a)">An agreement modifying a contract subject to this title needs no consideration to be binding.</section>

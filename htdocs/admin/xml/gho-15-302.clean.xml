@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gho" order_by="" level="1">Health Occupations</unit>
+    <unit label="article" identifier="gho" order_by="gho" level="1">Health Occupations</unit>
   </structure>
   <section_number>gho-15-302</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A physician may delegate medical acts to a physician assistant only after:...</catch_line>
   <order_by>302</order_by>
   <text>
     <section prefix="(a)">A physician may delegate medical acts to a physician assistant only after:<section prefix="(1)">A delegation agreement has been executed and filed with the Board; and</section><section prefix="(2)">Any advanced duties have been authorized as required under subsection (c) of this section.</section></section>

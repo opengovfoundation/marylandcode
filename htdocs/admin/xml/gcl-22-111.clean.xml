@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-22-111</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>If a court as a matter of law finds a contract or a term thereof to have been unconscionable at the ...</catch_line>
   <order_by>111</order_by>
   <text>
     <section prefix="(a)">If a court as a matter of law finds a contract or a term thereof to have been unconscionable at the time it was made, the court may refuse to enforce the contract, enforce the remainder of the contract without the unconscionable term, or limit the application of the unconscionable term so as to avoid an unconscionable result.</section>

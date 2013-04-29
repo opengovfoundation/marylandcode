@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="grp" order_by="" level="1">Real Property</unit>
+    <unit label="article" identifier="grp" order_by="grp" level="1">Real Property</unit>
   </structure>
   <section_number>grp-8-212.2</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section does not apply to a tenant under a residential lease that contains a liquidated damages...</catch_line>
   <order_by>212.2</order_by>
   <text>
     <section prefix="(a)">This section does not apply to a tenant under a residential lease that contains a liquidated damages clause or early termination clause that:<section prefix="(1)">Requires written notice to vacate of 1 month or less; and</section><section prefix="(2)">Imposes liability for rent less than or equal to 2 months' rent after the date on which the tenant vacates the leased premises.</section></section>

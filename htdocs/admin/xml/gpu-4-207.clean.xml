@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gpu" order_by="" level="1">Public Utilities</unit>
+    <unit label="article" identifier="gpu" order_by="gpu" level="1">Public Utilities</unit>
   </structure>
   <section_number>gpu-4-207</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section applies only to a gas company, electric company, or telephone company whose gross annua...</catch_line>
   <order_by>207</order_by>
   <text>
     <section prefix="(a)">This section applies only to a gas company, electric company, or telephone company whose gross annual revenues, for the most recent calendar year for which data are available, are less than 3% of the total gross annual revenues of all public service companies in the State during the same calendar year.</section>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcs" order_by="" level="1">Correctional Services</unit>
+    <unit label="article" identifier="gcs" order_by="gcs" level="1">Correctional Services</unit>
   </structure>
   <section_number>gcs-11-1006</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>A correctional officer who is denied a right granted by this subtitle may apply to the circuit court...</catch_line>
   <order_by>1006</order_by>
   <text>
     <section prefix="(a)">A correctional officer who is denied a right granted by this subtitle may apply to the circuit court of the county where the correctional officer is regularly employed for an order that directs the internal investigation unit to show cause why the right should not be granted.</section>

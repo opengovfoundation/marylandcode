@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-9-303</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>This section applies to goods covered by a certificate of title, even if there is no other relations...</catch_line>
   <order_by>303</order_by>
   <text>
     <section prefix="(a)">This section applies to goods covered by a certificate of title, even if there is no other relationship between the jurisdiction under whose certificate of title the goods are covered and the goods or the debtor.</section>

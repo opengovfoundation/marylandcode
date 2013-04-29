@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gca" order_by="" level="1">Corporations and Associations</unit>
+    <unit label="article" identifier="gca" order_by="gca" level="1">Corporations and Associations</unit>
   </structure>
   <section_number>gca-2-211</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Each stock certificate shall include on its face:...</catch_line>
   <order_by>211</order_by>
   <text>
     <section prefix="(a)">Each stock certificate shall include on its face:<section prefix="(1)">The name of the corporation that issues it;</section><section prefix="(2)">The name of the stockholder or other person to whom it is issued; and</section><section prefix="(3)">The class of stock and number of shares it represents.</section></section>

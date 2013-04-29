@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtp" order_by="" level="1">Tax - Property</unit>
+    <unit label="article" identifier="gtp" order_by="gtp" level="1">Tax - Property</unit>
   </structure>
   <section_number>gtp-14-1101</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>Except as otherwise provided in this section and in this article, any tax imposed under this article...</catch_line>
   <order_by>1101</order_by>
   <text>
     <section prefix="(a)">Except as otherwise provided in this section and in this article, any tax imposed under this article may be collected only on or before 7 years from the date the tax is due.</section>

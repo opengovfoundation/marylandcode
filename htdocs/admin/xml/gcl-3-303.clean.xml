@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gcl" order_by="" level="1">Commercial Law</unit>
+    <unit label="article" identifier="gcl" order_by="gcl" level="1">Commercial Law</unit>
   </structure>
   <section_number>gcl-3-303</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>An instrument is issued or transferred for value if:...</catch_line>
   <order_by>303</order_by>
   <text>
     <section prefix="(a)">An instrument is issued or transferred for value if:<section prefix="(1)">The instrument is issued or transferred for a promise of performance, to the extent the promise has been performed;</section><section prefix="(2)">The transferee acquires a security interest or other lien in the instrument other than a lien obtained by judicial proceeding;</section><section prefix="(3)">The instrument is issued or transferred as payment of, or as security for, an antecedent claim against any person, whether or not the claim is due;</section><section prefix="(4)">The instrument is issued or transferred in exchange for a negotiable instrument; or</section><section prefix="(5)">The instrument is issued or transferred in exchange for the incurring of an irrevocable obligation to a third party by the person taking the instrument.</section></section>

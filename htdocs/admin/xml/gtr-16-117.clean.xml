@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <law>
   <structure>
-    <unit label="article" identifier="gtr" order_by="" level="1">Transportation</unit>
+    <unit label="article" identifier="gtr" order_by="gtr" level="1">Transportation</unit>
   </structure>
   <section_number>gtr-16-117</section_number>
-  <catch_line>...</catch_line>
+  <catch_line>The Administration shall keep a record of:...</catch_line>
   <order_by>117</order_by>
   <text>
     <section prefix="(a)">The Administration shall keep a record of:<section prefix="(1)">Each driver's license application that it receives;</section><section prefix="(2)">Each driver's license that it issues; and</section><section prefix="(3)">Each licensee whose license to drive the Administration has suspended or revoked, and the reasons for the action.</section></section>

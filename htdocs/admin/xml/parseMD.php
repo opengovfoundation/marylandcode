@@ -32,19 +32,22 @@
 		return $string;
 	}
 
-	function parseSec($legisSec, $level, &$parent){
+	function parseSec($legisSec, $level, &$parent, &$catch_line){
 		$structure = array('section', 'subsection', 'paragraph', 'subparagraph', 'sub-subparagraph', 'sub-sub-paragraph');
 		
 		foreach($legisSec->$structure[$level] as $child){
-			if($child->text != null){
+			if($child->text != null && $child->text != ''){
 				$newSec = $parent->addChild('section', $child->text);
+				if($catch_line[0] == ''){
+					$catch_line[0] = substr($child->text, 0, 100) . '...';
+				}
 			}else{
 				$newSec = $parent->addChild('section');
 			}
 			$newSec->addAttribute('prefix', htmlspecialchars($child->enum));
 			
 			if(isset($structure[$level + 1]) && $child->$structure[$level+1] != null){
-				parseSec($child, $level + 1, $newSec);
+				parseSec($child, $level + 1, $newSec, $catch_line);
 			}
 			
 		}
@@ -125,7 +128,21 @@
 			
 			$unit->addAttribute('label', 'article');
 			$unit->addAttribute('identifier', $infoArray[0]);
-			$unit->addAttribute('order_by', '');
+			
+			if(preg_match_all('@([0-9]+)@', $infoArray[0], $matches)){
+				if(count($matches) > 2){
+					echo $infoArray[0] . "\n";
+					echo count($matches) . "\n";
+					print_r($matches);
+				}
+			}
+			
+			if(!isset($matches[0][0])){
+				$unit->addAttribute('order_by', $infoArray[0]);
+			}else{
+				$unit->addAttribute('order_by', $matches[0][0]);
+			}
+			
 			$unit->addAttribute('level', '1');
 			
 			
@@ -133,32 +150,31 @@
 			
 			$section_number = $law->addChild('section_number', $infoArray[0] . '-' . $infoArray[1]);
 			$catch_line = $law->addChild('catch_line', '');
-			
 			$section_order = explode('-', $infoArray[1]);
 			$section_order = array_pop($section_order);
 			$order_by = $law->addChild('order_by', $section_order);
 			
-			if($section->text != null){
+			if($section->text != null && $section->text != ''){
 				if($law->catch_line == ''){
-					$law->catch_line = substr($section->text, 0, 100) . "...";
+					$law->catch_line[0] = substr($section->text, 0, 100) . "...";
 				}
 				$text = $law->addChild('text', $section->text);
 			}else{
 				$text = $law->addChild('text');
 			}
 			
-			// //Section Unit Structure
-			// 			$unit2 = $structure->addChild('unit', $law->catch_line);
-			// 			$unit2->addAttribute('label', 'section');
-			// 			$unit2->addAttribute('identifier', $infoArray[0] . '-' . $infoArray[1]);
-			// 			$unit2->addAttribute('order_by', '');
-			// 			$unit2->addAttribute('level', '2');
-			
-			parseSec($section, 1, $text);
+			parseSec($section, 1, $text, $catch_line);
 			
 			$newFilename = $infoArray[0] . '-' . $infoArray[1] . '.clean.xml';
 			$law->asXML($newFilename);
 			exec("xmllint -format $newFilename -output $newFilename");
+			
+			if($catch_line[0] == '' || $catch_line[0] == null){
+				print_r($catch_line);
+				print_r($law->catch_line);
+				echo "Error with catch line for $section_number\n";
+				exit;
+			}
 		}
 	}
 
