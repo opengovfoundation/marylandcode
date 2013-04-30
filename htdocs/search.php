@@ -2,14 +2,6 @@
 	apc_clear_cache();
 
 	require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
-	
-	require_once('vendor/SolrPhpClient/Apache/Solr/Service.php');
-	
-	$solr = new Apache_Solr_Service(
-		'localhost',
-		'8983',
-		'/solr/statedecoded'
-	);
 
 	$query = $_GET['q'];
 	
@@ -26,9 +18,14 @@
 	}
 		
 	try{
-		$results = $solr->search($query, $start, $end, array('wt'=>'json'));
+		$ch = curl_init("http://localhost:8983/solr/statedecoded/select?q=$query&wt=json");
+		curl_setopt($ch, CURLOPT_HEADER, 0);
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+		$output = curl_exec($ch);
+		curl_close($ch);
 		
-		$response = $results->response;
+		$json = json_decode($output);
+		$response = $json->response;
 		$docs = $response->docs;
 	}catch(Exception $e){
 		die($e->getMessage());
