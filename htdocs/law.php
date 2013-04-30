@@ -179,10 +179,22 @@ if (isset($law->history_text))
 }
 
 /*
+ * 	Add Disqus comments
+ */
+$body .= '<div id="disqus_thread"></div>';
+$body .= '<script type="text/javascript" src="/js/disqus.embed.js"></script>';
+$body .= '<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>';
+$body .= '<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>';
+
+/*
  * Indicate the conclusion of the "section" article, which is the container for the text of a
  * section of the code.
  */
 $body .= '</article>';
+
+
+
+
 
 /*
  * Only show the history if the law hasn't been repealed. (If it has been, then the history text
