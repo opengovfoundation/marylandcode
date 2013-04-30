@@ -861,6 +861,9 @@ footer {
 #pager li{
 	display:inline-block;
 }
+	#pager li a{
+		text-decoration:none;
+	}
 #pager li:after{
 	content:"|";
 	margin:0 5px;

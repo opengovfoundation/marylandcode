@@ -3,22 +3,20 @@
 
 	require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
 
-	$query = $_GET['q'];
-	
+	$query_readable = $_GET['q'];
+	$query = urlencode($query_readable);
+		
 	if(isset($_GET['p'])){
-		$page = $_GET['p'] - 1;
+		$page = $_GET['p'];
 		$start = $page * 10;
-		$end = $start + 9;
-		$pager_prev = '<span class="pager-disabled pager-prev">&lt;</span>';
 	}
 	else{
 		$start = 0;
-		$end = 9;
-		$pager_prev = '<a href="" rel="prevstart" class="pager-prev">&lt;</a>';
-	}
+	}	
 		
 	try{
-		$ch = curl_init("http://localhost:8983/solr/statedecoded/select?q=$query&wt=json");
+		$url = "http://localhost:8983/solr/statedecoded/select?q=$query&wt=json&start=$start";
+		$ch = curl_init($url);
 		curl_setopt($ch, CURLOPT_HEADER, 0);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 		$output = curl_exec($ch);
@@ -32,7 +30,26 @@
 	}
 
 	$pages = ceil($response->numFound / 10);
-	$pages = $pages > 10 ? 10 : $pages;
+	$start_page = $page - 5 > 0 ? $page - 5 : 0;
+
+	if(isset($_GET['p'])){
+		$pager_prev_page = $page - 1 > 0 ? '&p=' . ($page - 1) : '';
+		$pager_prev = '<a href="/search/?q=' . $query . $pager_prev_page . '" rel="prevstart" class="pager-prev">&lt;</a>';
+		if($page == $pages - 1){
+			$pager_next = '<span class="pager-disabled pager-next">&gt;</span>';
+		}else{
+			$pager_next = '<a href="/search/?q=' . $query . '&p=' . ($page + 1) . '" rel="next" class="pager-next">&gt;</a>';
+		}
+	}else{
+		$pager_prev = '<span class="pager-disabled pager-prev">&lt;</span>';
+		if($pages > 1){
+			$pager_next = '<a href="/search/?q=' . $query . '&p=1" rel="next" class="pager-next">&gt;</a>';
+		}else{
+			$pager_next = '<span class="pager-disabled pager-next">&gt;</span>';
+		}
+	}
+
+	
 	
 	$template = new Page;
 	$template->field->browser_title = 'Search Maryland Decoded';
@@ -44,16 +61,22 @@
 				<ul id="pager">
 					<li>' . $pager_prev . '</li>';
 
-	for($i = 0; $i < $pages; $i++){
-		$body .= '<li><a href="/search/?q="' . $query . '&p=' . $i . '" rel="prevstart">' . $i . '</a></li>';
-	}				
+	for($i = $start_page; $i < $start_page + 10 && $i < $pages; $i++){
+		if($i == $page){
+			$body .= '<li><span class="pager-disabled">' . ($i + 1) . '</span></li>';
+		}else{
+			$body .= '<li><a href="/search/?q=' . $query . '&p=' . $i . '" rel="prevstart">' . ($i + 1) . '</a></li>';
+		}
+	}		
+	
+	$body .= '<li>' . $pager_next . '</li>';		
 					
 	$body .=	'</ul>
 				<div id="pager-header">
 					<span id="pagination">1-10 of ' . $response->numFound . '</span>
 					for
 					<strong>
-						<span id="curr_search">' . $query . '</span>
+						<span id="curr_search">' . $query_readable . '</span>
 						<span id="suggestions"></span>
 					</strong>
 				</div>
@@ -66,7 +89,7 @@
 		$body .= '
 			<div>
 				<h2>
-					<span class="hl1">' . $query . '</span>
+					<span class="hl1">' . $query_readable . '</span>
 					<span><a href="/' . $doc->section . '/">(' . $doc->section . ')</a></span>
 				</h2>
 				<p>' . $doc->text . '</p>
