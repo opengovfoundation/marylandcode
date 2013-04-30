@@ -852,3 +852,19 @@ footer {
 		display:block;
 		text-decoration: none;
 	}
+	
+/** Pagination **/
+#navigation{
+	border-bottom:1px solid black;
+	width:50%;
+}
+#pager li{
+	display:inline-block;
+}
+#pager li:after{
+	content:"|";
+	margin:0 5px;
+}
+#pager li:last-child:after{
+	content:"";
+}

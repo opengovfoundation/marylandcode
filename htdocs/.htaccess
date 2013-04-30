@@ -9,7 +9,10 @@ RewriteBase /
 ### SAMPLE REWRITERULES ###
 
 # Requests for a specific section.
-RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9\.:]{1,10})/$ /law.php?section_number=$1-$2 [QSA]
+RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9A-Za-z\.:]{1,10})/$ /law.php?section_number=$1-$2 [QSA]
+
+RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9A-Za-z\.:]{1,10})-([0-9A-Za-z\.:]{1,10})/$ /law.php?section_number=$1-$2-$3 [QSA]
+RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9A-Za-z\.:]{1,10})-([0-9A-Za-z\.:]{1,10})-([0-9A-Za-z\.:]{1,10})/$ /law.php?section_number=$1-$2-$3-$4 [QSA]
 
 # Requests for a specific chapter.
 RewriteRule ^([0-9A-Za-z\.]{1,4})/([0-9a-z:\.]{1,8})/$ /structure.php?article_number=$1&section_number=$2 [QSA]
@@ -19,6 +22,9 @@ RewriteRule ^([0-9A-Za-z\.]{1,4})/$ /structure.php?article_number=$1 [QSA]
 
 # Requests for the about page.
 RewriteRule ^about/$ /about.php [QSA]
+
+#Searches
+RewriteRule ^search/$ /search.php [QSA]
 
 # Requests for the API key registration page.
 RewriteRule ^api-key/$ /api-key.php [QSA]

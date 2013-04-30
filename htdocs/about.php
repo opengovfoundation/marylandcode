@@ -21,7 +21,7 @@ require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
 $template = new Page;
 
 # Define some page elements.
-$template->field->browser_title = 'About Maryland Dedoded';
+$template->field->browser_title = 'About Maryland Decoded';
 $template->field->page_title = 'About';
 
 $body = '

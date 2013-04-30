@@ -47,6 +47,10 @@
 		</hgroup>
 		<nav id="main_navigation">
 			<div id="search">
+				<form action="/search/">
+					<input type="search" size="20" id="search-input" name="q" placeholder="Search Maryland Code"/>
+					<input type="submit" value="Search"/>
+				</form>
 			</div> <!-- // #search -->
 			<ul>
 				<li><a href="/" class="ir" id="home">Home</a></li>

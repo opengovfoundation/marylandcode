@@ -43,7 +43,8 @@ else
 	/*
 	 * Attempt to load the config file constants out of APC.
 	 */
-	$result = apc_load_constants('config');
+	//$result = apc_load_constants('config');
+	$result = false;
 	
 	/*
 	 * If this attempt did not work.
