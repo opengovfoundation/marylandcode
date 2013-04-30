@@ -8,7 +8,7 @@
 		
 	if(isset($_GET['p'])){
 		$page = $_GET['p'];
-		$start = $page * 10;
+		$start = ($page - 1) * 10;
 	}
 	else{
 		$start = 0;
@@ -33,7 +33,7 @@
 	$start_page = $page - 5 > 0 ? $page - 5 : 0;
 
 	if(isset($_GET['p'])){
-		$pager_prev_page = $page - 1 > 0 ? '&p=' . ($page - 1) : '';
+		$pager_prev_page = ($page - 1) > 1 ? '&p=' . ($page - 1) : '';
 		$pager_prev = '<a href="/search/?q=' . $query . $pager_prev_page . '" rel="prevstart" class="pager-prev">&lt;</a>';
 		if($page == $pages - 1){
 			$pager_next = '<span class="pager-disabled pager-next">&gt;</span>';
@@ -43,7 +43,7 @@
 	}else{
 		$pager_prev = '<span class="pager-disabled pager-prev">&lt;</span>';
 		if($pages > 1){
-			$pager_next = '<a href="/search/?q=' . $query . '&p=1" rel="next" class="pager-next">&gt;</a>';
+			$pager_next = '<a href="/search/?q=' . $query . '&p=2" rel="next" class="pager-next">&gt;</a>';
 		}else{
 			$pager_next = '<span class="pager-disabled pager-next">&gt;</span>';
 		}
@@ -62,10 +62,15 @@
 					<li>' . $pager_prev . '</li>';
 
 	for($i = $start_page; $i < $start_page + 10 && $i < $pages; $i++){
-		if($i == $page){
+		if($i == ($page - 1)){//Disable the current page link
 			$body .= '<li><span class="pager-disabled">' . ($i + 1) . '</span></li>';
-		}else{
-			$body .= '<li><a href="/search/?q=' . $query . '&p=' . $i . '" rel="prevstart">' . ($i + 1) . '</a></li>';
+		}
+		elseif($i == 0 && !isset($page)){//If this is the first page
+			$body .= '<li><span class="pager-disabled">' . ($i + 1) . '</span></li>';
+		}elseif($i == 0){//Don't append &p query for first page
+			$body .= '<li><a href="/search/?q=' . $query . '" rel="prevstart">' . ($i + 1) . '</a></li>';
+		}else{//Create other page links
+			$body .= '<li><a href="/search/?q=' . $query . '&p=' . ($i + 1) . '" rel="prevstart">' . ($i + 1) . '</a></li>';
 		}
 	}		
 	
@@ -73,7 +78,7 @@
 					
 	$body .=	'</ul>
 				<div id="pager-header">
-					<span id="pagination">1-10 of ' . $response->numFound . '</span>
+					<span id="pagination">' . ($start + 1) . '-' . ($start + 10) . ' of ' . $response->numFound . '</span>
 					for
 					<strong>
 						<span id="curr_search">' . $query_readable . '</span>

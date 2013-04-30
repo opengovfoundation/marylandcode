@@ -96,7 +96,9 @@ $template->field->javascript_files = '
 	<script src="/js/jquery.color-2.1.1.min.js"></script>
 	<script src="/js/mousetrap.min.js"></script>
 	<script src="/js/jquery.zclip.min.js"></script>
-	<script src="/js/functions.js"></script>';
+	<script src="/js/functions.js"></script>
+	<script src="/js/disqus.embed.js"></script>
+';
 
 /*
  * Define the browser title.
@@ -182,7 +184,6 @@ if (isset($law->history_text))
  * 	Add Disqus comments
  */
 $body .= '<div id="disqus_thread"></div>';
-$body .= '<script type="text/javascript" src="/js/disqus.embed.js"></script>';
 $body .= '<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>';
 $body .= '<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>';
 
