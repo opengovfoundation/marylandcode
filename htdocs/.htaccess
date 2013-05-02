@@ -23,6 +23,9 @@ RewriteRule ^([0-9A-Za-z\.]{1,4})/$ /structure.php?article_number=$1 [QSA]
 # Requests for the about page.
 RewriteRule ^about/$ /about.php [QSA]
 
+#Requests for the projects page.
+RewriteRule ^projects/$ /projects.php [QSA]
+
 #Searches
 RewriteRule ^search/$ /search.php [QSA]
 

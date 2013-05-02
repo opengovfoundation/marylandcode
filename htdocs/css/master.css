@@ -364,8 +364,10 @@ header nav#main_navigation ul li a {
 	text-decoration: none;
 }
 
+/*
 header nav#main_navigation ul li a#home  { background: transparent url('/images/templates/default/nav_home.png') top left no-repeat; height: 23px; width: 44px;}
 header nav#main_navigation ul li a#about { background: transparent url('/images/templates/default/nav_about.png') top left no-repeat; height: 23px; width: 52px;}
+*/
 
 header nav#main_navigation ul li.utility {
 	float: right;
@@ -373,6 +375,17 @@ header nav#main_navigation ul li.utility {
 	font-weight: normal;
 	text-transform: none;
 }
+
+#main_navigation .nav-item{
+	color:#efefef;
+	text-shadow:#1a1a1a 0px 1px 5px, #000 1px 0 2px;
+	font-weight:100;
+	font-size:1.2em;
+	font-family:"Archivo Narrow", arial, helvetica, sans-serif;
+}
+	#main_navigation .nav-item:hover{
+		color:#aeaeae;
+	}
 
 
 div#search {

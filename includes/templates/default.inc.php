@@ -15,6 +15,7 @@
 	<link rel="stylesheet" href="/css/print.css" type="text/css" media="print">
 	<link rel="stylesheet" href="/css/jquery.qtip.css" type="text/css" media="screen">
 	<link rel="home" title="Home" href="/" />
+	<link href='http://fonts.googleapis.com/css?family=Archivo+Narrow' rel='stylesheet' type='text/css'>
 	{{link_rel}}
 	{{css}}
 	{{inline_css}}
@@ -43,7 +44,7 @@
 	</div>
 	<header id="masthead">
 		<hgroup>
-			<h1><a href="/">The State Decoded</a></h1>
+			<h1><a href="/">Marylandcode.org</a></h1>
 		</hgroup>
 		<nav id="main_navigation">
 			<div id="search">
@@ -53,8 +54,10 @@
 				</form>
 			</div> <!-- // #search -->
 			<ul>
-				<li><a href="/" class="ir" id="home">Home</a></li>
-				<li><a href="/about/" class="ir" id="about">About</a></li>
+				<li><a href="/" class="nav-item" id="home">Home</a></li>
+				<li><a href="/about/" class="nav-item" id="about">About</a></li>
+				<li><a href="/api-key" class="nav-item" id="api-key">API</a></li>
+				<li><a href="/projects" class="nav-item" id="projects">Projects</a></li>
 			</ul>
 		</nav> <!-- // #main_navigation -->
 	</header> <!-- // #masthead -->
