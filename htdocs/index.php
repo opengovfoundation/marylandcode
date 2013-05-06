@@ -39,6 +39,8 @@ $body = '';
  */
 $sidebar = '
 <section>
+<p>MarylandCode.org provides the Maryland Code of Public Laws on one friendly website.  No copyright restrictions, a modern API and all of the niceties of modern website design. It’s like the expensive software lawyers use, but free and wonderful.</p>
+<p>This is a public beta test of MarylandCode.org, which is to say that everything is under development. Things may be funny looking, broken, and generally under development right now.</p>
 <p>Powered by <a href="http://www.statedecoded.com/">The State Decoded</a>.</p>
 </section>
 ';

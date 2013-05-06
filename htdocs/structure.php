@@ -116,6 +116,13 @@ if ($laws !== false)
 $template->field->body = $body;
 unset($body);
 
+$sidebar = '
+<section>
+<p><strong>Suggest Human-Friendly Section Titles</strong></p>
+<p>Each section of the Maryland Code needs a human-friendly title.  And we\'re looking for friendly humans like you to help create them.  So click on each section to the left, read the law, and click the button at the top of each page to suggest a human-friendly section title.  Thank you!</p>
+</section>
+';
+
 # Put the shorthand $sidebar variable into its proper place.
 if (!empty($sidebar))
 {
