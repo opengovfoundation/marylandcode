@@ -28,6 +28,17 @@ $template->field->javascript_files = '<script src="/js/disqus.embed.js"></script
 
 $body = '
 <p>We\'re opening up the Maryland Code of Public Laws to everyone as human readable and machine consumable.  What\'s next?  Share your ideas for awesome Maryland Code projects or apps in the comments below.  As your ideas become realities, we\'ll post the projects - and updates about this website\'s growth - right here.</p>
+<p>Here\'s what we have lined up already: </p>
+<ul id="future-projects">
+	<li>
+		Cross-Linking Related Laws <span class="small-status">(Posted May 2013 - <strong>in progress</strong>)</span>
+		<p>Laws that reference other laws will include links to the referenced laws</p>
+	</li>
+	<li>
+		Creating Section Titles <span class="small-status">(Posted May 2013 - <strong>in progress</strong>)</span>
+		<p>Create relevant section titles from user-submitted suggestions</p>
+	</li>
+</ul>
 ';
 
 

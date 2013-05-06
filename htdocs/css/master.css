@@ -897,3 +897,15 @@ article#law section a.section-permalink{
 		visibility:visible;
 	}
 
+/** Project Page list **/
+#future-projects{
+	position:relative;
+	margin-bottom:50px;
+}
+	#future-projects li{
+		list-style-type:disc;
+		margin-left:2em;
+	}
+	.small-status{
+		font-size:.9em;
+	}
