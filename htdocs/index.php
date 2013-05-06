@@ -45,7 +45,6 @@ $sidebar = '
 </section>
 ';
 
-
 /*
  * Get an object containing a listing of the fundamental units of the code.
  */
@@ -55,7 +54,7 @@ $structures = $struct->list_children();
 $body .= '
 	<article>
 	<h1>'.ucwords($structures->{0}->label).'s of the '.LAWS_NAME.'</h1>
-	<p>These are the fundamental units of the '.LAWS_NAME.'.</p>';
+	<p>These are the fundamental units of the '.LAWS_NAME.'.  There are 79 articles, roughly divided up by topic.  Each article is divided into sections, 31,649 in total.</p>';
 if ( !empty($structures) )
 {
 	$body .= '<dl class="level-1">';
