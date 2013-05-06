@@ -473,7 +473,7 @@ section#page h3 {
 }
 
 /* Provide  multiple levels of indentation for nested code sections.*/
-section.indent, section.indent-1 {margin-left: 2em;}
+section.indent, section.indent-1 {margin-left: 2em; margin-bottom:1em;}
 	section.indent-2 {margin-left: 4em;}
 		section.indent-3 {margin-left: 6em;}
 			section.indent-4 {margin-left: 8em;}
@@ -483,7 +483,7 @@ article#law { /* The main text of the law */
 	line-height: 1.6em;
 }
 
-article#law p {margin: 1em 0;}
+article#law p {margin: 1em 0; display:inline;}
 
 article#law p a.law {
 	color: #669;
@@ -884,3 +884,16 @@ footer {
 #pager li:last-child:after{
 	content:"";
 }
+
+/** Section Permalinks **/
+article#law section a.section-permalink{
+	text-decoration:none;
+	visibility:hidden;
+	font-family:Helvetica, Arial, sans-serif;
+	font-size:.8em;
+	color:#66c;
+}
+	article#law section:hover a.section-permalink{
+		visibility:visible;
+	}
+
