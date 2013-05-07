@@ -915,3 +915,14 @@ article#law section a.section-permalink{
 	.small-status{
 		font-size:.9em;
 	}
+
+/** Suggest a Title **/
+.suggest-title{
+	font-size:.5em;
+	cursor:pointer;
+}
+	.suggest-text{
+		text-decoration:underline;
+	}
+
+

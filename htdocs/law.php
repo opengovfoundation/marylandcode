@@ -97,6 +97,7 @@ $template->field->javascript_files = '
 	<script src="/js/mousetrap.min.js"></script>
 	<script src="/js/jquery.zclip.min.js"></script>
 	<script src="/js/functions.js"></script>
+	<script src="/js/law.js"></script>
 	<script src="/js/disqus.embed.js"></script>
 ';
 
@@ -109,6 +110,11 @@ $template->field->browser_title = $law->catch_line.' ('.SECTION_SYMBOL.' '.$law-
  * Define the page title.
  */
 $template->field->page_title = SECTION_SYMBOL.'&nbsp;'.$law->section_number.' '.$law->catch_line;
+	//Add Suggest-a-Title link to the template
+	$template->field->page_title .= '
+	<p id="suggest-title" class="suggest-title"><span class="suggest-text">Suggest a better law title &nbsp;</span><span id="suggest-arrow" class="suggest-arrow">&nbsp;&darr;</span><input type="hidden" id="disqus-loc" value="law"/></p>
+	';
+
 
 /*
  * If we have Dublin Core metadata, then display it.
@@ -183,9 +189,11 @@ if (isset($law->history_text))
 /*
  * 	Add Disqus comments
  */
+$body .= '<section id="disqus_wrapper">';
 $body .= '<div id="disqus_thread"></div>';
 $body .= '<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>';
 $body .= '<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>';
+$body .= '</section>';
 
 /*
  * Indicate the conclusion of the "section" article, which is the container for the text of a
