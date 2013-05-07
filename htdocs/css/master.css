@@ -73,6 +73,12 @@ input,
 textarea { 
 	font: 99% sans-serif; 
 }
+blockquote{
+	margin-left:2em;
+}
+ul > li{
+	margin-left:1.5em;
+}
 
 /* normalize monospace sizing 
  * en.wikipedia.org/wiki/MediaWiki_talk:Common.css/Archive_11#Teletype_style_fix_for_Chrome

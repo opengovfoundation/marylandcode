@@ -26,6 +26,10 @@ RewriteRule ^about/$ /about.php [QSA]
 #Requests for the projects page.
 RewriteRule ^projects/$ /projects.php [QSA]
 
+#Requests for the faq and infographic pages
+RewriteRule ^faq/$ /faq.php [QSA]
+RewriteRule ^intro$ /intro.php [QSA]
+
 #Searches
 RewriteRule ^search/$ /search.php [QSA]
 
