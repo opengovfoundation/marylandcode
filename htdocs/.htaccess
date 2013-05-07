@@ -28,7 +28,7 @@ RewriteRule ^projects/$ /projects.php [QSA]
 
 #Requests for the faq and infographic pages
 RewriteRule ^faq/$ /faq.php [QSA]
-RewriteRule ^intro$ /intro.php [QSA]
+RewriteRule ^infographic/$ /infographic.php [QSA]
 
 #Searches
 RewriteRule ^search/$ /search.php [QSA]
