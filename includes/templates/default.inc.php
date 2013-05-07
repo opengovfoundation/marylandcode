@@ -56,7 +56,7 @@
 			<ul>
 				<li><a href="/" class="nav-item" id="home">Home</a></li>
 				<li><a href="/about/" class="nav-item" id="about">About</a></li>
-				<li><a href="/faq/">FAQ</a></li>
+				<li><a href="/faq/" class="nav-item" id="faq">FAQ</a></li>
 				<li><a href="/api-key" class="nav-item" id="api-key">API</a></li>
 				<li><a href="/projects" class="nav-item" id="projects">Projects</a></li>
 			</ul>
