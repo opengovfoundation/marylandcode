@@ -59,6 +59,7 @@
 				<li><a href="/faq/" class="nav-item" id="faq">FAQ</a></li>
 				<li><a href="/api-key" class="nav-item" id="api-key">API</a></li>
 				<li><a href="/projects" class="nav-item" id="projects">Projects</a></li>
+				<li><a href="/infographic/" class="nav-item" id="infographic">Infographic</a></li>
 			</ul>
 		</nav> <!-- // #main_navigation -->
 	</header> <!-- // #masthead -->
