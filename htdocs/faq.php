@@ -21,11 +21,10 @@ require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
 $template = new Page;
 
 # Define some page elements.
-$template->field->browser_title = 'About Maryland Decoded';
-$template->field->page_title = 'About';
+$template->field->browser_title = 'FAQ';
+$template->field->page_title = 'Geek-Speak Glossary &amp; FAQ';
 
 $body = '
-<h2>Geek-Speak Glossary &amp; FAQ</h2>
 <p>Maryland has a rich American history of democratic participation and citizen-led self-governance.  Open government is simply the next evolution.  Open, accessible, human-friendly and restriction-free information like MarylandCode.org makes it all possible.</p>
 <h2>What the Heck Are “Open Government” and the OpenGov Foundation?</h2>
 <p>We\'re a scrappy little non-profit, non-partisan outfit working to open government.  That means making it easier for people to access and use as much government information as possible.  We believe innovative technology can help deliver a government that listens, works for its citizen-users, and learns from them.  We are dedicated to putting better data and better tools in more hands.  Our goal is to make or adapt those tools to be easy to use, efficient, scalable and free.  Democracy means everyone should have chance to be a hands-on contributor.</p>
