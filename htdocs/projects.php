@@ -39,7 +39,7 @@ $body = '
 		<p>Create relevant section titles from user-submitted suggestions</p>
 	</li>
 	<li>
-		Add keyword cloud to sidebar for prominently used keywords
+		Add keyword cloud to sidebar for prominently used keywords <span class="small-status">(Posted May 2013 - <strong>in progress</strong>)</span>
 		<p>The cloud will link frequently used keywords to a search of the keyword</p>
 	</li>
 </ul>
