@@ -17,8 +17,8 @@
 		//set default options  
 		var defaults = {
 			url: 'http://marylandcode.org/contactable.1.3/mail.php',
-			name: 'Maryland Decoded',
-			email: 'sayhello@opengovfoundation.org',
+			name: 'Name',
+			email: 'Email',
 			message : 'Message',
 			subject : 'A contactable message',
 			submit : 'SEND',
