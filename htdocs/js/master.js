@@ -113,7 +113,7 @@ $(document).ready(function(){
 		subject: 'Feedback Message'
 	});
 	
-	if(typeof $.cookie('entrance_cookie') == 'undefined' && 0){
+	if(typeof $.cookie('entrance_cookie') == 'undefined'){
 		$('#lightbox-bg').animate({"opacity": ".70"}, 500);
 		$('#lightbox').animate({"opacity": "1.0"}, 500);
 		$('#lightbox-bg, #lightbox').css('display', 'block');
