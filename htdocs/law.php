@@ -326,6 +326,26 @@ if (isset($law->official_url))
 }
 $sidebar .= ' on the official '.LAWS_NAME.' website</a>.
 			</section>';
+			
+/**
+ * 	Add Share section to sidebar
+ */
+
+$sidebar .= '
+<section id="share-law">
+	<h1>Share This Law</h1>
+	<!-- AddThis Button BEGIN -->
+	<div class="addthis_toolbox addthis_default_style ">
+	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+	<a class="addthis_button_tweet"></a>
+	<a class="addthis_button_pinterest_pinit"></a>
+	<a class="addthis_counter addthis_pill_style"></a>
+	</div>
+	<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-518a87af289b1ef3"></script>
+	<!-- AddThis Button END -->
+</section>
+';
 
 /*
  * Put the shorthand $body variable into its proper place.

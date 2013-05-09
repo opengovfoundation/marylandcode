@@ -118,8 +118,21 @@ unset($body);
 
 $sidebar = '
 <section>
-<p><strong>Suggest Human-Friendly Section Titles</strong></p>
+<h1>Suggest Human-Friendly Section Titles</h1>
 <p>Each section of the Maryland Code needs a human-friendly title.  And we\'re looking for friendly humans like you to help create them.  So click on each section to the left, read the law, and click the button at the top of each page to suggest a human-friendly section title.  Thank you!</p>
+</section>
+<section>
+<h1>Tell Your Friends</h1>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-518a87af289b1ef3"></script>
+<!-- AddThis Button END -->
 </section>
 ';
 

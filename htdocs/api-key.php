@@ -63,8 +63,9 @@ $api = new API();
 /*
  * Define the sidebar.
  */
-$sidebar = '<h1>Nota Bene</h1>
+$sidebar = '
 	<section>
+		<h1>Nota Bene</h1>
 		<p>'.SITE_TITLE.' is not your database. Cache accordingly.</p>
 		
 		<p>Consider whether <a href="/downloads/">a bulk download</a> might be more appropriate
@@ -155,11 +156,24 @@ else
 $template->field->body = $body;
 unset($body);
 
-/*
- * Put the shorthand $sidebar variable into its proper place.
- */
-$template->field->sidebar = $sidebar;
-unset($sidebar);
+/**
+ * 	Add social share to sidebar
+ */	
+$sidebar .= '
+<section>
+<h1>Tell Your Friends</h1>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style ">
+<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+<a class="addthis_button_tweet"></a>
+<a class="addthis_button_pinterest_pinit"></a>
+<a class="addthis_counter addthis_pill_style"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-518a87af289b1ef3"></script>
+<!-- AddThis Button END -->
+</section>
+';
 
 /*
  * Put the shorthand $sidebar variable into its proper place.
