@@ -161,6 +161,12 @@ unset($body);
  */	
 $sidebar .= '
 <section>
+<h1>Other Projects</h1>
+<a href="https://github.com/opengovfoundation/MD-code-xml">Download the raw XML files on Github</a>
+<br />
+<a href="https://github.com/opengovfoundation/">Follow the OpenGov Foundation on Github</a>
+</section>
+<section>
 <h1>Tell Your Friends</h1>
 <!-- AddThis Button BEGIN -->
 <div class="addthis_toolbox addthis_default_style ">
