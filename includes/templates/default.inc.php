@@ -86,6 +86,14 @@
     	
     	<section id="sidebar">
 		{{sidebar}}
+			<section>
+				<h1>Stay Updated</h1>
+				<label for="email">Email:</label>
+				<input id="signup-email" name="email" type="search" placeholder="Email"/>
+				<br />
+				<input id="stay-updated" type="button" value="Submit"/>
+				<div id="submit_response"></div>
+			</section>
 		</section>
 		
 		{{body}}
