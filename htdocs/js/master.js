@@ -90,16 +90,20 @@ function closeLightbox(){
 	$('#lightbox-bg').animate({"opacity": "0"}, 500, 'swing', function(){
 		$(this).css('display', 'none');
 	});
-	$('#lightbox').animate({"opacity": "0", "height": "0", "width": "0"}, 500, 'swing', function(){
+	$('#lightbox').animate({"opacity": "0"}, 500, 'swing', function(){
 		$(this).css('display', 'none');
 	});
-	
-	$.cookie('entrance_cookie', true, {path: '/'});
 }
 
 function validateEmail(email) { 
     var re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
     return re.test(email);
+}
+
+function openLightbox(){
+	$('#lightbox-bg').animate({"opacity": ".70"}, 500);
+	$('#lightbox').animate({"opacity": "1.0"}, 500);
+	$('#lightbox-bg, #lightbox').css('display', 'block');
 }
 		
 $(window).resize(function(){
@@ -119,13 +123,34 @@ $(document).ready(function(){
 	});
 	
 	if(typeof $.cookie('entrance_cookie') == 'undefined'){
-		$('#lightbox-bg').animate({"opacity": ".70"}, 500);
-		$('#lightbox').animate({"opacity": "1.0"}, 500);
-		$('#lightbox-bg, #lightbox').css('display', 'block');
-		$('#lightbox-bg').click(closeLightbox);
-		$('#lightbox-close').click(closeLightbox);
+		//Set lightbox content
+		$('#lightbox-content').html('<img src="/images/lightbox-ticket" alt="Enter Ticket" /><img src="/images/open-law-badge.png" alt="Open Law Badge" style="width:200px; margin-top:-75px;"/>');
+		
+		//Show lightbox
+		openLightbox();
+		
+		//Set close handlers
+		$('#lightbox-bg').click(function(){
+			closeLightbox();
+			$.cookie('entrance_cookie', true, {path: '/'});
+		});
+		$('#lightbox-close').click(function(){
+			closeLightbox();
+			$.cookie('entrance_cookie', true, {path: '/'});
+		});
+		
+		//Center lightbox
 		center_box();
 	}
+	
+	//Share data button
+	$('#get_yours').click(function(){
+		$('#lightbox-content').html('<h1>Want your own State Decoded?</h1><p>All city, state, and federal laws should be available to read, publish, and use how you see fit.  If you want help with your state or city laws, <a href="mailto:sayhello@opengovfoundation.org">send us an email</a> and let us know where we should be heading next.</p>');
+		$('#lightbox').addClass('no-bg');
+		openLightbox();
+		$('#lightbox-bg').click(closeLightbox);
+		$('#lightbox-close').click(closeLightbox);
+	});
 
 	$('#stay-updated').click(function(){
 		var email = $('#signup-email').val();

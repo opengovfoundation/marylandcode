@@ -43,10 +43,7 @@
 	<div id="lightbox-bg"></div>
 	<div id="lightbox">
 		<div id="lightbox-close">&times;</div>
-		<div id="lightbox-content">
-			<img src="/images/lightbox-ticket" alt="Enter Ticket" />
-			<img src="/images/open-law-badge.png" alt="Open Law Badge" style="width:200px; margin-top:-75px;"/>
-		</div>
+		<div id="lightbox-content"></div>
 	</div>
 	<div id="corner-banner">
 		<span><a href="/about/">Beta</a></span>

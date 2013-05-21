@@ -44,6 +44,10 @@ $sidebar = '
 <p>This is a public beta test of MarylandCode.org, which is to say that everything is under development. Things may be funny looking, broken, and generally under development right now.</p>
 <p>Powered by <a href="http://www.statedecoded.com/">The State Decoded</a>.</p>
 </section>
+<section>
+<h2 style="margin-top:1em;">Want your own State Decoded?</h2>
+<input id="get_yours" type="button" value="Click Here"/>
+</section>
 ';
 
 /*

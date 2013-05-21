@@ -955,6 +955,11 @@ article#law section a.section-permalink{
 	-moz-border-radius:20px;
 	-webkit-border-radius:20px;
 }
+	#lightbox.no-bg{
+		background-image:url("/images/templates/default/bkgnd-noise.png");
+		border: 15px solid rgb(220, 203, 175);
+		background-color:#f4eee5;
+	}
 	#lightbox-close{
 		cursor:pointer;
 		font-size:3em;
@@ -971,6 +976,16 @@ article#law section a.section-permalink{
 	#lightbox-content img{
 		display:block;
 		margin:0 auto;
+	}
+	#lightbox-content p{
+		max-width:600px;
+	}
+	#lightbox-content h1{
+		font-size:2em;
+		margin-top:100px;
+		margin-bottom:50px;
+		text-align:center;
+		font-weight:bold;
 	}
 
 
