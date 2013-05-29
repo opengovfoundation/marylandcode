@@ -145,7 +145,7 @@ $(document).ready(function(){
 	
 	//Share data button
 	$('#get_yours').click(function(){
-		$('#lightbox-content').html('<h1>Want your own State Decoded?</h1><p>All city, state, and federal laws should be available to read, publish, and use how you see fit.  If you want help with your state or city laws, <a href="mailto:sayhello@opengovfoundation.org">send us an email</a> and let us know where we should be heading next.</p>');
+		$('#lightbox-content').html('<h1>Let\'s Open the Law in Your Home Town</h1><p style="text-align:center;">Click <a href="mailto:sayhello@opengovfoundation.org">here</a> to tell us what city or state laws we should open next.</p>');
 		$('#lightbox').addClass('no-bg');
 		openLightbox();
 		$('#lightbox-bg').click(closeLightbox);

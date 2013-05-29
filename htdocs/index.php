@@ -45,7 +45,7 @@ $sidebar = '
 <p>Powered by <a href="http://www.statedecoded.com/">The State Decoded</a>.</p>
 </section>
 <section>
-<h2 style="margin-top:1em;">Want your own State Decoded?</h2>
+<h2 style="margin-top:1em;">Want Your City or State Law Open?</h2>
 <input id="get_yours" type="button" value="Click Here"/>
 </section>
 ';
