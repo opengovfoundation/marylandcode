@@ -101,20 +101,19 @@ function validateEmail(email) {
 }
 
 function openLightbox(){
+	
 	$('#lightbox-bg').animate({"opacity": ".70"}, 500);
 	$('#lightbox').animate({"opacity": "1.0"}, 500);
 	$('#lightbox-bg, #lightbox').css('display', 'block');
+	
+	$(window).resize(function(){
+		center_box();
+	});
+
+	$(window).scroll(function(){
+		center_box();
+	});
 }
-		
-$(window).resize(function(){
-	center_box();
-});
-
-$(window).scroll(function(){
-	center_box();
-});
-
-
 
 /** Lightbox **/
 $(document).ready(function(){
@@ -122,7 +121,7 @@ $(document).ready(function(){
 		subject: 'Feedback Message'
 	});
 	
-	if(typeof $.cookie('entrance_cookie') == 'undefined'){
+	if(typeof $.cookie('entrance_cookie') == 'undefined' && $(window).width() > 690){
 		//Set lightbox content
 		$('#lightbox-content').html('<img src="/images/lightbox-ticket" alt="Enter Ticket" /><img src="/images/open-law-badge.png" alt="Open Law Badge" style="width:200px; margin-top:-75px;"/>');
 		
