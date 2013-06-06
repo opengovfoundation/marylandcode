@@ -8,6 +8,9 @@ RewriteBase /
 
 ### SAMPLE REWRITERULES ###
 
+#Searches
+RewriteRule ^term/(.*)/$ /search.php/?q=$1 [QSA]
+
 # Requests for a specific section.
 RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9A-Za-z\.:]{1,10})/$ /law.php?section_number=$1-$2 [QSA]
 
@@ -29,10 +32,6 @@ RewriteRule ^projects/$ /projects.php [QSA]
 #Requests for the faq and infographic pages
 RewriteRule ^faq/$ /faq.php [QSA]
 RewriteRule ^infographic/$ /infographic.php [QSA]
-
-#Searches
-#RewriteRule ^search/$ /search.php [QSA]
-RewriteRule ^term/(.*)$ /search.php?q=$1
 
 # Requests for the API key registration page.
 RewriteRule ^api-key/$ /api-key.php [QSA]
