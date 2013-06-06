@@ -147,6 +147,24 @@ $(document).ready(function(){
 	// 		checkNav();
 	// 	});
 	
+	/** Build search url as a permalink **/
+	$('form:first').submit(function(){
+		//Grab the search form value
+		var searchTerm = $(this).children('input[type="search"]').val();
+		
+		//Build relative permalink
+		var url = '/term/' + searchTerm.replace(' ', '-') + '/';
+		
+		//Build complete url
+		url = window.location.origin + url;
+		
+		//Redirect
+		window.location.href = url;
+		
+		//Cancel default submission
+		return false;
+	});
+	
 	if(typeof $.cookie('entrance_cookie') == 'undefined' && $(window).width() > 690){
 		//Set lightbox content
 		$('#lightbox-content').html('<img src="/images/lightbox-ticket" alt="Enter Ticket" /><img src="/images/open-law-badge.png" alt="Open Law Badge" style="width:200px; margin-top:-75px;"/>');

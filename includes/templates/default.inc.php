@@ -62,7 +62,7 @@
 				<li><a href="/projects" class="nav-item" id="projects">Projects</a></li>
 				<li><a href="/infographic/" class="nav-item" id="infographic">What is this?</a></li>
 				<li class="search">
-					<form action="/search/">
+					<form id="search-form" action="/search/">
 						<input type="search" size="20" id="search-input" name="q" placeholder="Search Maryland Code"/>
 						<input type="submit" value="Search"/>
 					</form>
