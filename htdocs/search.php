@@ -3,7 +3,8 @@
 
 	require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
 
-	$query_readable = $_GET['q'];
+	
+	$query_readable = str_replace('-', ' ', $_GET['q']);
 	$query = urlencode($query_readable);
 		
 	if(isset($_GET['p'])){
@@ -52,8 +53,8 @@
 	
 	
 	$template = new Page;
-	$template->field->browser_title = 'Search Maryland Decoded';
-	$template->field->page_title = 'Search';
+	$template->field->browser_title = ucwords($query_readable) . ' Laws';
+	$template->field->page_title = ucwords($query_readable) . ' Laws';
 	
 	$body = '
 		<div id="result">

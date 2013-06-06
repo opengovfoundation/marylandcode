@@ -31,7 +31,8 @@ RewriteRule ^faq/$ /faq.php [QSA]
 RewriteRule ^infographic/$ /infographic.php [QSA]
 
 #Searches
-RewriteRule ^search/$ /search.php [QSA]
+#RewriteRule ^search/$ /search.php [QSA]
+RewriteRule ^term/(.*)$ /search.php?q=$1
 
 # Requests for the API key registration page.
 RewriteRule ^api-key/$ /api-key.php [QSA]
