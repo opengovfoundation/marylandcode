@@ -53,23 +53,24 @@
 			<h1><a href="/">Marylandcode.org</a></h1>
 		</hgroup>
 		<nav id="main_navigation">
-			<div id="search">
-				<form action="/search/">
-					<input type="search" size="20" id="search-input" name="q" placeholder="Search Maryland Code"/>
-					<input type="submit" value="Search"/>
-				</form>
-			</div> <!-- // #search -->
-			<ul>
+			<ul class="full-nav">
+				<!-- <li><a href="#" class="expand-nav">Menu</a></li> -->
 				<li><a href="/" class="nav-item" id="home">Home</a></li>
 				<li><a href="/about/" class="nav-item" id="about">About</a></li>
 				<li><a href="/faq/" class="nav-item" id="faq">FAQ</a></li>
 				<li><a href="/api-key" class="nav-item" id="api-key">API</a></li>
 				<li><a href="/projects" class="nav-item" id="projects">Projects</a></li>
 				<li><a href="/infographic/" class="nav-item" id="infographic">What is this?</a></li>
+				<li class="search">
+					<form action="/search/">
+						<input type="search" size="20" id="search-input" name="q" placeholder="Search Maryland Code"/>
+						<input type="submit" value="Search"/>
+					</form>
+				</li>
 			</ul>
 		</nav> <!-- // #main_navigation -->
 	</header> <!-- // #masthead -->
-	<div id="contactable"></div>
+	<div id="contactable" class="screen-only"></div>
 	<section id="page">
 		<nav id="breadcrumbs">
 			{{breadcrumbs}}
@@ -81,7 +82,7 @@
 
 		<h1>{{page_title}}</h1>
     	
-    	<section id="sidebar">
+    	<section id="sidebar" class="screen-only">
 		{{sidebar}}
 			<section>
 				<h1>Stay Updated</h1>

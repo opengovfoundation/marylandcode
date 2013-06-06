@@ -115,11 +115,37 @@ function openLightbox(){
 	});
 }
 
+function isOverflowing(element){
+    element.wrapInner('<div />'); // wrap inner contents
+    var hidden = element.height() < element.children('div').height();
+
+    element.children('div').replaceWith( element.children('div').html() ); //unwrap
+
+    return hidden;
+}
+
+function checkNav(){
+	$('li.search').css('float', 'none');
+	if(isOverflowing($('#main_navigation'))){
+		$('#main_navigation').addClass('contracted');
+	}
+	else{
+		$('#main_navigation').removeClass('contracted');
+	}
+	$('li.search').css('float', 'right');
+}
+
 /** Lightbox **/
 $(document).ready(function(){
 	$('#contactable').contactable({
 		subject: 'Feedback Message'
 	});
+	
+	// checkNav();
+	// 	
+	// 	$(window).resize(function(){
+	// 		checkNav();
+	// 	});
 	
 	if(typeof $.cookie('entrance_cookie') == 'undefined' && $(window).width() > 690){
 		//Set lightbox content

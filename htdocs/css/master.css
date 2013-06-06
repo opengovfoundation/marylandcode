@@ -47,11 +47,13 @@ html {
 	-webkit-text-size-adjust: 100%; 
 	-ms-text-size-adjust: 100%;
 	position:relative;
+	overflow-x:hidden;
 }
 
 body {
 	margin: 0;
 	line-height: 1.636em;
+	overflow-x:hidden;
 }
 
 /* #444 looks better than black: twitter.com/H_FJ/statuses/11800719859 */ 
@@ -187,7 +189,6 @@ Non-semantic helper classes */
 * html .clearfix { height: 1%; } /* Hides from IE-mac \*/
 .clearfix { display: block; }
 
-
 /* 
 ###############################################################################
 END RESET/STANDARIZED STUFF, START INTERNAL STYLES */
@@ -198,13 +199,13 @@ html {
 
 body {
 	background-color: #fff;
-	background-image: url("/images/templates/default/bkgnd-header.png"), url("/images/templates/default/bkgnd-noise.png");
-	background-repeat: repeat-x, repeat;
+	background-image: url("/images/templates/default/bkgnd-noise.png");
+	background-repeat: repeat;
 	background-position: top left, top left;
 	font-family: Georgia, "Times New Roman", serif; /*"Hoefler Text", Baskerville, Garamond, "Palatino Linotype",*/
 	margin: 0;
 	min-width: 300px;
-	padding: 2.0em;
+	/* padding: 2.0em; */
 }
 
 abbr {
@@ -286,6 +287,7 @@ section#page {
 	min-width: 780px; /* keeps the page from collapsing entirely when sized down horizontally */
 	margin: 15px; /* Insets page 15 px from sides and header/footer, making total min width 810px */
 	overflow: hidden;
+	padding:2em;
 }
 
 
@@ -310,6 +312,7 @@ section#sidebar {
 
 header {
 	position: relative;
+	top:2em;
 }
 
 header hgroup {
@@ -347,14 +350,37 @@ header h2 {
 
 header nav#main_navigation {
 	margin-bottom: 24px;
-	position: absolute;
-	top: 75px;
-	width: 100%;
+	width:100%;
+	background: #606e72; /* Old browsers */
+	background: -moz-linear-gradient(top, #606e72 0%, #3e4648 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#606e72), color-stop(100%,#3e4648)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #606e72 0%,#3e4648 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #606e72 0%,#3e4648 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #606e72 0%,#3e4648 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #606e72 0%,#3e4648 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#606e72', endColorstr='#3e4648',GradientType=0 ); /* IE6-9 */
+	box-shadow:.1em .1em 1em black;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+	left:-2em;
+	padding:10px 0;
+	margin-top:2em;
+	overflow:hidden;
+	height:30px;
 }
 
 header nav#main_navigation ul {
 	list-style: none;
+	margin-left:1em;
 }
+
+/*header nav#main_navigation ul li:first-child{
+	display: none;
+}
+
+header nav#main_navigation.contracted ul li:first-child{
+	display:block;
+}*/
 
 header nav#main_navigation ul li {
 	list-style-type: none;
@@ -365,10 +391,18 @@ header nav#main_navigation ul li {
 	margin: 0 0.5em 0 0;
 	text-transform: uppercase;
 }
+	header nav#main_navigation ul li.search{
+		float:right;
+	}
 
 header nav#main_navigation ul li a {
 	padding: 0.5em; /* You want the padding on the anchor, so the whole thing is clickable */
 	text-decoration: none;
+}
+
+.search input[type="search"] {
+	width: 200px;
+	margin: 0;
 }
 
 /*
@@ -393,20 +427,6 @@ header nav#main_navigation ul li.utility {
 	#main_navigation .nav-item:hover{
 		color:#aeaeae;
 	}
-
-
-div#search {
-	float: right;
-	padding: 0;
-	margin-top: -2px;
-	text-align: right;
-	width: 33%;
-}
-
-div#search input[type="search"] {
-	width: 200px;
-	margin: 0;
-}
 
 section#user_actions {
 	float: right;
@@ -461,7 +481,7 @@ section#user_actions nav#user_functions ul li:first-child {
 	margin-left: 18px;
 }
 
-section#page {margin-top: 125px;}
+section#page {margin-top: 50px;}
 
 section#page h1, section#page h2, section#page h3 {
 	font-family: "Hoefler Text", Baskerville, Garamond, "Palatino Linotype", Georgia, "Times New Roman", serif;
@@ -804,8 +824,9 @@ footer {
 	font-size: 0.6875em;
 	line-height: 1.636em;
 	font-family: Verdana, Arial, sans-serif;
-	margin: 0 -2.95em -2.95em -2.95em; /* Higher because of font downsize */
+	/* margin: 0 -2.95em -2.95em -2.95em; /* Higher because of font downsize */
 	padding: 2em;
+	max-width:100%;
 }
 	footer img {
 	  float: right;
@@ -816,6 +837,7 @@ footer {
 # RESPONSIVE TYPESETTING
 ###############################################################################
 */
+.mobile-only{display:none;}
 
 @media screen and (max-width: 800px) {
 	/* Kills columns */
@@ -830,10 +852,14 @@ footer {
 	/* Kicks the size down on smaller windows e.g. iPhone */
 	body { font-size: 80%; }
 	article#law {width: 60%;}
+	.screen-only{display:none;}
+	.mobile-only{display:block;}
 }
 
 
-
+/* 
+###############################################################################
+MEDIA QUERIES AND RESPONSIVE CLASSES*/
 
 
 /* Beta Banner */
