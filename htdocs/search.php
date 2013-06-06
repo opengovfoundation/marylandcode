@@ -3,8 +3,18 @@
 
 	require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
 
+	/*
+	 * 	Redirect old search results
+	 */
+	if(preg_match('@search@', $_SERVER['REQUEST_URI'])){
+		$location = '/term/' . str_replace(' ', '-',$_GET['q']) . '/';  
+		echo $location;
+		header("HTTP/1.1 301 Moved Permanently");
+		header("Location: $location");
+	}
+	
 	$query = $_GET['q'];
-	$query_readable = str_replace('-', ' ', $query);
+	$query_readable = rtrim(str_replace('-', ' ', $query), '/');
 	
 		
 	if(isset($_GET['p'])){

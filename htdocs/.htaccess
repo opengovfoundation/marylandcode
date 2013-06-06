@@ -9,7 +9,7 @@ RewriteBase /
 ### SAMPLE REWRITERULES ###
 
 #Searches
-RewriteRule ^term/(.*)/$ /search.php/?q=$1 [QSA]
+RewriteRule ^term/(.*)/?$ /search.php/?q=$1 [QSA]
 
 # Requests for a specific section.
 RewriteRule ^([0-9A-Za-z\.]{1,4})-([0-9A-Za-z\.:]{1,10})/$ /law.php?section_number=$1-$2 [QSA]
