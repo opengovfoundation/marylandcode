@@ -1,6 +1,4 @@
 <?php
-	apc_clear_cache();
-
 	require $_SERVER['DOCUMENT_ROOT'].'/../includes/page-head.inc.php';
 
 	/*
