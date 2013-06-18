@@ -42,4 +42,7 @@ along with this stylesheet.  If not, see <http://www.gnu.org/licenses/>.
     .ui-tooltip-content   {  display: none }
     .ui-tooltip-tip       {  display: none }
     .dsq-brlink           {  display: none }
+	#contactable		  {  display: none }
+	#lightbox			  {  display: none }
+	#suggest-title		  {  display: none }
 }
