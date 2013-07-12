@@ -24,7 +24,7 @@
 	}	
 		
 	try{
-		$url = "http://localhost:8983/solr/statedecoded/select?q=$query&wt=json&start=$start";
+		$url = "http://localhost:8983/solr/marylandcode/select?q=$query&wt=json&start=$start";
 		$ch = curl_init($url);
 		curl_setopt($ch, CURLOPT_HEADER, 0);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
