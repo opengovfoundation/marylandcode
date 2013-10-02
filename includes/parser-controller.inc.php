@@ -86,7 +86,7 @@ class ParserController
 	 */
 	public function clear_db()
 	{
-		$tables = array('dictionary', 'laws', 'laws_references', 'text', 'laws_views', 'text_sections');
+		$tables = array('dictionary', 'laws', 'laws_references', 'text', 'laws_views', 'text_sections', 'structure');
 		foreach ($tables as $table)
 		{
 			$sql = 'TRUNCATE '.$table;
@@ -310,7 +310,7 @@ class ParserController
 			 * screen, along with instructions.
 			 */
 			$config_file = INCLUDE_PATH.'/config.inc.php';
-			
+
 			if (is_writable($config_file))
 			{
 				$config = file_get_contents($config_file);
@@ -478,7 +478,7 @@ class ParserController
 			$result =& $this->db->query($sql);
 			if ($result->numRows() > 0)
 			{
-			
+
 				/*
 				 * Retrieve the entire dictionary as a single object.
 				 */
@@ -506,7 +506,7 @@ class ParserController
 				{
 					$this->logger->message('Cannot open '.$filename.' to create a new ZIP file.', 10);
 				}
-				
+
 				else
 				{
 
@@ -519,7 +519,7 @@ class ParserController
 					 * Close out our ZIP file.
 					 */
 					$zip->close();
-					
+
 				}
 			}
 
@@ -530,7 +530,7 @@ class ParserController
 
 	public function clear_apc()
 	{
-	
+
 		/*
 		 * If APC exists on this server, clear everything in the user space. That consists of information
 		 * that the State Decoded has stored in APC, which is now suspect, as a result of having reloaded
