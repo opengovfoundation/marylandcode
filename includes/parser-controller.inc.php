@@ -140,6 +140,8 @@ class ParserController
 			)
 		);
 
+		$parser->pre_parse();
+
 		/*
 		 * Iterate through the files.
 		 */
@@ -151,6 +153,8 @@ class ParserController
 			$parser->parse();
 			$parser->store();
 		}
+
+		$parser->post_parse();
 
 		/*
 		 * Crosslink laws_references. This needs to be done after the time of the creation of these
@@ -544,5 +548,27 @@ class ParserController
 
 			$this->logger->message('Done', 5);
 		}
+	}
+
+	public function export_titles()
+	{
+		$parser = new Parser(
+			array(
+				/*
+				 * Tell the parser what the working directory
+				 * should be for the XML files.
+				 */
+
+				'directory' => WEB_ROOT . '/admin/data/',
+
+				/*
+				 * Set the database
+				 */
+
+				'db' => $this->db
+			)
+		);
+
+		$parser->export_titles();
 	}
 }

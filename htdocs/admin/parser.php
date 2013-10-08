@@ -2,7 +2,7 @@
 
 /**
  * The administrative parser page
- * 
+ *
  * PHP version 5
  *
  * @author		Waldo Jaquith <waldo at jaquith.org>
@@ -67,6 +67,10 @@ if (count($_POST) === 0)
 			<input type="submit" value="Parse" />
 		</form>
 		<form method="post" action="/admin/parser.php">
+			<input type="hidden" name="action" value="export_titles" />
+			<input type="submit" value="Export Titles" />
+		</form>
+		<form method="post" action="/admin/parser.php">
 			<input type="hidden" name="action" value="empty" />
 			<input type="submit" value="Empty the DB" />
 		</form>';
@@ -79,12 +83,12 @@ elseif ($_POST['action'] == 'empty')
 {
 
 	ob_start();
-	
+
 	$parser->clear_db();
-	
+
 	$body = ob_get_contents();
 	ob_end_clean();
-	
+
 }
 
 /*
@@ -94,19 +98,25 @@ elseif ($_POST['action'] == 'parse')
 {
 
 	ob_start();
-	
+
 	/*
 	 * Step through each parser method.
 	 */
 	$parser->parse();
-	$parser->write_api_key();
-	$parser->export();
-	$parser->clear_apc();
-	
+// 	$parser->write_api_key();
+// 	$parser->export();
+// 	$parser->clear_apc();
+
 	$body = ob_get_contents();
 	ob_end_clean();
 }
+elseif ($_POST['action'] == 'export_titles')
+{
+//	require_once INCLUDE_PATH . '/parser-controller.inc.php';
 
+	$parser->export_titles();
+	$body = 'Done';
+}
 
 /*
  * Put the shorthand $body variable into its proper place.
