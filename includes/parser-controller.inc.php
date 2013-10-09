@@ -130,7 +130,7 @@ class ParserController
 				 * should be for the XML files.
 				 */
 
-				'directory' => WEB_ROOT . '/admin/xml/',
+				'directory' => DATA_DIRECTORY,
 
 				/*
 				 * Set the database
@@ -559,7 +559,7 @@ class ParserController
 				 * should be for the XML files.
 				 */
 
-				'directory' => WEB_ROOT . '/admin/data/',
+				'directory' => DATA_DIRECTORY,
 
 				/*
 				 * Set the database
