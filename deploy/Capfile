@@ -1,0 +1,69 @@
+##
+# = Capfile
+#
+# This file loads all of the scripts used for deployment.
+#
+# Available environments are currently 'production' and 'staging'
+# You need to cd into the deploy directory for this to work - otherwise
+# you will receive an error that the task does not exist.
+# To work with a remote server, you need the proper credentials.  For SD
+# we are using passwordless Auth, so you'll need to setup your ssh config.
+#
+# == Usage
+#
+# To deploy a single site:
+#   +cap site:environment deploy+
+#
+# === Example:
+#   +cap building:staging deploy+
+#
+#
+# To setup the necessary repo structures on the remote server for a single site
+#    +cap site:environment deploy:setup+
+#
+# === Example:
+#   +cap building:staging deploy:setup+
+#
+#
+# To deploy all sites in a given environment (slightly different syntax):
+#    +cap general world:deploy ENV='environment'+
+#
+# === Example:
+#   +cap general world:deploy ENV='production'+
+#
+
+
+
+#
+# Load deploy capistrano recipe
+#
+load 'deploy'
+
+#
+# Configure libraries/recipes from Gemfile
+#
+
+# https://github.com/stjernstrom/capistrano_colors/README.rdoc
+require 'capistrano_colors'
+
+# https://github.com/railsware/capistrano-multiconfig/README.md
+require 'capistrano/multiconfig'
+
+# https://github.com/railsware/capistrano-uptodate/README.md
+require 'capistrano/uptodate'
+
+# https://github.com/railsware/capistrano-patch/README.md
+require 'capistrano/patch'
+
+# https://github.com/railsware/capistrano-calendar/README.md
+require 'capistrano/calendar'
+
+#
+# Load all custom recipes
+#
+Dir['recipes/**/*.rb'].each { |recipe| load(recipe) }
+
+# Load main configuration
+load 'config/deploy'
+
+# vim syntax=ruby
