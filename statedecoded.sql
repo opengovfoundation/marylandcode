@@ -136,7 +136,7 @@ CREATE TABLE IF NOT EXISTS `text` (
 CREATE TABLE IF NOT EXISTS `text_sections` (
   `id` int(10) unsigned NOT NULL auto_increment,
   `text_id` int(10) unsigned NOT NULL,
-  `identifier` varchar(3) collate utf8_bin NOT NULL,
+  `identifier` varchar(16) collate utf8_bin NOT NULL,
   `sequence` tinyint(3) unsigned NOT NULL,
   `date_created` datetime NOT NULL,
   `date_modified` timestamp NOT NULL default CURRENT_TIMESTAMP,
