@@ -198,7 +198,9 @@ class Parser
 
 		/* Transfer some data to our object. */
 		$this->code->catch_line = (string) $this->section->catch_line[0];
+
 		$this->code->section_number = (string) $this->section->section_number;
+		$this->code->section_number = str_replace("\xe2\x80\x93", '-', $this->code->section_number);
 		$this->code->order_by = (string) $this->section->order_by;
 		$this->code->history = (string)  $this->section->history;
 
