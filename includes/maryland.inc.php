@@ -331,6 +331,10 @@ class Parser
 		{
 			$this->depth = 1;
 		}
+		else
+		{
+			$this->depth++;
+		}
 
 		/*
 		 * Iterate through each subsection.
@@ -369,7 +373,6 @@ class Parser
 			 */
 			if (isset($subsection->section))
 			{
-				$this->depth++;
 				$this->recurse($subsection->section);
 			}
 
@@ -378,12 +381,12 @@ class Parser
 			 */
 			$this->prefix_hierarchy = array_slice($this->prefix_hierarchy, 0, ($this->depth));
 
-			/*
-			 * Reset the prefix depth back to its default of 1.
-			 */
-			$this->depth = 1;
-
 		}
+
+		/*
+		 * Reset the prefix depth back to its default of 1.
+		 */
+		$this->depth--;
 
 		return TRUE;
 
