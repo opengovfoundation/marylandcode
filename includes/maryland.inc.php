@@ -1526,7 +1526,7 @@ class Parser
 
 		$fp = fopen(DATA_DIRECTORY . 'title_spreadsheet.csv', 'w');
 
-		fputcsv($fp, array('Identifier', 'Type', 'Name'));
+		fputcsv($fp, array('Identifier', 'Type', 'URL', 'Name'));
 		foreach ($flat_structures as $fields) {
 			fputcsv($fp, $fields);
 		}
@@ -1536,7 +1536,9 @@ class Parser
 
 	public function get_structures($parent_id)
 	{
-		$query = 'SELECT id, name, identifier, label FROM structure ';
+		$query = 'SELECT id, name, identifier, label, structure_unified.* ';
+		$query .= 'FROM structure LEFT JOIN structure_unified ';
+		$query .= 'ON structure.id = structure_unified.s1_id ';
 		if(isset($parent_id))
 		{
 			$query .= 'WHERE parent_id = ' . $parent_id . ' ';
@@ -1555,6 +1557,15 @@ class Parser
 
 			while($structure = $result->fetchRow(MDB2_FETCHMODE_ASSOC))
 			{
+				$url_parts = array();
+				foreach ($structure as $field => $value)
+				{
+					if(preg_match('/^s([0-9]+)_identifier$/', $field, $matches))
+					{
+						$url_parts[(int) $matches[1]] = $value;
+					}
+				}
+				$structure['url'] = LIVE_SITE_URL . join('/', $url_parts) . '/';
 				$structure['children'] = $this->get_structures($structure['id']);
 				$structure['laws'] = $this->get_laws($structure['id']);
 
@@ -1567,6 +1578,9 @@ class Parser
 
 	public function get_laws($parent_id)
 	{
+// 		$query = 'SELECT id, catch_line, section, structure_unified.* ';
+// 		$query .= 'FROM laws LEFT JOIN structure_unified ';
+// 		$query .= 'ON laws.structure_id = structure_unified.s1_id ';
 		$query = 'SELECT id, catch_line, section FROM laws ';
 		$query .= 'WHERE structure_id = ' . $parent_id . ' ';
 		$query .= 'ORDER BY order_by, section';
@@ -1579,6 +1593,17 @@ class Parser
 
 			while($law = $result->fetchRow(MDB2_FETCHMODE_ASSOC))
 			{
+// 				$url_parts = array();
+// 				foreach ($law as $field => $value)
+// 				{
+// 					if(preg_match('/^s([0-9]+)_identifier/', $field, $matches) !== false)
+// 					{
+// 						$url_parts[(int) $matches[1]] = $value;
+// 					}
+// 				}
+// 				$law['url'] = LIVE_SITE_URL . join('/', $url_parts) . '/';
+				$law['url'] = LIVE_SITE_URL . $law['section'] . '/';
+
 				$laws[] = $law;
 			}
 
@@ -1590,7 +1615,12 @@ class Parser
 	{
 		foreach($structures as $structure)
 		{
-			$flat_structures[] = array($structure['identifier'], $structure['label'], $structure['name']);
+			if($structure['name'] == $structure['identifier'])
+			{
+				$structure['name'] = '';
+			}
+
+			$flat_structures[] = array($structure['identifier'], $structure['label'], $structure['url'], $structure['name']);
 
 			if($structure['children'])
 			{
@@ -1608,7 +1638,7 @@ class Parser
 	{
 		foreach($laws as $law)
 		{
-			$flat_structures[] = array($law['section'], 'section', $structure['catch_line']);
+			$flat_structures[] = array($law['section'], 'section', $law['url'], $law['catch_line']);
 		}
 		return $flat_structures;
 	}

@@ -123,6 +123,7 @@ elseif ($_POST['action'] == 'generate_title_spreadsheet')
 {
 	$parser->generate_title_spreadsheet();
 
+	header("Cache-Control: no-cache, must-revalidate");
 	header('Content-type: text/application');
 	header('Content-Disposition: attachment; filename=title_spreadsheet.csv');
 	readfile(DATA_DIRECTORY . 'title_spreadsheet.csv');

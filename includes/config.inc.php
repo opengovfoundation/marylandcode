@@ -35,7 +35,15 @@ set_include_path(get_include_path().PATH_SEPARATOR.INCLUDE_PATH);
  */
 define('WEB_ROOT', BASE_PATH . DIRECTORY_SEPARATOR . 'htdocs');
 
+/*
+ * Define data directory.
+ */
 define('DATA_DIRECTORY', WEB_ROOT . DIRECTORY_SEPARATOR . 'admin/data/');
+
+/*
+ * What's is the live url?
+ */
+define('LIVE_SITE_URL', 'http://marylandcode.org/');
 
 /*
  * The file in the /includes/ directory that contains functions custom to this installation.
