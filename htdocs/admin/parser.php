@@ -71,6 +71,10 @@ if (count($_POST) === 0)
 			<input type="submit" value="Export Titles" />
 		</form>
 		<form method="post" action="/admin/parser.php">
+			<input type="hidden" name="action" value="generate_title_spreadsheet" />
+			<input type="submit" value="Create Title Spreadsheet" />
+		</form>
+		<form method="post" action="/admin/parser.php">
 			<input type="hidden" name="action" value="empty" />
 			<input type="submit" value="Empty the DB" />
 		</form>';
@@ -112,10 +116,17 @@ elseif ($_POST['action'] == 'parse')
 }
 elseif ($_POST['action'] == 'export_titles')
 {
-//	require_once INCLUDE_PATH . '/parser-controller.inc.php';
-
 	$parser->export_titles();
 	$body = 'Done';
+}
+elseif ($_POST['action'] == 'generate_title_spreadsheet')
+{
+	$parser->generate_title_spreadsheet();
+
+	header('Content-type: text/application');
+	header('Content-Disposition: attachment; filename=title_spreadsheet.csv');
+	readfile(DATA_DIRECTORY . 'title_spreadsheet.csv');
+	exit();
 }
 
 /*

@@ -571,4 +571,26 @@ class ParserController
 
 		$parser->export_titles();
 	}
+
+	public function generate_title_spreadsheet()
+	{
+		$parser = new Parser(
+			array(
+				/*
+				 * Tell the parser what the working directory
+				 * should be for the XML files.
+				 */
+
+				'directory' => DATA_DIRECTORY,
+
+				/*
+				 * Set the database
+				 */
+
+				'db' => $this->db
+			)
+		);
+
+		$parser->generate_title_spreadsheet();
+	}
 }

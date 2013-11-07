@@ -1511,6 +1511,108 @@ class Parser
 
 	}
 
+	public function generate_title_spreadsheet()
+	{
+		/*
+		 * This is a bit obnoxious.
+		 * First, we need to get a nested version of the structures.
+		 */
+		$structures = $this->get_structures();
+
+		/*
+		 * But then we need to flatten and export it.
+		 */
+		$flat_structures = $this->export_structures($structures);
+
+		$fp = fopen(DATA_DIRECTORY . 'title_spreadsheet.csv', 'w');
+
+		fputcsv($fp, array('Identifier', 'Type', 'Name'));
+		foreach ($flat_structures as $fields) {
+			fputcsv($fp, $fields);
+		}
+
+		fclose($fp);
+	}
+
+	public function get_structures($parent_id)
+	{
+		$query = 'SELECT id, name, identifier, label FROM structure ';
+		if(isset($parent_id))
+		{
+			$query .= 'WHERE parent_id = ' . $parent_id . ' ';
+		}
+		else
+		{
+			$query .= 'WHERE parent_id IS NULL ';
+		}
+		$query .= 'ORDER BY order_by, identifier';
+
+		$result =& $this->db->query($query);
+
+		if(!PEAR::isError($result) && $result->numRows() > 0)
+		{
+			$structures = array();
+
+			while($structure = $result->fetchRow(MDB2_FETCHMODE_ASSOC))
+			{
+				$structure['children'] = $this->get_structures($structure['id']);
+				$structure['laws'] = $this->get_laws($structure['id']);
+
+				$structures[] = $structure;
+			}
+
+			return $structures;
+		}
+	}
+
+	public function get_laws($parent_id)
+	{
+		$query = 'SELECT id, catch_line, section FROM laws ';
+		$query .= 'WHERE structure_id = ' . $parent_id . ' ';
+		$query .= 'ORDER BY order_by, section';
+
+		$result =& $this->db->query($query);
+
+		if(!PEAR::isError($result) && $result->numRows() > 0)
+		{
+			$laws = array();
+
+			while($law = $result->fetchRow(MDB2_FETCHMODE_ASSOC))
+			{
+				$laws[] = $law;
+			}
+
+			return $laws;
+		}
+	}
+
+	public function export_structures($structures, $flat_structures = array())
+	{
+		foreach($structures as $structure)
+		{
+			$flat_structures[] = array($structure['identifier'], $structure['label'], $structure['name']);
+
+			if($structure['children'])
+			{
+				$flat_structures = $this->export_structures($structure['children'], $flat_structures);
+			}
+			if($structure['laws'])
+			{
+				$flat_structures = $this->export_laws($structure['laws'], $flat_structures);
+			}
+		}
+		return $flat_structures;
+	}
+
+	public function export_laws($laws, $flat_structures = array())
+	{
+		foreach($laws as $law)
+		{
+			$flat_structures[] = array($law['section'], 'section', $structure['catch_line']);
+		}
+		return $flat_structures;
+	}
+
 	public function export_data($data, $filename)
 	{
 		// We abstract this so we can change our storage medium later.
