@@ -5,10 +5,8 @@
  *
  * PHP version 5
  *
- * @author		Waldo Jaquith <waldo at jaquith.org>
- * @copyright	2010-2013 Waldo Jaquith
  * @license		http://www.gnu.org/licenses/gpl.html GPL 3
- * @version		0.7
+ * @version		0.8
  * @link		http://www.statedecoded.com/
  * @since		0.1
  *
@@ -22,12 +20,16 @@ set_include_path(get_include_path() . PATH_SEPARATOR . INCLUDE_PATH);
 /*
  * What is the title of the website?
  */
-define('SITE_TITLE', 'The State Decoded');
+define('SITE_TITLE', 'Maryland Decoded');
+/*
+ * What's is the live url?
+ */
+define('LIVE_SITE_URL', 'http://marylandcode.org/');
 
 /*
  * What is the name of the place that these laws govern?
  */
-define('PLACE_NAME', 'State');
+define('PLACE_NAME', 'Maryland');
 
 /*
  * What does this place call its laws?
@@ -48,12 +50,14 @@ define('WEB_ROOT', $_SERVER['DOCUMENT_ROOT']);
 /*
  * Define the location of the files to import.
  */
-define('IMPORT_DATA_DIR', WEB_ROOT . '/admin/import-data.limited/');
+define('IMPORT_DATA_DIR', WEB_ROOT . '/admin/xml/');
+
+define('DATA_DIRECTORY', WEB_ROOT . '/admin/downloads/');
 
 /*
  * The file in the /includes/ directory that contains functions custom to this installation.
  */
-define('CUSTOM_FUNCTIONS', 'class.State-sample.inc.php');
+define('CUSTOM_FUNCTIONS', 'class.Maryland.inc.php');
 
 /*
  * The directory in which templates are stored.
@@ -63,7 +67,7 @@ define('TEMPLATE_DIR', WEB_ROOT . '/themes/');
 /*
  * Which theme to use.
  */
-define('THEME_NAME', 'StateDecoded2013');
+define('THEME_NAME', 'MarylandCode2013');
 define('THEME_DIR', TEMPLATE_DIR . THEME_NAME . '/');
 define('THEME_WEB_PATH', '/themes/' . THEME_NAME . '/');
 
@@ -116,7 +120,7 @@ define('PDO_PASSWORD', 'PSCTB6wN');
  * presence. A growing collection of per-state regular expressions can be found at
  * <https://github.com/statedecoded/law-identifier>.
  */
-define('SECTION_PCRE', '/([[0-9]{1,})([0-9A-Za-z\-\.]{0,3})-([0-9A-Za-z\-\.:]*)([0-9A-Za-z]{1,})/');
+define('SECTION_REGEX', '/([[0-9]{1,})([0-9A-Za-z\-\.]{0,3})-([0-9A-Za-z\-\.:]*)([0-9A-Za-z]{1,})/');
 
 /*
  * The path, relative to the webroot, to an error page to be displayed if the database connection is
@@ -129,7 +133,7 @@ define('SECTION_PCRE', '/([[0-9]{1,})([0-9A-Za-z\-\.]{0,3})-([0-9A-Za-z\-\.:]*)(
  * When there is cause to send an e-mail (e.g., API registration), what "From" address should be
  * used? And what name should appear in the "From" field?
  */
-define('EMAIL_ADDRESS', '');
+define('EMAIL_ADDRESS', 'email@example.com');
 define('EMAIL_NAME', SITE_TITLE);
 
 /*
@@ -144,7 +148,7 @@ define('RECORD_VIEWS', TRUE);
 /*
  * The URL for your installation of Solr. End with a trailing slash.
  */
-define('SOLR_URL', 'http://localhost:8983/solr/statedecoded/');
+define('SOLR_URL', 'http://localhost:8983/solr/marylandcode/');
 
 /**
  * API Keys
@@ -154,7 +158,7 @@ define('SOLR_URL', 'http://localhost:8983/solr/statedecoded/');
  * The site uses its own API extensively. Provide the API key here. (This is populated automatically
  * at the time that the parser is run.)
  */
-define('API_KEY', 'TYOzf9yPUj1N338m');
+define('API_KEY', 'k9Y6L8KI3tQqrAIE');
 
 /*
  * If you want to enable Disqus <http://www.disqus.com/> commenting for every law, register for
