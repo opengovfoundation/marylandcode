@@ -1,5 +1,40 @@
 # Changelog
 
+## Version 0.8 (November 11, 2013)
+* Conducted a complete user interface overhaul. Everything is different: SASS-based layout, a responsive design, a pluggable template system, and a great deal more.
+* Conducted a complete overhaul of the code structure, adding a routing system and a permalinks table.
+* Baked in support for Apache Solr, the best text indexing software available, to ingest and analyze all laws, and create a comprehensive search system.
+* Added an API method for search.
+* Created a heavily automated setup process, making it easy to install.
+* Added a rigorous set of environmental tests to make sure that the server has all necessary software.
+* Created support for non-unique section identifiers (e.g., when a § 100 exists in 10 different Titles within a single code), a major overhaul.
+* Packaged a default home page, that looks good for any site right out of the box.
+* Included a sample XSLT, to serve as a starting point for those who have XML that they need to get into The State Decoded's XML format.
+* Tested The State Decoded in a wide variety of server configurations and made many modifications to ensure that it runs well under nearly all common environments.
+* Added an entire workflow to handle new editions of legal codes, important for those codes that are updated frequently.
+* Bulk downloads are automatically created, as plain text, JSON, and XML, along with a page for visitors to download them.
+* Overhauled the administrative interface, adding a great deal of functionality.
+* Builds a sitemap.xml automatically.
+* Included Dublin Core tags in the HTML for each law, to support Zotero and similar software.
+
+## Version 0.7 (June 19, 2013)
+* Made extensive optimizations throughout the entire codebase and within MySQL, eliminating all sources of PHP errors of level E_NOTICE and above.
+* Added support for import, storage, and display of arbitrary metadata fields.
+* Added APC support, and implemented caching of API keys, constants, and templates.
+* Added Varnish support, to clear the Varnish cache upon running the importer.
+* Replaced MDB2 with PDO, eliminating an installation requirement and modernizing database connectivity.
+* Replaced HTML Purifier with Tidy, which more servers are likely to have installed already.
+* Added support for port numbers in site URLs, to facilitate development on Vagrant.
+* Provided comments for all non-obvious database columns, to improve extensibility.
+* Normalized all code along PEAR standardards, or at least our own variant of PEAR.
+* Added Dublin Core metadata tags to each law, in case that's useful to somebody for something.
+* Created the infrastructure for an extensible inline help text.
+* Implemented keyboard navigation within laws and structures.
+* Baked in support for Disqus-based commenting on each law page.
+* Implemented a logger and debug system within the parser, to improve reporting and error handling.
+* Added production of bulk plain text and JSON versions of laws.
+* Reduced substantially the parser's memory usage, eliminating out-of-memory errors affecting larger legal codes.
+
 ## Version 0.6 (February 7, 2013)
 * Established a public API with methods for retrieving data about laws, structural units, and definitions.
 * Created an XML standard for legal codes to simplify enormously the process of parsing them. Many legal codes are already provided as some type of XML, so XSLT is all that's necessary to convert them into the format expected by Richmond Sunlight.

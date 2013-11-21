@@ -5,10 +5,8 @@
  *
  * PHP version 5
  *
- * @author		Waldo Jaquith <waldo at jaquith.org>
- * @copyright	2010-2012 Waldo Jaquith
  * @license		http://www.gnu.org/licenses/gpl.html GPL 3
- * @version		0.6
+ * @version		0.8
  * @link		http://www.statedecoded.com/
  * @since		0.3
 */
@@ -29,7 +27,7 @@ class State
 
 		if (!isset($this->section_number))
 		{
-			return false;
+			return FALSE;
 		}
 
 		return 'http://example.gov/laws/' . $this->section_number . '/';
@@ -61,14 +59,68 @@ class State
 
 		if (!isset($this->section_number))
 		{
-			return false;
+			return FALSE;
 		}
 
 		$this->citation->{0}->label = 'Official';
 		$this->citation->{0}->text = 'St. Code § '.$this->section_number;
 
-		return true;
+		return TRUE;
 	}
+	*/
+
+	/**
+	 * Retrieve a list of every attempt to amend a law
+	 *
+	 * Should create an object named "bills" (plural) with one numbered entry for each bill that
+	 * proposed to amend the law, with values of "year," "number," "catch_line," "outcome," and
+	 * "url."
+	 *
+	 * @return true or false
+	 */
+	/*function get_amendment_attempts()
+	{
+
+		if (!isset($this->section_number))
+		{
+			return FALSE;
+		}
+
+		# Below is an example of how $this->bills should be formatted. Every field must be present,
+		# and they should be sorted chronologically, from most oldest to newest.
+		#
+		#		Object
+		#		(
+		#			[0] => stdClass Object
+		#				(
+		#					[year] => 2009
+		#					[number] => SB1316
+		#					[catch_line] => Freedom of Information Act; strikes requirement to publish a database index, etc.
+		#					[outcome] => passed
+		#					[url] => http://www.richmondsunlight.com/bill/2009/sb1316/
+		#				)
+		#
+		#			[1] => stdClass Object
+		#				(
+		#					[year] => 2010
+		#					[number] => HB449
+		#					[catch_line] => Freedom of Information Act; injunctive relief for public bodies under certain circumstances.
+		#					[outcome] => failed
+		#					[url] => http://www.richmondsunlight.com/bill/2010/hb449/
+		#				)
+		#
+		#			[2] => stdClass Object
+		#				(
+		#					[year] => 2010
+		#					[number] => HB518
+		#					[catch_line] => Freedom of Information Act; public body shall remain responsible for retrieving public records, etc.
+		#					[outcome] => passed
+		#					[url] => http://www.richmondsunlight.com/bill/2010/hb518/
+		#				)
+
+		return TRUE;
+
+	} // end get_amendment_attempts()
 	*/
 
 }
@@ -85,7 +137,8 @@ class Parser
 	public $directory;
 	public $files = array();
 	public $db;
-
+	public $edition_id;
+	public $structure_labels;
 	public $title_filename = '/titles.json';
 
 	public function __construct($options)
@@ -93,30 +146,61 @@ class Parser
 		/**
 		 * Set our defaults
 		 */
-		foreach($options as $key => $value) {
+		foreach($options as $key => $value)
+		{
 			$this->$key = $value;
 		}
 
 		/**
 		 * Set the directory to parse
 		 */
-		if($this->directory) {
+		if($this->directory)
+		{
 
 			if (!isset($this->directory))
 			{
 				$this->directory = getcwd();
 			}
 
-			chdir($this->directory);
+			if (file_exists($this->directory) && is_dir($this->directory))
+			{
+				$directory = dir($this->directory);
+			}
+			else
+			{
+				throw new Exception('Import directory does not exist "' .
+					$this->directory . '"');
+			}
+
+			while (false !== ($filename = $directory->read()))
+			{
+				/*
+				 * We should make sure we've got an actual file that's readable.
+				 * Ignore anything that starts with a dot.
+				 */
+				$filepath = $this->directory . $filename;
+				if (is_file($filepath) &&
+					is_readable($filepath) &&
+					substr($filename, 0, 1) !== '.')
+				{
+					$this->files[] = $filepath;
+				}
+			}
 
 			/*
-			 * Iterate through every XML file in this directory and build up an array of them.
+			 * Check that we found at least one file
 			 */
-
-			foreach (glob('*.xml') as $filename)
+			if (count($this->files) < 1)
 			{
-				$this->files[] = $filename;
+				throw new Exception('No Import Files found in path "' .
+					$this->directory . '"');
 			}
+
+		}
+
+		if(!$this->structure_labels)
+		{
+			$this->structure_labels = $this->get_structure_labels();
 		}
 
 	}
@@ -126,8 +210,11 @@ class Parser
 	public function iterate()
 	{
 
-		// Iterate through our resulting file listing.
-		for ($i = $this->file; $i < count($this->files); $i++)
+		/*
+		 * Iterate through our resulting file listing.
+		 */
+		$file_count = count($this->files);
+		for ($i = $this->file; $i < $file_count; $i++)
 		{
 
 			/*
@@ -136,34 +223,26 @@ class Parser
 			$filename = $this->files[$i];
 
 			/*
-			 * Store the contents of the file as a string.
+			 * Determine data type and import
 			 */
-			$xml = file_get_contents($filename);
+			// TODO : Make this smarter.  We can use the PECL Fileinfo package
+			// instead, but I'd rather not have to require that at this point. -BH
 
-			/*
-			 * Convert the XML into an object.
-			 */
+			$extension = substr($filename, strrpos($filename, '.')+1);
 
-			try {
-				$this->section = new SimpleXMLElement($xml);
-			}
-			catch(Exception $e) {
-				/*
-				 * If we can't convert to XML, try cleaning the data first.
-				 */
-				if(class_exists('tidy', false)) {
-					$tidy_config = array('input-xml' => true);
-					$tidy = new tidy();
-					$tidy->parseString($xml, $tidy_config, 'utf8');
-					$tidy->cleanRepair();
+			switch($extension)
+			{
+				case 'xml' :
+					$this->import_xml($filename);
+					break;
 
-					$xml = (string) $tidy;
-				}
-				elseif(exec('which tidy')) {
-					exec('tidy -xml '.$filename, $output);
-					$xml = join('', $output);
-				}
-				$this->section = new SimpleXMLElement($xml);
+				case 'json' :
+					$this->import_json($filename);
+					break;
+
+				// TODO: Fix this.
+				default:
+					// Anything else, we can't handle.
 			}
 
 			/*
@@ -181,11 +260,68 @@ class Parser
 
 
 	/**
+	 * Convert the XML into an object.
+	 */
+	public function import_xml($filename)
+	{
+		$xml = file_get_contents($filename);
+
+		try
+		{
+			$this->section = new SimpleXMLElement($xml);
+		}
+		catch(Exception $e)
+		{
+			/*
+			 * If we can't convert to XML, try cleaning the data first.
+			 */
+			if (class_exists('tidy', FALSE))
+			{
+
+				$tidy_config = array('input-xml' => TRUE);
+				$tidy = new tidy();
+				$tidy->parseString($xml, $tidy_config, 'utf8');
+				$tidy->cleanRepair();
+				$xml = (string) $tidy;
+
+			}
+			elseif (exec('which tidy'))
+			{
+				exec('tidy -xml '.$filename, $output);
+				$xml = join('', $output);
+			}
+			$this->section = new SimpleXMLElement($xml);
+		}
+
+		/*
+		 * Send this object back, out of the iterator.
+		 */
+		return $this->section;
+	}
+
+
+	/**
+	 * Convert the JSON into an object.
+	 */
+	public function import_json($filename)
+	{
+		$section_data = file_get_contents($filename);
+
+		$this->section = json_decode($section_data);
+
+		return $this->section;
+	}
+
+
+	/**
 	 * Accept the raw content of a section of code and normalize it.
 	 */
 	public function parse()
 	{
-		// If a section of code hasn't been passed to this, then it's of no use.
+
+		/*
+		 * If a section of code hasn't been passed to this, then it's of no use.
+		 */
 		if (!isset($this->section))
 		{
 			return FALSE;
@@ -206,6 +342,36 @@ class Parser
 		$this->code->history = (string)  $this->section->history;
 
 		/*
+		 * If additional metadata is present in a "metadata" container, copy it over to our code
+		 * object.
+		 */
+		if (isset($this->section->metadata))
+		{
+
+			foreach ($this->section->metadata as $field)
+			{
+
+				foreach ($field as $key => $value)
+				{
+					/*
+					 * Convert true/false values to y/n values.
+					 */
+					if ($value == 'true')
+					{
+						$value = 'y';
+					}
+					elseif ($value == 'true')
+					{
+						$value = 'n';
+					}
+					$this->code->metadata->$key = $value;
+				}
+
+			}
+
+		}
+
+		/*
 		 * Iterate through the structural headers.
 		 */
 		foreach ($this->section->structure->unit as $unit)
@@ -213,6 +379,7 @@ class Parser
 			$level = (string) $unit['level'];
 			$this->code->structure->{$level}->name = (string) $unit;
 			$this->code->structure->{$level}->label = (string) $unit['label'];
+			$this->code->structure->{$level}->level = (string) $unit['level'];
 			$this->code->structure->{$level}->identifier = (string) $unit['identifier'];
 			if ( !empty($unit['order_by']) )
 			{
@@ -258,7 +425,7 @@ class Parser
 				$subsection['prefix'] = substr($subsection['prefix'],1,strlen($subsection['prefix'])-2);
 
 				$this->code->section->{$this->i}->prefix = (string) $subsection['prefix'];
-				$this->prefix_hierarchy[] = $subsection['prefix'];
+				$this->prefix_hierarchy[] = (string) $subsection['prefix'];
 				$this->code->section->{$this->i}->prefix_hierarchy->{0} = (string) $subsection['prefix'];
 
 				/*
@@ -287,7 +454,251 @@ class Parser
 			}
 		}
 
-		return true;
+		/*
+		 * If there any tags, store those, too.
+		 */
+		if (isset($this->section->tags))
+		{
+
+			/*
+			 * Create an object to store the tags.
+			 */
+			$this->code->tags = new stdClass();
+
+			/*
+			 * Iterate through each of the tags and move them over to $this->code.
+			 */
+			foreach ($this->section->tags->tag as $tag)
+			{
+				$this->code->tags->tag = trim($tag);
+			}
+
+		}
+
+		return TRUE;
+	}
+
+	/**
+	 * Create permalinks from what's in the database
+	 */
+	public function build_permalinks()
+	{
+
+		$this->move_old_permalinks();
+		$this->build_permalink_subsections();
+
+	}
+
+	/**
+	 * Remove all old permalinks
+	 */
+	// TODO: eventually, we'll want to keep these and have multiple versions.
+	// See issues #314 #362 #363
+	public function move_old_permalinks()
+	{
+
+		$sql = 'DELETE FROM permalinks';
+		$result = $this->db->exec($sql);
+		if ($result === FALSE)
+		{
+			echo '<p>'.$sql.'</p>';
+			echo '<p>'.$result->getMessage().'</p>';
+			return;
+		}
+
+	}
+
+	/**
+	 * Recurse through all subsections to build permalink data.
+	 */
+	public function build_permalink_subsections($parent_id = null)
+	{
+
+		$structure_sql = '	SELECT structure_unified.*,
+							editions.current AS current_edition,
+							editions.slug AS edition_slug
+							FROM structure
+							LEFT JOIN structure_unified
+								ON structure.id = structure_unified.s1_id
+							LEFT JOIN editions
+								ON structure.edition_id = editions.id';
+
+		/*
+		 * We use prepared statements for efficiency.  As a result,
+		 * we need to keep an array of our arguments rather than
+		 * hardcoding them in the SQL.
+		 */
+		$structure_args = array();
+
+		if (isset($parent_id))
+		{
+			$structure_sql .= ' WHERE parent_id = :parent_id';
+			$structure_args[':parent_id'] = $parent_id;
+		}
+		else
+		{
+			$structure_sql .= ' WHERE parent_id IS NULL';
+		}
+
+		$structure_statement = $this->db->prepare($structure_sql, array(PDO::ATTR_CURSOR => PDO::CURSOR_FWDONLY));
+		$structure_result = $structure_statement->execute($structure_args);
+
+		if ($structure_result === FALSE)
+		{
+			echo '<p>' . $structure_sql . '</p>';
+			echo '<p>' . $structure_result->getMessage() . '</p>';
+			return;
+		}
+
+		/*
+		 * Get results as an array to save memory
+		 */
+		while ($item = $structure_statement->fetch(PDO::FETCH_ASSOC))
+		{
+
+			/*
+			 * Figure out the URL for this structural unit by iterating through the "identifier"
+			 * columns in this row.
+			 */
+			$identifier_parts = array();
+
+			foreach ($item as $key => $value)
+			{
+				if (preg_match('/s[0-9]_identifier/', $key) == 1)
+				{
+					/*
+					 * Higher-level structural elements (e.g., titles) will have blank columns in
+					 * structure_unified, so we want to omit any blank values. Because a valid
+					 * structural unit identifier is "0" (Virginia does this), we check the string
+					 * length, rather than using empty().
+					 */
+					if (strlen($value) > 0)
+					{
+						$identifier_parts[] = urlencode($value);
+					}
+				}
+			}
+			$identifier_parts = array_reverse($identifier_parts);
+			$token = implode('/', $identifier_parts);
+
+			if ($item['current_edition'])
+			{
+				$url = '/' . $token . '/';
+			}
+			else
+			{
+				$url = '/' . $item['edition_slug'] . '/' . $token .'/';
+			}
+
+			/*
+			 * Insert the structure
+			 */
+			$insert_sql = 'INSERT INTO permalinks SET
+				object_type = :object_type,
+				relational_id = :relational_id,
+				identifier = :identifier,
+				token = :token,
+				url = :url';
+			$insert_statement = $this->db->prepare($insert_sql);
+			$insert_data = array(
+				':object_type' => 'structure',
+				':relational_id' => $item['s1_id'],
+				':identifier' => $item['s1_identifier'],
+				':token' => $token,
+				':url' => $url,
+			);
+
+
+			$insert_result = $insert_statement->execute($insert_data);
+			if ($insert_result === FALSE)
+			{
+				echo '<p>'.$sql.'</p>';
+				echo '<p>'.$structure_result->getMessage().'</p>';
+				return;
+			}
+
+			/*
+			 * Now we can use our data to build the child law identifiers
+			 */
+			if (INCLUDES_REPEALED !== TRUE)
+			{
+				$laws_sql = '	SELECT id, structure_id, section AS section_number, catch_line
+								FROM laws
+								WHERE structure_id = :s_id
+								ORDER BY order_by, section';
+			}
+			else
+			{
+				$laws_sql = '	SELECT laws.id, laws.structure_id, laws.section AS section_number,
+								laws.catch_line
+								FROM laws
+								LEFT OUTER JOIN laws_meta
+									ON laws_meta.law_id = laws.id AND laws_meta.meta_key = "repealed"
+								WHERE structure_id = :s_id
+								AND (laws_meta.meta_value = "n" OR laws_meta.meta_value IS NULL)
+								ORDER BY order_by, section';
+			}
+			$laws_statement = $this->db->prepare($laws_sql, array(PDO::ATTR_CURSOR => PDO::CURSOR_FWDONLY));
+			$laws_result = $laws_statement->execute( array( ':s_id' => $item['s1_id'] ) );
+
+			if ($structure_result === FALSE)
+			{
+				echo '<p>'.$laws_sql.'</p>';
+				echo '<p>'.$laws_result->getMessage().'</p>';
+				return;
+			}
+
+			while($law = $laws_statement->fetch(PDO::FETCH_ASSOC))
+			{
+				if(defined('LAW_LONG_URLS') && LAW_LONG_URLS === TRUE)
+				{
+					$law_token = $token . '/' . $law['section_number'];
+					$law_url = $url . $law['section_number'];
+				}
+				else
+				{
+					$law_token = $law['section_number'];
+
+					if ($item['current_edition'])
+					{
+						$law_url = '/' . $law['section_number'] . '/';
+					}
+					else
+					{
+						$law_url = '/' . $item['edition_slug'] . '/' . $law['section_number'] . '/';
+					}
+				}
+				/*
+				 * Insert the structure
+				 */
+				$insert_sql =  'INSERT INTO permalinks SET
+								object_type = :object_type,
+								relational_id = :relational_id,
+								identifier = :identifier,
+								token = :token,
+								url = :url';
+				$insert_statement = $this->db->prepare($insert_sql);
+				$insert_data = array(
+					':object_type' => 'law',
+					':relational_id' => $law['id'],
+					':identifier' => $law['section_number'],
+					':token' => $law_token,
+					':url' => $law_url,
+				);
+
+				$insert_result = $insert_statement->execute($insert_data);
+
+				if ($insert_result === FALSE)
+				{
+					echo '<p>'.$insert_sql.'</p>';
+					echo '<p>'.$insert_result->getMessage().'</p>';
+					return;
+				}
+			}
+
+			$this->build_permalink_subsections($item['s1_id']);
+
+		}
 	}
 
 	/**
@@ -341,6 +752,7 @@ class Parser
 		 */
 		foreach ($section as $subsection)
 		{
+
 			/*
 			 * Store this subsection's data in our code object.
 			 */
@@ -393,7 +805,6 @@ class Parser
 	}
 
 
-
 	/**
 	 * Take an object containing the normalized code data and store it.
 	 */
@@ -404,32 +815,50 @@ class Parser
 			die('No data provided.');
 		}
 
-		// This first section creates the record for the law, but doesn't do anything with the
-		// content of it just yet.
+		/*
+		 * This first section creates the record for the law, but doesn't do anything with the
+		 * content of it just yet.
+		 */
 
-		// Try to create this section's structural element(s). If they already exist,
-		// create_structure() will handle that silently. Either way a structural ID gets returned.
-		$structure = new Parser(array('db' => $this->db));
+		/*
+		 * Try to create this section's structural element(s). If they already exist,
+		 * create_structure() will handle that silently. Either way a structural ID gets returned.
+		 */
+		$structure = new Parser(
+			array(
+				'db' => $this->db,
+				'edition_id' => $this->edition_id,
+				'structure_labels' => $this->structure_labels
+			)
+		);
 
 		foreach ($this->code->structure as $struct)
 		{
+
 			$structure->identifier = $struct->identifier;
 			$structure->name = $struct->name;
 			$structure->label = $struct->label;
+			$structure->level = $struct->level;
+
 			/* If we've gone through this loop already, then we have a parent ID. */
 			if (isset($this->code->structure_id))
 			{
 				$structure->parent_id = $this->code->structure_id;
 			}
 			$this->code->structure_id = $structure->create_structure();
+
 		}
 
-		// When that loop is finished, because structural units are ordered from most general to
-		// most specific, we're left with the section's parent ID. Preserve it.
+		/*
+		 * When that loop is finished, because structural units are ordered from most general to
+		 * most specific, we're left with the section's parent ID. Preserve it.
+		 */
 		$query['structure_id'] = $this->code->structure_id;
 
-		// Build up an array of field names and values, using the names of the database columns as
-		// the key names.
+		/*
+		 * Build up an array of field names and values, using the names of the database columns as
+		 * the key names.
+		 */
 		$query['catch_line'] = $this->code->catch_line;
 		$query['section'] = $this->code->section_number;
 		$query['text'] = $this->code->text;
@@ -441,37 +870,53 @@ class Parser
 		{
 			$query['history'] = $this->code->history;
 		}
-		if (isset($this->code->repealed))
-		{
-			$query['repealed'] = $this->code->repealed;
-		}
 
-		// Create the beginning of the insertion statement.
+		/*
+		 * Create the beginning of the insertion statement.
+		 */
 		$sql = 'INSERT INTO laws
-				SET date_created=now(), edition_id='.EDITION_ID;
+				SET date_created=now()';
+		$sql_args = array();
+		$query['edition_id'] = $this->edition_id;
 
-		// Iterate through the array and turn it into SQL.
+		/*
+		 * Iterate through the array and turn it into SQL.
+		 */
 		foreach ($query as $name => $value)
 		{
-			$sql .= ', '.$name.'="'.$this->db->escape($value).'"';
+			$sql .= ', ' . $name . ' = :' . $name;
+			$sql_args[':' . $name] = $value;
 		}
 
-		// Execute the query.
-		$result =& $this->db->exec($sql);
-		if (PEAR::isError($result))
+		$statement = $this->db->prepare($sql);
+		$result = $statement->execute($sql_args);
+
+		if ($result === FALSE)
 		{
-			echo '<p>'.$sql.'</p>';
-			die($result->getMessage());
+			echo '<p>Failure: ' . $sql . '</p>';
+			var_dump($sql_args);
 		}
 
-		// Preserve the insert ID from this law, since we'll need it below.
+		/*
+		 * Preserve the insert ID from this law, since we'll need it below.
+		 */
 		$law_id = $this->db->lastInsertID();
 
-		// This second section inserts the textual portions of the law.
+		/*
+		 * This second section inserts the textual portions of the law.
+		 */
 
-		// Pull out any mentions of other sections of the code that are found within its text and
-		// save a record of those, for crossreferencing purposes.
-		$references = new Parser(array('db' => $this->db));
+		/*
+		 * Pull out any mentions of other sections of the code that are found within its text and
+		 * save a record of those, for crossreferencing purposes.
+		 */
+		$references = new Parser(
+			array(
+				'db' => $this->db,
+				'edition_id' => $this->edition_id,
+				'structure_labels' => $this->structure_labels
+			)
+		);
 		$references->text = $this->code->text;
 		$sections = $references->extract_references();
 		if ( ($sections !== FALSE) && (count($sections) > 0) )
@@ -486,83 +931,191 @@ class Parser
 			}
 		}
 
-		// Step through each section.
+		/*
+		 * Store any metadata.
+		 */
+		if (isset($this->code->metadata))
+		{
+
+			/*
+			 * Step through every metadata field and add it.
+			 */
+			$sql = 'INSERT INTO laws_meta
+					SET law_id = :law_id,
+					meta_key = :meta_key,
+					meta_value = :meta_value';
+			$statement = $this->db->prepare($sql);
+
+			foreach ($this->code->metadata as $key => $value)
+			{
+				$sql_args = array(
+					':law_id' => $law_id,
+					':meta_key' => $key,
+					':meta_value' => $value
+				);
+				$result = $statement->execute($sql_args);
+
+				if ($result === FALSE)
+				{
+					echo '<p>Failure: '.$sql.'</p>';
+				}
+			}
+
+		}
+
+		/*
+		 * Store any tags associated with this law.
+		 */
+		if (isset($this->code->tags))
+		{
+			$sql = 'INSERT INTO tags
+					SET law_id = :law_id,
+					section_number = :section_number,
+					text = :tag';
+			$statement = $this->db->prepare($sql);
+
+			foreach ($this->code->tags as $tag)
+			{
+				$sql_args = array(
+					':law_id' => $law_id,
+					':section_number' => $this->code->section_number,
+					':tag' => $tag
+				);
+				$result = $statement->execute($sql_args);
+
+				if ($result === FALSE)
+				{
+					echo '<p>Failure: '.$sql.'</p>';
+					var_dump($sql_args);
+				}
+			}
+		}
+
+		/*
+		 * Step through each section.
+		 */
 		$i=1;
 		foreach ($this->code->section as $section)
 		{
 
-			// If no section type has been specified, make it your basic section.
+			/*
+			 * If no section type has been specified, make it your basic section.
+			 */
 			if (empty($section->type))
 			{
 				$section->type = 'section';
 			}
 
-			// Insert this section of the...uh...section into the text table.
+			/*
+			 * Insert this subsection into the text table.
+			 */
 			$sql = 'INSERT INTO text
-					SET law_id='.$law_id.',
-					sequence='.$i.',
-					text="'.$this->db->escape($section->text).'",
-					type="'.$this->db->escape($section->type).'",
+					SET law_id = :law_id,
+					sequence = :sequence,
+					type = :type,
 					date_created=now()';
-
-			// Execute the query.
-			$result =& $this->db->exec($sql);
-			if (PEAR::isError($result))
+			$sql_args = array(
+				':law_id' => $law_id,
+				':sequence' => $i,
+				':type' => $section->type
+			);
+			if (!empty($section->text))
 			{
-				echo '<p>'.$sql.'</p>';
-				die($result->getMessage());
+				$sql .= ', text = :text';
+				$sql_args[':text'] = $section->text;
 			}
 
-			// Preserve the insert ID from this section of text, since we'll need it below.
+			$statement = $this->db->prepare($sql);
+			$result = $statement->execute($sql_args);
+
+			if ($result === FALSE)
+			{
+				echo '<p>Failure: '.$sql.'</p>';
+			}
+
+			/*
+			 * Preserve the insert ID from this section of text, since we'll need it below.
+			 */
 			$text_id = $this->db->lastInsertID();
 
-			// Start a new counter.
+			/*
+			 * Start a new counter. We'll use it to track the sequence of subsections.
+			 */
 			$j = 1;
 
-			// Step through every portion of the prefix (i.e. A4b is three portions) and insert
-			// each.
-			foreach ($section->prefix_hierarchy as $prefix)
+			/*
+			 * Step through every portion of the prefix (i.e. A4b is three portions) and insert
+			 * each.
+			 */
+			if (isset($section->prefix_hierarchy))
 			{
-				$sql = 'INSERT INTO text_sections
-						SET text_id='.$text_id.',
-						identifier="'.$prefix.'",
-						sequence='.$j.',
-						date_created=now()';
 
-				// Execute the query.
-				$result =& $this->db->exec($sql);
-				if (PEAR::isError($result))
+				foreach ($section->prefix_hierarchy as $prefix)
 				{
-					echo '<p>'.$sql.'</p>';
-					die($result->getMessage());
+					$sql = 'INSERT INTO text_sections
+							SET text_id = :text_id,
+							identifier = :identifier,
+							sequence = :sequence,
+							date_created=now()';
+					$sql_args = array(
+						':text_id' => $text_id,
+						':identifier' => $prefix,
+						':sequence' => $j
+					);
+
+					$statement = $this->db->prepare($sql);
+					$result = $statement->execute($sql_args);
+
+					if ($result === FALSE)
+					{
+						echo '<p>Failure: ' . $sql . '</p>';
+					}
+
+					$j++;
 				}
 
-				$j++;
 			}
 
 			$i++;
 		}
 
 
-		// Trawl through the text for definitions.
-		$dictionary = new Parser(array('db' => $this->db));
+		/*
+		 * Trawl through the text for definitions.
+		 */
+		$dictionary = new Parser(
+			array(
+				'db' => $this->db,
+				'edition_id' => $this->edition_id,
+				'structure_labels' => $this->structure_labels
+			)
+		);
 
-		// Pass this section of text to $dictionary.
+		/*
+		 * Pass this section of text to $dictionary.
+		 */
 		$dictionary->text = $this->code->text;
 
-		// Get a normalized listing of definitions.
+		/*
+		 * Get a normalized listing of definitions.
+		 */
 		$definitions = $dictionary->extract_definitions();
 
-		// Check to see if this section or its containing structural unit were specified in the
-		// config file as a container for global definitions. If it was, then we override the
-		// presumed scope and provide a global scope.
+		/*
+		 * Check to see if this section or its containing structural unit were specified in the
+		 * config file as a container for global definitions. If it was, then we override the
+		 * presumed scope and provide a global scope.
+		 */
 		$ancestry = array();
-		foreach ($this->code->structure as $struct)
+		if (isset($this->code->structure))
 		{
-			$ancestry[] = $struct->identifier;
+			foreach ($this->code->structure as $struct)
+			{
+				$ancestry[] = $struct->identifier;
+			}
 		}
 		$ancestry = implode(',', $ancestry);
-		$ancestry_section .= $ancestry . ','.$this->code->section_number;
+		$ancestry_section = $ancestry . ','.$this->code->section_number;
 		if 	(
 				(GLOBAL_DEFINITIONS === $ancestry)
 				||
@@ -574,21 +1127,33 @@ class Parser
 		unset($ancestry);
 		unset($ancestry_section);
 
-		// If any definitions were found in this text, store them.
+		/*
+		 * If any definitions were found in this text, store them.
+		 */
 		if ($definitions !== FALSE)
 		{
 
-			// Populate the appropriate variables.
+			/*
+			 * Populate the appropriate variables.
+			 */
 			$dictionary->terms = $definitions->terms;
 			$dictionary->law_id = $law_id;
 			$dictionary->scope = $definitions->scope;
 			$dictionary->structure_id = $this->code->structure_id;
 
-			// If the scope of this definition isn't section-specific, and isn't global, then
-			// find the ID of the structural unit that is the limit of its scope.
+			/*
+			 * If the scope of this definition isn't section-specific, and isn't global, then
+			 * find the ID of the structural unit that is the limit of its scope.
+			 */
 			if ( ($dictionary->scope != 'section') && ($dictionary->scope != 'global') )
 			{
-				$find_scope = new Parser(array('db' => $this->db));
+				$find_scope = new Parser(
+					array(
+						'db' => $this->db,
+						'edition_id' => $this->edition_id,
+						'structure_labels' => $this->structure_labels
+					)
+				);
 				$find_scope->label = $dictionary->scope;
 				$find_scope->structure_id = $dictionary->structure_id;
 				$dictionary->structure_id = $find_scope->find_structure_parent();
@@ -598,25 +1163,36 @@ class Parser
 				}
 			}
 
-			// If the scope isn't a structural unit, then delete it, so that we don't store it
-			// and inadvertently limit the scope.
+			/*
+			 * If the scope isn't a structural unit, then delete it, so that we don't store it
+			 * and inadvertently limit the scope.
+			 */
 			else
 			{
 				unset($dictionary->structure_id);
 			}
 
-			// Determine the position of this structural unit.
-			$structure = array_reverse(explode(',', STRUCTURE));
+			/*
+			 * Determine the position of this structural unit.
+			 */
+			$structure = array_reverse($this->structure_labels);
 			array_push($structure, 'global');
 
-			// Find and return the position of this structural unit in the hierarchical stack.
+			/*
+			 * Find and return the position of this structural unit in the hierarchical stack.
+			 */
 			$dictionary->scope_specificity = array_search($dictionary->scope, $structure);
 
-			// Store these definitions in the database.
+			/*
+			 * Store these definitions in the database.
+			 */
 			$dictionary->store_definitions();
+
 		}
 
-		// Memory management
+		/*
+		 * Memory management.
+		 */
 		unset($references);
 		unset($dictionary);
 		unset($definitions);
@@ -635,35 +1211,44 @@ class Parser
 
 		if (!isset($this->identifier))
 		{
-			return false;
+			return FALSE;
 		}
 
-		// Assemble the query.
+		/*
+		 * Assemble the query.
+		 */
 		$sql = 'SELECT id
 				FROM structure
-				WHERE identifier="'.$this->identifier.'"';
+				WHERE identifier = :identifier
+				AND edition_id = :edition_id';
+		$sql_args = array(
+			':identifier' => $this->identifier,
+			':edition_id' => $this->edition_id
+		);
 
-		// If a parent ID is present (that is, if this structural unit isn't a top-level unit), then
-		// include that in our query.
+		/*
+		 * If a parent ID is present (that is, if this structural unit isn't a top-level unit), then
+		 * include that in our query.
+		 */
 		if ( !empty($this->parent_id) )
 		{
-			$sql .= ' AND parent_id='.$this->parent_id;
+			$sql .= ' AND parent_id = :parent_id';
+			$sql_args[':parent_id'] = $this->parent_id;
 		}
 		else
 		{
 			$sql .= ' AND parent_id IS NULL';
 		}
 
-		// Execute the query.
-		$result =& $this->db->query($sql);
+		$statement = $this->db->prepare($sql);
+		$result = $statement->execute($sql_args);
 
-		// If the query fails, or if no results are found, return false -- we can't make a match.
-		if ( PEAR::isError($result) || ($result->numRows() < 1) )
+		if ( ($result === FALSE) || ($statement->rowCount() === 0) )
 		{
-			return false;
+			return FALSE;
 		}
 
-		$structure = $result->fetchRow(MDB2_FETCHMODE_OBJECT);
+		$structure = $statement->fetch(PDO::FETCH_OBJ);
 		return $structure->id;
 	}
 
@@ -677,30 +1262,32 @@ class Parser
 	function create_structure()
 	{
 
-		// Sometimes the code contains references to no-longer-existent chapters and even whole
-		// titles of the code. These are void of necessary information. We want to ignore these
-		// silently. Though you'd think we should require a chapter name, we actually shouldn't,
-		// because sometimes chapters don't have names. In the Virginia Code, for instance, titles
-		// 8.5A, 8.6A, 8.10, and 8.11 all have just one chapter ("part"), and none of them have a
-		// name.
-		//
-		// Because a valid structural identifier can be "0" we can't simply use empty(), but must
-		// also verify that the string is longer than zero characters. We do both because empty()
-		// will valuate faster than strlen(), and because these two strings will almost never be
-		// empty.
+		/*
+		 * Sometimes the code contains references to no-longer-existent chapters and even whole
+		 * titles of the code. These are void of necessary information. We want to ignore these
+		 * silently. Though you'd think we should require a chapter name, we actually shouldn't,
+		 * because sometimes chapters don't have names. In the Virginia Code, for instance, titles
+		 * 8.5A, 8.6A, 8.10, and 8.11 all have just one chapter ("part"), and none of them have a
+		 * name.
+		 *
+		 * Because a valid structural identifier can be "0" we can't simply use empty(), but must
+		 * also verify that the string is longer than zero characters. We do both because empty()
+		 * will valuate faster than strlen(), and because these two strings will almost never be
+		 * empty.
+		 */
 		if (
 				( empty($this->identifier) && (strlen($this->identifier) === 0) )
 				||
 				( empty($this->label) )
 			)
 		{
-			return false;
+			return FALSE;
 		}
 
 		/*
 		 * Begin by seeing if this structural unit already exists. If it does, return its ID.
 		 */
-		$structure_id = Parser::structure_exists();
+		$structure_id = $this->structure_exists();
 		if ($structure_id !== FALSE)
 		{
 			return $structure_id;
@@ -714,26 +1301,44 @@ class Parser
 		 * every time, since the former approach will require many less queries than the latter.
 		 */
 		$sql = 'INSERT INTO structure
-				SET identifier="'.$this->db->escape($this->identifier).'"';
+				SET identifier = :identifier';
+		$sql_args = array(
+			':identifier' => $this->identifier
+		);
 		if (!empty($this->name))
 		{
-			$sql .= ', name="'.$this->db->escape($this->name).'"';
+			$sql .= ', name = :name';
+			$sql_args[':name'] = $this->name;
 		}
-		$sql .= ', label="'.$this->db->escape($this->label).'", date_created=now()';
+		$sql .= ', label = :label, edition_id = :edition_id';
+		$sql .= ', depth = :depth, date_created=now()';
+		$sql_args[':label'] = $this->label;
+		$sql_args[':edition_id'] = $this->edition_id;
+		$sql_args[':depth'] = $this->level;
 		if (isset($this->parent_id))
 		{
-			$sql .= ', parent_id='.$this->parent_id;
-		}
+			$sql .= ', parent_id = :parent_id';
+			$sql_args[':parent_id'] = $this->parent_id;
 
-		// Execute the query.
-		$result =& $this->db->exec($sql);
-		if (PEAR::isError($result))
+		}
+		if(isset($this->metadata))
 		{
-			return false;
+			$sql .= ', metadata = :metadata';
+			$sql_args[':metadata'] = serialize($this->metadata);
 		}
 
-		// Return the last inserted ID.
+		$statement = $this->db->prepare($sql);
+		$result = $statement->execute($sql_args);
+
+		if ($result === FALSE)
+		{
+			echo '<p>Failure: '.$sql.'</p>';
+			var_dump($sql_args);
+			return FALSE;
+		}
+
 		return $this->db->lastInsertID();
+
 	}
 
 
@@ -746,52 +1351,73 @@ class Parser
 	function find_structure_parent()
 	{
 
-		// We require a beginning structure ID and the label of the structural unit that's sought.
+		/*
+		 * We require a beginning structure ID and the label of the structural unit that's sought.
+		 */
 		if ( !isset($this->structure_id) || !isset($this->label) )
 		{
-			return false;
+			return FALSE;
 		}
 
-		// Make the sought parent ID available as a local variable, which we'll repopulate with each
-		// loop through the below while() structure.
+		/*
+		 * Make the sought parent ID available as a local variable, which we'll repopulate with each
+		 * loop through the below while() structure.
+		 */
 		$parent_id = $this->structure_id;
 
-		// Establish a blank variable.
+		/*
+		 * Establish a blank variable.
+		 */
 		$returned_id = '';
 
-		// Loop through a query for parent IDs until we find the one we're looking for.
+		/*
+		 * Loop through a query for parent IDs until we find the one we're looking for.
+		 */
 		while ($returned_id == '')
 		{
 
 			$sql = 'SELECT id, parent_id, label
 					FROM structure
-					WHERE id = '.$parent_id;
+					WHERE id = :id';
+			$sql_args = array(
+				':id' => $parent_id
+			);
 
-			// Execute the query.
-			$result =& $this->db->query($sql);
-			if ( PEAR::isError($result) || ($result->numRows() < 1) )
+			$statement = $this->db->prepare($sql);
+			$result = $statement->execute($sql_args);
+
+			if ( ($result === FALSE) || ($statement->rowCount() == 0) )
 			{
 				echo '<p>Query failed: '.$sql.'</p>';
-				return false;
+				var_dump($sql_args);
+				return FALSE;
 			}
 
-			// Return the result as an object.
-			$structure = $result->fetchRow(MDB2_FETCHMODE_OBJECT);
+			/*
+			 * Return the result as an object.
+			 */
+			$structure = $statement->fetch(PDO::FETCH_OBJ);
 
-			// If the label of this structural unit matches the label that we're looking for, return
-			// its ID.
+			/*
+			 * If the label of this structural unit matches the label that we're looking for, return
+			 * its ID.
+			 */
 			if ($structure->label == $this->label)
 			{
 				return $structure->id;
 			}
 
-			// Else if this structural unit has no parent ID, then our effort has failed.
+			/*
+			 * Else if this structural unit has no parent ID, then our effort has failed.
+			 */
 			elseif (empty($structure->parent_id))
 			{
-				return false;
+				return FALSE;
 			}
 
-			// If all else fails, then loop through again, searching one level farther up.
+			/*
+			 * If all else fails, then loop through again, searching one level farther up.
+			 */
 			else
 			{
 				$parent_id = $structure->parent_id;
@@ -809,18 +1435,20 @@ class Parser
 
 		if (!isset($this->text))
 		{
-			return false;
+			return FALSE;
 		}
 
 		/*
 		 * The candidate phrases that indicate that the scope of one or more definitions are about
-		 * to be provided.
+		 * to be provided. Some phrases are left-padded with a space if they would never occur
+		 * without being preceded by a space; this is to prevent over-broad matches.
 		 */
 		$scope_indicators = array(	' are used in this ',
-									' when used in this ',
-									' for purposes of this ',
-									' for the purpose of this ',
-									' in this ',
+									'when used in this ',
+									'for purposes of this ',
+									'for the purposes of this ',
+									'for the purpose of this ',
+									'in this ',
 								);
 
 		/*
@@ -895,13 +1523,14 @@ class Parser
 			{
 
 				/*
-				 * Gather up a list of structural labels is, and determine the length of the longest
+				 * Gather up a list of structural labels and determine the length of the longest
 				 * one, which we'll use to narrow the scope of our search for the use of structural
 				 * labels within the text.
 				 */
-				$structure_labels = explode(',', STRUCTURE);
+				$structure_labels = $this->structure_labels;
+
 				usort($structure_labels, 'sort_by_length');
-				$longest_label = strlen(current($structure_label));
+				$longest_label = strlen(current($structure_labels));
 
 				/*
 				 * Iterate through every scope indicator.
@@ -919,10 +1548,11 @@ class Parser
 					 */
 					if ($pos !== FALSE)
 					{
+
 						/*
 						 * Now figure out the specified scope by examining the text that appears
-						 * immediately after the scope indicator. Pull out as many character as the
-						 * longest structural label.
+						 * immediately after the scope indicator. Pull out as many characters as the
+						 * length of the longest structural label.
 						 */
 						$phrase = substr( $paragraph, ($pos + strlen($scope_indicator)), $longest_label );
 
@@ -932,6 +1562,7 @@ class Parser
 						 */
 						foreach ($structure_labels as $structure_label)
 						{
+
 							if (stripos($phrase, $structure_label) !== FALSE)
 							{
 
@@ -946,22 +1577,26 @@ class Parser
 								 * foreach() and its parent foreach().
 								 */
 								break(2);
+
 							}
 
 							/*
 							 * If we can't calculate scope, then let’s assume that it's specific to
 							 * the most basic structural unit -- the individual law -- for the sake
-							 * of caution. We pull that off of the end of the STRUCTURE constant.
+							 * of caution. We pull that off of the end of the structure labels array
 							 */
-							$scope = array_shift(array_reverse(explode(',', STRUCTURE)));
+							$scope = end($structure_labels);
+
 						}
+
 					}
+
 				}
 
 				/*
 				 * That's all we're going to get out of this paragraph, so move onto the next one.
 				 */
-				next;
+				continue;
 
 			}
 
@@ -1144,7 +1779,7 @@ class Parser
 
 		if (count($definitions) == 0)
 		{
-			return false;
+			return FALSE;
 		}
 
 		/*
@@ -1171,52 +1806,70 @@ class Parser
 	 */
 	function store_definitions()
 	{
+
 		if ( !isset($this->terms) || !isset($this->law_id) || !isset($this->scope) )
 		{
-			return false;
+			return FALSE;
 		}
 
-		// If we have no structure ID, just substitute NULL, to avoid creating blank entries in the
-		// structure_id column.
+		/*
+		 * If we have no structure ID, just substitute NULL, to avoid creating blank entries in the
+		 * structure_id column.
+		 */
 		if (!isset($this->structure_id))
 		{
 			$this->structure_id = 'NULL';
 		}
 
-		// Iterate through our definitions to build up our SQL.
+		/*
+		 * Iterate through our definitions to build up our SQL.
+		 */
+
+		/*
+		 * Start assembling our SQL string.
+		 */
+		$sql = 'INSERT INTO dictionary (law_id, term, definition, scope, scope_specificity,
+				structure_id, date_created)
+				VALUES (:law_id, :term, :definition, :scope, :scope_specificity,
+				:structure_id, now())';
+		$statement = $this->db->prepare($sql);
+
 		foreach ($this->terms as $term => $definition)
 		{
-			// Start assembling our SQL string.
-			$sql = 'INSERT INTO dictionary (law_id, term, definition, scope, scope_specificity,
-					structure_id, date_created)
-					VALUES ';
 
-			$sql .= '('.$this->law_id.', "'.$this->db->escape($term).'",
-				"'.$this->db->escape($definition).'", "'.$this->db->escape($this->scope).'",
-				'.$this->db->escape($this->scope_specificity).', '.$this->structure_id.', now())';
+			$sql_args = array(
+				':law_id' => $this->law_id,
+				':term' => $term,
+				':definition' => $definition,
+				':scope' => $this->scope,
+				':scope_specificity' => $this->scope_specificity,
+				':structure_id' => $this->structure_id
+			);
+			$result = $statement->execute($sql_args);
 
-			// Execute the query.
-			//$result = $this->retry_query($sql);
-			$result = $this->query($sql);
 		}
 
 
-		// Memory management.
+		/*
+		 * Memory management.
+		 */
 		unset($this);
 
 		return $result;
 
 	} // end store_definitions()
 
-	function query($sql) {
-		$result =& $this->db->exec($sql);
-		if (PEAR::isError($result))
+
+	function query($sql)
+	{
+		$result = $this->db->exec($sql);
+		if ($result === FALSE)
 		{
-			var_dump($this->db->errorInfo());
 			return $this->db->errorInfo();
 		}
-		else {
-			return true;
+		else
+		{
+			return TRUE;
 		}
 	}
 
@@ -1226,39 +1879,54 @@ class Parser
 	function extract_references()
 	{
 
-		// If we don't have any text to analyze, then there's nothing more to do be done.
+		/*
+		 * If we don't have any text to analyze, then there's nothing more to do be done.
+		 */
 		if (!isset($this->text))
 		{
-			return false;
+			return FALSE;
 		}
 
-		// Find every instance of "##.##" that fits the acceptable format for a state code citation.
-		preg_match_all(SECTION_PCRE, $this->text, $matches);
+		/*
+		 * Find every string that fits the acceptable format for a state code citation.
+		 */
+		preg_match_all(SECTION_REGEX, $this->text, $matches);
 
-		// We don't need all of the matches data -- just the first set. (The others are arrays of
-		// subset matches.)
+		/*
+		 * We don't need all of the matches data -- just the first set. (The others are arrays of
+		 * subset matches.)
+		 */
 		$matches = $matches[0];
 
-		// We assign the count to a variable because otherwise we're constantly diminishing the
-		// count, meaning that we don't process the entire array.
+		/*
+		 * We assign the count to a variable because otherwise we're constantly diminishing the
+		 * count, meaning that we don't process the entire array.
+		 */
 		$total_matches = count($matches);
 		for ($j=0; $j<$total_matches; $j++)
 		{
+
 			$matches[$j] = trim($matches[$j]);
 
-			// Lop off trailing periods, colons, and hyphens.
+			/*
+			 * Lop off trailing periods, colons, and hyphens.
+			 */
 			if ( (substr($matches[$j], -1) == '.') || (substr($matches[$j], -1) == ':')
 				|| (substr($matches[$j], -1) == '-') )
 			{
 				$matches[$j] = substr($matches[$j], 0, -1);
 			}
+
 		}
 
-		// Make unique, but with counts.
+		/*
+		 * Make unique, but with counts.
+		 */
 		$sections = array_count_values($matches);
 		unset($matches);
 
 		return $sections;
+
 	} // end extract_references()
 
 
@@ -1268,40 +1936,43 @@ class Parser
 	 */
 	function store_references()
 	{
-		// If we don't have any section numbers or a section number to tie them to, then we can't
-		// do anything at all.
+
+		/*
+		 * If we don't have any section numbers or a section number to tie them to, then we can't
+		 * do anything at all.
+		 */
 		if ( (!isset($this->sections)) || (!isset($this->section_id)) )
 		{
-			return false;
+			return FALSE;
 		}
 
-		// Start creating our insertion query.
+		/*
+		 * Start creating our insertion query.
+		 */
 		$sql = 'INSERT INTO laws_references
 				(law_id, target_section_number, mentions, date_created)
-				VALUES ';
+				VALUES (:law_id, :section_number, :mentions, now())
+				ON DUPLICATE KEY UPDATE mentions=mentions';
+				$statement = $this->db->prepare($sql);
 		$i=0;
 		foreach ($this->sections as $section => $mentions)
 		{
-			$sql .= '('.$this->section_id.', "'.$section.'", '.$mentions.', now())';
-			$i++;
-			if ($i < count($this->sections))
+			$sql_args = array(
+				':law_id' => $this->section_id,
+				':section_number' => $section,
+				':mentions' => $mentions
+			);
+
+			$result = $statement->execute($sql_args);
+
+			if ($result === FALSE)
 			{
-				$sql .= ', ';
+				echo '<p>Failed: '.$sql.'</p>';
+				return FALSE;
 			}
 		}
 
-		// If we already have this record, then just refresh it with a requisite update.
-		$sql .= ' ON DUPLICATE KEY UPDATE mentions=mentions';
-
-		// Execute the query.
-		$result =& $this->db->exec($sql);
-		if (PEAR::isError($result))
-		{
-			echo '<p>Failed: '.$sql.'</p>';
-			return false;
-		}
-
-		return true;
+		return TRUE;
 
 	} // end store_references()
 
@@ -1312,26 +1983,35 @@ class Parser
 	function extract_history()
 	{
 
-		// If we have no history text, then we're done here.
+		/*
+		 * If we have no history text, then we're done here.
+		 */
 		if (!isset($this->history))
 		{
-			return false;
+			return FALSE;
 		}
 
-		// The list is separated by semicolons and spaces.
+		/*
+		 * The list is separated by semicolons and spaces.
+		 */
 		$updates = explode('; ', $this->history);
 
 		$i=0;
 		foreach ($updates as &$update)
 		{
 
-			// Match lines of the format "2010, c. 402, § 1-15.1"
+			/*
+			 * Match lines of the format "2010, c. 402, § 1-15.1"
+			 */
 			$pcre = '/([0-9]{4}), c\. ([0-9]+)(.*)/';
 
-			// First check for single matches.
+			/*
+			 * First check for single matches.
+			 */
 			$result = preg_match($pcre, $update, $matches);
 			if ( ($result !== FALSE) && ($result !== 0) )
 			{
+
 				if (!empty($matches[1]))
 				{
 					$final->{$i}->year = $matches[1];
@@ -1342,37 +2022,55 @@ class Parser
 				}
 				if (!empty($matches[3]))
 				{
-					$result = preg_match(SECTION_PCRE, $update, $matches[3]);
+					$result = preg_match(SECTION_REGEX, $update, $matches[3]);
 					if ( ($result !== FALSE) && ($result !== 0) )
 					{
 						$final->{$i}->section = $matches[0];
 					}
 				}
+
 			}
 
-			// Then check for multiple matches.
+			/*
+			 * Then check for multiple matches.
+			 */
 			else
 			{
-				// Match lines of the format "2009, cc. 401,, 518, 726, § 2.1-350.2"
+
+				/*
+				 * Match lines of the format "2009, cc. 401,, 518, 726, § 2.1-350.2"
+				 */
 				$pcre = '/([0-9]{2,4}), cc\. ([0-9,\s]+)/';
 				$result = preg_match_all($pcre, $update, $matches);
+
 				if ( ($result !== FALSE) && ($result !== 0) )
 				{
-					// Save the year.
+
+					/*
+					 * Save the year.
+					 */
 					$final->{$i}->year = $matches[1][0];
 
-					// Save the chapter listing. We eliminate any trailing slash and space to avoid
-					// saving empty array elements.
+					/*
+					 * Save the chapter listing. We eliminate any trailing slash and space to avoid
+					 * saving empty array elements.
+					 */
 					$chapters = rtrim(trim($matches[2][0]), ',');
 
-					// We explode on a comma, rather than a comma and a space, because of occasional
-					// typographical errors in histories.
+					/*
+					 * We explode on a comma, rather than a comma and a space, because of occasional
+					 * typographical errors in histories.
+					 */
 					$chapters = explode(',', $chapters);
 
-					// Step through each of these chapter references and trim down the leading
-					// spaces (a result of creating the array based on commas rather than commas and
-					// spaces) and eliminate any that are blank.
-					for ($j=0; $j<count($chapters); $j++)
+					/*
+					 * Step through each of these chapter references and trim down the leading
+					 * spaces (a result of creating the array based on commas rather than commas and
+					 * spaces) and eliminate any that are blank.
+					 */
+					$chapter_count = count($chapters);
+
+					for ($j=0; $j<$chapter_count; $j++)
 					{
 						$chapters[$j] = trim($chapters[$j]);
 						if (empty($chapters[$j]))
@@ -1380,21 +2078,73 @@ class Parser
 							unset($chapters[$j]);
 						}
 					}
+
 					$final->{$i}->chapter = $chapters;
 
-					// Locate any section identifier.
-					$result = preg_match(SECTION_PCRE, $update, $matches);
+					/*
+					 * Locate any section identifier.
+					 */
+					$result = preg_match(SECTION_REGEX, $update, $matches);
 					if ( ($result !== FALSE) && ($result !== 0) )
 					{
 						$final->{$i}->section = $matches[0];
 					}
+
 				}
+
 			}
+
 			$i++;
+
 		}
 
-		return $final;
+		if ( isset($final) && is_object($final) )
+		{
+			return $final;
+		}
+
 	} // end extract_history()
+
+	public function get_structure_labels()
+	{
+		$sql = 'SELECT label FROM structure GROUP BY label ' .
+			'ORDER BY depth ASC';
+		$statement = $this->db->prepare($sql);
+		$result = $statement->execute();
+
+
+		$structure_labels = array();
+
+		if ( ($result === FALSE) )
+		{
+			echo '<p>Query failed: '.$sql.'</p>';
+			var_dump($sql_args);
+			return FALSE;
+		}
+		else
+		{
+			if($statement->rowCount() == 0)
+			{
+				/*
+				 * We may not have a structure yet.  That's ok.
+				 */
+				return null;
+			}
+			else{
+				while($row = $statement->fetch(PDO::FETCH_ASSOC))
+				{
+					$structure_labels[] = $row['label'];
+				}
+			}
+		}
+
+		/*
+		 * Our lowest level, not represented in the structure table, is 'section'
+		 */
+		$structure_labels[] = 'Section';
+
+		return $structure_labels;
+	} // end get_structure_labels()
 
 	/*
 	 * We have manually entered titles, so we need a way
@@ -1510,7 +2260,6 @@ class Parser
 		}
 
 	}
-
 	public function generate_title_spreadsheet()
 	{
 		/*
@@ -1654,6 +2403,5 @@ class Parser
 		// We abstract this so we can change our storage medium later.
 		return json_decode(file_get_contents($filename));
 	}
-
 
 } // end Parser class
