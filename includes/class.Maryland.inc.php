@@ -2363,23 +2363,27 @@ class Parser
 
 			if ($result === FALSE)
 			{
-				echo '<p>Query failed: '.$sql.'</p>';
+				echo '<p>Query failed: '.$update_query.'</p>';
 				var_dump($sql_args);
 			}
 		}
 
+		$law_query = 'UPDATE laws SET catch_line = :catch_line ' .
+			'WHERE section = :section';
+		$law_statement = $this->db->prepare($law_query);
+
 		foreach($titles->laws as $title)
 		{
+			$law_args = array(
+				':catch_line' => $title->catch_line,
+				':section' => $title->section
+			);
+			$law_result = $law_statement->execute($law_args);
 
-			$update_query = 'UPDATE laws SET catch_line = "' .
-				$this->db->escape($title->catch_line) . '" ' .
-				'WHERE section = "' .
-				$this->db->escape($title->section) . '" ';
-
-			$result =& $this->db->exec($update_query);
-			if ( PEAR::isError($result) )
+			if ($law_result === FALSE)
 			{
-				echo '<p>Query failed: '.$update_query.'</p>';
+				echo '<p>Query failed: '.$law_query.'</p>';
+				var_dump($law_args);
 			}
 		}
 
@@ -2407,14 +2411,16 @@ class Parser
 		fclose($fp);
 	}
 
-	public function get_structures($parent_id)
+	public function get_structures($parent_id = null)
 	{
 		$query = 'SELECT id, name, identifier, label, structure_unified.* ';
 		$query .= 'FROM structure LEFT JOIN structure_unified ';
 		$query .= 'ON structure.id = structure_unified.s1_id ';
+		$sql_args = null;
 		if(isset($parent_id))
 		{
-			$query .= 'WHERE parent_id = ' . $parent_id . ' ';
+			$query .= 'WHERE parent_id = :parent_id ';
+			$sql_args = array(':parent_id' => $parent_id);
 		}
 		else
 		{
@@ -2422,13 +2428,19 @@ class Parser
 		}
 		$query .= 'ORDER BY order_by, identifier';
 
-		$result =& $this->db->query($query);
+		$statement = $this->db->prepare($query);
 
-		if(!PEAR::isError($result) && $result->numRows() > 0)
+		$result = $statement->execute($sql_args);
+
+		if ( ($result === FALSE) || ($statement->rowCount() == 0) )
+		{
+			echo '<p>Query failed: '.$update_query.'</p>';
+			var_dump($sql_args);
+		}
+		else
 		{
 			$structures = array();
-
-			while($structure = $result->fetchRow(MDB2_FETCHMODE_ASSOC))
+			while($structure = $statement->fetch(PDO::FETCH_OBJ))
 			{
 				$url_parts = array();
 				foreach ($structure as $field => $value)
@@ -2458,13 +2470,22 @@ class Parser
 		$query .= 'WHERE structure_id = ' . $parent_id . ' ';
 		$query .= 'ORDER BY order_by, section';
 
-		$result =& $this->db->query($query);
 
-		if(!PEAR::isError($result) && $result->numRows() > 0)
+		$statement = $this->db->prepare($update_query);
+		$result = $statement->execute($sql_args);
+
+		if ($result === FALSE)
+		{
+			echo '<p>Query failed: '.$sql.'</p>';
+			var_dump($sql_args);
+		}
+
+
+		if ( ($result === FALSE) || ($statement->rowCount() == 0) )
 		{
 			$laws = array();
+			while($law = $statement->fetch(PDO::FETCH_OBJ))
 
-			while($law = $result->fetchRow(MDB2_FETCHMODE_ASSOC))
 			{
 // 				$url_parts = array();
 // 				foreach ($law as $field => $value)
