@@ -2159,13 +2159,16 @@ class Parser
 		// The only unique identifier currently for a structure or law is its complete path.
 		$structure_query = 'SELECT * FROM structure_unified ';
 
-		$result =& $this->db->query($structure_query);
-		if ( (PEAR::isError($result)) || ($result->numRows() < 1) )
+		$statement = $this->db->prepare($structure_query);
+		$result = $statement->execute();
+
+		if ( ($result === FALSE) || ($statement->rowCount() == 0) )
 		{
-			echo '<p>Query failed: '.$structure_query.'</p>';
+			echo '<p>Query failed: '.$sql.'</p>';
+			return FALSE;
 		}
 
-		while($structure = $result->fetchRow(MDB2_FETCHMODE_OBJECT))
+		while($structure = $statement->fetch(PDO::FETCH_OBJ))
 		{
 			$row = array();
 			foreach(get_object_vars($structure) as $key => $value)
@@ -2193,19 +2196,19 @@ class Parser
 		}
 
 		$laws_query = 'SELECT section, catch_line FROM laws ';
-		$result =& $this->db->query($laws_query);
-		if ( (PEAR::isError($result)) || ($result->numRows() < 1) )
+		$laws_statement = $this->db->prepare($laws_query);
+		$laws_result = $laws_statement->execute();
+
+		if ( ($laws_result === FALSE) || ($laws_statement->rowCount() == 0) )
 		{
-			echo '<p>Query failed: '.$structure_query.'</p>';
+			echo '<p>Query failed: '.$laws_query.'</p>';
+			return FALSE;
 		}
 
-		while($law = $result->fetchRow(MDB2_FETCHMODE_OBJECT))
+		while($law = $laws_statement->fetch(PDO::FETCH_OBJ))
 		{
 			$storage['laws'][] = $law;
 		}
-
-
-
 
 		$this->export_data($storage, DATA_DIRECTORY . $this->title_filename);
 	}
@@ -2217,8 +2220,10 @@ class Parser
 		foreach($titles->structures as $title)
 		{
 
-			$update_query = 'UPDATE structure_unified SET s1_name = "' .
-				$this->db->escape($title->s1_name) . '"';
+			$update_query = 'UPDATE structure_unified SET s1_name = :name ';
+			$sql_args = array(
+				':name' => $title->s1_name
+			);
 			unset($title->s1_name);
 
 			$where = array();
@@ -2228,7 +2233,8 @@ class Parser
 			{
 				if($value)
 				{
-					$where[] = $key . ' = "' .$this->db->escape($value) . '"';
+					$where[] = $key . ' = :' . $key;
+					$sql_args[':' . $key] = $value;
 				}
 				else
 				{
@@ -2237,10 +2243,13 @@ class Parser
 			}
 			$update_query .= ' WHERE ' . join(' AND ', $where);
 
-			$result =& $this->db->exec($update_query);
-			if ( PEAR::isError($result) )
+			$statement = $this->db->prepare($update_query);
+			$result = $statement->execute($sql_args);
+
+			if ($result === FALSE)
 			{
-				echo '<p>Query failed: '.$update_query.'</p>';
+				echo '<p>Query failed: '.$sql.'</p>';
+				var_dump($sql_args);
 			}
 		}
 
