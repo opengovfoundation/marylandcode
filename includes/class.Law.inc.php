@@ -117,7 +117,14 @@ class Law
 					AND edition_id = :edition_id';
 			$sql_args[':section_number'] = $this->section_number;
 
-			$sql_args[':edition_id'] = $this->edition_id or EDITION_ID;
+			if(isset($this->edition_id))
+			{
+				$sql_args[':edition_id'] = $this->edition_id;
+			}
+			else
+			{
+				$sql_args[':edition_id'] = EDITION_ID;
+			}
 		}
 
 		$statement = $db->prepare($sql);
@@ -339,8 +346,10 @@ class Law
 
 			if (method_exists($state, 'get_amendment_attempts'))
 			{
-				$state->get_amendment_attempts();
-				$this->amendment_attempts = $state->bills;
+				if ($state->get_amendment_attempts() !== FALSE)
+				{
+					$this->amendment_attempts = $state->bills;
+				}
 			}
 
 		}
@@ -352,10 +361,27 @@ class Law
 		 */
 		if ($this->config->get_court_decisions == TRUE)
 		{
-			if (method_exists($state, 'get_court_decisions'))
+		
+			/*
+			 * If we already have this data cached as metadata.
+			 */
+			if (isset($this->metadata->court_decisions))
 			{
-				$state->get_court_decisions();
-				$this->court_decisions = $state->decisions;
+				$this->court_decisions = unserialize($this->metadata->court_decisions);
+			}
+			
+			/*
+			 * If we do not have this data cached.
+			 */
+			else
+			{
+				if (method_exists($state, 'get_court_decisions'))
+				{
+					if ($state->get_court_decisions() !== FALSE)
+					{
+						$this->court_decisions = $state->decisions;
+					}
+				}
 			}
 		}
 
@@ -823,7 +849,65 @@ class Law
 			$rotated->{stripslashes($field->meta_key)} = $field->meta_value;
 
 		}
+		
 		return $rotated;
+		
+	}
+	
+	/*
+	 * Store a single piece of metadata for a single law
+	 *
+	 * Must receive $this->section_id and $this->metadata. The latter is an object that that
+	 * contains a series of $key => $value pairs (at least one) that are to be stored for the law
+	 * in question.
+	 *
+	 * This method exists within Law, as opposed to within the importer, because metadata can be
+	 * stored at any time. For example, a list of court rulings affecting a given law wouldn't be
+	 * imported only when the parser is run, because a court could issue a new ruling again at any
+	 * time. Instead, that data is imported periodically, incrementally, via store_metadata.
+	 *
+	 * @param	string	$this->section_id	The ID of the law.
+	 * @param	object	$this->metadata		Key/value pairs to be stored.
+	 * @return TRUE or FALSE
+	 */
+	function store_metadata()
+	{
+		
+		/*
+		 * We're going to need access to the database connection throughout this class.
+		 */
+		global $db;
+		
+		if ( !isset($this->section_id) || !is_object($this->metadata) )
+		{
+			return FALSE;
+		}
+		
+		$sql = 'INSERT INTO laws_meta
+				SET law_id = :law_id,
+				meta_key = :meta_key,
+				meta_value = :meta_value,
+				date_created = now()';
+		$statement = $db->prepare($sql);
+		
+		foreach ($this->metadata as $field)
+		{
+			$sql_args = array(
+				':law_id' => $this->section_id,
+				':meta_key' => $field->key,
+				':meta_value' => $field->value
+			);
+			$result = $statement->execute($sql_args);
+
+			if ($result === FALSE)
+			{
+				return FALSE;
+			}
+			
+		}
+		
+		return TRUE;
+		
 	}
 
 
