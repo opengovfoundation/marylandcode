@@ -525,7 +525,9 @@ class ParserController
 
 		if(method_exists($parser, 'pre_parse'))
 		{
+			$this->logger->message('Begin pre-parse.', 3);
 			$parser->pre_parse();
+			$this->logger->message('Done pre-parse.', 3);
 		}
 
 		/*
@@ -568,7 +570,7 @@ class ParserController
 		if ($result === FALSE)
 		{
 			$this->logger->message('Error in SQL: ' . $sql, 10);
-			var_dump($sql_args);
+			var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
 			die();
 		}
 
@@ -591,7 +593,7 @@ class ParserController
 		if ($result === FALSE)
 		{
 			$this->logger->message('Error in SQL: ' . $sql, 10);
-			var_dump($sql_args);
+			var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
 			die();
 		}
 
@@ -646,7 +648,7 @@ class ParserController
 					if ($result === FALSE)
 					{
 						$this->logger->message('Error in SQL: ' . $sql, 10);
-						var_dump($sql_args);
+						var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
 						die();
 					}
 
@@ -669,6 +671,7 @@ class ParserController
 		if ($result === FALSE)
 		{
 			$this->logger->message('Error in SQL: ' . $sql, 10);
+			var_dump($statement->errorInfo(), $statement->errorCode());
 			die();
 		}
 
@@ -747,7 +750,7 @@ class ParserController
 		if ($result === FALSE)
 		{
 			$this->logger->message('Error in SQL: ' . $sql, 10);
-			var_dump($sql_args);
+			var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
 			die();
 		}
 
