@@ -503,57 +503,49 @@ class ParserController
 		 * Check for obvious errors (files not present, etc);
 		 */
 
-		try
+		$parser = new Parser(
+			array(
+				/*
+				 * Tell the parser what the working directory
+				 * should be for the data files to import.
+				 */
+				'directory' => IMPORT_DATA_DIR,
+
+				/*
+				 * Set the database
+				 */
+				'db' => $this->db,
+
+				/*
+				 * Set the edition
+				 */
+				 'edition_id' => $this->edition_id
+			)
+		);
+
+		if(method_exists($parser, 'pre_parse'))
 		{
-
-			$parser = new Parser(
-				array(
-					/*
-					 * Tell the parser what the working directory
-					 * should be for the data files to import.
-					 */
-					'directory' => IMPORT_DATA_DIR,
-
-					/*
-					 * Set the database
-					 */
-					'db' => $this->db,
-
-					/*
-					 * Set the edition
-					 */
-					 'edition_id' => $this->edition_id
-				)
-			);
-
-			if(method_exists($parser, 'pre_parse'))
-			{
-				$parser->pre_parse();
-			}
-
-			/*
-			 * Iterate through the files.
-			 */
-			$this->logger->message('Parsing data files', 3);
-
-			while ($section = $parser->iterate())
-			{
-				$parser->section = $section;
-				$parser->parse();
-				$parser->store();
-			}
-
-			if(method_exists($parser, 'post_parse'))
-			{
-				$parser->post_parse();
-			}
-
+			$parser->pre_parse();
 		}
-		catch(Exception $e)
+
+		/*
+		 * Iterate through the files.
+		 */
+		$this->logger->message('Parsing data files', 3);
+
+		while ($section = $parser->iterate())
 		{
-			$this->logger->message('ERROR: ' . $e->getMessage(), 10);
-			return false;
+			$parser->section = $section;
+			$parser->parse();
+			$parser->store();
 		}
+
+		if(method_exists($parser, 'post_parse'))
+		{
+			$parser->post_parse();
+		}
+
+
 
 		/*
 		 * Crosslink laws_references. This needs to be done after the time of the creation of these
