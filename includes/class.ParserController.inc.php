@@ -565,6 +565,14 @@ class ParserController
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
 
+		if ($result === FALSE)
+		{
+			$this->logger->message('Error in SQL: ' . $sql, 10);
+			var_dump($sql_args);
+			die();
+		}
+
+
 
 		/*
 		 * Any unresolved target section numbers are spurious (strings that happen to match our
@@ -579,6 +587,13 @@ class ParserController
 		);
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
+
+		if ($result === FALSE)
+		{
+			$this->logger->message('Error in SQL: ' . $sql, 10);
+			var_dump($sql_args);
+			die();
+		}
 
 
 		/*
@@ -628,6 +643,14 @@ class ParserController
 					);
 					$result = $statement->execute($sql_args);
 
+					if ($result === FALSE)
+					{
+						$this->logger->message('Error in SQL: ' . $sql, 10);
+						var_dump($sql_args);
+						die();
+					}
+
+
 				}
 
 			}
@@ -642,6 +665,12 @@ class ParserController
 		$sql = 'DROP VIEW IF EXISTS structure_unified';
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute();
+
+		if ($result === FALSE)
+		{
+			$this->logger->message('Error in SQL: ' . $sql, 10);
+			die();
+		}
 
 		/*
 		 * The depth of the structure is the number of entries in the structure labels,
@@ -714,6 +743,13 @@ class ParserController
 		 */
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute();
+
+		if ($result === FALSE)
+		{
+			$this->logger->message('Error in SQL: ' . $sql, 10);
+			var_dump($sql_args);
+			die();
+		}
 
 		$this->logger->message('Done', 5);
 
