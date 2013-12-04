@@ -252,7 +252,7 @@ class Parser
 	public $db;
 	public $edition_id;
 	public $structure_labels;
-	public $title_filename = '/titles.json';
+	public $title_filename = 'titles.json';
 
 	public function __construct($options)
 	{
@@ -296,7 +296,8 @@ class Parser
 				$filepath = $this->directory . $filename;
 				if (is_file($filepath) &&
 					is_readable($filepath) &&
-					substr($filename, 0, 1) !== '.')
+					substr($filename, 0, 1) !== '.' &&
+					$filename != $this->title_filename)
 				{
 					$this->files[] = $filepath;
 				}
@@ -823,7 +824,7 @@ class Parser
 	public function pre_parse()
 	{
 		// Check to see if the titles file exists
-		if(!file_exists(DATA_DIRECTORY . $this->title_filename))
+		if(!file_exists(DATA_DIRECTORY . '/' . $this->title_filename))
 		{
 			// TODO: replace this with a logger.
 			print 'No title data to import.';
@@ -2325,12 +2326,12 @@ class Parser
 			$storage['laws'][] = $law;
 		}
 
-		$this->export_data($storage, DATA_DIRECTORY . $this->title_filename);
+		$this->export_data($storage, DATA_DIRECTORY . '/' . $this->title_filename);
 	}
 
 	public function import_titles()
 	{
-		$titles = $this->import_data(DATA_DIRECTORY . $this->title_filename);
+		$titles = $this->import_data(DATA_DIRECTORY . '/' . $this->title_filename);
 
 		foreach($titles->structures as $title)
 		{
