@@ -525,8 +525,14 @@ class Parser
 			 */
 			foreach ($section as $subsection)
 			{
-
-				$this->code->section->{$this->i}->text = trim((string) $subsection);
+				if(isset($subsection->table))
+				{
+					$this->code->section->{$this->i}->text = $subsection->asXML();
+				}
+				else
+				{
+					$this->code->section->{$this->i}->text = trim((string) $subsection);
+				}
 
 				/*
 				 * If this subsection has text, save it. Some subsections will not have text, such
