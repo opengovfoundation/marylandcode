@@ -503,51 +503,57 @@ class ParserController
 		 * Check for obvious errors (files not present, etc);
 		 */
 
-		$parser = new Parser(
-			array(
-				/*
-				 * Tell the parser what the working directory
-				 * should be for the data files to import.
-				 */
-				'directory' => IMPORT_DATA_DIR,
-
-				/*
-				 * Set the database
-				 */
-				'db' => $this->db,
-
-				/*
-				 * Set the edition
-				 */
-				 'edition_id' => $this->edition_id
-			)
-		);
-
-		if(method_exists($parser, 'pre_parse'))
+		try
 		{
-			$this->logger->message('Begin pre-parse.', 3);
-			$parser->pre_parse();
-			$this->logger->message('Done pre-parse.', 3);
+
+			$parser = new Parser(
+				array(
+					/*
+					 * Tell the parser what the working directory
+					 * should be for the data files to import.
+					 */
+					'directory' => IMPORT_DATA_DIR,
+
+					/*
+					 * Set the database
+					 */
+					'db' => $this->db,
+
+					/*
+					 * Set the edition
+					 */
+					 'edition_id' => $this->edition_id
+				)
+			);
+
+			if(method_exists($parser, 'pre_parse'))
+			{
+				$parser->pre_parse();
+			}
+
+			/*
+			 * Iterate through the files.
+			 */
+			$this->logger->message('Parsing data files', 3);
+
+			while ($section = $parser->iterate())
+			{
+				$parser->section = $section;
+				$parser->parse();
+				$parser->store();
+			}
+
+			if(method_exists($parser, 'post_parse'))
+			{
+				$parser->post_parse();
+			}
+
 		}
-
-		/*
-		 * Iterate through the files.
-		 */
-		$this->logger->message('Parsing data files', 3);
-
-		while ($section = $parser->iterate())
+		catch(Exception $e)
 		{
-			$parser->section = $section;
-			$parser->parse();
-			$parser->store();
+			$this->logger->message('ERROR: ' . $e->getMessage(), 10);
+			return false;
 		}
-
-		if(method_exists($parser, 'post_parse'))
-		{
-			$parser->post_parse();
-		}
-
-
 
 		/*
 		 * Crosslink laws_references. This needs to be done after the time of the creation of these
@@ -567,14 +573,6 @@ class ParserController
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
 
-		if ($result === FALSE)
-		{
-			$this->logger->message('Error in SQL: ' . $sql, 10);
-			var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
-			die();
-		}
-
-
 
 		/*
 		 * Any unresolved target section numbers are spurious (strings that happen to match our
@@ -589,13 +587,6 @@ class ParserController
 		);
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute($sql_args);
-
-		if ($result === FALSE)
-		{
-			$this->logger->message('Error in SQL: ' . $sql, 10);
-			var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
-			die();
-		}
 
 
 		/*
@@ -645,14 +636,6 @@ class ParserController
 					);
 					$result = $statement->execute($sql_args);
 
-					if ($result === FALSE)
-					{
-						$this->logger->message('Error in SQL: ' . $sql, 10);
-						var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
-						die();
-					}
-
-
 				}
 
 			}
@@ -667,13 +650,6 @@ class ParserController
 		$sql = 'DROP VIEW IF EXISTS structure_unified';
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute();
-
-		if ($result === FALSE)
-		{
-			$this->logger->message('Error in SQL: ' . $sql, 10);
-			var_dump($statement->errorInfo(), $statement->errorCode());
-			die();
-		}
 
 		/*
 		 * The depth of the structure is the number of entries in the structure labels,
@@ -746,13 +722,6 @@ class ParserController
 		 */
 		$statement = $this->db->prepare($sql);
 		$result = $statement->execute();
-
-		if ($result === FALSE)
-		{
-			$this->logger->message('Error in SQL: ' . $sql, 10);
-			var_dump($sql_args, $statement->errorInfo(), $statement->errorCode());
-			die();
-		}
 
 		$this->logger->message('Done', 5);
 
