@@ -503,9 +503,6 @@ class ParserController
 		 * Check for obvious errors (files not present, etc);
 		 */
 
-		try
-		{
-
 			$parser = new Parser(
 				array(
 					/*
@@ -548,12 +545,7 @@ class ParserController
 				$parser->post_parse();
 			}
 
-		}
-		catch(Exception $e)
-		{
-			$this->logger->message('ERROR: ' . $e->getMessage(), 10);
-			return false;
-		}
+
 
 		/*
 		 * Crosslink laws_references. This needs to be done after the time of the creation of these

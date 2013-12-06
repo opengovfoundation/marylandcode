@@ -100,6 +100,7 @@ elseif ($_POST['action'] == 'parse')
 	{
 
 		echo 'Environment test succeeded<br />';
+		$parser->write_api_key();
 
 		if ($parser->populate_db() !== FALSE)
 		{
@@ -126,13 +127,11 @@ elseif ($_POST['action'] == 'parse')
 				{
 
 					$parser->build_permalinks();
-					$parser->write_api_key();
-					$parser->export();
-					$parser->generate_sitemap();
 					$parser->index_laws();
+					$parser->generate_sitemap();
 					$parser->structural_stats_generate();
 					$parser->prune_views();
-
+					$parser->export();
 				}
 
 			}
