@@ -80,6 +80,7 @@ class ParserController
 		 * Let this script run for as long as is necessary to finish.
 		 */
 		set_time_limit(0);
+		ignore_user_abort(true);
 
 		/*
 		 * Give PHP lots of RAM.
@@ -535,9 +536,12 @@ class ParserController
 
 			while ($section = $parser->iterate())
 			{
+				$this->logger->message('Parsing ' . $parser->files[$parser->file], 3);
 				$parser->section = $section;
 				$parser->parse();
+				$this->logger->message('Storing... ', 3);
 				$parser->store();
+				$this->logger->message('Done.', 3);
 			}
 
 			if(method_exists($parser, 'post_parse'))
