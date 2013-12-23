@@ -1,4 +1,4 @@
-php_flag display_errors off
+DirectoryIndex index.php
 
 # Specify our error pages.
 ErrorDocument 404 /404.php
@@ -18,12 +18,16 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{DOCUMENT_ROOT}/downloads/current/code-json%{REQUEST_URI} -f
 RewriteRule ^(.*\.json)$ /downloads/current/code-json/$1 [L]
 
-#Requests for the faq and infographic pages
-RewriteRule ^faq/$ /faq.php [QSA]
-RewriteRule ^infographic/$ /infographic.php [QSA]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{DOCUMENT_ROOT}/downloads/current/code-xml%{REQUEST_URI} -f
+RewriteRule ^(.*\.xml)$ /downloads/current/code-xml/$1 [L]
 
-# Requests for the API key registration page.
-RewriteRule ^api-key/$ /api-key.php [QSA]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/(.*?\.json)$ /downloads/$1/code-json/$2 [L]
+
+RewriteRule ^index\.php$ - [L]
 
 RewriteRule ^admin/ /index.php [L]
 RewriteRule ^downloads/$ /index.php [L]
