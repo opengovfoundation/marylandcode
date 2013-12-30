@@ -87,9 +87,9 @@ $content->set('browser_title', $law->catch_line . ' (' . SECTION_SYMBOL . ' '
 $content->set('page_title', '<h1>' . SECTION_SYMBOL . '&nbsp;' . $law->section_number . '</h1>');
 $content->append('page_title', '<h2>' . $law->catch_line . '</h2>');
 $content->append('page_title',
-	'<p id="suggest-title" class="suggest-title"><span
+	'<p id="suggest-title" class="suggest-title"><a href="#disqus_thread"><span
 	class="suggest-text">Suggest a better law title &nbsp;</span><span
-	id="suggest-arrow" class="suggest-arrow">&nbsp;&darr;</span><input
+	id="suggest-arrow" class="suggest-arrow">&nbsp;&darr;</span></a><input
 	type="hidden" id="disqus-loc" value="law"/></p>');
 
 /*
