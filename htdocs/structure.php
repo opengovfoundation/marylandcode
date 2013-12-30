@@ -345,7 +345,7 @@ unset($body);
 $sidebar = '
 <section>
 <h1>Suggest Human-Friendly Section Titles</h1>
-<p>Each section of the Maryland Code needs a human-friendly title.  And we\'re looking for friendly humans like you to help create them.  So click on each section to the left, read the law, and click the button at the top of each page to suggest a human-friendly section title.  Thank you!</p>
+<p>Each section of the Maryland Code needs a human-friendly title.  And we\'re looking for friendly humans like you to help create them.  So click on a section above, read the law, and enter a comment below the law to suggest a human-friendly section title.  Thank you!</p>
 </section>
 <section>
 <h1>Tell Your Friends</h1>
