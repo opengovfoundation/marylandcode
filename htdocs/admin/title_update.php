@@ -24,15 +24,12 @@ class MarylandTitleParser
 
 	public function parse()
 	{
-		list($structures, $sections) = $this->get_titles($this->filename);
-
-		$this->update_structures($structures);
-		$this->update_sections($sections);
+		$this->update_sections();
 	}
 
-	public function get_titles($filename)
+	public function update_sections()
 	{
-		$fh = fopen($filename, 'r');
+		$fh = fopen($this->filename, 'r');
 		if(!$fh) {
 			throw new Exception('Couldn\'t open file.');
 		}
@@ -40,7 +37,7 @@ class MarylandTitleParser
 		// Read our title line
 		$headings = fgetcsv($fh);
 
-		$titles = array();
+		$statement = $this->database->prepare('UPDATE laws SET catch_line = :catch_line WHERE section = :section');
 
 		while(($row = fgetcsv($fh)) !== FALSE)
 		{
@@ -50,11 +47,39 @@ class MarylandTitleParser
 			// Replace non-ascii characters in title.
 			$row[2] = preg_replace('/[^(\x20-\x7F)]*/','', $row[2]);
 
-			// Map our headings to the row.  Slice out any junk from the spreadsheet.
-			$titles[] = array_combine($headings, array_slice($row, 0, 3));
-		}
+			print 'Updating ' . $row[0] . ' -> "' .
+				$row[2] . "\"\n";
 
-		return array(array(), $titles);
+			$result = $statement->execute(array(
+				':catch_line' => $row[2],
+				':section' => $row[0]));
+
+			if($result === FALSE)
+			{
+
+				$error = array();
+				if ( $statement->errorCode() )
+				{
+					$error['Statement Code'] = $statement->errorCode();
+				}
+				if ( $statement->errorInfo() )
+				{
+					$error['Statement Info'] = $statement->errorInfo();
+				}
+				if ( $this->database->errorCode() )
+				{
+					$error['Database Code'] = $this->database->errorCode();
+				}
+				if ( $this->database->errorInfo() )
+				{
+					$error['Database Info'] = $this->database->errorInfo();
+				}
+				$error['Query String'] = $statement->queryString;
+
+				throw new Exception( print_r($error, TRUE) );
+			}
+
+		}
 	}
 
 /* The XML we're getting from Word is awful.  Droping all of this and using CSV. */
@@ -185,59 +210,6 @@ class MarylandTitleParser
 // 		return array($structures, $sections);
 // 	}
 
-	public function update_structures($structures)
-	{
-		foreach($structures as $structure)
-		{
-			$this->update_structure($structure);
-		}
-	}
-
-	public function update_structure($structure)
-	{
-
-	}
-
-	public function update_sections($sections)
-	{
-		$statement = $this->database->prepare('UPDATE laws SET catch_line = :catch_line WHERE section = :section');
-
-		foreach($sections as $section)
-		{
-			print 'Updating ' . $section['Input.Identifier'] . ' -> "' .
-				$section['Answer.summary'] . "\"\n";
-
-			$result = $statement->execute(array(
-				':catch_line' => $section['Answer.summary'],
-				':section' => $section['Input.Identifier']));
-
-			if($result === FALSE)
-			{
-
-				$error = array();
-				if ( $statement->errorCode() )
-				{
-					$error['Statement Code'] = $statement->errorCode();
-				}
-				if ( $statement->errorInfo() )
-				{
-					$error['Statement Info'] = $statement->errorInfo();
-				}
-				if ( $this->database->errorCode() )
-				{
-					$error['Database Code'] = $this->database->errorCode();
-				}
-				if ( $this->database->errorInfo() )
-				{
-					$error['Database Info'] = $this->database->errorInfo();
-				}
-				$error['Query String'] = $statement->queryString;
-
-				throw new Exception( print_r($error, TRUE) );
-			}
-
-		}
-	}
 }
 
 
