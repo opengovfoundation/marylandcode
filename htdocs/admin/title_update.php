@@ -25,7 +25,7 @@ class MarylandTitleParser
 	public function parse()
 	{
 		list($structures, $sections) = $this->get_titles($this->filename);
-		var_dump($structures); var_dump($sections);
+
 		$this->update_structures($structures);
 		$this->update_sections($sections);
 	}
@@ -46,6 +46,9 @@ class MarylandTitleParser
 		{
 			// Trim trailing space and periods.
 			$row[0] = trim($row[0], " \t\n\r\0\x0B.");
+
+			// Replace non-ascii characters in title.
+			$row[2] = preg_replace('/[^(\x20-\x7F)]*/','', $row[2]);
 
 			// Map our headings to the row.  Slice out any junk from the spreadsheet.
 			$titles[] = array_combine($headings, array_slice($row, 0, 3));
@@ -212,11 +215,11 @@ class MarylandTitleParser
 			{
 
 				$error = array();
-				if ( $this->errorCode() )
+				if ( $statement->errorCode() )
 				{
 					$error['Statement Code'] = $statement->errorCode();
 				}
-				if ( $this->errorInfo() )
+				if ( $statement->errorInfo() )
 				{
 					$error['Statement Info'] = $statement->errorInfo();
 				}
@@ -228,6 +231,7 @@ class MarylandTitleParser
 				{
 					$error['Database Info'] = $this->database->errorInfo();
 				}
+				$error['Query String'] = $statement->queryString;
 
 				throw new Exception( print_r($error, TRUE) );
 			}
