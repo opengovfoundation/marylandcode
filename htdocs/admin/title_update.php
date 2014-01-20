@@ -10,7 +10,7 @@ require_once INCLUDE_PATH . 'functions.inc.php';
 
 class MarylandTitleParser
 {
-	public $filename = './titles.csv';
+	public $filename = './data/titles.csv';
 	public $title_path = 'Table';
 	public $database;
 
